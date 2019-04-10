@@ -1,0 +1,74 @@
+{
+  "id": 1293249865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86615,13.51834,44.86615,13.51834",
+    "geom:latitude":13.51834,
+    "geom:longitude":44.86615,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Al Milah",
+    "gn:country_code":"YE",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78813,
+    "gn:latitude":13.51834,
+    "gn:longitude":44.86615,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mil\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mil\u0101\u1e29"
+    ],
+    "name:und_x_variant":[
+        "Al Mall\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78813
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5cf370310bc16b93d310599e4de3182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1293249865,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293249865,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Milah",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86615,
+    13.51834,
+    44.86615,
+    13.51834
+],
+  "geometry": {"coordinates":[44.86615,13.51834],"type":"Point"}
+}

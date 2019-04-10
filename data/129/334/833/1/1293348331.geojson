@@ -1,0 +1,75 @@
+{
+  "id": 1293348331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39141,14.08073,44.39141,14.08073",
+    "geom:latitude":14.08073,
+    "geom:longitude":44.39141,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Jurf al Mawlid",
+    "gn:country_code":"YE",
+    "gn:dem":2628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359613,
+    "gn:latitude":14.08073,
+    "gn:longitude":44.39141,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Jurf al Mawlid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0641 \u0627\u0644\u0645\u0648\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jarf al Miwallad",
+        "Jurf al Mawlid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359613
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dac0a63b35671e693c8b2536b4784ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1293348331,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293348331,
+    "wof:lastmodified":1537715769,
+    "wof:name":"Jurf al Mawlid",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39141,
+    14.08073,
+    44.39141,
+    14.08073
+],
+  "geometry": {"coordinates":[44.39141,14.08073],"type":"Point"}
+}

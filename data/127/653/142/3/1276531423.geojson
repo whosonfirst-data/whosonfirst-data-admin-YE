@@ -1,0 +1,74 @@
+{
+  "id": 1276531423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08649,15.7829,45.08649,15.7829",
+    "geom:latitude":15.7829,
+    "geom:longitude":45.08649,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Sha'b at Tulayli",
+    "gn:country_code":"YE",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976191,
+    "gn:latitude":15.7829,
+    "gn:longitude":45.08649,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b a\u0163 \u0162ulayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0637\u0644\u064a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b a\u0163 \u0162ulayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976191
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c121c3e6f1ec8cdf72453439b94cf0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925257,
+            "locality_id":1276531423,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276531423,
+    "wof:lastmodified":1537716148,
+    "wof:name":"Sha'b at Tulayli",
+    "wof:parent_id":1091925257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08649000000001,
+    15.7829,
+    45.08649000000001,
+    15.7829
+],
+  "geometry": {"coordinates":[45.08649000000001,15.7829],"type":"Point"}
+}

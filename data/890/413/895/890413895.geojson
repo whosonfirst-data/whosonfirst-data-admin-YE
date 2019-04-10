@@ -1,0 +1,68 @@
+{
+  "id": 890413895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.31638,15.02062,50.31638,15.02062",
+    "geom:latitude":15.02062,
+    "geom:longitude":50.31638,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0634\u0631\u064a\u0629"
+    ],
+    "qs:name":"Al Qushr\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85681025,
+        85632499,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794098,
+        "qs:id":700527
+    },
+    "wof:country":"YE",
+    "wof:created":1469051019,
+    "wof:geomhash":"16899dbb6f9b453f13fd8ff78cbdab75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "neighbourhood_id":890413895,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":890413895,
+    "wof:lastmodified":1505343416,
+    "wof:name":"Al Qushr\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.31638,
+    15.02062,
+    50.31638,
+    15.02062
+],
+  "geometry": {"coordinates":[50.31638,15.02062],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343654437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94189,14.56368,45.94189,14.56368",
+    "geom:latitude":14.56368,
+    "geom:longitude":45.94189,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Musarramiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231558,
+    "gn:latitude":14.56368,
+    "gn:longitude":45.94189,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Al Mu\u015farram\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0631\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u015farram\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231558
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b96f3b413e9c5d04285ea30ea3b2dd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1343654437,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343654437,
+    "wof:lastmodified":1537716358,
+    "wof:name":"Al Musarramiyah",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94189,
+    14.56368,
+    45.94189,
+    14.56368
+],
+  "geometry": {"coordinates":[45.94189,14.56368],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276451999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17136,13.4384,46.17136,13.4384",
+    "geom:latitude":13.4384,
+    "geom:longitude":46.17136,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1211.0",
+    "gn:asciiname":"Al Khabr",
+    "gn:country_code":"YE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79182,
+    "gn:latitude":13.4384,
+    "gn:longitude":46.17136,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Al Khabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28abbar",
+        "Al Khabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79182
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17586dccb39113c99f061281dc7cf373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918553,
+            "locality_id":1276451999,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1276451999,
+    "wof:lastmodified":1537715290,
+    "wof:name":"Al Khabr",
+    "wof:parent_id":1091918553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17136,
+    13.4384,
+    46.17136,
+    13.4384
+],
+  "geometry": {"coordinates":[46.17136,13.4384],"type":"Point"}
+}

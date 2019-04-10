@@ -1,0 +1,74 @@
+{
+  "id": 1276570965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06083,14.72959,43.06083,14.72959",
+    "geom:latitude":14.72959,
+    "geom:longitude":43.06083,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1814.0",
+    "gn:asciiname":"Al Qatif",
+    "gn:country_code":"YE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058352,
+    "gn:latitude":14.72959,
+    "gn:longitude":43.06083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u0163\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u0163\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058352
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e131ee6de91673360888eaa1ede231c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919869,
+            "locality_id":1276570965,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276570965,
+    "wof:lastmodified":1537716336,
+    "wof:name":"Al Qatif",
+    "wof:parent_id":1091919869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06083,
+    14.72959,
+    43.06083,
+    14.72959
+],
+  "geometry": {"coordinates":[43.06083,14.72959],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292923775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58087,15.44277,43.58087,15.44277",
+    "geom:latitude":15.44277,
+    "geom:longitude":43.58087,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"At Taraf",
+    "gn:country_code":"YE",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360603,
+    "gn:latitude":15.44277,
+    "gn:longitude":43.58087,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u0163 \u0162araf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162araf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360603
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7113b4009da3fca105b630558de40f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1292923775,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1292923775,
+    "wof:lastmodified":1537715801,
+    "wof:name":"At Taraf",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58087,
+    15.44277,
+    43.58087,
+    15.44277
+],
+  "geometry": {"coordinates":[43.58087,15.44277],"type":"Point"}
+}

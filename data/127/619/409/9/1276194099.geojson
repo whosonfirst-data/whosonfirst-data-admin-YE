@@ -1,0 +1,75 @@
+{
+  "id": 1276194099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23962,14.26126,44.23962,14.26126",
+    "geom:latitude":14.26126,
+    "geom:longitude":44.23962,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Dar ar Rumaysh",
+    "gn:country_code":"YE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408232,
+    "gn:latitude":14.26126,
+    "gn:longitude":44.23962,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"D\u0101r ar Rumaysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0631\u0645\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r ar Rumaysh\u012b",
+        "D\u0101r ar Rumaysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408232
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"09ec9cad26332003ba4c2315c04e788f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1276194099,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276194099,
+    "wof:lastmodified":1537715414,
+    "wof:name":"Dar ar Rumaysh",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23962,
+    14.26126,
+    44.23962,
+    14.26126
+],
+  "geometry": {"coordinates":[44.23962,14.26126],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343840053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33333,15.35,44.33333,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":44.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Hadir",
+    "gn:country_code":"YE",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75419,
+    "gn:latitude":15.35,
+    "gn:longitude":44.33333,
+    "gn:modification_date":"1997-02-12",
+    "gn:name":"\u1e28a\u1e11ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75419
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6b28eb90cc374ef87ede96a4a8d2458d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1343840053,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343840053,
+    "wof:lastmodified":1536696271,
+    "wof:name":"Hadir",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33333,
+    15.35,
+    44.33333,
+    15.35
+],
+  "geometry": {"coordinates":[44.33333,15.35],"type":"Point"}
+}

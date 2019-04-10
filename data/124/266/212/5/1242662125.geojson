@@ -1,0 +1,73 @@
+{
+  "id": 1242662125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06974,15.55443,43.06974,15.55443",
+    "geom:latitude":15.55443,
+    "geom:longitude":43.06974,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Dayr al Muhannib",
+    "gn:country_code":"YE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76243,
+    "gn:latitude":15.55443,
+    "gn:longitude":43.06974,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dayr al Mu\u1e29annib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr Moharib",
+        "Dayr al Mu\u1e29annib",
+        "Dayr Muh\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76243
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"026698b35577657422b998de02263078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1242662125,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242662125,
+    "wof:lastmodified":1537715191,
+    "wof:name":"Dayr al Muhannib",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06974,
+    15.55443,
+    43.06974,
+    15.55443
+],
+  "geometry": {"coordinates":[43.06974,15.55443],"type":"Point"}
+}

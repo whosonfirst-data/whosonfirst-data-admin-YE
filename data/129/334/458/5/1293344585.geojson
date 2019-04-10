@@ -1,0 +1,82 @@
+{
+  "id": 1293344585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26476,15.48707,44.26476,15.48707",
+    "geom:latitude":15.48707,
+    "geom:longitude":44.26476,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"As Suba`i",
+    "gn:country_code":"YE",
+    "gn:dem":2192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342196,
+    "gn:latitude":15.48707,
+    "gn:longitude":44.26476,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sub\u0101\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sub\u0101\u2018\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0628\u0627\u0639\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342196
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"edd005ce51ad39699bafdbb7fb83e34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1293344585,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1293344585,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293344585,
+    "wof:lastmodified":1537715495,
+    "wof:name":"As Suba`i",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26476,
+    15.48707,
+    44.26476,
+    15.48707
+],
+  "geometry": {"coordinates":[44.26476,15.48707],"type":"Point"}
+}

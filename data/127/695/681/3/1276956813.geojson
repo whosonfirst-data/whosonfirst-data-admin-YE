@@ -1,0 +1,71 @@
+{
+  "id": 1276956813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59349,15.49095,43.59349,15.49095",
+    "geom:latitude":15.49095,
+    "geom:longitude":43.59349,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Ar Ruhudi",
+    "gn:country_code":"YE",
+    "gn:dem":2027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360594,
+    "gn:latitude":15.49095,
+    "gn:longitude":43.59349,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Ru\u1e29u\u1e11\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Ru\u1e29u\u1e11\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360594
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"05d82d17624cf5ca0e33051019904758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1276956813,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276956813,
+    "wof:lastmodified":1537715801,
+    "wof:name":"Ar Ruhudi",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59349,
+    15.49095,
+    43.59349,
+    15.49095
+],
+  "geometry": {"coordinates":[43.59349,15.49095],"type":"Point"}
+}

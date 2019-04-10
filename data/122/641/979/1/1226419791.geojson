@@ -1,0 +1,71 @@
+{
+  "id": 1226419791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99732,14.7535,43.99732,14.7535",
+    "geom:latitude":14.7535,
+    "geom:longitude":43.99732,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Bayt ar Rakhami",
+    "gn:country_code":"YE",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400932,
+    "gn:latitude":14.7535,
+    "gn:longitude":43.99732,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt ar Rakham\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt ar Rakham\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400932
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b3933123abc3787cd080f0281415668a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1226419791,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226419791,
+    "wof:lastmodified":1537715339,
+    "wof:name":"Bayt ar Rakhami",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99732,
+    14.7535,
+    43.99732,
+    14.7535
+],
+  "geometry": {"coordinates":[43.99732,14.7535],"type":"Point"}
+}

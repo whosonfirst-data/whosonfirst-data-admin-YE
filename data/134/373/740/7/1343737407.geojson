@@ -1,0 +1,74 @@
+{
+  "id": 1343737407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76829,16.31699,43.76829,16.31699",
+    "geom:latitude":16.31699,
+    "geom:longitude":43.76829,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Al Maqam",
+    "gn:country_code":"YE",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9632978,
+    "gn:latitude":16.31699,
+    "gn:longitude":43.76829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maq\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9632978
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c77baa69f4c6bb03a1ac035a5d77720d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1343737407,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343737407,
+    "wof:lastmodified":1537716069,
+    "wof:name":"Al Maqam",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76829,
+    16.31699,
+    43.76829,
+    16.31699
+],
+  "geometry": {"coordinates":[43.76829,16.31699],"type":"Point"}
+}

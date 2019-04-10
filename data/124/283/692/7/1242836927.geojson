@@ -1,0 +1,74 @@
+{
+  "id": 1242836927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81253,14.05285,44.81253,14.05285",
+    "geom:latitude":14.05285,
+    "geom:longitude":44.81253,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Al Mahjar",
+    "gn:country_code":"YE",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340210,
+    "gn:latitude":14.05285,
+    "gn:longitude":44.81253,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Ma\u1e29jar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29jar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340210
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"32f892df79a44bed25c6f5d2491a05bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1242836927,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1242836927,
+    "wof:lastmodified":1537715442,
+    "wof:name":"Al Mahjar",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81253,
+    14.05285,
+    44.81253,
+    14.05285
+],
+  "geometry": {"coordinates":[44.81253,14.05285],"type":"Point"}
+}

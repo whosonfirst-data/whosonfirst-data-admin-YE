@@ -1,0 +1,71 @@
+{
+  "id": 1243410117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07729,13.995,44.07729,13.995",
+    "geom:latitude":13.995,
+    "geom:longitude":44.07729,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Qaryat Naqil as Sanaf",
+    "gn:country_code":"YE",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356800,
+    "gn:latitude":13.995,
+    "gn:longitude":44.07729,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat Naq\u012bl as Sanaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat Naq\u012bl as Sanaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356800
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a00f803ea5aebde4e03929c407cb25c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1243410117,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243410117,
+    "wof:lastmodified":1537715685,
+    "wof:name":"Qaryat Naqil as Sanaf",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07729000000001,
+    13.995,
+    44.07729000000001,
+    13.995
+],
+  "geometry": {"coordinates":[44.07729000000001,13.995],"type":"Point"}
+}

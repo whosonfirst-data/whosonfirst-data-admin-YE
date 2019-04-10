@@ -1,0 +1,71 @@
+{
+  "id": 1360080991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6873,15.41478,43.6873,15.41478",
+    "geom:latitude":15.41478,
+    "geom:longitude":43.6873,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Yarim",
+    "gn:country_code":"YE",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402142,
+    "gn:latitude":15.41478,
+    "gn:longitude":43.6873,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402142
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c2db2a26d2316fd5f2f313b13ba70eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1360080991,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1360080991,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Yarim",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6873,
+    15.41478,
+    43.6873,
+    15.41478
+],
+  "geometry": {"coordinates":[43.6873,15.41478],"type":"Point"}
+}

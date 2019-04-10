@@ -1,0 +1,75 @@
+{
+  "id": 1327416555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39606,16.82589,43.39606,16.82589",
+    "geom:latitude":16.82589,
+    "geom:longitude":43.39606,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Thiknayah",
+    "gn:country_code":"YE",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346537,
+    "gn:latitude":16.82589,
+    "gn:longitude":43.39606,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Thikn\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0643\u0646\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tikinn\u0101yah",
+        "Thikn\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346537
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d2b75fd7725f9b4508070475af818582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1327416555,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327416555,
+    "wof:lastmodified":1537715597,
+    "wof:name":"Thiknayah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39606,
+    16.82589,
+    43.39606,
+    16.82589
+],
+  "geometry": {"coordinates":[43.39606,16.82589],"type":"Point"}
+}

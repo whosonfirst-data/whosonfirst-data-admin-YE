@@ -1,0 +1,74 @@
+{
+  "id": 1193108759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88258,15.31653,44.88258,15.31653",
+    "geom:latitude":15.31653,
+    "geom:longitude":44.88258,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Suhaylitah",
+    "gn:country_code":"YE",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331543,
+    "gn:latitude":15.31653,
+    "gn:longitude":44.88258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Su\u1e29ayli\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062d\u064a\u0644\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Su\u1e29ayli\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331543
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75b21c4c8eaec89bfa5c07153a96b5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925803,
+            "locality_id":1193108759,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1193108759,
+    "wof:lastmodified":1537716190,
+    "wof:name":"Suhaylitah",
+    "wof:parent_id":1091925803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88258,
+    15.31653,
+    44.88258,
+    15.31653
+],
+  "geometry": {"coordinates":[44.88258,15.31653],"type":"Point"}
+}

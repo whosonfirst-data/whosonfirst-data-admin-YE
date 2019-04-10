@@ -1,0 +1,74 @@
+{
+  "id": 1343631107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53046,17.02326,43.53046,17.02326",
+    "geom:latitude":17.02326,
+    "geom:longitude":43.53046,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Qabdah",
+    "gn:country_code":"YE",
+    "gn:dem":2474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345211,
+    "gn:latitude":17.02326,
+    "gn:longitude":43.53046,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Al Qab\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qab\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345211
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe548159b86f2481109bde8fb37eb783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1343631107,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343631107,
+    "wof:lastmodified":1537715553,
+    "wof:name":"Al Qabdah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53046,
+    17.02326,
+    43.53046,
+    17.02326
+],
+  "geometry": {"coordinates":[43.53046,17.02326],"type":"Point"}
+}

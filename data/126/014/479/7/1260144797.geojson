@@ -1,0 +1,73 @@
+{
+  "id": 1260144797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27999,14.47326,44.27999,14.47326",
+    "geom:latitude":14.47326,
+    "geom:longitude":44.27999,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Al Miqlah",
+    "gn:country_code":"YE",
+    "gn:dem":2490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950717,
+    "gn:latitude":14.47326,
+    "gn:longitude":44.27999,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al Miqla\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Miqla\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950717
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a827167caadd52266c6fa021f8d6352c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1260144797,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1260144797,
+    "wof:lastmodified":1537716285,
+    "wof:name":"Al Miqlah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27999000000001,
+    14.47326,
+    44.27999000000001,
+    14.47326
+],
+  "geometry": {"coordinates":[44.27999000000001,14.47326],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890428083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31005,16.76879,43.31005,16.76879",
+    "geom:latitude":16.76879,
+    "geom:longitude":43.31005,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0631\u0628 \u0627\u0644\u062d\u0645\u0631\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Gharib Al Himrar"
+    ],
+    "qs:name":"Gh\u0101rib al \u1e28imr\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926793,
+        "gp:id":1959134,
+        "qs:id":745134,
+        "wd:id":"Q20303628"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051734,
+    "wof:geomhash":"51f17cb85d6b09ef49a29c462da3aaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890428083,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428083,
+    "wof:lastmodified":1514503271,
+    "wof:name":"Gh\u0101rib al \u1e28imr\u0101r",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31005,
+    16.76879,
+    43.31005,
+    16.76879
+],
+  "geometry": {"coordinates":[43.31005,16.76879],"type":"Point"}
+}

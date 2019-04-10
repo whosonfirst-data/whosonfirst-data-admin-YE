@@ -1,0 +1,74 @@
+{
+  "id": 1276730067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79078,13.14227,43.79078,13.14227",
+    "geom:latitude":13.14227,
+    "geom:longitude":43.79078,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Ku'ub al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538306,
+    "gn:latitude":13.14227,
+    "gn:longitude":43.79078,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ku\u2018\u016bb al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0639\u0648\u0628 \u0627\u0644\u0623\u0633\u0641\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Ku\u2018\u016bb al Asfal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538306
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"220c48e33f4d761d1bb17da8922a0c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1276730067,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276730067,
+    "wof:lastmodified":1537716056,
+    "wof:name":"Al Ku'ub al Asfal",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79078,
+    13.14227,
+    43.79078,
+    13.14227
+],
+  "geometry": {"coordinates":[43.79078,13.14227],"type":"Point"}
+}

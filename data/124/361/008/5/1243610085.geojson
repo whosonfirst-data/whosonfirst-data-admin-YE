@@ -1,0 +1,74 @@
+{
+  "id": 1243610085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11201,14.06878,44.11201,14.06878",
+    "geom:latitude":14.06878,
+    "geom:longitude":44.11201,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Al Hisn",
+    "gn:country_code":"YE",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359826,
+    "gn:latitude":14.06878,
+    "gn:longitude":44.11201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28i\u015fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28i\u015fn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359826
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cfb6f0b4fbb71bd3916bea8f6e888124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1243610085,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243610085,
+    "wof:lastmodified":1537715778,
+    "wof:name":"Al Hisn",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11201,
+    14.06878,
+    44.11201,
+    14.06878
+],
+  "geometry": {"coordinates":[44.11201,14.06878],"type":"Point"}
+}

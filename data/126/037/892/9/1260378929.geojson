@@ -1,0 +1,71 @@
+{
+  "id": 1260378929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78074,14.25094,43.78074,14.25094",
+    "geom:latitude":14.25094,
+    "geom:longitude":43.78074,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Dar al `Asab",
+    "gn:country_code":"YE",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358194,
+    "gn:latitude":14.25094,
+    "gn:longitude":43.78074,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r al \u2018A\u015fab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al \u2018A\u015fab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358194
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0a1fa109e309d872f8d0cabb8bf31ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1260378929,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1260378929,
+    "wof:lastmodified":1537715716,
+    "wof:name":"Dar al `Asab",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78074,
+    14.25094,
+    43.78074,
+    14.25094
+],
+  "geometry": {"coordinates":[43.78074,14.25094],"type":"Point"}
+}

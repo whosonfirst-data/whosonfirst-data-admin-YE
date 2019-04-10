@@ -1,0 +1,75 @@
+{
+  "id": 1276423575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99079,16.70858,43.99079,16.70858",
+    "geom:latitude":16.70858,
+    "geom:longitude":43.99079,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Al Wastah",
+    "gn:country_code":"YE",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362080,
+    "gn:latitude":16.70858,
+    "gn:longitude":43.99079,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Al Was\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Wa\u015f\u0163ah",
+        "Al Was\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b429f54b96c47f91203ff1f45a83d3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1276423575,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276423575,
+    "wof:lastmodified":1537715834,
+    "wof:name":"Al Wastah",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99079,
+    16.70858,
+    43.99079,
+    16.70858
+],
+  "geometry": {"coordinates":[43.99079,16.70858],"type":"Point"}
+}

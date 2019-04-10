@@ -1,0 +1,73 @@
+{
+  "id": 890414153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08884,15.91543,45.08884,15.91543",
+    "geom:latitude":15.91543,
+    "geom:longitude":45.08884,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0633\u0641 \u0627\u0644 \u0645\u0631\u0648\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khasf Al Marwan"
+    ],
+    "qs:name":"Al Khasf \u0100l Marw\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890545,
+        "gp:id":1959008,
+        "qs:id":743966,
+        "wd:id":"Q20305074"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051035,
+    "wof:geomhash":"a994791bed93f0e0a2fa4a39480d16fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":890414153,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890414153,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khasf \u0100l Marw\u0101n",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08884,
+    15.91543,
+    45.08884,
+    15.91543
+],
+  "geometry": {"coordinates":[45.08884,15.91543],"type":"Point"}
+}

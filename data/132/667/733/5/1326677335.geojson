@@ -1,0 +1,71 @@
+{
+  "id": 1326677335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79713,14.76349,43.79713,14.76349",
+    "geom:latitude":14.76349,
+    "geom:longitude":43.79713,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3103.0",
+    "gn:asciiname":"Sahwah",
+    "gn:country_code":"YE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360424,
+    "gn:latitude":14.76349,
+    "gn:longitude":43.79713,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sa\u1e29w\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e29w\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360424
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"58e944cf83c3a18ce9a8d5434d725f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":1326677335,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1326677335,
+    "wof:lastmodified":1537715799,
+    "wof:name":"Sahwah",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79713,
+    14.76349,
+    43.79713,
+    14.76349
+],
+  "geometry": {"coordinates":[43.79713,14.76349],"type":"Point"}
+}

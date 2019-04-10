@@ -1,0 +1,71 @@
+{
+  "id": 1259935449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38255,13.21875,44.38255,13.21875",
+    "geom:latitude":13.21875,
+    "geom:longitude":44.38255,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Nawban",
+    "gn:country_code":"YE",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355457,
+    "gn:latitude":13.21875,
+    "gn:longitude":44.38255,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nawb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe7d7276ae9ec022f05c1f9f9c38a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1259935449,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259935449,
+    "wof:lastmodified":1537715638,
+    "wof:name":"Nawban",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38255,
+    13.21875,
+    44.38255,
+    13.21875
+],
+  "geometry": {"coordinates":[44.38255,13.21875],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259767859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30907,15.20981,43.30907,15.20981",
+    "geom:latitude":15.20981,
+    "geom:longitude":43.30907,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Zubaylah",
+    "gn:country_code":"YE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69406,
+    "gn:latitude":15.20981,
+    "gn:longitude":43.30907,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zubaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibila",
+        "Zub\u00eaili",
+        "Sibile",
+        "Zubaylah",
+        "Zubayyil\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69406
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81dff299d0645fcd6a49d2b6b0ca7e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1259767859,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259767859,
+    "wof:lastmodified":1537715060,
+    "wof:name":"Zubaylah",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30907,
+    15.20981,
+    43.30907,
+    15.20981
+],
+  "geometry": {"coordinates":[43.30907,15.20981],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890442587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35163,16.15357,43.35163,16.15357",
+    "geom:latitude":16.15357,
+    "geom:longitude":43.35163,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":27,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0631\u0627\u0646 \u0627\u0644\u0633\u0648\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Majran As SUq"
+    ],
+    "qs:name":"Majr\u0101n as S\u016bq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633022,
+        "gp:id":1953570,
+        "qs:id":695039,
+        "wd:id":"Q20300674"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052368,
+    "wof:geomhash":"a551dafb4825a6926e06bb03ada9288e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890442587,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890442587,
+    "wof:lastmodified":1514503318,
+    "wof:name":"Majr\u0101n as S\u016bq",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35163,
+    16.15357,
+    43.35163,
+    16.15357
+],
+  "geometry": {"coordinates":[43.35163,16.15357],"type":"Point"}
+}

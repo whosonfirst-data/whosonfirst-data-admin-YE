@@ -1,0 +1,74 @@
+{
+  "id": 1226532097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7077,13.96722,43.7077,13.96722",
+    "geom:latitude":13.96722,
+    "geom:longitude":43.7077,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1818.0",
+    "gn:asciiname":"Al Afyush",
+    "gn:country_code":"YE",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355702,
+    "gn:latitude":13.96722,
+    "gn:longitude":43.7077,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Afy\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Afy\u016bsh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0641\u064a\u0648\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355702
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"205f17d1255bbf724b8222832b432dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":1226532097,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226532097,
+    "wof:lastmodified":1537715647,
+    "wof:name":"Al Afyush",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7077,
+    13.96722,
+    43.7077,
+    13.96722
+],
+  "geometry": {"coordinates":[43.7077,13.96722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243328455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68384,15.59066,43.68384,15.59066",
+    "geom:latitude":15.59066,
+    "geom:longitude":43.68384,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Al Juruf",
+    "gn:country_code":"YE",
+    "gn:dem":2451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344478,
+    "gn:latitude":15.59066,
+    "gn:longitude":43.68384,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jur\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Jur\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344478
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f1d62d667090d0c06bbad784b0b3a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922059,
+            "locality_id":1243328455,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243328455,
+    "wof:lastmodified":1537715541,
+    "wof:name":"Al Juruf",
+    "wof:parent_id":1091922059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68384,
+    15.59066,
+    43.68384,
+    15.59066
+],
+  "geometry": {"coordinates":[43.68384,15.59066],"type":"Point"}
+}

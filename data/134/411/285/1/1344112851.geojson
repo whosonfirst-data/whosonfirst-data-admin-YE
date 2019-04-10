@@ -1,0 +1,71 @@
+{
+  "id": 1344112851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82,13.87698,43.82,13.87698",
+    "geom:latitude":13.87698,
+    "geom:longitude":43.82,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Al Majdurah",
+    "gn:country_code":"YE",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355884,
+    "gn:latitude":13.87698,
+    "gn:longitude":43.82,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Majd\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Majd\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355884
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2493b23013445e76844fc3df1ee588c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1344112851,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1344112851,
+    "wof:lastmodified":1537715655,
+    "wof:name":"Al Majdurah",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82,
+    13.87698,
+    43.82,
+    13.87698
+],
+  "geometry": {"coordinates":[43.82,13.87698],"type":"Point"}
+}

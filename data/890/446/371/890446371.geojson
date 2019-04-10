@@ -1,0 +1,73 @@
+{
+  "id": 890446371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39913,16.03555,43.39913,16.03555",
+    "geom:latitude":16.03555,
+    "geom:longitude":43.39913,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0641\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muhaffir"
+    ],
+    "qs:name":"Al Mu\u1e29affir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682592,
+        "gp:id":1958568,
+        "qs:id":697278,
+        "wd:id":"Q20302088"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052549,
+    "wof:geomhash":"57788f74f7cbab7f7bee44995e8da1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890446371,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446371,
+    "wof:lastmodified":1514503194,
+    "wof:name":"Al Mu\u1e29affir",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39913,
+    16.03555,
+    43.39913,
+    16.03555
+],
+  "geometry": {"coordinates":[43.39913,16.03555],"type":"Point"}
+}

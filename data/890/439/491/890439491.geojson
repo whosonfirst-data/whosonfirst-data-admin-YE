@@ -1,0 +1,76 @@
+{
+  "id": 890439491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24242,17.2141,43.24242,17.2141",
+    "geom:latitude":17.2141,
+    "geom:longitude":43.24242,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0645\u0639\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Al Mu'ayn"
+    ],
+    "name:unk_x_variant":[
+        "W\u0101d\u012b al Ma\u2018\u012bn"
+    ],
+    "qs:name":"W\u0101d\u012b al Mu\u2018ayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022193,
+        "gp:id":1938607,
+        "qs:id":750352,
+        "wd:id":"Q20309438"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052237,
+    "wof:geomhash":"0df4e81f20e9f20922e72b294b8271c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890439491,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890439491,
+    "wof:lastmodified":1514503381,
+    "wof:name":"W\u0101d\u012b al Mu\u2018ayn",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24242,
+    17.2141,
+    43.24242,
+    17.2141
+],
+  "geometry": {"coordinates":[43.24242,17.2141],"type":"Point"}
+}

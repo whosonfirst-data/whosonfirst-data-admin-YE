@@ -1,0 +1,74 @@
+{
+  "id": 1259451867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07632,16.26646,43.07632,16.26646",
+    "geom:latitude":16.26646,
+    "geom:longitude":43.07632,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1705.0",
+    "gn:asciiname":"Az Zahar",
+    "gn:country_code":"YE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363088,
+    "gn:latitude":16.26646,
+    "gn:longitude":43.07632,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az\u0327 Z\u0327ahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327ahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363088
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e603d49d9d0479206692ac3fd94c7399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":1259451867,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259451867,
+    "wof:lastmodified":1537715862,
+    "wof:name":"Az Zahar",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07632,
+    16.26646,
+    43.07632,
+    16.26646
+],
+  "geometry": {"coordinates":[43.07632,16.26646],"type":"Point"}
+}

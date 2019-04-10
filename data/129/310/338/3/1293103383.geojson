@@ -1,0 +1,68 @@
+{
+  "id": 1293103383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47797,14.46742,46.47797,14.46742",
+    "geom:latitude":14.46742,
+    "geom:longitude":46.47797,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Sildah al Jufar",
+    "gn:country_code":"YE",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70533,
+    "gn:latitude":14.46742,
+    "gn:longitude":46.47797,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sildah al Jufar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70533
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55d46309f8b829661aeebf5a7355bc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1293103383,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1293103383,
+    "wof:lastmodified":1536842750,
+    "wof:name":"Sildah al Jufar",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47797,
+    14.46742,
+    46.47797,
+    14.46742
+],
+  "geometry": {"coordinates":[46.47797,14.46742],"type":"Point"}
+}

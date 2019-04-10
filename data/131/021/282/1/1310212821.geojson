@@ -1,0 +1,76 @@
+{
+  "id": 1310212821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03337,12.81227,45.03337,12.81227",
+    "geom:latitude":12.81227,
+    "geom:longitude":45.03337,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2408.0",
+    "gn:asciiname":"Khawr Maksar",
+    "gn:country_code":"YE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":73786,
+    "gn:latitude":12.81227,
+    "gn:longitude":45.03337,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khawr Maksar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0631 \u0645\u0643\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khormaksar",
+        "Kh\u016br Maksar",
+        "Khawr Maksar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681039,
+        1091918937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73786
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ce2e57d89eda151f3302e272fb5c6820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918937,
+            "locality_id":1310212821,
+            "region_id":85681039
+        }
+    ],
+    "wof:id":1310212821,
+    "wof:lastmodified":1537715141,
+    "wof:name":"Khawr Maksar",
+    "wof:parent_id":1091918937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03337,
+    12.81227,
+    45.03337,
+    12.81227
+],
+  "geometry": {"coordinates":[45.03337,12.81227],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193111205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98813,16.93186,44.98813,16.93186",
+    "geom:latitude":16.93186,
+    "geom:longitude":44.98813,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Al Wajf",
+    "gn:country_code":"YE",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306591,
+    "gn:latitude":16.93186,
+    "gn:longitude":44.98813,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Wajf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u062c\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306591
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb86912a47db69aff721dd3bfbd569f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1193111205,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1193111205,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Al Wajf",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98813,
+    16.93186,
+    44.98813,
+    16.93186
+],
+  "geometry": {"coordinates":[44.98813,16.93186],"type":"Point"}
+}

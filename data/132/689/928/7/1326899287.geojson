@@ -1,0 +1,68 @@
+{
+  "id": 1326899287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08722,16.0054,43.08722,16.0054",
+    "geom:latitude":16.0054,
+    "geom:longitude":43.08722,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Daban",
+    "gn:country_code":"YE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300376,
+    "gn:latitude":16.0054,
+    "gn:longitude":43.08722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300376
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7e2a24bb7239ccc16e6bb3400920bcd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1326899287,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326899287,
+    "wof:lastmodified":1536952456,
+    "wof:name":"Daban",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08722,
+    16.0054,
+    43.08722,
+    16.0054
+],
+  "geometry": {"coordinates":[43.08722,16.0054],"type":"Point"}
+}

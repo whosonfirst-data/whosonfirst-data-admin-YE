@@ -1,0 +1,71 @@
+{
+  "id": 1276757049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21667,14.61667,46.21667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":46.21667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2109.0",
+    "gn:asciiname":"Qumzan",
+    "gn:country_code":"YE",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71786,
+    "gn:latitude":14.61667,
+    "gn:longitude":46.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qumz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qumz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71786
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"771221b330d99be8f948e4706076bcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926175,
+            "locality_id":1276757049,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1276757049,
+    "wof:lastmodified":1537715102,
+    "wof:name":"Qumzan",
+    "wof:parent_id":1091926175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21667,
+    14.61667,
+    46.21667,
+    14.61667
+],
+  "geometry": {"coordinates":[46.21667,14.61667],"type":"Point"}
+}

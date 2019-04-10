@@ -1,0 +1,78 @@
+{
+  "id": 1192982195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29602,15.51188,44.29602,15.51188",
+    "geom:latitude":15.51188,
+    "geom:longitude":44.29602,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al Mahjil",
+    "gn:country_code":"YE",
+    "gn:dem":2192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73310,
+    "gn:latitude":15.51188,
+    "gn:longitude":44.29602,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e29jil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Shib\u0101m",
+        "Al Ma\u1e29jil",
+        "Ma\u1e29\u0101jil",
+        "Al Ma\u1e29\u0101jil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73310,
+        "wk:page":"Mahajil"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"adfd9f50b8a9434a902d321a964572a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1192982195,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1192982195,
+    "wof:lastmodified":1537715131,
+    "wof:name":"Al Mahjil",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29602,
+    15.51188,
+    44.29602,
+    15.51188
+],
+  "geometry": {"coordinates":[44.29602,15.51188],"type":"Point"}
+}

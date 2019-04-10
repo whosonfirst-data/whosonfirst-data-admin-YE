@@ -1,0 +1,70 @@
+{
+  "id": 1242748471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51877,16.17317,44.51877,16.17317",
+    "geom:latitude":16.17317,
+    "geom:longitude":44.51877,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Buraysh",
+    "gn:country_code":"YE",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9975106,
+    "gn:latitude":16.17317,
+    "gn:longitude":44.51877,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Buraysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975106
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fbfc311361d3b4416d63aa2879af6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920639,
+            "locality_id":1242748471,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1242748471,
+    "wof:lastmodified":1537716120,
+    "wof:name":"Buraysh",
+    "wof:parent_id":1091920639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51877,
+    16.17317,
+    44.51877,
+    16.17317
+],
+  "geometry": {"coordinates":[44.51877,16.17317],"type":"Point"}
+}

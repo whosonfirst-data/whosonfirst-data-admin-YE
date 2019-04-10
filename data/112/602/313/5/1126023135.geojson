@@ -1,0 +1,85 @@
+{
+  "id": 1126023135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16748,16.58543,43.16748,16.58543",
+    "geom:latitude":16.58543,
+    "geom:longitude":43.16748,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"YE",
+    "lbl:latitude":16.58543,
+    "lbl:longitude":43.16748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u064a\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Siyal"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8079407,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Ban\u012b Siy\u0101l",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":754790,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079407,
+        "qs_pg:id":754790,
+        "wd:id":"Q20299251"
+    },
+    "wof:country":"YE",
+    "wof:created":1497300954,
+    "wof:geomhash":"324ec19999d5191e90bda9e5783dd747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1126023135,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1126023135,
+    "wof:lastmodified":1514503244,
+    "wof:name":"Ban\u012b Siy\u0101l",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16748,
+    16.58543,
+    43.16748,
+    16.58543
+],
+  "geometry": {"coordinates":[43.16748,16.58543],"type":"Point"}
+}

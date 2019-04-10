@@ -1,0 +1,71 @@
+{
+  "id": 1327212071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45855,15.35854,43.45855,15.35854",
+    "geom:latitude":15.35854,
+    "geom:longitude":43.45855,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Al Jadir",
+    "gn:country_code":"YE",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365109,
+    "gn:latitude":15.35854,
+    "gn:longitude":43.45855,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al J\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al J\u0101dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365109
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9f6b99781fa2457e7b0d3b531dc5fec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1327212071,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327212071,
+    "wof:lastmodified":1537715919,
+    "wof:name":"Al Jadir",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45855,
+    15.35854,
+    43.45855,
+    15.35854
+],
+  "geometry": {"coordinates":[43.45855,15.35854],"type":"Point"}
+}

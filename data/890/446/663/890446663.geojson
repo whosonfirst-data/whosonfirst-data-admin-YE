@@ -1,0 +1,73 @@
+{
+  "id": 890446663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77544,16.90966,43.77544,16.90966",
+    "geom:latitude":16.90966,
+    "geom:longitude":43.77544,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":36,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u064a\u062f"
+    ],
+    "qs:name":"An Nayd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900528,
+        "gp:id":1958152,
+        "qs:id":697546,
+        "qs_pg:id":744295
+    },
+    "wof:country":"YE",
+    "wof:created":1469052561,
+    "wof:geomhash":"d539187f95dfa712375c28215fc681e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":890446663,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446663,
+    "wof:lastmodified":1505343612,
+    "wof:name":"An Nayd",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77544,
+    16.90966,
+    43.77544,
+    16.90966
+],
+  "geometry": {"coordinates":[43.77544,16.90966],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343632975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02989,15.26902,44.02989,15.26902",
+    "geom:latitude":15.26902,
+    "geom:longitude":44.02989,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Bayt Kahin",
+    "gn:country_code":"YE",
+    "gn:dem":2818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76920,
+    "gn:latitude":15.26902,
+    "gn:longitude":44.02989,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt K\u0101hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt K\u0101hin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76920,
+        "wk:page":"Bayt_Kahin"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f6a71c8d898a51f3f8e056de295ec74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1343632975,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343632975,
+    "wof:lastmodified":1537715212,
+    "wof:name":"Bayt Kahin",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02989,
+    15.26902,
+    44.02989,
+    15.26902
+],
+  "geometry": {"coordinates":[44.02989,15.26902],"type":"Point"}
+}

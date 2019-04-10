@@ -1,0 +1,73 @@
+{
+  "id": 890424625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27513,16.13046,43.27513,16.13046",
+    "geom:latitude":16.13046,
+    "geom:longitude":43.27513,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0642\u0639\u0645\u0648\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Dayr Qa'mUs"
+    ],
+    "qs:name":"Dayr Qa\u2018m\u016bs",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632198,
+        "gp:id":1953570,
+        "qs:id":694786,
+        "wd:id":"Q20302091"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051552,
+    "wof:geomhash":"e71a3b85826a77976082d6ae06681758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":890424625,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424625,
+    "wof:lastmodified":1514503256,
+    "wof:name":"Dayr Qa\u2018m\u016bs",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27513,
+    16.13046,
+    43.27513,
+    16.13046
+],
+  "geometry": {"coordinates":[43.27513,16.13046],"type":"Point"}
+}

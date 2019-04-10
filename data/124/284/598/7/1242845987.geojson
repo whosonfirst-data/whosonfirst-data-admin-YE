@@ -1,0 +1,74 @@
+{
+  "id": 1242845987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.469,15.50582,44.469,15.50582",
+    "geom:latitude":15.50582,
+    "geom:longitude":44.469,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Bayt 'Affar",
+    "gn:country_code":"YE",
+    "gn:dem":2384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975871,
+    "gn:latitude":15.50582,
+    "gn:longitude":44.469,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u2018Aff\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0641\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Aff\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975871
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7ebf8c37e2e2fa96996e7b81eb19507e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1242845987,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1242845987,
+    "wof:lastmodified":1537716136,
+    "wof:name":"Bayt 'Affar",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.469,
+    15.50582,
+    44.469,
+    15.50582
+],
+  "geometry": {"coordinates":[44.469,15.50582],"type":"Point"}
+}

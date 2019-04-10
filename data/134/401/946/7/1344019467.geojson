@@ -1,0 +1,76 @@
+{
+  "id": 1344019467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38862,12.49943,54.38862,12.49943",
+    "geom:latitude":12.49943,
+    "geom:longitude":54.38862,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Afafas",
+    "gn:country_code":"YE",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182427,
+    "gn:latitude":12.49943,
+    "gn:longitude":54.38862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Af\u0101fas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182427
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b2b3e23bc77281fe36c0386d41acdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1344019467,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1344019467,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1344019467,
+    "wof:lastmodified":1536935722,
+    "wof:name":"Afafas",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38862,
+    12.49943,
+    54.38862,
+    12.49943
+],
+  "geometry": {"coordinates":[54.38862,12.49943],"type":"Point"}
+}

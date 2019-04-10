@@ -1,0 +1,77 @@
+{
+  "id": 1343629933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14243,14.06593,44.14243,14.06593",
+    "geom:latitude":14.06593,
+    "geom:longitude":44.14243,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Al Hujr",
+    "gn:country_code":"YE",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359829,
+    "gn:latitude":14.06593,
+    "gn:longitude":44.14243,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ujr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28ujr"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ijr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359829
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f28418844224b7205ac79ebef6af583c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1343629933,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343629933,
+    "wof:lastmodified":1537715779,
+    "wof:name":"Al Hujr",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14243,
+    14.06593,
+    44.14243,
+    14.06593
+],
+  "geometry": {"coordinates":[44.14243,14.06593],"type":"Point"}
+}

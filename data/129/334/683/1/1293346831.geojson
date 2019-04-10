@@ -1,0 +1,71 @@
+{
+  "id": 1293346831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34864,16.49028,44.34864,16.49028",
+    "geom:latitude":16.49028,
+    "geom:longitude":44.34864,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1602.0",
+    "gn:asciiname":"Al Juwarah",
+    "gn:country_code":"YE",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406883,
+    "gn:latitude":16.49028,
+    "gn:longitude":44.34864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Juw\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Juw\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406883
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7198af90eb418ba851ab86c31711b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":1293346831,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293346831,
+    "wof:lastmodified":1537715385,
+    "wof:name":"Al Juwarah",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34864,
+    16.49028,
+    44.34864,
+    16.49028
+],
+  "geometry": {"coordinates":[44.34864,16.49028],"type":"Point"}
+}

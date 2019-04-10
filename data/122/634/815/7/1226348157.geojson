@@ -1,0 +1,74 @@
+{
+  "id": 1226348157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.72832,16.13159,47.72832,16.13159",
+    "geom:latitude":16.13159,
+    "geom:longitude":47.72832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Mahajir",
+    "gn:country_code":"YE",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555968,
+    "gn:latitude":16.13159,
+    "gn:longitude":47.72832,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Ma\u1e29\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0627\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u0101jir",
+        "Ma\u1e29\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555968
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"13ebd55ba94c6b79df5efc3c42d54f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1226348157,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226348157,
+    "wof:lastmodified":1537716362,
+    "wof:name":"Al Mahajir",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.72832,
+    16.13159,
+    47.72832,
+    16.13159
+],
+  "geometry": {"coordinates":[47.72832,16.13159],"type":"Point"}
+}

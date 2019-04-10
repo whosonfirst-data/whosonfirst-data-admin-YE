@@ -1,0 +1,73 @@
+{
+  "id": 890437479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55212,13.43164,43.55212,13.43164",
+    "geom:latitude":13.43164,
+    "geom:longitude":43.55212,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":258,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qahirah"
+    ],
+    "qs:name":"Al \u1e28aq\u012brah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069271,
+        "gp:id":1953407,
+        "qs:id":753449,
+        "wd:id":"Q20303906"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052152,
+    "wof:geomhash":"08135561b8e21c9c2f854517e51bb434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":890437479,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890437479,
+    "wof:lastmodified":1514503204,
+    "wof:name":"Al \u1e28aq\u012brah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55212,
+    13.43164,
+    43.55212,
+    13.43164
+],
+  "geometry": {"coordinates":[43.55212,13.43164],"type":"Point"}
+}

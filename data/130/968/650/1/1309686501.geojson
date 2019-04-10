@@ -1,0 +1,71 @@
+{
+  "id": 1309686501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67451,14.18993,45.67451,14.18993",
+    "geom:latitude":14.18993,
+    "geom:longitude":45.67451,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Shabathan",
+    "gn:country_code":"YE",
+    "gn:dem":1919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408978,
+    "gn:latitude":14.18993,
+    "gn:longitude":45.67451,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shabath\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shabath\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408978
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d8688b00d0ae244732074afa2fff7f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":1309686501,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1309686501,
+    "wof:lastmodified":1537715424,
+    "wof:name":"Shabathan",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67451,
+    14.18993,
+    45.67451,
+    14.18993
+],
+  "geometry": {"coordinates":[45.67451,14.18993],"type":"Point"}
+}

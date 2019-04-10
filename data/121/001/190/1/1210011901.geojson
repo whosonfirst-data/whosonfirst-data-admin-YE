@@ -1,0 +1,74 @@
+{
+  "id": 1210011901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18872,15.28881,43.18872,15.28881",
+    "geom:latitude":15.28881,
+    "geom:longitude":43.18872,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Al Mijzab",
+    "gn:country_code":"YE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036259,
+    "gn:latitude":15.28881,
+    "gn:longitude":43.18872,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mijz\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0632\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Mijz\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036259
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e74c7b5b26b3bc1e2d0aa7abdf50600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1210011901,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1210011901,
+    "wof:lastmodified":1537716316,
+    "wof:name":"Al Mijzab",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18872,
+    15.28881,
+    43.18872,
+    15.28881
+],
+  "geometry": {"coordinates":[43.18872,15.28881],"type":"Point"}
+}

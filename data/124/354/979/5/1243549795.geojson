@@ -1,0 +1,74 @@
+{
+  "id": 1243549795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14247,14.74375,43.14247,14.74375",
+    "geom:latitude":14.74375,
+    "geom:longitude":43.14247,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Mahall al Himsi",
+    "gn:country_code":"YE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058413,
+    "gn:latitude":14.74375,
+    "gn:longitude":43.14247,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al \u1e28im\u015f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u062d\u0645\u0635\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28im\u015f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058413
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff9abbf8a4a126bfd16b5d1eed961907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1243549795,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243549795,
+    "wof:lastmodified":1537716338,
+    "wof:name":"Mahall al Himsi",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14247,
+    14.74375,
+    43.14247,
+    14.74375
+],
+  "geometry": {"coordinates":[43.14247,14.74375],"type":"Point"}
+}

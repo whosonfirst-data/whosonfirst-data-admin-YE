@@ -1,0 +1,68 @@
+{
+  "id": 1310293347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67442,15.31956,43.67442,15.31956",
+    "geom:latitude":15.31956,
+    "geom:longitude":43.67442,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Mabkar",
+    "gn:country_code":"YE",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360687,
+    "gn:latitude":15.31956,
+    "gn:longitude":43.67442,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mabkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360687
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4bcf9948731e9f967f53a262ffb1c3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1310293347,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310293347,
+    "wof:lastmodified":1536725861,
+    "wof:name":"Mabkar",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67442,
+    15.31956,
+    43.67442,
+    15.31956
+],
+  "geometry": {"coordinates":[43.67442,15.31956],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293941419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87075,13.88866,43.87075,13.88866",
+    "geom:latitude":13.88866,
+    "geom:longitude":43.87075,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Al Hafah",
+    "gn:country_code":"YE",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355847,
+    "gn:latitude":13.88866,
+    "gn:longitude":43.87075,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101fah",
+        "Al \u1e28\u0101ffah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355847
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b26cbd381d84c89e98bec0de22a4ed39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1293941419,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293941419,
+    "wof:lastmodified":1537715653,
+    "wof:name":"Al Hafah",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87075,
+    13.88866,
+    43.87075,
+    13.88866
+],
+  "geometry": {"coordinates":[43.87075,13.88866],"type":"Point"}
+}

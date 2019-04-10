@@ -1,0 +1,73 @@
+{
+  "id": 1260085985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,15.65,48.25,15.65",
+    "geom:latitude":15.65,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Sufaylah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70438,
+    "gn:latitude":15.65,
+    "gn:longitude":48.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sufaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sufailah",
+        "Sufaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70438
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e76fa896fa1f46af6f222c48076e1a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923043,
+            "locality_id":1260085985,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1260085985,
+    "wof:lastmodified":1537715078,
+    "wof:name":"Sufaylah",
+    "wof:parent_id":1091923043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    15.65,
+    48.25,
+    15.65
+],
+  "geometry": {"coordinates":[48.25,15.65],"type":"Point"}
+}

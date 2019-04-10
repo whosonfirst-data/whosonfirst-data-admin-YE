@@ -1,0 +1,70 @@
+{
+  "id": 1343956109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0287,14.60711,46.0287,14.60711",
+    "geom:latitude":14.60711,
+    "geom:longitude":46.0287,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Naqbah",
+    "gn:country_code":"YE",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230239,
+    "gn:latitude":14.60711,
+    "gn:longitude":46.0287,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Naqbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0642\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230239
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e65b6b4041b6c877c077e7fbdd1e567b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1343956109,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343956109,
+    "wof:lastmodified":1537716356,
+    "wof:name":"Naqbah",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0287,
+    14.60711,
+    46.0287,
+    14.60711
+],
+  "geometry": {"coordinates":[46.0287,14.60711],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310559549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90617,14.06222,43.90617,14.06222",
+    "geom:latitude":14.06222,
+    "geom:longitude":43.90617,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Bayt ad Dar",
+    "gn:country_code":"YE",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358900,
+    "gn:latitude":14.06222,
+    "gn:longitude":43.90617,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt ad D\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062f\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt ad D\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358900
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"31e2d8743eb2cc60555a3a5e83b5af4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1310559549,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310559549,
+    "wof:lastmodified":1537715737,
+    "wof:name":"Bayt ad Dar",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90617,
+    14.06222,
+    43.90617,
+    14.06222
+],
+  "geometry": {"coordinates":[43.90617,14.06222],"type":"Point"}
+}

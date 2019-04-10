@@ -1,0 +1,74 @@
+{
+  "id": 1259645383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08862,16.25976,44.08862,16.25976",
+    "geom:latitude":16.25976,
+    "geom:longitude":44.08862,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Dhu Makhif",
+    "gn:country_code":"YE",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973707,
+    "gn:latitude":16.25976,
+    "gn:longitude":44.08862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dh\u016b Mak\u1e29\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648 \u0645\u0643\u062d\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Dh\u016b Mak\u1e29\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973707
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9cfd294d2035caa8815446e01098d8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921923,
+            "locality_id":1259645383,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259645383,
+    "wof:lastmodified":1537716104,
+    "wof:name":"Dhu Makhif",
+    "wof:parent_id":1091921923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08862,
+    16.25976,
+    44.08862,
+    16.25976
+],
+  "geometry": {"coordinates":[44.08862,16.25976],"type":"Point"}
+}

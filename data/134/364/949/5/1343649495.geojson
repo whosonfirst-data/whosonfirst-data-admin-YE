@@ -1,0 +1,75 @@
+{
+  "id": 1343649495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68341,14.75178,44.68341,14.75178",
+    "geom:latitude":14.75178,
+    "geom:longitude":44.68341,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al `Abbah",
+    "gn:country_code":"YE",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363965,
+    "gn:latitude":14.75178,
+    "gn:longitude":44.68341,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Al \u2018Abbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ibbah",
+        "Al \u2018Abbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363965
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6301beba020f6a58b986d711dbb3eba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1343649495,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343649495,
+    "wof:lastmodified":1537715884,
+    "wof:name":"Al `Abbah",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68341,
+    14.75178,
+    44.68341,
+    14.75178
+],
+  "geometry": {"coordinates":[44.68341,14.75178],"type":"Point"}
+}

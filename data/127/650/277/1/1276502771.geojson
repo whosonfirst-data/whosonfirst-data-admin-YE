@@ -1,0 +1,71 @@
+{
+  "id": 1276502771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51775,15.6592,43.51775,15.6592",
+    "geom:latitude":15.6592,
+    "geom:longitude":43.51775,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1726.0",
+    "gn:asciiname":"Al Qutayfah",
+    "gn:country_code":"YE",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344181,
+    "gn:latitude":15.6592,
+    "gn:longitude":43.51775,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qu\u0163ayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qu\u0163ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8a51d804c44c285b2d87ef45026b92a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924177,
+            "locality_id":1276502771,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276502771,
+    "wof:lastmodified":1537715531,
+    "wof:name":"Al Qutayfah",
+    "wof:parent_id":1091924177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51775,
+    15.6592,
+    43.51775,
+    15.6592
+],
+  "geometry": {"coordinates":[43.51775,15.6592],"type":"Point"}
+}

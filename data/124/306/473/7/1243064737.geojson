@@ -1,0 +1,68 @@
+{
+  "id": 1243064737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39347,14.45943,43.39347,14.45943",
+    "geom:latitude":14.45943,
+    "geom:longitude":43.39347,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Ar Rutbah",
+    "gn:country_code":"YE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407546,
+    "gn:latitude":14.45943,
+    "gn:longitude":43.39347,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rutbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407546
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9de326aa73357d481db4c903c9cfdc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1243064737,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243064737,
+    "wof:lastmodified":1536857578,
+    "wof:name":"Ar Rutbah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39347,
+    14.45943,
+    43.39347,
+    14.45943
+],
+  "geometry": {"coordinates":[43.39347,14.45943],"type":"Point"}
+}

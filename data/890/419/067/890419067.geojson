@@ -1,0 +1,73 @@
+{
+  "id": 890419067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38063,17.02994,44.38063,17.02994",
+    "geom:latitude":17.02994,
+    "geom:longitude":44.38063,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jiblah"
+    ],
+    "qs:name":"Al Jiblah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785360,
+        "gp:id":1959086,
+        "qs:id":700276,
+        "wd:id":"Q20303346"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051272,
+    "wof:geomhash":"677b10f4b50ba7a6933a0619cc40445c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":890419067,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419067,
+    "wof:lastmodified":1514503161,
+    "wof:name":"Al Jiblah",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38063,
+    17.02994,
+    44.38063,
+    17.02994
+],
+  "geometry": {"coordinates":[44.38063,17.02994],"type":"Point"}
+}

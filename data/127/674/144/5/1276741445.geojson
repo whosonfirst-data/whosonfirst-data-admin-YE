@@ -1,0 +1,71 @@
+{
+  "id": 1276741445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38168,15.46939,43.38168,15.46939",
+    "geom:latitude":15.46939,
+    "geom:longitude":43.38168,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Al Hamidah",
+    "gn:country_code":"YE",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364988,
+    "gn:latitude":15.46939,
+    "gn:longitude":43.38168,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al \u1e28\u0101mi\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28\u0101mi\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364988
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2136fae1066e9eff740785751084fb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1276741445,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276741445,
+    "wof:lastmodified":1537715914,
+    "wof:name":"Al Hamidah",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38168,
+    15.46939,
+    43.38168,
+    15.46939
+],
+  "geometry": {"coordinates":[43.38168,15.46939],"type":"Point"}
+}

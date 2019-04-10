@@ -1,0 +1,71 @@
+{
+  "id": 1343450795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38407,14.92409,43.38407,14.92409",
+    "geom:latitude":14.92409,
+    "geom:longitude":43.38407,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Ar Raqqah",
+    "gn:country_code":"YE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340794,
+    "gn:latitude":14.92409,
+    "gn:longitude":43.38407,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ar Raqqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340794
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ca574dd9eff77456d5fdd6a6d6efd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1343450795,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343450795,
+    "wof:lastmodified":1537715460,
+    "wof:name":"Ar Raqqah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38407,
+    14.92409,
+    43.38407,
+    14.92409
+],
+  "geometry": {"coordinates":[43.38407,14.92409],"type":"Point"}
+}

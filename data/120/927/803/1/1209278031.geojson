@@ -1,0 +1,65 @@
+{
+  "id": 1209278031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9243,15.51271,43.9243,15.51271",
+    "geom:latitude":15.51271,
+    "geom:longitude":43.9243,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Ablas",
+    "gn:country_code":"YE",
+    "gn:dem":2574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344249,
+    "gn:latitude":15.51271,
+    "gn:longitude":43.9243,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Abl\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Abl\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344249
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f55e9d926558302910ffa5694e3caadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209278031
+        }
+    ],
+    "wof:id":1209278031,
+    "wof:lastmodified":1537715532,
+    "wof:name":"Ablas",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9243,
+    15.51271,
+    43.9243,
+    15.51271
+],
+  "geometry": {"coordinates":[43.9243,15.51271],"type":"Point"}
+}

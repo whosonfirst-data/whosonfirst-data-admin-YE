@@ -1,0 +1,71 @@
+{
+  "id": 1276630237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79929,16.09244,43.79929,16.09244",
+    "geom:latitude":16.09244,
+    "geom:longitude":43.79929,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Al Khushayb",
+    "gn:country_code":"YE",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633794,
+    "gn:latitude":16.09244,
+    "gn:longitude":43.79929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khushayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u064a\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633794
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b8f5d00ab9e11c988f9f397c5aebbc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1276630237,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276630237,
+    "wof:lastmodified":1537716073,
+    "wof:name":"Al Khushayb",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79929,
+    16.09244,
+    43.79929,
+    16.09244
+],
+  "geometry": {"coordinates":[43.79929,16.09244],"type":"Point"}
+}

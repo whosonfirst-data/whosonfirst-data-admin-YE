@@ -1,0 +1,73 @@
+{
+  "id": 890437517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23338,17.05952,44.23338,17.05952",
+    "geom:latitude":17.05952,
+    "geom:longitude":44.23338,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u0641\u062d\u0644\u0648\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Al Fahlawayn"
+    ],
+    "qs:name":"Ra\u2019s al Fa\u1e29lawayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789630,
+        "gp:id":1959086,
+        "qs:id":700343,
+        "wd:id":"Q20306269"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052154,
+    "wof:geomhash":"a90575e41c3933811fdb0212eb437984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890437517,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890437517,
+    "wof:lastmodified":1514503344,
+    "wof:name":"Ra\u2019s al Fa\u1e29lawayn",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23338,
+    17.05952,
+    44.23338,
+    17.05952
+],
+  "geometry": {"coordinates":[44.23338,17.05952],"type":"Point"}
+}

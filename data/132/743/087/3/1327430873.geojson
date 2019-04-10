@@ -1,0 +1,76 @@
+{
+  "id": 1327430873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.20972,14.56889,49.20972,14.56889",
+    "geom:latitude":14.56889,
+    "geom:longitude":49.20972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1929.0",
+    "gn:asciiname":"Ar Rukayb",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78079,
+    "gn:latitude":14.56889,
+    "gn:longitude":49.20972,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Rukayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukub",
+        "Al-Rukaib",
+        "Ar Rukaib",
+        "Ar Rukayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78079,
+        "wk:page":"Ar_Rukayb"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"42b2f9b1f3e9e3f9a0fc1515cb01390e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922665,
+            "locality_id":1327430873,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327430873,
+    "wof:lastmodified":1537715246,
+    "wof:name":"Ar Rukayb",
+    "wof:parent_id":1091922665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.20972,
+    14.56889,
+    49.20972,
+    14.56889
+],
+  "geometry": {"coordinates":[49.20972,14.56889],"type":"Point"}
+}

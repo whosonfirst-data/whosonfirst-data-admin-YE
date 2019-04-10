@@ -1,0 +1,74 @@
+{
+  "id": 1310163951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39908,16.32189,43.39908,16.32189",
+    "geom:latitude":16.32189,
+    "geom:longitude":43.39908,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Ar Rabu`",
+    "gn:country_code":"YE",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410973,
+    "gn:latitude":16.32189,
+    "gn:longitude":43.39908,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rab\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ar Rab\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410973
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c5ab477381a8843d555a2dd150f350f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1310163951,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310163951,
+    "wof:lastmodified":1537715429,
+    "wof:name":"Ar Rabu`",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39908,
+    16.32189,
+    43.39908,
+    16.32189
+],
+  "geometry": {"coordinates":[43.39908,16.32189],"type":"Point"}
+}

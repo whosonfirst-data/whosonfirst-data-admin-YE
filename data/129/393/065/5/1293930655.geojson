@@ -1,0 +1,81 @@
+{
+  "id": 1293930655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.16667,12.43333,54.16667,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":54.16667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Da`iri",
+    "gn:country_code":"YE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76596,
+    "gn:latitude":12.43333,
+    "gn:longitude":54.16667,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Da\u2018iri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deairi",
+        "Da\u2019ira",
+        "Da\u2018iri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76596
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8afabb995e792dc17826f295fb18db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1293930655,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1293930655,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293930655,
+    "wof:lastmodified":1537715206,
+    "wof:name":"Da`iri",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.16667,
+    12.43333,
+    54.16667,
+    12.43333
+],
+  "geometry": {"coordinates":[54.16667,12.43333],"type":"Point"}
+}

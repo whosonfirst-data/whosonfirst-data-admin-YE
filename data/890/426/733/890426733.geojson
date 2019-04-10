@@ -1,0 +1,71 @@
+{
+  "id": 890426733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74726,15.53758,42.74726,15.53758",
+    "geom:latitude":15.53758,
+    "geom:longitude":42.74726,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":55,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u064a\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Ghal\u012bl"
+    ],
+    "qs:name":"Ghulayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680959,
+        85632499,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026148,
+        "qs:id":750689
+    },
+    "wof:country":"YE",
+    "wof:created":1469051644,
+    "wof:geomhash":"66786e4985062b7f1a375d25fb3dc67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "neighbourhood_id":890426733,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":890426733,
+    "wof:lastmodified":1505343495,
+    "wof:name":"Ghulayl",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74726,
+    15.53758,
+    42.74726,
+    15.53758
+],
+  "geometry": {"coordinates":[42.74726,15.53758],"type":"Point"}
+}

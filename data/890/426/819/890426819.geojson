@@ -1,0 +1,73 @@
+{
+  "id": 890426819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23449,14.04975,45.23449,14.04975",
+    "geom:latitude":14.04975,
+    "geom:longitude":45.23449,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bawt"
+    ],
+    "qs:name":"Al Bawt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051859,
+        "gp:id":1958988,
+        "qs:id":751241,
+        "wd:id":"Q20304671"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051647,
+    "wof:geomhash":"1aff8665358270ee544522c0008dde1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890426819,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890426819,
+    "wof:lastmodified":1514503136,
+    "wof:name":"Al Bawt",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23449,
+    14.04975,
+    45.23449,
+    14.04975
+],
+  "geometry": {"coordinates":[45.23449,14.04975],"type":"Point"}
+}

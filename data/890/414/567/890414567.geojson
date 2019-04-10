@@ -1,0 +1,73 @@
+{
+  "id": 890414567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68064,14.18765,45.68064,14.18765",
+    "geom:latitude":14.18765,
+    "geom:longitude":45.68064,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0634\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jarishah"
+    ],
+    "qs:name":"Al Jarishah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066796,
+        "gp:id":1952504,
+        "qs:id":752848,
+        "wd:id":"Q20303004"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051053,
+    "wof:geomhash":"d764e2e8526c5d18466e32828809c21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":890414567,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890414567,
+    "wof:lastmodified":1514503156,
+    "wof:name":"Al Jarishah",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68064,
+    14.18765,
+    45.68064,
+    14.18765
+],
+  "geometry": {"coordinates":[45.68064,14.18765],"type":"Point"}
+}

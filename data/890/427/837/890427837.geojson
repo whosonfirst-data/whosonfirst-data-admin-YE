@@ -1,0 +1,76 @@
+{
+  "id": 890427837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30402,16.50352,44.30402,16.50352",
+    "geom:latitude":16.50352,
+    "geom:longitude":44.30402,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":26,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Munb\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0628\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Munba'"
+    ],
+    "qs:name":"Al Munb\u0101\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795156,
+        "gp:id":1958965,
+        "qs:id":700921,
+        "wd:id":"Q20302616"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051720,
+    "wof:geomhash":"8add02524936cddbdc739659288876a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890427837,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427837,
+    "wof:lastmodified":1514503192,
+    "wof:name":"Al Munb\u0101\u2018",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30402,
+    16.50352,
+    44.30402,
+    16.50352
+],
+  "geometry": {"coordinates":[44.30402,16.50352],"type":"Point"}
+}

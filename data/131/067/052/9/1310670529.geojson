@@ -1,0 +1,74 @@
+{
+  "id": 1310670529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48391,17.24829,43.48391,17.24829",
+    "geom:latitude":17.24829,
+    "geom:longitude":43.48391,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Al Hijadah",
+    "gn:country_code":"YE",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537144,
+    "gn:latitude":17.24829,
+    "gn:longitude":43.48391,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Hij\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062c\u0627\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Hij\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537144
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6cd00fa211a974d854983249bd8c4e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1310670529,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310670529,
+    "wof:lastmodified":1537716053,
+    "wof:name":"Al Hijadah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48391,
+    17.24829,
+    43.48391,
+    17.24829
+],
+  "geometry": {"coordinates":[43.48391,17.24829],"type":"Point"}
+}

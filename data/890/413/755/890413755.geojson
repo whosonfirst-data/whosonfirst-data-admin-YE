@@ -1,0 +1,80 @@
+{
+  "id": 890413755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43717,16.18944,43.43717,16.18944",
+    "geom:latitude":16.18944,
+    "geom:longitude":43.43717,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0642 \u0627\u0644\u062f\u0627\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Awaq Ad Darah"
+    ],
+    "qs:name":"\u2018Awaq ad D\u0101rah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679809,
+        "gp:id":1959128,
+        "qs:id":696964,
+        "wd:id":"Q20299405"
+    },
+    "wof:concordances_alt":{
+        "gn:id":7679808,
+        "gp:id":1953570,
+        "qs:id":696963
+    },
+    "wof:country":"YE",
+    "wof:created":1469051013,
+    "wof:geomhash":"1c87bd8ba501c4f3f3ddf76d41d891a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890413755,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890413755,
+    "wof:lastmodified":1534379829,
+    "wof:name":"\u2018Awaq ad D\u0101rah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890413753
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43717,
+    16.18944,
+    43.43717,
+    16.18944
+],
+  "geometry": {"coordinates":[43.43717,16.18944],"type":"Point"}
+}

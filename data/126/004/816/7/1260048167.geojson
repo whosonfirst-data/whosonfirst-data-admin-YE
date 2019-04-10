@@ -1,0 +1,68 @@
+{
+  "id": 1260048167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84042,12.9636,43.84042,12.9636",
+    "geom:latitude":12.9636,
+    "geom:longitude":43.84042,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Harab",
+    "gn:country_code":"YE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408064,
+    "gn:latitude":12.9636,
+    "gn:longitude":43.84042,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Harab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408064
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2ff4e7444f4f84e79adfe8e3f09c3918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1260048167,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1260048167,
+    "wof:lastmodified":1537037417,
+    "wof:name":"Harab",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84042,
+    12.9636,
+    43.84042,
+    12.9636
+],
+  "geometry": {"coordinates":[43.84042,12.9636],"type":"Point"}
+}

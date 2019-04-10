@@ -1,0 +1,74 @@
+{
+  "id": 1310591041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22133,15.3114,43.22133,15.3114",
+    "geom:latitude":15.3114,
+    "geom:longitude":43.22133,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Ar Rafi`i",
+    "gn:country_code":"YE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76236,
+    "gn:latitude":15.3114,
+    "gn:longitude":43.22133,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ar R\u0101fi\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar R\u0101fi\u2018\u012b"
+    ],
+    "name:und_x_variant":[
+        "Dayr Rafa\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76236
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"454bd31d72749d8146b58d6c7f2b7e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1310591041,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310591041,
+    "wof:lastmodified":1537715190,
+    "wof:name":"Ar Rafi`i",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22133,
+    15.3114,
+    43.22133,
+    15.3114
+],
+  "geometry": {"coordinates":[43.22133,15.3114],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209571925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46575,16.17139,44.46575,16.17139",
+    "geom:latitude":16.17139,
+    "geom:longitude":44.46575,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1607.0",
+    "gn:asciiname":"Khadad",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974901,
+    "gn:latitude":16.17139,
+    "gn:longitude":44.46575,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khad\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u062f\u0627\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khad\u0101d",
+        "Al Kad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974901
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb357fc7f960a34f1911cb18f4c31055",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209571925
+        }
+    ],
+    "wof:id":1209571925,
+    "wof:lastmodified":1537716115,
+    "wof:name":"Khadad",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46575,
+    16.17139,
+    44.46575,
+    16.17139
+],
+  "geometry": {"coordinates":[44.46575,16.17139],"type":"Point"}
+}

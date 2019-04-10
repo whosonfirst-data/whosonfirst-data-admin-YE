@@ -1,0 +1,71 @@
+{
+  "id": 1344241507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23635,14.96904,43.23635,14.96904",
+    "geom:latitude":14.96904,
+    "geom:longitude":43.23635,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Dayr al Mudawwar",
+    "gn:country_code":"YE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75677,
+    "gn:latitude":14.96904,
+    "gn:longitude":43.23635,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Dayr al Mudawwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghamn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75677
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3493d6ef41c306ed6605c4ad5839dee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1344241507,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344241507,
+    "wof:lastmodified":1537715181,
+    "wof:name":"Dayr al Mudawwar",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23635,
+    14.96904,
+    43.23635,
+    14.96904
+],
+  "geometry": {"coordinates":[43.23635,14.96904],"type":"Point"}
+}

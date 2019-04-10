@@ -1,0 +1,74 @@
+{
+  "id": 1293752177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23885,14.25193,44.23885,14.25193",
+    "geom:latitude":14.25193,
+    "geom:longitude":44.23885,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Ad Dar al Kabir",
+    "gn:country_code":"YE",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870193,
+    "gn:latitude":14.25193,
+    "gn:longitude":44.23885,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad D\u0101r al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u0101r al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870193
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"429df904472c7f6a4cb481a6e2eba925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1293752177,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293752177,
+    "wof:lastmodified":1537716212,
+    "wof:name":"Ad Dar al Kabir",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23885,
+    14.25193,
+    44.23885,
+    14.25193
+],
+  "geometry": {"coordinates":[44.23885,14.25193],"type":"Point"}
+}

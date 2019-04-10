@@ -1,0 +1,71 @@
+{
+  "id": 1259376905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43292,15.47187,43.43292,15.47187",
+    "geom:latitude":15.47187,
+    "geom:longitude":43.43292,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"As Saffah",
+    "gn:country_code":"YE",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365192,
+    "gn:latitude":15.47187,
+    "gn:longitude":43.43292,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"A\u015f \u015eaffah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eaffah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365192
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fdc61266b455c9ab85fd861cd646607d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1259376905,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259376905,
+    "wof:lastmodified":1537715921,
+    "wof:name":"As Saffah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43292,
+    15.47187,
+    43.43292,
+    15.47187
+],
+  "geometry": {"coordinates":[43.43292,15.47187],"type":"Point"}
+}

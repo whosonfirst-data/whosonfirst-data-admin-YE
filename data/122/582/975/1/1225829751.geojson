@@ -1,0 +1,68 @@
+{
+  "id": 1225829751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29616,14.51809,43.29616,14.51809",
+    "geom:latitude":14.51809,
+    "geom:longitude":43.29616,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Jenne",
+    "gn:country_code":"YE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74192,
+    "gn:latitude":14.51809,
+    "gn:longitude":43.29616,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Jenne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74192
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5051543dad026e00bed799af61f7d003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1225829751,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225829751,
+    "wof:lastmodified":1537035214,
+    "wof:name":"Jenne",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29616,
+    14.51809,
+    43.29616,
+    14.51809
+],
+  "geometry": {"coordinates":[43.29616,14.51809],"type":"Point"}
+}

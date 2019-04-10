@@ -1,0 +1,73 @@
+{
+  "id": 890414659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96016,13.11652,43.96016,13.11652",
+    "geom:latitude":13.11652,
+    "geom:longitude":43.96016,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u062c\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Jurayjirah"
+    ],
+    "qs:name":"Jurayjirah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071466,
+        "gp:id":1958962,
+        "qs:id":753850,
+        "wd:id":"Q20306531"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051056,
+    "wof:geomhash":"d9881cecee2fb9c75e777ccf6620d703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890414659,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414659,
+    "wof:lastmodified":1514503299,
+    "wof:name":"Jurayjirah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96016,
+    13.11652,
+    43.96016,
+    13.11652
+],
+  "geometry": {"coordinates":[43.96016,13.11652],"type":"Point"}
+}

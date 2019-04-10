@@ -1,0 +1,71 @@
+{
+  "id": 1344120577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29483,15.10579,44.29483,15.10579",
+    "geom:latitude":15.10579,
+    "geom:longitude":44.29483,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Tawalib",
+    "gn:country_code":"YE",
+    "gn:dem":2481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361747,
+    "gn:latitude":15.10579,
+    "gn:longitude":44.29483,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taw\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taw\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361747
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ab8d771e9a529a77ecb416f007efdcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925795,
+            "locality_id":1344120577,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344120577,
+    "wof:lastmodified":1537715824,
+    "wof:name":"Tawalib",
+    "wof:parent_id":1091925795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29483,
+    15.10579,
+    44.29483,
+    15.10579
+],
+  "geometry": {"coordinates":[44.29483,15.10579],"type":"Point"}
+}

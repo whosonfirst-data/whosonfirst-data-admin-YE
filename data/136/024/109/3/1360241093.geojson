@@ -1,0 +1,68 @@
+{
+  "id": 1360241093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52808,15.93871,43.52808,15.93871",
+    "geom:latitude":15.93871,
+    "geom:longitude":43.52808,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1716.0",
+    "gn:asciiname":"Al Manafah",
+    "gn:country_code":"YE",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343536,
+    "gn:latitude":15.93871,
+    "gn:longitude":43.52808,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Manafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343536
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b7a1e78a4f774fc17564985f61abafe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923689,
+            "locality_id":1360241093,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1360241093,
+    "wof:lastmodified":1536721103,
+    "wof:name":"Al Manafah",
+    "wof:parent_id":1091923689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52808,
+    15.93871,
+    43.52808,
+    15.93871
+],
+  "geometry": {"coordinates":[43.52808,15.93871],"type":"Point"}
+}

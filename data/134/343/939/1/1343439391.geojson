@@ -1,0 +1,68 @@
+{
+  "id": 1343439391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85847,15.41088,43.85847,15.41088",
+    "geom:latitude":15.41088,
+    "geom:longitude":43.85847,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Muslim",
+    "gn:country_code":"YE",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402533,
+    "gn:latitude":15.41088,
+    "gn:longitude":43.85847,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muslim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402533
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"479dce1931d450aa8e6a6965002834ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1343439391,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343439391,
+    "wof:lastmodified":1536777275,
+    "wof:name":"Muslim",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85847,
+    15.41088,
+    43.85847,
+    15.41088
+],
+  "geometry": {"coordinates":[43.85847,15.41088],"type":"Point"}
+}

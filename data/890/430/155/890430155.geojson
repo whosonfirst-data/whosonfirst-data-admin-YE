@@ -1,0 +1,73 @@
+{
+  "id": 890430155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58824,16.01329,43.58824,16.01329",
+    "geom:latitude":16.01329,
+    "geom:longitude":43.58824,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0641\u0640\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hayfa"
+    ],
+    "qs:name":"Al \u1e28ayf\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927485,
+        "gp:id":1959128,
+        "qs:id":745488,
+        "wd:id":"Q20300968"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051841,
+    "wof:geomhash":"ae5da52acc8de201699844690ff266d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":890430155,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890430155,
+    "wof:lastmodified":1514503205,
+    "wof:name":"Al \u1e28ayf\u0101\u2019",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58824,
+    16.01329,
+    43.58824,
+    16.01329
+],
+  "geometry": {"coordinates":[43.58824,16.01329],"type":"Point"}
+}

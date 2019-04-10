@@ -1,0 +1,74 @@
+{
+  "id": 1343244871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28296,16.91345,43.28296,16.91345",
+    "geom:latitude":16.91345,
+    "geom:longitude":43.28296,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Ra's al Jabal",
+    "gn:country_code":"YE",
+    "gn:dem":2382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346331,
+    "gn:latitude":16.91345,
+    "gn:longitude":43.28296,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ra\u2019s al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s al Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346331
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee5e42a50b6d4e4f6d08a13a03fb2441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1343244871,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343244871,
+    "wof:lastmodified":1537715587,
+    "wof:name":"Ra's al Jabal",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28296,
+    16.91345,
+    43.28296,
+    16.91345
+],
+  "geometry": {"coordinates":[43.28296,16.91345],"type":"Point"}
+}

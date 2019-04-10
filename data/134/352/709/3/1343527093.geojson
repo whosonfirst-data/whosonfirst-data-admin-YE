@@ -1,0 +1,71 @@
+{
+  "id": 1343527093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42101,13.76582,44.42101,13.76582",
+    "geom:latitude":13.76582,
+    "geom:longitude":44.42101,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3009.0",
+    "gn:asciiname":"Ad Dahr",
+    "gn:country_code":"YE",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356958,
+    "gn:latitude":13.76582,
+    "gn:longitude":44.42101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e11 \u1e10ahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3bb8664480cb83fe26d05502265a5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":1343527093,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343527093,
+    "wof:lastmodified":1537715688,
+    "wof:name":"Ad Dahr",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42101,
+    13.76582,
+    44.42101,
+    13.76582
+],
+  "geometry": {"coordinates":[44.42101,13.76582],"type":"Point"}
+}

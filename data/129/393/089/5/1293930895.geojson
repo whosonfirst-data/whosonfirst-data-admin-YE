@@ -1,0 +1,71 @@
+{
+  "id": 1293930895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84371,14.63637,43.84371,14.63637",
+    "geom:latitude":14.63637,
+    "geom:longitude":43.84371,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3103.0",
+    "gn:asciiname":"Al Maswal",
+    "gn:country_code":"YE",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400968,
+    "gn:latitude":14.63637,
+    "gn:longitude":43.84371,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u015fwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u015fwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400968
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"775421f9eed24f12071b420f13a265e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925307,
+            "locality_id":1293930895,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1293930895,
+    "wof:lastmodified":1537715340,
+    "wof:name":"Al Maswal",
+    "wof:parent_id":1091925307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84371,
+    14.63637,
+    43.84371,
+    14.63637
+],
+  "geometry": {"coordinates":[43.84371,14.63637],"type":"Point"}
+}

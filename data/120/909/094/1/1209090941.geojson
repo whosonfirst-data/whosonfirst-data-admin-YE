@@ -1,0 +1,68 @@
+{
+  "id": 1209090941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44092,15.03603,43.44092,15.03603",
+    "geom:latitude":15.03603,
+    "geom:longitude":43.44092,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Ad Duyur",
+    "gn:country_code":"YE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365157,
+    "gn:latitude":15.03603,
+    "gn:longitude":43.44092,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ad Duy\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad Duy\u016br"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b Zayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365157
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f585f8b5b4c87caa6c6778b645965264",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209090941
+        }
+    ],
+    "wof:id":1209090941,
+    "wof:lastmodified":1537715920,
+    "wof:name":"Ad Duyur",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44092,
+    15.03603,
+    43.44092,
+    15.03603
+],
+  "geometry": {"coordinates":[43.44092,15.03603],"type":"Point"}
+}

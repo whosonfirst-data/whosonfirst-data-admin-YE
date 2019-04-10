@@ -1,0 +1,73 @@
+{
+  "id": 890421269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23242,16.69631,43.23242,16.69631",
+    "geom:latitude":16.69631,
+    "geom:longitude":43.23242,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0636\u0628\u064a\u0631\u0629 \u0627\u0644\u0642\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Dubayrat Al Qa'"
+    ],
+    "qs:name":"\u1e10ubayrat al Q\u0101\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079421,
+        "gp:id":1938881,
+        "qs:id":754804,
+        "wd:id":"Q20303105"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051385,
+    "wof:geomhash":"bdc2b3fe9aafb4c5446dec43fefd8d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890421269,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890421269,
+    "wof:lastmodified":1514503397,
+    "wof:name":"\u1e10ubayrat al Q\u0101\u2018",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23242,
+    16.69631,
+    43.23242,
+    16.69631
+],
+  "geometry": {"coordinates":[43.23242,16.69631],"type":"Point"}
+}

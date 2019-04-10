@@ -1,0 +1,71 @@
+{
+  "id": 1192996603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60191,15.50566,43.60191,15.50566",
+    "geom:latitude":15.50566,
+    "geom:longitude":43.60191,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Dhahban",
+    "gn:country_code":"YE",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344410,
+    "gn:latitude":15.50566,
+    "gn:longitude":43.60191,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dhahb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhahb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344410
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4d10a7e0f168f53c81660a3a7202b9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1192996603,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1192996603,
+    "wof:lastmodified":1537715539,
+    "wof:name":"Dhahban",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60191,
+    15.50566,
+    43.60191,
+    15.50566
+],
+  "geometry": {"coordinates":[43.60191,15.50566],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276825225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51156,15.64593,43.51156,15.64593",
+    "geom:latitude":15.64593,
+    "geom:longitude":43.51156,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Shi`b Hajir",
+    "gn:country_code":"YE",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344167,
+    "gn:latitude":15.64593,
+    "gn:longitude":43.51156,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shi\u2018b H\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shi\u2018b H\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344167
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc12345eadc52cfb42752bd5b7e7afa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1276825225,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276825225,
+    "wof:lastmodified":1537715530,
+    "wof:name":"Shi`b Hajir",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51156,
+    15.64593,
+    43.51156,
+    15.64593
+],
+  "geometry": {"coordinates":[43.51156,15.64593],"type":"Point"}
+}

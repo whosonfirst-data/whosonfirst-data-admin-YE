@@ -1,0 +1,74 @@
+{
+  "id": 1327218367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93902,15.22618,42.93902,15.22618",
+    "geom:latitude":15.22618,
+    "geom:longitude":42.93902,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Muhammad Ahmad Kabsh",
+    "gn:country_code":"YE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989017,
+    "gn:latitude":15.22618,
+    "gn:longitude":42.93902,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad A\u1e29mad Kabsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0623\u062d\u0645\u062f \u0643\u0628\u0634"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad A\u1e29mad Kabsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989017
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"559e955e26aef64573800d707fbe1b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1327218367,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327218367,
+    "wof:lastmodified":1537716300,
+    "wof:name":"Muhammad Ahmad Kabsh",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93902,
+    15.22618,
+    42.93902,
+    15.22618
+],
+  "geometry": {"coordinates":[42.93902,15.22618],"type":"Point"}
+}

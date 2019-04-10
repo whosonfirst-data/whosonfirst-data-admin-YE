@@ -1,0 +1,71 @@
+{
+  "id": 1343519911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0868,16.4246,43.0868,16.4246",
+    "geom:latitude":16.4246,
+    "geom:longitude":43.0868,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Zahb Hajar",
+    "gn:country_code":"YE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363117,
+    "gn:latitude":16.4246,
+    "gn:longitude":43.0868,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zahb \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zahb \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363117
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1cc49e97c034efdaf7e1c5cb870660c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1343519911,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343519911,
+    "wof:lastmodified":1537715863,
+    "wof:name":"Zahb Hajar",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0868,
+    16.4246,
+    43.0868,
+    16.4246
+],
+  "geometry": {"coordinates":[43.0868,16.4246],"type":"Point"}
+}

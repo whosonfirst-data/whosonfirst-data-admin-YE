@@ -1,0 +1,71 @@
+{
+  "id": 1209900769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50456,13.95645,43.50456,13.95645",
+    "geom:latitude":13.95645,
+    "geom:longitude":43.50456,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1819.0",
+    "gn:asciiname":"Al Qulmah",
+    "gn:country_code":"YE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407620,
+    "gn:latitude":13.95645,
+    "gn:longitude":43.50456,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qulmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u0101\u2018 al Qulmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407620
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8a19e2f281390ffeb2f9df52fd72ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":1209900769,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209900769,
+    "wof:lastmodified":1537715398,
+    "wof:name":"Al Qulmah",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50456,
+    13.95645,
+    43.50456,
+    13.95645
+],
+  "geometry": {"coordinates":[43.50456,13.95645],"type":"Point"}
+}

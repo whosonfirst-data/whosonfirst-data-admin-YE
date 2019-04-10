@@ -1,0 +1,71 @@
+{
+  "id": 1259777003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85231,15.53092,43.85231,15.53092",
+    "geom:latitude":15.53092,
+    "geom:longitude":43.85231,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bayt Shatir",
+    "gn:country_code":"YE",
+    "gn:dem":2708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344252,
+    "gn:latitude":15.53092,
+    "gn:longitude":43.85231,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Sh\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Sh\u0101\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344252
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"36fead8018ad04191c145bd9798b8e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1259777003,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259777003,
+    "wof:lastmodified":1537715533,
+    "wof:name":"Bayt Shatir",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85231,
+    15.53092,
+    43.85231,
+    15.53092
+],
+  "geometry": {"coordinates":[43.85231,15.53092],"type":"Point"}
+}

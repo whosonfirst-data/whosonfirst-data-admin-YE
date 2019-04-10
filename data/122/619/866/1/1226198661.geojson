@@ -1,0 +1,74 @@
+{
+  "id": 1226198661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52461,15.55705,43.52461,15.55705",
+    "geom:latitude":15.55705,
+    "geom:longitude":43.52461,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Al Qati'",
+    "gn:country_code":"YE",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980332,
+    "gn:latitude":15.55705,
+    "gn:longitude":43.52461,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u0163i\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u0163i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980332
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b6736e2f29f4c6df37d45e1253662e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1226198661,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226198661,
+    "wof:lastmodified":1537716166,
+    "wof:name":"Al Qati'",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52461,
+    15.55705,
+    43.52461,
+    15.55705
+],
+  "geometry": {"coordinates":[43.52461,15.55705],"type":"Point"}
+}

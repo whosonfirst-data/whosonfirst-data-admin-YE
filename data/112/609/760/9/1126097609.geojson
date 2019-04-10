@@ -1,0 +1,82 @@
+{
+  "id": 1126097609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69823,16.1829,43.69823,16.1829",
+    "geom:latitude":16.1829,
+    "geom:longitude":43.69823,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"YE",
+    "lbl:latitude":16.1829,
+    "lbl:longitude":43.69823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0637\u0640\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7928272,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Al Ma\u1e29a\u0163\u0163ah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":745705,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091922105,
+        85680977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928272,
+        "qs_pg:id":745705
+    },
+    "wof:country":"YE",
+    "wof:created":1497315490,
+    "wof:geomhash":"30deb275561f802a22174d0190bd1bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":-1,
+            "neighbourhood_id":1126097609,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126097609,
+    "wof:lastmodified":1509411960,
+    "wof:name":"Al Ma\u1e29a\u0163\u0163ah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69823,
+    16.1829,
+    43.69823,
+    16.1829
+],
+  "geometry": {"coordinates":[43.69823,16.1829],"type":"Point"}
+}

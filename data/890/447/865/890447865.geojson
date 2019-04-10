@@ -1,0 +1,79 @@
+{
+  "id": 890447865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36351,16.29221,43.36351,16.29221",
+    "geom:latitude":16.29221,
+    "geom:longitude":43.36351,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al W\u0101si\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0627\u0633\u0637"
+    ],
+    "qs:name":"Al W\u0101si\u0163",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761226,
+        "gp:id":1953570,
+        "qs:id":699218,
+        "qs_pg:id":695006
+    },
+    "wof:concordances_alt":{
+        "gn:id":7632989,
+        "qs:id":699192
+    },
+    "wof:country":"YE",
+    "wof:created":1469052608,
+    "wof:geomhash":"de8976bab038dbe78b3eeb1ecbce3e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447865,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447865,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Al W\u0101si\u0163",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890425205
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36351,
+    16.29221,
+    43.36351,
+    16.29221
+],
+  "geometry": {"coordinates":[43.36351,16.29221],"type":"Point"}
+}

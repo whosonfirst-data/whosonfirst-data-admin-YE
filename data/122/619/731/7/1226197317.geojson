@@ -1,0 +1,71 @@
+{
+  "id": 1226197317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18427,13.22038,44.18427,13.22038",
+    "geom:latitude":13.22038,
+    "geom:longitude":44.18427,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Al Lajan",
+    "gn:country_code":"YE",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871566,
+    "gn:latitude":13.22038,
+    "gn:longitude":44.18427,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Lajan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u062c\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871566
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"91ad358384c79ff545eefc11953bb70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1226197317,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226197317,
+    "wof:lastmodified":1537716251,
+    "wof:name":"Al Lajan",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18427,
+    13.22038,
+    44.18427,
+    13.22038
+],
+  "geometry": {"coordinates":[44.18427,13.22038],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260062875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26106,16.92033,43.26106,16.92033",
+    "geom:latitude":16.92033,
+    "geom:longitude":43.26106,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Mahall al Laghbayn",
+    "gn:country_code":"YE",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537567,
+    "gn:latitude":16.92033,
+    "gn:longitude":43.26106,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al Laghbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0644\u063a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Laghbayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537567
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"336f63ca0087b11d3396dbf1e0e14a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1260062875,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260062875,
+    "wof:lastmodified":1537716053,
+    "wof:name":"Mahall al Laghbayn",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26106,
+    16.92033,
+    43.26106,
+    16.92033
+],
+  "geometry": {"coordinates":[43.26106,16.92033],"type":"Point"}
+}

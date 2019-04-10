@@ -1,0 +1,73 @@
+{
+  "id": 1310210849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.22131,16.42386,48.22131,16.42386",
+    "geom:latitude":16.42386,
+    "geom:longitude":48.22131,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shuruj al Mujashimah",
+    "gn:country_code":"YE",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11501313,
+    "gn:latitude":16.42386,
+    "gn:longitude":48.22131,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shur\u016bj al Muj\u0101shimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0648\u062c \u0627\u0644\u0645\u062c\u0627\u0634\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shur\u016bj al Muj\u0101shimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11501313
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9a5bd1bd87ddf77f3d67725ccbf4420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1310210849,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310210849,
+    "wof:lastmodified":1537716359,
+    "wof:name":"Shuruj al Mujashimah",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.22131,
+    16.42386,
+    48.22131,
+    16.42386
+],
+  "geometry": {"coordinates":[48.22131,16.42386],"type":"Point"}
+}

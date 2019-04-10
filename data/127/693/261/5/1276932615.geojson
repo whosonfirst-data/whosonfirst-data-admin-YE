@@ -1,0 +1,74 @@
+{
+  "id": 1276932615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50858,14.11687,44.50858,14.11687",
+    "geom:latitude":14.11687,
+    "geom:longitude":44.50858,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Dhiyah",
+    "gn:country_code":"YE",
+    "gn:dem":2886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340053,
+    "gn:latitude":14.11687,
+    "gn:longitude":44.50858,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Dhiy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dhiy\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0630\u064a\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340053
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98a8789e023447293c24dac7a17b3e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1276932615,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276932615,
+    "wof:lastmodified":1537715437,
+    "wof:name":"Dhiyah",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50858,
+    14.11687,
+    44.50858,
+    14.11687
+],
+  "geometry": {"coordinates":[44.50858,14.11687],"type":"Point"}
+}

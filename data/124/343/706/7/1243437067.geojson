@@ -1,0 +1,71 @@
+{
+  "id": 1243437067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.291,17.10959,43.291,17.10959",
+    "geom:latitude":17.10959,
+    "geom:longitude":43.291,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Namalah",
+    "gn:country_code":"YE",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308021,
+    "gn:latitude":17.10959,
+    "gn:longitude":43.291,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Namalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308021
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c1ebd60c3cf782c81f4f273a63e3321f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1243437067,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243437067,
+    "wof:lastmodified":1537716037,
+    "wof:name":"Namalah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.291,
+    17.10959,
+    43.291,
+    17.10959
+],
+  "geometry": {"coordinates":[43.291,17.10959],"type":"Point"}
+}

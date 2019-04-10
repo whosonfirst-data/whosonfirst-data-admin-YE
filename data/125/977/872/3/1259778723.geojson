@@ -1,0 +1,74 @@
+{
+  "id": 1259778723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89245,15.72927,42.89245,15.72927",
+    "geom:latitude":15.72927,
+    "geom:longitude":42.89245,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"'Aytan",
+    "gn:country_code":"YE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983365,
+    "gn:latitude":15.72927,
+    "gn:longitude":42.89245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ay\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ay\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983365
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0e63dcce1105a7e839424ff214360739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1259778723,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259778723,
+    "wof:lastmodified":1537716296,
+    "wof:name":"'Aytan",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89245,
+    15.72927,
+    42.89245,
+    15.72927
+],
+  "geometry": {"coordinates":[42.89245,15.72927],"type":"Point"}
+}

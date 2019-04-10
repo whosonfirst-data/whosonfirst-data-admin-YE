@@ -1,0 +1,74 @@
+{
+  "id": 1343331447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19449,16.92728,44.19449,16.92728",
+    "geom:latitude":16.92728,
+    "geom:longitude":44.19449,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2213.0",
+    "gn:asciiname":"Nu`man",
+    "gn:country_code":"YE",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362726,
+    "gn:latitude":16.92728,
+    "gn:longitude":44.19449,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Nu\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Nu\u2018m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362726
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75389cc0f4bb5ad8131dadbe242bf951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":1343331447,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343331447,
+    "wof:lastmodified":1537715852,
+    "wof:name":"Nu`man",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19449,
+    16.92728,
+    44.19449,
+    16.92728
+],
+  "geometry": {"coordinates":[44.19449,16.92728],"type":"Point"}
+}

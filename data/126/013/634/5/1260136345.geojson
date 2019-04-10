@@ -1,0 +1,75 @@
+{
+  "id": 1260136345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48161,16.01514,43.48161,16.01514",
+    "geom:latitude":16.01514,
+    "geom:longitude":43.48161,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Ar Rahah",
+    "gn:country_code":"YE",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363272,
+    "gn:latitude":16.01514,
+    "gn:longitude":43.48161,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Ra\u1e29\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e29\u0101\u2019",
+        "Ar Ra\u1e29\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363272
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5f839984e36648a7f9ac11937c48c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1260136345,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260136345,
+    "wof:lastmodified":1537715867,
+    "wof:name":"Ar Rahah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48161,
+    16.01514,
+    43.48161,
+    16.01514
+],
+  "geometry": {"coordinates":[43.48161,16.01514],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243228641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81432,16.66483,43.81432,16.66483",
+    "geom:latitude":16.66483,
+    "geom:longitude":43.81432,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Malazim",
+    "gn:country_code":"YE",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306517,
+    "gn:latitude":16.66483,
+    "gn:longitude":43.81432,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mal\u0101zim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0627\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Mal\u0101zim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306517
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d66c0d747335dc40968c73739d3ebcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1243228641,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243228641,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Al Malazim",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81432,
+    16.66483,
+    43.81432,
+    16.66483
+],
+  "geometry": {"coordinates":[43.81432,16.66483],"type":"Point"}
+}

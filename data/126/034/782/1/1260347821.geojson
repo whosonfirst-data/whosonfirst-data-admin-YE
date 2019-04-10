@@ -1,0 +1,71 @@
+{
+  "id": 1260347821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8875,14.50417,44.8875,14.50417",
+    "geom:latitude":14.50417,
+    "geom:longitude":44.8875,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Al Darar",
+    "gn:country_code":"YE",
+    "gn:dem":2106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30642,
+    "gn:latitude":14.50417,
+    "gn:longitude":44.8875,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Dar\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Dar\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30642
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2078bc06f43c79fe716129ee6fb7f2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1260347821,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260347821,
+    "wof:lastmodified":1537715048,
+    "wof:name":"Al Darar",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8875,
+    14.50417,
+    44.8875,
+    14.50417
+],
+  "geometry": {"coordinates":[44.8875,14.50417],"type":"Point"}
+}

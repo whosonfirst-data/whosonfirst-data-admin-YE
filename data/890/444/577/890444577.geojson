@@ -1,0 +1,84 @@
+{
+  "id": 890444577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19224,15.50224,44.19224,15.50224",
+    "geom:latitude":15.50224,
+    "geom:longitude":44.19224,
+    "gn:country":"YE",
+    "gn:fcode":"FRMS",
+    "gn:pop":31,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0644\u0629"
+    ],
+    "qs:name":"Al Kawlah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053271,
+        "gp:id":12523005,
+        "qs:id":743911,
+        "qs_pg:id":751700,
+        "wd:id":"Q4702672",
+        "wk:page":"Al-Kawlah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052474,
+    "wof:geomhash":"8229acd69673d7279b3d72ec5f2ac39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":890444577,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":890444577,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":890444577,
+    "wof:lastmodified":1527787056,
+    "wof:name":"Al Kawlah",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19224,
+    15.50224,
+    44.19224,
+    15.50224
+],
+  "geometry": {"coordinates":[44.19224,15.50224],"type":"Point"}
+}

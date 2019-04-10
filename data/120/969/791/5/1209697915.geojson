@@ -1,0 +1,72 @@
+{
+  "id": 1209697915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93755,15.47453,43.93755,15.47453",
+    "geom:latitude":15.47453,
+    "geom:longitude":43.93755,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Az Zafir",
+    "gn:country_code":"YE",
+    "gn:dem":2599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402587,
+    "gn:latitude":15.47453,
+    "gn:longitude":43.93755,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az\u0327 Z\u0327af\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327af\u012br",
+        "\u1e10af\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402587
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9d570c6f83166bf222abbee6f39ac24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1209697915,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209697915,
+    "wof:lastmodified":1537715358,
+    "wof:name":"Az Zafir",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93755,
+    15.47453,
+    43.93755,
+    15.47453
+],
+  "geometry": {"coordinates":[43.93755,15.47453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890414693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78421,13.47174,43.78421,13.47174",
+    "geom:latitude":13.47174,
+    "geom:longitude":43.78421,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0642\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Shuqayrah"
+    ],
+    "qs:name":"Al Shuqayrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075717,
+        "gp:id":1959049,
+        "qs:id":754302,
+        "wd:id":"Q20299687"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051058,
+    "wof:geomhash":"4f25463c9ea4608fd1c7b85de7cb4d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890414693,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414693,
+    "wof:lastmodified":1514503201,
+    "wof:name":"Al Shuqayrah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78421,
+    13.47174,
+    43.78421,
+    13.47174
+],
+  "geometry": {"coordinates":[43.78421,13.47174],"type":"Point"}
+}

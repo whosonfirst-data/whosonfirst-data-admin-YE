@@ -1,0 +1,85 @@
+{
+  "id": 1125887183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27446,16.07234,43.27446,16.07234",
+    "geom:latitude":16.07234,
+    "geom:longitude":43.27446,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":16.07234,
+    "lbl:longitude":43.27446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0623\u0633\u0640\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Dayr Al Asid"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7632368,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Dayr al Asid",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632368,
+        "qs_pg:id":694917,
+        "wd:id":"Q20302057"
+    },
+    "wof:country":"YE",
+    "wof:created":1497295135,
+    "wof:geomhash":"d00c1e1c66bd48d30a5dfd991038ea8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":1125887183,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125887183,
+    "wof:lastmodified":1514503256,
+    "wof:name":"Dayr al Asid",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27446,
+    16.07234,
+    43.27446,
+    16.07234
+],
+  "geometry": {"coordinates":[43.27446,16.07234],"type":"Point"}
+}

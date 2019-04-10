@@ -1,0 +1,75 @@
+{
+  "id": 1242635303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07883,14.09561,44.07883,14.09561",
+    "geom:latitude":14.09561,
+    "geom:longitude":44.07883,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Qaryat Marwahah",
+    "gn:country_code":"YE",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360164,
+    "gn:latitude":14.09561,
+    "gn:longitude":44.07883,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat Marwa\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0648\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Marwa\u1e29ah",
+        "Marwa\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360164
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"46f7e8ffc7808206b9652f8d71f26f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1242635303,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242635303,
+    "wof:lastmodified":1537715794,
+    "wof:name":"Qaryat Marwahah",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07883,
+    14.09561,
+    44.07883,
+    14.09561
+],
+  "geometry": {"coordinates":[44.07883,14.09561],"type":"Point"}
+}

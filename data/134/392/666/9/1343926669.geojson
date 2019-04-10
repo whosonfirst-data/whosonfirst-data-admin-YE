@@ -1,0 +1,68 @@
+{
+  "id": 1343926669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35222,16.09111,43.35222,16.09111",
+    "geom:latitude":16.09111,
+    "geom:longitude":43.35222,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Mudayyirah",
+    "gn:country_code":"YE",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410947,
+    "gn:latitude":16.09111,
+    "gn:longitude":43.35222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mudayyirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410947
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da92f71d400f4a19a1ca8c75759e7107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1343926669,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343926669,
+    "wof:lastmodified":1537065968,
+    "wof:name":"Al Mudayyirah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35222,
+    16.09111,
+    43.35222,
+    16.09111
+],
+  "geometry": {"coordinates":[43.35222,16.09111],"type":"Point"}
+}

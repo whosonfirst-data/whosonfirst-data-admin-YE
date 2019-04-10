@@ -1,0 +1,74 @@
+{
+  "id": 1310583991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43351,16.82583,43.43351,16.82583",
+    "geom:latitude":16.82583,
+    "geom:longitude":43.43351,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Washah",
+    "gn:country_code":"YE",
+    "gn:dem":2419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346392,
+    "gn:latitude":16.82583,
+    "gn:longitude":43.43351,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Was\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0633\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Was\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346392
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21f65a6eedb4bff00cd97ea1f85d3638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1310583991,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310583991,
+    "wof:lastmodified":1537715590,
+    "wof:name":"Washah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43351,
+    16.82583,
+    43.43351,
+    16.82583
+],
+  "geometry": {"coordinates":[43.43351,16.82583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890449543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77221,13.45638,43.77221,13.45638",
+    "geom:latitude":13.45638,
+    "geom:longitude":43.77221,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0632\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'zibah"
+    ],
+    "name:unk_x_variant":[
+        "Al Ma\u2018zabah"
+    ],
+    "qs:name":"Al Ma\u2018zibah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075725,
+        "gp:id":1959049,
+        "qs:id":754310,
+        "wd:id":"Q20306197"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052697,
+    "wof:geomhash":"35619df2476cf71ad22f65a0caaece97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890449543,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449543,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018zibah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77221,
+    13.45638,
+    43.77221,
+    13.45638
+],
+  "geometry": {"coordinates":[43.77221,13.45638],"type":"Point"}
+}

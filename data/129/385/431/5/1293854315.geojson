@@ -1,0 +1,74 @@
+{
+  "id": 1293854315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19758,15.00482,45.19758,15.00482",
+    "geom:latitude":15.00482,
+    "geom:longitude":45.19758,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"Al Akhdad",
+    "gn:country_code":"YE",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976381,
+    "gn:latitude":15.00482,
+    "gn:longitude":45.19758,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Akhd\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062e\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Akhd\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976381
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9f2051a3e5c896375cc9382076bd0c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1293854315,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293854315,
+    "wof:lastmodified":1537716155,
+    "wof:name":"Al Akhdad",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19758,
+    15.00482,
+    45.19758,
+    15.00482
+],
+  "geometry": {"coordinates":[45.19758,15.00482],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293461367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66707,15.0545,43.66707,15.0545",
+    "geom:latitude":15.0545,
+    "geom:longitude":43.66707,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"At Tahim",
+    "gn:country_code":"YE",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360770,
+    "gn:latitude":15.0545,
+    "gn:longitude":43.66707,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"At Tah\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At Tah\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360770
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6633a2d176bfc4540f59d7a806584de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1293461367,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293461367,
+    "wof:lastmodified":1537715805,
+    "wof:name":"At Tahim",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66707,
+    15.0545,
+    43.66707,
+    15.0545
+],
+  "geometry": {"coordinates":[43.66707,15.0545],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293759377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79046,13.76153,44.79046,13.76153",
+    "geom:latitude":13.76153,
+    "geom:longitude":44.79046,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Dar al Hajuf",
+    "gn:country_code":"YE",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76447,
+    "gn:latitude":13.76153,
+    "gn:longitude":44.79046,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al \u1e28aj\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al \u1e28aj\u016bf",
+        "D\u0101r Hajuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76447
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c334a25f9311f4b5e2081f324c6e7ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1293759377,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1293759377,
+    "wof:lastmodified":1537715199,
+    "wof:name":"Dar al Hajuf",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79046,
+    13.76153,
+    44.79046,
+    13.76153
+],
+  "geometry": {"coordinates":[44.79046,13.76153],"type":"Point"}
+}

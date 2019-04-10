@@ -1,0 +1,73 @@
+{
+  "id": 1293652913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37762,15.65958,44.37762,15.65958",
+    "geom:latitude":15.65958,
+    "geom:longitude":44.37762,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bayt Shabanah",
+    "gn:country_code":"YE",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76897,
+    "gn:latitude":15.65958,
+    "gn:longitude":44.37762,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt Shab\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Shab\u0101nah",
+        "Bayt Shab\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76897,
+        "wk:page":"Bayt_Shaban"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"86b9263a736715e1220d2acc7e3cd797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1293652913,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293652913,
+    "wof:lastmodified":1537715211,
+    "wof:name":"Bayt Shabanah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37762,
+    15.65958,
+    44.37762,
+    15.65958
+],
+  "geometry": {"coordinates":[44.37762,15.65958],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210006515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30229,15.2327,43.30229,15.2327",
+    "geom:latitude":15.2327,
+    "geom:longitude":43.30229,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Shulayh",
+    "gn:country_code":"YE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402550,
+    "gn:latitude":15.2327,
+    "gn:longitude":43.30229,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Shulay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Shulay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402550
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b49965c900cd516b7783f79f5a37902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1210006515,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1210006515,
+    "wof:lastmodified":1537715357,
+    "wof:name":"Shulayh",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30229,
+    15.2327,
+    43.30229,
+    15.2327
+],
+  "geometry": {"coordinates":[43.30229,15.2327],"type":"Point"}
+}

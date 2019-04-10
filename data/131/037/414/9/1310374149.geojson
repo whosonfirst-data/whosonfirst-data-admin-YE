@@ -1,0 +1,74 @@
+{
+  "id": 1310374149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38467,16.36982,43.38467,16.36982",
+    "geom:latitude":16.36982,
+    "geom:longitude":43.38467,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Hawl",
+    "gn:country_code":"YE",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536239,
+    "gn:latitude":16.36982,
+    "gn:longitude":43.38467,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28awl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28awl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536239
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6ad01ae9459d6f22f66710ff7cd042e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1310374149,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310374149,
+    "wof:lastmodified":1537716051,
+    "wof:name":"Al Hawl",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38467,
+    16.36982,
+    43.38467,
+    16.36982
+],
+  "geometry": {"coordinates":[43.38467,16.36982],"type":"Point"}
+}

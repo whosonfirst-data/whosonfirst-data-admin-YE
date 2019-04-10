@@ -1,0 +1,75 @@
+{
+  "id": 1293545269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8871,14.14634,43.8871,14.14634",
+    "geom:latitude":14.14634,
+    "geom:longitude":43.8871,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"As Suhaybi",
+    "gn:country_code":"YE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358752,
+    "gn:latitude":14.14634,
+    "gn:longitude":43.8871,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"A\u015f \u015euhayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0647\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat a\u015f \u015eahayb\u012b",
+        "A\u015f \u015euhayb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358752
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"868c6cd878b06b88a009d0380fb45d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1293545269,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293545269,
+    "wof:lastmodified":1537715730,
+    "wof:name":"As Suhaybi",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8871,
+    14.14634,
+    43.8871,
+    14.14634
+],
+  "geometry": {"coordinates":[43.8871,14.14634],"type":"Point"}
+}

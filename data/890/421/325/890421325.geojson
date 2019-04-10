@@ -1,0 +1,75 @@
+{
+  "id": 890421325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34148,14.25671,45.34148,14.25671",
+    "geom:latitude":14.25671,
+    "geom:longitude":45.34148,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":16,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0647\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Jawhar"
+    ],
+    "qs:name":"Jawhar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":766,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051929,
+        "gp:id":1958988,
+        "qs:id":751307,
+        "wd:id":"Q20306283",
+        "wk:page":"Jawhar"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051388,
+    "wof:geomhash":"b122681c3e18a3fcc2a51122ed898a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":890421325,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890421325,
+    "wof:lastmodified":1527782111,
+    "wof:name":"Jawhar",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34148,
+    14.25671,
+    45.34148,
+    14.25671
+],
+  "geometry": {"coordinates":[45.34148,14.25671],"type":"Point"}
+}

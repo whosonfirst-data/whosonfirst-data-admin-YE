@@ -1,0 +1,71 @@
+{
+  "id": 1360242881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.499,14.26193,44.499,14.26193",
+    "geom:latitude":14.26193,
+    "geom:longitude":44.499,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Al Marazim",
+    "gn:country_code":"YE",
+    "gn:dem":2546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340023,
+    "gn:latitude":14.26193,
+    "gn:longitude":44.499,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Mar\u0101zim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mar\u0101zim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"abc5837a06f9532a4daf15bee46d5b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1360242881,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1360242881,
+    "wof:lastmodified":1537715436,
+    "wof:name":"Al Marazim",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.499,
+    14.26193,
+    44.499,
+    14.26193
+],
+  "geometry": {"coordinates":[44.499,14.26193],"type":"Point"}
+}

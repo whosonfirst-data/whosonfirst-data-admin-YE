@@ -1,0 +1,72 @@
+{
+  "id": 1226298245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18281,13.18393,44.18281,13.18393",
+    "geom:latitude":13.18393,
+    "geom:longitude":44.18281,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Sharaf Sharjab",
+    "gn:country_code":"YE",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70823,
+    "gn:latitude":13.18393,
+    "gn:longitude":44.18281,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Sharaf Sharjab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharjab",
+        "Sharaf Sharjab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70823
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b1f6da191eb5a34ae7a8e75053d8514d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1226298245,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226298245,
+    "wof:lastmodified":1537715085,
+    "wof:name":"Sharaf Sharjab",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18281,
+    13.18393,
+    44.18281,
+    13.18393
+],
+  "geometry": {"coordinates":[44.18281,13.18393],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276429471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54018,15.46512,43.54018,15.46512",
+    "geom:latitude":15.46512,
+    "geom:longitude":43.54018,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2708.0",
+    "gn:asciiname":"Az Zubr",
+    "gn:country_code":"YE",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402060,
+    "gn:latitude":15.46512,
+    "gn:longitude":43.54018,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az\u0327 Z\u0327ubr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az\u0327 Z\u0327ubr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402060
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da3ee21328848dcb156e78946608ac1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "locality_id":1276429471,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276429471,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Az Zubr",
+    "wof:parent_id":1091921169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54018,
+    15.46512,
+    43.54018,
+    15.46512
+],
+  "geometry": {"coordinates":[43.54018,15.46512],"type":"Point"}
+}

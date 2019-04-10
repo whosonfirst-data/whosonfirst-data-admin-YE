@@ -1,0 +1,76 @@
+{
+  "id": 890452155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40385,16.36495,43.40385,16.36495",
+    "geom:latitude":16.36495,
+    "geom:longitude":43.40385,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ath Th\u012bmr\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u064a\u0645\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ath Thimran"
+    ],
+    "qs:name":"Ath Th\u012bmr\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783522,
+        "gp:id":1958967,
+        "qs:id":700176,
+        "wd:id":"Q20305482"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052807,
+    "wof:geomhash":"162a831305a22d1ea3f1111d6e0ff452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890452155,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890452155,
+    "wof:lastmodified":1514503234,
+    "wof:name":"Ath Th\u012bmr\u0101n",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40385,
+    16.36495,
+    43.40385,
+    16.36495
+],
+  "geometry": {"coordinates":[43.40385,16.36495],"type":"Point"}
+}

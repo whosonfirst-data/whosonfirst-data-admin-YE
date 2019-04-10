@@ -1,0 +1,69 @@
+{
+  "id": 890414815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65499,16.48242,43.65499,16.48242",
+    "geom:latitude":16.48242,
+    "geom:longitude":43.65499,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":40,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0645\u0636\u0629"
+    ],
+    "qs:name":"Al \u2018Armi\u1e11ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849369,
+        "gp:id":1953833,
+        "qs:id":741498
+    },
+    "wof:country":"YE",
+    "wof:created":1469051063,
+    "wof:geomhash":"829cc1e5049ec0df2e079edc91ab97c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":890414815,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414815,
+    "wof:lastmodified":1505343422,
+    "wof:name":"Al \u2018Armi\u1e11ah",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65499,
+    16.48242,
+    43.65499,
+    16.48242
+],
+  "geometry": {"coordinates":[43.65499,16.48242],"type":"Point"}
+}

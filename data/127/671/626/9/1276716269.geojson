@@ -1,0 +1,71 @@
+{
+  "id": 1276716269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67338,13.51743,43.67338,13.51743",
+    "geom:latitude":13.51743,
+    "geom:longitude":43.67338,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"As Sufah",
+    "gn:country_code":"YE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356323,
+    "gn:latitude":13.51743,
+    "gn:longitude":43.67338,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015e\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015e\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356323
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bdc464ffc2ce49e81b9d3b5a97513c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1276716269,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276716269,
+    "wof:lastmodified":1537715672,
+    "wof:name":"As Sufah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67338,
+    13.51743,
+    43.67338,
+    13.51743
+],
+  "geometry": {"coordinates":[43.67338,13.51743],"type":"Point"}
+}

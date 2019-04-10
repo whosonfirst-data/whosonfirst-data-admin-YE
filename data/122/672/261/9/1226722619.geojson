@@ -1,0 +1,75 @@
+{
+  "id": 1226722619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28606,17.19595,43.28606,17.19595",
+    "geom:latitude":17.19595,
+    "geom:longitude":43.28606,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Qullat al `Umar",
+    "gn:country_code":"YE",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71791,
+    "gn:latitude":17.19595,
+    "gn:longitude":43.28606,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Qullat al \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qullat al \u2018Umar",
+        "Qullat \u2018Amr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f7076b23a5fab27ddbbbe2e64f2751c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1226722619,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226722619,
+    "wof:lastmodified":1537715102,
+    "wof:name":"Qullat al `Umar",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28606,
+    17.19595,
+    43.28606,
+    17.19595
+],
+  "geometry": {"coordinates":[43.28606,17.19595],"type":"Point"}
+}

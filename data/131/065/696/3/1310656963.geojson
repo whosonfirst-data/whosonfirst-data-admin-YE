@@ -1,0 +1,72 @@
+{
+  "id": 1310656963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96351,15.90927,42.96351,15.90927",
+    "geom:latitude":15.90927,
+    "geom:longitude":42.96351,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Dayn",
+    "gn:country_code":"YE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76352,
+    "gn:latitude":15.90927,
+    "gn:longitude":42.96351,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Dayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubn",
+        "Dayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76352
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"63be9e14dcdad064cc76164009cd16aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1310656963,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310656963,
+    "wof:lastmodified":1537715196,
+    "wof:name":"Dayn",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96351,
+    15.90927,
+    42.96351,
+    15.90927
+],
+  "geometry": {"coordinates":[42.96351,15.90927],"type":"Point"}
+}

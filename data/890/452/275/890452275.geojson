@@ -1,0 +1,73 @@
+{
+  "id": 890452275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36429,16.79547,43.36429,16.79547",
+    "geom:latitude":16.79547,
+    "geom:longitude":43.36429,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0641\u0627\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Afarah"
+    ],
+    "qs:name":"\u2018Af\u0101rah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926858,
+        "gp:id":1959134,
+        "qs:id":745197,
+        "wd:id":"Q20298851"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052811,
+    "wof:geomhash":"ff9c53321f883a13a5e3b78217f8ac8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890452275,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890452275,
+    "wof:lastmodified":1514503403,
+    "wof:name":"\u2018Af\u0101rah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36429,
+    16.79547,
+    43.36429,
+    16.79547
+],
+  "geometry": {"coordinates":[43.36429,16.79547],"type":"Point"}
+}

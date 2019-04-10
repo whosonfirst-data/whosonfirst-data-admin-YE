@@ -1,0 +1,71 @@
+{
+  "id": 1259454621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90748,15.26037,43.90748,15.26037",
+    "geom:latitude":15.26037,
+    "geom:longitude":43.90748,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Bayt Sanhani",
+    "gn:country_code":"YE",
+    "gn:dem":2435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366892,
+    "gn:latitude":15.26037,
+    "gn:longitude":43.90748,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt San\u1e29\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt San\u1e29\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366892
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5df46a3474be8e35f3ef159426ba49f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":1259454621,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259454621,
+    "wof:lastmodified":1537715965,
+    "wof:name":"Bayt Sanhani",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90748,
+    15.26037,
+    43.90748,
+    15.26037
+],
+  "geometry": {"coordinates":[43.90748,15.26037],"type":"Point"}
+}

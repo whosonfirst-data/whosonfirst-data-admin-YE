@@ -1,0 +1,71 @@
+{
+  "id": 1293290087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97047,14.84439,42.97047,14.84439",
+    "geom:latitude":14.84439,
+    "geom:longitude":42.97047,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1823.0",
+    "gn:asciiname":"Baida",
+    "gn:country_code":"YE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77029,
+    "gn:latitude":14.84439,
+    "gn:longitude":42.97047,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Baida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77029
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"19a796e9184a6a276c74293de14ad943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919955,
+            "locality_id":1293290087,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293290087,
+    "wof:lastmodified":1537715218,
+    "wof:name":"Baida",
+    "wof:parent_id":1091919955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97047,
+    14.84439,
+    42.97047,
+    14.84439
+],
+  "geometry": {"coordinates":[42.97047,14.84439],"type":"Point"}
+}

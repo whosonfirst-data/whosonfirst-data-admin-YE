@@ -1,0 +1,73 @@
+{
+  "id": 890427109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76813,13.18123,43.76813,13.18123",
+    "geom:latitude":13.18123,
+    "geom:longitude":43.76813,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":28,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mazaq"
+    ],
+    "qs:name":"Al Mazaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069188,
+        "gp:id":1958962,
+        "qs:id":753368,
+        "wd:id":"Q20300288"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051675,
+    "wof:geomhash":"034a304bd3969b6d071d6576a616ab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890427109,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890427109,
+    "wof:lastmodified":1514503185,
+    "wof:name":"Al Mazaq",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76813,
+    13.18123,
+    43.76813,
+    13.18123
+],
+  "geometry": {"coordinates":[43.76813,13.18123],"type":"Point"}
+}

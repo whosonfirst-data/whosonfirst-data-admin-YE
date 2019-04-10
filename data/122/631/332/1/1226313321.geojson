@@ -1,0 +1,77 @@
+{
+  "id": 1226313321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.451,14.9247,45.451,14.9247",
+    "geom:latitude":14.9247,
+    "geom:longitude":45.451,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"Al Mahfuz",
+    "gn:country_code":"YE",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053357,
+    "gn:latitude":14.9247,
+    "gn:longitude":45.451,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Ma\u1e29f\u016bz\u0327",
+    "gn:population":3,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0645\u062d\u0641\u0648\u0638"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Ma\u1e29f\u016bz\u0327"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053357
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b21033ddcc146a7ad420a02658917e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1226313321,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226313321,
+    "wof:lastmodified":1537716012,
+    "wof:name":"Al Mahfuz",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.451,
+    14.9247,
+    45.451,
+    14.9247
+],
+  "geometry": {"coordinates":[45.451,14.9247],"type":"Point"}
+}

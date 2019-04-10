@@ -1,0 +1,73 @@
+{
+  "id": 890425009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40668,16.07929,43.40668,16.07929",
+    "geom:latitude":16.07929,
+    "geom:longitude":43.40668,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0633\u0642\u064a\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt As Suqayf"
+    ],
+    "qs:name":"Bayt as Suqayf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682384,
+        "gp:id":1958568,
+        "qs:id":697176,
+        "wd:id":"Q20300172"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051571,
+    "wof:geomhash":"5f5302e1501a6ed305e902d7f1f486db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890425009,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425009,
+    "wof:lastmodified":1514503249,
+    "wof:name":"Bayt as Suqayf",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40668,
+    16.07929,
+    43.40668,
+    16.07929
+],
+  "geometry": {"coordinates":[43.40668,16.07929],"type":"Point"}
+}

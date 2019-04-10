@@ -1,0 +1,74 @@
+{
+  "id": 1310668485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45363,13.26206,43.45363,13.26206",
+    "geom:latitude":13.26206,
+    "geom:longitude":43.45363,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Al Fatirah",
+    "gn:country_code":"YE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75800,
+    "gn:latitude":13.26206,
+    "gn:longitude":43.45363,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al F\u0101tirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faira",
+        "Fethira",
+        "Al F\u0101tirah",
+        "Fayr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75800
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"575ffd7af1cb16dc6499dd3bf7f9aa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1310668485,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310668485,
+    "wof:lastmodified":1537715183,
+    "wof:name":"Al Fatirah",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45363,
+    13.26206,
+    43.45363,
+    13.26206
+],
+  "geometry": {"coordinates":[43.45363,13.26206],"type":"Point"}
+}

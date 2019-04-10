@@ -1,0 +1,71 @@
+{
+  "id": 1209783945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34654,13.08887,44.34654,13.08887",
+    "geom:latitude":13.08887,
+    "geom:longitude":44.34654,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Al Humaymi",
+    "gn:country_code":"YE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355413,
+    "gn:latitude":13.08887,
+    "gn:longitude":44.34654,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28umaym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28umaym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355413
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dbfe0cd8d1e344061f131aa99d2ff662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1209783945,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1209783945,
+    "wof:lastmodified":1537715637,
+    "wof:name":"Al Humaymi",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34654000000001,
+    13.08887,
+    44.34654000000001,
+    13.08887
+],
+  "geometry": {"coordinates":[44.34654000000001,13.08887],"type":"Point"}
+}

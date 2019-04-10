@@ -1,0 +1,75 @@
+{
+  "id": 1343330259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54468,14.25955,44.54468,14.25955",
+    "geom:latitude":14.25955,
+    "geom:longitude":44.54468,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Al Qawfa`ah",
+    "gn:country_code":"YE",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340015,
+    "gn:latitude":14.25955,
+    "gn:longitude":44.54468,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Qawfa\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0641\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u016bfa\u2018ah",
+        "Al Qawfa\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4b957a60e0ca4f8b164eb0e9abcb8d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1343330259,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343330259,
+    "wof:lastmodified":1537715436,
+    "wof:name":"Al Qawfa`ah",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54468,
+    14.25955,
+    44.54468,
+    14.25955
+],
+  "geometry": {"coordinates":[44.54468,14.25955],"type":"Point"}
+}

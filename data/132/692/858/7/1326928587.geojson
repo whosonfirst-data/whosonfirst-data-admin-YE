@@ -1,0 +1,73 @@
+{
+  "id": 1326928587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.02337,14.55058,46.02337,14.55058",
+    "geom:latitude":14.55058,
+    "geom:longitude":46.02337,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Khudur",
+    "gn:country_code":"YE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230266,
+    "gn:latitude":14.55058,
+    "gn:longitude":46.02337,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Al Khu\u1e11\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Khu\u1e11\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230266
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ef0be001611f1d4ab4b08fe1b9757c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1326928587,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1326928587,
+    "wof:lastmodified":1537716356,
+    "wof:name":"Al Khudur",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.02337,
+    14.55058,
+    46.02337,
+    14.55058
+],
+  "geometry": {"coordinates":[46.02337,14.55058],"type":"Point"}
+}

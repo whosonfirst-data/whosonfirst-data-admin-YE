@@ -1,0 +1,68 @@
+{
+  "id": 1310292937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97509,14.73143,43.97509,14.73143",
+    "geom:latitude":14.73143,
+    "geom:longitude":43.97509,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Ash Shumah",
+    "gn:country_code":"YE",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401001,
+    "gn:latitude":14.73143,
+    "gn:longitude":43.97509,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shumah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0da82675c5cf932521d585979d38f5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":1310292937,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1310292937,
+    "wof:lastmodified":1536726463,
+    "wof:name":"Ash Shumah",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97509,
+    14.73143,
+    43.97509,
+    14.73143
+],
+  "geometry": {"coordinates":[43.97509,14.73143],"type":"Point"}
+}

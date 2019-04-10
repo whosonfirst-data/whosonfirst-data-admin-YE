@@ -1,0 +1,71 @@
+{
+  "id": 1243130473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33639,15.91,43.33639,15.91",
+    "geom:latitude":15.91,
+    "geom:longitude":43.33639,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1713.0",
+    "gn:asciiname":"Ramadah",
+    "gn:country_code":"YE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449186,
+    "gn:latitude":15.91,
+    "gn:longitude":43.33639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ram\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ram\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449186
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6958449b85fdde187cb65efc07ff782a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":1243130473,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243130473,
+    "wof:lastmodified":1537715433,
+    "wof:name":"Ramadah",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33639,
+    15.91,
+    43.33639,
+    15.91
+],
+  "geometry": {"coordinates":[43.33639,15.91],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309781747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71667,13.85,44.71667,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":44.71667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Dar Zirah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76382,
+    "gn:latitude":13.85,
+    "gn:longitude":44.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r Z\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r Zira",
+        "Dar a\u015f \u015eutayrah",
+        "D\u0101r Z\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76382
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25e83881c1ad81b814335199a5284362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1309781747,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1309781747,
+    "wof:lastmodified":1537715196,
+    "wof:name":"Dar Zirah",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71667,
+    13.85,
+    44.71667,
+    13.85
+],
+  "geometry": {"coordinates":[44.71667,13.85],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890448069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34165,16.33017,43.34165,16.33017",
+    "geom:latitude":16.33017,
+    "geom:longitude":43.34165,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0639\u0629"
+    ],
+    "qs:name":"An Naq\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021991,
+        "gp:id":1958967,
+        "qs:id":700077,
+        "qs_pg:id":750221,
+        "wd:id":"Q4750157",
+        "wk:page":"An Naq`Ah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052618,
+    "wof:geomhash":"e94c48380e81a8483c937d001e00191c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890448069,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890448069,
+    "wof:lastmodified":1527727200,
+    "wof:name":"An Naq\u2018ah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34165,
+    16.33017,
+    43.34165,
+    16.33017
+],
+  "geometry": {"coordinates":[43.34165,16.33017],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259666561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19817,16.87407,43.19817,16.87407",
+    "geom:latitude":16.87407,
+    "geom:longitude":43.19817,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Al Mahliyah al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202902,
+    "gn:latitude":16.87407,
+    "gn:longitude":43.19817,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u1e29l\u012byah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29l\u012byah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202902
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"872b1b21b3465491ba04a3958bf89856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1259666561,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259666561,
+    "wof:lastmodified":1537716024,
+    "wof:name":"Al Mahliyah al 'Ulya",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19817000000001,
+    16.87407,
+    43.19817000000001,
+    16.87407
+],
+  "geometry": {"coordinates":[43.19817000000001,16.87407],"type":"Point"}
+}

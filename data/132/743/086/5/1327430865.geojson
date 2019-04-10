@@ -1,0 +1,71 @@
+{
+  "id": 1327430865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08216,16.39308,48.08216,16.39308",
+    "geom:latitude":16.39308,
+    "geom:longitude":48.08216,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sharj Al Haysharah",
+    "gn:country_code":"YE",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11500605,
+    "gn:latitude":16.39308,
+    "gn:longitude":48.08216,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sharj \u0100l Haysharah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharj \u0100l Haysharah",
+        "\u0634\u0631\u062c \u0622\u0644 \u0647\u064a\u0634\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11500605
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1bec8d2301c1841025858f6143c6a268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1327430865,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327430865,
+    "wof:lastmodified":1537716359,
+    "wof:name":"Sharj Al Haysharah",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08216,
+    16.39308,
+    48.08216,
+    16.39308
+],
+  "geometry": {"coordinates":[48.08216,16.39308],"type":"Point"}
+}

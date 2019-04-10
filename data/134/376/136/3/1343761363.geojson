@@ -1,0 +1,73 @@
+{
+  "id": 1343761363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00389,15.32972,48.00389,15.32972",
+    "geom:latitude":15.32972,
+    "geom:longitude":48.00389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1921.0",
+    "gn:asciiname":"An Nu`ayr",
+    "gn:country_code":"YE",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78346,
+    "gn:latitude":15.32972,
+    "gn:longitude":48.00389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"An Nu\u2018ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Nu\u2018air",
+        "An Nu\u2018ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78346,
+        "wk:page":"An_Nu%60Ayr"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b658724c574af4d8251ea3c25637dcd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922765,
+            "locality_id":1343761363,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343761363,
+    "wof:lastmodified":1537715255,
+    "wof:name":"An Nu`ayr",
+    "wof:parent_id":1091922765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00389000000001,
+    15.32972,
+    48.00389000000001,
+    15.32972
+],
+  "geometry": {"coordinates":[48.00389000000001,15.32972],"type":"Point"}
+}

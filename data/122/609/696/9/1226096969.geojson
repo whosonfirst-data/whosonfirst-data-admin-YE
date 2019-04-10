@@ -1,0 +1,71 @@
+{
+  "id": 1226096969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0097,13.31954,44.0097,13.31954",
+    "geom:latitude":13.31954,
+    "geom:longitude":44.0097,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Akhmur",
+    "gn:country_code":"YE",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354687,
+    "gn:latitude":13.31954,
+    "gn:longitude":44.0097,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Akhm\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Akhm\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354687
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6d93caeb1d347a5d12f9ed5cccaed3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1226096969,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226096969,
+    "wof:lastmodified":1537715619,
+    "wof:name":"Akhmur",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0097,
+    13.31954,
+    44.0097,
+    13.31954
+],
+  "geometry": {"coordinates":[44.0097,13.31954],"type":"Point"}
+}

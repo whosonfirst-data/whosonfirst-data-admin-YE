@@ -1,0 +1,68 @@
+{
+  "id": 1276321633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54389,14.8289,44.54389,14.8289",
+    "geom:latitude":14.8289,
+    "geom:longitude":44.54389,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Mishwar",
+    "gn:country_code":"YE",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363977,
+    "gn:latitude":14.8289,
+    "gn:longitude":44.54389,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mishwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363977
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"140a3bb49c4fa4bbda9b48756b7474a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1276321633,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1276321633,
+    "wof:lastmodified":1536794671,
+    "wof:name":"Al Mishwar",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54389000000001,
+    14.8289,
+    44.54389000000001,
+    14.8289
+],
+  "geometry": {"coordinates":[44.54389000000001,14.8289],"type":"Point"}
+}

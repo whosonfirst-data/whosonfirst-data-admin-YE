@@ -1,0 +1,68 @@
+{
+  "id": 1343847961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14099,15.50473,43.14099,15.50473",
+    "geom:latitude":15.50473,
+    "geom:longitude":43.14099,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1806.0",
+    "gn:asciiname":"Dayr Dahmash",
+    "gn:country_code":"YE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366292,
+    "gn:latitude":15.50473,
+    "gn:longitude":43.14099,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dayr Dahmash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366292
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"323f87b8b0cfd66680ff8895c4ac812c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920191,
+            "locality_id":1343847961,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343847961,
+    "wof:lastmodified":1536684616,
+    "wof:name":"Dayr Dahmash",
+    "wof:parent_id":1091920191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14099,
+    15.50473,
+    43.14099,
+    15.50473
+],
+  "geometry": {"coordinates":[43.14099,15.50473],"type":"Point"}
+}

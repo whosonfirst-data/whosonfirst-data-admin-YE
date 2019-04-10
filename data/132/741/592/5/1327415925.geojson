@@ -1,0 +1,74 @@
+{
+  "id": 1327415925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80547,15.34822,44.80547,15.34822",
+    "geom:latitude":15.34822,
+    "geom:longitude":44.80547,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"'Allub al Hadd",
+    "gn:country_code":"YE",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331887,
+    "gn:latitude":15.34822,
+    "gn:longitude":44.80547,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018All\u016bb al \u1e28add",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0628 \u0627\u0644\u062d\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018All\u016bb al \u1e28add"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331887
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23de96ce09be7263b021784f3fbeaf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925803,
+            "locality_id":1327415925,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1327415925,
+    "wof:lastmodified":1537716202,
+    "wof:name":"'Allub al Hadd",
+    "wof:parent_id":1091925803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80547,
+    15.34822,
+    44.80547,
+    15.34822
+],
+  "geometry": {"coordinates":[44.80547,15.34822],"type":"Point"}
+}

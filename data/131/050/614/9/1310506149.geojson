@@ -1,0 +1,73 @@
+{
+  "id": 1310506149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71731,14.78137,45.71731,14.78137",
+    "geom:latitude":14.78137,
+    "geom:longitude":45.71731,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Qibarah",
+    "gn:country_code":"YE",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75736,
+    "gn:latitude":14.78137,
+    "gn:longitude":45.71731,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Qib\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gebara",
+        "Gebarah",
+        "Qib\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75736
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9e605c118da3e06945e6716b77d0f3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1310506149,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310506149,
+    "wof:lastmodified":1537715182,
+    "wof:name":"Qibarah",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71731,
+    14.78137,
+    45.71731,
+    14.78137
+],
+  "geometry": {"coordinates":[45.71731,14.78137],"type":"Point"}
+}

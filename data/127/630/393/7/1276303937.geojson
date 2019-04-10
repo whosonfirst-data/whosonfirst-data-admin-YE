@@ -1,0 +1,71 @@
+{
+  "id": 1276303937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03746,15.15825,44.03746,15.15825",
+    "geom:latitude":15.15825,
+    "geom:longitude":44.03746,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Bayt Naji",
+    "gn:country_code":"YE",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342061,
+    "gn:latitude":15.15825,
+    "gn:longitude":44.03746,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt N\u0101j\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt N\u0101j\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342061
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"acb6a932d94818913411053e29d14723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1276303937,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276303937,
+    "wof:lastmodified":1537715493,
+    "wof:name":"Bayt Naji",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03746,
+    15.15825,
+    44.03746,
+    15.15825
+],
+  "geometry": {"coordinates":[44.03746,15.15825],"type":"Point"}
+}

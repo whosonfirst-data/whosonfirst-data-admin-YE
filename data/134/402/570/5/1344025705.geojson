@@ -1,0 +1,71 @@
+{
+  "id": 1344025705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02984,13.55056,44.02984,13.55056",
+    "geom:latitude":13.55056,
+    "geom:longitude":44.02984,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1511.0",
+    "gn:asciiname":"Al Marzuh",
+    "gn:country_code":"YE",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357306,
+    "gn:latitude":13.55056,
+    "gn:longitude":44.02984,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Marz\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Marz\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357306
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f7e61f58e68a6d6e5d5f4a97eb0e0365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926623,
+            "locality_id":1344025705,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1344025705,
+    "wof:lastmodified":1537715697,
+    "wof:name":"Al Marzuh",
+    "wof:parent_id":1091926623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02984,
+    13.55056,
+    44.02984,
+    13.55056
+],
+  "geometry": {"coordinates":[44.02984,13.55056],"type":"Point"}
+}

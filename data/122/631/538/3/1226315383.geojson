@@ -1,0 +1,71 @@
+{
+  "id": 1226315383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58639,17.01109,43.58639,17.01109",
+    "geom:latitude":17.01109,
+    "geom:longitude":43.58639,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Khatm Fallah",
+    "gn:country_code":"YE",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345246,
+    "gn:latitude":17.01109,
+    "gn:longitude":43.58639,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kha\u0163m Fallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u0163m Fallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345246
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87e5c34eaf7a9169efaed07144871570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1226315383,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226315383,
+    "wof:lastmodified":1537715555,
+    "wof:name":"Khatm Fallah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58639,
+    17.01109,
+    43.58639,
+    17.01109
+],
+  "geometry": {"coordinates":[43.58639,17.01109],"type":"Point"}
+}

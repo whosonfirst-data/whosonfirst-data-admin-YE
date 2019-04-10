@@ -1,0 +1,75 @@
+{
+  "id": 1326899055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15867,14.0216,44.15867,14.0216",
+    "geom:latitude":14.0216,
+    "geom:longitude":44.15867,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Ad Dutha'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359756,
+    "gn:latitude":14.0216,
+    "gn:longitude":44.15867,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Duth\u0101\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u062b\u0626\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Duth\u0101\u2019ah",
+        "Ad Dathi\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359756
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4eef115a2bce875babe6b435b70a0bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1326899055,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326899055,
+    "wof:lastmodified":1537715775,
+    "wof:name":"Ad Dutha'ah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15867,
+    14.0216,
+    44.15867,
+    14.0216
+],
+  "geometry": {"coordinates":[44.15867,14.0216],"type":"Point"}
+}

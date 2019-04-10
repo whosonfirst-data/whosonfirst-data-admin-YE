@@ -1,0 +1,71 @@
+{
+  "id": 1242635677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45139,15.66833,43.45139,15.66833",
+    "geom:latitude":15.66833,
+    "geom:longitude":43.45139,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1729.0",
+    "gn:asciiname":"Khawlan",
+    "gn:country_code":"YE",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449183,
+    "gn:latitude":15.66833,
+    "gn:longitude":43.45139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Khawl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khawl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449183
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0fbaf5593fa3ceb883d7c7a938b1ad72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923859,
+            "locality_id":1242635677,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242635677,
+    "wof:lastmodified":1537715432,
+    "wof:name":"Khawlan",
+    "wof:parent_id":1091923859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45139,
+    15.66833,
+    43.45139,
+    15.66833
+],
+  "geometry": {"coordinates":[43.45139,15.66833],"type":"Point"}
+}

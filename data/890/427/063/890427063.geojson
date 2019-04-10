@@ -1,0 +1,75 @@
+{
+  "id": 890427063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55687,14.07141,45.55687,14.07141",
+    "geom:latitude":14.07141,
+    "geom:longitude":45.55687,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Rabab"
+    ],
+    "qs:name":"Rab\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":943,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066735,
+        "gp:id":1952504,
+        "qs:id":752795,
+        "wd:id":"Q20306339",
+        "wk:page":"Rebab"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051672,
+    "wof:geomhash":"5cfdccb29d6899b02fc3a9c721ba56f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":890427063,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890427063,
+    "wof:lastmodified":1527792819,
+    "wof:name":"Rab\u0101b",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55687,
+    14.07141,
+    45.55687,
+    14.07141
+],
+  "geometry": {"coordinates":[45.55687,14.07141],"type":"Point"}
+}

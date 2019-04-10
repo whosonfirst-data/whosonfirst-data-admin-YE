@@ -1,0 +1,78 @@
+{
+  "id": 1243062969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74778,15.49389,43.74778,15.49389",
+    "geom:latitude":15.49389,
+    "geom:longitude":43.74778,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"At Tawilah",
+    "gn:country_code":"YE",
+    "gn:dem":2603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":69372,
+    "gn:latitude":15.49389,
+    "gn:longitude":43.74778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u0163 \u0162aw\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tawila",
+        "E\u1e6d-\u1e6caw\u012blah",
+        "Taw\u012blah",
+        "Tuwiia",
+        "A\u0163 \u0162aw\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69372
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2dbe2b239e779b5ed63278e2be077d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1243062969,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243062969,
+    "wof:lastmodified":1537715060,
+    "wof:name":"At Tawilah",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74778,
+    15.49389,
+    43.74778,
+    15.49389
+],
+  "geometry": {"coordinates":[43.74778,15.49389],"type":"Point"}
+}

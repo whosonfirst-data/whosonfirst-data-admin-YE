@@ -1,0 +1,74 @@
+{
+  "id": 1343716729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65204,13.39469,43.65204,13.39469",
+    "geom:latitude":13.39469,
+    "geom:longitude":43.65204,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1508.0",
+    "gn:asciiname":"As Sawfah",
+    "gn:country_code":"YE",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354218,
+    "gn:latitude":13.39469,
+    "gn:longitude":43.65204,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"A\u015f \u015eawfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eawfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354218
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"719664bca88c07f293313248c582b74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":1343716729,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343716729,
+    "wof:lastmodified":1537715603,
+    "wof:name":"As Sawfah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65204,
+    13.39469,
+    43.65204,
+    13.39469
+],
+  "geometry": {"coordinates":[43.65204,13.39469],"type":"Point"}
+}

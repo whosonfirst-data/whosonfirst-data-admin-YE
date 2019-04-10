@@ -1,0 +1,75 @@
+{
+  "id": 890437397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52118,16.8731,43.52118,16.8731",
+    "geom:latitude":16.8731,
+    "geom:longitude":43.52118,
+    "gn:country":"YE",
+    "gn:fcode":"FRMS",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sib\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0628\u0627\u062d"
+    ],
+    "qs:name":"Sib\u0101\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685985,
+        "gp:id":1958259,
+        "qs:id":697636,
+        "wd:id":"Q4117509",
+        "wk:page":"Sibah District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052150,
+    "wof:geomhash":"69bee12d286bd94ca4619f23baf69a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":890437397,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890437397,
+    "wof:lastmodified":1527729748,
+    "wof:name":"Sib\u0101\u1e29",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52118,
+    16.8731,
+    43.52118,
+    16.8731
+],
+  "geometry": {"coordinates":[43.52118,16.8731],"type":"Point"}
+}

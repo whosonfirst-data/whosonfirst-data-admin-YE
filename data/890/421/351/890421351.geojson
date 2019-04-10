@@ -1,0 +1,73 @@
+{
+  "id": 890421351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25078,16.94947,43.25078,16.94947",
+    "geom:latitude":16.94947,
+    "geom:longitude":43.25078,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u0648 \u0627\u0644\u0623\u0639\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "As Sarw Al A'la"
+    ],
+    "qs:name":"As Sarw al A\u2018l\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017023,
+        "gp:id":1958992,
+        "qs:id":749516,
+        "wd:id":"Q20302937"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051389,
+    "wof:geomhash":"235b60534fefd6e54bbd6281bafceec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890421351,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890421351,
+    "wof:lastmodified":1514503225,
+    "wof:name":"As Sarw al A\u2018l\u00e1",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25078,
+    16.94947,
+    43.25078,
+    16.94947
+],
+  "geometry": {"coordinates":[43.25078,16.94947],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259451659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48086,14.00578,44.48086,14.00578",
+    "geom:latitude":14.00578,
+    "geom:longitude":44.48086,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Bayt al Qahmi",
+    "gn:country_code":"YE",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359334,
+    "gn:latitude":14.00578,
+    "gn:longitude":44.48086,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt al Qahm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0642\u0647\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Qa\u2018am\u012b",
+        "Bayt al Qahm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359334
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"59aa32c8e975a3a63635bb576b149a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1259451659,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259451659,
+    "wof:lastmodified":1537715755,
+    "wof:name":"Bayt al Qahmi",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48086,
+    14.00578,
+    44.48086,
+    14.00578
+],
+  "geometry": {"coordinates":[44.48086,14.00578],"type":"Point"}
+}

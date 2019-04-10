@@ -1,0 +1,71 @@
+{
+  "id": 1260171275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25117,15.17906,43.25117,15.17906",
+    "geom:latitude":15.17906,
+    "geom:longitude":43.25117,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al Mahfad `Ali",
+    "gn:country_code":"YE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365470,
+    "gn:latitude":15.17906,
+    "gn:longitude":43.25117,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al Ma\u1e29fa\u1e11 \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Ma\u1e29fa\u1e11 \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365470
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04998d10235041b7897154e1eafb5566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1260171275,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1260171275,
+    "wof:lastmodified":1537715931,
+    "wof:name":"Mahall al Mahfad `Ali",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25117,
+    15.17906,
+    43.25117,
+    15.17906
+],
+  "geometry": {"coordinates":[43.25117,15.17906],"type":"Point"}
+}

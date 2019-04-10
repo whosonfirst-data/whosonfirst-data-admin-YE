@@ -1,0 +1,74 @@
+{
+  "id": 1310273471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01823,14.31931,44.01823,14.31931",
+    "geom:latitude":14.31931,
+    "geom:longitude":44.01823,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Mishamah",
+    "gn:country_code":"YE",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870678,
+    "gn:latitude":14.31931,
+    "gn:longitude":44.01823,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mis\u1e29\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062d\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mis\u1e29\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870678
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54b0b03c03c51c2e56b676a5bc805fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1310273471,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310273471,
+    "wof:lastmodified":1537716236,
+    "wof:name":"Mishamah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01823,
+    14.31931,
+    44.01823,
+    14.31931
+],
+  "geometry": {"coordinates":[44.01823,14.31931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243041169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19443,14.63833,45.19443,14.63833",
+    "geom:latitude":14.63833,
+    "geom:longitude":45.19443,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Mahall ar Ratib",
+    "gn:country_code":"YE",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364590,
+    "gn:latitude":14.63833,
+    "gn:longitude":45.19443,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all ar Ra\u0163ib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all ar Ra\u0163ib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364590
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6f6d4e87d20ac8e38ab01cd4580ecd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1243041169,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1243041169,
+    "wof:lastmodified":1537715902,
+    "wof:name":"Mahall ar Ratib",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19443,
+    14.63833,
+    45.19443,
+    14.63833
+],
+  "geometry": {"coordinates":[45.19443,14.63833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293064865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94542,15.1337,44.94542,15.1337",
+    "geom:latitude":15.1337,
+    "geom:longitude":44.94542,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2314.0",
+    "gn:asciiname":"Al Mawqad",
+    "gn:country_code":"YE",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331768,
+    "gn:latitude":15.1337,
+    "gn:longitude":44.94542,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mawqad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0642\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331768
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"16f89d5f925ff3a34d8e861ba30a6021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925737,
+            "locality_id":1293064865,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293064865,
+    "wof:lastmodified":1537716197,
+    "wof:name":"Al Mawqad",
+    "wof:parent_id":1091925737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94542,
+    15.1337,
+    44.94542,
+    15.1337
+],
+  "geometry": {"coordinates":[44.94542,15.1337],"type":"Point"}
+}

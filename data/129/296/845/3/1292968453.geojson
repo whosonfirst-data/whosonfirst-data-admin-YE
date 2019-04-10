@@ -1,0 +1,72 @@
+{
+  "id": 1292968453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46338,13.60487,44.46338,13.60487",
+    "geom:latitude":13.60487,
+    "geom:longitude":44.46338,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Az Zuhayr",
+    "gn:country_code":"YE",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77505,
+    "gn:latitude":13.60487,
+    "gn:longitude":44.46338,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Az\u0327 Z\u0327uhayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Duhair",
+        "Az\u0327 Z\u0327uhayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77505
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0ccc71135c11023635c8b2a7a2335f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1292968453,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1292968453,
+    "wof:lastmodified":1537715225,
+    "wof:name":"Az Zuhayr",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46338,
+    13.60487,
+    44.46338,
+    13.60487
+],
+  "geometry": {"coordinates":[44.46338,13.60487],"type":"Point"}
+}

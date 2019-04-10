@@ -1,0 +1,71 @@
+{
+  "id": 1310664347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49142,15.74365,44.49142,15.74365",
+    "geom:latitude":15.74365,
+    "geom:longitude":44.49142,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bayt Ibn as Sa`d",
+    "gn:country_code":"YE",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362563,
+    "gn:latitude":15.74365,
+    "gn:longitude":44.49142,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Ibn as Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Ibn as Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362563
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d181df377cb2be06d63814074f66251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1310664347,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310664347,
+    "wof:lastmodified":1537715848,
+    "wof:name":"Bayt Ibn as Sa`d",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49142,
+    15.74365,
+    44.49142,
+    15.74365
+],
+  "geometry": {"coordinates":[44.49142,15.74365],"type":"Point"}
+}

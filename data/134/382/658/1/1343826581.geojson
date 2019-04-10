@@ -1,0 +1,71 @@
+{
+  "id": 1343826581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58835,16.04738,43.58835,16.04738",
+    "geom:latitude":16.04738,
+    "geom:longitude":43.58835,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Suq Bashabish",
+    "gn:country_code":"YE",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407091,
+    "gn:latitude":16.04738,
+    "gn:longitude":43.58835,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016bq Bash\u0101bish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq Bash\u0101bish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407091
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"027ffe94422cf8af04007863a450d3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1343826581,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343826581,
+    "wof:lastmodified":1537715388,
+    "wof:name":"Suq Bashabish",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58835,
+    16.04738,
+    43.58835,
+    16.04738
+],
+  "geometry": {"coordinates":[43.58835,16.04738],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277049981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8262,14.11669,45.8262,14.11669",
+    "geom:latitude":14.11669,
+    "geom:longitude":45.8262,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Am Habl",
+    "gn:country_code":"YE",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79656,
+    "gn:latitude":14.11669,
+    "gn:longitude":45.8262,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am \u1e28abl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am \u1e28abl",
+        "Habil",
+        "Al \u1e28abl",
+        "Am Habil",
+        "Al \u1e28ab\u012bl",
+        "Umm \u1e28abl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79656
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe3b4e8cd417b02a70b14eeed32f0321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1277049981,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1277049981,
+    "wof:lastmodified":1537715311,
+    "wof:name":"Am Habl",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8262,
+    14.11669,
+    45.8262,
+    14.11669
+],
+  "geometry": {"coordinates":[45.8262,14.11669],"type":"Point"}
+}

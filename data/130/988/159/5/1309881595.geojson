@@ -1,0 +1,73 @@
+{
+  "id": 1309881595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60086,13.83094,44.60086,13.83094",
+    "geom:latitude":13.83094,
+    "geom:longitude":44.60086,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Al Jubb",
+    "gn:country_code":"YE",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79276,
+    "gn:latitude":13.83094,
+    "gn:longitude":44.60086,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jub",
+        "Al Jubb",
+        "Al Jawb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79276
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dfb52231a5b5348b2f8e60b1dd37efff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1309881595,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1309881595,
+    "wof:lastmodified":1537715294,
+    "wof:name":"Al Jubb",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60086,
+    13.83094,
+    44.60086,
+    13.83094
+],
+  "geometry": {"coordinates":[44.60086,13.83094],"type":"Point"}
+}

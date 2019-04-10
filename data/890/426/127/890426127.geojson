@@ -1,0 +1,73 @@
+{
+  "id": 890426127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.48902,15.57361,45.48902,15.57361",
+    "geom:latitude":15.57361,
+    "geom:longitude":45.48902,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0636\u0645\u064a\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Dumaydan\""
+    ],
+    "qs:name":"\u0100l \u1e10umayd\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861453,
+        "gp:id":1957048,
+        "qs:id":742786,
+        "wd:id":"Q20305179"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051619,
+    "wof:geomhash":"eb61341b3b793956f43bc9565120f9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":890426127,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426127,
+    "wof:lastmodified":1514503392,
+    "wof:name":"\u0100l \u1e10umayd\u0101n",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.48902,
+    15.57361,
+    45.48902,
+    15.57361
+],
+  "geometry": {"coordinates":[45.48902,15.57361],"type":"Point"}
+}

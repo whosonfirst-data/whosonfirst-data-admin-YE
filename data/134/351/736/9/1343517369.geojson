@@ -1,0 +1,73 @@
+{
+  "id": 1343517369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,14.15,44.3,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Bayt Kerdi",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76918,
+    "gn:latitude":14.15,
+    "gn:longitude":44.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt Kerdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Kerdi",
+        "Bayt Kerdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76918
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"97c7d0f99442150d1f800092e0f11c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1343517369,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343517369,
+    "wof:lastmodified":1537715212,
+    "wof:name":"Bayt Kerdi",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    14.15,
+    44.3,
+    14.15
+],
+  "geometry": {"coordinates":[44.3,14.15],"type":"Point"}
+}

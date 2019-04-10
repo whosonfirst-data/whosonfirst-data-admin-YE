@@ -1,0 +1,71 @@
+{
+  "id": 1259358105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76259,15.77932,43.76259,15.77932",
+    "geom:latitude":15.77932,
+    "geom:longitude":43.76259,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Bayt Talib",
+    "gn:country_code":"YE",
+    "gn:dem":1798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343772,
+    "gn:latitude":15.77932,
+    "gn:longitude":43.76259,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u0162\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u0162\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343772
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a2012130304b68e97ca77b5f08db2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1259358105,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259358105,
+    "wof:lastmodified":1537715517,
+    "wof:name":"Bayt Talib",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76259,
+    15.77932,
+    43.76259,
+    15.77932
+],
+  "geometry": {"coordinates":[43.76259,15.77932],"type":"Point"}
+}

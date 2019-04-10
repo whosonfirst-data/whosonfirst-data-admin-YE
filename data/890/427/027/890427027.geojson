@@ -1,0 +1,73 @@
+{
+  "id": 890427027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27385,14.56248,45.27385,14.56248",
+    "geom:latitude":14.56248,
+    "geom:longitude":45.27385,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0630\u0645\u0629 \u0627\u0644 \u0647\u0642\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Al Judhmah Al Hiqash"
+    ],
+    "qs:name":"Al Judhmah \u0100l Hiq\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053533,
+        "gp:id":1958975,
+        "qs:id":751948,
+        "wd:id":"Q20303689"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051670,
+    "wof:geomhash":"66ccf865db94f11181af1049fe39331d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":890427027,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890427027,
+    "wof:lastmodified":1514503162,
+    "wof:name":"Al Judhmah \u0100l Hiq\u0101sh",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27385,
+    14.56248,
+    45.27385,
+    14.56248
+],
+  "geometry": {"coordinates":[45.27385,14.56248],"type":"Point"}
+}

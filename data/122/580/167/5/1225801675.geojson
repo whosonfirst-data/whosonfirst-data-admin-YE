@@ -1,0 +1,68 @@
+{
+  "id": 1225801675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71849,16.44573,44.71849,16.44573",
+    "geom:latitude":16.44573,
+    "geom:longitude":44.71849,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Al Marhinah",
+    "gn:country_code":"YE",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406958,
+    "gn:latitude":16.44573,
+    "gn:longitude":44.71849,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Marhinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"34df5f95e423866496e383dd8d2c1098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1225801675,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1225801675,
+    "wof:lastmodified":1537074335,
+    "wof:name":"Al Marhinah",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71849,
+    16.44573,
+    44.71849,
+    16.44573
+],
+  "geometry": {"coordinates":[44.71849,16.44573],"type":"Point"}
+}

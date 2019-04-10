@@ -1,0 +1,73 @@
+{
+  "id": 890428037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29417,16.7983,43.29417,16.7983",
+    "geom:latitude":16.7983,
+    "geom:longitude":43.29417,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":18,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0627\u0628\u0629 \u0645\u0639\u062c\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Markabat Ma'jibah"
+    ],
+    "qs:name":"Mark\u0101bat Ma\u2018jibah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926747,
+        "gp:id":1959134,
+        "qs:id":745089,
+        "wd:id":"Q20301123"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051733,
+    "wof:geomhash":"28943ff7bbb4b11ff288e3f71ef59605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890428037,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428037,
+    "wof:lastmodified":1514503321,
+    "wof:name":"Mark\u0101bat Ma\u2018jibah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29417,
+    16.7983,
+    43.29417,
+    16.7983
+],
+  "geometry": {"coordinates":[43.29417,16.7983],"type":"Point"}
+}

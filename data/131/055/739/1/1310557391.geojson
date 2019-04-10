@@ -1,0 +1,77 @@
+{
+  "id": 1310557391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04468,14.08016,44.04468,14.08016",
+    "geom:latitude":14.08016,
+    "geom:longitude":44.04468,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Al Himyaj",
+    "gn:country_code":"YE",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359825,
+    "gn:latitude":14.08016,
+    "gn:longitude":44.04468,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28imy\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28imy\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0647\u064a\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al Hay\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359825
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c0764527e3c90543603f87d1336dddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1310557391,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310557391,
+    "wof:lastmodified":1537715778,
+    "wof:name":"Al Himyaj",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04468,
+    14.08016,
+    44.04468,
+    14.08016
+],
+  "geometry": {"coordinates":[44.04468,14.08016],"type":"Point"}
+}

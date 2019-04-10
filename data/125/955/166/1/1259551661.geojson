@@ -1,0 +1,74 @@
+{
+  "id": 1259551661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19505,13.09453,44.19505,13.09453",
+    "geom:latitude":13.09453,
+    "geom:longitude":44.19505,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Hubayl al Bakirah",
+    "gn:country_code":"YE",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871861,
+    "gn:latitude":13.09453,
+    "gn:longitude":44.19505,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ubayl al Bak\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0644 \u0627\u0644\u0628\u0643\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ubayl al Bak\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871861
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"890fb667358d6c366bd5726e7e222d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1259551661,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259551661,
+    "wof:lastmodified":1537716266,
+    "wof:name":"Hubayl al Bakirah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19505,
+    13.09453,
+    44.19505,
+    13.09453
+],
+  "geometry": {"coordinates":[44.19505,13.09453],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276422865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84453,14.96867,43.84453,14.96867",
+    "geom:latitude":14.96867,
+    "geom:longitude":43.84453,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Hafr ad Dabr",
+    "gn:country_code":"YE",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400900,
+    "gn:latitude":14.96867,
+    "gn:longitude":43.84453,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28afr a\u1e11 \u1e10abr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28afr a\u1e11 \u1e10abr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400900
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95e70c3a6ae8791796225a0d8a5bca02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1276422865,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276422865,
+    "wof:lastmodified":1537715338,
+    "wof:name":"Hafr ad Dabr",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84453,
+    14.96867,
+    43.84453,
+    14.96867
+],
+  "geometry": {"coordinates":[43.84453,14.96867],"type":"Point"}
+}

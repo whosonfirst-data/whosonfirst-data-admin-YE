@@ -1,0 +1,73 @@
+{
+  "id": 1259885755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,16.15,49.13333,16.15",
+    "geom:latitude":16.15,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"As Suwaydif",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77746,
+    "gn:latitude":16.15,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Suwaydif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Suwaidif",
+        "As Suwaydif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77746
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ab1301af6dfa2ba8f710091d16e3f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1259885755,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259885755,
+    "wof:lastmodified":1537715232,
+    "wof:name":"As Suwaydif",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    16.15,
+    49.13333,
+    16.15
+],
+  "geometry": {"coordinates":[49.13333,16.15],"type":"Point"}
+}

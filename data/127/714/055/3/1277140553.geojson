@@ -1,0 +1,72 @@
+{
+  "id": 1277140553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08179,15.34762,44.08179,15.34762",
+    "geom:latitude":15.34762,
+    "geom:longitude":44.08179,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Hisn ar Ra's",
+    "gn:country_code":"YE",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74737,
+    "gn:latitude":15.34762,
+    "gn:longitude":44.08179,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28i\u015fn ar Ra\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn ar Ra\u015f\u015f",
+        "\u1e28i\u015fn ar Ra\u2019s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74737
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3b3975e1df792acc0ad8b1aea1982f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1277140553,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1277140553,
+    "wof:lastmodified":1537715162,
+    "wof:name":"Hisn ar Ra's",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08179000000001,
+    15.34762,
+    44.08179000000001,
+    15.34762
+],
+  "geometry": {"coordinates":[44.08179000000001,15.34762],"type":"Point"}
+}

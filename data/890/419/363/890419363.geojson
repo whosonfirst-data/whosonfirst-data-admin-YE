@@ -1,0 +1,73 @@
+{
+  "id": 890419363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3145,17.36656,43.3145,17.36656",
+    "geom:latitude":17.36656,
+    "geom:longitude":43.3145,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0633\u064a\u062d\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fusayha"
+    ],
+    "qs:name":"Al Fusay\u1e29\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856642,
+        "gp:id":56447933,
+        "qs:id":742558,
+        "wd:id":"Q20305550"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051284,
+    "wof:geomhash":"246f1cbcea1e53deb98689f12c83bc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890419363,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419363,
+    "wof:lastmodified":1514503142,
+    "wof:name":"Al Fusay\u1e29\u0101\u2019",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3145,
+    17.36656,
+    43.3145,
+    17.36656
+],
+  "geometry": {"coordinates":[43.3145,17.36656],"type":"Point"}
+}

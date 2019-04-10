@@ -1,0 +1,73 @@
+{
+  "id": 1343553953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,15.33333,47.28333,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Quwayrat Ahl Khus",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71722,
+    "gn:latitude":15.33333,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Quwayrat Ahl Kh\u016b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quwairat Ahl Kh\u016bs",
+        "Quwayrat Ahl Kh\u016b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71722
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ccb491d1e2a2e1a2b132da3b6cae710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925971,
+            "locality_id":1343553953,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343553953,
+    "wof:lastmodified":1537715101,
+    "wof:name":"Quwayrat Ahl Khus",
+    "wof:parent_id":1091925971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    15.33333,
+    47.28333,
+    15.33333
+],
+  "geometry": {"coordinates":[47.28333,15.33333],"type":"Point"}
+}

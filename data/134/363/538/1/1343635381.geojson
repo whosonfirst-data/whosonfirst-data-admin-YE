@@ -1,0 +1,74 @@
+{
+  "id": 1343635381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39878,16.09418,44.39878,16.09418",
+    "geom:latitude":16.09418,
+    "geom:longitude":44.39878,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Marbah",
+    "gn:country_code":"YE",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974609,
+    "gn:latitude":16.09418,
+    "gn:longitude":44.39878,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Marba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0628\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Marba\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974609
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"120278006d3986f76842290958b4c6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1343635381,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1343635381,
+    "wof:lastmodified":1537716111,
+    "wof:name":"Al Marbah",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39878,
+    16.09418,
+    44.39878,
+    16.09418
+],
+  "geometry": {"coordinates":[44.39878,16.09418],"type":"Point"}
+}

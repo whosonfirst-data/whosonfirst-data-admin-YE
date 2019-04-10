@@ -1,0 +1,75 @@
+{
+  "id": 1225908721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70878,13.93132,45.70878,13.93132",
+    "geom:latitude":13.93132,
+    "geom:longitude":45.70878,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"`Aryab",
+    "gn:country_code":"YE",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78041,
+    "gn:latitude":13.93132,
+    "gn:longitude":45.70878,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Aryab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aryab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78041,
+        "wk:page":"%60Aryab"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f84d8127053229603c007afa6011daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1225908721,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1225908721,
+    "wof:lastmodified":1537715245,
+    "wof:name":"`Aryab",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70878,
+    13.93132,
+    45.70878,
+    13.93132
+],
+  "geometry": {"coordinates":[45.70878,13.93132],"type":"Point"}
+}

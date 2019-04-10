@@ -1,0 +1,88 @@
+{
+  "id": 1125863491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19492,16.24249,43.19492,16.24249",
+    "geom:latitude":16.24249,
+    "geom:longitude":43.19492,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8,
+    "gn:population":8,
+    "iso:country":"YE",
+    "lbl:latitude":16.24249,
+    "lbl:longitude":43.19492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Milam"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0645\u0644\u0627\u0645"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7631508,
+    "qs_pg:gn_pop":8,
+    "qs_pg:name":"Al Mil\u0101m",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631508,
+        "qs_pg:id":694496,
+        "wd:id":"Q20300821"
+    },
+    "wof:country":"YE",
+    "wof:created":1497293931,
+    "wof:geomhash":"b50225031ca2865c466ad00d6666594c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1125863491,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125863491,
+    "wof:lastmodified":1514503188,
+    "wof:name":"Al Mil\u0101m",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19492,
+    16.24249,
+    43.19492,
+    16.24249
+],
+  "geometry": {"coordinates":[43.19492,16.24249],"type":"Point"}
+}

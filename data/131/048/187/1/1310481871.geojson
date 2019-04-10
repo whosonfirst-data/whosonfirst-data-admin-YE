@@ -1,0 +1,71 @@
+{
+  "id": 1310481871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79509,14.34196,43.79509,14.34196",
+    "geom:latitude":14.34196,
+    "geom:longitude":43.79509,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Al Wahs",
+    "gn:country_code":"YE",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358486,
+    "gn:latitude":14.34196,
+    "gn:longitude":43.79509,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Wa\u1e29s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Wa\u1e29s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358486
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3985a2b0af3b6515ced588fe35d91469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1310481871,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1310481871,
+    "wof:lastmodified":1537715723,
+    "wof:name":"Al Wahs",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79509,
+    14.34196,
+    43.79509,
+    14.34196
+],
+  "geometry": {"coordinates":[43.79509,14.34196],"type":"Point"}
+}

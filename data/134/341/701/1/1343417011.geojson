@@ -1,0 +1,71 @@
+{
+  "id": 1343417011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18331,13.75227,44.18331,13.75227",
+    "geom:latitude":13.75227,
+    "geom:longitude":44.18331,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Ahdhan",
+    "gn:country_code":"YE",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356466,
+    "gn:latitude":13.75227,
+    "gn:longitude":44.18331,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e29dh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e29dh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356466
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"465a30ec4341b5d7a73c5ff5128d0216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1343417011,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343417011,
+    "wof:lastmodified":1537715676,
+    "wof:name":"Ahdhan",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18331,
+    13.75227,
+    44.18331,
+    13.75227
+],
+  "geometry": {"coordinates":[44.18331,13.75227],"type":"Point"}
+}

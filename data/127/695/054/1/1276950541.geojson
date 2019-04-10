@@ -1,0 +1,74 @@
+{
+  "id": 1276950541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66597,17.01768,43.66597,17.01768",
+    "geom:latitude":17.01768,
+    "geom:longitude":43.66597,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Qa`mal",
+    "gn:country_code":"YE",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345318,
+    "gn:latitude":17.01768,
+    "gn:longitude":43.66597,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u2018mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0639\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qa\u2018mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345318
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e3f1a63fb3d6dc8128c58d4d1b862912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1276950541,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276950541,
+    "wof:lastmodified":1537715556,
+    "wof:name":"Qa`mal",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66597,
+    17.01768,
+    43.66597,
+    17.01768
+],
+  "geometry": {"coordinates":[43.66597,17.01768],"type":"Point"}
+}

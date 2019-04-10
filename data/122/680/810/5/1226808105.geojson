@@ -1,0 +1,71 @@
+{
+  "id": 1226808105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11333,14.22628,45.11333,14.22628",
+    "geom:latitude":14.22628,
+    "geom:longitude":45.11333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Jiraym",
+    "gn:country_code":"YE",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364236,
+    "gn:latitude":14.22628,
+    "gn:longitude":45.11333,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jiraym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364236
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd7b20a62d3cc053676d380031e694dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1226808105,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226808105,
+    "wof:lastmodified":1537715893,
+    "wof:name":"Jiraym",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11333,
+    14.22628,
+    45.11333,
+    14.22628
+],
+  "geometry": {"coordinates":[45.11333,14.22628],"type":"Point"}
+}

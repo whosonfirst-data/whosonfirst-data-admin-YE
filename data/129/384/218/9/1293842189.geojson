@@ -1,0 +1,71 @@
+{
+  "id": 1293842189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13105,16.06696,43.13105,16.06696",
+    "geom:latitude":16.06696,
+    "geom:longitude":43.13105,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Dayr al `Aqim",
+    "gn:country_code":"YE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363181,
+    "gn:latitude":16.06696,
+    "gn:longitude":43.13105,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr al \u2018Aq\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al \u2018Aq\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"965f0369801ff0f978cd7add8078b169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1293842189,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293842189,
+    "wof:lastmodified":1537715865,
+    "wof:name":"Dayr al `Aqim",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13105,
+    16.06696,
+    43.13105,
+    16.06696
+],
+  "geometry": {"coordinates":[43.13105,16.06696],"type":"Point"}
+}

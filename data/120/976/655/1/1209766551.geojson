@@ -1,0 +1,71 @@
+{
+  "id": 1209766551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63676,14.58175,43.63676,14.58175",
+    "geom:latitude":14.58175,
+    "geom:longitude":43.63676,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3104.0",
+    "gn:asciiname":"Kusmah",
+    "gn:country_code":"YE",
+    "gn:dem":2696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":401023,
+    "gn:latitude":14.58175,
+    "gn:longitude":43.63676,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kusmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc59a2d2fc457eb491cad35a6e593afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925331,
+            "locality_id":1209766551,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1209766551,
+    "wof:lastmodified":1537715341,
+    "wof:name":"Kusmah",
+    "wof:parent_id":1091925331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63676,
+    14.58175,
+    43.63676,
+    14.58175
+],
+  "geometry": {"coordinates":[43.63676,14.58175],"type":"Point"}
+}

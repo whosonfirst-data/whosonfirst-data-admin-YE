@@ -1,0 +1,73 @@
+{
+  "id": 890446667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77405,16.91749,43.77405,16.91749",
+    "geom:latitude":16.91749,
+    "geom:longitude":43.77405,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0639\u0631\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Al 'Ariz"
+    ],
+    "qs:name":"Bi\u2019r al \u2018Ariz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683853,
+        "gp:id":1958152,
+        "qs:id":697548,
+        "wd:id":"Q20300825"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052561,
+    "wof:geomhash":"b0b0b64a239114d8a254a0067dcfdf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":890446667,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446667,
+    "wof:lastmodified":1514503252,
+    "wof:name":"Bi\u2019r al \u2018Ariz",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77405,
+    16.91749,
+    43.77405,
+    16.91749
+],
+  "geometry": {"coordinates":[43.77405,16.91749],"type":"Point"}
+}

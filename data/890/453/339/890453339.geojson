@@ -1,0 +1,73 @@
+{
+  "id": 890453339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25644,16.53551,44.25644,16.53551",
+    "geom:latitude":16.53551,
+    "geom:longitude":44.25644,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0631\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Maqrah"
+    ],
+    "qs:name":"Maqra\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795436,
+        "gp:id":1958965,
+        "qs:id":701196,
+        "wd:id":"Q20301006"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052850,
+    "wof:geomhash":"eedbb5b90d97851ac838eb2f0d365a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890453339,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890453339,
+    "wof:lastmodified":1514503320,
+    "wof:name":"Maqra\u1e29",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25644,
+    16.53551,
+    44.25644,
+    16.53551
+],
+  "geometry": {"coordinates":[44.25644,16.53551],"type":"Point"}
+}

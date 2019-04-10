@@ -1,0 +1,76 @@
+{
+  "id": 890442635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68122,16.14928,43.68122,16.14928",
+    "geom:latitude":16.14928,
+    "geom:longitude":43.68122,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u2018A\u0163r\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0637\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Atran"
+    ],
+    "qs:name":"\u2018A\u0163r\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020412,
+        "gp:id":1959128,
+        "qs:id":749768,
+        "wd:id":"Q20299392"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052370,
+    "wof:geomhash":"f436679cb4c57b809c4e815104c7ed06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890442635,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890442635,
+    "wof:lastmodified":1514503406,
+    "wof:name":"\u2018A\u0163r\u0101n",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68122,
+    16.14928,
+    43.68122,
+    16.14928
+],
+  "geometry": {"coordinates":[43.68122,16.14928],"type":"Point"}
+}

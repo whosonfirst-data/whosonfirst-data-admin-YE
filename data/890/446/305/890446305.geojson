@@ -1,0 +1,80 @@
+{
+  "id": 890446305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37626,16.07293,43.37626,16.07293",
+    "geom:latitude":16.07293,
+    "geom:longitude":43.37626,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062d\u0645\u062f \u0639\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Muhammad 'Ali"
+    ],
+    "name:unk_x_variant":[
+        "\u0628\u064a\u062a \u0645\u062d\u0645\u062f \u0639\u0644\u064a"
+    ],
+    "qs:name":"Bayt Mu\u1e29ammad \u2018Al\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631414,
+        "gp:id":1958568,
+        "qs:id":697198,
+        "qs_pg:id":694408,
+        "wd:id":"Q20300539"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052546,
+    "wof:geomhash":"82a662f08119ab51806257e53dd335f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890446305,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446305,
+    "wof:lastmodified":1514503246,
+    "wof:name":"Bayt Mu\u1e29ammad \u2018Al\u012b",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37626,
+    16.07293,
+    43.37626,
+    16.07293
+],
+  "geometry": {"coordinates":[43.37626,16.07293],"type":"Point"}
+}

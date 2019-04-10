@@ -1,0 +1,74 @@
+{
+  "id": 1343336779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56079,16.48972,43.56079,16.48972",
+    "geom:latitude":16.48972,
+    "geom:longitude":43.56079,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Muja'ar",
+    "gn:country_code":"YE",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849443,
+    "gn:latitude":16.48972,
+    "gn:longitude":43.56079,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Muj\u0101\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0627\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Muj\u0101\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849443
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5b66035c58a5d10a7bfe9d5cfd09b6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1343336779,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343336779,
+    "wof:lastmodified":1537715998,
+    "wof:name":"Al Muja'ar",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56079,
+    16.48972,
+    43.56079,
+    16.48972
+],
+  "geometry": {"coordinates":[43.56079,16.48972],"type":"Point"}
+}

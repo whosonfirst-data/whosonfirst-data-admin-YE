@@ -1,0 +1,73 @@
+{
+  "id": 1260055805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59106,13.64119,44.59106,13.64119",
+    "geom:latitude":13.64119,
+    "geom:longitude":44.59106,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Zakhmumah",
+    "gn:country_code":"YE",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69475,
+    "gn:latitude":13.64119,
+    "gn:longitude":44.59106,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zakhm\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zakhmuma",
+        "Zakhm\u016bmah",
+        "Zakhm\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69475
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"11399a1f738baef9af4174781268188a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1260055805,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1260055805,
+    "wof:lastmodified":1537715062,
+    "wof:name":"Zakhmumah",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59106,
+    13.64119,
+    44.59106,
+    13.64119
+],
+  "geometry": {"coordinates":[44.59106,13.64119],"type":"Point"}
+}

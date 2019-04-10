@@ -1,0 +1,71 @@
+{
+  "id": 1243072319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.29571,14.40448,47.29571,14.40448",
+    "geom:latitude":14.40448,
+    "geom:longitude":47.29571,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Bilad al Khadra'",
+    "gn:country_code":"YE",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76853,
+    "gn:latitude":14.40448,
+    "gn:longitude":47.29571,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bil\u0101d al Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bil\u0101d al Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76853
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"70e6bbd3cfcecf57007d37d5c9752986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1243072319,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1243072319,
+    "wof:lastmodified":1537715210,
+    "wof:name":"Bilad al Khadra'",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.29571,
+    14.40448,
+    47.29571,
+    14.40448
+],
+  "geometry": {"coordinates":[47.29571,14.40448],"type":"Point"}
+}

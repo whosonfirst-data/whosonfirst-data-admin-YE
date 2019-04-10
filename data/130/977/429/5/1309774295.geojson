@@ -1,0 +1,73 @@
+{
+  "id": 1309774295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88334,13.53439,44.88334,13.53439",
+    "geom:latitude":13.53439,
+    "geom:longitude":44.88334,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Lubayniyah",
+    "gn:country_code":"YE",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73455,
+    "gn:latitude":13.53439,
+    "gn:longitude":44.88334,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lubayn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Lubayn\u012b",
+        "Libani",
+        "Lubayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73455
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"27b9d07e1ac1be0e03a084f9c0185cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1309774295,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1309774295,
+    "wof:lastmodified":1537715135,
+    "wof:name":"Lubayniyah",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88334,
+    13.53439,
+    44.88334,
+    13.53439
+],
+  "geometry": {"coordinates":[44.88334,13.53439],"type":"Point"}
+}

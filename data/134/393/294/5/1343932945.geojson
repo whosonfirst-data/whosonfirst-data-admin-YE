@@ -1,0 +1,74 @@
+{
+  "id": 1343932945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03989,16.43965,44.03989,16.43965",
+    "geom:latitude":16.43965,
+    "geom:longitude":44.03989,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Ar Ruq'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973579,
+    "gn:latitude":16.43965,
+    "gn:longitude":44.03989,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Ruq\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ruq\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973579
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c014b06cbe05cce08ebe5f9c85f7a876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1343932945,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343932945,
+    "wof:lastmodified":1537716103,
+    "wof:name":"Ar Ruq'ah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03989,
+    16.43965,
+    44.03989,
+    16.43965
+],
+  "geometry": {"coordinates":[44.03989,16.43965],"type":"Point"}
+}

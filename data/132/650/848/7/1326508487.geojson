@@ -1,0 +1,71 @@
+{
+  "id": 1326508487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4682,15.28198,43.4682,15.28198",
+    "geom:latitude":15.28198,
+    "geom:longitude":43.4682,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"At Tawil",
+    "gn:country_code":"YE",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300396,
+    "gn:latitude":15.28198,
+    "gn:longitude":43.4682,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300396
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4fc028c024c596a7d3708cc19f873024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1326508487,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1326508487,
+    "wof:lastmodified":1537716034,
+    "wof:name":"At Tawil",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4682,
+    15.28198,
+    43.4682,
+    15.28198
+],
+  "geometry": {"coordinates":[43.4682,15.28198],"type":"Point"}
+}

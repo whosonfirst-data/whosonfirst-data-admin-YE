@@ -1,0 +1,74 @@
+{
+  "id": 1225815773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80865,15.7266,44.80865,15.7266",
+    "geom:latitude":15.7266,
+    "geom:longitude":44.80865,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Umm al 'Ulub",
+    "gn:country_code":"YE",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976126,
+    "gn:latitude":15.7266,
+    "gn:longitude":44.80865,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm al \u2018Ul\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0644\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Umm al \u2018Ul\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976126
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"074031e2b16ed2a93c0e155e9031556f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1225815773,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1225815773,
+    "wof:lastmodified":1537716145,
+    "wof:name":"Umm al 'Ulub",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80865,
+    15.7266,
+    44.80865,
+    15.7266
+],
+  "geometry": {"coordinates":[44.80865,15.7266],"type":"Point"}
+}

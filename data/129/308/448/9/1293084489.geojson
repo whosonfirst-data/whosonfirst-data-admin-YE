@@ -1,0 +1,74 @@
+{
+  "id": 1293084489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14965,15.0346,45.14965,15.0346",
+    "geom:latitude":15.0346,
+    "geom:longitude":45.14965,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"Al Ma`wad",
+    "gn:country_code":"YE",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341161,
+    "gn:latitude":15.0346,
+    "gn:longitude":45.14965,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Al Ma\u2018wad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018wad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341161
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0f3da7413a6549f4f2148812f826b963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1293084489,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293084489,
+    "wof:lastmodified":1537715474,
+    "wof:name":"Al Ma`wad",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14965,
+    15.0346,
+    45.14965,
+    15.0346
+],
+  "geometry": {"coordinates":[45.14965,15.0346],"type":"Point"}
+}

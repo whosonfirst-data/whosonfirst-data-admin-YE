@@ -1,0 +1,76 @@
+{
+  "id": 890454833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25191,17.14676,43.25191,17.14676",
+    "geom:latitude":17.14676,
+    "geom:longitude":43.25191,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u0648\u064a"
+    ],
+    "qs:name":"Al Mar\u0101w\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658558,
+        "gp:id":1938607,
+        "qs:id":743161,
+        "qs_pg:id":696375,
+        "wd:id":"Q4117620",
+        "wk:page":"Al Marawi'ah District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052916,
+    "wof:geomhash":"6e85da5d4b4570898e673d8421becf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890454833,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454833,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Al Mar\u0101w\u012b",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25191,
+    17.14676,
+    43.25191,
+    17.14676
+],
+  "geometry": {"coordinates":[43.25191,17.14676],"type":"Point"}
+}

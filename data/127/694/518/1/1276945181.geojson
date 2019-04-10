@@ -1,0 +1,71 @@
+{
+  "id": 1276945181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15205,13.47508,44.15205,13.47508",
+    "geom:latitude":13.47508,
+    "geom:longitude":44.15205,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1513.0",
+    "gn:asciiname":"Gharab",
+    "gn:country_code":"YE",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354941,
+    "gn:latitude":13.47508,
+    "gn:longitude":44.15205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ghar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghar\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354941
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8755fe1e6c9cd6d824eb21ce24b7daef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":1276945181,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276945181,
+    "wof:lastmodified":1537715625,
+    "wof:name":"Gharab",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15205,
+    13.47508,
+    44.15205,
+    13.47508
+],
+  "geometry": {"coordinates":[44.15205,13.47508],"type":"Point"}
+}

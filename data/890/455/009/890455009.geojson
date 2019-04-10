@@ -1,0 +1,73 @@
+{
+  "id": 890455009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36399,14.45758,45.36399,14.45758",
+    "geom:latitude":14.45758,
+    "geom:longitude":45.36399,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a"
+    ],
+    "qs:name":"Ash Shar\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053441,
+        "gp:id":1958975,
+        "qs:id":751128,
+        "qs_pg:id":751857
+    },
+    "wof:country":"YE",
+    "wof:created":1469052929,
+    "wof:geomhash":"60d677192390b80ee6e2c855a51678d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":890455009,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890455009,
+    "wof:lastmodified":1505343660,
+    "wof:name":"Ash Shar\u012b",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36399,
+    14.45758,
+    45.36399,
+    14.45758
+],
+  "geometry": {"coordinates":[45.36399,14.45758],"type":"Point"}
+}

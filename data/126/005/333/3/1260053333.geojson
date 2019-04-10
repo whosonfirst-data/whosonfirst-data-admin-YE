@@ -1,0 +1,75 @@
+{
+  "id": 1260053333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10732,15.04296,45.10732,15.04296",
+    "geom:latitude":15.04296,
+    "geom:longitude":45.10732,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Ma`in",
+    "gn:country_code":"YE",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341159,
+    "gn:latitude":15.04296,
+    "gn:longitude":45.10732,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ma\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018ayn",
+        "Ma\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341159
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1275454e3ee88a9326d775905838f54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1260053333,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260053333,
+    "wof:lastmodified":1537715473,
+    "wof:name":"Ma`in",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10732,
+    15.04296,
+    45.10732,
+    15.04296
+],
+  "geometry": {"coordinates":[45.10732,15.04296],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310378599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40936,15.50419,45.40936,15.50419",
+    "geom:latitude":15.50419,
+    "geom:longitude":45.40936,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al Hadan",
+    "gn:country_code":"YE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341394,
+    "gn:latitude":15.50419,
+    "gn:longitude":45.40936,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al \u1e28a\u1e11an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062f\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0636\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28az\u0327an",
+        "Al Hadan",
+        "Al \u1e28a\u1e11an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341394
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f4a73fa3d6406e7d7a65dfff0f74d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1310378599,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1310378599,
+    "wof:lastmodified":1537715480,
+    "wof:name":"Al Hadan",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40936,
+    15.50419,
+    45.40936,
+    15.50419
+],
+  "geometry": {"coordinates":[45.40936,15.50419],"type":"Point"}
+}

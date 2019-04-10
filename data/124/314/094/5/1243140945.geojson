@@ -1,0 +1,71 @@
+{
+  "id": 1243140945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5739,15.701,43.5739,15.701",
+    "geom:latitude":15.701,
+    "geom:longitude":43.5739,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1728.0",
+    "gn:asciiname":"Al Marwi",
+    "gn:country_code":"YE",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344355,
+    "gn:latitude":15.701,
+    "gn:longitude":43.5739,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Marw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Marw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344355
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ba04da79b8da72ba6e19ddd710f65e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923885,
+            "locality_id":1243140945,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243140945,
+    "wof:lastmodified":1537715537,
+    "wof:name":"Al Marwi",
+    "wof:parent_id":1091923885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5739,
+    15.701,
+    43.5739,
+    15.701
+],
+  "geometry": {"coordinates":[43.5739,15.701],"type":"Point"}
+}

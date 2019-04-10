@@ -1,0 +1,71 @@
+{
+  "id": 1259454615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01006,15.18327,44.01006,15.18327",
+    "geom:latitude":15.18327,
+    "geom:longitude":44.01006,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Hushwam",
+    "gn:country_code":"YE",
+    "gn:dem":2717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342085,
+    "gn:latitude":15.18327,
+    "gn:longitude":44.01006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ushwam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ushwam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342085
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b9e7d57413c2254605808a6b6217ba97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1259454615,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259454615,
+    "wof:lastmodified":1537715494,
+    "wof:name":"Hushwam",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01006,
+    15.18327,
+    44.01006,
+    15.18327
+],
+  "geometry": {"coordinates":[44.01006,15.18327],"type":"Point"}
+}

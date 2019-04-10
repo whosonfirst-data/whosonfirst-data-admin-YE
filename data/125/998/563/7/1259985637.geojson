@@ -1,0 +1,73 @@
+{
+  "id": 1259985637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.48333,14.83333,49.48333,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":49.48333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1915.0",
+    "gn:asciiname":"Bi'r Ma`ruf",
+    "gn:country_code":"YE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76770,
+    "gn:latitude":14.83333,
+    "gn:longitude":49.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bi\u2019r Ma\u2018r\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi\u2018y\u0101n al Mas\u0101jid",
+        "Bir Ma\u2019rut",
+        "Bi\u2019r Ma\u2018r\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76770
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"57a2d9a165643fe2e40b21c1273a5921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922837,
+            "locality_id":1259985637,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259985637,
+    "wof:lastmodified":1537715208,
+    "wof:name":"Bi'r Ma`ruf",
+    "wof:parent_id":1091922837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.48333,
+    14.83333,
+    49.48333,
+    14.83333
+],
+  "geometry": {"coordinates":[49.48333,14.83333],"type":"Point"}
+}

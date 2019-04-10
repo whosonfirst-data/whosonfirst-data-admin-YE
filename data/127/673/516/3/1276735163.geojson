@@ -1,0 +1,71 @@
+{
+  "id": 1276735163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39961,16.75053,43.39961,16.75053",
+    "geom:latitude":16.75053,
+    "geom:longitude":43.39961,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Bilad Qudam",
+    "gn:country_code":"YE",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346548,
+    "gn:latitude":16.75053,
+    "gn:longitude":43.39961,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bil\u0101d Qudam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bil\u0101d Qudam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346548
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7fd9865f6044cc0efadf6cd2d939a40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1276735163,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276735163,
+    "wof:lastmodified":1537715598,
+    "wof:name":"Bilad Qudam",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39961,
+    16.75053,
+    43.39961,
+    16.75053
+],
+  "geometry": {"coordinates":[43.39961,16.75053],"type":"Point"}
+}

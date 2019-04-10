@@ -1,0 +1,71 @@
+{
+  "id": 1293840123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48691,15.72264,43.48691,15.72264",
+    "geom:latitude":15.72264,
+    "geom:longitude":43.48691,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1723.0",
+    "gn:asciiname":"Mahall as Sallah",
+    "gn:country_code":"YE",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366607,
+    "gn:latitude":15.72264,
+    "gn:longitude":43.48691,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all as \u015eallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all as \u015eallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366607
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8ac81f6734649ee879b8c4c8e233333f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924297,
+            "locality_id":1293840123,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293840123,
+    "wof:lastmodified":1537715958,
+    "wof:name":"Mahall as Sallah",
+    "wof:parent_id":1091924297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48691,
+    15.72264,
+    43.48691,
+    15.72264
+],
+  "geometry": {"coordinates":[43.48691,15.72264],"type":"Point"}
+}

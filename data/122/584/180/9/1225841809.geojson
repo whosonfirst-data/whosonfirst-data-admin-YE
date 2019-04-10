@@ -1,0 +1,74 @@
+{
+  "id": 1225841809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.87288,15.19584,42.87288,15.19584",
+    "geom:latitude":15.19584,
+    "geom:longitude":42.87288,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Mahall al 'Aqil",
+    "gn:country_code":"YE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989009,
+    "gn:latitude":15.19584,
+    "gn:longitude":42.87288,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al \u2018\u0100qil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0639\u0627\u0642\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u2018\u0100qil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a5ded2729af1ed6a9ba593a2256a353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920165,
+            "locality_id":1225841809,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225841809,
+    "wof:lastmodified":1537716300,
+    "wof:name":"Mahall al 'Aqil",
+    "wof:parent_id":1091920165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.87288,
+    15.19584,
+    42.87288,
+    15.19584
+],
+  "geometry": {"coordinates":[42.87288,15.19584],"type":"Point"}
+}

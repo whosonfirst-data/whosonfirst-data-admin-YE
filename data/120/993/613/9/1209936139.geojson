@@ -1,0 +1,74 @@
+{
+  "id": 1209936139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.971,14.908,42.971,14.908",
+    "geom:latitude":14.908,
+    "geom:longitude":42.971,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al Kabs",
+    "gn:country_code":"YE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866264,
+    "gn:latitude":14.908,
+    "gn:longitude":42.971,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al Kabs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0643\u0628\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Kabs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866264
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93fe3ae8280c145f0accb185d695d37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1209936139,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209936139,
+    "wof:lastmodified":1537716208,
+    "wof:name":"Mahall al Kabs",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.971,
+    14.908,
+    42.971,
+    14.908
+],
+  "geometry": {"coordinates":[42.971,14.908],"type":"Point"}
+}

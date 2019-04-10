@@ -1,0 +1,68 @@
+{
+  "id": 1226200335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89654,13.90746,43.89654,13.90746",
+    "geom:latitude":13.90746,
+    "geom:longitude":43.89654,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Al Mawradah",
+    "gn:country_code":"YE",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355894,
+    "gn:latitude":13.90746,
+    "gn:longitude":43.89654,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mawradah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355894
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"78dfdadf98f2b706cd22a642d437ba7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1226200335,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226200335,
+    "wof:lastmodified":1536998453,
+    "wof:name":"Al Mawradah",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89654,
+    13.90746,
+    43.89654,
+    13.90746
+],
+  "geometry": {"coordinates":[43.89654,13.90746],"type":"Point"}
+}

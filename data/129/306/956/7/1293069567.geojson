@@ -1,0 +1,75 @@
+{
+  "id": 1293069567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39409,14.01712,44.39409,14.01712",
+    "geom:latitude":14.01712,
+    "geom:longitude":44.39409,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1105.0",
+    "gn:asciiname":"Ar Rida'i",
+    "gn:country_code":"YE",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":408342,
+    "gn:latitude":14.01712,
+    "gn:longitude":44.39409,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ar Ri\u1e11\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0636\u0627\u0626\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e11\u0101\u2018\u012b",
+        "Ar Ri\u1e11\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408342
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"531bcfa5d1036015851840f97d5ed29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924511,
+            "locality_id":1293069567,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293069567,
+    "wof:lastmodified":1537715419,
+    "wof:name":"Ar Rida'i",
+    "wof:parent_id":1091924511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39409000000001,
+    14.01712,
+    44.39409000000001,
+    14.01712
+],
+  "geometry": {"coordinates":[44.39409000000001,14.01712],"type":"Point"}
+}

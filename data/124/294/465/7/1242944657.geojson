@@ -1,0 +1,71 @@
+{
+  "id": 1242944657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36266,15.83892,44.36266,15.83892",
+    "geom:latitude":15.83892,
+    "geom:longitude":44.36266,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Wabran",
+    "gn:country_code":"YE",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362369,
+    "gn:latitude":15.83892,
+    "gn:longitude":44.36266,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wabr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wabr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362369
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84859ce8035f4c320533be1e377343b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1242944657,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1242944657,
+    "wof:lastmodified":1537715842,
+    "wof:name":"Wabran",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36266,
+    15.83892,
+    44.36266,
+    15.83892
+],
+  "geometry": {"coordinates":[44.36266,15.83892],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226317827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76069,16.47706,43.76069,16.47706",
+    "geom:latitude":16.47706,
+    "geom:longitude":43.76069,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Al Haniya'",
+    "gn:country_code":"YE",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9632635,
+    "gn:latitude":16.47706,
+    "gn:longitude":43.76069,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Haniy\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u064a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Haniy\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9632635
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"845e972505bf5e178209aff11183ff6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1226317827,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226317827,
+    "wof:lastmodified":1537716065,
+    "wof:name":"Al Haniya'",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76069,
+    16.47706,
+    43.76069,
+    16.47706
+],
+  "geometry": {"coordinates":[43.76069,16.47706],"type":"Point"}
+}

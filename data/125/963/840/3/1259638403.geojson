@@ -1,0 +1,72 @@
+{
+  "id": 1259638403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59846,13.74448,43.59846,13.74448",
+    "geom:latitude":13.74448,
+    "geom:longitude":43.59846,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Damin",
+    "gn:country_code":"YE",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407705,
+    "gn:latitude":13.74448,
+    "gn:longitude":43.59846,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e10am\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10am\u012bn",
+        "Dam\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407705
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77732a9d3968b938e0b466d05cf6b74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1259638403,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259638403,
+    "wof:lastmodified":1537715400,
+    "wof:name":"Damin",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59846,
+    13.74448,
+    43.59846,
+    13.74448
+],
+  "geometry": {"coordinates":[43.59846,13.74448],"type":"Point"}
+}

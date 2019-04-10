@@ -1,0 +1,68 @@
+{
+  "id": 1226100437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3709,15.91699,43.3709,15.91699",
+    "geom:latitude":15.91699,
+    "geom:longitude":43.3709,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1713.0",
+    "gn:asciiname":"Al Mashab",
+    "gn:country_code":"YE",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366112,
+    "gn:latitude":15.91699,
+    "gn:longitude":43.3709,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mashab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366112
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"65ca57bd5c6391a7bef6a4264e2a514a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":1226100437,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226100437,
+    "wof:lastmodified":1536645835,
+    "wof:name":"Al Mashab",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3709,
+    15.91699,
+    43.3709,
+    15.91699
+],
+  "geometry": {"coordinates":[43.3709,15.91699],"type":"Point"}
+}

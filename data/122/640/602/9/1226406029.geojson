@@ -1,0 +1,71 @@
+{
+  "id": 1226406029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10983,15.19518,44.10983,15.19518",
+    "geom:latitude":15.19518,
+    "geom:longitude":44.10983,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Lidan",
+    "gn:country_code":"YE",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342307,
+    "gn:latitude":15.19518,
+    "gn:longitude":44.10983,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lid\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Lid\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342307
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8326cdb01c55ef798a174b4e72e57af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1226406029,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226406029,
+    "wof:lastmodified":1537715498,
+    "wof:name":"Lidan",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10983,
+    15.19518,
+    44.10983,
+    15.19518
+],
+  "geometry": {"coordinates":[44.10983,15.19518],"type":"Point"}
+}

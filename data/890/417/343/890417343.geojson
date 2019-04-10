@@ -1,0 +1,76 @@
+{
+  "id": 890417343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67932,16.98798,43.67932,16.98798",
+    "geom:latitude":16.98798,
+    "geom:longitude":43.67932,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":43,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Kuz\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0632\u0627\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kuzaz"
+    ],
+    "qs:name":"Al Kuz\u0101z",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345411,
+        "gp:id":1959002,
+        "qs:id":685042,
+        "wd:id":"Q20305798"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051197,
+    "wof:geomhash":"74cbf895352cfeb9610128450c7c74d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890417343,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890417343,
+    "wof:lastmodified":1514503166,
+    "wof:name":"Al Kuz\u0101z",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67932,
+    16.98798,
+    43.67932,
+    16.98798
+],
+  "geometry": {"coordinates":[43.67932,16.98798],"type":"Point"}
+}

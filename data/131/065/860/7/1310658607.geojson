@@ -1,0 +1,71 @@
+{
+  "id": 1310658607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90314,13.95519,43.90314,13.95519",
+    "geom:latitude":13.95519,
+    "geom:longitude":43.90314,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Al Qasimiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300289,
+    "gn:latitude":13.95519,
+    "gn:longitude":43.90314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Q\u0101sim\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Q\u0101sim\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300289
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d33ddec9cea5dce44c2a18617ae31fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1310658607,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310658607,
+    "wof:lastmodified":1537716031,
+    "wof:name":"Al Qasimiyah",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90314,
+    13.95519,
+    43.90314,
+    13.95519
+],
+  "geometry": {"coordinates":[43.90314,13.95519],"type":"Point"}
+}

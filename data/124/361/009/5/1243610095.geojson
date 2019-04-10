@@ -1,0 +1,74 @@
+{
+  "id": 1243610095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80692,13.89272,43.80692,13.89272",
+    "geom:latitude":13.89272,
+    "geom:longitude":43.80692,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Al Mad-haf",
+    "gn:country_code":"YE",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355878,
+    "gn:latitude":13.89272,
+    "gn:longitude":43.80692,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mad-haf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0647\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Marhaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355878
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae1d754d7f206bb53e858ae969326168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1243610095,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243610095,
+    "wof:lastmodified":1537715654,
+    "wof:name":"Al Mad-haf",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80692,
+    13.89272,
+    43.80692,
+    13.89272
+],
+  "geometry": {"coordinates":[43.80692,13.89272],"type":"Point"}
+}

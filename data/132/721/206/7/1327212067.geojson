@@ -1,0 +1,68 @@
+{
+  "id": 1327212067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67262,15.51561,43.67262,15.51561",
+    "geom:latitude":15.51561,
+    "geom:longitude":43.67262,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Raydat al Qadam",
+    "gn:country_code":"YE",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344284,
+    "gn:latitude":15.51561,
+    "gn:longitude":43.67262,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Raydat al Qadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344284
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"021ba5ec22c904110fedcd563bcb828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1327212067,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327212067,
+    "wof:lastmodified":1536998289,
+    "wof:name":"Raydat al Qadam",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67262,
+    15.51561,
+    43.67262,
+    15.51561
+],
+  "geometry": {"coordinates":[43.67262,15.51561],"type":"Point"}
+}

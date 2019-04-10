@@ -1,0 +1,73 @@
+{
+  "id": 890446611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86688,16.84136,43.86688,16.84136",
+    "geom:latitude":16.84136,
+    "geom:longitude":43.86688,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":40,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0635\u0648\u0645\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Sawma'"
+    ],
+    "qs:name":"\u0100l \u015eawma\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683817,
+        "gp:id":1958933,
+        "qs:id":697512,
+        "wd:id":"Q20299515"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052559,
+    "wof:geomhash":"ff2404efb2236c777e71e2ab29ec8371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890446611,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446611,
+    "wof:lastmodified":1514503392,
+    "wof:name":"\u0100l \u015eawma\u2018",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86688,
+    16.84136,
+    43.86688,
+    16.84136
+],
+  "geometry": {"coordinates":[43.86688,16.84136],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226199329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.025,13.2125,44.025,13.2125",
+    "geom:latitude":13.2125,
+    "geom:longitude":44.025,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Shawhat",
+    "gn:country_code":"YE",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30662,
+    "gn:latitude":13.2125,
+    "gn:longitude":44.025,
+    "gn:modification_date":"1998-02-10",
+    "gn:name":"Shaw\u1e29a\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30662
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a6a13885f58b681dd3191049f3a9ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1226199329,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226199329,
+    "wof:lastmodified":1536999894,
+    "wof:name":"Shawhat",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.025,
+    13.2125,
+    44.025,
+    13.2125
+],
+  "geometry": {"coordinates":[44.025,13.2125],"type":"Point"}
+}

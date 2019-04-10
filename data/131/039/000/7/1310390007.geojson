@@ -1,0 +1,74 @@
+{
+  "id": 1310390007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09118,15.32366,43.09118,15.32366",
+    "geom:latitude":15.32366,
+    "geom:longitude":43.09118,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"'Ali 'Abd Allah",
+    "gn:country_code":"YE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035978,
+    "gn:latitude":15.32366,
+    "gn:longitude":43.09118,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035978
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4d89bb81a1eb84e8599f21b4f7255298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1310390007,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310390007,
+    "wof:lastmodified":1537716304,
+    "wof:name":"'Ali 'Abd Allah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09118,
+    15.32366,
+    43.09118,
+    15.32366
+],
+  "geometry": {"coordinates":[43.09118,15.32366],"type":"Point"}
+}

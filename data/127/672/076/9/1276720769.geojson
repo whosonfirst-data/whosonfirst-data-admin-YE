@@ -1,0 +1,68 @@
+{
+  "id": 1276720769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29187,14.42574,45.29187,14.42574",
+    "geom:latitude":14.42574,
+    "geom:longitude":45.29187,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Al Qashlah",
+    "gn:country_code":"YE",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363896,
+    "gn:latitude":14.42574,
+    "gn:longitude":45.29187,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qashlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363896
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a324d1ec3aa674586b35febd69fa61f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919509,
+            "locality_id":1276720769,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1276720769,
+    "wof:lastmodified":1536756922,
+    "wof:name":"Al Qashlah",
+    "wof:parent_id":1091919509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29187,
+    14.42574,
+    45.29187,
+    14.42574
+],
+  "geometry": {"coordinates":[45.29187,14.42574],"type":"Point"}
+}

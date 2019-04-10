@@ -1,0 +1,74 @@
+{
+  "id": 1243335127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43074,15.52065,44.43074,15.52065",
+    "geom:latitude":15.52065,
+    "geom:longitude":44.43074,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Hisn as Sa'id",
+    "gn:country_code":"YE",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975875,
+    "gn:latitude":15.52065,
+    "gn:longitude":44.43074,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28i\u015fn as Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646 \u0627\u0644\u0633\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28i\u015fn as Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975875
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e2372db6e19b101b039e3bccba4f99d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1243335127,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243335127,
+    "wof:lastmodified":1537716137,
+    "wof:name":"Hisn as Sa'id",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43074,
+    15.52065,
+    44.43074,
+    15.52065
+],
+  "geometry": {"coordinates":[44.43074,15.52065],"type":"Point"}
+}

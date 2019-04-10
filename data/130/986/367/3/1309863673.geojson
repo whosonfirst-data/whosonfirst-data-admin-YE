@@ -1,0 +1,74 @@
+{
+  "id": 1309863673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44638,14.07763,44.44638,14.07763",
+    "geom:latitude":14.07763,
+    "geom:longitude":44.44638,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Bayt `Ubayd",
+    "gn:country_code":"YE",
+    "gn:dem":2862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359312,
+    "gn:latitude":14.07763,
+    "gn:longitude":44.44638,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt \u2018Ubayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0628\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Ubayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359312
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fd7e05169d4c95c3dd22d3e85580b47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1309863673,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309863673,
+    "wof:lastmodified":1537715754,
+    "wof:name":"Bayt `Ubayd",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44638,
+    14.07763,
+    44.44638,
+    14.07763
+],
+  "geometry": {"coordinates":[44.44638,14.07763],"type":"Point"}
+}

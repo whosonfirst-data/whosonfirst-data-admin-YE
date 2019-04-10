@@ -1,0 +1,73 @@
+{
+  "id": 890448649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.363,17.3748,43.363,17.3748",
+    "geom:latitude":17.3748,
+    "geom:longitude":43.363,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062c\u064a\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Anjayh"
+    ],
+    "qs:name":"Anjay\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856485,
+        "gp:id":56447933,
+        "qs:id":742406,
+        "wd:id":"Q20301142"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052639,
+    "wof:geomhash":"ab6cf0903328197e4ea236b533597519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890448649,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448649,
+    "wof:lastmodified":1514503219,
+    "wof:name":"Anjay\u1e29",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.363,
+    17.3748,
+    43.363,
+    17.3748
+],
+  "geometry": {"coordinates":[43.363,17.3748],"type":"Point"}
+}

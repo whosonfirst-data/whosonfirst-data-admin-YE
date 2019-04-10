@@ -1,0 +1,71 @@
+{
+  "id": 1276931505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02917,13.44329,44.02917,13.44329",
+    "geom:latitude":13.44329,
+    "geom:longitude":44.02917,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1512.0",
+    "gn:asciiname":"Mutali",
+    "gn:country_code":"YE",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409135,
+    "gn:latitude":13.44329,
+    "gn:longitude":44.02917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u0163\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mu\u0163\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bba0c6c9efb4a85a3270cab3180a117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926343,
+            "locality_id":1276931505,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276931505,
+    "wof:lastmodified":1537715426,
+    "wof:name":"Mutali",
+    "wof:parent_id":1091926343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02917,
+    13.44329,
+    44.02917,
+    13.44329
+],
+  "geometry": {"coordinates":[44.02917,13.44329],"type":"Point"}
+}

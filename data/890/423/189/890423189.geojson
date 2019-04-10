@@ -1,0 +1,73 @@
+{
+  "id": 890423189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4007,16.01347,43.4007,16.01347",
+    "geom:latitude":16.01347,
+    "geom:longitude":43.4007,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0630\u0631\u0627\u0639 \u0627\u0644\u062f\u0645\u0627\u0634\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Dhira' Ad Dimashah"
+    ],
+    "qs:name":"Dhir\u0101\u2018 ad Dim\u0101shah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682628,
+        "gp:id":1958568,
+        "qs:id":697313,
+        "wd:id":"Q20302287"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051484,
+    "wof:geomhash":"86c12e1cd2b47285979af69cc6a97dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890423189,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423189,
+    "wof:lastmodified":1514503261,
+    "wof:name":"Dhir\u0101\u2018 ad Dim\u0101shah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4007,
+    16.01347,
+    43.4007,
+    16.01347
+],
+  "geometry": {"coordinates":[43.4007,16.01347],"type":"Point"}
+}

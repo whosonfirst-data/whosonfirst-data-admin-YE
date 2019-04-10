@@ -1,0 +1,71 @@
+{
+  "id": 1360168097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98657,15.60625,44.98657,15.60625",
+    "geom:latitude":15.60625,
+    "geom:longitude":44.98657,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"An Nushayfah",
+    "gn:country_code":"YE",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342669,
+    "gn:latitude":15.60625,
+    "gn:longitude":44.98657,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"An Nushayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0634\u064a\u0641\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342669
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b32b67edc98e70bd595246cf01c4fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925245,
+            "locality_id":1360168097,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1360168097,
+    "wof:lastmodified":1537715503,
+    "wof:name":"An Nushayfah",
+    "wof:parent_id":1091925245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98657,
+    15.60625,
+    44.98657,
+    15.60625
+],
+  "geometry": {"coordinates":[44.98657,15.60625],"type":"Point"}
+}

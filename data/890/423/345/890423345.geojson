@@ -1,0 +1,73 @@
+{
+  "id": 890423345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76404,16.98955,44.76404,16.98955",
+    "geom:latitude":16.98955,
+    "geom:longitude":44.76404,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0639\u0634\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "AbU 'Ishah"
+    ],
+    "qs:name":"Ab\u016b \u2018Ishah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686957,
+        "gp:id":1959135,
+        "qs:id":697679,
+        "wd:id":"Q20299757"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051494,
+    "wof:geomhash":"4041b07c06332a488dc719550ae82aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890423345,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890423345,
+    "wof:lastmodified":1514503127,
+    "wof:name":"Ab\u016b \u2018Ishah",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76404,
+    16.98955,
+    44.76404,
+    16.98955
+],
+  "geometry": {"coordinates":[44.76404,16.98955],"type":"Point"}
+}

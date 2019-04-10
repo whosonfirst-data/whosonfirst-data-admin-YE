@@ -1,0 +1,69 @@
+{
+  "id": 890448333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38182,16.51375,44.38182,16.51375",
+    "geom:latitude":16.51375,
+    "geom:longitude":44.38182,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0645"
+    ],
+    "qs:name":"Al Maq\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795080,
+        "gp:id":1958965,
+        "qs:id":700847
+    },
+    "wof:country":"YE",
+    "wof:created":1469052627,
+    "wof:geomhash":"cbe493dbb834d1755847e7e09ff5bb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":890448333,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890448333,
+    "wof:lastmodified":1505343622,
+    "wof:name":"Al Maq\u0101m",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38182,
+    16.51375,
+    44.38182,
+    16.51375
+],
+  "geometry": {"coordinates":[44.38182,16.51375],"type":"Point"}
+}

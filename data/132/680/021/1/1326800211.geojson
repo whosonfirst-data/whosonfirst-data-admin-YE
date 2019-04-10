@@ -1,0 +1,75 @@
+{
+  "id": 1326800211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65089,17.08555,43.65089,17.08555",
+    "geom:latitude":17.08555,
+    "geom:longitude":43.65089,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Dharyah",
+    "gn:country_code":"YE",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345301,
+    "gn:latitude":17.08555,
+    "gn:longitude":43.65089,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"\u0100l Dharyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0630\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Dharyah",
+        "Adh Dharyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345301
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd254ba8d5b9efd0e0dd0f3e3673d808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1326800211,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1326800211,
+    "wof:lastmodified":1537715555,
+    "wof:name":"Al Dharyah",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65089,
+    17.08555,
+    43.65089,
+    17.08555
+],
+  "geometry": {"coordinates":[43.65089,17.08555],"type":"Point"}
+}

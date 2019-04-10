@@ -1,0 +1,71 @@
+{
+  "id": 1326885293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13162,13.36207,44.13162,13.36207",
+    "geom:latitude":13.36207,
+    "geom:longitude":44.13162,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1523.0",
+    "gn:asciiname":"Nihman",
+    "gn:country_code":"YE",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355009,
+    "gn:latitude":13.36207,
+    "gn:longitude":44.13162,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nihm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Nihm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1feb733e2357e1dbfd60c600b152df9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926655,
+            "locality_id":1326885293,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326885293,
+    "wof:lastmodified":1537715627,
+    "wof:name":"Nihman",
+    "wof:parent_id":1091926655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13162,
+    13.36207,
+    44.13162,
+    13.36207
+],
+  "geometry": {"coordinates":[44.13162,13.36207],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293485813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47016,14.38652,46.47016,14.38652",
+    "geom:latitude":14.38652,
+    "geom:longitude":46.47016,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Hisn al Wusr",
+    "gn:country_code":"YE",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74740,
+    "gn:latitude":14.38652,
+    "gn:longitude":46.47016,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28i\u015fn al Wusr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husn al Wasar",
+        "\u1e28u\u015fn el-Wusr",
+        "\u1e28u\u015fn al Wusr",
+        "\u1e28i\u015fn al Wusr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74740
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8dda7a9e12cab2fe2faa66ba5269c05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1293485813,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1293485813,
+    "wof:lastmodified":1537715163,
+    "wof:name":"Hisn al Wusr",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47016,
+    14.38652,
+    46.47016,
+    14.38652
+],
+  "geometry": {"coordinates":[46.47016,14.38652],"type":"Point"}
+}

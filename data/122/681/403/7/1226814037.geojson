@@ -1,0 +1,71 @@
+{
+  "id": 1226814037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99934,16.09786,43.99934,16.09786",
+    "geom:latitude":16.09786,
+    "geom:longitude":43.99934,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt al Madanah",
+    "gn:country_code":"YE",
+    "gn:dem":2253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635227,
+    "gn:latitude":16.09786,
+    "gn:longitude":43.99934,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Madanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0645\u062f\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635227
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21919519efca2e35f7afc589697b4d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1226814037,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226814037,
+    "wof:lastmodified":1537716098,
+    "wof:name":"Bayt al Madanah",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99934,
+    16.09786,
+    43.99934,
+    16.09786
+],
+  "geometry": {"coordinates":[43.99934,16.09786],"type":"Point"}
+}

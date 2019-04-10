@@ -1,0 +1,75 @@
+{
+  "id": 1193263007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22113,14.63223,43.22113,14.63223",
+    "geom:latitude":14.63223,
+    "geom:longitude":43.22113,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1814.0",
+    "gn:asciiname":"Al Mubakarah",
+    "gn:country_code":"YE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402015,
+    "gn:latitude":14.63223,
+    "gn:longitude":43.22113,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Mub\u0101karah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0627\u0643\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Umar\u012byah Ban\u012b M\u016bs\u00e1",
+        "Al Mub\u0101karah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4cca8d378dc327fb53a12d3981102822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919869,
+            "locality_id":1193263007,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193263007,
+    "wof:lastmodified":1537715352,
+    "wof:name":"Al Mubakarah",
+    "wof:parent_id":1091919869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22113,
+    14.63223,
+    43.22113,
+    14.63223
+],
+  "geometry": {"coordinates":[43.22113,14.63223],"type":"Point"}
+}

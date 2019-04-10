@@ -1,0 +1,74 @@
+{
+  "id": 1226297705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91602,13.13979,43.91602,13.13979",
+    "geom:latitude":13.13979,
+    "geom:longitude":43.91602,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Mirshuh",
+    "gn:country_code":"YE",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071318,
+    "gn:latitude":13.13979,
+    "gn:longitude":43.91602,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mirsh\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mirsh\u016b\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0631\u0634\u0648\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071318
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6583654759f77bbb9afea1a43e3880ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1226297705,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226297705,
+    "wof:lastmodified":1537716015,
+    "wof:name":"Al Mirshuh",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91602,
+    13.13979,
+    43.91602,
+    13.13979
+],
+  "geometry": {"coordinates":[43.91602,13.13979],"type":"Point"}
+}

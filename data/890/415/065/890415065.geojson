@@ -1,0 +1,73 @@
+{
+  "id": 890415065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29334,16.65856,43.29334,16.65856",
+    "geom:latitude":16.65856,
+    "geom:longitude":43.29334,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Hayfah"
+    ],
+    "qs:name":"\u1e28ayfah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854991,
+        "gp:id":1938881,
+        "qs:id":741928,
+        "wd:id":"Q20305587"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051072,
+    "wof:geomhash":"856c2a09d93072e438ed045481e4cd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890415065,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890415065,
+    "wof:lastmodified":1514503400,
+    "wof:name":"\u1e28ayfah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29334,
+    16.65856,
+    43.29334,
+    16.65856
+],
+  "geometry": {"coordinates":[43.29334,16.65856],"type":"Point"}
+}

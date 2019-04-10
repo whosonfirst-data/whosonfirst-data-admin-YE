@@ -1,0 +1,73 @@
+{
+  "id": 890449135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71994,16.08716,43.71994,16.08716",
+    "geom:latitude":16.08716,
+    "geom:longitude":43.71994,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0639\u0649 \u0648\u0639\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Khal'a Wa'as"
+    ],
+    "qs:name":"Khal\u2018\u00e1 Wa\u2018\u0101s",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022002,
+        "gp:id":1959046,
+        "qs:id":750232,
+        "wd:id":"Q20299002"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052670,
+    "wof:geomhash":"78b61cb5e014245a7d8ae07f4cb9fe82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890449135,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890449135,
+    "wof:lastmodified":1514503301,
+    "wof:name":"Khal\u2018\u00e1 Wa\u2018\u0101s",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71994,
+    16.08716,
+    43.71994,
+    16.08716
+],
+  "geometry": {"coordinates":[43.71994,16.08716],"type":"Point"}
+}

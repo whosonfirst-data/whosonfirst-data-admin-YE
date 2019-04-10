@@ -1,0 +1,71 @@
+{
+  "id": 1243331255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03806,13.21254,44.03806,13.21254",
+    "geom:latitude":13.21254,
+    "geom:longitude":44.03806,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Quhayfah",
+    "gn:country_code":"YE",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355259,
+    "gn:latitude":13.21254,
+    "gn:longitude":44.03806,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qu\u1e29ayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qu\u1e29ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355259
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5c7e076a9cbc59f7e3248eba6182432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1243331255,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243331255,
+    "wof:lastmodified":1537715632,
+    "wof:name":"Quhayfah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03806,
+    13.21254,
+    44.03806,
+    13.21254
+],
+  "geometry": {"coordinates":[44.03806,13.21254],"type":"Point"}
+}

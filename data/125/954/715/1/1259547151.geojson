@@ -1,0 +1,71 @@
+{
+  "id": 1259547151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27006,15.8151,44.27006,15.8151",
+    "geom:latitude":15.8151,
+    "geom:longitude":44.27006,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt al Baridah",
+    "gn:country_code":"YE",
+    "gn:dem":2458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362330,
+    "gn:latitude":15.8151,
+    "gn:longitude":44.27006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al B\u0101ridah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al B\u0101ridah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362330
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd90231aee4d6aa8378c7a14464f7f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1259547151,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259547151,
+    "wof:lastmodified":1537715841,
+    "wof:name":"Bayt al Baridah",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27006,
+    15.8151,
+    44.27006,
+    15.8151
+],
+  "geometry": {"coordinates":[44.27006,15.8151],"type":"Point"}
+}

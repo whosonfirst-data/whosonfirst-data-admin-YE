@@ -1,0 +1,73 @@
+{
+  "id": 890449025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7111,16.18745,43.7111,16.18745",
+    "geom:latitude":16.18745,
+    "geom:longitude":43.7111,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u062a \u0627\u0644\u0623\u0639\u0644\u0649"
+    ],
+    "qs:name":"Al Bayt al A\u2018l\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681881,
+        "gp:id":1959128,
+        "qs:id":749813,
+        "qs_pg:id":697025
+    },
+    "wof:country":"YE",
+    "wof:created":1469052663,
+    "wof:geomhash":"6ab2fe41fab73b78a8ea0ee9aad705f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890449025,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890449025,
+    "wof:lastmodified":1505343626,
+    "wof:name":"Al Bayt al A\u2018l\u00e1",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7111,
+    16.18745,
+    43.7111,
+    16.18745
+],
+  "geometry": {"coordinates":[43.7111,16.18745],"type":"Point"}
+}

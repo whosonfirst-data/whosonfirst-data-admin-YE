@@ -1,0 +1,71 @@
+{
+  "id": 1276730061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89169,13.40755,43.89169,13.40755",
+    "geom:latitude":13.40755,
+    "geom:longitude":43.89169,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Al `Azir",
+    "gn:country_code":"YE",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354413,
+    "gn:latitude":13.40755,
+    "gn:longitude":43.89169,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Az\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Az\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354413
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30e0a812dd96d6983f160638f19e60e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1276730061,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276730061,
+    "wof:lastmodified":1537715609,
+    "wof:name":"Al `Azir",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89169,
+    13.40755,
+    43.89169,
+    13.40755
+],
+  "geometry": {"coordinates":[43.89169,13.40755],"type":"Point"}
+}

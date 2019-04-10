@@ -1,0 +1,74 @@
+{
+  "id": 1293385327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03208,14.80903,43.03208,14.80903",
+    "geom:latitude":14.80903,
+    "geom:longitude":43.03208,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1823.0",
+    "gn:asciiname":"Suq al Hunud",
+    "gn:country_code":"YE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058069,
+    "gn:latitude":14.80903,
+    "gn:longitude":43.03208,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u016bq al Hun\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u0647\u0646\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq al Hun\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058069
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8e17e5742f92b1578143c10c22ba9c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919955,
+            "locality_id":1293385327,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293385327,
+    "wof:lastmodified":1537716325,
+    "wof:name":"Suq al Hunud",
+    "wof:parent_id":1091919955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03208,
+    14.80903,
+    43.03208,
+    14.80903
+],
+  "geometry": {"coordinates":[43.03208,14.80903],"type":"Point"}
+}

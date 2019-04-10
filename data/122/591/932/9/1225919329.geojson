@@ -1,0 +1,74 @@
+{
+  "id": 1225919329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80358,16.36689,43.80358,16.36689",
+    "geom:latitude":16.36689,
+    "geom:longitude":43.80358,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Suq al Aman",
+    "gn:country_code":"YE",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634477,
+    "gn:latitude":16.36689,
+    "gn:longitude":43.80358,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u016bq al Am\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u0623\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq al Am\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634477
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"80bd01ea742f1b59c8f2aab1f71b1c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1225919329,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1225919329,
+    "wof:lastmodified":1537716079,
+    "wof:name":"Suq al Aman",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80358,
+    16.36689,
+    43.80358,
+    16.36689
+],
+  "geometry": {"coordinates":[43.80358,16.36689],"type":"Point"}
+}

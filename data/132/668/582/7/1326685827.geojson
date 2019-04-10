@@ -1,0 +1,74 @@
+{
+  "id": 1326685827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5071,14.26713,44.5071,14.26713",
+    "geom:latitude":14.26713,
+    "geom:longitude":44.5071,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Hamdan",
+    "gn:country_code":"YE",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340022,
+    "gn:latitude":14.26713,
+    "gn:longitude":44.5071,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Hamd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0645\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hamd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340022
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"372db759ce68af864a2ce730fb596043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1326685827,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326685827,
+    "wof:lastmodified":1537715436,
+    "wof:name":"Hamdan",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5071,
+    14.26713,
+    44.5071,
+    14.26713
+],
+  "geometry": {"coordinates":[44.5071,14.26713],"type":"Point"}
+}

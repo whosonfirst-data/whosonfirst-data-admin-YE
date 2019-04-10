@@ -1,0 +1,71 @@
+{
+  "id": 1343523355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87598,15.90365,43.87598,15.90365",
+    "geom:latitude":15.90365,
+    "geom:longitude":43.87598,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2918.0",
+    "gn:asciiname":"Bayt `Askar",
+    "gn:country_code":"YE",
+    "gn:dem":2353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343999,
+    "gn:latitude":15.90365,
+    "gn:longitude":43.87598,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u2018Askar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018Askar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343999
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb07897ca93ce49d536c4c5f938c9817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":1343523355,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343523355,
+    "wof:lastmodified":1537715525,
+    "wof:name":"Bayt `Askar",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87598,
+    15.90365,
+    43.87598,
+    15.90365
+],
+  "geometry": {"coordinates":[43.87598,15.90365],"type":"Point"}
+}

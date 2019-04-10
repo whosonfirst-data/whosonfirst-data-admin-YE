@@ -1,0 +1,77 @@
+{
+  "id": 1276516013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36053,16.34499,43.36053,16.34499",
+    "geom:latitude":16.34499,
+    "geom:longitude":43.36053,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Mitrash",
+    "gn:country_code":"YE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783379,
+    "gn:latitude":16.34499,
+    "gn:longitude":43.36053,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mi\u0163r\u0101sh",
+    "gn:population":2,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u0163r\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0637\u0631\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783379
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"487eb845da1d4469cf610ae8a99addfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1276516013,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276516013,
+    "wof:lastmodified":1537715995,
+    "wof:name":"Al Mitrash",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36053,
+    16.34499,
+    43.36053,
+    16.34499
+],
+  "geometry": {"coordinates":[43.36053,16.34499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242830315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16631,13.98891,44.16631,13.98891",
+    "geom:latitude":13.98891,
+    "geom:longitude":44.16631,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Al `Aridah al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356472,
+    "gn:latitude":13.98891,
+    "gn:longitude":44.16631,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018\u0100ri\u1e11ah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018\u0100ri\u1e11ah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356472
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98a6891ad41176918d758cb29ab2c3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924353,
+            "locality_id":1242830315,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242830315,
+    "wof:lastmodified":1537715677,
+    "wof:name":"Al `Aridah al `Ulya",
+    "wof:parent_id":1091924353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16631,
+    13.98891,
+    44.16631,
+    13.98891
+],
+  "geometry": {"coordinates":[44.16631,13.98891],"type":"Point"}
+}

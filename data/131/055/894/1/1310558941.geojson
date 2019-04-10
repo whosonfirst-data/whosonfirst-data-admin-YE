@@ -1,0 +1,74 @@
+{
+  "id": 1310558941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1725,13.16628,44.1725,13.16628",
+    "geom:latitude":13.16628,
+    "geom:longitude":44.1725,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Munayki'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871757,
+    "gn:latitude":13.16628,
+    "gn:longitude":44.1725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Munayk\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u064a\u0643\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Munayk\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871757
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98233d6e88106c9597809ab053ddf51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1310558941,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310558941,
+    "wof:lastmodified":1537716261,
+    "wof:name":"Al Munayki'ah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1725,
+    13.16628,
+    44.1725,
+    13.16628
+],
+  "geometry": {"coordinates":[44.1725,13.16628],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243516279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97809,15.66528,43.97809,15.66528",
+    "geom:latitude":15.66528,
+    "geom:longitude":43.97809,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2918.0",
+    "gn:asciiname":"Al Warik",
+    "gn:country_code":"YE",
+    "gn:dem":2272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403304,
+    "gn:latitude":15.66528,
+    "gn:longitude":43.97809,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Warik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403304
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b10c60439149ef13e495b9cb752507a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":1243516279,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243516279,
+    "wof:lastmodified":1536705214,
+    "wof:name":"Al Warik",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97809,
+    15.66528,
+    43.97809,
+    15.66528
+],
+  "geometry": {"coordinates":[43.97809,15.66528],"type":"Point"}
+}

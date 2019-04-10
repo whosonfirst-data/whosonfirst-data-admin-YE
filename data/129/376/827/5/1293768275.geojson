@@ -1,0 +1,74 @@
+{
+  "id": 1293768275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39476,14.90469,43.39476,14.90469",
+    "geom:latitude":14.90469,
+    "geom:longitude":43.39476,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Mirzah",
+    "gn:country_code":"YE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058193,
+    "gn:latitude":14.90469,
+    "gn:longitude":43.39476,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mirz\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0632\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mirz\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058193
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1974446c7de5f98254ca52e0343256fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1293768275,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293768275,
+    "wof:lastmodified":1537716329,
+    "wof:name":"Mirzah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39476,
+    14.90469,
+    43.39476,
+    14.90469
+],
+  "geometry": {"coordinates":[43.39476,14.90469],"type":"Point"}
+}

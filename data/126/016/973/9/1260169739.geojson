@@ -1,0 +1,71 @@
+{
+  "id": 1260169739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53429,15.51021,43.53429,15.51021",
+    "geom:latitude":15.51021,
+    "geom:longitude":43.53429,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Mahall Arhab",
+    "gn:country_code":"YE",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344466,
+    "gn:latitude":15.51021,
+    "gn:longitude":43.53429,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Ar\u1e29ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Ar\u1e29ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344466
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3c203cc34b4f8053ff5f0b4978fbfb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1260169739,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1260169739,
+    "wof:lastmodified":1537715541,
+    "wof:name":"Mahall Arhab",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53429000000001,
+    15.51021,
+    43.53429000000001,
+    15.51021
+],
+  "geometry": {"coordinates":[43.53429000000001,15.51021],"type":"Point"}
+}

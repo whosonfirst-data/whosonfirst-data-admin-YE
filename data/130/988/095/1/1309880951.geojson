@@ -1,0 +1,74 @@
+{
+  "id": 1309880951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95567,16.01369,43.95567,16.01369",
+    "geom:latitude":16.01369,
+    "geom:longitude":43.95567,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Midwar",
+    "gn:country_code":"YE",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635243,
+    "gn:latitude":16.01369,
+    "gn:longitude":43.95567,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Midw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Midw\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062f\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635243
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4d4e51f1dcfcffe57f7c6c77253b42a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1309880951,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309880951,
+    "wof:lastmodified":1537716099,
+    "wof:name":"Al Midwar",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95567,
+    16.01369,
+    43.95567,
+    16.01369
+],
+  "geometry": {"coordinates":[43.95567,16.01369],"type":"Point"}
+}

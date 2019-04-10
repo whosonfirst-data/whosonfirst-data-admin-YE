@@ -1,0 +1,74 @@
+{
+  "id": 1293346825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47051,16.29883,44.47051,16.29883",
+    "geom:latitude":16.29883,
+    "geom:longitude":44.47051,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Maqashib",
+    "gn:country_code":"YE",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974930,
+    "gn:latitude":16.29883,
+    "gn:longitude":44.47051,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maq\u0101shib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0634\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101shib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974930
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb6cbca65c908b4cbabcfffc048a76a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1293346825,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293346825,
+    "wof:lastmodified":1537716116,
+    "wof:name":"Al Maqashib",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47051,
+    16.29883,
+    44.47051,
+    16.29883
+],
+  "geometry": {"coordinates":[44.47051,16.29883],"type":"Point"}
+}

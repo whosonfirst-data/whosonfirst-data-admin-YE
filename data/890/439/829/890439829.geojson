@@ -1,0 +1,73 @@
+{
+  "id": 890439829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57131,14.01387,45.57131,14.01387",
+    "geom:latitude":14.01387,
+    "geom:longitude":45.57131,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062d\u0646\u064a\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hunaysh"
+    ],
+    "qs:name":"\u0100l \u1e28unaysh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066757,
+        "gp:id":1952504,
+        "qs:id":752816,
+        "wd:id":"Q20301956"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052251,
+    "wof:geomhash":"cba3378ba45e43a2015e26b428e25ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":890439829,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890439829,
+    "wof:lastmodified":1514503393,
+    "wof:name":"\u0100l \u1e28unaysh",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57131,
+    14.01387,
+    45.57131,
+    14.01387
+],
+  "geometry": {"coordinates":[45.57131,14.01387],"type":"Point"}
+}

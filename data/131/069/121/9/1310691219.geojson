@@ -1,0 +1,72 @@
+{
+  "id": 1310691219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21809,14.83311,43.21809,14.83311",
+    "geom:latitude":14.83311,
+    "geom:longitude":43.21809,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Mehaat",
+    "gn:country_code":"YE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72724,
+    "gn:latitude":14.83311,
+    "gn:longitude":43.21809,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Mehaat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahad",
+        "Mehaat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72724
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f39e4f493a33ddcb6c51438682cd888a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1310691219,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310691219,
+    "wof:lastmodified":1537715119,
+    "wof:name":"Mehaat",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21809,
+    14.83311,
+    43.21809,
+    14.83311
+],
+  "geometry": {"coordinates":[43.21809,14.83311],"type":"Point"}
+}

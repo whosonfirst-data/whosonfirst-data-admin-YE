@@ -1,0 +1,73 @@
+{
+  "id": 890424529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33503,16.20286,43.33503,16.20286",
+    "geom:latitude":16.20286,
+    "geom:longitude":43.33503,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0646\u0627\u064a\u0640\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Nayif"
+    ],
+    "qs:name":"Ban\u012b N\u0101yif",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631784,
+        "gp:id":1953570,
+        "qs:id":694623,
+        "wd:id":"Q20299161"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051548,
+    "wof:geomhash":"89cbf280fb0b08a51174ca782d927fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890424529,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424529,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b N\u0101yif",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33503,
+    16.20286,
+    43.33503,
+    16.20286
+],
+  "geometry": {"coordinates":[43.33503,16.20286],"type":"Point"}
+}

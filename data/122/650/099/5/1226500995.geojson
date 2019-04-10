@@ -1,0 +1,71 @@
+{
+  "id": 1226500995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84007,16.7119,44.84007,16.7119",
+    "geom:latitude":16.7119,
+    "geom:longitude":44.84007,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Dahl Salim",
+    "gn:country_code":"YE",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344986,
+    "gn:latitude":16.7119,
+    "gn:longitude":44.84007,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Da\u1e29l S\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u1e29l S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344986
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9458e0cd2fa863b36710a0f192cda785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1226500995,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226500995,
+    "wof:lastmodified":1537715551,
+    "wof:name":"Dahl Salim",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84007,
+    16.7119,
+    44.84007,
+    16.7119
+],
+  "geometry": {"coordinates":[44.84007,16.7119],"type":"Point"}
+}

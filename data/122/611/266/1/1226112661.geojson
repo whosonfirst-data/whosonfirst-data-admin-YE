@@ -1,0 +1,75 @@
+{
+  "id": 1226112661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1802,15.11948,45.1802,15.11948",
+    "geom:latitude":15.11948,
+    "geom:longitude":45.1802,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Al Maqabil al `Atfah",
+    "gn:country_code":"YE",
+    "gn:dem":2209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341308,
+    "gn:latitude":15.11948,
+    "gn:longitude":45.1802,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Al Maq\u0101b\u012bl al \u2018A\u0163fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0628\u064a\u0644 \u0627\u0644\u0639\u0637\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101b\u012bl al Kath\u012br\u012byah",
+        "Al Maq\u0101b\u012bl al \u2018A\u0163fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341308
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dbf221677ffc6f8e2ce6d9f1d7df5232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1226112661,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226112661,
+    "wof:lastmodified":1537715478,
+    "wof:name":"Al Maqabil al `Atfah",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1802,
+    15.11948,
+    45.1802,
+    15.11948
+],
+  "geometry": {"coordinates":[45.1802,15.11948],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243457843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75042,13.89555,45.75042,13.89555",
+    "geom:latitude":13.89555,
+    "geom:longitude":45.75042,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Al `Alam",
+    "gn:country_code":"YE",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80000,
+    "gn:latitude":13.89555,
+    "gn:longitude":45.75042,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Alam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn al \u2018\u0100lim",
+        "\u1e28i\u015fn \u2019m-\u0100lim",
+        "Al \u2018Alam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80000,
+        "wk:page":"Al_%60Alam"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ec37f15c546b14f65baf7ad01e2e00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1243457843,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1243457843,
+    "wof:lastmodified":1537715325,
+    "wof:name":"Al `Alam",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75042,
+    13.89555,
+    45.75042,
+    13.89555
+],
+  "geometry": {"coordinates":[45.75042,13.89555],"type":"Point"}
+}

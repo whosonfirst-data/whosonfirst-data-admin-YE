@@ -1,0 +1,75 @@
+{
+  "id": 1343634645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74816,15.40692,44.74816,15.40692",
+    "geom:latitude":15.40692,
+    "geom:longitude":44.74816,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Najd al Musallah",
+    "gn:country_code":"YE",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331895,
+    "gn:latitude":15.40692,
+    "gn:longitude":44.74816,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Najd al Mu\u015fallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u062f \u0627\u0644\u0645\u0635\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Najd al Mu\u015fallah",
+        "Najd al Ma\u015flah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"536eb238b256f07e7e0d7ee6f88b2a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1343634645,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343634645,
+    "wof:lastmodified":1537716202,
+    "wof:name":"Najd al Musallah",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74816,
+    15.40692,
+    44.74816,
+    15.40692
+],
+  "geometry": {"coordinates":[44.74816,15.40692],"type":"Point"}
+}

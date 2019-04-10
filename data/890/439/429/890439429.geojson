@@ -1,0 +1,69 @@
+{
+  "id": 890439429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2075,17.11388,43.2075,17.11388",
+    "geom:latitude":17.11388,
+    "geom:longitude":43.2075,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u062e\u064a\u0633"
+    ],
+    "qs:name":"Ad Dukhays",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022120,
+        "gp:id":1938135,
+        "qs:id":750281
+    },
+    "wof:country":"YE",
+    "wof:created":1469052235,
+    "wof:geomhash":"bef463516697fca9130caf9ee8dc2b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890439429,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890439429,
+    "wof:lastmodified":1505343571,
+    "wof:name":"Ad Dukhays",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2075,
+    17.11388,
+    43.2075,
+    17.11388
+],
+  "geometry": {"coordinates":[43.2075,17.11388],"type":"Point"}
+}

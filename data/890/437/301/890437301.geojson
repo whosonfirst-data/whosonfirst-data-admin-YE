@@ -1,0 +1,73 @@
+{
+  "id": 890437301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36214,16.359,43.36214,16.359",
+    "geom:latitude":16.359,
+    "geom:longitude":43.36214,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0632\u0645 \u0627\u0644\u0646\u0647\u0645\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Razm An Nahmi"
+    ],
+    "qs:name":"Razm an Nahm\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783405,
+        "gp:id":1958967,
+        "qs:id":700057,
+        "wd:id":"Q20306662"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052146,
+    "wof:geomhash":"c7e857c6b271b917ede39d1b9e82bc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890437301,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890437301,
+    "wof:lastmodified":1514503343,
+    "wof:name":"Razm an Nahm\u012b",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36214,
+    16.359,
+    43.36214,
+    16.359
+],
+  "geometry": {"coordinates":[43.36214,16.359],"type":"Point"}
+}

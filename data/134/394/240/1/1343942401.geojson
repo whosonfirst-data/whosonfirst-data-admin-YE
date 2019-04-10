@@ -1,0 +1,72 @@
+{
+  "id": 1343942401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.11655,15.8151,43.11655,15.8151",
+    "geom:latitude":15.8151,
+    "geom:longitude":43.11655,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Qaryat al Kharabah",
+    "gn:country_code":"YE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449179,
+    "gn:latitude":15.8151,
+    "gn:longitude":43.11655,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryat al Khar\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Khar\u0101bah",
+        "Al Khar\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449179
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c4ef85f27c8c4c2deceba525fc868a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1343942401,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343942401,
+    "wof:lastmodified":1537715432,
+    "wof:name":"Qaryat al Kharabah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.11655,
+    15.8151,
+    43.11655,
+    15.8151
+],
+  "geometry": {"coordinates":[43.11655,15.8151],"type":"Point"}
+}

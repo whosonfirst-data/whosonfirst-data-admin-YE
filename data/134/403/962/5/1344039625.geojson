@@ -1,0 +1,72 @@
+{
+  "id": 1344039625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20353,15.25087,44.20353,15.25087",
+    "geom:latitude":15.25087,
+    "geom:longitude":44.20353,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Artil",
+    "gn:country_code":"YE",
+    "gn:dem":2377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78051,
+    "gn:latitude":15.25087,
+    "gn:longitude":44.20353,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Artil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78051,
+        "wk:page":"Artil"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52c327e59f3913e605a25aefe1e06e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1344039625,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344039625,
+    "wof:lastmodified":1537715245,
+    "wof:name":"Artil",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20353,
+    15.25087,
+    44.20353,
+    15.25087
+],
+  "geometry": {"coordinates":[44.20353,15.25087],"type":"Point"}
+}

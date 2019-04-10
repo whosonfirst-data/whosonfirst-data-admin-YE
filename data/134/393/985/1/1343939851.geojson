@@ -1,0 +1,77 @@
+{
+  "id": 1343939851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19568,15.61981,44.19568,15.61981",
+    "geom:latitude":15.61981,
+    "geom:longitude":44.19568,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Asmat",
+    "gn:country_code":"YE",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362412,
+    "gn:latitude":15.61981,
+    "gn:longitude":44.19568,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u015fm\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al A\u015fm\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0635\u0645\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "A\u015fm\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362412
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee7027fb7bea1a174d0f149bca64ec1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1343939851,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343939851,
+    "wof:lastmodified":1537715843,
+    "wof:name":"Asmat",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19568,
+    15.61981,
+    44.19568,
+    15.61981
+],
+  "geometry": {"coordinates":[44.19568,15.61981],"type":"Point"}
+}

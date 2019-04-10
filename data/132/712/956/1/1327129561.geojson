@@ -1,0 +1,72 @@
+{
+  "id": 1327129561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92691,15.69918,42.92691,15.69918",
+    "geom:latitude":15.69918,
+    "geom:longitude":42.92691,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Mahall Mudayya'",
+    "gn:country_code":"YE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76245,
+    "gn:latitude":15.69918,
+    "gn:longitude":42.92691,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ma\u1e29all Mu\u1e11ayy\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Mu\u1e11ayy\u0101\u2019",
+        "Dayr Mudoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76245
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"709cc30086f7ea505005b4dd13a752c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1327129561,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327129561,
+    "wof:lastmodified":1537715191,
+    "wof:name":"Mahall Mudayya'",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92691,
+    15.69918,
+    42.92691,
+    15.69918
+],
+  "geometry": {"coordinates":[42.92691,15.69918],"type":"Point"}
+}

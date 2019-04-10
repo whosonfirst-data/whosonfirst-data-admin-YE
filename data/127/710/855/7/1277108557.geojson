@@ -1,0 +1,74 @@
+{
+  "id": 1277108557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.29254,14.93395,50.29254,14.93395",
+    "geom:latitude":14.93395,
+    "geom:longitude":50.29254,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Al Qurayn",
+    "gn:country_code":"YE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78571,
+    "gn:latitude":14.93395,
+    "gn:longitude":50.29254,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Al Qurayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qurain",
+        "Al Qurain",
+        "Qurayn",
+        "Al Qurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78571
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"154aabbb8f30c99c16623856840770fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "locality_id":1277108557,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1277108557,
+    "wof:lastmodified":1537715263,
+    "wof:name":"Al Qurayn",
+    "wof:parent_id":1091922781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.29254,
+    14.93395,
+    50.29254,
+    14.93395
+],
+  "geometry": {"coordinates":[50.29254,14.93395],"type":"Point"}
+}

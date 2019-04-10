@@ -1,0 +1,73 @@
+{
+  "id": 1243067165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83333,14.73333,47.83333,14.73333",
+    "geom:latitude":14.73333,
+    "geom:longitude":47.83333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Qaryat al Buhayth",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71930,
+    "gn:latitude":14.73333,
+    "gn:longitude":47.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qaryat al Bu\u1e29ayth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al-Bu\u1e25aith",
+        "Qaryat al Bu\u1e29ayth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71930
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c555babeae799ba6995d09653e1f7173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923319,
+            "locality_id":1243067165,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243067165,
+    "wof:lastmodified":1537715105,
+    "wof:name":"Qaryat al Buhayth",
+    "wof:parent_id":1091923319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83333,
+    14.73333,
+    47.83333,
+    14.73333
+],
+  "geometry": {"coordinates":[47.83333,14.73333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293261941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21719,17.11043,43.21719,17.11043",
+    "geom:latitude":17.11043,
+    "geom:longitude":43.21719,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Lahij al Hiyah",
+    "gn:country_code":"YE",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537734,
+    "gn:latitude":17.11043,
+    "gn:longitude":43.21719,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La\u1e29ij al \u1e28iy\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062d\u062c \u0627\u0644\u062d\u064a\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "La\u1e29ij al \u1e28iy\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537734
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a876c226f7fedea34876499ced8d675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293261941,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293261941,
+    "wof:lastmodified":1537716055,
+    "wof:name":"Lahij al Hiyah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21719,
+    17.11042999999999,
+    43.21719,
+    17.11042999999999
+],
+  "geometry": {"coordinates":[43.21719,17.11042999999999],"type":"Point"}
+}

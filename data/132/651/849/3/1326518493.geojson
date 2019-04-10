@@ -1,0 +1,68 @@
+{
+  "id": 1326518493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77458,15.45655,43.77458,15.45655",
+    "geom:latitude":15.45655,
+    "geom:longitude":43.77458,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Ways",
+    "gn:country_code":"YE",
+    "gn:dem":2451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367001,
+    "gn:latitude":15.45655,
+    "gn:longitude":43.77458,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ways",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0be13bfb25db90b43126a4b53bf3e6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1326518493,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1326518493,
+    "wof:lastmodified":1537003124,
+    "wof:name":"Ways",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77458,
+    15.45655,
+    43.77458,
+    15.45655
+],
+  "geometry": {"coordinates":[43.77458,15.45655],"type":"Point"}
+}

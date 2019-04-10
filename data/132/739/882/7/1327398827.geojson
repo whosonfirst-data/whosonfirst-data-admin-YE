@@ -1,0 +1,75 @@
+{
+  "id": 1327398827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86667,16.03333,43.86667,16.03333",
+    "geom:latitude":16.03333,
+    "geom:longitude":43.86667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Lumi",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73433,
+    "gn:latitude":16.03333,
+    "gn:longitude":43.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u016bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "L\u016bm\u012b"
+    ],
+    "name:und_x_variant":[
+        "L\u00f4m\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73433
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3952ef523275f97ae6406102e37bc3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1327398827,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1327398827,
+    "wof:lastmodified":1537715135,
+    "wof:name":"Lumi",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86667,
+    16.03333,
+    43.86667,
+    16.03333
+],
+  "geometry": {"coordinates":[43.86667,16.03333],"type":"Point"}
+}

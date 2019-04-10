@@ -1,0 +1,74 @@
+{
+  "id": 1293659709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85292,15.69473,44.85292,15.69473",
+    "geom:latitude":15.69473,
+    "geom:longitude":44.85292,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"As Sahlalah",
+    "gn:country_code":"YE",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976134,
+    "gn:latitude":15.69473,
+    "gn:longitude":44.85292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Sa\u1e29l\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062d\u0644\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Sa\u1e29l\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976134
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17b2d658cf27038421ceeaedba536724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1293659709,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293659709,
+    "wof:lastmodified":1537716145,
+    "wof:name":"As Sahlalah",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85292000000001,
+    15.69473,
+    44.85292000000001,
+    15.69473
+],
+  "geometry": {"coordinates":[44.85292000000001,15.69473],"type":"Point"}
+}

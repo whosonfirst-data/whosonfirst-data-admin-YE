@@ -1,0 +1,73 @@
+{
+  "id": 1209898273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94789,15.18309,43.94789,15.18309",
+    "geom:latitude":15.18309,
+    "geom:longitude":43.94789,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Bayt az Zuwwar",
+    "gn:country_code":"YE",
+    "gn:dem":2558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402721,
+    "gn:latitude":15.18309,
+    "gn:longitude":43.94789,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt az Zuww\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt az Zuww\u0101r",
+        "Bayt az Z\u016bw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402721,
+        "wk:page":"Bayt_Az_Zuwar"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1fb541153b3080cfcd769af8610167b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1209898273,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209898273,
+    "wof:lastmodified":1537715361,
+    "wof:name":"Bayt az Zuwwar",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94789,
+    15.18309,
+    43.94789,
+    15.18309
+],
+  "geometry": {"coordinates":[43.94789,15.18309],"type":"Point"}
+}

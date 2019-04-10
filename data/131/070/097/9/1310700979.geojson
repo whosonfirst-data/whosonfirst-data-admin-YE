@@ -1,0 +1,73 @@
+{
+  "id": 1310700979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,15.55,48.05,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Madhhaf",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73374,
+    "gn:latitude":15.55,
+    "gn:longitude":48.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Madhhaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madhhat",
+        "Madhhaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73374
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82d746c69bb14094f3375f1e6d847fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923043,
+            "locality_id":1310700979,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310700979,
+    "wof:lastmodified":1537715133,
+    "wof:name":"Madhhaf",
+    "wof:parent_id":1091923043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    15.55,
+    48.05,
+    15.55
+],
+  "geometry": {"coordinates":[48.05,15.55],"type":"Point"}
+}

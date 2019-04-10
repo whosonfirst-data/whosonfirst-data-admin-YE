@@ -1,0 +1,73 @@
+{
+  "id": 890455091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.77367,14.13881,45.77367,14.13881",
+    "geom:latitude":14.13881,
+    "geom:longitude":45.77367,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u0627\u0644 \u0646\u0627\u0635\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Hayd Al Nasir"
+    ],
+    "qs:name":"\u1e28ayd \u0100l N\u0101\u015fir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066767,
+        "gp:id":1959103,
+        "qs:id":752823,
+        "wd:id":"Q20305521"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052933,
+    "wof:geomhash":"3332951b0a4d89bc77866f823bdd4cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":890455091,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890455091,
+    "wof:lastmodified":1514503400,
+    "wof:name":"\u1e28ayd \u0100l N\u0101\u015fir",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.77367,
+    14.13881,
+    45.77367,
+    14.13881
+],
+  "geometry": {"coordinates":[45.77367,14.13881],"type":"Point"}
+}

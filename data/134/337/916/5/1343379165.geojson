@@ -1,0 +1,71 @@
+{
+  "id": 1343379165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51515,15.54538,43.51515,15.54538",
+    "geom:latitude":15.54538,
+    "geom:longitude":43.51515,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Hawasilah",
+    "gn:country_code":"YE",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344139,
+    "gn:latitude":15.54538,
+    "gn:longitude":43.51515,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28aw\u0101\u015filah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28aw\u0101\u015filah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344139
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37bf597293b1f474d6be5af079163560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1343379165,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343379165,
+    "wof:lastmodified":1537715529,
+    "wof:name":"Al Hawasilah",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51515,
+    15.54538,
+    43.51515,
+    15.54538
+],
+  "geometry": {"coordinates":[43.51515,15.54538],"type":"Point"}
+}

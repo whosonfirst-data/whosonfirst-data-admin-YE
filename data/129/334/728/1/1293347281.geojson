@@ -1,0 +1,74 @@
+{
+  "id": 1293347281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17352,13.23584,44.17352,13.23584",
+    "geom:latitude":13.23584,
+    "geom:longitude":44.17352,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al 'Azlaf",
+    "gn:country_code":"YE",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871449,
+    "gn:latitude":13.23584,
+    "gn:longitude":44.17352,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Az\u0327laf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0638\u0644\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Az\u0327laf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871449
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3dc8f3b796fc5f971475259156b1bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1293347281,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293347281,
+    "wof:lastmodified":1537716245,
+    "wof:name":"Al 'Azlaf",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17352,
+    13.23584,
+    44.17352,
+    13.23584
+],
+  "geometry": {"coordinates":[44.17352,13.23584],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890419825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55789,14.04074,45.55789,14.04074",
+    "geom:latitude":14.04074,
+    "geom:longitude":45.55789,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jabar"
+    ],
+    "qs:name":"Al Jabar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066751,
+        "gp:id":1952504,
+        "qs:id":752810,
+        "wd:id":"Q20302391",
+        "wk:page":"Al Jabar"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051303,
+    "wof:geomhash":"0e4a1151a9169ff511ff39deb89bba05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":890419825,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419825,
+    "wof:lastmodified":1527782105,
+    "wof:name":"Al Jabar",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55789,
+    14.04074,
+    45.55789,
+    14.04074
+],
+  "geometry": {"coordinates":[45.55789,14.04074],"type":"Point"}
+}

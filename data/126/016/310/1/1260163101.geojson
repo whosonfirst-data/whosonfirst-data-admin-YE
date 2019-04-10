@@ -1,0 +1,74 @@
+{
+  "id": 1260163101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14902,15.31279,44.14902,15.31279",
+    "geom:latitude":15.31279,
+    "geom:longitude":44.14902,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Qurman",
+    "gn:country_code":"YE",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342337,
+    "gn:latitude":15.31279,
+    "gn:longitude":44.14902,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qurm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qurm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342337
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4525a4c8089c04f7a4a6b5a9abe9cc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1260163101,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1260163101,
+    "wof:lastmodified":1537715498,
+    "wof:name":"Qurman",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14902,
+    15.31279,
+    44.14902,
+    15.31279
+],
+  "geometry": {"coordinates":[44.14902,15.31279],"type":"Point"}
+}

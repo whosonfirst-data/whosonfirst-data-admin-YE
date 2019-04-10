@@ -1,0 +1,74 @@
+{
+  "id": 1327090647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66667,15.9,43.66667,15.9",
+    "geom:latitude":15.9,
+    "geom:longitude":43.66667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1717.0",
+    "gn:asciiname":"Qimmah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71851,
+    "gn:latitude":15.9,
+    "gn:longitude":43.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qimmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimma",
+        "Knme",
+        "Qimmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71851
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8fc2293a89c1f4e1b7f4ee57805d851e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923647,
+            "locality_id":1327090647,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1327090647,
+    "wof:lastmodified":1537715103,
+    "wof:name":"Qimmah",
+    "wof:parent_id":1091923647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66667,
+    15.9,
+    43.66667,
+    15.9
+],
+  "geometry": {"coordinates":[43.66667,15.9],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343864173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33,15.31389,48.33,15.31389",
+    "geom:latitude":15.31389,
+    "geom:longitude":48.33,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Sif",
+    "gn:country_code":"YE",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":70551,
+    "gn:latitude":15.31389,
+    "gn:longitude":48.33,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015e\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015e\u012bf"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u064a\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70551
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"656681f813e4960fa219e9105c2bc529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1343864173,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343864173,
+    "wof:lastmodified":1537715080,
+    "wof:name":"Sif",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33,
+    15.31389,
+    48.33,
+    15.31389
+],
+  "geometry": {"coordinates":[48.33,15.31389],"type":"Point"}
+}

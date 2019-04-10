@@ -1,0 +1,62 @@
+{
+  "id": 1209061195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92746,13.33553,43.92746,13.33553",
+    "geom:latitude":13.33553,
+    "geom:longitude":43.92746,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Buraydah",
+    "gn:country_code":"YE",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354310,
+    "gn:latitude":13.33553,
+    "gn:longitude":43.92746,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Buraydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354310
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d5efe21b1f4852898eec22e25722d802",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209061195
+        }
+    ],
+    "wof:id":1209061195,
+    "wof:lastmodified":1536298949,
+    "wof:name":"Buraydah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92746,
+    13.33553,
+    43.92746,
+    13.33553
+],
+  "geometry": {"coordinates":[43.92746,13.33553],"type":"Point"}
+}

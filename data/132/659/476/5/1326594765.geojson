@@ -1,0 +1,71 @@
+{
+  "id": 1326594765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77195,15.616,43.77195,15.616",
+    "geom:latitude":15.616,
+    "geom:longitude":43.77195,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2917.0",
+    "gn:asciiname":"Bani al Fulayhi",
+    "gn:country_code":"YE",
+    "gn:dem":3196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300157,
+    "gn:latitude":15.616,
+    "gn:longitude":43.77195,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b al Fulay\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b al Fulay\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300157
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc6761ef284839ade7a92a4f172bb237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":1326594765,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1326594765,
+    "wof:lastmodified":1537716030,
+    "wof:name":"Bani al Fulayhi",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77195,
+    15.616,
+    43.77195,
+    15.616
+],
+  "geometry": {"coordinates":[43.77195,15.616],"type":"Point"}
+}

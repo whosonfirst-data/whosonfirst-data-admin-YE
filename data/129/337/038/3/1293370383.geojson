@@ -1,0 +1,68 @@
+{
+  "id": 1293370383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10787,14.82668,44.10787,14.82668",
+    "geom:latitude":14.82668,
+    "geom:longitude":44.10787,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Al Buraykah",
+    "gn:country_code":"YE",
+    "gn:dem":2348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360934,
+    "gn:latitude":14.82668,
+    "gn:longitude":44.10787,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Buraykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360934
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5b8fda96633ab761b7b51437c2e8864d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1293370383,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293370383,
+    "wof:lastmodified":1536955956,
+    "wof:name":"Al Buraykah",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10787,
+    14.82668,
+    44.10787,
+    14.82668
+],
+  "geometry": {"coordinates":[44.10787,14.82668],"type":"Point"}
+}

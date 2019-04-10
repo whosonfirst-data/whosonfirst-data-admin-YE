@@ -1,0 +1,76 @@
+{
+  "id": 890425149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43409,16.38416,43.43409,16.38416",
+    "geom:latitude":16.38416,
+    "geom:longitude":43.43409,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Qif\u2018\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0641\u0639\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qif'a"
+    ],
+    "qs:name":"Al Qif\u2018\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755498,
+        "gp:id":1959128,
+        "qs:id":698719,
+        "wd:id":"Q20305023"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051576,
+    "wof:geomhash":"fbe68a68a7f885409f80c0d22b424102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890425149,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425149,
+    "wof:lastmodified":1514503199,
+    "wof:name":"Al Qif\u2018\u0101\u2019",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43409,
+    16.38416,
+    43.43409,
+    16.38416
+],
+  "geometry": {"coordinates":[43.43409,16.38416],"type":"Point"}
+}

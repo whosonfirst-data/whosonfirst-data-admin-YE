@@ -1,0 +1,74 @@
+{
+  "id": 1226301315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29427,16.5369,44.29427,16.5369",
+    "geom:latitude":16.5369,
+    "geom:longitude":44.29427,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"As Safra'",
+    "gn:country_code":"YE",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362966,
+    "gn:latitude":16.5369,
+    "gn:longitude":44.29427,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eafr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eafr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362966
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"15f9f2a6b51819da642b789cea2f971c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1226301315,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226301315,
+    "wof:lastmodified":1537715860,
+    "wof:name":"As Safra'",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29427,
+    16.5369,
+    44.29427,
+    16.5369
+],
+  "geometry": {"coordinates":[44.29427,16.5369],"type":"Point"}
+}

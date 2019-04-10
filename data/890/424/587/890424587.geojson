@@ -1,0 +1,76 @@
+{
+  "id": 890424587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33538,16.23216,43.33538,16.23216",
+    "geom:latitude":16.23216,
+    "geom:longitude":43.33538,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Mi\u1e29d\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u062f\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Mihdab"
+    ],
+    "qs:name":"Mi\u1e29d\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631879,
+        "gp:id":1953570,
+        "qs:id":694718,
+        "wd:id":"Q20301723"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051550,
+    "wof:geomhash":"8791ec3e8c76726d5d761e29d6aef953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890424587,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424587,
+    "wof:lastmodified":1514503328,
+    "wof:name":"Mi\u1e29d\u0101b",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33538,
+    16.23216,
+    43.33538,
+    16.23216
+],
+  "geometry": {"coordinates":[43.33538,16.23216],"type":"Point"}
+}

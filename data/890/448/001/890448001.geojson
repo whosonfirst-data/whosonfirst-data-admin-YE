@@ -1,0 +1,73 @@
+{
+  "id": 890448001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37386,16.33654,43.37386,16.33654",
+    "geom:latitude":16.33654,
+    "geom:longitude":43.37386,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u062d\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b Al Hanah"
+    ],
+    "qs:name":"Sha\u2018b al \u1e28anah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783357,
+        "gp:id":1958967,
+        "qs:id":700009,
+        "wd:id":"Q20307443"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052616,
+    "wof:geomhash":"bc2f1ab3b6f7cfa37fcc8e6f119489bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890448001,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890448001,
+    "wof:lastmodified":1514503365,
+    "wof:name":"Sha\u2018b al \u1e28anah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37386,
+    16.33654,
+    43.37386,
+    16.33654
+],
+  "geometry": {"coordinates":[43.37386,16.33654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226805473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32045,16.36038,43.32045,16.36038",
+    "geom:latitude":16.36038,
+    "geom:longitude":43.32045,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Ghawiyah",
+    "gn:country_code":"YE",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366663,
+    "gn:latitude":16.36038,
+    "gn:longitude":43.32045,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Al Gh\u0101wiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0627\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Gh\u0101wiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366663
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8fc520d8351d28a53cac568be234f1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1226805473,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226805473,
+    "wof:lastmodified":1537715959,
+    "wof:name":"Al Ghawiyah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32045,
+    16.36038,
+    43.32045,
+    16.36038
+],
+  "geometry": {"coordinates":[43.32045,16.36038],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344015053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8938,13.23626,43.8938,13.23626",
+    "geom:latitude":13.23626,
+    "geom:longitude":43.8938,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al `Ajram",
+    "gn:country_code":"YE",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406090,
+    "gn:latitude":13.23626,
+    "gn:longitude":43.8938,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ajram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ajram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406090
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e993131e4b3c3d3680e197af4430ff92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1344015053,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1344015053,
+    "wof:lastmodified":1537715381,
+    "wof:name":"Al `Ajram",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8938,
+    13.23626,
+    43.8938,
+    13.23626
+],
+  "geometry": {"coordinates":[43.8938,13.23626],"type":"Point"}
+}

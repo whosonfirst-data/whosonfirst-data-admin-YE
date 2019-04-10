@@ -1,0 +1,71 @@
+{
+  "id": 1343317421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44115,13.15273,44.44115,13.15273",
+    "geom:latitude":13.15273,
+    "geom:longitude":44.44115,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Dar Ibrahim",
+    "gn:country_code":"YE",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76442,
+    "gn:latitude":13.15273,
+    "gn:longitude":44.44115,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76442
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5079b934989e9bbe253eb958aafa3416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1343317421,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343317421,
+    "wof:lastmodified":1537715199,
+    "wof:name":"Dar Ibrahim",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44115,
+    13.15273,
+    44.44115,
+    13.15273
+],
+  "geometry": {"coordinates":[44.44115,13.15273],"type":"Point"}
+}

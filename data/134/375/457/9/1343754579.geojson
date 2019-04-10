@@ -1,0 +1,73 @@
+{
+  "id": 1343754579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,14.65,47.11667,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Ahl Ba al Jahl",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80209,
+    "gn:latitude":14.65,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ahl B\u0101 al Jahl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hal B\u0101-l-Jahl",
+        "Ahl B\u0101 al Jahl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80209
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dafeb1c74e92d48f6fde9fdde25820da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1343754579,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343754579,
+    "wof:lastmodified":1537715329,
+    "wof:name":"Ahl Ba al Jahl",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    14.65,
+    47.11667,
+    14.65
+],
+  "geometry": {"coordinates":[47.11667,14.65],"type":"Point"}
+}

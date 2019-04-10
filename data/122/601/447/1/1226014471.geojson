@@ -1,0 +1,71 @@
+{
+  "id": 1226014471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47599,17.20296,43.47599,17.20296",
+    "geom:latitude":17.20296,
+    "geom:longitude":43.47599,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Shatt al Balasah",
+    "gn:country_code":"YE",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345768,
+    "gn:latitude":17.20296,
+    "gn:longitude":43.47599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sha\u0163\u0163 al Balasah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha\u0163\u0163 al Balasah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345768
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23eb3e1f7900948c225cc4b8df3ce921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1226014471,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226014471,
+    "wof:lastmodified":1537715567,
+    "wof:name":"Shatt al Balasah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47599,
+    17.20296,
+    43.47599,
+    17.20296
+],
+  "geometry": {"coordinates":[43.47599,17.20296],"type":"Point"}
+}

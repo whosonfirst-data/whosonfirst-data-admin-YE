@@ -1,0 +1,74 @@
+{
+  "id": 1242748469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16952,15.02729,45.16952,15.02729",
+    "geom:latitude":15.02729,
+    "geom:longitude":45.16952,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"At Talib",
+    "gn:country_code":"YE",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341169,
+    "gn:latitude":15.02729,
+    "gn:longitude":45.16952,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"At T\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "At T\u0101lib"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0627\u0644\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341169
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3dbf7fbba2d2351a2a9f40f90f458627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1242748469,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1242748469,
+    "wof:lastmodified":1537715474,
+    "wof:name":"At Talib",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16952,
+    15.02729,
+    45.16952,
+    15.02729
+],
+  "geometry": {"coordinates":[45.16952,15.02729],"type":"Point"}
+}

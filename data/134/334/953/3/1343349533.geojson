@@ -1,0 +1,71 @@
+{
+  "id": 1343349533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52629,14.30498,44.52629,14.30498",
+    "geom:latitude":14.30498,
+    "geom:longitude":44.52629,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"At Talabi",
+    "gn:country_code":"YE",
+    "gn:dem":2414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408833,
+    "gn:latitude":14.30498,
+    "gn:longitude":44.52629,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At T\u0101lab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At T\u0101lab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408833
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3cabca854267c004eb1f95fa32f82866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1343349533,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343349533,
+    "wof:lastmodified":1537715421,
+    "wof:name":"At Talabi",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52629,
+    14.30498,
+    44.52629,
+    14.30498
+],
+  "geometry": {"coordinates":[44.52629,14.30498],"type":"Point"}
+}

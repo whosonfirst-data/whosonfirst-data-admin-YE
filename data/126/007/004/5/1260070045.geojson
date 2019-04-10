@@ -1,0 +1,71 @@
+{
+  "id": 1260070045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07309,15.1261,43.07309,15.1261",
+    "geom:latitude":15.1261,
+    "geom:longitude":43.07309,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"As Salimiyah",
+    "gn:country_code":"YE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365358,
+    "gn:latitude":15.1261,
+    "gn:longitude":43.07309,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"As S\u0101lim\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As S\u0101lim\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365358
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98b7d44e4e4be20cbae3f708cb4ad2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1260070045,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1260070045,
+    "wof:lastmodified":1537715927,
+    "wof:name":"As Salimiyah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07309,
+    15.1261,
+    43.07309,
+    15.1261
+],
+  "geometry": {"coordinates":[43.07309,15.1261],"type":"Point"}
+}

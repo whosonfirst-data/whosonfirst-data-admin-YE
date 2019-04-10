@@ -1,0 +1,77 @@
+{
+  "id": 1259739791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41559,16.76613,44.41559,16.76613",
+    "geom:latitude":16.76613,
+    "geom:longitude":44.41559,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al Qa`",
+    "gn:country_code":"YE",
+    "gn:dem":2048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362822,
+    "gn:latitude":16.76613,
+    "gn:longitude":44.41559,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Q\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Q\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Q\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362822
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a62fa91e33eec4e4f8a6f0cdf3f85651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1259739791,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1259739791,
+    "wof:lastmodified":1537715855,
+    "wof:name":"Al Qa`",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41559,
+    16.76613,
+    44.41559,
+    16.76613
+],
+  "geometry": {"coordinates":[44.41559,16.76613],"type":"Point"}
+}

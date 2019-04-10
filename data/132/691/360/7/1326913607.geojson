@@ -1,0 +1,74 @@
+{
+  "id": 1326913607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41283,14.90679,45.41283,14.90679",
+    "geom:latitude":14.90679,
+    "geom:longitude":45.41283,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"Ilah",
+    "gn:country_code":"YE",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308890,
+    "gn:latitude":14.90679,
+    "gn:longitude":45.41283,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u012alah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u012alah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308890
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"835e87292b5e46f81bf66c5bbc71ae2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1326913607,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1326913607,
+    "wof:lastmodified":1537716040,
+    "wof:name":"Ilah",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41283,
+    14.90679,
+    45.41283,
+    14.90679
+],
+  "geometry": {"coordinates":[45.41283,14.90679],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260257765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00935,16.09114,44.00935,16.09114",
+    "geom:latitude":16.09114,
+    "geom:longitude":44.00935,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt Zayid",
+    "gn:country_code":"YE",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973791,
+    "gn:latitude":16.09114,
+    "gn:longitude":44.00935,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Z\u0101yid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0632\u0627\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt Z\u0101yid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d60f2b7f4c554267858d1fb0a99990d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1260257765,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1260257765,
+    "wof:lastmodified":1537716106,
+    "wof:name":"Bayt Zayid",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00935,
+    16.09114,
+    44.00935,
+    16.09114
+],
+  "geometry": {"coordinates":[44.00935,16.09114],"type":"Point"}
+}

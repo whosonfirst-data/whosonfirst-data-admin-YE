@@ -1,0 +1,107 @@
+{
+  "id": 1091919021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001252,
+    "geom:area_square_m":15023036.187262,
+    "geom:bbox":"45.5265130564,13.9703023448,45.5889684442,13.9965209232",
+    "geom:latitude":13.983553,
+    "geom:longitude":45.560103,
+    "iso:country":"YE",
+    "lbl:latitude":13.983526,
+    "lbl:longitude":45.560103,
+    "meso:admin1_en":"Al Bayda",
+    "meso:admin1_loc":"\u0627\u0644\u0628\u064a\u0636\u0627\u0621",
+    "meso:dissme":"Al BaydaAl Bayda City",
+    "meso:gadm_admin":"Al Bayda City",
+    "meso:gaul_admin":"Al Bayda City",
+    "meso:hasc_id":"YE.BA.BC",
+    "meso:mps_x":45.560103,
+    "meso:mps_y":13.983526,
+    "meso:name_en":"Al Bayda City",
+    "meso:source":"AOTM",
+    "mps:latitude":13.983526,
+    "mps:longitude":45.560103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bayda City"
+    ],
+    "name:eng_x_variant":[
+        "Al Bayda City",
+        "Al Bayda City District"
+    ],
+    "name:nno_x_preferred":[
+        "Al Bayda by-distriktet"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0644 \u0628\u0627\u06cc\u062f\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636\u0627\u0621 \u0634\u06c1\u0631 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Al Bayda City"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.BA",
+    "statoids:name":"Al Bayda City",
+    "statoids:population":"29853",
+    "statoids:statoid":"YE.BA.BC",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.BA.BC",
+        "wd:id":"Q4703572"
+    },
+    "wof:country":"YE",
+    "wof:created":1473892953,
+    "wof:geomhash":"5974fae776ac748e9d7cd32a70b68ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919021,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1091919021,
+    "wof:lastmodified":1536615031,
+    "wof:name":"Al Bayda City",
+    "wof:parent_id":85681001,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":29853,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"BC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.52651305644994,
+    13.97030234482822,
+    45.58896844422544,
+    13.99652092323187
+],
+  "geometry": {"coordinates":[[[45.52692593791804,13.9829444864866],[45.52651305644994,13.98355864858793],[45.5319898825997,13.99047169896825],[45.53710688806154,13.99143736934431],[45.54166964843949,13.99196533704519],[45.5458389504655,13.99226930591533],[45.54885369543949,13.9931199223025],[45.55321361709903,13.99460813369215],[45.55845615514011,13.99570832759412],[45.56273393864252,13.99636541273624],[45.56717254683345,13.99631267296942],[45.57120688139386,13.9955696448371],[45.5753823958401,13.99578856077984],[45.57917013865648,13.99652092323187],[45.58218469721903,13.99628360473524],[45.58575771683015,13.99389596191168],[45.58810691910483,13.99023283962274],[45.58896844422544,13.98616283653119],[45.58894178597414,13.98175637773468],[45.58698921074226,13.97790867622316],[45.58400200077591,13.97482499883449],[45.58067410045474,13.97300016901671],[45.57749637212707,13.97216357654125],[45.57340750796324,13.97237969772863],[45.56686760912298,13.97235890755195],[45.56104527393165,13.97128156103666],[45.55771169965863,13.9706046896565],[45.55490462600544,13.97030234482822],[45.5512596407144,13.97092929443119],[45.54709859051732,13.97192673880525],[45.5429793871919,13.97278510770417],[45.53923172006932,13.97379927582375],[45.53634172666594,13.97466103660923],[45.53394245257778,13.97550668930514],[45.53127315649928,13.9772807226876],[45.52899034525853,13.97987367597996],[45.52775170085423,13.98171616228394],[45.52692593791804,13.9829444864866]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360065631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06511,14.61795,44.06511,14.61795",
+    "geom:latitude":14.61795,
+    "geom:longitude":44.06511,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Al Mahall",
+    "gn:country_code":"YE",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354914,
+    "gn:latitude":14.61795,
+    "gn:longitude":44.06511,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u1e29all",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29all"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354914
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ffe48b7bb48fc9dc7cb8df73661bf4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922231,
+            "locality_id":1360065631,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1360065631,
+    "wof:lastmodified":1537716042,
+    "wof:name":"Al Mahall",
+    "wof:parent_id":1091922231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06511,
+    14.61795,
+    44.06511,
+    14.61795
+],
+  "geometry": {"coordinates":[44.06511,14.61795],"type":"Point"}
+}

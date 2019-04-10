@@ -1,0 +1,71 @@
+{
+  "id": 1309974649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34933,13.7492,44.34933,13.7492",
+    "geom:latitude":13.7492,
+    "geom:longitude":44.34933,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Kubar",
+    "gn:country_code":"YE",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357602,
+    "gn:latitude":13.7492,
+    "gn:longitude":44.34933,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kub\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kub\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357602
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0528c424af10beca0e0764a294a541ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924503,
+            "locality_id":1309974649,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309974649,
+    "wof:lastmodified":1537715704,
+    "wof:name":"Kubar",
+    "wof:parent_id":1091924503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34933,
+    13.7492,
+    44.34933,
+    13.7492
+],
+  "geometry": {"coordinates":[44.34933,13.7492],"type":"Point"}
+}

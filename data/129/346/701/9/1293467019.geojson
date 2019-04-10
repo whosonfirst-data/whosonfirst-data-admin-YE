@@ -1,0 +1,71 @@
+{
+  "id": 1293467019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00482,14.6582,44.00482,14.6582",
+    "geom:latitude":14.6582,
+    "geom:longitude":44.00482,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Shalil",
+    "gn:country_code":"YE",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361504,
+    "gn:latitude":14.6582,
+    "gn:longitude":44.00482,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361504
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc95f2a9e2a1ae5dac25e248d0c98f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":1293467019,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293467019,
+    "wof:lastmodified":1537715821,
+    "wof:name":"Shalil",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00482,
+    14.6582,
+    44.00482,
+    14.6582
+],
+  "geometry": {"coordinates":[44.00482,14.6582],"type":"Point"}
+}

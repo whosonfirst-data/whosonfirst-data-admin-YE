@@ -1,0 +1,65 @@
+{
+  "id": 1209271407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78343,13.45235,43.78343,13.45235",
+    "geom:latitude":13.45235,
+    "geom:longitude":43.78343,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Qatanah",
+    "gn:country_code":"YE",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354383,
+    "gn:latitude":13.45235,
+    "gn:longitude":43.78343,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u0163anah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u0163anah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354383
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b3424f3fc9279fa32f1643a5f42b3a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209271407
+        }
+    ],
+    "wof:id":1209271407,
+    "wof:lastmodified":1537715608,
+    "wof:name":"Qatanah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78343,
+    13.45235,
+    43.78343,
+    13.45235
+],
+  "geometry": {"coordinates":[43.78343,13.45235],"type":"Point"}
+}

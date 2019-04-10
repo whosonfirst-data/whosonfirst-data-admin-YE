@@ -1,0 +1,71 @@
+{
+  "id": 1344131223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.24697,14.30579,45.24697,14.30579",
+    "geom:latitude":14.30579,
+    "geom:longitude":45.24697,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Dhahabah",
+    "gn:country_code":"YE",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367263,
+    "gn:latitude":14.30579,
+    "gn:longitude":45.24697,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dhahabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiz\u0327ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367263
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a379dc4ecbbc9353ea24f3b77af96f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":1344131223,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1344131223,
+    "wof:lastmodified":1537715974,
+    "wof:name":"Dhahabah",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.24697000000001,
+    14.30579,
+    45.24697000000001,
+    14.30579
+],
+  "geometry": {"coordinates":[45.24697000000001,14.30579],"type":"Point"}
+}

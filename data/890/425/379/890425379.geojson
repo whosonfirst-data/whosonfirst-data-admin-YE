@@ -1,0 +1,76 @@
+{
+  "id": 890425379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2333,17.07331,44.2333,17.07331",
+    "geom:latitude":17.07331,
+    "geom:longitude":44.2333,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ar Ri\u1e11\u016bm"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0636\u0648\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Ar RiuUm"
+    ],
+    "qs:name":"Ar Ri\u1e11\u016bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789625,
+        "gp:id":1959086,
+        "qs:id":700338,
+        "wd:id":"Q20301947"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051586,
+    "wof:geomhash":"89d774c0af33b541af6ec1143c6446ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890425379,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425379,
+    "wof:lastmodified":1514503222,
+    "wof:name":"Ar Ri\u1e11\u016bm",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2333,
+    17.07331,
+    44.2333,
+    17.07331
+],
+  "geometry": {"coordinates":[44.2333,17.07331],"type":"Point"}
+}

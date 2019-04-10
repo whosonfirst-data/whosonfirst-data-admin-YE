@@ -1,0 +1,68 @@
+{
+  "id": 1226235111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75944,13.92325,47.75944,13.92325",
+    "geom:latitude":13.92325,
+    "geom:longitude":47.75944,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2117.0",
+    "gn:asciiname":"Al Mijda",
+    "gn:country_code":"YE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78818,
+    "gn:latitude":13.92325,
+    "gn:longitude":47.75944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mijda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78818
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"94050caaa908ec8f9fff79abaa13c0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926205,
+            "locality_id":1226235111,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1226235111,
+    "wof:lastmodified":1536949273,
+    "wof:name":"Al Mijda",
+    "wof:parent_id":1091926205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75944000000001,
+    13.92325,
+    47.75944000000001,
+    13.92325
+],
+  "geometry": {"coordinates":[47.75944000000001,13.92325],"type":"Point"}
+}

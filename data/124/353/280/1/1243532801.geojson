@@ -1,0 +1,71 @@
+{
+  "id": 1243532801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52326,15.49244,43.52326,15.49244",
+    "geom:latitude":15.49244,
+    "geom:longitude":43.52326,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bayt al `Ali",
+    "gn:country_code":"YE",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360616,
+    "gn:latitude":15.49244,
+    "gn:longitude":43.52326,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360616
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aa45bd09a64c5aa8b01ca0a87e2f7efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1243532801,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243532801,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt al `Ali",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52326,
+    15.49244,
+    43.52326,
+    15.49244
+],
+  "geometry": {"coordinates":[43.52326,15.49244],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125863461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19495,16.24826,43.19495,16.24826",
+    "geom:latitude":16.24826,
+    "geom:longitude":43.19495,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5,
+    "gn:population":5,
+    "iso:country":"YE",
+    "lbl:latitude":16.24826,
+    "lbl:longitude":43.19495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0633 \u062c\u062d\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Kurs Jihah"
+    ],
+    "name:unk_x_variant":[
+        "\u0643\u0631\u0633 \u062c\u062d\u0627\u062d"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7631507,
+    "qs_pg:gn_pop":5,
+    "qs_pg:name":"Kurs Ji\u1e29\u0101\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631507,
+        "qs_pg:id":694495,
+        "wd:id":"Q20299558"
+    },
+    "wof:country":"YE",
+    "wof:created":1497293930,
+    "wof:geomhash":"d0d96717651dbf988bfba69d353e15de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1125863461,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125863461,
+    "wof:lastmodified":1514503304,
+    "wof:name":"Kurs Ji\u1e29\u0101\u1e29",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19495,
+    16.24826,
+    43.19495,
+    16.24826
+],
+  "geometry": {"coordinates":[43.19495,16.24826],"type":"Point"}
+}

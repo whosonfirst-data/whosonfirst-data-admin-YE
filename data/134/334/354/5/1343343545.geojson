@@ -1,0 +1,74 @@
+{
+  "id": 1343343545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50273,15.78266,44.50273,15.78266",
+    "geom:latitude":15.78266,
+    "geom:longitude":44.50273,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"At Tawqah",
+    "gn:country_code":"YE",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342752,
+    "gn:latitude":15.78266,
+    "gn:longitude":44.50273,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u0163 \u0162awqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162awqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342752
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f261151601b978a5e83a9ae8d77c5ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1343343545,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343343545,
+    "wof:lastmodified":1537715505,
+    "wof:name":"At Tawqah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50273,
+    15.78266,
+    44.50273,
+    15.78266
+],
+  "geometry": {"coordinates":[44.50273,15.78266],"type":"Point"}
+}

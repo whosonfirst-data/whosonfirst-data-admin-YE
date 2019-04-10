@@ -1,0 +1,71 @@
+{
+  "id": 1226507333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93474,15.74441,43.93474,15.74441",
+    "geom:latitude":15.74441,
+    "geom:longitude":43.93474,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2912.0",
+    "gn:asciiname":"Bayt al Ahraq",
+    "gn:country_code":"YE",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344742,
+    "gn:latitude":15.74441,
+    "gn:longitude":43.93474,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al A\u1e29raq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al A\u1e29raq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c94e9f1a3df362f32c8ce54496528a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921965,
+            "locality_id":1226507333,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226507333,
+    "wof:lastmodified":1537715548,
+    "wof:name":"Bayt al Ahraq",
+    "wof:parent_id":1091921965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93474000000001,
+    15.74441,
+    43.93474000000001,
+    15.74441
+],
+  "geometry": {"coordinates":[43.93474000000001,15.74441],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242736951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.79388,14.10742,45.79388,14.10742",
+    "geom:latitude":14.10742,
+    "geom:longitude":45.79388,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Al Hakamah",
+    "gn:country_code":"YE",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364714,
+    "gn:latitude":14.10742,
+    "gn:longitude":45.79388,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Al \u1e28akamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0643\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28akamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364714
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"85e3072cc2a34f72b3ac655506fa0ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":1242736951,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1242736951,
+    "wof:lastmodified":1537715906,
+    "wof:name":"Al Hakamah",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.79388,
+    14.10742,
+    45.79388,
+    14.10742
+],
+  "geometry": {"coordinates":[45.79388,14.10742],"type":"Point"}
+}

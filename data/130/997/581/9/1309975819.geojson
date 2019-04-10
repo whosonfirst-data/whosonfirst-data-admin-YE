@@ -1,0 +1,71 @@
+{
+  "id": 1309975819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71097,17.06079,43.71097,17.06079",
+    "geom:latitude":17.06079,
+    "geom:longitude":43.71097,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Hisn Al Matar",
+    "gn:country_code":"YE",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345372,
+    "gn:latitude":17.06079,
+    "gn:longitude":43.71097,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28i\u015fn \u0100l Ma\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn \u0100l Ma\u0163ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345372
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5e4411b245e543589ef0de24716eba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1309975819,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309975819,
+    "wof:lastmodified":1537715558,
+    "wof:name":"Hisn Al Matar",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71097,
+    17.06079,
+    43.71097,
+    17.06079
+],
+  "geometry": {"coordinates":[43.71097,17.06079],"type":"Point"}
+}

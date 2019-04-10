@@ -1,0 +1,73 @@
+{
+  "id": 890428539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8118,13.4044,43.8118,13.4044",
+    "geom:latitude":13.4044,
+    "geom:longitude":43.8118,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Sha'bayn"
+    ],
+    "qs:name":"Ash Sha\u2018bayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075755,
+        "gp:id":1957662,
+        "qs:id":754337,
+        "wd:id":"Q20303820"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051756,
+    "wof:geomhash":"82bfe1479bdc42f3452472ab317b1b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890428539,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890428539,
+    "wof:lastmodified":1514503230,
+    "wof:name":"Ash Sha\u2018bayn",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8118,
+    13.4044,
+    43.8118,
+    13.4044
+],
+  "geometry": {"coordinates":[43.8118,13.4044],"type":"Point"}
+}

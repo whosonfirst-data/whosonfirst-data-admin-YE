@@ -1,0 +1,71 @@
+{
+  "id": 1360063613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89021,15.45997,43.89021,15.45997",
+    "geom:latitude":15.45997,
+    "geom:longitude":43.89021,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Al Ma` yan",
+    "gn:country_code":"YE",
+    "gn:dem":2299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366963,
+    "gn:latitude":15.45997,
+    "gn:longitude":43.89021,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u2018 yan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u2018 yan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366963
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c011cdfb7bd8d08f6170d4b3be3cc609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1360063613,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1360063613,
+    "wof:lastmodified":1537715967,
+    "wof:name":"Al Ma` yan",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89021,
+    15.45997,
+    43.89021,
+    15.45997
+],
+  "geometry": {"coordinates":[43.89021,15.45997],"type":"Point"}
+}

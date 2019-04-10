@@ -1,0 +1,72 @@
+{
+  "id": 1226804115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21421,13.59702,44.21421,13.59702",
+    "geom:latitude":13.59702,
+    "geom:longitude":44.21421,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Shi`b Hamud",
+    "gn:country_code":"YE",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357412,
+    "gn:latitude":13.59702,
+    "gn:longitude":44.21421,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Shi\u2018b \u1e28am\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2018b \u1e28am\u016bd",
+        "Shi\u2018b \u1e28amm\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357412
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3be1c2694b68a26807dd6afdb29059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1226804115,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226804115,
+    "wof:lastmodified":1537715699,
+    "wof:name":"Shi`b Hamud",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21421,
+    13.59702,
+    44.21421,
+    13.59702
+],
+  "geometry": {"coordinates":[44.21421,13.59702],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243022519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33447,15.52248,44.33447,15.52248",
+    "geom:latitude":15.52248,
+    "geom:longitude":44.33447,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al Ghiras",
+    "gn:country_code":"YE",
+    "gn:dem":2210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79686,
+    "gn:latitude":15.52248,
+    "gn:longitude":44.33447,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ghir\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ghir\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79686,
+        "wk:page":"Al_Ghiras"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aae05b9fa88123839afeefb419fd0609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1243022519,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243022519,
+    "wof:lastmodified":1537715313,
+    "wof:name":"Al Ghiras",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33447,
+    15.52248,
+    44.33447,
+    15.52248
+],
+  "geometry": {"coordinates":[44.33447,15.52248],"type":"Point"}
+}

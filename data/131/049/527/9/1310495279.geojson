@@ -1,0 +1,71 @@
+{
+  "id": 1310495279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41606,15.53195,43.41606,15.53195",
+    "geom:latitude":15.53195,
+    "geom:longitude":43.41606,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"As Sayah",
+    "gn:country_code":"YE",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365536,
+    "gn:latitude":15.53195,
+    "gn:longitude":43.41606,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015e\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015e\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365536
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8ad8734faa445eb0fd335c50f06b5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1310495279,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310495279,
+    "wof:lastmodified":1537715933,
+    "wof:name":"As Sayah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41606,
+    15.53195,
+    43.41606,
+    15.53195
+],
+  "geometry": {"coordinates":[43.41606,15.53195],"type":"Point"}
+}

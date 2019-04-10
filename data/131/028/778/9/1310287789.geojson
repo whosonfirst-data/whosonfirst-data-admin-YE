@@ -1,0 +1,74 @@
+{
+  "id": 1310287789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24516,17.37931,43.24516,17.37931",
+    "geom:latitude":17.37931,
+    "geom:longitude":43.24516,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Al 'Azah",
+    "gn:country_code":"YE",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8022073,
+    "gn:latitude":17.37931,
+    "gn:longitude":43.24516,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Azah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Azah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022073
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed8b3c273705c55ede2ff1f4ec01c7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1310287789,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310287789,
+    "wof:lastmodified":1537716008,
+    "wof:name":"Al 'Azah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24516,
+    17.37931,
+    43.24516,
+    17.37931
+],
+  "geometry": {"coordinates":[43.24516,17.37931],"type":"Point"}
+}

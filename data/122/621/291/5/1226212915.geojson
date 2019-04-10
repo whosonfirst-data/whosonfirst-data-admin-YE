@@ -1,0 +1,71 @@
+{
+  "id": 1226212915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11973,15.00883,45.11973,15.00883",
+    "geom:latitude":15.00883,
+    "geom:longitude":45.11973,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Al Buqaylah",
+    "gn:country_code":"YE",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976372,
+    "gn:latitude":15.00883,
+    "gn:longitude":45.11973,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Buqaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0642\u064a\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976372
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"342f6e8ab9654f26f9ad714bec00e0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1226212915,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226212915,
+    "wof:lastmodified":1537716155,
+    "wof:name":"Al Buqaylah",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11973,
+    15.00883,
+    45.11973,
+    15.00883
+],
+  "geometry": {"coordinates":[45.11973,15.00883],"type":"Point"}
+}

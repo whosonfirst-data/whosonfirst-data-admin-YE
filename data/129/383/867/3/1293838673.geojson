@@ -1,0 +1,71 @@
+{
+  "id": 1293838673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27582,13.29336,44.27582,13.29336",
+    "geom:latitude":13.29336,
+    "geom:longitude":44.27582,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Al Khaydash",
+    "gn:country_code":"YE",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355080,
+    "gn:latitude":13.29336,
+    "gn:longitude":44.27582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Khayd\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khayd\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54886517cc0af85ef84a46c2a6eaff58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1293838673,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293838673,
+    "wof:lastmodified":1537715629,
+    "wof:name":"Al Khaydash",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27582,
+    13.29336,
+    44.27582,
+    13.29336
+],
+  "geometry": {"coordinates":[44.27582,13.29336],"type":"Point"}
+}

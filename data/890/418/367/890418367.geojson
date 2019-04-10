@@ -1,0 +1,73 @@
+{
+  "id": 890418367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37854,16.77511,44.37854,16.77511",
+    "geom:latitude":16.77511,
+    "geom:longitude":44.37854,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0641\u0629 \u0627\u0644 \u062c\u0645\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Itfat Al Jamil"
+    ],
+    "qs:name":"\u2018I\u0163fat \u0100l Jam\u012bl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794937,
+        "gp:id":1959135,
+        "qs:id":700714,
+        "wd:id":"Q20299569"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051245,
+    "wof:geomhash":"42a0884eb3c312bc92c3be898d926a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890418367,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418367,
+    "wof:lastmodified":1514503406,
+    "wof:name":"\u2018I\u0163fat \u0100l Jam\u012bl",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37854,
+    16.77511,
+    44.37854,
+    16.77511
+],
+  "geometry": {"coordinates":[44.37854,16.77511],"type":"Point"}
+}

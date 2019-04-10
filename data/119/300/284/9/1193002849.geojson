@@ -1,0 +1,71 @@
+{
+  "id": 1193002849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21067,15.60433,43.21067,15.60433",
+    "geom:latitude":15.60433,
+    "geom:longitude":43.21067,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"An Nasirah",
+    "gn:country_code":"YE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365871,
+    "gn:latitude":15.60433,
+    "gn:longitude":43.21067,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An N\u0101\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An N\u0101\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365871
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f84cb76ad5cb149d29e00fffdd8b9ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1193002849,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193002849,
+    "wof:lastmodified":1537715941,
+    "wof:name":"An Nasirah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21067,
+    15.60433,
+    43.21067,
+    15.60433
+],
+  "geometry": {"coordinates":[43.21067,15.60433],"type":"Point"}
+}

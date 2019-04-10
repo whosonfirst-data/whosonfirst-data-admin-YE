@@ -1,0 +1,73 @@
+{
+  "id": 890445119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84814,15.98062,44.84814,15.98062",
+    "geom:latitude":15.98062,
+    "geom:longitude":44.84814,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u064a\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "An Nafi'"
+    ],
+    "qs:name":"An Naf\u012b\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890623,
+        "gp:id":1958950,
+        "qs:id":744043,
+        "wd:id":"Q20300620"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052497,
+    "wof:geomhash":"11e38025c999a24bc2b2f348959c581c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":890445119,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890445119,
+    "wof:lastmodified":1514503218,
+    "wof:name":"An Naf\u012b\u2018",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84814,
+    15.98062,
+    44.84814,
+    15.98062
+],
+  "geometry": {"coordinates":[44.84814,15.98062],"type":"Point"}
+}

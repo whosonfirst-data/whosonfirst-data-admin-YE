@@ -1,0 +1,74 @@
+{
+  "id": 1209980215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52757,15.18825,44.52757,15.18825",
+    "geom:latitude":15.18825,
+    "geom:longitude":44.52757,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2316.0",
+    "gn:asciiname":"'Amad",
+    "gn:country_code":"YE",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331863,
+    "gn:latitude":15.18825,
+    "gn:longitude":44.52757,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331863
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"14e2afd5c89211f5f5f9fd6047c40795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925799,
+            "locality_id":1209980215,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209980215,
+    "wof:lastmodified":1537716201,
+    "wof:name":"'Amad",
+    "wof:parent_id":1091925799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52757,
+    15.18825,
+    44.52757,
+    15.18825
+],
+  "geometry": {"coordinates":[44.52757,15.18825],"type":"Point"}
+}

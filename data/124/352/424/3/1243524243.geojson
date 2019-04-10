@@ -1,0 +1,71 @@
+{
+  "id": 1243524243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26444,17.40066,43.26444,17.40066",
+    "geom:latitude":17.40066,
+    "geom:longitude":43.26444,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Ma`tiqah",
+    "gn:country_code":"YE",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345496,
+    "gn:latitude":17.40066,
+    "gn:longitude":43.26444,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u2018tiqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2018tiqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345496
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"928468508ba173c09e547b39c0bc4666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1243524243,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243524243,
+    "wof:lastmodified":1537715561,
+    "wof:name":"Ma`tiqah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26444,
+    17.40066,
+    43.26444,
+    17.40066
+],
+  "geometry": {"coordinates":[43.26444,17.40066],"type":"Point"}
+}

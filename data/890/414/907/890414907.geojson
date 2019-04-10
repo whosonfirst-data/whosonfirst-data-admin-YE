@@ -1,0 +1,73 @@
+{
+  "id": 890414907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69307,16.29062,43.69307,16.29062",
+    "geom:latitude":16.29062,
+    "geom:longitude":43.69307,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mukhaym"
+    ],
+    "qs:name":"Al Mukhaym",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849485,
+        "gp:id":1953833,
+        "qs:id":741612,
+        "wd:id":"Q20302457"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051066,
+    "wof:geomhash":"d57fbb15474f9f9f6b9924914b907439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890414907,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414907,
+    "wof:lastmodified":1514503192,
+    "wof:name":"Al Mukhaym",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69307,
+    16.29062,
+    43.69307,
+    16.29062
+],
+  "geometry": {"coordinates":[43.69307,16.29062],"type":"Point"}
+}

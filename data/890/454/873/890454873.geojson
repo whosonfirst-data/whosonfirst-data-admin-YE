@@ -1,0 +1,73 @@
+{
+  "id": 890454873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28592,16.88767,43.28592,16.88767",
+    "geom:latitude":16.88767,
+    "geom:longitude":43.28592,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0647\u0648\u0629 \u062b\u0645\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Jahwat Thamirah"
+    ],
+    "qs:name":"Jahwat Tham\u012brah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926931,
+        "gp:id":1958992,
+        "qs:id":745269,
+        "wd:id":"Q20306201"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052917,
+    "wof:geomhash":"5996283df80876725cac514d97c6664f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890454873,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454873,
+    "wof:lastmodified":1514503296,
+    "wof:name":"Jahwat Tham\u012brah",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28592,
+    16.88767,
+    43.28592,
+    16.88767
+],
+  "geometry": {"coordinates":[43.28592,16.88767],"type":"Point"}
+}

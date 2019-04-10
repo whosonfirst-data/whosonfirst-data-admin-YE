@@ -1,0 +1,74 @@
+{
+  "id": 1293866701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15226,17.27173,44.15226,17.27173",
+    "geom:latitude":17.27173,
+    "geom:longitude":44.15226,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Bi'r Ma`id",
+    "gn:country_code":"YE",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345045,
+    "gn:latitude":17.27173,
+    "gn:longitude":44.15226,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bi\u2019r Ma\u2018\u012b\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631\u0645\u0639\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r Ma\u2018\u012b\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345045
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e6ded50047a966c0c9797a3a15042481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1293866701,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293866701,
+    "wof:lastmodified":1537715551,
+    "wof:name":"Bi'r Ma`id",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15226,
+    17.27173,
+    44.15226,
+    17.27173
+],
+  "geometry": {"coordinates":[44.15226,17.27173],"type":"Point"}
+}

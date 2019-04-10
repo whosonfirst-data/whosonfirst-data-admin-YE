@@ -1,0 +1,71 @@
+{
+  "id": 1243025081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67227,13.54411,43.67227,13.54411",
+    "geom:latitude":13.54411,
+    "geom:longitude":43.67227,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al Maghaynarib",
+    "gn:country_code":"YE",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356310,
+    "gn:latitude":13.54411,
+    "gn:longitude":43.67227,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maghayn\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maghayn\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356310
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"66d5a2b38a8abbcd81883f0c88f0c041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1243025081,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243025081,
+    "wof:lastmodified":1537715671,
+    "wof:name":"Al Maghaynarib",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67227000000001,
+    13.54411,
+    43.67227000000001,
+    13.54411
+],
+  "geometry": {"coordinates":[43.67227000000001,13.54411],"type":"Point"}
+}

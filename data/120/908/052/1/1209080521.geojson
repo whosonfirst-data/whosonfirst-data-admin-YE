@@ -1,0 +1,62 @@
+{
+  "id": 1209080521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,13.9,45.6,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Quriba",
+    "gn:country_code":"YE",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71763,
+    "gn:latitude":13.9,
+    "gn:longitude":45.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Quriba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71763
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81426b6776f9b840431f79967d40dade",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209080521
+        }
+    ],
+    "wof:id":1209080521,
+    "wof:lastmodified":1536298353,
+    "wof:name":"Quriba",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    13.9,
+    45.6,
+    13.9
+],
+  "geometry": {"coordinates":[45.6,13.9],"type":"Point"}
+}

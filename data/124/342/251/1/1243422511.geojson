@@ -1,0 +1,71 @@
+{
+  "id": 1243422511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21083,13.00452,44.21083,13.00452",
+    "geom:latitude":13.00452,
+    "geom:longitude":44.21083,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Al Minjarah",
+    "gn:country_code":"YE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78806,
+    "gn:latitude":13.00452,
+    "gn:longitude":44.21083,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Al Minj\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Minj\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78806
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5d71263c79ef0a637849b25587848ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1243422511,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1243422511,
+    "wof:lastmodified":1537715273,
+    "wof:name":"Al Minjarah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21083,
+    13.00452,
+    44.21083,
+    13.00452
+],
+  "geometry": {"coordinates":[44.21083,13.00452],"type":"Point"}
+}

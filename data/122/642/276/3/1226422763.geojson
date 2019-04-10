@@ -1,0 +1,73 @@
+{
+  "id": 1226422763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31632,14.32815,44.31632,14.32815",
+    "geom:latitude":14.32815,
+    "geom:longitude":44.31632,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dar al `Arish",
+    "gn:country_code":"YE",
+    "gn:dem":2647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950500,
+    "gn:latitude":14.32815,
+    "gn:longitude":44.31632,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"D\u0101r al \u2018Ar\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al \u2018Ar\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950500
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"000d38cf65f66d350d1e938de0d5d90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1226422763,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226422763,
+    "wof:lastmodified":1537716278,
+    "wof:name":"Dar al `Arish",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31632000000001,
+    14.32815,
+    44.31632000000001,
+    14.32815
+],
+  "geometry": {"coordinates":[44.31632000000001,14.32815],"type":"Point"}
+}

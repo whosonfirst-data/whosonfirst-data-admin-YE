@@ -1,0 +1,74 @@
+{
+  "id": 1326786679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57285,15.58037,43.57285,15.58037",
+    "geom:latitude":15.58037,
+    "geom:longitude":43.57285,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt 'Ali Qutli",
+    "gn:country_code":"YE",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980639,
+    "gn:latitude":15.58037,
+    "gn:longitude":43.57285,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u2018Al\u012b Qu\u0163l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0644\u064a \u0642\u0637\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Al\u012b Qu\u0163l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980639
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d733a463adfd6680b20d9b7598e2d10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1326786679,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326786679,
+    "wof:lastmodified":1537716177,
+    "wof:name":"Bayt 'Ali Qutli",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57285,
+    15.58037,
+    43.57285,
+    15.58037
+],
+  "geometry": {"coordinates":[43.57285,15.58037],"type":"Point"}
+}

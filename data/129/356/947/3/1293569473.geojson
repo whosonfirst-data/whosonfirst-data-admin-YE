@@ -1,0 +1,74 @@
+{
+  "id": 1293569473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91659,14.47823,43.91659,14.47823",
+    "geom:latitude":14.47823,
+    "geom:longitude":43.91659,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Bayt Hatim",
+    "gn:country_code":"YE",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358192,
+    "gn:latitude":14.47823,
+    "gn:longitude":43.91659,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Bayt \u1e28\u0101tim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0627\u062a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u1e28\u0101tim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358192
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a7346f1d5ed8a4d2a86224b7381ff5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1293569473,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293569473,
+    "wof:lastmodified":1537715716,
+    "wof:name":"Bayt Hatim",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91659,
+    14.47823,
+    43.91659,
+    14.47823
+],
+  "geometry": {"coordinates":[43.91659,14.47823],"type":"Point"}
+}

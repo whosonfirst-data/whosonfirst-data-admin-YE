@@ -1,0 +1,71 @@
+{
+  "id": 1226724333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27907,14.35476,45.27907,14.35476",
+    "geom:latitude":14.35476,
+    "geom:longitude":45.27907,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Al Lasafah",
+    "gn:country_code":"YE",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363881,
+    "gn:latitude":14.35476,
+    "gn:longitude":45.27907,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al La\u015fafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al La\u015fafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363881
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a02cbae866dc5e5b4c6325d55dafc663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":1226724333,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226724333,
+    "wof:lastmodified":1537715881,
+    "wof:name":"Al Lasafah",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27907,
+    14.35476,
+    45.27907,
+    14.35476
+],
+  "geometry": {"coordinates":[45.27907,14.35476],"type":"Point"}
+}

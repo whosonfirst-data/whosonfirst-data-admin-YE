@@ -1,0 +1,71 @@
+{
+  "id": 1310209591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84506,15.05563,45.84506,15.05563",
+    "geom:latitude":15.05563,
+    "geom:longitude":45.84506,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2105.0",
+    "gn:asciiname":"Sulalah",
+    "gn:country_code":"YE",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70405,
+    "gn:latitude":15.05563,
+    "gn:longitude":45.84506,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sul\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sul\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70405
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b66a89bf9afebb6589323eb25d1ceacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926229,
+            "locality_id":1310209591,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310209591,
+    "wof:lastmodified":1537715078,
+    "wof:name":"Sulalah",
+    "wof:parent_id":1091926229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84506,
+    15.05563,
+    45.84506,
+    15.05563
+],
+  "geometry": {"coordinates":[45.84506,15.05563],"type":"Point"}
+}

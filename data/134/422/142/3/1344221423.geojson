@@ -1,0 +1,73 @@
+{
+  "id": 1344221423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29162,14.41969,44.29162,14.41969",
+    "geom:latitude":14.41969,
+    "geom:longitude":44.29162,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hawam",
+    "gn:country_code":"YE",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950783,
+    "gn:latitude":14.41969,
+    "gn:longitude":44.29162,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"\u1e28aw\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aw\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950783
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4608127cb6f343b3f3d54b5afd0b538e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1344221423,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1344221423,
+    "wof:lastmodified":1537716288,
+    "wof:name":"Hawam",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29162,
+    14.41969,
+    44.29162,
+    14.41969
+],
+  "geometry": {"coordinates":[44.29162,14.41969],"type":"Point"}
+}

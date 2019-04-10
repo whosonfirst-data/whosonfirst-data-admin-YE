@@ -1,0 +1,77 @@
+{
+  "id": 1310064051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47275,16.17881,43.47275,16.17881",
+    "geom:latitude":16.17881,
+    "geom:longitude":43.47275,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"At Tarf",
+    "gn:country_code":"YE",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658410,
+    "gn:latitude":16.17881,
+    "gn:longitude":43.47275,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162arf",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162arf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658410
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d3b5e11b412b8b0ac1fc6c69d91cdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1310064051,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310064051,
+    "wof:lastmodified":1537715979,
+    "wof:name":"At Tarf",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47275,
+    16.17881,
+    43.47275,
+    16.17881
+],
+  "geometry": {"coordinates":[43.47275,16.17881],"type":"Point"}
+}

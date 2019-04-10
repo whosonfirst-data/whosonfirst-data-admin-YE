@@ -1,0 +1,75 @@
+{
+  "id": 1293560671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32966,15.86018,44.32966,15.86018",
+    "geom:latitude":15.86018,
+    "geom:longitude":44.32966,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Ash Shujayrah",
+    "gn:country_code":"YE",
+    "gn:dem":2355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362337,
+    "gn:latitude":15.86018,
+    "gn:longitude":44.32966,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ash Shujayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062c\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bayt ash Shijar\u012b",
+        "Ash Shujayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362337
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0ebf3a7d5e6bc852528f2b841ed13bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1293560671,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293560671,
+    "wof:lastmodified":1537715841,
+    "wof:name":"Ash Shujayrah",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32966,
+    15.86018,
+    44.32966,
+    15.86018
+],
+  "geometry": {"coordinates":[44.32966,15.86018],"type":"Point"}
+}

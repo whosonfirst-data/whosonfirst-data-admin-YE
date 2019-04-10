@@ -1,0 +1,76 @@
+{
+  "id": 890455601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24286,16.26579,43.24286,16.26579",
+    "geom:latitude":16.26579,
+    "geom:longitude":43.24286,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u2018Awj\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u062c\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Awja"
+    ],
+    "qs:name":"Al \u2018Awj\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631660,
+        "gp:id":1953570,
+        "qs:id":694575,
+        "wd:id":"Q20302599"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052963,
+    "wof:geomhash":"98b1b216d13a7f468829dc58195d8765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890455601,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890455601,
+    "wof:lastmodified":1514503211,
+    "wof:name":"Al \u2018Awj\u0101\u2019",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24286,
+    16.26579,
+    43.24286,
+    16.26579
+],
+  "geometry": {"coordinates":[43.24286,16.26579],"type":"Point"}
+}

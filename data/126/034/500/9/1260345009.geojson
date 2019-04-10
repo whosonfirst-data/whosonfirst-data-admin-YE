@@ -1,0 +1,71 @@
+{
+  "id": 1260345009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43324,15.93257,43.43324,15.93257",
+    "geom:latitude":15.93257,
+    "geom:longitude":43.43324,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1715.0",
+    "gn:asciiname":"Al Masabbah",
+    "gn:country_code":"YE",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366111,
+    "gn:latitude":15.93257,
+    "gn:longitude":43.43324,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Masabba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Masabba\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366111
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2a40a388166023ee364623477e3460e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":1260345009,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260345009,
+    "wof:lastmodified":1537715946,
+    "wof:name":"Al Masabbah",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43324000000001,
+    15.93257,
+    43.43324000000001,
+    15.93257
+],
+  "geometry": {"coordinates":[43.43324000000001,15.93257],"type":"Point"}
+}

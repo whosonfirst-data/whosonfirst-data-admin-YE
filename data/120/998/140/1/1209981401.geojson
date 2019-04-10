@@ -1,0 +1,71 @@
+{
+  "id": 1209981401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78492,16.26075,43.78492,16.26075",
+    "geom:latitude":16.26075,
+    "geom:longitude":43.78492,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Al Washal",
+    "gn:country_code":"YE",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633473,
+    "gn:latitude":16.26075,
+    "gn:longitude":43.78492,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Washal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0634\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633473
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2dce77890d4c3fb460e890acbd3e36ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1209981401,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1209981401,
+    "wof:lastmodified":1537716069,
+    "wof:name":"Al Washal",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78492,
+    16.26075,
+    43.78492,
+    16.26075
+],
+  "geometry": {"coordinates":[43.78492,16.26075],"type":"Point"}
+}

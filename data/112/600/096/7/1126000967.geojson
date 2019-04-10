@@ -1,0 +1,81 @@
+{
+  "id": 1126000967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42344,14.90146,45.42344,14.90146",
+    "geom:latitude":14.90146,
+    "geom:longitude":45.42344,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"YE",
+    "lbl:latitude":14.90146,
+    "lbl:longitude":45.42344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0634\u0639"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8053374,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Al Qasha\u2018",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":751793,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053374,
+        "qs_pg:id":751793
+    },
+    "wof:country":"YE",
+    "wof:created":1497299645,
+    "wof:geomhash":"2c9cac87661e06fc9d3767238fd20028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1126000967,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1126000967,
+    "wof:lastmodified":1509406134,
+    "wof:name":"Al Qasha\u2018",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42344,
+    14.90146,
+    45.42344,
+    14.90146
+],
+  "geometry": {"coordinates":[45.42344,14.90146],"type":"Point"}
+}

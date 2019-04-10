@@ -1,0 +1,71 @@
+{
+  "id": 1293748513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64205,15.611,43.64205,15.611",
+    "geom:latitude":15.611,
+    "geom:longitude":43.64205,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Jadm Humayd",
+    "gn:country_code":"YE",
+    "gn:dem":2299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344102,
+    "gn:latitude":15.611,
+    "gn:longitude":43.64205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jadm \u1e28umayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jadm \u1e28umayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344102
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c841773d406c0f551366c87885a6f1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922059,
+            "locality_id":1293748513,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293748513,
+    "wof:lastmodified":1537715528,
+    "wof:name":"Jadm Humayd",
+    "wof:parent_id":1091922059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64205,
+    15.611,
+    43.64205,
+    15.611
+],
+  "geometry": {"coordinates":[43.64205,15.611],"type":"Point"}
+}

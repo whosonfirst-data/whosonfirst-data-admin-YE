@@ -1,0 +1,79 @@
+{
+  "id": 890449455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9843,13.24172,43.9843,13.24172",
+    "geom:latitude":13.24172,
+    "geom:longitude":43.9843,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0627\u0644\u064a\u0628 \u0627\u0644\u062f\u0627\u062e\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0644\u064a\u0628"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u1e29\u0101l\u012bb"
+    ],
+    "qs:name":"Ma\u1e29\u0101l\u012bb ad D\u0101khil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071412,
+        "gp:id":1957662,
+        "qs:id":753802,
+        "qs_pg:id":753801
+    },
+    "wof:country":"YE",
+    "wof:created":1469052692,
+    "wof:geomhash":"9865da416553ceb37ef6c6eda5522854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890449455,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449455,
+    "wof:lastmodified":1505343629,
+    "wof:name":"Ma\u1e29\u0101l\u012bb ad D\u0101khil",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9843,
+    13.24172,
+    43.9843,
+    13.24172
+],
+  "geometry": {"coordinates":[43.9843,13.24172],"type":"Point"}
+}

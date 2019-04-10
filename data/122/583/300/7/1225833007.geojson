@@ -1,0 +1,68 @@
+{
+  "id": 1225833007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42537,14.94141,44.42537,14.94141",
+    "geom:latitude":14.94141,
+    "geom:longitude":44.42537,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Bayt Jawdam",
+    "gn:country_code":"YE",
+    "gn:dem":2500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361126,
+    "gn:latitude":14.94141,
+    "gn:longitude":44.42537,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Jawdam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361126
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d285daddad58013f2450208d936957ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1225833007,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1225833007,
+    "wof:lastmodified":1537030716,
+    "wof:name":"Bayt Jawdam",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42537,
+    14.94141,
+    44.42537,
+    14.94141
+],
+  "geometry": {"coordinates":[44.42537,14.94141],"type":"Point"}
+}

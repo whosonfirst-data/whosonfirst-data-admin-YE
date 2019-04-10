@@ -1,0 +1,75 @@
+{
+  "id": 1310593913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84274,14.42543,46.84274,14.42543",
+    "geom:latitude":14.42543,
+    "geom:longitude":46.84274,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Al Mahzarah",
+    "gn:country_code":"YE",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78993,
+    "gn:latitude":14.42543,
+    "gn:longitude":46.84274,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e29z\u0327arah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0638\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u1e11arah",
+        "Al Ma\u1e29z\u0327arah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a91ec69905128808f0e2925e3d0bfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926023,
+            "locality_id":1310593913,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310593913,
+    "wof:lastmodified":1537715282,
+    "wof:name":"Al Mahzarah",
+    "wof:parent_id":1091926023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84274,
+    14.42543,
+    46.84274,
+    14.42543
+],
+  "geometry": {"coordinates":[46.84274,14.42543],"type":"Point"}
+}

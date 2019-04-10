@@ -1,0 +1,71 @@
+{
+  "id": 1243222037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58831,16.00284,43.58831,16.00284",
+    "geom:latitude":16.00284,
+    "geom:longitude":43.58831,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Al Majis",
+    "gn:country_code":"YE",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927488,
+    "gn:latitude":16.00284,
+    "gn:longitude":43.58831,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Majis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927488
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7dcc32d91ece89cf4ecb9b6ed41bf0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1243222037,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243222037,
+    "wof:lastmodified":1537716005,
+    "wof:name":"Al Majis",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58831,
+    16.00284,
+    43.58831,
+    16.00284
+],
+  "geometry": {"coordinates":[43.58831,16.00284],"type":"Point"}
+}

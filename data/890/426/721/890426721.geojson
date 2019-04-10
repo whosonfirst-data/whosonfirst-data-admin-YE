@@ -1,0 +1,68 @@
+{
+  "id": 890426721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74449,15.53517,42.74449,15.53517",
+    "geom:latitude":15.53517,
+    "geom:longitude":42.74449,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":74,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0631\u062a\u0648\u0631"
+    ],
+    "qs:name":"At Tart\u016br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680959,
+        85632499,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026143,
+        "qs:id":750684
+    },
+    "wof:country":"YE",
+    "wof:created":1469051644,
+    "wof:geomhash":"ae5a6093349e3f59160fc7aa0f82f30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "neighbourhood_id":890426721,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":890426721,
+    "wof:lastmodified":1505343495,
+    "wof:name":"At Tart\u016br",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74449,
+    15.53517,
+    42.74449,
+    15.53517
+],
+  "geometry": {"coordinates":[42.74449,15.53517],"type":"Point"}
+}

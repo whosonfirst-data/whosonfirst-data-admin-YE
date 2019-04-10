@@ -1,0 +1,74 @@
+{
+  "id": 1209780583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85287,16.02733,43.85287,16.02733",
+    "geom:latitude":16.02733,
+    "geom:longitude":43.85287,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Bayt Abu Hilfan",
+    "gn:country_code":"YE",
+    "gn:dem":2021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361909,
+    "gn:latitude":16.02733,
+    "gn:longitude":43.85287,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Bayt Ab\u016b \u1e28ilf\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0628\u0648 \u062d\u0644\u0641\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ab\u016b \u1e28ilf\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361909
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b0a7d633b40275d37790c9361e36809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1209780583,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1209780583,
+    "wof:lastmodified":1537715829,
+    "wof:name":"Bayt Abu Hilfan",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85287,
+    16.02733,
+    43.85287,
+    16.02733
+],
+  "geometry": {"coordinates":[43.85287,16.02733],"type":"Point"}
+}

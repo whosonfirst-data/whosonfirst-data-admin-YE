@@ -1,0 +1,74 @@
+{
+  "id": 1277144639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15577,13.21587,44.15577,13.21587",
+    "geom:latitude":13.21587,
+    "geom:longitude":44.15577,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Sha'b al Athabah",
+    "gn:country_code":"YE",
+    "gn:dem":2035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871491,
+    "gn:latitude":13.21587,
+    "gn:longitude":44.15577,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b al Ath\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0627\u062b\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b al Ath\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871491
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9f2d41740cbb6b2468c2afb1bc535a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1277144639,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1277144639,
+    "wof:lastmodified":1537716247,
+    "wof:name":"Sha'b al Athabah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15577,
+    13.21587,
+    44.15577,
+    13.21587
+],
+  "geometry": {"coordinates":[44.15577,13.21587],"type":"Point"}
+}

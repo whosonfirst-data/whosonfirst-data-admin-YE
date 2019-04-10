@@ -1,0 +1,71 @@
+{
+  "id": 1276289709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24886,16.22647,43.24886,16.22647",
+    "geom:latitude":16.22647,
+    "geom:longitude":43.24886,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"Khamis al Bakili",
+    "gn:country_code":"YE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410895,
+    "gn:latitude":16.22647,
+    "gn:longitude":43.24886,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kham\u012bs al Bak\u012bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kham\u012bs al Bak\u012bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a453f3e28410d987175fca09f0ea5f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1276289709,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276289709,
+    "wof:lastmodified":1537715427,
+    "wof:name":"Khamis al Bakili",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24886,
+    16.22647000000001,
+    43.24886,
+    16.22647000000001
+],
+  "geometry": {"coordinates":[43.24886,16.22647000000001],"type":"Point"}
+}

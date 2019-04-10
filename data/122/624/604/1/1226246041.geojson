@@ -1,0 +1,78 @@
+{
+  "id": 1226246041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14929,13.88921,46.14929,13.88921",
+    "geom:latitude":13.88921,
+    "geom:longitude":46.14929,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Al Qawz",
+    "gn:country_code":"YE",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78627,
+    "gn:latitude":13.88921,
+    "gn:longitude":46.14929,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qawz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Am Qaws",
+        "Al Qaws",
+        "Am-Qaus",
+        "Umm Qaws",
+        "Al Qawz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78627
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c61c4dbca01bb7668e91f78c533b42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918593,
+            "locality_id":1226246041,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1226246041,
+    "wof:lastmodified":1537715265,
+    "wof:name":"Al Qawz",
+    "wof:parent_id":1091918593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14929,
+    13.88921,
+    46.14929,
+    13.88921
+],
+  "geometry": {"coordinates":[46.14929,13.88921],"type":"Point"}
+}

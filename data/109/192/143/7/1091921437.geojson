@@ -1,0 +1,114 @@
+{
+  "id": 1091921437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000209,
+    "geom:area_square_m":2489052.287036,
+    "geom:bbox":"44.1914280964,15.3430197607,44.2077102651,15.360918769",
+    "geom:latitude":15.35204,
+    "geom:longitude":44.199873,
+    "iso:country":"YE",
+    "lbl:latitude":15.352043,
+    "lbl:longitude":44.199718,
+    "meso:admin1_en":"Amanat Al Asimah",
+    "meso:admin1_loc":"\u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+    "meso:dissme":"Amanat Al AsimahAt Tahrir",
+    "meso:gadm_admin":"At Tahrir",
+    "meso:gaul_admin":"At Tahrir",
+    "meso:hasc_id":"YE.SA.TA",
+    "meso:mps_x":44.199718,
+    "meso:mps_y":15.352043,
+    "meso:name_en":"At Tahrir",
+    "meso:source":"AOTM",
+    "mps:latitude":15.352043,
+    "mps:longitude":44.199718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u062a\u062d\u0631\u064a\u0631"
+    ],
+    "name:arm_x_preferred":[
+        "\u0561\u056c-\u0539\u0561\u0570\u0580\u056b\u0580 \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:eng_x_preferred":[
+        "At Tahrir"
+    ],
+    "name:eng_x_variant":[
+        "At Tahrir",
+        "At Tahrir District"
+    ],
+    "name:nno_x_preferred":[
+        "At Tahrir-distriktet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062a\u062d\u0631\u06cc\u0631 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "At Tahrir"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.SA",
+    "statoids:name":"At Tahrir",
+    "statoids:population":"66898",
+    "statoids:statoid":"YE.SA.TA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.SA.TA",
+        "wd:id":"Q4117257"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893047,
+    "wof:geomhash":"11eb8fffee9203d64515463d708a12ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921437,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921437,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1091921437,
+    "wof:lastmodified":1536615035,
+    "wof:name":"At Tahrir",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":66898,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"TA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19142809643637,
+    15.34301976070516,
+    44.20771026505976,
+    15.36091876904352
+],
+  "geometry": {"coordinates":[[[44.19423979649692,15.36091876904352],[44.20560531508629,15.35909218139386],[44.20771026505976,15.34355817716368],[44.20667218954775,15.34301976070516],[44.19142809643637,15.3473108231865],[44.19213102145151,15.35071280965076],[44.19423979649692,15.36091876904352]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293264761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31414,17.28236,43.31414,17.28236",
+    "geom:latitude":17.28236,
+    "geom:longitude":43.31414,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Nayd Quhfun",
+    "gn:country_code":"YE",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72324,
+    "gn:latitude":17.28236,
+    "gn:longitude":43.31414,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nayd Qu\u1e29fun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadj Qu\u2018af",
+        "Nayd Qu\u1e29fun",
+        "Najd Qu\u2018af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72324
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d5b0c0899b3a5708ae0ed8187c5f8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293264761,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293264761,
+    "wof:lastmodified":1537715113,
+    "wof:name":"Nayd Quhfun",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31414,
+    17.28236,
+    43.31414,
+    17.28236
+],
+  "geometry": {"coordinates":[43.31414,17.28236],"type":"Point"}
+}

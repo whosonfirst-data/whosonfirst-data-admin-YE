@@ -1,0 +1,73 @@
+{
+  "id": 1226824927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65,13.65,44.65,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":44.65,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Sawwadah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71024,
+    "gn:latitude":13.65,
+    "gn:longitude":44.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Saww\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suwada",
+        "Saww\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71024
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bc700e16990f0e71c895824a570e5969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1226824927,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1226824927,
+    "wof:lastmodified":1537715089,
+    "wof:name":"Sawwadah",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65,
+    13.65,
+    44.65,
+    13.65
+],
+  "geometry": {"coordinates":[44.65,13.65],"type":"Point"}
+}

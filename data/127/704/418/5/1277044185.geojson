@@ -1,0 +1,74 @@
+{
+  "id": 1277044185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.534,15.58851,43.534,15.58851",
+    "geom:latitude":15.58851,
+    "geom:longitude":43.534,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Qi'ad al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980263,
+    "gn:latitude":15.58851,
+    "gn:longitude":43.534,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qi\u2018\u0101d al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0639\u0627\u062f \u0627\u0644\u0627\u0642\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qi\u2018\u0101d al Asfal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980263
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9f2cdb6a1587fd915082cec0904b041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1277044185,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1277044185,
+    "wof:lastmodified":1537716164,
+    "wof:name":"Qi'ad al Asfal",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.534,
+    15.58851,
+    43.534,
+    15.58851
+],
+  "geometry": {"coordinates":[43.534,15.58851],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890418329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78754,17.03394,43.78754,17.03394",
+    "geom:latitude":17.03394,
+    "geom:longitude":43.78754,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0639\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Sha\u2018\u0101r"
+    ],
+    "qs:name":"Ash Sha\u2018\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854877,
+        "gp:id":1958152,
+        "qs:id":700442,
+        "qs_pg:id":741821
+    },
+    "wof:country":"YE",
+    "wof:created":1469051244,
+    "wof:geomhash":"453b167f0af97a05e69f0e9a74a428ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890418329,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890418329,
+    "wof:lastmodified":1505343444,
+    "wof:name":"Ash Sha\u2018\u0101r",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78754,
+    17.03394,
+    43.78754,
+    17.03394
+],
+  "geometry": {"coordinates":[43.78754,17.03394],"type":"Point"}
+}

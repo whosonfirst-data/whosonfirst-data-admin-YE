@@ -1,0 +1,74 @@
+{
+  "id": 1327209045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84327,16.02738,43.84327,16.02738",
+    "geom:latitude":16.02738,
+    "geom:longitude":43.84327,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Masudah",
+    "gn:country_code":"YE",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634934,
+    "gn:latitude":16.02738,
+    "gn:longitude":43.84327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mas\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mas\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634934
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cf181d98c58aefa173664a3ef0369065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1327209045,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1327209045,
+    "wof:lastmodified":1537716089,
+    "wof:name":"Al Masudah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84327,
+    16.02737999999999,
+    43.84327,
+    16.02737999999999
+],
+  "geometry": {"coordinates":[43.84327,16.02737999999999],"type":"Point"}
+}

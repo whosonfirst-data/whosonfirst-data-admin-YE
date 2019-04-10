@@ -1,0 +1,75 @@
+{
+  "id": 1209975743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74685,14.36654,44.74685,14.36654",
+    "geom:latitude":14.36654,
+    "geom:longitude":44.74685,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Himmat as Sadah",
+    "gn:country_code":"YE",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340226,
+    "gn:latitude":14.36654,
+    "gn:longitude":44.74685,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"\u1e28immat as S\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0629 \u0627\u0644\u0633\u0627\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ammat as S\u0101dah",
+        "\u1e28immat as S\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340226
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"06e0badb2c14f9b5db815ee648aea719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1209975743,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1209975743,
+    "wof:lastmodified":1537715442,
+    "wof:name":"Himmat as Sadah",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74685,
+    14.36654,
+    44.74685,
+    14.36654
+],
+  "geometry": {"coordinates":[44.74685,14.36654],"type":"Point"}
+}

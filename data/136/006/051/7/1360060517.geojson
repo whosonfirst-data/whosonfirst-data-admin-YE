@@ -1,0 +1,74 @@
+{
+  "id": 1360060517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88396,16.4894,43.88396,16.4894",
+    "geom:latitude":16.4894,
+    "geom:longitude":43.88396,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Az Zurayfah",
+    "gn:country_code":"YE",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634429,
+    "gn:latitude":16.4894,
+    "gn:longitude":43.88396,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az\u0327 Z\u0327urayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0631\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327urayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634429
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"56461a74b4d8d9b67fff3fbca03a249e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1360060517,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360060517,
+    "wof:lastmodified":1537716078,
+    "wof:name":"Az Zurayfah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88396,
+    16.4894,
+    43.88396,
+    16.4894
+],
+  "geometry": {"coordinates":[43.88396,16.4894],"type":"Point"}
+}

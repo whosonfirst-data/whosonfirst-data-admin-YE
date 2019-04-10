@@ -1,0 +1,74 @@
+{
+  "id": 1310261065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45371,16.04849,43.45371,16.04849",
+    "geom:latitude":16.04849,
+    "geom:longitude":43.45371,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Ar Rawahi",
+    "gn:country_code":"YE",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363274,
+    "gn:latitude":16.04849,
+    "gn:longitude":43.45371,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Raw\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Raw\u0101\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363274
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"df675aa8f3572ef93d778c4cbdd40ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1310261065,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310261065,
+    "wof:lastmodified":1537715868,
+    "wof:name":"Ar Rawahi",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45371,
+    16.04849,
+    43.45371,
+    16.04849
+],
+  "geometry": {"coordinates":[43.45371,16.04849],"type":"Point"}
+}

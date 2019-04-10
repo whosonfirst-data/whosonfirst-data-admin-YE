@@ -1,0 +1,72 @@
+{
+  "id": 1344120571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33333,15.21667,44.33333,15.21667",
+    "geom:latitude":15.21667,
+    "geom:longitude":44.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Al Masinah",
+    "gn:country_code":"YE",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78869,
+    "gn:latitude":15.21667,
+    "gn:longitude":44.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u015f\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u015f\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78869,
+        "wk:page":"Al-Masinah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69d6a4702758687237095eefe42a6cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1344120571,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344120571,
+    "wof:lastmodified":1537715276,
+    "wof:name":"Al Masinah",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33333,
+    15.21667,
+    44.33333,
+    15.21667
+],
+  "geometry": {"coordinates":[44.33333,15.21667],"type":"Point"}
+}

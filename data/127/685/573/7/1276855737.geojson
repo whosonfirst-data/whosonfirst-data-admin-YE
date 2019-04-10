@@ -1,0 +1,73 @@
+{
+  "id": 1276855737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13711,15.04771,43.13711,15.04771",
+    "geom:latitude":15.04771,
+    "geom:longitude":43.13711,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Bin Ahmad",
+    "gn:country_code":"YE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76818,
+    "gn:latitude":15.04771,
+    "gn:longitude":43.13711,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bin A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Ahmed",
+        "Ban Ahmad",
+        "Bin A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76818
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b7a9dabbdbc51a2604e94b1e7c8e7968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1276855737,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276855737,
+    "wof:lastmodified":1537715210,
+    "wof:name":"Bin Ahmad",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13711,
+    15.04771,
+    43.13711,
+    15.04771
+],
+  "geometry": {"coordinates":[43.13711,15.04771],"type":"Point"}
+}

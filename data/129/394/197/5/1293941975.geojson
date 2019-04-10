@@ -1,0 +1,74 @@
+{
+  "id": 1293941975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46082,16.28473,44.46082,16.28473",
+    "geom:latitude":16.28473,
+    "geom:longitude":44.46082,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Hardan",
+    "gn:country_code":"YE",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974928,
+    "gn:latitude":16.28473,
+    "gn:longitude":44.46082,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u1e28ard\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u062d\u0631\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100l \u1e28ard\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974928
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3a125317f4ef04e5268d1d04a7e5b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1293941975,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293941975,
+    "wof:lastmodified":1537716116,
+    "wof:name":"Al Hardan",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46082,
+    16.28473,
+    44.46082,
+    16.28473
+],
+  "geometry": {"coordinates":[44.46082,16.28473],"type":"Point"}
+}

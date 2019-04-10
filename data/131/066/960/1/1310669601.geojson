@@ -1,0 +1,71 @@
+{
+  "id": 1310669601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43295,16.31858,43.43295,16.31858",
+    "geom:latitude":16.31858,
+    "geom:longitude":43.43295,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1731.0",
+    "gn:asciiname":"Ash Shabbah",
+    "gn:country_code":"YE",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536244,
+    "gn:latitude":16.31858,
+    "gn:longitude":43.43295,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shabbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536244
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f18de32b2db2fe3b480678b92c9619f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":1310669601,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310669601,
+    "wof:lastmodified":1537716051,
+    "wof:name":"Ash Shabbah",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43295,
+    16.31857999999999,
+    43.43295,
+    16.31857999999999
+],
+  "geometry": {"coordinates":[43.43295,16.31857999999999],"type":"Point"}
+}

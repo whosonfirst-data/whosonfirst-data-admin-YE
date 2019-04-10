@@ -1,0 +1,74 @@
+{
+  "id": 1243523315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34606,16.28794,43.34606,16.28794",
+    "geom:latitude":16.28794,
+    "geom:longitude":43.34606,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"At Tahir",
+    "gn:country_code":"YE",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757902,
+    "gn:latitude":16.28794,
+    "gn:longitude":43.34606,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162ahir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162ahir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757902
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f4fe63327ec08b92b26fa70abd725b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1243523315,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243523315,
+    "wof:lastmodified":1537715994,
+    "wof:name":"At Tahir",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34606,
+    16.28794,
+    43.34606,
+    16.28794
+],
+  "geometry": {"coordinates":[43.34606,16.28794],"type":"Point"}
+}

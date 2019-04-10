@@ -1,0 +1,74 @@
+{
+  "id": 1226211141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42311,16.16122,43.42311,16.16122",
+    "geom:latitude":16.16122,
+    "geom:longitude":43.42311,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Talan",
+    "gn:country_code":"YE",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306431,
+    "gn:latitude":16.16122,
+    "gn:longitude":43.42311,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0162al\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0162al\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306431
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c551a069e188da179336d5c435ed376d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1226211141,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226211141,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Talan",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42311,
+    16.16122,
+    43.42311,
+    16.16122
+],
+  "geometry": {"coordinates":[43.42311,16.16122],"type":"Point"}
+}

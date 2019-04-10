@@ -1,0 +1,76 @@
+{
+  "id": 890425453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54005,17.33316,43.54005,17.33316",
+    "geom:latitude":17.33316,
+    "geom:longitude":43.54005,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Misq\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0633\u0642\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Misqam"
+    ],
+    "qs:name":"Misq\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792716,
+        "gp:id":1959094,
+        "qs:id":700509,
+        "wd:id":"Q20301932"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051590,
+    "wof:geomhash":"0b7d9f7a461d4cbf54c2054d4da3c735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890425453,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425453,
+    "wof:lastmodified":1514503327,
+    "wof:name":"Misq\u0101m",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54005,
+    17.33316,
+    43.54005,
+    17.33316
+],
+  "geometry": {"coordinates":[43.54005,17.33316],"type":"Point"}
+}

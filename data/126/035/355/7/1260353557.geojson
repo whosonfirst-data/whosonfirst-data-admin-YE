@@ -1,0 +1,73 @@
+{
+  "id": 1260353557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.79656,14.01753,45.79656,14.01753",
+    "geom:latitude":14.01753,
+    "geom:longitude":45.79656,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Bayt Samnah",
+    "gn:country_code":"YE",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76898,
+    "gn:latitude":14.01753,
+    "gn:longitude":45.79656,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt Samnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Samna",
+        "Bayt Samnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76898,
+        "wk:page":"Bayt_Samnah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0648007ad1297a52f09e55c93e4ea853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1260353557,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260353557,
+    "wof:lastmodified":1537715211,
+    "wof:name":"Bayt Samnah",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.79656,
+    14.01753,
+    45.79656,
+    14.01753
+],
+  "geometry": {"coordinates":[45.79656,14.01753],"type":"Point"}
+}

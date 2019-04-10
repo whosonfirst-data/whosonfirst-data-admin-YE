@@ -1,0 +1,76 @@
+{
+  "id": 890426297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3919,16.81886,43.3919,16.81886",
+    "geom:latitude":16.81886,
+    "geom:longitude":43.3919,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ar Rimm\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0645\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rimmam"
+    ],
+    "qs:name":"Ar Rimm\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900515,
+        "gp:id":1959134,
+        "qs:id":744282,
+        "wd:id":"Q20301966"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051626,
+    "wof:geomhash":"80cc67cc220b020289e68bd83518a81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890426297,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426297,
+    "wof:lastmodified":1514503222,
+    "wof:name":"Ar Rimm\u0101m",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3919,
+    16.81886,
+    43.3919,
+    16.81886
+],
+  "geometry": {"coordinates":[43.3919,16.81886],"type":"Point"}
+}

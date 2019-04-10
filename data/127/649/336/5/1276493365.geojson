@@ -1,0 +1,76 @@
+{
+  "id": 1276493365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20041,15.31517,44.20041,15.31517",
+    "geom:latitude":15.31517,
+    "geom:longitude":44.20041,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Yemen Hunt staff housing complex",
+    "gn:country_code":"YE",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342091,
+    "gn:latitude":15.31517,
+    "gn:longitude":44.20041,
+    "gn:modification_date":"2010-10-18",
+    "gn:name":"Yemen Hunt staff housing complex",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921377,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342091
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69e92a19d78a5a3cbb73e579b85dab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921377,
+            "locality_id":1276493365,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921377,
+            "locality_id":1276493365,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276493365,
+    "wof:lastmodified":1537059044,
+    "wof:name":"Yemen Hunt staff housing complex",
+    "wof:parent_id":1091921377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20041,
+    15.31517,
+    44.20041,
+    15.31517
+],
+  "geometry": {"coordinates":[44.20041,15.31517],"type":"Point"}
+}

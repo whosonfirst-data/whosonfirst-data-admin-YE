@@ -1,0 +1,68 @@
+{
+  "id": 1326685307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99558,12.84635,43.99558,12.84635",
+    "geom:latitude":12.84635,
+    "geom:longitude":43.99558,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Al Mabrak",
+    "gn:country_code":"YE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79031,
+    "gn:latitude":12.84635,
+    "gn:longitude":43.99558,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mabrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79031
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"975f07950adbe9d239b33a6a551a6336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1326685307,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1326685307,
+    "wof:lastmodified":1536763849,
+    "wof:name":"Al Mabrak",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99558,
+    12.84635,
+    43.99558,
+    12.84635
+],
+  "geometry": {"coordinates":[43.99558,12.84635],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310273717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42319,15.95932,43.42319,15.95932",
+    "geom:latitude":15.95932,
+    "geom:longitude":43.42319,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1714.0",
+    "gn:asciiname":"Al Majarin",
+    "gn:country_code":"YE",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366095,
+    "gn:latitude":15.95932,
+    "gn:longitude":43.42319,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maj\u0101r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maj\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366095
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d581719fcc9a4cd5833fd262cc6d42c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923413,
+            "locality_id":1310273717,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310273717,
+    "wof:lastmodified":1537715946,
+    "wof:name":"Al Majarin",
+    "wof:parent_id":1091923413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42319000000001,
+    15.95932,
+    43.42319000000001,
+    15.95932
+],
+  "geometry": {"coordinates":[43.42319000000001,15.95932],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890439703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96181,13.12904,43.96181,13.12904",
+    "geom:latitude":13.12904,
+    "geom:longitude":43.96181,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mun\u0101\u1e29\u012bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0627\u062d\u064a\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Munahib"
+    ],
+    "qs:name":"Al Mun\u0101\u1e29\u012bb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071486,
+        "gp:id":1958962,
+        "qs:id":753866,
+        "wd:id":"Q20302566"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052246,
+    "wof:geomhash":"5d7aeb0880e63e1d37248b7e38a43d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890439703,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890439703,
+    "wof:lastmodified":1514503192,
+    "wof:name":"Al Mun\u0101\u1e29\u012bb",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96181,
+    13.12904,
+    43.96181,
+    13.12904
+],
+  "geometry": {"coordinates":[43.96181,13.12904],"type":"Point"}
+}

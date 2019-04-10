@@ -1,0 +1,69 @@
+{
+  "id": 890423333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7261,16.80176,43.7261,16.80176",
+    "geom:latitude":16.80176,
+    "geom:longitude":43.7261,
+    "gn:country":"YE",
+    "gn:fcode":"FRMS",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0646\u0628\u0629"
+    ],
+    "qs:name":"Al Ma\u2018nibah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686012,
+        "gp:id":1958933,
+        "qs:id":697664
+    },
+    "wof:country":"YE",
+    "wof:created":1469051493,
+    "wof:geomhash":"3d38a083909b167f93be9bf9d341c68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890423333,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890423333,
+    "wof:lastmodified":1505343475,
+    "wof:name":"Al Ma\u2018nibah",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7261,
+    16.80176,
+    43.7261,
+    16.80176
+],
+  "geometry": {"coordinates":[43.7261,16.80176],"type":"Point"}
+}

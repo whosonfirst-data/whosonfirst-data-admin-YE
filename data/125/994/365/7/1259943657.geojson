@@ -1,0 +1,71 @@
+{
+  "id": 1259943657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82873,15.12204,43.82873,15.12204",
+    "geom:latitude":15.12204,
+    "geom:longitude":43.82873,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Malawi",
+    "gn:country_code":"YE",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360837,
+    "gn:latitude":15.12204,
+    "gn:longitude":43.82873,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mal\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mal\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360837
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0444257ba46a17daeb71fb7766eda4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1259943657,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259943657,
+    "wof:lastmodified":1537715807,
+    "wof:name":"Al Malawi",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82873,
+    15.12204,
+    43.82873,
+    15.12204
+],
+  "geometry": {"coordinates":[43.82873,15.12204],"type":"Point"}
+}

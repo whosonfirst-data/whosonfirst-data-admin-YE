@@ -1,0 +1,82 @@
+{
+  "id": 1126088391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69448,16.21905,43.69448,16.21905",
+    "geom:latitude":16.21905,
+    "geom:longitude":43.69448,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":5,
+    "gn:population":5,
+    "iso:country":"YE",
+    "lbl:latitude":16.21905,
+    "lbl:longitude":43.69448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0648\u0636\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8021932,
+    "qs_pg:gn_pop":5,
+    "qs_pg:name":"Bayt \u2018Aw\u1e11ah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":750162,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091922105,
+        85680977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021932,
+        "qs_pg:id":750162
+    },
+    "wof:country":"YE",
+    "wof:created":1497313179,
+    "wof:geomhash":"5ffbfdafd455589197778520ef1a09e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":-1,
+            "neighbourhood_id":1126088391,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126088391,
+    "wof:lastmodified":1509411519,
+    "wof:name":"Bayt \u2018Aw\u1e11ah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69448,
+    16.21905,
+    43.69448,
+    16.21905
+],
+  "geometry": {"coordinates":[43.69448,16.21905],"type":"Point"}
+}

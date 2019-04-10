@@ -1,0 +1,73 @@
+{
+  "id": 890437481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73494,13.29138,43.73494,13.29138",
+    "geom:latitude":13.29138,
+    "geom:longitude":43.73494,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":24,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0644\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maula'"
+    ],
+    "qs:name":"Al Ma\u1e11la\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069295,
+        "gp:id":1953407,
+        "qs:id":753470,
+        "wd:id":"Q20306427"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052153,
+    "wof:geomhash":"b9324a008d2d17320dca4e0c888cebc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":890437481,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890437481,
+    "wof:lastmodified":1514503186,
+    "wof:name":"Al Ma\u1e11la\u2018",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73494,
+    13.29138,
+    43.73494,
+    13.29138
+],
+  "geometry": {"coordinates":[43.73494,13.29138],"type":"Point"}
+}

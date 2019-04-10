@@ -1,0 +1,71 @@
+{
+  "id": 1360254855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,17.05,43.78333,17.05",
+    "geom:latitude":17.05,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Qullat Lashur",
+    "gn:country_code":"YE",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71790,
+    "gn:latitude":17.05,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qull\u0101t Lash\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qull\u0101t Lash\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71790
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae24a1fe7d6af6a97b26eedf60fd0bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1360254855,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360254855,
+    "wof:lastmodified":1537715102,
+    "wof:name":"Qullat Lashur",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    17.05,
+    43.78333,
+    17.05
+],
+  "geometry": {"coordinates":[43.78333,17.05],"type":"Point"}
+}

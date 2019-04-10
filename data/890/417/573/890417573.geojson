@@ -1,0 +1,79 @@
+{
+  "id": 890417573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.368,16.07916,43.368,16.07916",
+    "geom:latitude":16.07916,
+    "geom:longitude":43.368,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0647\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "As Saham"
+    ],
+    "qs:name":"As Saham",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656138,
+        "gp:id":1958568,
+        "qs:id":696066,
+        "wd:id":"Q20302542",
+        "wk:page":"Saham"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051211,
+    "wof:geomhash":"588f6b135f8b39b798c6ad3f1689962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890417573,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890417573,
+    "wof:lastmodified":1534379834,
+    "wof:name":"As Saham",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890417589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.368,
+    16.07916,
+    43.368,
+    16.07916
+],
+  "geometry": {"coordinates":[43.368,16.07916],"type":"Point"}
+}

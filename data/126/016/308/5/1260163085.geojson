@@ -1,0 +1,71 @@
+{
+  "id": 1260163085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31036,15.6417,44.31036,15.6417",
+    "geom:latitude":15.6417,
+    "geom:longitude":44.31036,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Mahall Bayt Abu Nashtan",
+    "gn:country_code":"YE",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362288,
+    "gn:latitude":15.6417,
+    "gn:longitude":44.31036,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Bayt Ab\u016b Nash\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Bayt Ab\u016b Nash\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362288
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1bfc1c5878c34699144253206cbf5f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1260163085,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1260163085,
+    "wof:lastmodified":1537715840,
+    "wof:name":"Mahall Bayt Abu Nashtan",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31036,
+    15.6417,
+    44.31036,
+    15.6417
+],
+  "geometry": {"coordinates":[44.31036,15.6417],"type":"Point"}
+}

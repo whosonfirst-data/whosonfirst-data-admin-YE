@@ -1,0 +1,73 @@
+{
+  "id": 890449529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83067,13.39291,43.83067,13.39291",
+    "geom:latitude":13.39291,
+    "geom:longitude":43.83067,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u0631\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mu'ayram"
+    ],
+    "qs:name":"Al Mu\u2018ayram",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075645,
+        "gp:id":1957662,
+        "qs:id":754237,
+        "wd:id":"Q20301701"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052696,
+    "wof:geomhash":"256edd96c8c883c9ea61760e320e292f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":890449529,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449529,
+    "wof:lastmodified":1514503194,
+    "wof:name":"Al Mu\u2018ayram",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83067,
+    13.39291,
+    43.83067,
+    13.39291
+],
+  "geometry": {"coordinates":[43.83067,13.39291],"type":"Point"}
+}

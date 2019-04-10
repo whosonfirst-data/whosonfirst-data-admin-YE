@@ -1,0 +1,75 @@
+{
+  "id": 1243045183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38485,14.3211,44.38485,14.3211",
+    "geom:latitude":14.3211,
+    "geom:longitude":44.38485,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Al Aslaf",
+    "gn:country_code":"YE",
+    "gn:dem":2669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359234,
+    "gn:latitude":14.3211,
+    "gn:longitude":44.38485,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Asl\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0633\u0644\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Najd al Asl\u0101f",
+        "Al Asl\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359234
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d73246e23684f57954274ef4aa2bdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1243045183,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243045183,
+    "wof:lastmodified":1537715750,
+    "wof:name":"Al Aslaf",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38485,
+    14.3211,
+    44.38485,
+    14.3211
+],
+  "geometry": {"coordinates":[44.38485,14.3211],"type":"Point"}
+}

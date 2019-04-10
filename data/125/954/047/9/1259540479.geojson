@@ -1,0 +1,75 @@
+{
+  "id": 1259540479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22152,13.24948,44.22152,13.24948",
+    "geom:latitude":13.24948,
+    "geom:longitude":44.22152,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Ar Rukb",
+    "gn:country_code":"YE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355276,
+    "gn:latitude":13.24948,
+    "gn:longitude":44.22152,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ar Rukb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0643\u0628"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ar\u012bz",
+        "Ar Rukb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355276
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"582e79c7a64e5cbe5fd5d1b99703d4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1259540479,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259540479,
+    "wof:lastmodified":1537715633,
+    "wof:name":"Ar Rukb",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22152,
+    13.24948,
+    44.22152,
+    13.24948
+],
+  "geometry": {"coordinates":[44.22152,13.24948],"type":"Point"}
+}

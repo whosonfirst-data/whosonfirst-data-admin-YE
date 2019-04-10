@@ -1,0 +1,74 @@
+{
+  "id": 1309964191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40916,15.9481,43.40916,15.9481",
+    "geom:latitude":15.9481,
+    "geom:longitude":43.40916,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1714.0",
+    "gn:asciiname":"Suq Jiyyah",
+    "gn:country_code":"YE",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365628,
+    "gn:latitude":15.9481,
+    "gn:longitude":43.40916,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"S\u016bq Jiyy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u016bq Jiyy\u0101\u1e29"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq Jayy\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365628
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7788dc653a92de2df012a7034bc3a7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923413,
+            "locality_id":1309964191,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1309964191,
+    "wof:lastmodified":1537715936,
+    "wof:name":"Suq Jiyyah",
+    "wof:parent_id":1091923413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40916,
+    15.9481,
+    43.40916,
+    15.9481
+],
+  "geometry": {"coordinates":[43.40916,15.9481],"type":"Point"}
+}

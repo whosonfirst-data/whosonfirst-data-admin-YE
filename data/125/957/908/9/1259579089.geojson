@@ -1,0 +1,71 @@
+{
+  "id": 1259579089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48921,15.44641,43.48921,15.44641",
+    "geom:latitude":15.44641,
+    "geom:longitude":43.48921,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Qarasah",
+    "gn:country_code":"YE",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365181,
+    "gn:latitude":15.44641,
+    "gn:longitude":43.48921,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Qar\u0101\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qar\u0101\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9fa286785f8702725db18f2b8305c18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1259579089,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259579089,
+    "wof:lastmodified":1537715921,
+    "wof:name":"Al Qarasah",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48921,
+    15.44641,
+    43.48921,
+    15.44641
+],
+  "geometry": {"coordinates":[43.48921,15.44641],"type":"Point"}
+}

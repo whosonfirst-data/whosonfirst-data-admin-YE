@@ -1,0 +1,88 @@
+{
+  "id": 1125867481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10833,16.32723,43.10833,16.32723",
+    "geom:latitude":16.32723,
+    "geom:longitude":43.10833,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11,
+    "gn:population":11,
+    "iso:country":"YE",
+    "lbl:latitude":16.32723,
+    "lbl:longitude":43.10833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u064a\u062d\u064a\u0649 \u0632\u0627\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Mahal Yahya Zayid"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u1e29all Ya\u1e29y\u00e1 Z\u0101yid"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7631701,
+    "qs_pg:gn_pop":11,
+    "qs_pg:name":"Ma\u1e29al Ya\u1e29ya Z\u0101yid",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694586,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631701,
+        "qs_pg:id":694586,
+        "wd:id":"Q20300352"
+    },
+    "wof:country":"YE",
+    "wof:created":1497294113,
+    "wof:geomhash":"c71fa02c71064412310502d67706efaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1125867481,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125867481,
+    "wof:lastmodified":1514503324,
+    "wof:name":"Ma\u1e29al Ya\u1e29ya Z\u0101yid",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10833,
+    16.32723,
+    43.10833,
+    16.32723
+],
+  "geometry": {"coordinates":[43.10833,16.32723],"type":"Point"}
+}

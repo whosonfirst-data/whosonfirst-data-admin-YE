@@ -1,0 +1,73 @@
+{
+  "id": 890414729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82314,13.42783,43.82314,13.42783",
+    "geom:latitude":13.42783,
+    "geom:longitude":43.82314,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u062f \u0627\u0644\u0623\u0633\u0641\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "An Najd Al Asfal"
+    ],
+    "qs:name":"An Najd al Asfal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075782,
+        "gp:id":1957357,
+        "qs:id":754366,
+        "wd:id":"Q20300697"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051059,
+    "wof:geomhash":"a7a7f3d3ded172bfbf4dc1a618d4572f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890414729,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414729,
+    "wof:lastmodified":1514503218,
+    "wof:name":"An Najd al Asfal",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82314,
+    13.42783,
+    43.82314,
+    13.42783
+],
+  "geometry": {"coordinates":[43.82314,13.42783],"type":"Point"}
+}

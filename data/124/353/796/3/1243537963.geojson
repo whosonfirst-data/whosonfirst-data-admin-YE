@@ -1,0 +1,74 @@
+{
+  "id": 1243537963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7865,15.79364,44.7865,15.79364",
+    "geom:latitude":15.79364,
+    "geom:longitude":44.7865,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Yaqa' ad Dar",
+    "gn:country_code":"YE",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976075,
+    "gn:latitude":15.79364,
+    "gn:longitude":44.7865,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yaq\u0101\u2018 ad D\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0642\u0627\u0639 \u0627\u0644\u062f\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Yaq\u0101\u2018 ad D\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb8c1898579ccf818779a1afdd75282d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1243537963,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1243537963,
+    "wof:lastmodified":1537716142,
+    "wof:name":"Yaqa' ad Dar",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7865,
+    15.79364,
+    44.7865,
+    15.79364
+],
+  "geometry": {"coordinates":[44.7865,15.79364],"type":"Point"}
+}

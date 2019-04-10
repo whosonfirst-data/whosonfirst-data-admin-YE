@@ -1,0 +1,74 @@
+{
+  "id": 1327192331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13003,16.20093,43.13003,16.20093",
+    "geom:latitude":16.20093,
+    "geom:longitude":43.13003,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Ar Razum ash Sharqi",
+    "gn:country_code":"YE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535189,
+    "gn:latitude":16.20093,
+    "gn:longitude":43.13003,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Razum ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0632\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Razum ash Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535189
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c21ff9879e82bda28dc7af4641c542dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1327192331,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1327192331,
+    "wof:lastmodified":1537716049,
+    "wof:name":"Ar Razum ash Sharqi",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13003,
+    16.20093,
+    43.13003,
+    16.20093
+],
+  "geometry": {"coordinates":[43.13003,16.20093],"type":"Point"}
+}

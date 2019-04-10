@@ -1,0 +1,72 @@
+{
+  "id": 1310183461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29748,15.28508,43.29748,15.28508",
+    "geom:latitude":15.28508,
+    "geom:longitude":43.29748,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Al Khala",
+    "gn:country_code":"YE",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79175,
+    "gn:latitude":15.28508,
+    "gn:longitude":43.29748,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Khala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kahle",
+        "Al Khala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79175
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a46d3d736d15e585e6b974e62bd2f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1310183461,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310183461,
+    "wof:lastmodified":1537715290,
+    "wof:name":"Al Khala",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29748,
+    15.28508,
+    43.29748,
+    15.28508
+],
+  "geometry": {"coordinates":[43.29748,15.28508],"type":"Point"}
+}

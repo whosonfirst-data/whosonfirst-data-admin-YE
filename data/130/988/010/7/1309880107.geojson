@@ -1,0 +1,71 @@
+{
+  "id": 1309880107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41667,13.93333,45.41667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":45.41667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1405.0",
+    "gn:asciiname":"Hanakah",
+    "gn:country_code":"YE",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75206,
+    "gn:latitude":13.93333,
+    "gn:longitude":45.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28anakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28anakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75206
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ca7ae5902b42aac59d31707f7ac0150f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919265,
+            "locality_id":1309880107,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1309880107,
+    "wof:lastmodified":1537715172,
+    "wof:name":"Hanakah",
+    "wof:parent_id":1091919265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41667,
+    13.93333,
+    45.41667,
+    13.93333
+],
+  "geometry": {"coordinates":[45.41667,13.93333],"type":"Point"}
+}

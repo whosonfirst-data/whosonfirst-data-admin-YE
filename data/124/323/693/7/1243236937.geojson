@@ -1,0 +1,74 @@
+{
+  "id": 1243236937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70899,15.43363,44.70899,15.43363",
+    "geom:latitude":15.43363,
+    "geom:longitude":44.70899,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Dar al Jusham",
+    "gn:country_code":"YE",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331922,
+    "gn:latitude":15.43363,
+    "gn:longitude":44.70899,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r al Jusham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u062c\u0634\u0645"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al Jusham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331922
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87e6599d5215d6282e250b42eccf6d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1243236937,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1243236937,
+    "wof:lastmodified":1537716203,
+    "wof:name":"Dar al Jusham",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70899,
+    15.43363,
+    44.70899,
+    15.43363
+],
+  "geometry": {"coordinates":[44.70899,15.43363],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243154849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15946,16.88849,43.15946,16.88849",
+    "geom:latitude":16.88849,
+    "geom:longitude":43.15946,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Duwayr ar Raff",
+    "gn:country_code":"YE",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202907,
+    "gn:latitude":16.88849,
+    "gn:longitude":43.15946,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Duwayr ar Raff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0627\u0644\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202907
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa8e8b4659bb33bb407874f72b7e9297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1243154849,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243154849,
+    "wof:lastmodified":1537716024,
+    "wof:name":"Duwayr ar Raff",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15946,
+    16.88849,
+    43.15946,
+    16.88849
+],
+  "geometry": {"coordinates":[43.15946,16.88849],"type":"Point"}
+}

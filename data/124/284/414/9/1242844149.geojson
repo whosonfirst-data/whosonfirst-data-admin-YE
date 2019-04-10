@@ -1,0 +1,72 @@
+{
+  "id": 1242844149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44464,17.07047,43.44464,17.07047",
+    "geom:latitude":17.07047,
+    "geom:longitude":43.44464,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Ad Darbayn",
+    "gn:country_code":"YE",
+    "gn:dem":2696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34855,
+    "gn:latitude":17.07047,
+    "gn:longitude":43.44464,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ad Darbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Darb\u012bn",
+        "Terbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34855
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cba59e3ab902363cbf7c7edd7f56ec5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1242844149,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242844149,
+    "wof:lastmodified":1537715057,
+    "wof:name":"Ad Darbayn",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44464,
+    17.07047,
+    43.44464,
+    17.07047
+],
+  "geometry": {"coordinates":[43.44464,17.07047],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243523319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63678,15.84707,43.63678,15.84707",
+    "geom:latitude":15.84707,
+    "geom:longitude":43.63678,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1717.0",
+    "gn:asciiname":"Hadabat al Hajawirah",
+    "gn:country_code":"YE",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343707,
+    "gn:latitude":15.84707,
+    "gn:longitude":43.63678,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28adabat al \u1e28aj\u0101wirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28adabat al \u1e28aj\u0101wirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343707
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"169e75e5546893c51dce9dfe1e0a45a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923647,
+            "locality_id":1243523319,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243523319,
+    "wof:lastmodified":1537715515,
+    "wof:name":"Hadabat al Hajawirah",
+    "wof:parent_id":1091923647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63678,
+    15.84707,
+    43.63678,
+    15.84707
+],
+  "geometry": {"coordinates":[43.63678,15.84707],"type":"Point"}
+}

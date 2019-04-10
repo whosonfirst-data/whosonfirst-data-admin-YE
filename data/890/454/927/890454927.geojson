@@ -1,0 +1,73 @@
+{
+  "id": 890454927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67769,16.16558,43.67769,16.16558",
+    "geom:latitude":16.16558,
+    "geom:longitude":43.67769,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Farrah"
+    ],
+    "qs:name":"Al Farrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020438,
+        "gp:id":1959128,
+        "qs:id":749792,
+        "wd:id":"Q20305396"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052920,
+    "wof:geomhash":"f2e798de98070f6082d644e56a3e24c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890454927,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890454927,
+    "wof:lastmodified":1514503142,
+    "wof:name":"Al Farrah",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67769,
+    16.16558,
+    43.67769,
+    16.16558
+],
+  "geometry": {"coordinates":[43.67769,16.16558],"type":"Point"}
+}

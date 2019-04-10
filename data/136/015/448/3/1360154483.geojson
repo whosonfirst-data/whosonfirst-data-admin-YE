@@ -1,0 +1,78 @@
+{
+  "id": 1360154483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47743,17.39713,43.47743,17.39713",
+    "geom:latitude":17.39713,
+    "geom:longitude":43.47743,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Baqim as Suq",
+    "gn:country_code":"YE",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8015577,
+    "gn:latitude":17.39713,
+    "gn:longitude":43.47743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101qim as S\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0642\u0645 \u0627\u0644\u0633\u0648\u0642"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101qim",
+        "\u0628\u0627\u0642\u0645"
+    ],
+    "name:und_x_variant":[
+        "B\u0101qim as S\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015577
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"07d731d4028f521c2079a02d008304cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1360154483,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360154483,
+    "wof:lastmodified":1537716006,
+    "wof:name":"Baqim as Suq",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47743,
+    17.39712999999999,
+    43.47743,
+    17.39712999999999
+],
+  "geometry": {"coordinates":[43.47743,17.39712999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260373231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26801,17.39306,43.26801,17.39306",
+    "geom:latitude":17.39306,
+    "geom:longitude":43.26801,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Suq al Hawtharanah",
+    "gn:country_code":"YE",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345506,
+    "gn:latitude":17.39306,
+    "gn:longitude":43.26801,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u016bq al \u1e28awthar\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al \u1e28awthar\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345506
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"01a45411377e640b83e255f6a3a99455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1260373231,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260373231,
+    "wof:lastmodified":1537715561,
+    "wof:name":"Suq al Hawtharanah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26801,
+    17.39306,
+    43.26801,
+    17.39306
+],
+  "geometry": {"coordinates":[43.26801,17.39306],"type":"Point"}
+}

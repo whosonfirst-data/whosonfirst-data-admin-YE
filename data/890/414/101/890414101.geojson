@@ -1,0 +1,73 @@
+{
+  "id": 890414101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37023,15.51783,45.37023,15.51783",
+    "geom:latitude":15.51783,
+    "geom:longitude":45.37023,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":38,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0631\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'rif"
+    ],
+    "qs:name":"Al Ma\u2018rif",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861420,
+        "gp:id":1957048,
+        "qs:id":742755,
+        "wd:id":"Q20306124"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051032,
+    "wof:geomhash":"a9f9e98a39e495b5e0aeb11e59b0b1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":890414101,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890414101,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018rif",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37023,
+    15.51783,
+    45.37023,
+    15.51783
+],
+  "geometry": {"coordinates":[45.37023,15.51783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10851,16.91139,44.10851,16.91139",
+    "geom:latitude":16.91139,
+    "geom:longitude":44.10851,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":27,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Nawwash"
+    ],
+    "qs:name":"Naww\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362728,
+        "gp:id":1959086,
+        "qs:id":685273,
+        "wd:id":"Q20302365"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051535,
+    "wof:geomhash":"7a4d3250e8a71b020c230f1c2ea34c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890424229,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890424229,
+    "wof:lastmodified":1514503330,
+    "wof:name":"Naww\u0101sh",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10851,
+    16.91139,
+    44.10851,
+    16.91139
+],
+  "geometry": {"coordinates":[44.10851,16.91139],"type":"Point"}
+}

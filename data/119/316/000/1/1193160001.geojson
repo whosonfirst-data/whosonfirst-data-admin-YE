@@ -1,0 +1,71 @@
+{
+  "id": 1193160001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,15.3,47.8,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1921.0",
+    "gn:asciiname":"Al Far`ah",
+    "gn:country_code":"YE",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79765,
+    "gn:latitude":15.3,
+    "gn:longitude":47.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Far\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Far\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79765
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c2d3e62f138b1dbd237529dfb042ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922765,
+            "locality_id":1193160001,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1193160001,
+    "wof:lastmodified":1537715316,
+    "wof:name":"Al Far`ah",
+    "wof:parent_id":1091922765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    15.3,
+    47.8,
+    15.3
+],
+  "geometry": {"coordinates":[47.8,15.3],"type":"Point"}
+}

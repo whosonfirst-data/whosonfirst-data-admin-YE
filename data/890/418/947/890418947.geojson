@@ -1,0 +1,69 @@
+{
+  "id": 890418947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42496,16.06456,43.42496,16.06456",
+    "geom:latitude":16.06456,
+    "geom:longitude":43.42496,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":24,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0627\u064a\u0629"
+    ],
+    "qs:name":"Al Khib\u0101yah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682340,
+        "gp:id":1958568,
+        "qs:id":697154
+    },
+    "wof:country":"YE",
+    "wof:created":1469051267,
+    "wof:geomhash":"d1dc4e90d1a030c256d913dfb334faec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890418947,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418947,
+    "wof:lastmodified":1505343447,
+    "wof:name":"Al Khib\u0101yah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42496,
+    16.06456,
+    43.42496,
+    16.06456
+],
+  "geometry": {"coordinates":[43.42496,16.06456],"type":"Point"}
+}

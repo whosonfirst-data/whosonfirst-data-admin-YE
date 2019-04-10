@@ -1,0 +1,74 @@
+{
+  "id": 1293174127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49008,14.9821,45.49008,14.9821",
+    "geom:latitude":14.9821,
+    "geom:longitude":45.49008,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"Al al Qar'",
+    "gn:country_code":"YE",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053346,
+    "gn:latitude":14.9821,
+    "gn:longitude":45.49008,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l al Qar\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0627\u0644\u0642\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "\u0100l al Qar\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053346
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d95fe42a6fbab92726bf5dbaa7b08ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1293174127,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293174127,
+    "wof:lastmodified":1537716011,
+    "wof:name":"Al al Qar'",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49008,
+    14.9821,
+    45.49008,
+    14.9821
+],
+  "geometry": {"coordinates":[45.49008,14.9821],"type":"Point"}
+}

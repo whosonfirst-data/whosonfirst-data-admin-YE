@@ -1,0 +1,73 @@
+{
+  "id": 1344232767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96667,14.15,44.96667,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":44.96667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"As Salamah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77849,
+    "gn:latitude":14.15,
+    "gn:longitude":44.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Sal\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Salamah",
+        "As Sal\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77849
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d80f4d509480aca2272d8a97007d60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1344232767,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1344232767,
+    "wof:lastmodified":1537715238,
+    "wof:name":"As Salamah",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96667,
+    14.15,
+    44.96667,
+    14.15
+],
+  "geometry": {"coordinates":[44.96667,14.15],"type":"Point"}
+}

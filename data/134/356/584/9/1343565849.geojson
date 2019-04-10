@@ -1,0 +1,76 @@
+{
+  "id": 1343565849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72208,14.78186,45.72208,14.78186",
+    "geom:latitude":14.78186,
+    "geom:longitude":45.72208,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Jarban",
+    "gn:country_code":"YE",
+    "gn:dem":1137,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74249,
+    "gn:latitude":14.78186,
+    "gn:longitude":45.72208,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jarb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jirb\u0101n",
+        "Jarb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74249
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1e7d046418d5e0b64ab49fdf4449b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1343565849,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343565849,
+    "wof:lastmodified":1537715150,
+    "wof:name":"Jarban",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72208,
+    14.78186,
+    45.72208,
+    14.78186
+],
+  "geometry": {"coordinates":[45.72208,14.78186],"type":"Point"}
+}

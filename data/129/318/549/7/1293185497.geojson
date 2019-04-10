@@ -1,0 +1,74 @@
+{
+  "id": 1293185497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.11881,14.89393,43.11881,14.89393",
+    "geom:latitude":14.89393,
+    "geom:longitude":43.11881,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"`Abd Allah `Abduh",
+    "gn:country_code":"YE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80475,
+    "gn:latitude":14.89393,
+    "gn:longitude":43.11881,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"\u2018Abd All\u0101h \u2018Abduh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Abd All\u0101h \u2018Abduh"
+    ],
+    "name:und_x_variant":[
+        "Abd All\u0101h Abdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80475
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe7bd0abbc2a8f1a394993819493a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1293185497,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293185497,
+    "wof:lastmodified":1537715337,
+    "wof:name":"`Abd Allah `Abduh",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.11881,
+    14.89393,
+    43.11881,
+    14.89393
+],
+  "geometry": {"coordinates":[43.11881,14.89393],"type":"Point"}
+}

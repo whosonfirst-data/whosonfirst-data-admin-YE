@@ -1,0 +1,73 @@
+{
+  "id": 890414391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71835,16.05813,43.71835,16.05813",
+    "geom:latitude":16.05813,
+    "geom:longitude":43.71835,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0627\u0645 \u062f\u0644\u063a\u0648\u0635"
+    ],
+    "name:eng_x_preferred":[
+        "Diyam DalghUs"
+    ],
+    "qs:name":"Diy\u0101m Dalgh\u016b\u015f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020554,
+        "gp:id":1959046,
+        "qs:id":749901,
+        "wd:id":"Q20303081"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051046,
+    "wof:geomhash":"fb81f931b0be6d6c28fa30f9ca3c9556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890414391,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414391,
+    "wof:lastmodified":1514503264,
+    "wof:name":"Diy\u0101m Dalgh\u016b\u015f",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71835,
+    16.05813,
+    43.71835,
+    16.05813
+],
+  "geometry": {"coordinates":[43.71835,16.05813],"type":"Point"}
+}

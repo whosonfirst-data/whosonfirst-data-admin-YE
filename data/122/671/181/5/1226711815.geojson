@@ -1,0 +1,71 @@
+{
+  "id": 1226711815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96667,16.15,43.96667,16.15",
+    "geom:latitude":16.15,
+    "geom:longitude":43.96667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bani Hawmi",
+    "gn:country_code":"YE",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77282,
+    "gn:latitude":16.15,
+    "gn:longitude":43.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban\u012b \u1e28awm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u1e28awm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77282
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9402abd8aef840ad88eb20d09e8bb71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1226711815,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226711815,
+    "wof:lastmodified":1537715221,
+    "wof:name":"Bani Hawmi",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96667,
+    16.15,
+    43.96667,
+    16.15
+],
+  "geometry": {"coordinates":[43.96667,16.15],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343251893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39336,14.65857,43.39336,14.65857",
+    "geom:latitude":14.65857,
+    "geom:longitude":43.39336,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Al Jarub",
+    "gn:country_code":"YE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401902,
+    "gn:latitude":14.65857,
+    "gn:longitude":43.39336,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Jar\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jar\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401902
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"380af65a0b4239fb60b867e47dfc4595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920045,
+            "locality_id":1343251893,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343251893,
+    "wof:lastmodified":1537715350,
+    "wof:name":"Al Jarub",
+    "wof:parent_id":1091920045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39336,
+    14.65857,
+    43.39336,
+    14.65857
+],
+  "geometry": {"coordinates":[43.39336,14.65857],"type":"Point"}
+}

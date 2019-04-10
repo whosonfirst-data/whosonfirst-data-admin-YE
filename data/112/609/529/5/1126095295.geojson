@@ -1,0 +1,82 @@
+{
+  "id": 1126095295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49453,16.83929,43.49453,16.83929",
+    "geom:latitude":16.83929,
+    "geom:longitude":43.49453,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":7,
+    "gn:population":7,
+    "iso:country":"YE",
+    "lbl:latitude":16.83929,
+    "lbl:longitude":43.49453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0637\u064a\u0628"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7900565,
+    "qs_pg:gn_pop":7,
+    "qs_pg:name":"\u0100l \u0162ayyib",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":744332,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091925573,
+        85680955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900565,
+        "qs_pg:id":744332
+    },
+    "wof:country":"YE",
+    "wof:created":1497315083,
+    "wof:geomhash":"e53a22e2ac2795e68f3ab65c05c628a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":-1,
+            "neighbourhood_id":1126095295,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1126095295,
+    "wof:lastmodified":1509411852,
+    "wof:name":"\u0100l \u0162ayyib",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49453,
+    16.83929,
+    43.49453,
+    16.83929
+],
+  "geometry": {"coordinates":[43.49453,16.83929],"type":"Point"}
+}

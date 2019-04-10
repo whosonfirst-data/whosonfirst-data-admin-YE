@@ -1,0 +1,74 @@
+{
+  "id": 1259651311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21518,13.246,44.21518,13.246",
+    "geom:latitude":13.246,
+    "geom:longitude":44.21518,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Hawb 'Atif",
+    "gn:country_code":"YE",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871591,
+    "gn:latitude":13.246,
+    "gn:longitude":44.21518,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hawb \u2018\u0100\u0163if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0628 \u0639\u0627\u0637\u0641"
+    ],
+    "name:und_x_variant":[
+        "Hawb \u2018\u0100\u0163if"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871591
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"526203a86707211d45640b65df4bc672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1259651311,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259651311,
+    "wof:lastmodified":1537716252,
+    "wof:name":"Hawb 'Atif",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21518,
+    13.246,
+    44.21518,
+    13.246
+],
+  "geometry": {"coordinates":[44.21518,13.246],"type":"Point"}
+}

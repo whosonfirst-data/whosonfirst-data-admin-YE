@@ -1,0 +1,71 @@
+{
+  "id": 1293751333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10074,13.29033,44.10074,13.29033",
+    "geom:latitude":13.29033,
+    "geom:longitude":44.10074,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Sahar",
+    "gn:country_code":"YE",
+    "gn:dem":1846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354865,
+    "gn:latitude":13.29033,
+    "gn:longitude":44.10074,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sa\u1e29ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e29ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354865
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"18bb56923f153c91d1fbbbe1d6f5a859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1293751333,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293751333,
+    "wof:lastmodified":1537715623,
+    "wof:name":"Sahar",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10074,
+    13.29033,
+    44.10074,
+    13.29033
+],
+  "geometry": {"coordinates":[44.10074,13.29033],"type":"Point"}
+}

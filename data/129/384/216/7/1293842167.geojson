@@ -1,0 +1,74 @@
+{
+  "id": 1293842167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5941,15.57908,43.5941,15.57908",
+    "geom:latitude":15.57908,
+    "geom:longitude":43.5941,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt Sa'di",
+    "gn:country_code":"YE",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980707,
+    "gn:latitude":15.57908,
+    "gn:longitude":43.5941,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Sa\u2018d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0639\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt Sa\u2018d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980707
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b0dbab3b561d20466a9eb3a4de826877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1293842167,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293842167,
+    "wof:lastmodified":1537716180,
+    "wof:name":"Bayt Sa'di",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5941,
+    15.57908,
+    43.5941,
+    15.57908
+],
+  "geometry": {"coordinates":[43.5941,15.57908],"type":"Point"}
+}

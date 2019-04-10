@@ -1,0 +1,72 @@
+{
+  "id": 1209936137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4774,14.01718,43.4774,14.01718",
+    "geom:latitude":14.01718,
+    "geom:longitude":43.4774,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Al Kabbah al Hamra'",
+    "gn:country_code":"YE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407527,
+    "gn:latitude":14.01718,
+    "gn:longitude":43.4774,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kabbah al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kabbah al \u1e28amr\u0101\u2019",
+        "Ar R\u0101ghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421174007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407527
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a555b5fe7d60ea0eb5b290e1f854aad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421174007,
+            "locality_id":1209936137,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209936137,
+    "wof:lastmodified":1537715395,
+    "wof:name":"Al Kabbah al Hamra'",
+    "wof:parent_id":421174007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4774,
+    14.01718,
+    43.4774,
+    14.01718
+],
+  "geometry": {"coordinates":[43.4774,14.01718],"type":"Point"}
+}

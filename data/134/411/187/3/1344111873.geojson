@@ -1,0 +1,75 @@
+{
+  "id": 1344111873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89246,13.67714,43.89246,13.67714",
+    "geom:latitude":13.67714,
+    "geom:longitude":43.89246,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al `Ayakah",
+    "gn:country_code":"YE",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356100,
+    "gn:latitude":13.67714,
+    "gn:longitude":43.89246,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Ay\u0101kah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0643\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ay\u0101kah",
+        "Al \u2018Ukdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356100
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"396e9b3a8370268412c8734af8252286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1344111873,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1344111873,
+    "wof:lastmodified":1537715664,
+    "wof:name":"Al `Ayakah",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89246,
+    13.67714,
+    43.89246,
+    13.67714
+],
+  "geometry": {"coordinates":[43.89246,13.67714],"type":"Point"}
+}

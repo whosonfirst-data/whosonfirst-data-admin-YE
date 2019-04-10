@@ -1,0 +1,75 @@
+{
+  "id": 1327129549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47312,14.92458,43.47312,14.92458",
+    "geom:latitude":14.92458,
+    "geom:longitude":43.47312,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Adh Dhafara",
+    "gn:country_code":"YE",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340772,
+    "gn:latitude":14.92458,
+    "gn:longitude":43.47312,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Adh Dhaf\u0101r\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u0641\u0627\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Adh Dhaf\u0101r\u012b",
+        "Adh Dhaf\u0101r\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340772
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17114ec678fc8636338cade0cd6e3431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1327129549,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327129549,
+    "wof:lastmodified":1537715458,
+    "wof:name":"Adh Dhafara",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47312,
+    14.92458,
+    43.47312,
+    14.92458
+],
+  "geometry": {"coordinates":[43.47312,14.92458],"type":"Point"}
+}

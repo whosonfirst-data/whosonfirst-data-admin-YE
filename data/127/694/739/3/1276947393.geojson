@@ -1,0 +1,75 @@
+{
+  "id": 1276947393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77085,16.92645,43.77085,16.92645",
+    "geom:latitude":16.92645,
+    "geom:longitude":43.77085,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2215.0",
+    "gn:asciiname":"Rahban",
+    "gn:country_code":"YE",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362067,
+    "gn:latitude":16.92645,
+    "gn:longitude":43.77085,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ra\u1e29b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062d\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ra\u1e29b\u0101n",
+        "Raqb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362067
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e1ecd61bf941b89195af384135aa7715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":1276947393,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276947393,
+    "wof:lastmodified":1537715834,
+    "wof:name":"Rahban",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77085,
+    16.92645,
+    43.77085,
+    16.92645
+],
+  "geometry": {"coordinates":[43.77085,16.92645],"type":"Point"}
+}

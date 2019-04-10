@@ -1,0 +1,74 @@
+{
+  "id": 1327007263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96817,14.42456,43.96817,14.42456",
+    "geom:latitude":14.42456,
+    "geom:longitude":43.96817,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Al Maqarib",
+    "gn:country_code":"YE",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358473,
+    "gn:latitude":14.42456,
+    "gn:longitude":43.96817,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Maq\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358473
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0149cf7a205ea5f8e8b9fb00b6e224d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1327007263,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1327007263,
+    "wof:lastmodified":1537715723,
+    "wof:name":"Al Maqarib",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96817,
+    14.42456,
+    43.96817,
+    14.42456
+],
+  "geometry": {"coordinates":[43.96817,14.42456],"type":"Point"}
+}

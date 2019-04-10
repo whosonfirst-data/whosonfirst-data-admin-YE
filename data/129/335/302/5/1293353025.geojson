@@ -1,0 +1,71 @@
+{
+  "id": 1293353025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70824,13.86515,44.70824,13.86515",
+    "geom:latitude":13.86515,
+    "geom:longitude":44.70824,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Humar",
+    "gn:country_code":"YE",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74556,
+    "gn:latitude":13.86515,
+    "gn:longitude":44.70824,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74556
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9f2ad79fbda7b867daac61ba1b5e94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1293353025,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1293353025,
+    "wof:lastmodified":1537715156,
+    "wof:name":"Humar",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70824,
+    13.86515,
+    44.70824,
+    13.86515
+],
+  "geometry": {"coordinates":[44.70824,13.86515],"type":"Point"}
+}

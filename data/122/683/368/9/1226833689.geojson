@@ -1,0 +1,74 @@
+{
+  "id": 1226833689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02997,15.45306,43.02997,15.45306",
+    "geom:latitude":15.45306,
+    "geom:longitude":43.02997,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1806.0",
+    "gn:asciiname":"Mahall ash Shaybah",
+    "gn:country_code":"YE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036508,
+    "gn:latitude":15.45306,
+    "gn:longitude":43.02997,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all ash Shaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0634\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all ash Shaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036508
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"705968d994825dcc1ed7fcb998b7e543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920191,
+            "locality_id":1226833689,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226833689,
+    "wof:lastmodified":1537716324,
+    "wof:name":"Mahall ash Shaybah",
+    "wof:parent_id":1091920191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02997,
+    15.45306,
+    43.02997,
+    15.45306
+],
+  "geometry": {"coordinates":[43.02997,15.45306],"type":"Point"}
+}

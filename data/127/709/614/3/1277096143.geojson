@@ -1,0 +1,75 @@
+{
+  "id": 1277096143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48862,14.93248,43.48862,14.93248",
+    "geom:latitude":14.93248,
+    "geom:longitude":43.48862,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Sa`ar",
+    "gn:country_code":"YE",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340769,
+    "gn:latitude":14.93248,
+    "gn:longitude":43.48862,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"\u015ea\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u015ea\u2018ar",
+        "\u015ea\u2018r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340769
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e22b9f4d994bdb621c5e57e5738a7710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1277096143,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1277096143,
+    "wof:lastmodified":1537715458,
+    "wof:name":"Sa`ar",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48862,
+    14.93248,
+    43.48862,
+    14.93248
+],
+  "geometry": {"coordinates":[43.48862,14.93248],"type":"Point"}
+}

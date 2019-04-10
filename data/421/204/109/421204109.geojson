@@ -1,0 +1,89 @@
+{
+  "id": 421204109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24071,17.24311,43.24071,17.24311",
+    "geom:latitude":17.24311,
+    "geom:longitude":43.24071,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Haydan"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28ayd\u0101n"
+    ],
+    "qs:gn_country":"YE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8022217,
+    "qs:gn_pop":2,
+    "qs:name":"Haydan",
+    "qs:name_adm0":"Yemen",
+    "qs:name_adm1":"Sa`dah",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1301254,
+    "qs:woe_adm0":23425002,
+    "qs:woe_id":1959061,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022217,
+        "gp:id":1959061,
+        "qs:id":1301254,
+        "wd:id":"Q20305576"
+    },
+    "wof:country":"YE",
+    "wof:created":1459010174,
+    "wof:geomhash":"bc71b9cf2fbee1af6db2ce5838eb8f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":421204109,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":421204109,
+    "wof:lastmodified":1514503288,
+    "wof:name":"Haydan",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24071,
+    17.24311,
+    43.24071,
+    17.24311
+],
+  "geometry": {"coordinates":[43.24071,17.24311],"type":"Point"}
+}

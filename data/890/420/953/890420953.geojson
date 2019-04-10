@@ -1,0 +1,76 @@
+{
+  "id": 890420953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05637,16.37917,44.05637,16.37917",
+    "geom:latitude":16.37917,
+    "geom:longitude":44.05637,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Shirq\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0631\u0642\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Shirqan"
+    ],
+    "qs:name":"Shirq\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8025377,
+        "gp:id":1958946,
+        "qs:id":750579,
+        "wd:id":"Q20308522"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051368,
+    "wof:geomhash":"ce40b9bb39c13f3d3c023ed994099111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890420953,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890420953,
+    "wof:lastmodified":1514503368,
+    "wof:name":"Shirq\u0101n",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05637,
+    16.37917,
+    44.05637,
+    16.37917
+],
+  "geometry": {"coordinates":[44.05637,16.37917],"type":"Point"}
+}

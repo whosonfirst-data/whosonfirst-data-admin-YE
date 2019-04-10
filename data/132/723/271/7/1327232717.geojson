@@ -1,0 +1,68 @@
+{
+  "id": 1327232717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.07333,15.91417,51.07333,15.91417",
+    "geom:latitude":15.91417,
+    "geom:longitude":51.07333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2808.0",
+    "gn:asciiname":"Qasawa",
+    "gn:country_code":"YE",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71915,
+    "gn:latitude":15.91417,
+    "gn:longitude":51.07333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qasawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091921025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71915
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3e8cbb1f5260659fd95ff9bcabf607ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921025,
+            "locality_id":1327232717,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1327232717,
+    "wof:lastmodified":1536968842,
+    "wof:name":"Qasawa",
+    "wof:parent_id":1091921025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.07333,
+    15.91417,
+    51.07333,
+    15.91417
+],
+  "geometry": {"coordinates":[51.07333,15.91417],"type":"Point"}
+}

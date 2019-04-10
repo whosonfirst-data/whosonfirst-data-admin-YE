@@ -1,0 +1,71 @@
+{
+  "id": 1343646253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09481,15.32209,43.09481,15.32209",
+    "geom:latitude":15.32209,
+    "geom:longitude":43.09481,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall Muhsin",
+    "gn:country_code":"YE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403153,
+    "gn:latitude":15.32209,
+    "gn:longitude":43.09481,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all Mu\u1e29sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Mu\u1e29sin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403153
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d05bd9d1c5056e9052ea4ac4ad7a90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1343646253,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343646253,
+    "wof:lastmodified":1537715371,
+    "wof:name":"Mahall Muhsin",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09481,
+    15.32209,
+    43.09481,
+    15.32209
+],
+  "geometry": {"coordinates":[43.09481,15.32209],"type":"Point"}
+}

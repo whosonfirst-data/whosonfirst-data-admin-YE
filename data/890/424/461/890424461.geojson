@@ -1,0 +1,73 @@
+{
+  "id": 890424461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03463,16.4889,43.03463,16.4889",
+    "geom:latitude":16.4889,
+    "geom:longitude":43.03463,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u062a \u0628\u0646\u064a \u0634\u0639\u0628\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "BuyUt Bani Sha'bin"
+    ],
+    "qs:name":"Buy\u016bt Ban\u012b Sha\u2018b\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631494,
+        "gp:id":1939792,
+        "qs:id":694483,
+        "wd:id":"Q20301549"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051545,
+    "wof:geomhash":"9f6c7c325b92e81f8b61f5d6add361de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":890424461,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424461,
+    "wof:lastmodified":1514503253,
+    "wof:name":"Buy\u016bt Ban\u012b Sha\u2018b\u012bn",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03463,
+    16.4889,
+    43.03463,
+    16.4889
+],
+  "geometry": {"coordinates":[43.03463,16.4889],"type":"Point"}
+}

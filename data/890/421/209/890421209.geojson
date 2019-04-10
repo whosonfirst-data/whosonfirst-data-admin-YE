@@ -1,0 +1,76 @@
+{
+  "id": 890421209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97262,13.19878,43.97262,13.19878",
+    "geom:latitude":13.19878,
+    "geom:longitude":43.97262,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al B\u0101t\u2018\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u062a\u0639\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bat'in"
+    ],
+    "qs:name":"Al B\u0101t\u2018\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071363,
+        "gp:id":1959012,
+        "qs:id":753761,
+        "wd:id":"Q20304592"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051384,
+    "wof:geomhash":"c594e68c53847e4de27b5a4ae05dd50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890421209,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421209,
+    "wof:lastmodified":1514503141,
+    "wof:name":"Al B\u0101t\u2018\u012bn",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97262,
+    13.19878,
+    43.97262,
+    13.19878
+],
+  "geometry": {"coordinates":[43.97262,13.19878],"type":"Point"}
+}

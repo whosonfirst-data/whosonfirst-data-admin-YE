@@ -1,0 +1,74 @@
+{
+  "id": 1310596963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76466,15.5839,42.76466,15.5839",
+    "geom:latitude":15.5839,
+    "geom:longitude":42.76466,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Ad Dawmiyah",
+    "gn:country_code":"YE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10983360,
+    "gn:latitude":15.5839,
+    "gn:longitude":42.76466,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dawm\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Dawm\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983360
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8409ea73465f71670aaec9e01b28b5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1310596963,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310596963,
+    "wof:lastmodified":1537716295,
+    "wof:name":"Ad Dawmiyah",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76466,
+    15.5839,
+    42.76466,
+    15.5839
+],
+  "geometry": {"coordinates":[42.76466,15.5839],"type":"Point"}
+}

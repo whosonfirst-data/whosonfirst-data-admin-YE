@@ -1,0 +1,71 @@
+{
+  "id": 1310570089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31363,15.80619,43.31363,15.80619",
+    "geom:latitude":15.80619,
+    "geom:longitude":43.31363,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Hanadiwah",
+    "gn:country_code":"YE",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365831,
+    "gn:latitude":15.80619,
+    "gn:longitude":43.31363,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Han\u0101diwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Han\u0101diwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365831
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6286b4f71c6b2e419356e426aaf7e86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1310570089,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310570089,
+    "wof:lastmodified":1537715940,
+    "wof:name":"Hanadiwah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31363,
+    15.80619,
+    43.31363,
+    15.80619
+],
+  "geometry": {"coordinates":[43.31363,15.80619],"type":"Point"}
+}

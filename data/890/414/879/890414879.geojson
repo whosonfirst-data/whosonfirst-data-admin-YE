@@ -1,0 +1,76 @@
+{
+  "id": 890414879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6804,16.343,43.6804,16.343",
+    "geom:latitude":16.343,
+    "geom:longitude":43.6804,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":23,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Winn\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0646\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Winnan"
+    ],
+    "qs:name":"Al Winn\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849469,
+        "gp:id":1953833,
+        "qs:id":741596,
+        "wd:id":"Q20300188"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051065,
+    "wof:geomhash":"0e21e68663a405bc5de36bea3b84aa47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890414879,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414879,
+    "wof:lastmodified":1514503202,
+    "wof:name":"Al Winn\u0101n",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6804,
+    16.343,
+    43.6804,
+    16.343
+],
+  "geometry": {"coordinates":[43.6804,16.343],"type":"Point"}
+}

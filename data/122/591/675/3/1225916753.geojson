@@ -1,0 +1,74 @@
+{
+  "id": 1225916753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32731,17.2304,43.32731,17.2304",
+    "geom:latitude":17.2304,
+    "geom:longitude":43.32731,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Khutwah",
+    "gn:country_code":"YE",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345791,
+    "gn:latitude":17.2304,
+    "gn:longitude":43.32731,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Khu\u0163wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khu\u0163wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d89f4418f66bc5302bc4ea285d6e06fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1225916753,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1225916753,
+    "wof:lastmodified":1537715568,
+    "wof:name":"Al Khutwah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32731,
+    17.2304,
+    43.32731,
+    17.2304
+],
+  "geometry": {"coordinates":[43.32731,17.2304],"type":"Point"}
+}

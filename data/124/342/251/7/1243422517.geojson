@@ -1,0 +1,71 @@
+{
+  "id": 1243422517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37449,13.23207,44.37449,13.23207",
+    "geom:latitude":13.23207,
+    "geom:longitude":44.37449,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Sanawi",
+    "gn:country_code":"YE",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355461,
+    "gn:latitude":13.23207,
+    "gn:longitude":44.37449,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sanaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355461
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"be83f27d897cabf6ee6f7d7deba82cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1243422517,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1243422517,
+    "wof:lastmodified":1537715638,
+    "wof:name":"Sanawi",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37449,
+    13.23207,
+    44.37449,
+    13.23207
+],
+  "geometry": {"coordinates":[44.37449,13.23207],"type":"Point"}
+}

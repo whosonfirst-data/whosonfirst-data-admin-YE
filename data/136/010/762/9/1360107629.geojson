@@ -1,0 +1,73 @@
+{
+  "id": 1360107629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33333,15.15,48.33333,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":48.33333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Huwaybah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74487,
+    "gn:latitude":15.15,
+    "gn:longitude":48.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28uwaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24uwaibah",
+        "\u1e28uwaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74487
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f389b634e6d96e3c02ace129a292ea14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1360107629,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1360107629,
+    "wof:lastmodified":1537715154,
+    "wof:name":"Huwaybah",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33333,
+    15.15,
+    48.33333,
+    15.15
+],
+  "geometry": {"coordinates":[48.33333,15.15],"type":"Point"}
+}

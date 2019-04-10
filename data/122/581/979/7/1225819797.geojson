@@ -1,0 +1,71 @@
+{
+  "id": 1225819797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79686,14.56352,44.79686,14.56352",
+    "geom:latitude":14.56352,
+    "geom:longitude":44.79686,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1415.0",
+    "gn:asciiname":"Khubzah",
+    "gn:country_code":"YE",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364751,
+    "gn:latitude":14.56352,
+    "gn:longitude":44.79686,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Khubzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0632\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364751
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c5580fa519541b815e4c3b0b930ae6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919559,
+            "locality_id":1225819797,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1225819797,
+    "wof:lastmodified":1537715907,
+    "wof:name":"Khubzah",
+    "wof:parent_id":1091919559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79686,
+    14.56352,
+    44.79686,
+    14.56352
+],
+  "geometry": {"coordinates":[44.79686,14.56352],"type":"Point"}
+}

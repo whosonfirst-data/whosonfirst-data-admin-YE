@@ -1,0 +1,76 @@
+{
+  "id": 890419387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25079,17.16187,43.25079,17.16187",
+    "geom:latitude":17.16187,
+    "geom:longitude":43.25079,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l Mus\u0101\u2018id"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0645\u0633\u0627\u0639\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al Musa'id"
+    ],
+    "qs:name":"\u0100l Mus\u0101\u2018id",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866924,
+        "gp:id":1938607,
+        "qs:id":743098,
+        "wd:id":"Q20302933"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051285,
+    "wof:geomhash":"1bdd32c43a425831ca84e07caa126a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890419387,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419387,
+    "wof:lastmodified":1514503389,
+    "wof:name":"\u0100l Mus\u0101\u2018id",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25079,
+    17.16187,
+    43.25079,
+    17.16187
+],
+  "geometry": {"coordinates":[43.25079,17.16187],"type":"Point"}
+}

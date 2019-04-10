@@ -1,0 +1,73 @@
+{
+  "id": 890447309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56119,16.87282,44.56119,16.87282",
+    "geom:latitude":16.87282,
+    "geom:longitude":44.56119,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u062c\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Lajmah"
+    ],
+    "qs:name":"Al Lajmah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754600,
+        "gp:id":1959135,
+        "qs:id":698605,
+        "wd:id":"Q20305853"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052586,
+    "wof:geomhash":"a79a95aeda1b4fa445e047bedbc303ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890447309,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890447309,
+    "wof:lastmodified":1514503167,
+    "wof:name":"Al Lajmah",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56119,
+    16.87282,
+    44.56119,
+    16.87282
+],
+  "geometry": {"coordinates":[44.56119,16.87282],"type":"Point"}
+}

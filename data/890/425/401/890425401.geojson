@@ -1,0 +1,73 @@
+{
+  "id": 890425401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75247,17.10933,43.75247,17.10933",
+    "geom:latitude":17.10933,
+    "geom:longitude":43.75247,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u062b\u0648\u0628\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Thawban"
+    ],
+    "qs:name":"Bi\u2019r Thawb\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792641,
+        "gp:id":1959094,
+        "qs:id":700434,
+        "wd:id":"Q20301307"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051588,
+    "wof:geomhash":"e3b549fa7ae7e6f6975ced1f95fc7a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890425401,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425401,
+    "wof:lastmodified":1514503252,
+    "wof:name":"Bi\u2019r Thawb\u0101n",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75247,
+    17.10933,
+    43.75247,
+    17.10933
+],
+  "geometry": {"coordinates":[43.75247,17.10933],"type":"Point"}
+}

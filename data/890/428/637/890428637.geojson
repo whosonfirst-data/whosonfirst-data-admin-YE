@@ -1,0 +1,76 @@
+{
+  "id": 890428637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73874,16.27866,43.73874,16.27866",
+    "geom:latitude":16.27866,
+    "geom:longitude":43.73874,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Qurd\u016b\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u062f\u0648\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "QurdU'"
+    ],
+    "qs:name":"Qurd\u016b\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849479,
+        "gp:id":1953833,
+        "qs:id":741606,
+        "wd:id":"Q20306217"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051761,
+    "wof:geomhash":"1869e2bcfccf64aa07a97431f78b5d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890428637,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890428637,
+    "wof:lastmodified":1514503338,
+    "wof:name":"Qurd\u016b\u2018",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73874,
+    16.27866,
+    43.73874,
+    16.27866
+],
+  "geometry": {"coordinates":[43.73874,16.27866],"type":"Point"}
+}

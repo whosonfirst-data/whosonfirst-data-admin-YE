@@ -1,0 +1,68 @@
+{
+  "id": 1327417129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36667,14.6375,45.36667,14.6375",
+    "geom:latitude":14.6375,
+    "geom:longitude":45.36667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2611.0",
+    "gn:asciiname":"Qaran",
+    "gn:country_code":"YE",
+    "gn:dem":2084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30565,
+    "gn:latitude":14.6375,
+    "gn:longitude":45.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30565
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"01165aa39fd91f0ed04d42bfe673d832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":1327417129,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1327417129,
+    "wof:lastmodified":1536703117,
+    "wof:name":"Qaran",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36667,
+    14.6375,
+    45.36667,
+    14.6375
+],
+  "geometry": {"coordinates":[45.36667,14.6375],"type":"Point"}
+}

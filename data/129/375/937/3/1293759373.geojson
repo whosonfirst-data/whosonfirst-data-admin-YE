@@ -1,0 +1,68 @@
+{
+  "id": 1293759373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86337,13.82972,44.86337,13.82972",
+    "geom:latitude":13.82972,
+    "geom:longitude":44.86337,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Annit",
+    "gn:country_code":"YE",
+    "gn:dem":2113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363806,
+    "gn:latitude":13.82972,
+    "gn:longitude":44.86337,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Annit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363806
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e6ae31d6722c8e8ed8aafb9b1492033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919697,
+            "locality_id":1293759373,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1293759373,
+    "wof:lastmodified":1536891925,
+    "wof:name":"Annit",
+    "wof:parent_id":1091919697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86337,
+    13.82972,
+    44.86337,
+    13.82972
+],
+  "geometry": {"coordinates":[44.86337,13.82972],"type":"Point"}
+}

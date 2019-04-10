@@ -1,0 +1,71 @@
+{
+  "id": 1292958271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30306,12.69833,44.30306,12.69833",
+    "geom:latitude":12.69833,
+    "geom:longitude":44.30306,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Maraziqah",
+    "gn:country_code":"YE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405057,
+    "gn:latitude":12.69833,
+    "gn:longitude":44.30306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mar\u0101ziqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101ziqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9325a704fe7d6cf8d5c20ed22a81b94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1292958271,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1292958271,
+    "wof:lastmodified":1537715378,
+    "wof:name":"Maraziqah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30306,
+    12.69833,
+    44.30306,
+    12.69833
+],
+  "geometry": {"coordinates":[44.30306,12.69833],"type":"Point"}
+}

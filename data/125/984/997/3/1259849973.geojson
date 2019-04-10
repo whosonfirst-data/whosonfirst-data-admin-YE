@@ -1,0 +1,74 @@
+{
+  "id": 1259849973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19058,14.86478,45.19058,14.86478",
+    "geom:latitude":14.86478,
+    "geom:longitude":45.19058,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"Al Wali",
+    "gn:country_code":"YE",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364267,
+    "gn:latitude":14.86478,
+    "gn:longitude":45.19058,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Wal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Wal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364267
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ecd20760646e0487a128cc08ffdad1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1259849973,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1259849973,
+    "wof:lastmodified":1537715894,
+    "wof:name":"Al Wali",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19058,
+    14.86478,
+    45.19058,
+    14.86478
+],
+  "geometry": {"coordinates":[45.19058,14.86478],"type":"Point"}
+}

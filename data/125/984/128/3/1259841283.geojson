@@ -1,0 +1,74 @@
+{
+  "id": 1259841283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82628,16.02086,43.82628,16.02086",
+    "geom:latitude":16.02086,
+    "geom:longitude":43.82628,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Sha'b al Majil",
+    "gn:country_code":"YE",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634971,
+    "gn:latitude":16.02086,
+    "gn:longitude":43.82628,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b al M\u0101jil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0645\u0627\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b al M\u0101jil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634971
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"99474e5fd15fb5ed2c52e0485dbcbb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1259841283,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259841283,
+    "wof:lastmodified":1537716091,
+    "wof:name":"Sha'b al Majil",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82628,
+    16.02086,
+    43.82628,
+    16.02086
+],
+  "geometry": {"coordinates":[43.82628,16.02086],"type":"Point"}
+}

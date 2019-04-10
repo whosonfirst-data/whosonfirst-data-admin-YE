@@ -1,0 +1,71 @@
+{
+  "id": 1344154049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7063,13.97789,43.7063,13.97789",
+    "geom:latitude":13.97789,
+    "geom:longitude":43.7063,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Suq al `Irsh",
+    "gn:country_code":"YE",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30764,
+    "gn:latitude":13.97789,
+    "gn:longitude":43.7063,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq al \u2018Irsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al \u2018Irsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30764
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f2cffa85581fe8962e07d0c2bcd78842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":1344154049,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344154049,
+    "wof:lastmodified":1537715052,
+    "wof:name":"Suq al `Irsh",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7063,
+    13.97789,
+    43.7063,
+    13.97789
+],
+  "geometry": {"coordinates":[43.7063,13.97789],"type":"Point"}
+}

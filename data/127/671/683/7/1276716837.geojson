@@ -1,0 +1,68 @@
+{
+  "id": 1276716837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31882,13.17524,44.31882,13.17524",
+    "geom:latitude":13.17524,
+    "geom:longitude":44.31882,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Al Bakhlah",
+    "gn:country_code":"YE",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355409,
+    "gn:latitude":13.17524,
+    "gn:longitude":44.31882,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Bakhlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355409
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff79c4520bd870fe93b35d9c84528eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1276716837,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1276716837,
+    "wof:lastmodified":1536762344,
+    "wof:name":"Al Bakhlah",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31882,
+    13.17524,
+    44.31882,
+    13.17524
+],
+  "geometry": {"coordinates":[44.31882,13.17524],"type":"Point"}
+}

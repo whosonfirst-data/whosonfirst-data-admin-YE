@@ -1,0 +1,68 @@
+{
+  "id": 1226731835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50035,15.41669,44.50035,15.41669",
+    "geom:latitude":15.41669,
+    "geom:longitude":44.50035,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Al Mashnah",
+    "gn:country_code":"YE",
+    "gn:dem":3009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341529,
+    "gn:latitude":15.41669,
+    "gn:longitude":44.50035,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mashnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341529
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa82c10e0e618e89ef36c376ada549be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":1226731835,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226731835,
+    "wof:lastmodified":1536735666,
+    "wof:name":"Al Mashnah",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50035,
+    15.41669,
+    44.50035,
+    15.41669
+],
+  "geometry": {"coordinates":[44.50035,15.41669],"type":"Point"}
+}

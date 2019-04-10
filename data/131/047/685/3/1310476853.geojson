@@ -1,0 +1,75 @@
+{
+  "id": 1310476853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04153,16.08359,44.04153,16.08359",
+    "geom:latitude":16.08359,
+    "geom:longitude":44.04153,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt al Kahil",
+    "gn:country_code":"YE",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362630,
+    "gn:latitude":16.08359,
+    "gn:longitude":44.04153,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bayt al Ka\u1e29\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0643\u062d\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Ki\u1e29\u012bl",
+        "Bayt al Ka\u1e29\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362630
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c454e5edabd2c7705aa3a73c3df929df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1310476853,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310476853,
+    "wof:lastmodified":1537715850,
+    "wof:name":"Bayt al Kahil",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04153,
+    16.08359,
+    44.04153,
+    16.08359
+],
+  "geometry": {"coordinates":[44.04153,16.08359],"type":"Point"}
+}

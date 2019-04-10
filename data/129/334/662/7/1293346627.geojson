@@ -1,0 +1,68 @@
+{
+  "id": 1293346627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72373,15.67572,43.72373,15.67572",
+    "geom:latitude":15.67572,
+    "geom:longitude":43.72373,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1718.0",
+    "gn:asciiname":"Al Wathan",
+    "gn:country_code":"YE",
+    "gn:dem":2209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344662,
+    "gn:latitude":15.67572,
+    "gn:longitude":43.72373,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Wathan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344662
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a53610804906557966b517086783b3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":1293346627,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293346627,
+    "wof:lastmodified":1536989376,
+    "wof:name":"Al Wathan",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72373,
+    15.67572,
+    43.72373,
+    15.67572
+],
+  "geometry": {"coordinates":[43.72373,15.67572],"type":"Point"}
+}

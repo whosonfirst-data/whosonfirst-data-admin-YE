@@ -1,0 +1,71 @@
+{
+  "id": 1343657697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3264,15.36289,43.3264,15.36289",
+    "geom:latitude":15.36289,
+    "geom:longitude":43.3264,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Al Harq",
+    "gn:country_code":"YE",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365102,
+    "gn:latitude":15.36289,
+    "gn:longitude":43.3264,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al \u1e28arq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28arq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365102
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e189372b83634802ce1fc105df194ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1343657697,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343657697,
+    "wof:lastmodified":1537715919,
+    "wof:name":"Al Harq",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3264,
+    15.36289,
+    43.3264,
+    15.36289
+],
+  "geometry": {"coordinates":[43.3264,15.36289],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259580823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50583,14.58487,43.50583,14.58487",
+    "geom:latitude":14.58487,
+    "geom:longitude":43.50583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al `Asaqah",
+    "gn:country_code":"YE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401026,
+    "gn:latitude":14.58487,
+    "gn:longitude":43.50583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Asaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Asaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401026
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c970fbafc2117578d3eddc2e9205480c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1259580823,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259580823,
+    "wof:lastmodified":1537715341,
+    "wof:name":"Al `Asaqah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50583,
+    14.58487,
+    43.50583,
+    14.58487
+],
+  "geometry": {"coordinates":[43.50583,14.58487],"type":"Point"}
+}

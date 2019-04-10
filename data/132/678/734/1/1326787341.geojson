@@ -1,0 +1,75 @@
+{
+  "id": 1326787341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30313,13.37256,44.30313,13.37256",
+    "geom:latitude":13.37256,
+    "geom:longitude":44.30313,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1513.0",
+    "gn:asciiname":"Ar Rahidah",
+    "gn:country_code":"YE",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78165,
+    "gn:latitude":13.37256,
+    "gn:longitude":44.30313,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar R\u0101hidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Rahida",
+        "At Rahde",
+        "Rahida",
+        "Ar R\u0101hidah",
+        "Ar R\u0101\u1e29idah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78165
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f2a98535ce333503c95de62702fd1d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":1326787341,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326787341,
+    "wof:lastmodified":1537715251,
+    "wof:name":"Ar Rahidah",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30313,
+    13.37256,
+    44.30313,
+    13.37256
+],
+  "geometry": {"coordinates":[44.30313,13.37256],"type":"Point"}
+}

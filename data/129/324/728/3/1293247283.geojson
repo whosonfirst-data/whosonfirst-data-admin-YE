@@ -1,0 +1,73 @@
+{
+  "id": 1293247283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86667,13.65,43.86667,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":43.86667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Khadie",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79179,
+    "gn:latitude":13.65,
+    "gn:longitude":43.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Khadie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Khadie",
+        "Al Khadie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79179
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c7cc07f89977b322e370fc8f6e892d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1293247283,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293247283,
+    "wof:lastmodified":1537715290,
+    "wof:name":"Al Khadie",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86667,
+    13.65,
+    43.86667,
+    13.65
+],
+  "geometry": {"coordinates":[43.86667,13.65],"type":"Point"}
+}

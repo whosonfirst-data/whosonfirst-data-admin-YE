@@ -1,0 +1,74 @@
+{
+  "id": 1226595023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47845,14.62041,43.47845,14.62041",
+    "geom:latitude":14.62041,
+    "geom:longitude":43.47845,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Kuf al Khasib",
+    "gn:country_code":"YE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058788,
+    "gn:latitude":14.62041,
+    "gn:longitude":43.47845,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u016bf al Kha\u015f\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0641 \u0627\u0644\u062e\u0635\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "K\u016bf al Kha\u015f\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058788
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5210274c95983b1c8315dc44473f13b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1226595023,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226595023,
+    "wof:lastmodified":1537716354,
+    "wof:name":"Kuf al Khasib",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47845,
+    14.62041,
+    43.47845,
+    14.62041
+],
+  "geometry": {"coordinates":[43.47845,14.62041],"type":"Point"}
+}

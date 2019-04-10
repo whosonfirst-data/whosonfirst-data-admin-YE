@@ -1,0 +1,68 @@
+{
+  "id": 1259639803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52391,15.96578,43.52391,15.96578",
+    "geom:latitude":15.96578,
+    "geom:longitude":43.52391,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1716.0",
+    "gn:asciiname":"Al Qushfah",
+    "gn:country_code":"YE",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343545,
+    "gn:latitude":15.96578,
+    "gn:longitude":43.52391,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qushfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343545
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9641325a21aa49b71c8d40c0619c4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923689,
+            "locality_id":1259639803,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259639803,
+    "wof:lastmodified":1536632200,
+    "wof:name":"Al Qushfah",
+    "wof:parent_id":1091923689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52391,
+    15.96578,
+    43.52391,
+    15.96578
+],
+  "geometry": {"coordinates":[43.52391,15.96578],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242976719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13333,14.98333,48.13333,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":48.13333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1922.0",
+    "gn:asciiname":"Sababir",
+    "gn:country_code":"YE",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71371,
+    "gn:latitude":14.98333,
+    "gn:longitude":48.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eab\u0101b\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eab\u0101b\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71371
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fbc7309986b01f24de3753dd338eb627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922585,
+            "locality_id":1242976719,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1242976719,
+    "wof:lastmodified":1537715094,
+    "wof:name":"Sababir",
+    "wof:parent_id":1091922585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13333,
+    14.98333,
+    48.13333,
+    14.98333
+],
+  "geometry": {"coordinates":[48.13333,14.98333],"type":"Point"}
+}

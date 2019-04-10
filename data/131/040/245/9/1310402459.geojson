@@ -1,0 +1,74 @@
+{
+  "id": 1310402459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42182,14.91288,43.42182,14.91288",
+    "geom:latitude":14.91288,
+    "geom:longitude":43.42182,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"As Surah",
+    "gn:country_code":"YE",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058705,
+    "gn:latitude":14.91288,
+    "gn:longitude":43.42182,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As S\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "As S\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058705
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1bee7ab3724700acc2b27d10c5e207d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1310402459,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310402459,
+    "wof:lastmodified":1537716350,
+    "wof:name":"As Surah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42182,
+    14.91288,
+    43.42182,
+    14.91288
+],
+  "geometry": {"coordinates":[43.42182,14.91288],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226704981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78319,13.48704,43.78319,13.48704",
+    "geom:latitude":13.48704,
+    "geom:longitude":43.78319,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Akamat al Bayda'",
+    "gn:country_code":"YE",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075688,
+    "gn:latitude":13.48704,
+    "gn:longitude":43.78319,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akamat al Bay\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0645\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Akamat al Bay\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075688
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23222acf58249436feebd8df4a23d297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1226704981,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226704981,
+    "wof:lastmodified":1537716018,
+    "wof:name":"Akamat al Bayda'",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78319000000001,
+    13.48704,
+    43.78319000000001,
+    13.48704
+],
+  "geometry": {"coordinates":[43.78319000000001,13.48704],"type":"Point"}
+}

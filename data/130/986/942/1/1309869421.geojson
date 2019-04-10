@@ -1,0 +1,72 @@
+{
+  "id": 1309869421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93801,15.19831,43.93801,15.19831",
+    "geom:latitude":15.19831,
+    "geom:longitude":43.93801,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Bayt Umm Jalli",
+    "gn:country_code":"YE",
+    "gn:dem":2703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402732,
+    "gn:latitude":15.19831,
+    "gn:longitude":43.93801,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Umm Jall\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Umm Jall\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402732,
+        "wk:page":"Bayt_Umm_Jalli"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b46d751c7bc34253234585d13bf4ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1309869421,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1309869421,
+    "wof:lastmodified":1537715362,
+    "wof:name":"Bayt Umm Jalli",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93801,
+    15.19831,
+    43.93801,
+    15.19831
+],
+  "geometry": {"coordinates":[43.93801,15.19831],"type":"Point"}
+}

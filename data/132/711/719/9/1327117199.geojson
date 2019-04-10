@@ -1,0 +1,71 @@
+{
+  "id": 1327117199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38333,16.8,43.38333,16.8",
+    "geom:latitude":16.8,
+    "geom:longitude":43.38333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Farat",
+    "gn:country_code":"YE",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75837,
+    "gn:latitude":16.8,
+    "gn:longitude":43.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fara\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fara\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75837
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e2875ad97dcde3b2be618d05ed6aa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1327117199,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327117199,
+    "wof:lastmodified":1537715183,
+    "wof:name":"Farat",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38333,
+    16.8,
+    43.38333,
+    16.8
+],
+  "geometry": {"coordinates":[43.38333,16.8],"type":"Point"}
+}

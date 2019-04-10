@@ -1,0 +1,83 @@
+{
+  "id": 890418889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47067,16.09946,43.47067,16.09946",
+    "geom:latitude":16.09946,
+    "geom:longitude":43.47067,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u064a\u0644\u0627 \u0634\u0639\u0628 \u0627\u0644\u0639\u0631\u062c"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Hufayla Sha'b Al 'Araj"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Araj"
+    ],
+    "qs:name":"\u1e28ufayl\u0101 Sha\u2018b al \u2018Araj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856534,
+        "gp:id":1959128,
+        "qs:id":696510,
+        "qs_pg:id":742456,
+        "wd:id":"Q20305990"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051265,
+    "wof:geomhash":"56b1b77e6a96dec53301023df5682b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890418889,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418889,
+    "wof:lastmodified":1514503402,
+    "wof:name":"\u1e28ufayl\u0101 Sha\u2018b al \u2018Araj",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47067,
+    16.09946,
+    43.47067,
+    16.09946
+],
+  "geometry": {"coordinates":[43.47067,16.09946],"type":"Point"}
+}

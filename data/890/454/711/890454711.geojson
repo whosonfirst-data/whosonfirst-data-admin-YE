@@ -1,0 +1,68 @@
+{
+  "id": 890454711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41741,16.68221,44.41741,16.68221",
+    "geom:latitude":16.68221,
+    "geom:longitude":44.41741,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":29,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a \u0627\u0644\u0623\u0633\u0641\u0644"
+    ],
+    "qs:name":"Al Qar\u012b al Asfal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85681007,
+        85632499,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795361,
+        "qs:id":701122
+    },
+    "wof:country":"YE",
+    "wof:created":1469052911,
+    "wof:geomhash":"109b9def1592cbd0eb96b3809f7d4bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "neighbourhood_id":890454711,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890454711,
+    "wof:lastmodified":1505343658,
+    "wof:name":"Al Qar\u012b al Asfal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41741,
+    16.68221,
+    44.41741,
+    16.68221
+],
+  "geometry": {"coordinates":[44.41741,16.68221],"type":"Point"}
+}

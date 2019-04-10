@@ -1,0 +1,82 @@
+{
+  "id": 1327281643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25701,15.56694,44.25701,15.56694",
+    "geom:latitude":15.56694,
+    "geom:longitude":44.25701,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Al Hanaq",
+    "gn:country_code":"YE",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975669,
+    "gn:latitude":15.56694,
+    "gn:longitude":44.25701,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28anaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u0642"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28anaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975669
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b10ccdf6174f35533fa9dcd8ffb9b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1327281643,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1327281643,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1327281643,
+    "wof:lastmodified":1537716128,
+    "wof:name":"Al Hanaq",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25701,
+    15.56694,
+    44.25701,
+    15.56694
+],
+  "geometry": {"coordinates":[44.25701,15.56694],"type":"Point"}
+}

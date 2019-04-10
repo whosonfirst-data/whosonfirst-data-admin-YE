@@ -1,0 +1,73 @@
+{
+  "id": 1293647239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15239,13.80638,44.15239,13.80638",
+    "geom:latitude":13.80638,
+    "geom:longitude":44.15239,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Dufesor",
+    "gn:country_code":"YE",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75962,
+    "gn:latitude":13.80638,
+    "gn:longitude":44.15239,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dufesor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10\u016br\u0101fah",
+        "Douf\u0113va",
+        "Douf\u00e9va"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75962
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d38f85eff29a607ab155c9c775a4c048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1293647239,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293647239,
+    "wof:lastmodified":1537715184,
+    "wof:name":"Dufesor",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15239,
+    13.80638,
+    44.15239,
+    13.80638
+],
+  "geometry": {"coordinates":[44.15239,13.80638],"type":"Point"}
+}

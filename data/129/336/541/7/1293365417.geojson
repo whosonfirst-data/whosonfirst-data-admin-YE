@@ -1,0 +1,71 @@
+{
+  "id": 1293365417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09042,16.29112,44.09042,16.29112",
+    "geom:latitude":16.29112,
+    "geom:longitude":44.09042,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Mashaf",
+    "gn:country_code":"YE",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362581,
+    "gn:latitude":16.29112,
+    "gn:longitude":44.09042,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mash\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mash\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362581
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"923f3c0d66c6789bf5d2af3e425ec2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1293365417,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293365417,
+    "wof:lastmodified":1537715849,
+    "wof:name":"Al Mashaf",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09042,
+    16.29112000000001,
+    44.09042,
+    16.29112000000001
+],
+  "geometry": {"coordinates":[44.09042,16.29112000000001],"type":"Point"}
+}

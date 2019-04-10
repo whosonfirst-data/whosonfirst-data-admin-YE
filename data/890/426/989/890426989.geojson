@@ -1,0 +1,76 @@
+{
+  "id": 890426989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11461,14.97446,45.11461,14.97446",
+    "geom:latitude":14.97446,
+    "geom:longitude":45.11461,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Aram"
+    ],
+    "qs:name":"Al \u2018Ar\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053423,
+        "gp:id":1959055,
+        "qs:id":751840,
+        "wd:id":"Q20301968"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051666,
+    "wof:geomhash":"92e626edde803b8cc00bd7a1b52da8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":890426989,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426989,
+    "wof:lastmodified":1514503210,
+    "wof:name":"Al \u2018Ar\u0101m",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11461,
+    14.97446,
+    45.11461,
+    14.97446
+],
+  "geometry": {"coordinates":[45.11461,14.97446],"type":"Point"}
+}

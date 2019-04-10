@@ -1,0 +1,75 @@
+{
+  "id": 1326694643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90969,14.47957,44.90969,14.47957",
+    "geom:latitude":14.47957,
+    "geom:longitude":44.90969,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Al Janbah",
+    "gn:country_code":"YE",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364801,
+    "gn:latitude":14.47957,
+    "gn:longitude":44.90969,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Janbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0646\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Junubah",
+        "Al Janbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364801
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5d96c12f29e59ba715af03e633b950cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1326694643,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1326694643,
+    "wof:lastmodified":1537715908,
+    "wof:name":"Al Janbah",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90969000000001,
+    14.47957,
+    44.90969000000001,
+    14.47957
+],
+  "geometry": {"coordinates":[44.90969000000001,14.47957],"type":"Point"}
+}

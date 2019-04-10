@@ -1,0 +1,73 @@
+{
+  "id": 890452139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46851,17.48319,43.46851,17.48319",
+    "geom:latitude":17.48319,
+    "geom:longitude":43.46851,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0631\u0642\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Raqraqah"
+    ],
+    "qs:name":"Ar Raqraqah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856479,
+        "gp:id":1939827,
+        "qs:id":742400,
+        "wd:id":"Q20301710"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052806,
+    "wof:geomhash":"86929d315440f2e72920dba904384c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890452139,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890452139,
+    "wof:lastmodified":1514503220,
+    "wof:name":"Ar Raqraqah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46851,
+    17.48319,
+    43.46851,
+    17.48319
+],
+  "geometry": {"coordinates":[43.46851,17.48319],"type":"Point"}
+}

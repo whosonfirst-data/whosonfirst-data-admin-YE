@@ -1,0 +1,69 @@
+{
+  "id": 890418341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23617,16.56048,44.23617,16.56048",
+    "geom:latitude":16.56048,
+    "geom:longitude":44.23617,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u064a\u062f"
+    ],
+    "qs:name":"Zubayd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794750,
+        "gp:id":1958965,
+        "qs:id":700542
+    },
+    "wof:country":"YE",
+    "wof:created":1469051244,
+    "wof:geomhash":"41810d860c6ff3a40a132fb06adb2501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890418341,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418341,
+    "wof:lastmodified":1505343444,
+    "wof:name":"Zubayd",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23617,
+    16.56048,
+    44.23617,
+    16.56048
+],
+  "geometry": {"coordinates":[44.23617,16.56048],"type":"Point"}
+}

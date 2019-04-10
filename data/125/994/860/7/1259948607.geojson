@@ -1,0 +1,71 @@
+{
+  "id": 1259948607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24874,15.52222,43.24874,15.52222",
+    "geom:latitude":15.52222,
+    "geom:longitude":43.24874,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1724.0",
+    "gn:asciiname":"Zahr al Bishamah",
+    "gn:country_code":"YE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366397,
+    "gn:latitude":15.52222,
+    "gn:longitude":43.24874,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Z\u0327ahr al Bish\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0327ahr al Bish\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366397
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6b9283ede3a11a25883c7bb9d59b7348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":1259948607,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259948607,
+    "wof:lastmodified":1537715953,
+    "wof:name":"Zahr al Bishamah",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24874000000001,
+    15.52222,
+    43.24874000000001,
+    15.52222
+],
+  "geometry": {"coordinates":[43.24874000000001,15.52222],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343842539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93053,15.74551,42.93053,15.74551",
+    "geom:latitude":15.74551,
+    "geom:longitude":42.93053,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Bayt Ma'ruf 'Ali",
+    "gn:country_code":"YE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983262,
+    "gn:latitude":15.74551,
+    "gn:longitude":42.93053,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Ma\u2018r\u016bf \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0639\u0631\u0648\u0641 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ma\u2018r\u016bf \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983262
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"58c179c69e858a572bb00d241d21189b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1343842539,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343842539,
+    "wof:lastmodified":1537716290,
+    "wof:name":"Bayt Ma'ruf 'Ali",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93053,
+    15.74551,
+    42.93053,
+    15.74551
+],
+  "geometry": {"coordinates":[42.93053,15.74551],"type":"Point"}
+}

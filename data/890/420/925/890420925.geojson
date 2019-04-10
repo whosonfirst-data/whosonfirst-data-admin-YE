@@ -1,0 +1,73 @@
+{
+  "id": 890420925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29829,17.51232,43.29829,17.51232",
+    "geom:latitude":17.51232,
+    "geom:longitude":43.29829,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Karanah"
+    ],
+    "qs:name":"Al Kar\u0101nah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021629,
+        "gp:id":56447933,
+        "qs:id":750143,
+        "wd:id":"Q20304241"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051367,
+    "wof:geomhash":"988c34928dcd8dbf31104d2f774255c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890420925,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420925,
+    "wof:lastmodified":1514503163,
+    "wof:name":"Al Kar\u0101nah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29829,
+    17.51232,
+    43.29829,
+    17.51232
+],
+  "geometry": {"coordinates":[43.29829,17.51232],"type":"Point"}
+}

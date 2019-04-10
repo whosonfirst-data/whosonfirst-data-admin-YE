@@ -1,0 +1,69 @@
+{
+  "id": 890424821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41853,16.14397,43.41853,16.14397",
+    "geom:latitude":16.14397,
+    "geom:longitude":43.41853,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u064a\u0644"
+    ],
+    "qs:name":"Al Qufayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658585,
+        "gp:id":1958568,
+        "qs:id":696400
+    },
+    "wof:country":"YE",
+    "wof:created":1469051564,
+    "wof:geomhash":"41a1b9c7e613703130aa9189307e6a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890424821,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424821,
+    "wof:lastmodified":1505343483,
+    "wof:name":"Al Qufayl",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41853,
+    16.14397,
+    43.41853,
+    16.14397
+],
+  "geometry": {"coordinates":[43.41853,16.14397],"type":"Point"}
+}

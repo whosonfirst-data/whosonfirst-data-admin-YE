@@ -1,0 +1,74 @@
+{
+  "id": 1360249811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00998,15.88438,44.00998,15.88438",
+    "geom:latitude":15.88438,
+    "geom:longitude":44.00998,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Bayt Zayli'",
+    "gn:country_code":"YE",
+    "gn:dem":2331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975337,
+    "gn:latitude":15.88438,
+    "gn:longitude":44.00998,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Zayli\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0632\u064a\u0644\u0639"
+    ],
+    "name:und_x_variant":[
+        "Bayt Zayli\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975337
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6062c741942ffe38aff25fc5afe2586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922091,
+            "locality_id":1360249811,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360249811,
+    "wof:lastmodified":1537716123,
+    "wof:name":"Bayt Zayli'",
+    "wof:parent_id":1091922091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00998,
+    15.88438,
+    44.00998,
+    15.88438
+],
+  "geometry": {"coordinates":[44.00998,15.88438],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243516285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11778,15.86057,44.11778,15.86057",
+    "geom:latitude":15.86057,
+    "geom:longitude":44.11778,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"As Sulban al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":2171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975606,
+    "gn:latitude":15.86057,
+    "gn:longitude":44.11778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eulb\u0101n al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0644\u0628\u0627\u0646 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eulb\u0101n al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975606
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c0b7d9e338457f6d189ee068019fc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922025,
+            "locality_id":1243516285,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243516285,
+    "wof:lastmodified":1537716128,
+    "wof:name":"As Sulban al 'Ulya",
+    "wof:parent_id":1091922025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11778,
+    15.86057,
+    44.11778,
+    15.86057
+],
+  "geometry": {"coordinates":[44.11778,15.86057],"type":"Point"}
+}

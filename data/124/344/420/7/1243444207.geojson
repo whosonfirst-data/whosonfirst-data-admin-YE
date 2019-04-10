@@ -1,0 +1,73 @@
+{
+  "id": 1243444207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28457,14.92406,43.28457,14.92406",
+    "geom:latitude":14.92406,
+    "geom:longitude":43.28457,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Dayr Dawid",
+    "gn:country_code":"YE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401629,
+    "gn:latitude":14.92406,
+    "gn:longitude":43.28457,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Dayr D\u0101wid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr D\u0101wid",
+        "Dayr D\u0101wah",
+        "Dayr D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401629
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93e7944cf710ef9f70ac91196fba80c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1243444207,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243444207,
+    "wof:lastmodified":1537715343,
+    "wof:name":"Dayr Dawid",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28457,
+    14.92406,
+    43.28457,
+    14.92406
+],
+  "geometry": {"coordinates":[43.28457,14.92406],"type":"Point"}
+}

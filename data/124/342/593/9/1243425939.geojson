@@ -1,0 +1,75 @@
+{
+  "id": 1243425939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55957,15.60851,44.55957,15.60851",
+    "geom:latitude":15.60851,
+    "geom:longitude":44.55957,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bayt Ahmad Hajir",
+    "gn:country_code":"YE",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342831,
+    "gn:latitude":15.60851,
+    "gn:longitude":44.55957,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bayt A\u1e29mad \u1e28\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u062d\u0645\u062f \u062d\u0627\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Maj\u0101wi\u1e29ah",
+        "Bayt A\u1e29mad \u1e28\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342831
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc4b72dfe03afc546997b43c63f4ee2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1243425939,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243425939,
+    "wof:lastmodified":1537715507,
+    "wof:name":"Bayt Ahmad Hajir",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55957,
+    15.60851,
+    44.55957,
+    15.60851
+],
+  "geometry": {"coordinates":[44.55957,15.60851],"type":"Point"}
+}

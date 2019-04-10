@@ -1,0 +1,74 @@
+{
+  "id": 1310457379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15454,13.08388,44.15454,13.08388",
+    "geom:latitude":13.08388,
+    "geom:longitude":44.15454,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Hajiyu",
+    "gn:country_code":"YE",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10871874,
+    "gn:latitude":13.08388,
+    "gn:longitude":44.15454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Haj\u012by\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u062c\u064a\u0648"
+    ],
+    "name:und_x_variant":[
+        "Haj\u012by\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871874
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"60d0c10fdbad59ca28a06499f29e1d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1310457379,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310457379,
+    "wof:lastmodified":1537716267,
+    "wof:name":"Hajiyu",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15454,
+    13.08388,
+    44.15454,
+    13.08388
+],
+  "geometry": {"coordinates":[44.15454,13.08388],"type":"Point"}
+}

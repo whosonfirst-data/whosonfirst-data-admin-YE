@@ -1,0 +1,74 @@
+{
+  "id": 1343734811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35081,16.80866,43.35081,16.80866",
+    "geom:latitude":16.80866,
+    "geom:longitude":43.35081,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al Ma'azib",
+    "gn:country_code":"YE",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260978,
+    "gn:latitude":16.80866,
+    "gn:longitude":43.35081,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u2018\u0101zib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0627\u0632\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018\u0101zib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260978
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"45aae933a21e1757e342d79aa1c0b521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1343734811,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343734811,
+    "wof:lastmodified":1537716063,
+    "wof:name":"Al Ma'azib",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35081,
+    16.80866,
+    43.35081,
+    16.80866
+],
+  "geometry": {"coordinates":[43.35081,16.80866],"type":"Point"}
+}

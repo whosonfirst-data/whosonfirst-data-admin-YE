@@ -1,0 +1,71 @@
+{
+  "id": 1259444839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69715,16.23852,43.69715,16.23852",
+    "geom:latitude":16.23852,
+    "geom:longitude":43.69715,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Al Jihayr",
+    "gn:country_code":"YE",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363469,
+    "gn:latitude":16.23852,
+    "gn:longitude":43.69715,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ji\u1e29ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ji\u1e29ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363469
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ff2c1dc59714a66988a11f0bf23fc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":1259444839,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259444839,
+    "wof:lastmodified":1537715874,
+    "wof:name":"Al Jihayr",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69715,
+    16.23852,
+    43.69715,
+    16.23852
+],
+  "geometry": {"coordinates":[43.69715,16.23852],"type":"Point"}
+}

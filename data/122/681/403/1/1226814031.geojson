@@ -1,0 +1,74 @@
+{
+  "id": 1226814031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92401,16.49697,43.92401,16.49697",
+    "geom:latitude":16.49697,
+    "geom:longitude":43.92401,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Dughayshi",
+    "gn:country_code":"YE",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635012,
+    "gn:latitude":16.49697,
+    "gn:longitude":43.92401,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dughaysh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u063a\u064a\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dughaysh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635012
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b9a3c6aa2785ffbd6da8757473823a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1226814031,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226814031,
+    "wof:lastmodified":1537716092,
+    "wof:name":"Dughayshi",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92401,
+    16.49697,
+    43.92401,
+    16.49697
+],
+  "geometry": {"coordinates":[43.92401,16.49697],"type":"Point"}
+}

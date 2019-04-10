@@ -1,0 +1,74 @@
+{
+  "id": 1293248725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50804,15.58867,43.50804,15.58867",
+    "geom:latitude":15.58867,
+    "geom:longitude":43.50804,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Haqarat as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980528,
+    "gn:latitude":15.58867,
+    "gn:longitude":43.50804,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28aq\u0101rat as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642\u0627\u0631\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aq\u0101rat as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980528
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7c65b509d0bea60271a0c863e1faba69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1293248725,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293248725,
+    "wof:lastmodified":1537716172,
+    "wof:name":"Haqarat as Sufla",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50804,
+    15.58867,
+    43.50804,
+    15.58867
+],
+  "geometry": {"coordinates":[43.50804,15.58867],"type":"Point"}
+}

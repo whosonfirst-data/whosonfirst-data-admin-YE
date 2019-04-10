@@ -1,0 +1,71 @@
+{
+  "id": 1276195391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57577,17.09849,43.57577,17.09849",
+    "geom:latitude":17.09849,
+    "geom:longitude":43.57577,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al al Filla",
+    "gn:country_code":"YE",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345218,
+    "gn:latitude":17.09849,
+    "gn:longitude":43.57577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l al Fill\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l al Fill\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345218
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"73b827bd82802a4d1a358e95cecfb90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1276195391,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276195391,
+    "wof:lastmodified":1537715554,
+    "wof:name":"Al al Filla",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57577,
+    17.09849,
+    43.57577,
+    17.09849
+],
+  "geometry": {"coordinates":[43.57577,17.09849],"type":"Point"}
+}

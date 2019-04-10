@@ -1,0 +1,71 @@
+{
+  "id": 1209783409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71667,13.7,43.71667,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":43.71667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al Haysan",
+    "gn:country_code":"YE",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79460,
+    "gn:latitude":13.7,
+    "gn:longitude":43.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28ay\u015f\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ay\u015f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79460
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e39e0917f97ed20b761e00b13dea434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1209783409,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1209783409,
+    "wof:lastmodified":1537715302,
+    "wof:name":"Al Haysan",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71667,
+    13.7,
+    43.71667,
+    13.7
+],
+  "geometry": {"coordinates":[43.71667,13.7],"type":"Point"}
+}

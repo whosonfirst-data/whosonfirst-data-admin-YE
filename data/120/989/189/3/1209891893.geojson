@@ -1,0 +1,73 @@
+{
+  "id": 1209891893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58492,13.86715,44.58492,13.86715",
+    "geom:latitude":13.86715,
+    "geom:longitude":44.58492,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"An Nubayjah",
+    "gn:country_code":"YE",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72162,
+    "gn:latitude":13.86715,
+    "gn:longitude":44.58492,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"An Nubayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nubeja",
+        "An Nubayjah",
+        "Nubayjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72162
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f92af6f69783729313ee3914596a59df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1209891893,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1209891893,
+    "wof:lastmodified":1537715110,
+    "wof:name":"An Nubayjah",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58492,
+    13.86715,
+    44.58492,
+    13.86715
+],
+  "geometry": {"coordinates":[44.58492,13.86715],"type":"Point"}
+}

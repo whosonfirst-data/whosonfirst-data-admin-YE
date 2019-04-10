@@ -1,0 +1,74 @@
+{
+  "id": 1310481867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30989,14.28041,44.30989,14.28041",
+    "geom:latitude":14.28041,
+    "geom:longitude":44.30989,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Bayt ad Du`us",
+    "gn:country_code":"YE",
+    "gn:dem":2622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408316,
+    "gn:latitude":14.28041,
+    "gn:longitude":44.30989,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bayt ad Du\u2018\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062f\u0639\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bayt ad Du\u2018\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408316
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0827585d3a7045572f86befa2762ffe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1310481867,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310481867,
+    "wof:lastmodified":1537715418,
+    "wof:name":"Bayt ad Du`us",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30989,
+    14.28041,
+    44.30989,
+    14.28041
+],
+  "geometry": {"coordinates":[44.30989,14.28041],"type":"Point"}
+}

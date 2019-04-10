@@ -1,0 +1,74 @@
+{
+  "id": 1343331435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46536,16.79039,43.46536,16.79039",
+    "geom:latitude":16.79039,
+    "geom:longitude":43.46536,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Qullat al `lnab",
+    "gn:country_code":"YE",
+    "gn:dem":2446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346410,
+    "gn:latitude":16.79039,
+    "gn:longitude":43.46536,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qullat al \u2018lnab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0639\u0646\u0628"
+    ],
+    "name:und_x_variant":[
+        "Qullat al \u2018lnab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346410
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f6ad31c5cd11075de881fc98635bb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1343331435,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343331435,
+    "wof:lastmodified":1537715591,
+    "wof:name":"Qullat al `lnab",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46536,
+    16.79039,
+    43.46536,
+    16.79039
+],
+  "geometry": {"coordinates":[43.46536,16.79039],"type":"Point"}
+}

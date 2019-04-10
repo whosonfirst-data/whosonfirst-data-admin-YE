@@ -1,0 +1,107 @@
+{
+  "id": 1091926357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00127,
+    "geom:area_square_m":15261814.524433,
+    "geom:bbox":"43.967766612,13.5621273639,44.0210414349,13.6081979201",
+    "geom:latitude":13.58241,
+    "geom:longitude":43.994539,
+    "iso:country":"YE",
+    "lbl:latitude":13.58086,
+    "lbl:longitude":43.994135,
+    "meso:admin1_en":"Taizz",
+    "meso:admin1_loc":"\u062a\u0639\u0632",
+    "meso:dissme":"TaizzAl Mudhaffar",
+    "meso:gadm_admin":"Al Mudhaffar",
+    "meso:gaul_admin":"Al Mudhaffar",
+    "meso:hasc_id":"YE.TA.MU",
+    "meso:mps_x":43.994135,
+    "meso:mps_y":13.58086,
+    "meso:name_en":"Al Mudhaffar",
+    "meso:source":"AOTM",
+    "mps:latitude":13.58086,
+    "mps:longitude":43.994135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0645\u0638\u0641\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mudhaffar"
+    ],
+    "name:eng_x_variant":[
+        "Al Mudhaffar",
+        "Al Mudhaffar District"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mudhaffar-distriktet"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0644\u0645\u0638\u0641\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0638\u0641\u0631 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Al Mudhaffar"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.TA",
+    "statoids:name":"Al Mudhaffar",
+    "statoids:population":"146259",
+    "statoids:statoid":"YE.TA.MU",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.TA.MU",
+        "wd:id":"Q4117614"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893287,
+    "wof:geomhash":"6e32ab5537163077aca57611a1a9ef14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926357,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1091926357,
+    "wof:lastmodified":1536615044,
+    "wof:name":"Al Mudhaffar",
+    "wof:parent_id":85680989,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":146259,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"MU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96776661203504,
+    13.56212736394145,
+    44.0210414348711,
+    13.60819792014484
+],
+  "geometry": {"coordinates":[[[43.99230348250974,13.60819792014484],[43.99310442390201,13.60632827600877],[43.99470630668655,13.60258898773664],[43.99710913086335,13.59698005532844],[44.00030912339712,13.59189226871487],[44.00251269519765,13.58979828230411],[44.00431924909043,13.58760928927443],[44.00789825387716,13.58447620636164],[44.01944309593166,13.57721935699103],[44.01984268066651,13.57376638815629],[44.0210414348711,13.56340748165209],[44.01683385659119,13.56308745222443],[44.00421112175146,13.56212736394145],[44.00111769188,13.56302840233112],[43.99183740226559,13.56573151750013],[43.99077278077386,13.56689378950678],[43.9886435377904,13.56921833352008],[43.9854496733152,13.57270514954003],[43.982435407921,13.57585940986119],[43.97978742203195,13.57832408543404],[43.97705835456817,13.5805186756819],[43.9747373193424,13.5818945151468],[43.97236183771797,13.58453722062075],[43.96776661203504,13.59351843173498],[43.96844391076698,13.5940946791689],[43.96979850823084,13.59524717403674],[43.97183040442665,13.5969759163385],[43.97496779245586,13.59902282241159],[43.97857969067881,13.60104282343131],[43.98173920605586,13.60263492324326],[43.98483850039476,13.60404445890644],[43.99230348250974,13.60819792014484]]],"type":"Polygon"}
+}

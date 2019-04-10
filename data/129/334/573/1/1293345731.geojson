@@ -1,0 +1,74 @@
+{
+  "id": 1293345731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16618,13.2423,44.16618,13.2423",
+    "geom:latitude":13.2423,
+    "geom:longitude":44.16618,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Maqsus",
+    "gn:country_code":"YE",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871443,
+    "gn:latitude":13.2423,
+    "gn:longitude":44.16618,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maq\u015f\u016b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0635\u0648\u0635"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u015f\u016b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871443
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aa372e7c37afb30c895338fc268cb054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1293345731,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293345731,
+    "wof:lastmodified":1537716244,
+    "wof:name":"Al Maqsus",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16618,
+    13.2423,
+    44.16618,
+    13.2423
+],
+  "geometry": {"coordinates":[44.16618,13.2423],"type":"Point"}
+}

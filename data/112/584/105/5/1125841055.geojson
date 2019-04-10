@@ -1,0 +1,85 @@
+{
+  "id": 1125841055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26397,16.77541,43.26397,16.77541",
+    "geom:latitude":16.77541,
+    "geom:longitude":43.26397,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"YE",
+    "lbl:latitude":16.77541,
+    "lbl:longitude":43.26397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u062f\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'diliyah"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7926777,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Al Ma\u2018dil\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":745118,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926777,
+        "qs_pg:id":745118,
+        "wd:id":"Q20306032"
+    },
+    "wof:country":"YE",
+    "wof:created":1497292934,
+    "wof:geomhash":"17970b7a070a6e6a665b903a858cc681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1125841055,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1125841055,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018dil\u012byah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26397,
+    16.77541,
+    43.26397,
+    16.77541
+],
+  "geometry": {"coordinates":[43.26397,16.77541],"type":"Point"}
+}

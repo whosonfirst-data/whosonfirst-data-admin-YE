@@ -1,0 +1,71 @@
+{
+  "id": 1327127033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45988,14.44849,46.45988,14.44849",
+    "geom:latitude":14.44849,
+    "geom:longitude":46.45988,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Al Jahwari",
+    "gn:country_code":"YE",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79309,
+    "gn:latitude":14.44849,
+    "gn:longitude":46.45988,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al Jahwar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jahwar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79309
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bf5a4ec8ba5243d4b8e7ab742142a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1327127033,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1327127033,
+    "wof:lastmodified":1537715296,
+    "wof:name":"Al Jahwari",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45988,
+    14.44849,
+    46.45988,
+    14.44849
+],
+  "geometry": {"coordinates":[46.45988,14.44849],"type":"Point"}
+}

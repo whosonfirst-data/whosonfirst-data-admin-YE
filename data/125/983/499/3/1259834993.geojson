@@ -1,0 +1,72 @@
+{
+  "id": 1259834993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90333,13.37194,44.90333,13.37194",
+    "geom:latitude":13.37194,
+    "geom:longitude":44.90333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Dar al Ashraf",
+    "gn:country_code":"YE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76526,
+    "gn:latitude":13.37194,
+    "gn:longitude":44.90333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Ashra",
+        "D\u0101r al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76526
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e751456ac35c4ad02030e813c62f08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924821,
+            "locality_id":1259834993,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259834993,
+    "wof:lastmodified":1537715203,
+    "wof:name":"Dar al Ashraf",
+    "wof:parent_id":1091924821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90333,
+    13.37194,
+    44.90333,
+    13.37194
+],
+  "geometry": {"coordinates":[44.90333,13.37194],"type":"Point"}
+}

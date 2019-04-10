@@ -1,0 +1,67 @@
+{
+  "id": 1310395355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16667,13.93333,43.16667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":43.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Ghanjah",
+    "gn:country_code":"YE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79713,
+    "gn:latitude":13.93333,
+    "gn:longitude":43.16667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ghanjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ghenja",
+        "El Ghanja",
+        "Ghanja",
+        "Al Ghanjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79713
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"864b7c8cd807e3269dec8a271bd386bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310395355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310395355,
+    "wof:lastmodified":1537715314,
+    "wof:name":"Al Ghanjah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16667,
+    13.93333,
+    43.16667,
+    13.93333
+],
+  "geometry": {"coordinates":[43.16667,13.93333],"type":"Point"}
+}

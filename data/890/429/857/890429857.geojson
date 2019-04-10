@@ -1,0 +1,73 @@
+{
+  "id": 890429857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03285,16.27679,43.03285,16.27679",
+    "geom:latitude":16.27679,
+    "geom:longitude":43.03285,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u062a \u0627\u0644\u0634\u0627\u0645\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khabt Ash Shami"
+    ],
+    "qs:name":"Al Khabt ash Sh\u0101m\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631723,
+        "gp:id":1958967,
+        "qs:id":694608,
+        "wd:id":"Q20304518"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051831,
+    "wof:geomhash":"27b2954929902daade7a66988b04b11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890429857,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890429857,
+    "wof:lastmodified":1514503164,
+    "wof:name":"Al Khabt ash Sh\u0101m\u012b",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03285,
+    16.27679,
+    43.03285,
+    16.27679
+],
+  "geometry": {"coordinates":[43.03285,16.27679],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293076079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78706,16.00304,43.78706,16.00304",
+    "geom:latitude":16.00304,
+    "geom:longitude":43.78706,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"Bayt al Faysh",
+    "gn:country_code":"YE",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634419,
+    "gn:latitude":16.00304,
+    "gn:longitude":43.78706,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Faysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0641\u064a\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634419
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"840f455812ac6758cf48629a00f3bdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1293076079,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293076079,
+    "wof:lastmodified":1537716078,
+    "wof:name":"Bayt al Faysh",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78706,
+    16.00304,
+    43.78706,
+    16.00304
+],
+  "geometry": {"coordinates":[43.78706,16.00304],"type":"Point"}
+}

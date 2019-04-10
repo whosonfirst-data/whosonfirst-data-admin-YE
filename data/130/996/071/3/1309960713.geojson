@@ -1,0 +1,71 @@
+{
+  "id": 1309960713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38454,13.48694,43.38454,13.48694",
+    "geom:latitude":13.48694,
+    "geom:longitude":43.38454,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Hasil Hasib",
+    "gn:country_code":"YE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329444,
+    "gn:latitude":13.48694,
+    "gn:longitude":43.38454,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28as\u012bl \u1e28a\u015f\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28as\u012bl \u1e28a\u015f\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329444
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6244112d3f07f8f2bcc1c378a6b5dbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1309960713,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309960713,
+    "wof:lastmodified":1537715434,
+    "wof:name":"Hasil Hasib",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38454,
+    13.48694,
+    43.38454,
+    13.48694
+],
+  "geometry": {"coordinates":[43.38454,13.48694],"type":"Point"}
+}

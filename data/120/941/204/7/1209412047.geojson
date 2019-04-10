@@ -1,0 +1,65 @@
+{
+  "id": 1209412047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44877,14.92883,43.44877,14.92883",
+    "geom:latitude":14.92883,
+    "geom:longitude":43.44877,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Qadr",
+    "gn:country_code":"YE",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11058181,
+    "gn:latitude":14.92883,
+    "gn:longitude":43.44877,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qadr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"852c2d7aa9af19f190b2949c22edee16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209412047
+        }
+    ],
+    "wof:id":1209412047,
+    "wof:lastmodified":1537716328,
+    "wof:name":"Al Qadr",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44877,
+    14.92883,
+    43.44877,
+    14.92883
+],
+  "geometry": {"coordinates":[43.44877,14.92883],"type":"Point"}
+}

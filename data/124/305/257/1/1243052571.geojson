@@ -1,0 +1,74 @@
+{
+  "id": 1243052571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20703,15.10513,43.20703,15.10513",
+    "geom:latitude":15.10513,
+    "geom:longitude":43.20703,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al 'Affashi",
+    "gn:country_code":"YE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036384,
+    "gn:latitude":15.10513,
+    "gn:longitude":43.20703,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al \u2018Aff\u0101sh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0639\u0641\u0627\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u2018Aff\u0101sh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036384
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"015cf87b83225741768b9b177ed4de45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1243052571,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243052571,
+    "wof:lastmodified":1537716320,
+    "wof:name":"Mahall al 'Affashi",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20703,
+    15.10513,
+    43.20703,
+    15.10513
+],
+  "geometry": {"coordinates":[43.20703,15.10513],"type":"Point"}
+}

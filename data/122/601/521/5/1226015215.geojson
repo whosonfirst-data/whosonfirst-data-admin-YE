@@ -1,0 +1,73 @@
+{
+  "id": 1226015215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55751,16.13009,44.55751,16.13009",
+    "geom:latitude":16.13009,
+    "geom:longitude":44.55751,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sam`ah",
+    "gn:country_code":"YE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9975113,
+    "gn:latitude":16.13009,
+    "gn:longitude":44.55751,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"A\u015f \u015eam\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0645\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eam\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975113
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b01b0495a2241579d9708eb48e35524c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920639,
+            "locality_id":1226015215,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226015215,
+    "wof:lastmodified":1537716120,
+    "wof:name":"As Sam`ah",
+    "wof:parent_id":1091920639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55751,
+    16.13009,
+    44.55751,
+    16.13009
+],
+  "geometry": {"coordinates":[44.55751,16.13009],"type":"Point"}
+}

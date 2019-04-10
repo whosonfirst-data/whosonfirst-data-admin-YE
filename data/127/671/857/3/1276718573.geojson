@@ -1,0 +1,68 @@
+{
+  "id": 1276718573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1585,13.61771,44.1585,13.61771",
+    "geom:latitude":13.61771,
+    "geom:longitude":44.1585,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Khurayyib",
+    "gn:country_code":"YE",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357294,
+    "gn:latitude":13.61771,
+    "gn:longitude":44.1585,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Khurayyib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357294
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f21c7b1d346dfd6ab4315304f4f5caf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1276718573,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276718573,
+    "wof:lastmodified":1536759956,
+    "wof:name":"Al Khurayyib",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1585,
+    13.61771,
+    44.1585,
+    13.61771
+],
+  "geometry": {"coordinates":[44.1585,13.61771],"type":"Point"}
+}

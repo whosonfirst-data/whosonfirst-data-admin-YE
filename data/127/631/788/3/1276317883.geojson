@@ -1,0 +1,74 @@
+{
+  "id": 1276317883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00138,15.3456,43.00138,15.3456",
+    "geom:latitude":15.3456,
+    "geom:longitude":43.00138,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall Zumah",
+    "gn:country_code":"YE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035953,
+    "gn:latitude":15.3456,
+    "gn:longitude":43.00138,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all Z\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0632\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all Z\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035953
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"de9b3cdcf2edde8fc3a3532a636b21d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1276317883,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276317883,
+    "wof:lastmodified":1537716303,
+    "wof:name":"Mahall Zumah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00138,
+    15.3456,
+    43.00138,
+    15.3456
+],
+  "geometry": {"coordinates":[43.00138,15.3456],"type":"Point"}
+}

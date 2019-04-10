@@ -1,0 +1,71 @@
+{
+  "id": 1343519893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33819,15.88132,43.33819,15.88132",
+    "geom:latitude":15.88132,
+    "geom:longitude":43.33819,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1713.0",
+    "gn:asciiname":"Al Khatwah",
+    "gn:country_code":"YE",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366079,
+    "gn:latitude":15.88132,
+    "gn:longitude":43.33819,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kha\u0163wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kha\u0163wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366079
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"398dcc47f6c6a0993233d3d32a114e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":1343519893,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343519893,
+    "wof:lastmodified":1537715946,
+    "wof:name":"Al Khatwah",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33819,
+    15.88132,
+    43.33819,
+    15.88132
+],
+  "geometry": {"coordinates":[43.33819,15.88132],"type":"Point"}
+}

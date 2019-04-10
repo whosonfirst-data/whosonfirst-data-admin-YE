@@ -1,0 +1,73 @@
+{
+  "id": 1343254565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06667,14.56667,47.06667,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":47.06667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Matrah Ahl Hadaj",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72802,
+    "gn:latitude":14.56667,
+    "gn:longitude":47.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ma\u0163ra\u1e29 Ahl \u1e28adaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matrah Hal Hadaj",
+        "Ma\u0163ra\u1e29 Ahl \u1e28adaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72802
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"02d800d64811fa4fe31ab384127381e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1343254565,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343254565,
+    "wof:lastmodified":1537715121,
+    "wof:name":"Matrah Ahl Hadaj",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06667,
+    14.56667,
+    47.06667,
+    14.56667
+],
+  "geometry": {"coordinates":[47.06667,14.56667],"type":"Point"}
+}

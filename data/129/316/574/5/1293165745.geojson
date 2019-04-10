@@ -1,0 +1,74 @@
+{
+  "id": 1293165745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80687,16.36363,43.80687,16.36363",
+    "geom:latitude":16.36363,
+    "geom:longitude":43.80687,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Mahlah",
+    "gn:country_code":"YE",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634487,
+    "gn:latitude":16.36363,
+    "gn:longitude":43.80687,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29l\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29l\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634487
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ffa2269e4753fa7d4d1aa702b0c80213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1293165745,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293165745,
+    "wof:lastmodified":1537716079,
+    "wof:name":"Mahlah",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80687,
+    16.36363,
+    43.80687,
+    16.36363
+],
+  "geometry": {"coordinates":[43.80687,16.36363],"type":"Point"}
+}

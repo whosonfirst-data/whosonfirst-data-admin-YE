@@ -1,0 +1,74 @@
+{
+  "id": 1277138719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98695,16.07255,43.98695,16.07255",
+    "geom:latitude":16.07255,
+    "geom:longitude":43.98695,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt As'ad",
+    "gn:country_code":"YE",
+    "gn:dem":2403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635228,
+    "gn:latitude":16.07255,
+    "gn:longitude":43.98695,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt As\u2018ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt As\u2018ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635228
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25a7c64c4bd36726ba06a00fe49de123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1277138719,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1277138719,
+    "wof:lastmodified":1537716098,
+    "wof:name":"Bayt As'ad",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98695,
+    16.07255,
+    43.98695,
+    16.07255
+],
+  "geometry": {"coordinates":[43.98695,16.07255],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226107163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97206,15.57703,43.97206,15.57703",
+    "geom:latitude":15.57703,
+    "geom:longitude":43.97206,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2918.0",
+    "gn:asciiname":"Bayt Sabih",
+    "gn:country_code":"YE",
+    "gn:dem":2471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344246,
+    "gn:latitude":15.57703,
+    "gn:longitude":43.97206,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt S\u0101bi\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt S\u0101bi\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344246
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b417eccdf9a5cbd28c9651ef1013e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":1226107163,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226107163,
+    "wof:lastmodified":1537715532,
+    "wof:name":"Bayt Sabih",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97206,
+    15.57703,
+    43.97206,
+    15.57703
+],
+  "geometry": {"coordinates":[43.97206,15.57703],"type":"Point"}
+}

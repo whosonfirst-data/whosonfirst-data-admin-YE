@@ -1,0 +1,77 @@
+{
+  "id": 890422203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27261,16.89399,43.27261,16.89399",
+    "geom:latitude":16.89399,
+    "geom:longitude":43.27261,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":18,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0628\u0627\u0628 \u062f\u0647\u0648\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Shaybab Dahwan"
+    ],
+    "qs:name":"Shayb\u0101b Dahw\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926950,
+        "gp:id":1958992,
+        "qs:id":745288,
+        "wd:id":"Q20308434"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051432,
+    "wof:geomhash":"44cce24f9463ba616cb556e8e9be4fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890422203,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890422203,
+    "wof:lastmodified":1534379831,
+    "wof:name":"Shayb\u0101b Dahw\u0101n",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890430141
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27261,
+    16.89399,
+    43.27261,
+    16.89399
+],
+  "geometry": {"coordinates":[43.27261,16.89399],"type":"Point"}
+}

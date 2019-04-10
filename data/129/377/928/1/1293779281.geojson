@@ -1,0 +1,74 @@
+{
+  "id": 1293779281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36161,15.18593,43.36161,15.18593",
+    "geom:latitude":15.18593,
+    "geom:longitude":43.36161,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Mahall al Halalah",
+    "gn:country_code":"YE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056643,
+    "gn:latitude":15.18593,
+    "gn:longitude":43.36161,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al \u1e28al\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u062d\u0644\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28al\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056643
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2824a5fd25782b3a59fbba0bedc5afcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1293779281,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293779281,
+    "wof:lastmodified":1537716325,
+    "wof:name":"Mahall al Halalah",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36161,
+    15.18593,
+    43.36161,
+    15.18593
+],
+  "geometry": {"coordinates":[43.36161,15.18593],"type":"Point"}
+}

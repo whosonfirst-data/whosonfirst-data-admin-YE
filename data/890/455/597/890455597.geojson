@@ -1,0 +1,76 @@
+{
+  "id": 890455597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14218,15.99929,43.14218,15.99929",
+    "geom:latitude":15.99929,
+    "geom:longitude":43.14218,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Samitah"
+    ],
+    "name:unk_x_variant":[
+        "\u0633\u0627\u0645\u0637\u0629"
+    ],
+    "qs:name":"S\u0101mi\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631415,
+        "gp:id":1958568,
+        "qs:id":694409,
+        "wd:id":"Q20306989"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052963,
+    "wof:geomhash":"c81d29a51fa855ccfae0d7a878b88851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":890455597,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890455597,
+    "wof:lastmodified":1514503371,
+    "wof:name":"S\u0101mi\u0163ah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14218,
+    15.99929,
+    43.14218,
+    15.99929
+],
+  "geometry": {"coordinates":[43.14218,15.99929],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343422825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11852,16.25103,44.11852,16.25103",
+    "geom:latitude":16.25103,
+    "geom:longitude":44.11852,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Hisn al 'Aziyah",
+    "gn:country_code":"YE",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973753,
+    "gn:latitude":16.25103,
+    "gn:longitude":44.11852,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28i\u015fn al \u2018Az\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646 \u0627\u0644\u0639\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28i\u015fn al \u2018Az\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973753
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2888b60ab147f7ed5648c049442d0eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1343422825,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343422825,
+    "wof:lastmodified":1537716105,
+    "wof:name":"Hisn al 'Aziyah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11852,
+    16.25103,
+    44.11852,
+    16.25103
+],
+  "geometry": {"coordinates":[44.11852,16.25103],"type":"Point"}
+}

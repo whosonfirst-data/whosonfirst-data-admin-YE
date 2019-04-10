@@ -1,0 +1,74 @@
+{
+  "id": 1259347735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95547,16.16848,43.95547,16.16848",
+    "geom:latitude":16.16848,
+    "geom:longitude":43.95547,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt Mati'",
+    "gn:country_code":"YE",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635146,
+    "gn:latitude":16.16848,
+    "gn:longitude":43.95547,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Ma\u0163\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0637\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ma\u0163\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635146
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"65aa507376a221dcc624ecb984f82604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1259347735,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259347735,
+    "wof:lastmodified":1537716094,
+    "wof:name":"Bayt Mati'",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95547,
+    16.16848,
+    43.95547,
+    16.16848
+],
+  "geometry": {"coordinates":[43.95547,16.16848],"type":"Point"}
+}

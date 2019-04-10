@@ -1,0 +1,76 @@
+{
+  "id": 890447063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65452,16.99088,43.65452,16.99088",
+    "geom:latitude":16.99088,
+    "geom:longitude":43.65452,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ad Dib\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0628\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Dibash"
+    ],
+    "qs:name":"Ad Dib\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753456,
+        "gp:id":1953481,
+        "qs:id":698380,
+        "wd:id":"Q20300652"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052577,
+    "wof:geomhash":"206f5de1fa668e6da7781cf53c77c194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890447063,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447063,
+    "wof:lastmodified":1514503129,
+    "wof:name":"Ad Dib\u0101sh",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65452,
+    16.99088,
+    43.65452,
+    16.99088
+],
+  "geometry": {"coordinates":[43.65452,16.99088],"type":"Point"}
+}

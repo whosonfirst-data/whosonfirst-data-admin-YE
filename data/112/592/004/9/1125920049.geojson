@@ -1,0 +1,85 @@
+{
+  "id": 1125920049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27563,16.51511,44.27563,16.51511",
+    "geom:latitude":16.51511,
+    "geom:longitude":44.27563,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":20,
+    "gn:population":20,
+    "iso:country":"YE",
+    "lbl:latitude":16.51511,
+    "lbl:longitude":44.27563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0644 \u062f\u0639\u0642\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ghayl Da'qan"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7795158,
+    "qs_pg:gn_pop":20,
+    "qs_pg:name":"Ghayl Da\u2018q\u0101n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":700924,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795158,
+        "qs_pg:id":700924,
+        "wd:id":"Q20304415"
+    },
+    "wof:country":"YE",
+    "wof:created":1497296450,
+    "wof:geomhash":"ec3074dae7dda34c1a1ee728de24797f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1125920049,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1125920049,
+    "wof:lastmodified":1514503268,
+    "wof:name":"Ghayl Da\u2018q\u0101n",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27563,
+    16.51511,
+    44.27563,
+    16.51511
+],
+  "geometry": {"coordinates":[44.27563,16.51511],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327290135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40661,16.36484,43.40661,16.36484",
+    "geom:latitude":16.36484,
+    "geom:longitude":43.40661,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Marwa",
+    "gn:country_code":"YE",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783523,
+    "gn:latitude":16.36484,
+    "gn:longitude":43.40661,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Marw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Marw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783523
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b8dfb1c8ab19ad7a622483be920e7e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1327290135,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1327290135,
+    "wof:lastmodified":1537715995,
+    "wof:name":"Al Marwa",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40661,
+    16.36484,
+    43.40661,
+    16.36484
+],
+  "geometry": {"coordinates":[43.40661,16.36484],"type":"Point"}
+}

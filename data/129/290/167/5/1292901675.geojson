@@ -1,0 +1,71 @@
+{
+  "id": 1292901675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90043,14.32205,46.90043,14.32205",
+    "geom:latitude":14.32205,
+    "geom:longitude":46.90043,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Malilah",
+    "gn:country_code":"YE",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73104,
+    "gn:latitude":14.32205,
+    "gn:longitude":46.90043,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Mal\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73104
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"174ffe41eb2c41019df790be956f41b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925997,
+            "locality_id":1292901675,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1292901675,
+    "wof:lastmodified":1537715127,
+    "wof:name":"Malilah",
+    "wof:parent_id":1091925997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90043,
+    14.32205,
+    46.90043,
+    14.32205
+],
+  "geometry": {"coordinates":[46.90043,14.32205],"type":"Point"}
+}

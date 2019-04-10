@@ -1,0 +1,74 @@
+{
+  "id": 1277045159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28045,17.17081,43.28045,17.17081",
+    "geom:latitude":17.17081,
+    "geom:longitude":43.28045,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Dathib",
+    "gn:country_code":"YE",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345822,
+    "gn:latitude":17.17081,
+    "gn:longitude":43.28045,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101thib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101thib"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u062b\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345822
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"760dc28d7b9a342af7348c65ac1472cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1277045159,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1277045159,
+    "wof:lastmodified":1537715569,
+    "wof:name":"Dathib",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28045,
+    17.17081,
+    43.28045,
+    17.17081
+],
+  "geometry": {"coordinates":[43.28045,17.17081],"type":"Point"}
+}

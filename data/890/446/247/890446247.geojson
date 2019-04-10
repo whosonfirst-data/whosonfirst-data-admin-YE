@@ -1,0 +1,73 @@
+{
+  "id": 890446247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41924,16.07468,43.41924,16.07468",
+    "geom:latitude":16.07468,
+    "geom:longitude":43.41924,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0637\u0649 \u0627\u0644\u0623\u062d\u0648\u0635"
+    ],
+    "name:eng_x_preferred":[
+        "Shati Al Ahwas"
+    ],
+    "qs:name":"Sh\u0101\u0163i\u2019 al A\u1e29wa\u015f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682256,
+        "gp:id":1958568,
+        "qs:id":697070,
+        "wd:id":"Q20308273"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052544,
+    "wof:geomhash":"08e7b5dcd78934415f1321a255861c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890446247,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446247,
+    "wof:lastmodified":1514503369,
+    "wof:name":"Sh\u0101\u0163i\u2019 al A\u1e29wa\u015f",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41924,
+    16.07468,
+    43.41924,
+    16.07468
+],
+  "geometry": {"coordinates":[43.41924,16.07468],"type":"Point"}
+}

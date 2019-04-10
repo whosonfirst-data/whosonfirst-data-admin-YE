@@ -1,0 +1,71 @@
+{
+  "id": 1310193105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09444,14.94335,44.09444,14.94335",
+    "geom:latitude":14.94335,
+    "geom:longitude":44.09444,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Mahall as Sadah",
+    "gn:country_code":"YE",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361013,
+    "gn:latitude":14.94335,
+    "gn:longitude":44.09444,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all as S\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all as S\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361013
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"31b6b793418fb0ff136a5172c05f21a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1310193105,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1310193105,
+    "wof:lastmodified":1537715810,
+    "wof:name":"Mahall as Sadah",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09444000000001,
+    14.94335,
+    44.09444000000001,
+    14.94335
+],
+  "geometry": {"coordinates":[44.09444000000001,14.94335],"type":"Point"}
+}

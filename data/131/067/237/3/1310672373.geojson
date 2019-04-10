@@ -1,0 +1,71 @@
+{
+  "id": 1310672373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23165,15.56113,44.23165,15.56113",
+    "geom:latitude":15.56113,
+    "geom:longitude":44.23165,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt al Awzari al A`la",
+    "gn:country_code":"YE",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362435,
+    "gn:latitude":15.56113,
+    "gn:longitude":44.23165,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Awzar\u012b al A\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Awzar\u012b al A\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362435
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9ae5060b84e262cc1554f6859c43540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1310672373,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310672373,
+    "wof:lastmodified":1537715844,
+    "wof:name":"Bayt al Awzari al A`la",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23165,
+    15.56113,
+    44.23165,
+    15.56113
+],
+  "geometry": {"coordinates":[44.23165,15.56113],"type":"Point"}
+}

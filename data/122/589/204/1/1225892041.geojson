@@ -1,0 +1,83 @@
+{
+  "id": 1225892041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16667,15.4,44.16667,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":44.16667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1308.0",
+    "gn:asciiname":"Rohm as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":2305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71444,
+    "gn:latitude":15.4,
+    "gn:longitude":44.16667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rohm as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahim",
+        "Ruhm es Sufl\u00e2",
+        "Rohm-Es-Sifla",
+        "Rohm as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921551,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71444,
+        "wk:page":"Rohm_As_Sufla"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"46beac4d2f72e95c6365e66d53ed9ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921551,
+            "locality_id":1225892041,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921551,
+            "locality_id":1225892041,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1225892041,
+    "wof:lastmodified":1537715096,
+    "wof:name":"Rohm as Sufla",
+    "wof:parent_id":1091921551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16667,
+    15.4,
+    44.16667,
+    15.4
+],
+  "geometry": {"coordinates":[44.16667,15.4],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343230621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76271,14.00169,43.76271,14.00169",
+    "geom:latitude":14.00169,
+    "geom:longitude":43.76271,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Ash Shajibi",
+    "gn:country_code":"YE",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358886,
+    "gn:latitude":14.00169,
+    "gn:longitude":43.76271,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Ash Shaj\u012bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062c\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shujayb\u012b",
+        "Ash Shaj\u012bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358886
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c35cba5eced6d1b31dd8ea8956d227f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1343230621,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343230621,
+    "wof:lastmodified":1537715737,
+    "wof:name":"Ash Shajibi",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76271,
+    14.00169,
+    43.76271,
+    14.00169
+],
+  "geometry": {"coordinates":[43.76271,14.00169],"type":"Point"}
+}

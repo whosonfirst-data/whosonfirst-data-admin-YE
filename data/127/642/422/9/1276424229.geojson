@@ -1,0 +1,71 @@
+{
+  "id": 1276424229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3586,15.4512,45.3586,15.4512",
+    "geom:latitude":15.4512,
+    "geom:longitude":45.3586,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2612.0",
+    "gn:asciiname":"Al Khusayf",
+    "gn:country_code":"YE",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341127,
+    "gn:latitude":15.4512,
+    "gn:longitude":45.3586,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al Khusayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0633\u064a\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8f59c1b30e0c6e83fcba55d6d2c4bc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925221,
+            "locality_id":1276424229,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276424229,
+    "wof:lastmodified":1537715472,
+    "wof:name":"Al Khusayf",
+    "wof:parent_id":1091925221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3586,
+    15.4512,
+    45.3586,
+    15.4512
+],
+  "geometry": {"coordinates":[45.3586,15.4512],"type":"Point"}
+}

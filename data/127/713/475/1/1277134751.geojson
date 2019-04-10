@@ -1,0 +1,71 @@
+{
+  "id": 1277134751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22481,13.92324,44.22481,13.92324",
+    "geom:latitude":13.92324,
+    "geom:longitude":44.22481,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Naqil",
+    "gn:country_code":"YE",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300307,
+    "gn:latitude":13.92324,
+    "gn:longitude":44.22481,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101qil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u0101qil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300307
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53fbdeaa14080b1454aed22b389ac066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1277134751,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1277134751,
+    "wof:lastmodified":1537716032,
+    "wof:name":"Naqil",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22481,
+    13.92324,
+    44.22481,
+    13.92324
+],
+  "geometry": {"coordinates":[44.22481,13.92324],"type":"Point"}
+}

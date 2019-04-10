@@ -1,0 +1,77 @@
+{
+  "id": 1326586079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24327,16.5137,43.24327,16.5137",
+    "geom:latitude":16.5137,
+    "geom:longitude":43.24327,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Mirfah",
+    "gn:country_code":"YE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346309,
+    "gn:latitude":16.5137,
+    "gn:longitude":43.24327,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mirfa\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mirf\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0641\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mirfa\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346309
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ad3c4e54b11d77075c33358758f6019b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":1326586079,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326586079,
+    "wof:lastmodified":1537715586,
+    "wof:name":"Mirfah",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24327,
+    16.5137,
+    43.24327,
+    16.5137
+],
+  "geometry": {"coordinates":[43.24327,16.5137],"type":"Point"}
+}

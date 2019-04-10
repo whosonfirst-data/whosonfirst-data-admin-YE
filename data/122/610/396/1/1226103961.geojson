@@ -1,0 +1,74 @@
+{
+  "id": 1226103961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7237,16.05364,43.7237,16.05364",
+    "geom:latitude":16.05364,
+    "geom:longitude":43.7237,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Al Mada'ir",
+    "gn:country_code":"YE",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363480,
+    "gn:latitude":16.05364,
+    "gn:longitude":43.7237,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mad\u0101\u2019ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0627\u0626\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Mad\u0101\u2019ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363480
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10fba1763a9a64a89be84f0c22318e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1226103961,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226103961,
+    "wof:lastmodified":1537715874,
+    "wof:name":"Al Mada'ir",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7237,
+    16.05364,
+    43.7237,
+    16.05364
+],
+  "geometry": {"coordinates":[43.7237,16.05364],"type":"Point"}
+}

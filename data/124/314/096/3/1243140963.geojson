@@ -1,0 +1,71 @@
+{
+  "id": 1243140963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29356,15.81814,43.29356,15.81814",
+    "geom:latitude":15.81814,
+    "geom:longitude":43.29356,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Bayt al Kharifi",
+    "gn:country_code":"YE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365823,
+    "gn:latitude":15.81814,
+    "gn:longitude":43.29356,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Kh\u0101rif\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Kh\u0101rif\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365823
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2eba11d30cf601e5159609e9d4ccf339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1243140963,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243140963,
+    "wof:lastmodified":1537715940,
+    "wof:name":"Bayt al Kharifi",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29356,
+    15.81814,
+    43.29356,
+    15.81814
+],
+  "geometry": {"coordinates":[43.29356,15.81814],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226437573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31864,15.52254,43.31864,15.52254",
+    "geom:latitude":15.52254,
+    "geom:longitude":43.31864,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Mahall al Musawwad",
+    "gn:country_code":"YE",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366625,
+    "gn:latitude":15.52254,
+    "gn:longitude":43.31864,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al Musawwad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Musawwad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366625
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d60ee7a37c9dba366a3955945ff84bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1226437573,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226437573,
+    "wof:lastmodified":1537715959,
+    "wof:name":"Mahall al Musawwad",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31864,
+    15.52254,
+    43.31864,
+    15.52254
+],
+  "geometry": {"coordinates":[43.31864,15.52254],"type":"Point"}
+}

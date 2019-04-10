@@ -1,0 +1,71 @@
+{
+  "id": 1326600365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18953,15.14726,45.18953,15.14726",
+    "geom:latitude":15.14726,
+    "geom:longitude":45.18953,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Khudayr",
+    "gn:country_code":"YE",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341267,
+    "gn:latitude":15.14726,
+    "gn:longitude":45.18953,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khu\u1e11ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khu\u1e11ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341267
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d4586c61fa67e0ed71a3876010dde21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1326600365,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1326600365,
+    "wof:lastmodified":1537715476,
+    "wof:name":"Khudayr",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18953,
+    15.14726,
+    45.18953,
+    15.14726
+],
+  "geometry": {"coordinates":[45.18953,15.14726],"type":"Point"}
+}

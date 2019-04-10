@@ -1,0 +1,71 @@
+{
+  "id": 1226817899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16264,16.30893,43.16264,16.30893",
+    "geom:latitude":16.30893,
+    "geom:longitude":43.16264,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Al Maqra'",
+    "gn:country_code":"YE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363066,
+    "gn:latitude":16.30893,
+    "gn:longitude":43.16264,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maqr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maqr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363066
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6b4e94016e4ed96356a08d4180d011c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1226817899,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226817899,
+    "wof:lastmodified":1537715862,
+    "wof:name":"Al Maqra'",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16264,
+    16.30893,
+    43.16264,
+    16.30893
+],
+  "geometry": {"coordinates":[43.16264,16.30893],"type":"Point"}
+}

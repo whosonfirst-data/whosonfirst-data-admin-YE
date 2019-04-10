@@ -1,0 +1,83 @@
+{
+  "id": 890427701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.20393,15.11057,50.20393,15.11057",
+    "geom:latitude":15.11057,
+    "geom:longitude":50.20393,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0642\u0645 \u0627\u0644\u0634\u0631\u064a\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0631\u064a\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Daqam Ash Sharif"
+    ],
+    "name:unk_x_variant":[
+        "Duqm ash Shar\u012bf"
+    ],
+    "qs:name":"Daqam ash Shar\u012bf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631892,
+        "gp:id":1959113,
+        "qs:id":700523,
+        "qs_pg:id":694731,
+        "wd:id":"Q20301747"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051711,
+    "wof:geomhash":"1c88c61d11a9b09d55c00e1b2007a1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "locality_id":890427701,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":890427701,
+    "wof:lastmodified":1514503254,
+    "wof:name":"Daqam ash Shar\u012bf",
+    "wof:parent_id":1091922781,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.20393,
+    15.11057,
+    50.20393,
+    15.11057
+],
+  "geometry": {"coordinates":[50.20393,15.11057],"type":"Point"}
+}

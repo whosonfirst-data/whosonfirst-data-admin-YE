@@ -1,0 +1,71 @@
+{
+  "id": 1293647611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35469,16.19143,43.35469,16.19143",
+    "geom:latitude":16.19143,
+    "geom:longitude":43.35469,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Bahrayn",
+    "gn:country_code":"YE",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363220,
+    "gn:latitude":16.19143,
+    "gn:longitude":43.35469,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ba\u1e29rayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ba\u1e29rayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363220
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8f0921f9329c99e306e74c006c572f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1293647611,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293647611,
+    "wof:lastmodified":1537715866,
+    "wof:name":"Al Bahrayn",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35469000000001,
+    16.19143,
+    43.35469000000001,
+    16.19143
+],
+  "geometry": {"coordinates":[43.35469000000001,16.19143],"type":"Point"}
+}

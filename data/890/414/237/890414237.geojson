@@ -1,0 +1,73 @@
+{
+  "id": 890414237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38279,16.80496,43.38279,16.80496",
+    "geom:latitude":16.80496,
+    "geom:longitude":43.38279,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0645\u0637\u064a\u0631\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mutarrar"
+    ],
+    "qs:name":"\u0100l Mu\u0163arrar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926808,
+        "gp:id":1959134,
+        "qs:id":745149,
+        "wd:id":"Q20303295"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051038,
+    "wof:geomhash":"f608f2fe53f0c1fceac244a3c52ea619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890414237,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890414237,
+    "wof:lastmodified":1514503389,
+    "wof:name":"\u0100l Mu\u0163arrar",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38279,
+    16.80496,
+    43.38279,
+    16.80496
+],
+  "geometry": {"coordinates":[43.38279,16.80496],"type":"Point"}
+}

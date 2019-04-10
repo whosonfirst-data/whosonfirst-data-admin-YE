@@ -1,0 +1,71 @@
+{
+  "id": 1242830663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67,15.81667,43.67,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":43.67,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1718.0",
+    "gn:asciiname":"Maghrabat al Harish",
+    "gn:country_code":"YE",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403269,
+    "gn:latitude":15.81667,
+    "gn:longitude":43.67,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maghrabat al Har\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maghrabat al Har\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403269
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b956aa95a5e5ec97d770d4d4ff06b3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":1242830663,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242830663,
+    "wof:lastmodified":1537715372,
+    "wof:name":"Maghrabat al Harish",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67,
+    15.81667,
+    43.67,
+    15.81667
+],
+  "geometry": {"coordinates":[43.67,15.81667],"type":"Point"}
+}

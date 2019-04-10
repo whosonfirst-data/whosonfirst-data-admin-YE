@@ -1,0 +1,77 @@
+{
+  "id": 1243171425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83153,16.47959,48.83153,16.47959",
+    "geom:latitude":16.47959,
+    "geom:longitude":48.83153,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"As Salasil",
+    "gn:country_code":"YE",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":74499,
+    "gn:latitude":16.47959,
+    "gn:longitude":48.83153,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Sal\u0101sil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0627\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u1e24u\u1e63\u016bn al-Sal\u0101sil",
+        "\u1e28u\u015f\u016bn as Sal\u0101sil",
+        "As Sal\u0101sil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74499,
+        "wk:page":"Husun_As_Salasil"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a25e66716406f5764bb1747cbc0c0223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922697,
+            "locality_id":1243171425,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243171425,
+    "wof:lastmodified":1537715155,
+    "wof:name":"As Salasil",
+    "wof:parent_id":1091922697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83153,
+    16.47959,
+    48.83153,
+    16.47959
+],
+  "geometry": {"coordinates":[48.83153,16.47959],"type":"Point"}
+}

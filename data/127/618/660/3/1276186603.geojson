@@ -1,0 +1,74 @@
+{
+  "id": 1276186603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77425,16.0742,43.77425,16.0742",
+    "geom:latitude":16.0742,
+    "geom:longitude":43.77425,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"'Ard Barash",
+    "gn:country_code":"YE",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634317,
+    "gn:latitude":16.0742,
+    "gn:longitude":43.77425,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ard Bar\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0636 \u0627\u0644\u0628\u0631\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ard Bar\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634317
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"85ad15533b97c6dcb25aa53713584df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1276186603,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276186603,
+    "wof:lastmodified":1537716075,
+    "wof:name":"'Ard Barash",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77425,
+    16.0742,
+    43.77425,
+    16.0742
+],
+  "geometry": {"coordinates":[43.77425,16.0742],"type":"Point"}
+}

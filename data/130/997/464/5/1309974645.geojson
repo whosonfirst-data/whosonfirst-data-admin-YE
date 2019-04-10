@@ -1,0 +1,74 @@
+{
+  "id": 1309974645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10639,14.01123,44.10639,14.01123",
+    "geom:latitude":14.01123,
+    "geom:longitude":44.10639,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Ash Shurnumah",
+    "gn:country_code":"YE",
+    "gn:dem":2482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359990,
+    "gn:latitude":14.01123,
+    "gn:longitude":44.10639,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Shurnumah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0646\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Sharnamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359990
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54584c8bfd4682af19a77b3caae47e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1309974645,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309974645,
+    "wof:lastmodified":1537715786,
+    "wof:name":"Ash Shurnumah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10639000000001,
+    14.01123,
+    44.10639000000001,
+    14.01123
+],
+  "geometry": {"coordinates":[44.10639000000001,14.01123],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1125790813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23095,14.60537,45.23095,14.60537",
+    "geom:latitude":14.60537,
+    "geom:longitude":45.23095,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1,
+    "gn:population":1,
+    "iso:country":"YE",
+    "lbl:latitude":14.60537,
+    "lbl:longitude":45.23095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628\u0629 \u0645\u0634\u0631\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Khirbat Mashrah"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8053482,
+    "qs_pg:gn_pop":1,
+    "qs_pg:name":"Khirbat Mashra\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":751898,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053482,
+        "qs_pg:id":751898,
+        "wd:id":"Q20299240"
+    },
+    "wof:country":"YE",
+    "wof:created":1497290857,
+    "wof:geomhash":"740581c2d0a206a5971f5630f6c628e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1125790813,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1125790813,
+    "wof:lastmodified":1514503303,
+    "wof:name":"Khirbat Mashra\u1e29",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23095,
+    14.60537,
+    45.23095,
+    14.60537
+],
+  "geometry": {"coordinates":[45.23095,14.60537],"type":"Point"}
+}

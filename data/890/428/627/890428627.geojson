@@ -1,0 +1,73 @@
+{
+  "id": 890428627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69941,16.30097,43.69941,16.30097",
+    "geom:latitude":16.30097,
+    "geom:longitude":43.69941,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":18,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0648\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar RabU'ah"
+    ],
+    "qs:name":"Ar Rab\u016b\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849465,
+        "gp:id":1953833,
+        "qs:id":741592,
+        "wd:id":"Q20301229"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051761,
+    "wof:geomhash":"a6f5d950ab4274b237c1922f89a7d4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890428627,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890428627,
+    "wof:lastmodified":1514503220,
+    "wof:name":"Ar Rab\u016b\u2018ah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69941,
+    16.30097,
+    43.69941,
+    16.30097
+],
+  "geometry": {"coordinates":[43.69941,16.30097],"type":"Point"}
+}

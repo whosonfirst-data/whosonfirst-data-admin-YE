@@ -1,0 +1,75 @@
+{
+  "id": 1243412081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07769,14.19256,44.07769,14.19256",
+    "geom:latitude":14.19256,
+    "geom:longitude":44.07769,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Al Jirah",
+    "gn:country_code":"YE",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359843,
+    "gn:latitude":14.19256,
+    "gn:longitude":44.07769,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al J\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al J\u012brah",
+        "Al J\u012bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359843
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"703e0c50f5fec38f5b50772b45fee9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1243412081,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243412081,
+    "wof:lastmodified":1537715779,
+    "wof:name":"Al Jirah",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07769,
+    14.19256,
+    44.07769,
+    14.19256
+],
+  "geometry": {"coordinates":[44.07769,14.19256],"type":"Point"}
+}

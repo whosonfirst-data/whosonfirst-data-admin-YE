@@ -1,0 +1,71 @@
+{
+  "id": 1226320991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42753,15.39797,43.42753,15.39797",
+    "geom:latitude":15.39797,
+    "geom:longitude":43.42753,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Sahman",
+    "gn:country_code":"YE",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365290,
+    "gn:latitude":15.39797,
+    "gn:longitude":43.42753,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sahm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365290
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a5c92c8bea58785857302bbd3f597b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1226320991,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226320991,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Sahman",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42753,
+    15.39797,
+    43.42753,
+    15.39797
+],
+  "geometry": {"coordinates":[43.42753,15.39797],"type":"Point"}
+}

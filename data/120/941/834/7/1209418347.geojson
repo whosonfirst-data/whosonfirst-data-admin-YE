@@ -1,0 +1,65 @@
+{
+  "id": 1209418347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12276,13.9345,46.12276,13.9345",
+    "geom:latitude":13.9345,
+    "geom:longitude":46.12276,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Hajar",
+    "gn:country_code":"YE",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408797,
+    "gn:latitude":13.9345,
+    "gn:longitude":46.12276,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408797
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb0f46bacc89a806b4a37bd64f81f0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209418347
+        }
+    ],
+    "wof:id":1209418347,
+    "wof:lastmodified":1537715420,
+    "wof:name":"Hajar",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12276,
+    13.9345,
+    46.12276,
+    13.9345
+],
+  "geometry": {"coordinates":[46.12276,13.9345],"type":"Point"}
+}

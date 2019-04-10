@@ -1,0 +1,74 @@
+{
+  "id": 1243542571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32819,14.3091,44.32819,14.3091",
+    "geom:latitude":14.3091,
+    "geom:longitude":44.32819,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"As Sari",
+    "gn:country_code":"YE",
+    "gn:dem":2699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408274,
+    "gn:latitude":14.3091,
+    "gn:longitude":44.32819,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"As S\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As S\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0627\u0631\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408274
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a16905532d2711da0c3ffac09eb559c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1243542571,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243542571,
+    "wof:lastmodified":1537715416,
+    "wof:name":"As Sari",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32819,
+    14.3091,
+    44.32819,
+    14.3091
+],
+  "geometry": {"coordinates":[44.32819,14.3091],"type":"Point"}
+}

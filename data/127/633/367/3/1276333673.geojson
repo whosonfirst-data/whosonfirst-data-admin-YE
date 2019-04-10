@@ -1,0 +1,75 @@
+{
+  "id": 1276333673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,14.8,49.35,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1917.0",
+    "gn:asciiname":"Ad Diwan",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80328,
+    "gn:latitude":14.8,
+    "gn:longitude":49.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ad D\u012bw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad D\u012bw\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Al-Diwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80328
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68caf998c755b0dccddc26513f706b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922929,
+            "locality_id":1276333673,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276333673,
+    "wof:lastmodified":1537715332,
+    "wof:name":"Ad Diwan",
+    "wof:parent_id":1091922929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    14.8,
+    49.35,
+    14.8
+],
+  "geometry": {"coordinates":[49.35,14.8],"type":"Point"}
+}

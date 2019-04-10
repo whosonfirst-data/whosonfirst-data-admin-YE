@@ -1,0 +1,73 @@
+{
+  "id": 890426199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26752,17.13898,43.26752,17.13898",
+    "geom:latitude":17.13898,
+    "geom:longitude":43.26752,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062e\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nakhlah"
+    ],
+    "qs:name":"An Nakhlah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866952,
+        "gp:id":1938607,
+        "qs:id":743125,
+        "wd:id":"Q20300778"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051622,
+    "wof:geomhash":"f046f007e831d8fd0fc0da711f16b40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890426199,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426199,
+    "wof:lastmodified":1514503218,
+    "wof:name":"An Nakhlah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26752,
+    17.13898,
+    43.26752,
+    17.13898
+],
+  "geometry": {"coordinates":[43.26752,17.13898],"type":"Point"}
+}

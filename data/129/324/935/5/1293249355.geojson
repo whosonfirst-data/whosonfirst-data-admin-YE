@@ -1,0 +1,68 @@
+{
+  "id": 1293249355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04076,13.3037,44.04076,13.3037",
+    "geom:latitude":13.3037,
+    "geom:longitude":44.04076,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Al Junid",
+    "gn:country_code":"YE",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354741,
+    "gn:latitude":13.3037,
+    "gn:longitude":44.04076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Junid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354741
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cfaf1fac18f5ad09d2cc3a277fca8fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1293249355,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293249355,
+    "wof:lastmodified":1536631895,
+    "wof:name":"Al Junid",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04076,
+    13.3037,
+    44.04076,
+    13.3037
+],
+  "geometry": {"coordinates":[44.04076,13.3037],"type":"Point"}
+}

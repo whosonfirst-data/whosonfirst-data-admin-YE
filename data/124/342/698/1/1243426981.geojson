@@ -1,0 +1,74 @@
+{
+  "id": 1243426981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25477,17.17186,43.25477,17.17186",
+    "geom:latitude":17.17186,
+    "geom:longitude":43.25477,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Hilal",
+    "gn:country_code":"YE",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356711,
+    "gn:latitude":17.17186,
+    "gn:longitude":43.25477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ilal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ilal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356711
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"60654b8aa0663f57ce529109eda6eb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1243426981,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243426981,
+    "wof:lastmodified":1537716046,
+    "wof:name":"Al Hilal",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25477,
+    17.17186,
+    43.25477,
+    17.17186
+],
+  "geometry": {"coordinates":[43.25477,17.17186],"type":"Point"}
+}

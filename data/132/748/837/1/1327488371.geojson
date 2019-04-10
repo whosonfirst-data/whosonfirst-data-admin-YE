@@ -1,0 +1,73 @@
+{
+  "id": 1327488371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,13.45,43.75,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Ahmad Rashid",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80119,
+    "gn:latitude":13.45,
+    "gn:longitude":43.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u1e29mad R\u0101shid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmed Rashid",
+        "A\u1e29mad R\u0101shid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80119
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f380440c985517f9160ea9e4a85c2e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1327488371,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327488371,
+    "wof:lastmodified":1537715328,
+    "wof:name":"Ahmad Rashid",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    13.45,
+    43.75,
+    13.45
+],
+  "geometry": {"coordinates":[43.75,13.45],"type":"Point"}
+}

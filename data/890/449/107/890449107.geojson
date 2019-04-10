@@ -1,0 +1,76 @@
+{
+  "id": 890449107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35255,17.53308,43.35255,17.53308",
+    "geom:latitude":17.53308,
+    "geom:longitude":43.35255,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u1e28i\u0163\u0101wir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0637\u0627\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hitawir"
+    ],
+    "qs:name":"Al \u1e28i\u0163\u0101wir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021616,
+        "gp:id":1939827,
+        "qs:id":750132,
+        "wd:id":"Q20301531"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052668,
+    "wof:geomhash":"a75bb589cd9a2aa11bec753d3eb07542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890449107,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890449107,
+    "wof:lastmodified":1514503206,
+    "wof:name":"Al \u1e28i\u0163\u0101wir",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35255,
+    17.53308,
+    43.35255,
+    17.53308
+],
+  "geometry": {"coordinates":[43.35255,17.53308],"type":"Point"}
+}

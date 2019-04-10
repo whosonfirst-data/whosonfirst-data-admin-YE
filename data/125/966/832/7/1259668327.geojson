@@ -1,0 +1,74 @@
+{
+  "id": 1259668327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93543,15.65166,42.93543,15.65166",
+    "geom:latitude":15.65166,
+    "geom:longitude":42.93543,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Muqrini",
+    "gn:country_code":"YE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983374,
+    "gn:latitude":15.65166,
+    "gn:longitude":42.93543,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Muqrin\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0631\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Muqrin\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983374
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"831e134cd8d51a0531c6fe996199a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1259668327,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259668327,
+    "wof:lastmodified":1537716296,
+    "wof:name":"Al Muqrini",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93543,
+    15.65166,
+    42.93543,
+    15.65166
+],
+  "geometry": {"coordinates":[42.93543,15.65166],"type":"Point"}
+}

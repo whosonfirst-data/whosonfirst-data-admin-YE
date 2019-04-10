@@ -1,0 +1,72 @@
+{
+  "id": 1309968587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76081,14.08596,44.76081,14.08596",
+    "geom:latitude":14.08596,
+    "geom:longitude":44.76081,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"Al Ja`ayfiri",
+    "gn:country_code":"YE",
+    "gn:dem":2144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340197,
+    "gn:latitude":14.08596,
+    "gn:longitude":44.76081,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Al Ja\u2018ayfir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ja\u2018ayfir\u012b",
+        "Al Ju\u2018ayfir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340197
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43bc2ad117231af3e06eb1c05adc33f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":1309968587,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1309968587,
+    "wof:lastmodified":1537715442,
+    "wof:name":"Al Ja`ayfiri",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76081,
+    14.08596,
+    44.76081,
+    14.08596
+],
+  "geometry": {"coordinates":[44.76081,14.08596],"type":"Point"}
+}

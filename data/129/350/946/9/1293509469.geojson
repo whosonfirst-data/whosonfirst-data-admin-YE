@@ -1,0 +1,75 @@
+{
+  "id": 1293509469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03222,15.20963,43.03222,15.20963",
+    "geom:latitude":15.20963,
+    "geom:longitude":43.03222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Al Makin",
+    "gn:country_code":"YE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365048,
+    "gn:latitude":15.20963,
+    "gn:longitude":43.03222,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Mak\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Mak\u012bn",
+        "Al Mak\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365048
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f55333773c4c685ab3c213dd863fd56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1293509469,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293509469,
+    "wof:lastmodified":1537715916,
+    "wof:name":"Al Makin",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03222,
+    15.20963,
+    43.03222,
+    15.20963
+],
+  "geometry": {"coordinates":[43.03222,15.20963],"type":"Point"}
+}

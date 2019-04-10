@@ -1,0 +1,74 @@
+{
+  "id": 1293260817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42991,14.10091,44.42991,14.10091",
+    "geom:latitude":14.10091,
+    "geom:longitude":44.42991,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Al Maqalih",
+    "gn:country_code":"YE",
+    "gn:dem":2315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359495,
+    "gn:latitude":14.10091,
+    "gn:longitude":44.42991,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Maq\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359495
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"218e48d2c46580444a2385888b824252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1293260817,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293260817,
+    "wof:lastmodified":1537715764,
+    "wof:name":"Al Maqalih",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42991,
+    14.10091,
+    44.42991,
+    14.10091
+],
+  "geometry": {"coordinates":[44.42991,14.10091],"type":"Point"}
+}

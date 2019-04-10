@@ -1,0 +1,71 @@
+{
+  "id": 1276681579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01167,16.07056,49.01167,16.07056",
+    "geom:latitude":16.07056,
+    "geom:longitude":49.01167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Dammun",
+    "gn:country_code":"YE",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76564,
+    "gn:latitude":16.07056,
+    "gn:longitude":49.01167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Damm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damm\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76564
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc96bcf3af70b8843078ec2373d3db2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1276681579,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276681579,
+    "wof:lastmodified":1537715205,
+    "wof:name":"Dammun",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01167,
+    16.07056,
+    49.01167,
+    16.07056
+],
+  "geometry": {"coordinates":[49.01167,16.07056],"type":"Point"}
+}

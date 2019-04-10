@@ -1,0 +1,71 @@
+{
+  "id": 1310371895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61375,14.78791,43.61375,14.78791",
+    "geom:latitude":14.78791,
+    "geom:longitude":43.61375,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3101.0",
+    "gn:asciiname":"Mahall al Karimi",
+    "gn:country_code":"YE",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360359,
+    "gn:latitude":14.78791,
+    "gn:longitude":43.61375,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al Kar\u012bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Kar\u012bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360359
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"293a4a2f950f02e040de61d38f083a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":1310371895,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1310371895,
+    "wof:lastmodified":1537715798,
+    "wof:name":"Mahall al Karimi",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61375,
+    14.78791,
+    43.61375,
+    14.78791
+],
+  "geometry": {"coordinates":[43.61375,14.78791],"type":"Point"}
+}

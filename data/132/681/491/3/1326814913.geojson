@@ -1,0 +1,71 @@
+{
+  "id": 1326814913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32554,14.89474,43.32554,14.89474",
+    "geom:latitude":14.89474,
+    "geom:longitude":43.32554,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Al Kadid",
+    "gn:country_code":"YE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340756,
+    "gn:latitude":14.89474,
+    "gn:longitude":43.32554,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Kad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340756
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"242d213849bb2cf908c5f0a281b7e327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1326814913,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1326814913,
+    "wof:lastmodified":1537715458,
+    "wof:name":"Al Kadid",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32554,
+    14.89474,
+    43.32554,
+    14.89474
+],
+  "geometry": {"coordinates":[43.32554,14.89474],"type":"Point"}
+}

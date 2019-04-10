@@ -1,0 +1,73 @@
+{
+  "id": 1242932385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,14.5,44.86667,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Mila",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72674,
+    "gn:latitude":14.5,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala\u1e29",
+        "Mila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72674
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"337aa152ec648e7dfcbeab4f8c942dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1242932385,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1242932385,
+    "wof:lastmodified":1537715118,
+    "wof:name":"Mila",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    14.5,
+    44.86667,
+    14.5
+],
+  "geometry": {"coordinates":[44.86667,14.5],"type":"Point"}
+}

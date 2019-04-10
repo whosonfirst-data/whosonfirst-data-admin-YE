@@ -1,0 +1,71 @@
+{
+  "id": 1276435627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54499,15.33935,43.54499,15.33935",
+    "geom:latitude":15.33935,
+    "geom:longitude":43.54499,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Al Ishraf",
+    "gn:country_code":"YE",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300408,
+    "gn:latitude":15.33935,
+    "gn:longitude":43.54499,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ishr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ishr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300408
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7849bae0cf979b8c99d9b3e0b3db78b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1276435627,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276435627,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Al Ishraf",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54499000000001,
+    15.33935,
+    43.54499000000001,
+    15.33935
+],
+  "geometry": {"coordinates":[43.54499000000001,15.33935],"type":"Point"}
+}

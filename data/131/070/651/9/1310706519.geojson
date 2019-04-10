@@ -1,0 +1,71 @@
+{
+  "id": 1310706519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.44107,14.296,46.44107,14.296",
+    "geom:latitude":14.296,
+    "geom:longitude":46.44107,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Am Suyiq",
+    "gn:country_code":"YE",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77738,
+    "gn:latitude":14.296,
+    "gn:longitude":46.44107,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Suyiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Suyiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77738
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8225fb070deb839fcac3ce59d7a6188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926111,
+            "locality_id":1310706519,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310706519,
+    "wof:lastmodified":1537715232,
+    "wof:name":"Am Suyiq",
+    "wof:parent_id":1091926111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.44107,
+    14.296,
+    46.44107,
+    14.296
+],
+  "geometry": {"coordinates":[46.44107,14.296],"type":"Point"}
+}

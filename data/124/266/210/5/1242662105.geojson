@@ -1,0 +1,74 @@
+{
+  "id": 1242662105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28353,15.22499,43.28353,15.22499",
+    "geom:latitude":15.22499,
+    "geom:longitude":43.28353,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Al Kuwayrah al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036177,
+    "gn:latitude":15.22499,
+    "gn:longitude":43.28353,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kuwayrah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u064a\u0631\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Kuwayrah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036177
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8dfbb72c2a00ea92d0f23c887aa64b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1242662105,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242662105,
+    "wof:lastmodified":1537716312,
+    "wof:name":"Al Kuwayrah al 'Ulya",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28353,
+    15.22499,
+    43.28353,
+    15.22499
+],
+  "geometry": {"coordinates":[43.28353,15.22499],"type":"Point"}
+}

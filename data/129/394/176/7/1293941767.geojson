@@ -1,0 +1,74 @@
+{
+  "id": 1293941767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48939,16.03113,43.48939,16.03113",
+    "geom:latitude":16.03113,
+    "geom:longitude":43.48939,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Bani Jabir",
+    "gn:country_code":"YE",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681941,
+    "gn:latitude":16.03113,
+    "gn:longitude":43.48939,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u062d\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b J\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681941
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"57d9dafb4088ad95a4056d958320d11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1293941767,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293941767,
+    "wof:lastmodified":1537715985,
+    "wof:name":"Bani Jabir",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48939,
+    16.03112999999999,
+    43.48939,
+    16.03112999999999
+],
+  "geometry": {"coordinates":[43.48939,16.03112999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226817343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3,13.81667,45.3,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":45.3,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Sabt Dhi Nakhib",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71343,
+    "gn:latitude":13.81667,
+    "gn:longitude":45.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sabt Dh\u012b N\u0101khib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabi Dh\u012b N\u0101khib",
+        "Sabt Dh\u012b N\u0101khib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71343
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d2230e342e9e1c1c574097bbecad2951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924979,
+            "locality_id":1226817343,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226817343,
+    "wof:lastmodified":1537715094,
+    "wof:name":"Sabt Dhi Nakhib",
+    "wof:parent_id":1091924979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3,
+    13.81667,
+    45.3,
+    13.81667
+],
+  "geometry": {"coordinates":[45.3,13.81667],"type":"Point"}
+}

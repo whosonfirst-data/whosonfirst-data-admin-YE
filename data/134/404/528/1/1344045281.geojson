@@ -1,0 +1,71 @@
+{
+  "id": 1344045281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9725,14.70383,43.9725,14.70383",
+    "geom:latitude":14.70383,
+    "geom:longitude":43.9725,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Qurran",
+    "gn:country_code":"YE",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360560,
+    "gn:latitude":14.70383,
+    "gn:longitude":43.9725,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qurr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qurr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360560
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cf486611133d90fe6d7e49729d140f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":1344045281,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1344045281,
+    "wof:lastmodified":1537715801,
+    "wof:name":"Qurran",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9725,
+    14.70383,
+    43.9725,
+    14.70383
+],
+  "geometry": {"coordinates":[43.9725,14.70383],"type":"Point"}
+}

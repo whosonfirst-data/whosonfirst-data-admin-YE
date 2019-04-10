@@ -1,0 +1,68 @@
+{
+  "id": 1310460001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16079,14.33215,44.16079,14.33215",
+    "geom:latitude":14.33215,
+    "geom:longitude":44.16079,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Ar Rakab",
+    "gn:country_code":"YE",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408193,
+    "gn:latitude":14.33215,
+    "gn:longitude":44.16079,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rakab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408193
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21a74394ba27c09504aebe775a18fe0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1310460001,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310460001,
+    "wof:lastmodified":1536981995,
+    "wof:name":"Ar Rakab",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16079000000001,
+    14.33215,
+    44.16079000000001,
+    14.33215
+],
+  "geometry": {"coordinates":[44.16079000000001,14.33215],"type":"Point"}
+}

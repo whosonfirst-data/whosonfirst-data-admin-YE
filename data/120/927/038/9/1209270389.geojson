@@ -1,0 +1,62 @@
+{
+  "id": 1209270389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18333,13.86667,44.18333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":44.18333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Bisherak",
+    "gn:country_code":"YE",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76762,
+    "gn:latitude":13.86667,
+    "gn:longitude":44.18333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bisherak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76762
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b9819fa4b928a9c487059966b6c83708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209270389
+        }
+    ],
+    "wof:id":1209270389,
+    "wof:lastmodified":1536292379,
+    "wof:name":"Bisherak",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18333,
+    13.86667,
+    44.18333,
+    13.86667
+],
+  "geometry": {"coordinates":[44.18333,13.86667],"type":"Point"}
+}

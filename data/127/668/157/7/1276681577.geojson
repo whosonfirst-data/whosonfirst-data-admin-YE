@@ -1,0 +1,71 @@
+{
+  "id": 1276681577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01667,15.01667,48.01667,15.01667",
+    "geom:latitude":15.01667,
+    "geom:longitude":48.01667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1922.0",
+    "gn:asciiname":"Al Mikrab",
+    "gn:country_code":"YE",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78815,
+    "gn:latitude":15.01667,
+    "gn:longitude":48.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mikr\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mikr\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78815
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c026e8e67257fe541e875d5618375b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922585,
+            "locality_id":1276681577,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276681577,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Mikrab",
+    "wof:parent_id":1091922585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01667,
+    15.01667,
+    48.01667,
+    15.01667
+],
+  "geometry": {"coordinates":[48.01667,15.01667],"type":"Point"}
+}

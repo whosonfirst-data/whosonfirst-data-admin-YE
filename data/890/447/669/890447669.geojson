@@ -1,0 +1,73 @@
+{
+  "id": 890447669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40198,16.25309,43.40198,16.25309",
+    "geom:latitude":16.25309,
+    "geom:longitude":43.40198,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642 \u0627\u0644\u0645\u0633\u0627\u0644\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Haqq Al Misallaq"
+    ],
+    "qs:name":"\u1e28aqq al Mis\u0101llaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756437,
+        "gp:id":1953570,
+        "qs:id":698935,
+        "wd:id":"Q20305118"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052601,
+    "wof:geomhash":"b88d20f0b53605c8101e01a76014e9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447669,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447669,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28aqq al Mis\u0101llaq",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40198,
+    16.25309,
+    43.40198,
+    16.25309
+],
+  "geometry": {"coordinates":[43.40198,16.25309],"type":"Point"}
+}

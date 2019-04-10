@@ -1,0 +1,74 @@
+{
+  "id": 1344231049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8777,16.97039,44.8777,16.97039",
+    "geom:latitude":16.97039,
+    "geom:longitude":44.8777,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Khalif al Kukhakh",
+    "gn:country_code":"YE",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7687026,
+    "gn:latitude":16.97039,
+    "gn:longitude":44.8777,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khal\u012bf al Kukh\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u0641 \u0627\u0644\u0643\u062e\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012bf al Kukh\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687026
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f0500540e3da25cab119a03409bf714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1344231049,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1344231049,
+    "wof:lastmodified":1537715991,
+    "wof:name":"Khalif al Kukhakh",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8777,
+    16.97039,
+    44.8777,
+    16.97039
+],
+  "geometry": {"coordinates":[44.8777,16.97039],"type":"Point"}
+}

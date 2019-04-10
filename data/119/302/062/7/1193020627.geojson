@@ -1,0 +1,68 @@
+{
+  "id": 1193020627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4706,15.23937,47.4706,15.23937",
+    "geom:latitude":15.23937,
+    "geom:longitude":47.4706,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Rashshah",
+    "gn:country_code":"YE",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71585,
+    "gn:latitude":15.23937,
+    "gn:longitude":47.4706,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Rashshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71585
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1cbc4b08b0ba1b61d2f8b26d78d7b109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925929,
+            "locality_id":1193020627,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1193020627,
+    "wof:lastmodified":1536373638,
+    "wof:name":"Rashshah",
+    "wof:parent_id":1091925929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4706,
+    15.23937,
+    47.4706,
+    15.23937
+],
+  "geometry": {"coordinates":[47.4706,15.23937],"type":"Point"}
+}

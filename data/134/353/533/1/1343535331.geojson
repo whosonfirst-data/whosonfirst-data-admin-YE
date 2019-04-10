@@ -1,0 +1,71 @@
+{
+  "id": 1343535331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47613,16.3543,44.47613,16.3543",
+    "geom:latitude":16.3543,
+    "geom:longitude":44.47613,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1604.0",
+    "gn:asciiname":"Al Qaybah",
+    "gn:country_code":"YE",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362503,
+    "gn:latitude":16.3543,
+    "gn:longitude":44.47613,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Al Qaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362503
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"001c3d24ed7d6131e42ee7a734018a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920719,
+            "locality_id":1343535331,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1343535331,
+    "wof:lastmodified":1537715846,
+    "wof:name":"Al Qaybah",
+    "wof:parent_id":1091920719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47613,
+    16.3543,
+    44.47613,
+    16.3543
+],
+  "geometry": {"coordinates":[44.47613,16.3543],"type":"Point"}
+}

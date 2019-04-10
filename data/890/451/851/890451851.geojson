@@ -1,0 +1,82 @@
+{
+  "id": 890451851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4013,16.1596,43.4013,16.1596",
+    "geom:latitude":16.1596,
+    "geom:longitude":43.4013,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u062f\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u062f\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Ghad\u012br"
+    ],
+    "qs:name":"Al Ghad\u012br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":765,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854878,
+        "gp:id":1953570,
+        "qs:id":696430,
+        "qs_pg:id":741822,
+        "wd:id":"Q4702416",
+        "wk:page":"Al-Ghadir"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052796,
+    "wof:geomhash":"232131a6b50810e5858178c24f7b1f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890451851,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890451851,
+    "wof:lastmodified":1527792937,
+    "wof:name":"Al Ghad\u012br",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4013,
+    16.1596,
+    43.4013,
+    16.1596
+],
+  "geometry": {"coordinates":[43.4013,16.1596],"type":"Point"}
+}

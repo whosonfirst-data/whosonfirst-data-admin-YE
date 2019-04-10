@@ -1,0 +1,71 @@
+{
+  "id": 1310666347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79252,13.87594,44.79252,13.87594",
+    "geom:latitude":13.87594,
+    "geom:longitude":44.79252,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Dar Mahdah",
+    "gn:country_code":"YE",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363811,
+    "gn:latitude":13.87594,
+    "gn:longitude":44.79252,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r Mahdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r Mahdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363811
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d5cc9508c4d8c563f44c94c56a817a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1310666347,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1310666347,
+    "wof:lastmodified":1537715880,
+    "wof:name":"Dar Mahdah",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79252,
+    13.87594,
+    44.79252,
+    13.87594
+],
+  "geometry": {"coordinates":[44.79252,13.87594],"type":"Point"}
+}

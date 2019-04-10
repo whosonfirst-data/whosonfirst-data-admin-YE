@@ -1,0 +1,73 @@
+{
+  "id": 890455165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81004,13.38305,43.81004,13.38305",
+    "geom:latitude":13.38305,
+    "geom:longitude":43.81004,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062d \u0627\u0644\u0639\u062f\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Barh Al 'Adnah"
+    ],
+    "qs:name":"Bar\u1e29 al \u2018Adnah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075758,
+        "gp:id":1957662,
+        "qs:id":754340,
+        "wd:id":"Q20299297"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052936,
+    "wof:geomhash":"cba39b293696fcf49880c9b8627f2894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890455165,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890455165,
+    "wof:lastmodified":1514503245,
+    "wof:name":"Bar\u1e29 al \u2018Adnah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81004,
+    13.38305,
+    43.81004,
+    13.38305
+],
+  "geometry": {"coordinates":[43.81004,13.38305],"type":"Point"}
+}

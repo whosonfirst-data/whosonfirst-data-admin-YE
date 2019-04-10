@@ -1,0 +1,71 @@
+{
+  "id": 1259470943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46205,14.76027,44.46205,14.76027",
+    "geom:latitude":14.76027,
+    "geom:longitude":44.46205,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Majil",
+    "gn:country_code":"YE",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361087,
+    "gn:latitude":14.76027,
+    "gn:longitude":44.46205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al M\u0101jil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u0101jil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361087
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8072dc74e3b374c54527a7cd1ef46665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1259470943,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259470943,
+    "wof:lastmodified":1537715811,
+    "wof:name":"Al Majil",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46205,
+    14.76027,
+    44.46205,
+    14.76027
+],
+  "geometry": {"coordinates":[44.46205,14.76027],"type":"Point"}
+}

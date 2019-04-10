@@ -1,0 +1,85 @@
+{
+  "id": 1125918361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27892,16.9802,43.27892,16.9802",
+    "geom:latitude":16.9802,
+    "geom:longitude":43.27892,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5,
+    "gn:population":5,
+    "iso:country":"YE",
+    "lbl:latitude":16.9802,
+    "lbl:longitude":43.27892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0643\u064a\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bakili"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7900527,
+    "qs_pg:gn_pop":5,
+    "qs_pg:name":"Al Bak\u012bl\u012b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":744294,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900527,
+        "qs_pg:id":744294,
+        "wd:id":"Q20304362"
+    },
+    "wof:country":"YE",
+    "wof:created":1497296396,
+    "wof:geomhash":"ccb712b38103b18a8d740606a0372d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1125918361,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1125918361,
+    "wof:lastmodified":1514503135,
+    "wof:name":"Al Bak\u012bl\u012b",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27892,
+    16.9802,
+    43.27892,
+    16.9802
+],
+  "geometry": {"coordinates":[43.27892,16.9802],"type":"Point"}
+}

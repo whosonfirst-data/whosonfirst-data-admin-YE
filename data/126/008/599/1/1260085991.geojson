@@ -1,0 +1,73 @@
+{
+  "id": 1260085991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,15.06667,48.3,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Ghayl Ba Hukum",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75619,
+    "gn:latitude":15.06667,
+    "gn:longitude":48.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghayl B\u0101 \u1e28uk\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghail B\u0101 \u1e24uk\u016bm",
+        "Ghayl B\u0101 \u1e28uk\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75619
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"677400692699b4e9304bdb827567702b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1260085991,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1260085991,
+    "wof:lastmodified":1537715180,
+    "wof:name":"Ghayl Ba Hukum",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    15.06667,
+    48.3,
+    15.06667
+],
+  "geometry": {"coordinates":[48.3,15.06667],"type":"Point"}
+}

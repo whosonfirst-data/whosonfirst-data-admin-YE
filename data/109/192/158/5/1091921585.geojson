@@ -1,0 +1,114 @@
+{
+  "id": 1091921585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001305,
+    "geom:area_square_m":15557865.300485,
+    "geom:bbox":"44.2060571963,15.3596542551,44.2420924282,15.4108688593",
+    "geom:latitude":15.383176,
+    "geom:longitude":44.223573,
+    "iso:country":"YE",
+    "lbl:latitude":15.38217,
+    "lbl:longitude":44.225032,
+    "meso:admin1_en":"Amanat Al Asimah",
+    "meso:admin1_loc":"\u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+    "meso:dissme":"Amanat Al AsimahShu'aub",
+    "meso:gadm_admin":"Shu'aub",
+    "meso:gaul_admin":"Shu'aub",
+    "meso:hasc_id":"YE.SA.SH",
+    "meso:mps_x":44.225032,
+    "meso:mps_y":15.38217,
+    "meso:name_en":"Shu'aub",
+    "meso:source":"AOTM",
+    "mps:latitude":15.38217,
+    "mps:longitude":44.225032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0634\u0639\u0648\u0628"
+    ],
+    "name:arm_x_preferred":[
+        "\u0547\u0578\u0582\u0578\u0582\u0562 \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:eng_x_preferred":[
+        "Shu'aub"
+    ],
+    "name:eng_x_variant":[
+        "Shu'aub",
+        "Shu'aub District"
+    ],
+    "name:nno_x_preferred":[
+        "Shu'aub-distriktet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0639\u0648\u0628 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Shu'aub"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.SA",
+    "statoids:name":"Shu'aub",
+    "statoids:population":"213939",
+    "statoids:statoid":"YE.SA.SH",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.SA.SH",
+        "wd:id":"Q4117252"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893054,
+    "wof:geomhash":"3595c06a9a6e4c10886a5135f973c7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921585,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921585,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1091921585,
+    "wof:lastmodified":1536615035,
+    "wof:name":"Shu'aub",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":213939,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"SH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20605719632054,
+    15.35965425508201,
+    44.24209242819753,
+    15.41086885928157
+],
+  "geometry": {"coordinates":[[[44.21716110433636,15.41086885928157],[44.22554363935559,15.40743024908401],[44.22889665336329,15.40605480500499],[44.23057316036714,15.40536708296548],[44.23132632484374,15.40407688095796],[44.23283265379692,15.40149647694291],[44.2350921472267,15.39762587092033],[44.23750051144872,15.39336105552018],[44.23961514407287,15.38853434871258],[44.24076375513528,15.38394673575035],[44.24069862245391,15.381252127316],[44.24104621409847,15.37805129851764],[44.24209242819753,15.37244297439856],[44.24161648926876,15.36257237636651],[44.23185697799465,15.36606117275114],[44.22609596133382,15.36547961147902],[44.22259916832107,15.36369625049365],[44.22026797297923,15.36250734317007],[44.21910237530832,15.36191288950828],[44.20605719632054,15.35965425508201],[44.20769300802981,15.37380352745703],[44.2084486549756,15.38064482656644],[44.2092243274875,15.38585851340882],[44.20994145607399,15.38961024391435],[44.21060906553338,15.39244859999951],[44.21053517655947,15.39566425519062],[44.21050343305203,15.39981429089928],[44.21235623875562,15.40406004642549],[44.21475867154599,15.40746445285353],[44.21636029340624,15.40973405713889],[44.21716110433636,15.41086885928157]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890426945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03028,14.99005,45.03028,14.99005",
+    "geom:latitude":14.99005,
+    "geom:longitude":45.03028,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al L\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0644\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Lal"
+    ],
+    "qs:name":"Al L\u0101l",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053393,
+        "gp:id":1959131,
+        "qs:id":751811,
+        "wd:id":"Q20305883"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051661,
+    "wof:geomhash":"434b9c25d2074c04671cf69de8b5cf48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":890426945,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426945,
+    "wof:lastmodified":1514503167,
+    "wof:name":"Al L\u0101l",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03028,
+    14.99005,
+    45.03028,
+    14.99005
+],
+  "geometry": {"coordinates":[45.03028,14.99005],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259688629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.34216,14.36522,47.34216,14.36522",
+    "geom:latitude":14.36522,
+    "geom:longitude":47.34216,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Al Hasusah",
+    "gn:country_code":"YE",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79503,
+    "gn:latitude":14.36522,
+    "gn:longitude":47.34216,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al \u1e28as\u016bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28as\u016bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79503
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb73ffc58775fe93b24dc180e30e4651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1259688629,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1259688629,
+    "wof:lastmodified":1537715305,
+    "wof:name":"Al Hasusah",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.34216,
+    14.36522,
+    47.34216,
+    14.36522
+],
+  "geometry": {"coordinates":[47.34216,14.36522],"type":"Point"}
+}

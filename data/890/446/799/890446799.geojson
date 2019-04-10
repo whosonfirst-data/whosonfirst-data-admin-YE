@@ -1,0 +1,68 @@
+{
+  "id": 890446799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6724,16.75293,43.6724,16.75293",
+    "geom:latitude":16.75293,
+    "geom:longitude":43.6724,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648 \u0633\u0644\u0645\u0629"
+    ],
+    "qs:name":"Dh\u016b Salimah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680955,
+        85632499,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685994,
+        "qs:id":697645
+    },
+    "wof:country":"YE",
+    "wof:created":1469052567,
+    "wof:geomhash":"f92999bd9db7b0170b411e42a1cb52e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "neighbourhood_id":890446799,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446799,
+    "wof:lastmodified":1505343613,
+    "wof:name":"Dh\u016b Salimah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6724,
+    16.75293,
+    43.6724,
+    16.75293
+],
+  "geometry": {"coordinates":[43.6724,16.75293],"type":"Point"}
+}

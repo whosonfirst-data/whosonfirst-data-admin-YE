@@ -1,0 +1,68 @@
+{
+  "id": 1209089741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74908,15.7922,44.74908,15.7922",
+    "geom:latitude":15.7922,
+    "geom:longitude":44.74908,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Al Bush",
+    "gn:country_code":"YE",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976074,
+    "gn:latitude":15.7922,
+    "gn:longitude":44.74908,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al B\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Al B\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976074
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"56bae718e119b89c2a6f9121ddf6ae2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209089741
+        }
+    ],
+    "wof:id":1209089741,
+    "wof:lastmodified":1537716142,
+    "wof:name":"Al Bush",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74908,
+    15.7922,
+    44.74908,
+    15.7922
+],
+  "geometry": {"coordinates":[44.74908,15.7922],"type":"Point"}
+}

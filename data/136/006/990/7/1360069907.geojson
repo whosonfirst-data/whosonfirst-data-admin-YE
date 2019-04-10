@@ -1,0 +1,74 @@
+{
+  "id": 1360069907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46786,14.89777,43.46786,14.89777",
+    "geom:latitude":14.89777,
+    "geom:longitude":43.46786,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"An Naq'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058665,
+    "gn:latitude":14.89777,
+    "gn:longitude":43.46786,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Naq\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "An Naq\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058665
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f7e8a10a2b735f74db038cf711cc3bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1360069907,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360069907,
+    "wof:lastmodified":1537716348,
+    "wof:name":"An Naq'ah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46786,
+    14.89777,
+    43.46786,
+    14.89777
+],
+  "geometry": {"coordinates":[43.46786,14.89777],"type":"Point"}
+}

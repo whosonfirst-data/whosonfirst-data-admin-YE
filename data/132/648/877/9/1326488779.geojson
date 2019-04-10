@@ -1,0 +1,74 @@
+{
+  "id": 1326488779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50856,15.59779,43.50856,15.59779",
+    "geom:latitude":15.59779,
+    "geom:longitude":43.50856,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Al Matriqah",
+    "gn:country_code":"YE",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980526,
+    "gn:latitude":15.59779,
+    "gn:longitude":43.50856,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u0163r\u012bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0631\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u0163r\u012bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980526
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f6bf0a3b7263d6709522605dbdc32cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1326488779,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326488779,
+    "wof:lastmodified":1537716172,
+    "wof:name":"Al Matriqah",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50856,
+    15.59779,
+    43.50856,
+    15.59779
+],
+  "geometry": {"coordinates":[43.50856,15.59779],"type":"Point"}
+}

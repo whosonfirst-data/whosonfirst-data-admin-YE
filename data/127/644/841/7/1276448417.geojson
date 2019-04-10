@@ -1,0 +1,74 @@
+{
+  "id": 1276448417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.00333,15.89139,49.00333,15.89139",
+    "geom:latitude":15.89139,
+    "geom:longitude":49.00333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Rudayh",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71425,
+    "gn:latitude":15.89139,
+    "gn:longitude":49.00333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ru\u1e11ay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudaih",
+        "Ru\u1e11ay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71425,
+        "wk:page":"Rudayh"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"afd999cf2f539971f0284fda3c785c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1276448417,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276448417,
+    "wof:lastmodified":1537715095,
+    "wof:name":"Rudayh",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.00333,
+    15.89139,
+    49.00333,
+    15.89139
+],
+  "geometry": {"coordinates":[49.00333,15.89139],"type":"Point"}
+}

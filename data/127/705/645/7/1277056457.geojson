@@ -1,0 +1,71 @@
+{
+  "id": 1277056457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02772,14.49851,44.02772,14.49851",
+    "geom:latitude":14.49851,
+    "geom:longitude":44.02772,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Az Zilah",
+    "gn:country_code":"YE",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408109,
+    "gn:latitude":14.49851,
+    "gn:longitude":44.02772,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Z\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Z\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408109
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4660a537e89aaabc12a6b5b483a4db07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1277056457,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1277056457,
+    "wof:lastmodified":1537715411,
+    "wof:name":"Az Zilah",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02772,
+    14.49851,
+    44.02772,
+    14.49851
+],
+  "geometry": {"coordinates":[44.02772,14.49851],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310596957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21088,15.17008,43.21088,15.17008",
+    "geom:latitude":15.17008,
+    "geom:longitude":43.21088,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Az Zawabirah",
+    "gn:country_code":"YE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365340,
+    "gn:latitude":15.17008,
+    "gn:longitude":43.21088,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Az Zaw\u0101birah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Man\u0101wis\u012byah",
+        "Az Zaw\u0101birah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365340
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c0327cba7ff4f549c3bde72b7a222c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1310596957,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310596957,
+    "wof:lastmodified":1537715926,
+    "wof:name":"Az Zawabirah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21088,
+    15.17008,
+    43.21088,
+    15.17008
+],
+  "geometry": {"coordinates":[43.21088,15.17008],"type":"Point"}
+}

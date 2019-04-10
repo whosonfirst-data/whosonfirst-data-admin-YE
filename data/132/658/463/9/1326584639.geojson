@@ -1,0 +1,72 @@
+{
+  "id": 1326584639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72807,13.58635,43.72807,13.58635",
+    "geom:latitude":13.58635,
+    "geom:longitude":43.72807,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al Maharaqah",
+    "gn:country_code":"YE",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356311,
+    "gn:latitude":13.58635,
+    "gn:longitude":43.72807,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al Ma\u1e29araqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29araqah",
+        "Al Mu\u1e29raqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356311
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7b9ec6ebf341dd50f1cb4355bff9874c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1326584639,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326584639,
+    "wof:lastmodified":1537715672,
+    "wof:name":"Al Maharaqah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72807,
+    13.58635,
+    43.72807,
+    13.58635
+],
+  "geometry": {"coordinates":[43.72807,13.58635],"type":"Point"}
+}

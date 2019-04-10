@@ -1,0 +1,77 @@
+{
+  "id": 1327490455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84987,13.68904,43.84987,13.68904",
+    "geom:latitude":13.68904,
+    "geom:longitude":43.84987,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Kirab",
+    "gn:country_code":"YE",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355569,
+    "gn:latitude":13.68904,
+    "gn:longitude":43.84987,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kir\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kir\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Karr\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355569
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"00b08feecdae3d245dfde1f90ad74ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1327490455,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327490455,
+    "wof:lastmodified":1537715642,
+    "wof:name":"Al Kirab",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84987,
+    13.68904,
+    43.84987,
+    13.68904
+],
+  "geometry": {"coordinates":[43.84987,13.68904],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326786319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24659,14.25027,44.24659,14.25027",
+    "geom:latitude":14.25027,
+    "geom:longitude":44.24659,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Wa'lah as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870198,
+    "gn:latitude":14.25027,
+    "gn:longitude":44.24659,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wa\u2018lah as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0639\u0644\u0629 \u0627\u0644\u0633\u0641\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Wa\u2018lah as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870198
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b82729a9546eb87940560b636ccf9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1326786319,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326786319,
+    "wof:lastmodified":1537716212,
+    "wof:name":"Wa'lah as Sufla",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24659000000001,
+    14.25027,
+    44.24659000000001,
+    14.25027
+],
+  "geometry": {"coordinates":[44.24659000000001,14.25027],"type":"Point"}
+}

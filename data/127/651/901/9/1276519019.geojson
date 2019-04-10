@@ -1,0 +1,74 @@
+{
+  "id": 1276519019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20475,15.90014,44.20475,15.90014",
+    "geom:latitude":15.90014,
+    "geom:longitude":44.20475,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt Miqrad",
+    "gn:country_code":"YE",
+    "gn:dem":2581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975713,
+    "gn:latitude":15.90014,
+    "gn:longitude":44.20475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Miqr\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0642\u0631\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "Bayt Miqr\u0101\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975713
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8bc265e970a19b066005dec9534d8bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1276519019,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276519019,
+    "wof:lastmodified":1537716130,
+    "wof:name":"Bayt Miqrad",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20475,
+    15.90014,
+    44.20475,
+    15.90014
+],
+  "geometry": {"coordinates":[44.20475,15.90014],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276537087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3193,15.41683,43.3193,15.41683",
+    "geom:latitude":15.41683,
+    "geom:longitude":43.3193,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Bani Hujjaj",
+    "gn:country_code":"YE",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":77278,
+    "gn:latitude":15.41683,
+    "gn:longitude":43.3193,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ban\u012b \u1e28ujj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u1e28ujj\u0101j",
+        "Ban\u012b \u1e28ajj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77278
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a6c61e507662cf58c9e77f99ada94535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1276537087,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276537087,
+    "wof:lastmodified":1537715221,
+    "wof:name":"Bani Hujjaj",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3193,
+    15.41683,
+    43.3193,
+    15.41683
+],
+  "geometry": {"coordinates":[43.3193,15.41683],"type":"Point"}
+}

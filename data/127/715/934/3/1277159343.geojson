@@ -1,0 +1,74 @@
+{
+  "id": 1277159343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30668,15.01744,44.30668,15.01744",
+    "geom:latitude":15.01744,
+    "geom:longitude":44.30668,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Ad Dula`",
+    "gn:country_code":"YE",
+    "gn:dem":2702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404113,
+    "gn:latitude":15.01744,
+    "gn:longitude":44.30668,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10ul\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e11 \u1e10ul\u0101\u2018"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404113
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2723bab6d708cf28c4b2d786dc85e0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925795,
+            "locality_id":1277159343,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1277159343,
+    "wof:lastmodified":1537715375,
+    "wof:name":"Ad Dula`",
+    "wof:parent_id":1091925795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30668,
+    15.01744,
+    44.30668,
+    15.01744
+],
+  "geometry": {"coordinates":[44.30668,15.01744],"type":"Point"}
+}

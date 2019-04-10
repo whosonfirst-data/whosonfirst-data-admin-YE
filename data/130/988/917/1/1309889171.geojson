@@ -1,0 +1,71 @@
+{
+  "id": 1309889171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75185,15.5063,44.75185,15.5063",
+    "geom:latitude":15.5063,
+    "geom:longitude":44.75185,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Zamjah",
+    "gn:country_code":"YE",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300145,
+    "gn:latitude":15.5063,
+    "gn:longitude":44.75185,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u0327amjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0327amjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300145
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4edf86ff58264c4ca1740b10a4b84d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1309889171,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1309889171,
+    "wof:lastmodified":1537716030,
+    "wof:name":"Zamjah",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75185,
+    15.5063,
+    44.75185,
+    15.5063
+],
+  "geometry": {"coordinates":[44.75185,15.5063],"type":"Point"}
+}

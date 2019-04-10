@@ -1,0 +1,74 @@
+{
+  "id": 1310669075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18834,13.14528,44.18834,13.14528",
+    "geom:latitude":13.14528,
+    "geom:longitude":44.18834,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Shanas",
+    "gn:country_code":"YE",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871745,
+    "gn:latitude":13.14528,
+    "gn:longitude":44.18834,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shan\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Shan\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871745
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"435ba23f978e1882d642f8a689c76afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1310669075,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310669075,
+    "wof:lastmodified":1537716260,
+    "wof:name":"Shanas",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18834,
+    13.14528,
+    44.18834,
+    13.14528
+],
+  "geometry": {"coordinates":[44.18834,13.14528],"type":"Point"}
+}

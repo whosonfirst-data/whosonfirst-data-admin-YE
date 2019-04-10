@@ -1,0 +1,74 @@
+{
+  "id": 1309867563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80641,16.17278,43.80641,16.17278",
+    "geom:latitude":16.17278,
+    "geom:longitude":43.80641,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Al Qahaz",
+    "gn:country_code":"YE",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634601,
+    "gn:latitude":16.17278,
+    "gn:longitude":43.80641,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u1e29az",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u062d\u0632"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u1e29az"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634601
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79023bbda1aa8c0f7754322065f62c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1309867563,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309867563,
+    "wof:lastmodified":1537716084,
+    "wof:name":"Al Qahaz",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80641,
+    16.17278,
+    43.80641,
+    16.17278
+],
+  "geometry": {"coordinates":[43.80641,16.17278],"type":"Point"}
+}

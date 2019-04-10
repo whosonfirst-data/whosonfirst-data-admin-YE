@@ -1,0 +1,73 @@
+{
+  "id": 1226028091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51955,16.2883,44.51955,16.2883",
+    "geom:latitude":16.2883,
+    "geom:longitude":44.51955,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wadi Kuhah",
+    "gn:country_code":"YE",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975059,
+    "gn:latitude":16.2883,
+    "gn:longitude":44.51955,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"W\u0101d\u012b K\u016b\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0643\u0648\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b K\u016b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975059
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8d2ce33241c0476e8d070a9bc7a8904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920719,
+            "locality_id":1226028091,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226028091,
+    "wof:lastmodified":1537716118,
+    "wof:name":"Wadi Kuhah",
+    "wof:parent_id":1091920719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51955,
+    16.2883,
+    44.51955,
+    16.2883
+],
+  "geometry": {"coordinates":[44.51955,16.2883],"type":"Point"}
+}

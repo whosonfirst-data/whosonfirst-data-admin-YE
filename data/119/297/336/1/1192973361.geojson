@@ -1,0 +1,77 @@
+{
+  "id": 1192973361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13476,13.23087,44.13476,13.23087",
+    "geom:latitude":13.23087,
+    "geom:longitude":44.13476,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Mahilah",
+    "gn:country_code":"YE",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76200,
+    "gn:latitude":13.23087,
+    "gn:longitude":44.13476,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Al Ma\u1e29\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dh\u0101fir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76200
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4eea7327f5011ba26af336e4ce81d341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1192973361,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1192973361,
+    "wof:lastmodified":1537715189,
+    "wof:name":"Al Mahilah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13476,
+    13.23087,
+    44.13476,
+    13.23087
+],
+  "geometry": {"coordinates":[44.13476,13.23087],"type":"Point"}
+}

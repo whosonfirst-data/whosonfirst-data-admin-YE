@@ -1,0 +1,89 @@
+{
+  "id": 1125937977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27872,15.5192,44.27872,15.5192",
+    "geom:latitude":15.5192,
+    "geom:longitude":44.27872,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":44,
+    "gn:population":44,
+    "iso:country":"YE",
+    "lbl:latitude":15.5192,
+    "lbl:longitude":44.27872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0647\u0631\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7890539,
+    "qs_pg:gn_pop":44,
+    "qs_pg:name":"A\u1e11 \u1e10ahirah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":743960,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890539,
+        "qs_pg:id":743960
+    },
+    "wof:country":"YE",
+    "wof:created":1497297027,
+    "wof:geomhash":"545935891fa0ddf91dfd19c08d1846c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1125937977,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1125937977,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1125937977,
+    "wof:lastmodified":1509401897,
+    "wof:name":"A\u1e11 \u1e10ahirah",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27872,
+    15.5192,
+    44.27872,
+    15.5192
+],
+  "geometry": {"coordinates":[44.27872,15.5192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226498723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44759,16.08316,43.44759,16.08316",
+    "geom:latitude":16.08316,
+    "geom:longitude":43.44759,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Ghamis",
+    "gn:country_code":"YE",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363313,
+    "gn:latitude":16.08316,
+    "gn:longitude":43.44759,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gh\u0101mi\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Gh\u0101mi\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363313
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d3a931e2c2b21cab3f9d0ac225124ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1226498723,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226498723,
+    "wof:lastmodified":1537715869,
+    "wof:name":"Ghamis",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44759000000001,
+    16.08316,
+    43.44759000000001,
+    16.08316
+],
+  "geometry": {"coordinates":[43.44759000000001,16.08316],"type":"Point"}
+}

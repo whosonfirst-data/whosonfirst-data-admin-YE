@@ -1,0 +1,76 @@
+{
+  "id": 1310201981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89738,15.0242,42.89738,15.0242",
+    "geom:latitude":15.0242,
+    "geom:longitude":42.89738,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Az Zawtiyah",
+    "gn:country_code":"YE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74542,
+    "gn:latitude":15.0242,
+    "gn:longitude":42.89738,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Az Zaw\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28umarah",
+        "\u1e28umrah",
+        "Az Zaw\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74542
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"41ef1e18310d40b1c7934820b6f0870f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1310201981,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310201981,
+    "wof:lastmodified":1537715156,
+    "wof:name":"Az Zawtiyah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89738,
+    15.0242,
+    42.89738,
+    15.0242
+],
+  "geometry": {"coordinates":[42.89738,15.0242],"type":"Point"}
+}

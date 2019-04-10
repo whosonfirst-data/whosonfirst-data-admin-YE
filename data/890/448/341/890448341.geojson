@@ -1,0 +1,73 @@
+{
+  "id": 890448341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37149,16.50202,44.37149,16.50202",
+    "geom:latitude":16.50202,
+    "geom:longitude":44.37149,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u062f\u0646 \u0645\u0631\u0632\u0648\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Wadan MarzUq"
+    ],
+    "qs:name":"Wadan Marz\u016bq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795084,
+        "gp:id":1958965,
+        "qs:id":700851,
+        "wd:id":"Q20309355"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052627,
+    "wof:geomhash":"41d500c8c293709197ed49a0f1de32b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":890448341,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890448341,
+    "wof:lastmodified":1514503379,
+    "wof:name":"Wadan Marz\u016bq",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37149,
+    16.50202,
+    44.37149,
+    16.50202
+],
+  "geometry": {"coordinates":[44.37149,16.50202],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890436211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18414,14.44388,45.18414,14.44388",
+    "geom:latitude":14.44388,
+    "geom:longitude":45.18414,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Shahab"
+    ],
+    "qs:name":"Shah\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052046,
+        "gp:id":1958975,
+        "qs:id":751423,
+        "wd:id":"Q20308110"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052102,
+    "wof:geomhash":"b44716306650aeb9860b522384b85974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890436211,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890436211,
+    "wof:lastmodified":1514503361,
+    "wof:name":"Shah\u0101b",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18414,
+    14.44388,
+    45.18414,
+    14.44388
+],
+  "geometry": {"coordinates":[45.18414,14.44388],"type":"Point"}
+}

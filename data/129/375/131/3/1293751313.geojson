@@ -1,0 +1,71 @@
+{
+  "id": 1293751313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69034,13.57558,43.69034,13.57558",
+    "geom:latitude":13.57558,
+    "geom:longitude":43.69034,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al Hushaylah al Aqhuz",
+    "gn:country_code":"YE",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356302,
+    "gn:latitude":13.57558,
+    "gn:longitude":43.69034,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ushaylah al Aq\u1e29\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ushaylah al Aq\u1e29\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356302
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4f84dbd6e407462d97e289eef6721f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1293751313,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293751313,
+    "wof:lastmodified":1537715671,
+    "wof:name":"Al Hushaylah al Aqhuz",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69034,
+    13.57558,
+    43.69034,
+    13.57558
+],
+  "geometry": {"coordinates":[43.69034,13.57558],"type":"Point"}
+}

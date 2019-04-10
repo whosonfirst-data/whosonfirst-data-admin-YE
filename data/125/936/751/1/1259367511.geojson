@@ -1,0 +1,71 @@
+{
+  "id": 1259367511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20728,15.38893,43.20728,15.38893",
+    "geom:latitude":15.38893,
+    "geom:longitude":43.20728,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall al Buruq",
+    "gn:country_code":"YE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403002,
+    "gn:latitude":15.38893,
+    "gn:longitude":43.20728,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all al Bur\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Bur\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403002
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0f162dd721ac23e11d5c8841fa7c8767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1259367511,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259367511,
+    "wof:lastmodified":1537715368,
+    "wof:name":"Mahall al Buruq",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20728,
+    15.38893,
+    43.20728,
+    15.38893
+],
+  "geometry": {"coordinates":[43.20728,15.38893],"type":"Point"}
+}

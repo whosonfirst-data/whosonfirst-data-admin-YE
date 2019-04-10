@@ -1,0 +1,71 @@
+{
+  "id": 1293547721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6626,15.8835,43.6626,15.8835",
+    "geom:latitude":15.8835,
+    "geom:longitude":43.6626,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1717.0",
+    "gn:asciiname":"Al Baytih",
+    "gn:country_code":"YE",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300152,
+    "gn:latitude":15.8835,
+    "gn:longitude":43.6626,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bay\u0163i\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Bay\u0163i\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300152
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b0eb560ffaf13abf6e1793b06702f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923647,
+            "locality_id":1293547721,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293547721,
+    "wof:lastmodified":1537716030,
+    "wof:name":"Al Baytih",
+    "wof:parent_id":1091923647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6626,
+    15.8835,
+    43.6626,
+    15.8835
+],
+  "geometry": {"coordinates":[43.6626,15.8835],"type":"Point"}
+}

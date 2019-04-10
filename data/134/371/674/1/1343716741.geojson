@@ -1,0 +1,77 @@
+{
+  "id": 1343716741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95232,13.15579,43.95232,13.15579",
+    "geom:latitude":13.15579,
+    "geom:longitude":43.95232,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Hujayr",
+    "gn:country_code":"YE",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071303,
+    "gn:latitude":13.15579,
+    "gn:longitude":43.95232,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ujayr",
+    "gn:population":2,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ujayr"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071303
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a3e7475b6f184190091f23c0b654b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343716741,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343716741,
+    "wof:lastmodified":1537716015,
+    "wof:name":"Al Hujayr",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95232,
+    13.15579,
+    43.95232,
+    13.15579
+],
+  "geometry": {"coordinates":[43.95232,13.15579],"type":"Point"}
+}

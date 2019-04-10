@@ -1,0 +1,71 @@
+{
+  "id": 1310194853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.79577,15.68592,42.79577,15.68592",
+    "geom:latitude":15.68592,
+    "geom:longitude":42.79577,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Jabal al Milh",
+    "gn:country_code":"YE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74360,
+    "gn:latitude":15.68592,
+    "gn:longitude":42.79577,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Jabal al Mil\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabal al Mil\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74360
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eab564539ed033dbd18cf124f5199cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1310194853,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310194853,
+    "wof:lastmodified":1537715153,
+    "wof:name":"Jabal al Milh",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.79577000000001,
+    15.68592,
+    42.79577000000001,
+    15.68592
+],
+  "geometry": {"coordinates":[42.79577000000001,15.68592],"type":"Point"}
+}

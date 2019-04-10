@@ -1,0 +1,74 @@
+{
+  "id": 1343517375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23091,14.31828,44.23091,14.31828",
+    "geom:latitude":14.31828,
+    "geom:longitude":44.23091,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Wabli",
+    "gn:country_code":"YE",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870630,
+    "gn:latitude":14.31828,
+    "gn:longitude":44.23091,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wabl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Wabl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870630
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f81ccb262fa25d8b1a8ae40913eccbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1343517375,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343517375,
+    "wof:lastmodified":1537716234,
+    "wof:name":"Wabli",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23091,
+    14.31828,
+    44.23091,
+    14.31828
+],
+  "geometry": {"coordinates":[44.23091,14.31828],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259555119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29171,15.94804,44.29171,15.94804",
+    "geom:latitude":15.94804,
+    "geom:longitude":44.29171,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt adh Dhurayri",
+    "gn:country_code":"YE",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975707,
+    "gn:latitude":15.94804,
+    "gn:longitude":44.29171,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt adh Dhurayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0630\u0631\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt adh Dhurayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975707
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43847aed5ba649d0067c0ea4bc6e6053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1259555119,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259555119,
+    "wof:lastmodified":1537716130,
+    "wof:name":"Bayt adh Dhurayri",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29171,
+    15.94804,
+    44.29171,
+    15.94804
+],
+  "geometry": {"coordinates":[44.29171,15.94804],"type":"Point"}
+}

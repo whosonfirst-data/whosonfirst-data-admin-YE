@@ -1,0 +1,73 @@
+{
+  "id": 1310198297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45,14.51667,46.45,14.51667",
+    "geom:latitude":14.51667,
+    "geom:longitude":46.45,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Al Madhba",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79023,
+    "gn:latitude":14.51667,
+    "gn:longitude":46.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Madhb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Madba\u2019ah",
+        "Al Madhb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2bd70a8b016697671760cb31f527981f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1310198297,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310198297,
+    "wof:lastmodified":1537715283,
+    "wof:name":"Al Madhba",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45,
+    14.51667,
+    46.45,
+    14.51667
+],
+  "geometry": {"coordinates":[46.45,14.51667],"type":"Point"}
+}

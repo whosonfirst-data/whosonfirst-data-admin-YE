@@ -1,0 +1,74 @@
+{
+  "id": 1226307845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25071,16.54562,44.25071,16.54562",
+    "geom:latitude":16.54562,
+    "geom:longitude":44.25071,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Ma`mal",
+    "gn:country_code":"YE",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362947,
+    "gn:latitude":16.54562,
+    "gn:longitude":44.25071,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u2018mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362947
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77cc601e7244fcc834d50d65fdf56a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1226307845,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226307845,
+    "wof:lastmodified":1537715859,
+    "wof:name":"Al Ma`mal",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25071,
+    16.54562,
+    44.25071,
+    16.54562
+],
+  "geometry": {"coordinates":[44.25071,16.54562],"type":"Point"}
+}

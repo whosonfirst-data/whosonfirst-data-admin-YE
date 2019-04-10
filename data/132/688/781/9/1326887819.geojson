@@ -1,0 +1,71 @@
+{
+  "id": 1326887819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37967,13.15523,44.37967,13.15523",
+    "geom:latitude":13.15523,
+    "geom:longitude":44.37967,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Al Ghul",
+    "gn:country_code":"YE",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355410,
+    "gn:latitude":13.15523,
+    "gn:longitude":44.37967,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Gh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355410
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f998b88be3e4cc7104fa8630016f39fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1326887819,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1326887819,
+    "wof:lastmodified":1537715637,
+    "wof:name":"Al Ghul",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37967,
+    13.15523,
+    44.37967,
+    13.15523
+],
+  "geometry": {"coordinates":[44.37967,13.15523],"type":"Point"}
+}

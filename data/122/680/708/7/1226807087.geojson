@@ -1,0 +1,71 @@
+{
+  "id": 1226807087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30136,14.21992,44.30136,14.21992",
+    "geom:latitude":14.21992,
+    "geom:longitude":44.30136,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Al Jarjarah",
+    "gn:country_code":"YE",
+    "gn:dem":2641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359450,
+    "gn:latitude":14.21992,
+    "gn:longitude":44.30136,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Jarjarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u062c\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359450
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f5e29406b40a1865908f2bd467e7a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1226807087,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226807087,
+    "wof:lastmodified":1537715761,
+    "wof:name":"Al Jarjarah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30136,
+    14.21992,
+    44.30136,
+    14.21992
+],
+  "geometry": {"coordinates":[44.30136,14.21992],"type":"Point"}
+}

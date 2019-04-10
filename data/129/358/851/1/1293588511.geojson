@@ -1,0 +1,71 @@
+{
+  "id": 1293588511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95,15.93333,48.95,15.93333",
+    "geom:latitude":15.93333,
+    "geom:longitude":48.95,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1910.0",
+    "gn:asciiname":"Mahadd",
+    "gn:country_code":"YE",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73314,
+    "gn:latitude":15.93333,
+    "gn:longitude":48.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ma\u1e29add",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29add"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73314
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b429a28358f032b980af05c20c2d176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923163,
+            "locality_id":1293588511,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293588511,
+    "wof:lastmodified":1537715131,
+    "wof:name":"Mahadd",
+    "wof:parent_id":1091923163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95,
+    15.93333,
+    48.95,
+    15.93333
+],
+  "geometry": {"coordinates":[48.95,15.93333],"type":"Point"}
+}

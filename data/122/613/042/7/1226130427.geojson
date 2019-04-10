@@ -1,0 +1,68 @@
+{
+  "id": 1226130427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0008,14.78439,44.0008,14.78439",
+    "geom:latitude":14.78439,
+    "geom:longitude":44.0008,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Al Marwan",
+    "gn:country_code":"YE",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360944,
+    "gn:latitude":14.78439,
+    "gn:longitude":44.0008,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Marwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360944
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ac0ccdd17cb27f5c2a5d1b210aff5ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1226130427,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226130427,
+    "wof:lastmodified":1537096573,
+    "wof:name":"Al Marwan",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0008,
+    14.78439,
+    44.0008,
+    14.78439
+],
+  "geometry": {"coordinates":[44.0008,14.78439],"type":"Point"}
+}

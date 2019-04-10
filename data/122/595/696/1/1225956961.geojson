@@ -1,0 +1,71 @@
+{
+  "id": 1225956961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62083,12.83056,44.62083,12.83056",
+    "geom:latitude":12.83056,
+    "geom:longitude":44.62083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Mushirah",
+    "gn:country_code":"YE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72418,
+    "gn:latitude":12.83056,
+    "gn:longitude":44.62083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mush\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mush\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681039,
+        1091918729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72418
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b79528f965482ebd0f2ecc760bc21f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918729,
+            "locality_id":1225956961,
+            "region_id":85681039
+        }
+    ],
+    "wof:id":1225956961,
+    "wof:lastmodified":1537715114,
+    "wof:name":"Mushirah",
+    "wof:parent_id":1091918729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62083,
+    12.83056,
+    44.62083,
+    12.83056
+],
+  "geometry": {"coordinates":[44.62083,12.83056],"type":"Point"}
+}

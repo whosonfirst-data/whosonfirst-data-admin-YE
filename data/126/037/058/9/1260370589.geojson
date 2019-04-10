@@ -1,0 +1,74 @@
+{
+  "id": 1260370589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24209,14.46503,44.24209,14.46503",
+    "geom:latitude":14.46503,
+    "geom:longitude":44.24209,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Halif",
+    "gn:country_code":"YE",
+    "gn:dem":1899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408152,
+    "gn:latitude":14.46503,
+    "gn:longitude":44.24209,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"\u1e28\u0101lif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101lif"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0644\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408152
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a49bf7aa3a7fb3f7371c936c253be7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1260370589,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1260370589,
+    "wof:lastmodified":1537715412,
+    "wof:name":"Halif",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24209000000001,
+    14.46503,
+    44.24209000000001,
+    14.46503
+],
+  "geometry": {"coordinates":[44.24209000000001,14.46503],"type":"Point"}
+}

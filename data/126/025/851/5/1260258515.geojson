@@ -1,0 +1,71 @@
+{
+  "id": 1260258515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44946,13.73358,44.44946,13.73358",
+    "geom:latitude":13.73358,
+    "geom:longitude":44.44946,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3009.0",
+    "gn:asciiname":"Al Hajuf",
+    "gn:country_code":"YE",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357668,
+    "gn:latitude":13.73358,
+    "gn:longitude":44.44946,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Haj\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Haj\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357668
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d90e99f42be558aa3e6b10ad4509838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":1260258515,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1260258515,
+    "wof:lastmodified":1537715705,
+    "wof:name":"Al Hajuf",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44946,
+    13.73358,
+    44.44946,
+    13.73358
+],
+  "geometry": {"coordinates":[44.44946,13.73358],"type":"Point"}
+}

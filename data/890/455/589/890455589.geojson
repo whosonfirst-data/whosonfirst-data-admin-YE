@@ -1,0 +1,68 @@
+{
+  "id": 890455589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44544,16.10435,43.44544,16.10435",
+    "geom:latitude":16.10435,
+    "geom:longitude":43.44544,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u0628\u0629"
+    ],
+    "qs:name":"Al \u1e28adibah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658690,
+        "gp:id":1958568,
+        "qs:id":696486
+    },
+    "wof:country":"YE",
+    "wof:created":1469052963,
+    "wof:geomhash":"40c7d066b8582a139925bc15dcee86c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "locality_id":890455589,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890455589,
+    "wof:lastmodified":1505343664,
+    "wof:name":"Al \u1e28adibah",
+    "wof:parent_id":85680973,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44544,
+    16.10435,
+    43.44544,
+    16.10435
+],
+  "geometry": {"coordinates":[43.44544,16.10435],"type":"Point"}
+}

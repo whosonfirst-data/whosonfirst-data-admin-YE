@@ -1,0 +1,76 @@
+{
+  "id": 1360074977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77849,15.75755,42.77849,15.75755",
+    "geom:latitude":15.75755,
+    "geom:longitude":42.77849,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Jurfaniyah",
+    "gn:country_code":"YE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71999,
+    "gn:latitude":15.75755,
+    "gn:longitude":42.77849,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Jurf\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0641\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jirf\u0101n\u012byah",
+        "Qanlah",
+        "Al Jurf\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71999
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae541de42a2b9f8d66f12253fc044596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1360074977,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360074977,
+    "wof:lastmodified":1537715107,
+    "wof:name":"Al Jurfaniyah",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77849000000001,
+    15.75755,
+    42.77849000000001,
+    15.75755
+],
+  "geometry": {"coordinates":[42.77849000000001,15.75755],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259984383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2,14.78333,47.2,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":47.2,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Al Jabiyah al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79330,
+    "gn:latitude":14.78333,
+    "gn:longitude":47.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al J\u0101biyah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-J\u0101biyat al-\u2018Ulya",
+        "Al J\u0101biyah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79330
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e480e4d44dde894414f9f2632b155505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1259984383,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1259984383,
+    "wof:lastmodified":1537715296,
+    "wof:name":"Al Jabiyah al `Ulya",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2,
+    14.78333,
+    47.2,
+    14.78333
+],
+  "geometry": {"coordinates":[47.2,14.78333],"type":"Point"}
+}

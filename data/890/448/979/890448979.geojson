@@ -1,0 +1,77 @@
+{
+  "id": 890448979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61174,16.21629,43.61174,16.21629",
+    "geom:latitude":16.21629,
+    "geom:longitude":43.61174,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0631\u0628 \u0627\u0644\u0634\u0631\u064a\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Gharib Ash Sharif"
+    ],
+    "qs:name":"Gh\u0101rib ash Shar\u012bf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928216,
+        "gp:id":1959128,
+        "qs:id":745520,
+        "qs_pg:id":745654,
+        "wd:id":"Q20303851"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052655,
+    "wof:geomhash":"eb58b2c60f05dad8098bee9c9c620f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921649,
+            "locality_id":890448979,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890448979,
+    "wof:lastmodified":1514503271,
+    "wof:name":"Gh\u0101rib ash Shar\u012bf",
+    "wof:parent_id":1091921649,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61174,
+    16.21629,
+    43.61174,
+    16.21629
+],
+  "geometry": {"coordinates":[43.61174,16.21629],"type":"Point"}
+}

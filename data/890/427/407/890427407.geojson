@@ -1,0 +1,73 @@
+{
+  "id": 890427407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25158,17.38546,43.25158,17.38546",
+    "geom:latitude":17.38546,
+    "geom:longitude":43.25158,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Qullat Sulayman"
+    ],
+    "qs:name":"Qullat Sulaym\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856567,
+        "gp:id":56447933,
+        "qs:id":742484,
+        "wd:id":"Q20306176"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051693,
+    "wof:geomhash":"a3449a31209c37381c5a8f5d79a11fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890427407,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427407,
+    "wof:lastmodified":1514503337,
+    "wof:name":"Qullat Sulaym\u0101n",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25158,
+    17.38546,
+    43.25158,
+    17.38546
+],
+  "geometry": {"coordinates":[43.25158,17.38546],"type":"Point"}
+}

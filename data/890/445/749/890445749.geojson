@@ -1,0 +1,76 @@
+{
+  "id": 890445749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00468,16.27043,43.00468,16.27043",
+    "geom:latitude":16.27043,
+    "geom:longitude":43.00468,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0648\u064a\u062f\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al GhUbdat"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u063a\u0648\u064a\u062f\u0627\u062a"
+    ],
+    "qs:name":"Al Gh\u016bbd\u0101t",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622262,
+        "gp:id":1958967,
+        "qs:id":694019,
+        "wd:id":"Q20298878"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052521,
+    "wof:geomhash":"926590aed3bce9942c27b068db84878c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890445749,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445749,
+    "wof:lastmodified":1514503144,
+    "wof:name":"Al Gh\u016bbd\u0101t",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00468,
+    16.27043,
+    43.00468,
+    16.27043
+],
+  "geometry": {"coordinates":[43.00468,16.27043],"type":"Point"}
+}

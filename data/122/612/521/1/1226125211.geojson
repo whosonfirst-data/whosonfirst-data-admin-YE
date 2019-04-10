@@ -1,0 +1,71 @@
+{
+  "id": 1226125211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35194,16.68098,43.35194,16.68098",
+    "geom:latitude":16.68098,
+    "geom:longitude":43.35194,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Khabt al Baqr",
+    "gn:country_code":"YE",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855229,
+    "gn:latitude":16.68098,
+    "gn:longitude":43.35194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khabt al Baqr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u062a \u0627\u0644\u0628\u0642\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855229
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29cf407370840ac1c3d80c3c84b003aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1226125211,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226125211,
+    "wof:lastmodified":1537716000,
+    "wof:name":"Khabt al Baqr",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35194,
+    16.68098,
+    43.35194,
+    16.68098
+],
+  "geometry": {"coordinates":[43.35194,16.68098],"type":"Point"}
+}

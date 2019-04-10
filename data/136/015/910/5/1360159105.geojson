@@ -1,0 +1,74 @@
+{
+  "id": 1360159105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66134,14.19194,45.66134,14.19194",
+    "geom:latitude":14.19194,
+    "geom:longitude":45.66134,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Ad Dayyiq",
+    "gn:country_code":"YE",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066794,
+    "gn:latitude":14.19194,
+    "gn:longitude":45.66134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e11 \u1e10ayyiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ayyiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066794
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d9d84e9c76c2a466bacb822c2b4c065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":1360159105,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1360159105,
+    "wof:lastmodified":1537716013,
+    "wof:name":"Ad Dayyiq",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66134,
+    14.19194,
+    45.66134,
+    14.19194
+],
+  "geometry": {"coordinates":[45.66134,14.19194],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890420735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44185,17.4364,43.44185,17.4364",
+    "geom:latitude":17.4364,
+    "geom:longitude":43.44185,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":23,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0634\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Ushshah"
+    ],
+    "qs:name":"Al \u2018Ashshah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890602,
+        "gp:id":1939827,
+        "qs:id":742375,
+        "qs_pg:id":744022
+    },
+    "wof:country":"YE",
+    "wof:created":1469051360,
+    "wof:geomhash":"a8114e2a89279795a8b9433e9869bae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890420735,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420735,
+    "wof:lastmodified":1505343459,
+    "wof:name":"Al \u2018Ashshah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44185,
+    17.4364,
+    43.44185,
+    17.4364
+],
+  "geometry": {"coordinates":[43.44185,17.4364],"type":"Point"}
+}

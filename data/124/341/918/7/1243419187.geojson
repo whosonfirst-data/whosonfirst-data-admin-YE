@@ -1,0 +1,68 @@
+{
+  "id": 1243419187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8875,15.83333,43.8875,15.83333",
+    "geom:latitude":15.83333,
+    "geom:longitude":43.8875,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2912.0",
+    "gn:asciiname":"Al Lumi",
+    "gn:country_code":"YE",
+    "gn:dem":2635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34794,
+    "gn:latitude":15.83333,
+    "gn:longitude":43.8875,
+    "gn:modification_date":"1997-12-10",
+    "gn:name":"Al L\u016bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34794
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d878f12b7593a6389c6b4fa1f1fe8b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921965,
+            "locality_id":1243419187,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243419187,
+    "wof:lastmodified":1536843830,
+    "wof:name":"Al Lumi",
+    "wof:parent_id":1091921965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8875,
+    15.83333,
+    43.8875,
+    15.83333
+],
+  "geometry": {"coordinates":[43.8875,15.83333],"type":"Point"}
+}

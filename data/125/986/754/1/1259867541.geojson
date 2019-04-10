@@ -1,0 +1,71 @@
+{
+  "id": 1259867541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15177,14.50518,44.15177,14.50518",
+    "geom:latitude":14.50518,
+    "geom:longitude":44.15177,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Al Muqas",
+    "gn:country_code":"YE",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361245,
+    "gn:latitude":14.50518,
+    "gn:longitude":44.15177,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al M\u016bq\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u016bq\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361245
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ef4f85c688200e85efbca199232d8938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":1259867541,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259867541,
+    "wof:lastmodified":1537715815,
+    "wof:name":"Al Muqas",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15177,
+    14.50518,
+    44.15177,
+    14.50518
+],
+  "geometry": {"coordinates":[44.15177,14.50518],"type":"Point"}
+}

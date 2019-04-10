@@ -1,0 +1,72 @@
+{
+  "id": 1259461315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27179,15.51067,43.27179,15.51067",
+    "geom:latitude":15.51067,
+    "geom:longitude":43.27179,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"As Sudah",
+    "gn:country_code":"YE",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76230,
+    "gn:latitude":15.51067,
+    "gn:longitude":43.27179,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"As S\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As S\u016bdah",
+        "Dayr Sawd\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76230
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d083045854aec6a3b73e60665507969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1259461315,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259461315,
+    "wof:lastmodified":1537715190,
+    "wof:name":"As Sudah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27179,
+    15.51067,
+    43.27179,
+    15.51067
+],
+  "geometry": {"coordinates":[43.27179,15.51067],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276300903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53559,15.61191,43.53559,15.61191",
+    "geom:latitude":15.61191,
+    "geom:longitude":43.53559,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1726.0",
+    "gn:asciiname":"Bayt az Zayn",
+    "gn:country_code":"YE",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344155,
+    "gn:latitude":15.61191,
+    "gn:longitude":43.53559,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt az Zayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344155
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d88c68732cc762f767471ed0fc0612e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1276300903,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276300903,
+    "wof:lastmodified":1536821465,
+    "wof:name":"Bayt az Zayn",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53559,
+    15.61191,
+    43.53559,
+    15.61191
+],
+  "geometry": {"coordinates":[43.53559,15.61191],"type":"Point"}
+}

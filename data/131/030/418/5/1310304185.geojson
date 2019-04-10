@@ -1,0 +1,73 @@
+{
+  "id": 1310304185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95202,16.22417,47.95202,16.22417",
+    "geom:latitude":16.22417,
+    "geom:longitude":47.95202,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khafah",
+    "gn:country_code":"YE",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555930,
+    "gn:latitude":16.22417,
+    "gn:longitude":47.95202,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kh\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555930
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b300825a342a62223b5399ac6dfcaffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1310304185,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310304185,
+    "wof:lastmodified":1537716360,
+    "wof:name":"Khafah",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95202000000001,
+    16.22417,
+    47.95202000000001,
+    16.22417
+],
+  "geometry": {"coordinates":[47.95202000000001,16.22417],"type":"Point"}
+}

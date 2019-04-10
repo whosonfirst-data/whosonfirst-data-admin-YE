@@ -1,0 +1,73 @@
+{
+  "id": 890420997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25324,14.39292,45.25324,14.39292",
+    "geom:latitude":14.39292,
+    "geom:longitude":45.25324,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0639\u0627\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ja'awin"
+    ],
+    "qs:name":"Al Ja\u2018\u0101win",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051773,
+        "gp:id":1958975,
+        "qs:id":751159,
+        "wd:id":"Q20302297"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051369,
+    "wof:geomhash":"cf4f6a3003b17ea1ef818dfb23edab68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919509,
+            "locality_id":890420997,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890420997,
+    "wof:lastmodified":1514503161,
+    "wof:name":"Al Ja\u2018\u0101win",
+    "wof:parent_id":1091919509,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25324,
+    14.39292,
+    45.25324,
+    14.39292
+],
+  "geometry": {"coordinates":[45.25324,14.39292],"type":"Point"}
+}

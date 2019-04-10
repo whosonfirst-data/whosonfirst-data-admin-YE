@@ -1,0 +1,75 @@
+{
+  "id": 1276951309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75491,15.4228,44.75491,15.4228",
+    "geom:latitude":15.4228,
+    "geom:longitude":44.75491,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Al Muqaddad",
+    "gn:country_code":"YE",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341580,
+    "gn:latitude":15.4228,
+    "gn:longitude":44.75491,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Al Muqa\u1e11\u1e11a\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0636\u0636"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Muqa\u1e11\u1e11a\u1e11",
+        "Al Muqa\u1e11\u1e11a\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341580
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a2b914dae4812a0a9dc0a50d57b24cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1276951309,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276951309,
+    "wof:lastmodified":1537715483,
+    "wof:name":"Al Muqaddad",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75491,
+    15.4228,
+    44.75491,
+    15.4228
+],
+  "geometry": {"coordinates":[44.75491,15.4228],"type":"Point"}
+}

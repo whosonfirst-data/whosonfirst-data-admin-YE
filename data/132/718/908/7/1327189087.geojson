@@ -1,0 +1,74 @@
+{
+  "id": 1327189087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77652,13.2478,43.77652,13.2478",
+    "geom:latitude":13.2478,
+    "geom:longitude":43.77652,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Qarfis",
+    "gn:country_code":"YE",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354583,
+    "gn:latitude":13.2478,
+    "gn:longitude":43.77652,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qarf\u012b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0641\u064a\u0635"
+    ],
+    "name:und_x_variant":[
+        "Qarf\u012b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354583
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"245a7dec94b2cc61e06f31c561cd0f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1327189087,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327189087,
+    "wof:lastmodified":1537715615,
+    "wof:name":"Qarfis",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77652,
+    13.2478,
+    43.77652,
+    13.2478
+],
+  "geometry": {"coordinates":[43.77652,13.2478],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890413873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40292,16.35544,43.40292,16.35544",
+    "geom:latitude":16.35544,
+    "geom:longitude":43.40292,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0631\u0628 \u0627\u0644\u063a\u0631\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Gharib Al Ghurra"
+    ],
+    "qs:name":"Gh\u0101rib al Ghurr\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783538,
+        "gp:id":1958967,
+        "qs:id":700190,
+        "wd:id":"Q20303574"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051018,
+    "wof:geomhash":"0935c7d2bd717438c5f000e5468058a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890413873,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890413873,
+    "wof:lastmodified":1514503270,
+    "wof:name":"Gh\u0101rib al Ghurr\u0101",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40292,
+    16.35544,
+    43.40292,
+    16.35544
+],
+  "geometry": {"coordinates":[43.40292,16.35544],"type":"Point"}
+}

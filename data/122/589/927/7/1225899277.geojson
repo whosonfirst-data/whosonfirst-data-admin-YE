@@ -1,0 +1,72 @@
+{
+  "id": 1225899277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69369,13.74473,43.69369,13.74473",
+    "geom:latitude":13.74473,
+    "geom:longitude":43.69369,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Badahah",
+    "gn:country_code":"YE",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407703,
+    "gn:latitude":13.74473,
+    "gn:longitude":43.69369,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bada\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bada\u1e29ah",
+        "Beydaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407703
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a197dd7ba5bfdc1df5fa6d09db074247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1225899277,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1225899277,
+    "wof:lastmodified":1537715400,
+    "wof:name":"Badahah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69369,
+    13.74473,
+    43.69369,
+    13.74473
+],
+  "geometry": {"coordinates":[43.69369,13.74473],"type":"Point"}
+}

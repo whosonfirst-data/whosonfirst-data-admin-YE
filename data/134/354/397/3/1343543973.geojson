@@ -1,0 +1,74 @@
+{
+  "id": 1343543973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17954,16.92734,44.17954,16.92734",
+    "geom:latitude":16.92734,
+    "geom:longitude":44.17954,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Habahish",
+    "gn:country_code":"YE",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362710,
+    "gn:latitude":16.92734,
+    "gn:longitude":44.17954,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hab\u0101hish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0628\u0627\u0647\u0634"
+    ],
+    "name:und_x_variant":[
+        "Hab\u0101hish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362710
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f29710f4b0890bdb254d282af6a725ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1343543973,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343543973,
+    "wof:lastmodified":1537715852,
+    "wof:name":"Habahish",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17954,
+    16.92734,
+    44.17954,
+    16.92734
+],
+  "geometry": {"coordinates":[44.17954,16.92734],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193263027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07274,15.1424,43.07274,15.1424",
+    "geom:latitude":15.1424,
+    "geom:longitude":43.07274,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Kadim",
+    "gn:country_code":"YE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365393,
+    "gn:latitude":15.1424,
+    "gn:longitude":43.07274,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"K\u0101dim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101dim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365393
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"24d2754045ff6d6a83d07d5f0f934483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1193263027,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193263027,
+    "wof:lastmodified":1537715928,
+    "wof:name":"Kadim",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07274,
+    15.1424,
+    43.07274,
+    15.1424
+],
+  "geometry": {"coordinates":[43.07274,15.1424],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309763083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29774,13.59861,44.29774,13.59861",
+    "geom:latitude":13.59861,
+    "geom:longitude":44.29774,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Najd al Bakili",
+    "gn:country_code":"YE",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357538,
+    "gn:latitude":13.59861,
+    "gn:longitude":44.29774,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Najd al Bak\u012bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najd al Bak\u012bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357538
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6c6f35c56c7eaacf366e56bc798599ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1309763083,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309763083,
+    "wof:lastmodified":1537715702,
+    "wof:name":"Najd al Bakili",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29774000000001,
+    13.59861,
+    44.29774000000001,
+    13.59861
+],
+  "geometry": {"coordinates":[44.29774000000001,13.59861],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260282007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47047,14.41591,46.47047,14.41591",
+    "geom:latitude":14.41591,
+    "geom:longitude":46.47047,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Al Hujayrah",
+    "gn:country_code":"YE",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79406,
+    "gn:latitude":14.41591,
+    "gn:longitude":46.47047,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al \u1e28ujayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Hujairah",
+        "Am \u1e28ujayrah",
+        "Am-Hiqaira",
+        "Al \u1e28ujayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79406
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7a7bc53258ff28e1c78b407d3158f86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1260282007,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1260282007,
+    "wof:lastmodified":1537715300,
+    "wof:name":"Al Hujayrah",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47047,
+    14.41591,
+    46.47047,
+    14.41591
+],
+  "geometry": {"coordinates":[46.47047,14.41591],"type":"Point"}
+}

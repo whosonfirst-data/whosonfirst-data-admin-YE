@@ -1,0 +1,68 @@
+{
+  "id": 1209871581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40972,13.10972,44.40972,13.10972",
+    "geom:latitude":13.10972,
+    "geom:longitude":44.40972,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Al Hambat",
+    "gn:country_code":"YE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79584,
+    "gn:latitude":13.10972,
+    "gn:longitude":44.40972,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Hambat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79584
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b26347c4962c102061ed0eb9fb77230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1209871581,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1209871581,
+    "wof:lastmodified":1536373041,
+    "wof:name":"Al Hambat",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40972,
+    13.10972,
+    44.40972,
+    13.10972
+],
+  "geometry": {"coordinates":[44.40972,13.10972],"type":"Point"}
+}

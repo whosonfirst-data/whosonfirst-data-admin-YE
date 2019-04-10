@@ -1,0 +1,65 @@
+{
+  "id": 1209573739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26464,15.82797,43.26464,15.82797",
+    "geom:latitude":15.82797,
+    "geom:longitude":43.26464,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Al Hayd",
+    "gn:country_code":"YE",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366054,
+    "gn:latitude":15.82797,
+    "gn:longitude":43.26464,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366054
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7dee08a4a45d82214ba72dcb1a53418f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209573739
+        }
+    ],
+    "wof:id":1209573739,
+    "wof:lastmodified":1537715945,
+    "wof:name":"Al Hayd",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26464,
+    15.82797,
+    43.26464,
+    15.82797
+],
+  "geometry": {"coordinates":[43.26464,15.82797],"type":"Point"}
+}

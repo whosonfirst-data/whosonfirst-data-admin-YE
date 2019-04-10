@@ -1,0 +1,71 @@
+{
+  "id": 1210010215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51538,15.24915,43.51538,15.24915",
+    "geom:latitude":15.24915,
+    "geom:longitude":43.51538,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Ar Rubu`",
+    "gn:country_code":"YE",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360765,
+    "gn:latitude":15.24915,
+    "gn:longitude":43.51538,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Rub\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Rub\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360765
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"642ade2a4dbaa228920c83b947de818d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1210010215,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1210010215,
+    "wof:lastmodified":1537715805,
+    "wof:name":"Ar Rubu`",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51538,
+    15.24915,
+    43.51538,
+    15.24915
+],
+  "geometry": {"coordinates":[43.51538,15.24915],"type":"Point"}
+}

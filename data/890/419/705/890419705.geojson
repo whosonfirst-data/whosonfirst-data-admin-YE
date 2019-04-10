@@ -1,0 +1,73 @@
+{
+  "id": 890419705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11342,14.31023,45.11342,14.31023",
+    "geom:latitude":14.31023,
+    "geom:longitude":45.11342,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u062d\u062f\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Ahdam"
+    ],
+    "qs:name":"A\u1e29dam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051973,
+        "gp:id":1959118,
+        "qs:id":751351,
+        "wd:id":"Q20301213"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051298,
+    "wof:geomhash":"1f17795b8267f63eabdf74692864102a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890419705,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419705,
+    "wof:lastmodified":1514503241,
+    "wof:name":"A\u1e29dam",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11342,
+    14.31023,
+    45.11342,
+    14.31023
+],
+  "geometry": {"coordinates":[45.11342,14.31023],"type":"Point"}
+}

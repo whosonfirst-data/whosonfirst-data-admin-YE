@@ -1,0 +1,71 @@
+{
+  "id": 1243218565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99734,13.55014,43.99734,13.55014",
+    "geom:latitude":13.55014,
+    "geom:longitude":43.99734,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1510.0",
+    "gn:asciiname":"Al Mihal",
+    "gn:country_code":"YE",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407851,
+    "gn:latitude":13.55014,
+    "gn:longitude":43.99734,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al M\u012bh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u012bh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407851
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54f010e724397900ffd1cd17bd048692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926589,
+            "locality_id":1243218565,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243218565,
+    "wof:lastmodified":1537715406,
+    "wof:name":"Al Mihal",
+    "wof:parent_id":1091926589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99734,
+    13.55014,
+    43.99734,
+    13.55014
+],
+  "geometry": {"coordinates":[43.99734,13.55014],"type":"Point"}
+}

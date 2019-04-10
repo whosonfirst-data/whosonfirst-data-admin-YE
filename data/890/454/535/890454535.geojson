@@ -1,0 +1,76 @@
+{
+  "id": 890454535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44776,16.14687,43.44776,16.14687",
+    "geom:latitude":16.14687,
+    "geom:longitude":43.44776,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0639\u0627\u0645\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b 'Amar"
+    ],
+    "name:unk_x_variant":[
+        "Sha\u2018b \u2018\u0100mir"
+    ],
+    "qs:name":"Sha\u2018b \u2018\u0100mar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658654,
+        "gp:id":1959128,
+        "qs:id":696452,
+        "wd:id":"Q20307208"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052903,
+    "wof:geomhash":"4bc8029616b4549728ec3dc6c8cd9732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890454535,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454535,
+    "wof:lastmodified":1514503366,
+    "wof:name":"Sha\u2018b \u2018\u0100mar",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44776,
+    16.14687,
+    43.44776,
+    16.14687
+],
+  "geometry": {"coordinates":[43.44776,16.14687],"type":"Point"}
+}

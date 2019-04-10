@@ -1,0 +1,76 @@
+{
+  "id": 890420505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37407,16.29126,43.37407,16.29126",
+    "geom:latitude":16.29126,
+    "geom:longitude":43.37407,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u2018Uql\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0642\u0644\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Uqla"
+    ],
+    "qs:name":"Al \u2018Uql\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779466,
+        "gp:id":1953570,
+        "qs:id":699581,
+        "wd:id":"Q20303192"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051347,
+    "wof:geomhash":"d3885d87f383bec0d71dab34be89ae3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890420505,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890420505,
+    "wof:lastmodified":1514503212,
+    "wof:name":"Al \u2018Uql\u0101\u2019",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37407,
+    16.29126,
+    43.37407,
+    16.29126
+],
+  "geometry": {"coordinates":[43.37407,16.29126],"type":"Point"}
+}

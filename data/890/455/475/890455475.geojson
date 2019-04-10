@@ -1,0 +1,73 @@
+{
+  "id": 890455475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96129,13.13188,43.96129,13.13188",
+    "geom:latitude":13.13188,
+    "geom:longitude":43.96129,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0645\u064a\u062a\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kumayta"
+    ],
+    "qs:name":"Al Kumayt\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071487,
+        "gp:id":1958962,
+        "qs:id":109254,
+        "wd:id":"Q20305699"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052953,
+    "wof:geomhash":"5100083b339b82cb7e5b59f646646d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890455475,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890455475,
+    "wof:lastmodified":1514503166,
+    "wof:name":"Al Kumayt\u00e1",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96129,
+    13.13188,
+    43.96129,
+    13.13188
+],
+  "geometry": {"coordinates":[43.96129,13.13188],"type":"Point"}
+}

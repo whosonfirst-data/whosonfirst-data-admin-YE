@@ -1,0 +1,74 @@
+{
+  "id": 1343617841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47362,16.01915,43.47362,16.01915",
+    "geom:latitude":16.01915,
+    "geom:longitude":43.47362,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Ar Rasifah",
+    "gn:country_code":"YE",
+    "gn:dem":1915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681893,
+    "gn:latitude":16.01915,
+    "gn:longitude":43.47362,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Ra\u015fifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0635\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u015fifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681893
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b5bedc0d42c2a158660d056f2e011869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1343617841,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343617841,
+    "wof:lastmodified":1537715983,
+    "wof:name":"Ar Rasifah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47362,
+    16.01915,
+    43.47362,
+    16.01915
+],
+  "geometry": {"coordinates":[43.47362,16.01915],"type":"Point"}
+}

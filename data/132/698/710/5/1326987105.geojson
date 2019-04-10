@@ -1,0 +1,74 @@
+{
+  "id": 1326987105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76061,13.69204,43.76061,13.69204",
+    "geom:latitude":13.69204,
+    "geom:longitude":43.76061,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Qaryat al Jubayl",
+    "gn:country_code":"YE",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356255,
+    "gn:latitude":13.69204,
+    "gn:longitude":43.76061,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al Jubayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Jubayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356255
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"590940a65977894491c177bff2ca203c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1326987105,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326987105,
+    "wof:lastmodified":1537715669,
+    "wof:name":"Qaryat al Jubayl",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76061,
+    13.69204,
+    43.76061,
+    13.69204
+],
+  "geometry": {"coordinates":[43.76061,13.69204],"type":"Point"}
+}

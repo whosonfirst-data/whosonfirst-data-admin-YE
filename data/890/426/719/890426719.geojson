@@ -1,0 +1,71 @@
+{
+  "id": 890426719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74393,15.53855,42.74393,15.53855",
+    "geom:latitude":15.53855,
+    "geom:longitude":42.74393,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":92,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u062f\u0645\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al Kadmah"
+    ],
+    "qs:name":"Al Kadimah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680959,
+        85632499,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026142,
+        "qs:id":750683
+    },
+    "wof:country":"YE",
+    "wof:created":1469051644,
+    "wof:geomhash":"29c4bb4627e366b679194ae2dd8e0a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "neighbourhood_id":890426719,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":890426719,
+    "wof:lastmodified":1505343495,
+    "wof:name":"Al Kadimah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74393,
+    15.53855,
+    42.74393,
+    15.53855
+],
+  "geometry": {"coordinates":[42.74393,15.53855],"type":"Point"}
+}

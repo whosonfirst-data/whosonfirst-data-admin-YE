@@ -1,0 +1,71 @@
+{
+  "id": 1309863701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31418,13.78875,44.31418,13.78875",
+    "geom:latitude":13.78875,
+    "geom:longitude":44.31418,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Khurat Bani `Atif",
+    "gn:country_code":"YE",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357159,
+    "gn:latitude":13.78875,
+    "gn:longitude":44.31418,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kh\u016brat Ban\u012b \u2018\u0100\u0163if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u016brat Ban\u012b \u2018\u0100\u0163if"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357159
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2b805378f6b439ab31a452327cb26c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924503,
+            "locality_id":1309863701,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309863701,
+    "wof:lastmodified":1537715694,
+    "wof:name":"Khurat Bani `Atif",
+    "wof:parent_id":1091924503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31418,
+    13.78875,
+    44.31418,
+    13.78875
+],
+  "geometry": {"coordinates":[44.31418,13.78875],"type":"Point"}
+}

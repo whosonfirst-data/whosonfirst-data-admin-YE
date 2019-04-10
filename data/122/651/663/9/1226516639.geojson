@@ -1,0 +1,68 @@
+{
+  "id": 1226516639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28373,14.35714,45.28373,14.35714",
+    "geom:latitude":14.35714,
+    "geom:longitude":45.28373,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Al Qaryah",
+    "gn:country_code":"YE",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363894,
+    "gn:latitude":14.35714,
+    "gn:longitude":45.28373,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qaryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363894
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d39cbffe5d80c8588d40d7851a434b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":1226516639,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226516639,
+    "wof:lastmodified":1537038446,
+    "wof:name":"Al Qaryah",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28373,
+    14.35714,
+    45.28373,
+    14.35714
+],
+  "geometry": {"coordinates":[45.28373,14.35714],"type":"Point"}
+}

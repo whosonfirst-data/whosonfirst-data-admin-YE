@@ -1,0 +1,69 @@
+{
+  "id": 1209096103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36249,14.84838,43.36249,14.84838",
+    "geom:latitude":14.84838,
+    "geom:longitude":43.36249,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Mahall al Fajaj",
+    "gn:country_code":"YE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340843,
+    "gn:latitude":14.84838,
+    "gn:longitude":43.36249,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ma\u1e29all al Faj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0641\u062c\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Ghajj\u0101j",
+        "Ma\u1e29all al Faj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340843
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d6ae72b5eed1960ee484fec23954e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209096103
+        }
+    ],
+    "wof:id":1209096103,
+    "wof:lastmodified":1537715462,
+    "wof:name":"Mahall al Fajaj",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36249,
+    14.84838,
+    43.36249,
+    14.84838
+],
+  "geometry": {"coordinates":[43.36249,14.84838],"type":"Point"}
+}

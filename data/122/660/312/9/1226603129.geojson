@@ -1,0 +1,71 @@
+{
+  "id": 1226603129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35387,16.54261,43.35387,16.54261",
+    "geom:latitude":16.54261,
+    "geom:longitude":43.35387,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Al Kurs",
+    "gn:country_code":"YE",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356637,
+    "gn:latitude":16.54261,
+    "gn:longitude":43.35387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kurs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356637
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"edf67a363b0d221c06151fe3763e28d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":1226603129,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226603129,
+    "wof:lastmodified":1537716045,
+    "wof:name":"Al Kurs",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35387,
+    16.54261,
+    43.35387,
+    16.54261
+],
+  "geometry": {"coordinates":[43.35387,16.54261],"type":"Point"}
+}

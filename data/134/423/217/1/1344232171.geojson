@@ -1,0 +1,71 @@
+{
+  "id": 1344232171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76666,15.78397,43.76666,15.78397",
+    "geom:latitude":15.78397,
+    "geom:longitude":43.76666,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Al Masam",
+    "gn:country_code":"YE",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343869,
+    "gn:latitude":15.78397,
+    "gn:longitude":43.76666,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u015f\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u015f\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343869
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e86aaf69d7348bc929e294e581fc0970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1344232171,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344232171,
+    "wof:lastmodified":1537715520,
+    "wof:name":"Al Masam",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76666,
+    15.78397,
+    43.76666,
+    15.78397
+],
+  "geometry": {"coordinates":[43.76666,15.78397],"type":"Point"}
+}

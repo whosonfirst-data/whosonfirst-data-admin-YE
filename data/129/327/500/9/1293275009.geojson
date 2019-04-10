@@ -1,0 +1,74 @@
+{
+  "id": 1293275009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35198,16.81053,43.35198,16.81053",
+    "geom:latitude":16.81053,
+    "geom:longitude":43.35198,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al Masna'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537563,
+    "gn:latitude":16.81053,
+    "gn:longitude":43.35198,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u015fna\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0646\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u015fna\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537563
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed37c314b155b08088499fa61c3724af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1293275009,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293275009,
+    "wof:lastmodified":1537716053,
+    "wof:name":"Al Masna'ah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35198,
+    16.81053,
+    43.35198,
+    16.81053
+],
+  "geometry": {"coordinates":[43.35198,16.81053],"type":"Point"}
+}

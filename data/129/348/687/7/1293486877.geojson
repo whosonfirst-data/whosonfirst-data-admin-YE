@@ -1,0 +1,73 @@
+{
+  "id": 1293486877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0,15.98333,49.0,15.98333",
+    "geom:latitude":15.98333,
+    "geom:longitude":49.0,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Bayt Hufayy",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76929,
+    "gn:latitude":15.98333,
+    "gn:longitude":49.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt \u1e28ufayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bait \u1e24ufai",
+        "Bayt \u1e28ufayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76929
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc94c1982261293b806036d790aaa35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1293486877,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293486877,
+    "wof:lastmodified":1537715213,
+    "wof:name":"Bayt Hufayy",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0,
+    15.98333,
+    49.0,
+    15.98333
+],
+  "geometry": {"coordinates":[49.0,15.98333],"type":"Point"}
+}

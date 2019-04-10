@@ -1,0 +1,71 @@
+{
+  "id": 1276180721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58028,15.59032,43.58028,15.59032",
+    "geom:latitude":15.59032,
+    "geom:longitude":43.58028,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Mahall Bani Shawir",
+    "gn:country_code":"YE",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7344399,
+    "gn:latitude":15.59032,
+    "gn:longitude":43.58028,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ma\u1e29all Ban\u012b Sh\u0101wir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Ban\u012b Sh\u0101wir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344399
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"327b446d6e8118f9e9646f9ed74b637a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1276180721,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276180721,
+    "wof:lastmodified":1537715538,
+    "wof:name":"Mahall Bani Shawir",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58028,
+    15.59032,
+    43.58028,
+    15.59032
+],
+  "geometry": {"coordinates":[43.58028,15.59032],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226817339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,13.06667,44.36667,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Dar Salim Salak",
+    "gn:country_code":"YE",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76402,
+    "gn:latitude":13.06667,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dar S\u0101lim Salak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar S\u0101lim Salak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76402
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"783846a9de0dd3ad4c11a3f17d76efbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1226817339,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226817339,
+    "wof:lastmodified":1537715197,
+    "wof:name":"Dar Salim Salak",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    13.06667,
+    44.36667,
+    13.06667
+],
+  "geometry": {"coordinates":[44.36667,13.06667],"type":"Point"}
+}

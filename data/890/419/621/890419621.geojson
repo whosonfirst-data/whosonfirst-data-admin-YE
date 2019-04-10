@@ -1,0 +1,73 @@
+{
+  "id": 890419621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20858,17.14006,43.20858,17.14006",
+    "geom:latitude":17.14006,
+    "geom:longitude":43.20858,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062f\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Udnah"
+    ],
+    "qs:name":"Al \u2018Udnah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022103,
+        "gp:id":1938607,
+        "qs:id":750265,
+        "wd:id":"Q20302978"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051294,
+    "wof:geomhash":"2808a7b186eefe694920e15d983b900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890419621,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419621,
+    "wof:lastmodified":1514503212,
+    "wof:name":"Al \u2018Udnah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20858,
+    17.14006,
+    43.20858,
+    17.14006
+],
+  "geometry": {"coordinates":[43.20858,17.14006],"type":"Point"}
+}

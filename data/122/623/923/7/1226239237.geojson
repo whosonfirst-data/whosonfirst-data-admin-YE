@@ -1,0 +1,74 @@
+{
+  "id": 1226239237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35524,14.82156,43.35524,14.82156",
+    "geom:latitude":14.82156,
+    "geom:longitude":43.35524,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Ash Shunayni",
+    "gn:country_code":"YE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058443,
+    "gn:latitude":14.82156,
+    "gn:longitude":43.35524,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shunayn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0646\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shunayn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058443
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"695e459aecb00f26b2d5850bae8d7dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1226239237,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226239237,
+    "wof:lastmodified":1537716339,
+    "wof:name":"Ash Shunayni",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35524,
+    14.82156,
+    43.35524,
+    14.82156
+],
+  "geometry": {"coordinates":[43.35524,14.82156],"type":"Point"}
+}

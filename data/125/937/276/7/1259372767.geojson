@@ -1,0 +1,71 @@
+{
+  "id": 1259372767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14681,14.76754,43.14681,14.76754",
+    "geom:latitude":14.76754,
+    "geom:longitude":43.14681,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Habt al Wa`ariyah",
+    "gn:country_code":"YE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75467,
+    "gn:latitude":14.76754,
+    "gn:longitude":43.14681,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"\u1e28abt al Wa\u2018\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28abt al Wa\u2018\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75467
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b25e3f12616e00e99d324cd9f5423f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1259372767,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259372767,
+    "wof:lastmodified":1537715177,
+    "wof:name":"Habt al Wa`ariyah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14681,
+    14.76754,
+    43.14681,
+    14.76754
+],
+  "geometry": {"coordinates":[43.14681,14.76754],"type":"Point"}
+}

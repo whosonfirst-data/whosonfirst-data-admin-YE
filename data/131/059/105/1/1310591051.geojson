@@ -1,0 +1,74 @@
+{
+  "id": 1310591051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47528,14.90199,43.47528,14.90199",
+    "geom:latitude":14.90199,
+    "geom:longitude":43.47528,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Khamran",
+    "gn:country_code":"YE",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058606,
+    "gn:latitude":14.90199,
+    "gn:longitude":43.47528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khamr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khamr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058606
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30c8dd86a5a7861344e9274d7c0ade69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1310591051,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310591051,
+    "wof:lastmodified":1537716345,
+    "wof:name":"Khamran",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47528,
+    14.90199,
+    43.47528,
+    14.90199
+],
+  "geometry": {"coordinates":[43.47528,14.90199],"type":"Point"}
+}

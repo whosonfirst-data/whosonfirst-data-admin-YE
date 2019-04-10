@@ -1,0 +1,71 @@
+{
+  "id": 1226105825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22409,15.6689,44.22409,15.6689",
+    "geom:latitude":15.6689,
+    "geom:longitude":44.22409,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Al Janadibah",
+    "gn:country_code":"YE",
+    "gn:dem":2246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362415,
+    "gn:latitude":15.6689,
+    "gn:longitude":44.22409,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jan\u0101dibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jan\u0101dibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362415
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4c475cd7d3a29fedd9485b49c6dd719a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1226105825,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226105825,
+    "wof:lastmodified":1537715843,
+    "wof:name":"Al Janadibah",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22409,
+    15.6689,
+    44.22409,
+    15.6689
+],
+  "geometry": {"coordinates":[44.22409,15.6689],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343629931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81459,14.08779,43.81459,14.08779",
+    "geom:latitude":14.08779,
+    "geom:longitude":43.81459,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Rahad",
+    "gn:country_code":"YE",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358760,
+    "gn:latitude":14.08779,
+    "gn:longitude":43.81459,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ra\u1e29a\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u1e29a\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358760
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d709dea693d8b7dc69a8a8bc4a5d57ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1343629931,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343629931,
+    "wof:lastmodified":1537715731,
+    "wof:name":"Rahad",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81459,
+    14.08779,
+    43.81459,
+    14.08779
+],
+  "geometry": {"coordinates":[43.81459,14.08779],"type":"Point"}
+}

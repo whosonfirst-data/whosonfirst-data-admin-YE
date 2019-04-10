@@ -1,0 +1,74 @@
+{
+  "id": 1243134031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01805,15.94334,44.01805,15.94334",
+    "geom:latitude":15.94334,
+    "geom:longitude":44.01805,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"Bab al Mahatt",
+    "gn:country_code":"YE",
+    "gn:dem":2573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975323,
+    "gn:latitude":15.94334,
+    "gn:longitude":44.01805,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101b al Ma\u1e29a\u0163\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0645\u062d\u0637"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b al Ma\u1e29a\u0163\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975323
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ab6eb5f054350628b3256ecdef2adcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922025,
+            "locality_id":1243134031,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243134031,
+    "wof:lastmodified":1537716122,
+    "wof:name":"Bab al Mahatt",
+    "wof:parent_id":1091922025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01805,
+    15.94334,
+    44.01805,
+    15.94334
+],
+  "geometry": {"coordinates":[44.01805,15.94334],"type":"Point"}
+}

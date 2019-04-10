@@ -1,0 +1,74 @@
+{
+  "id": 1343925563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98664,13.15142,43.98664,13.15142",
+    "geom:latitude":13.15142,
+    "geom:longitude":43.98664,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Muhamil",
+    "gn:country_code":"YE",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071404,
+    "gn:latitude":13.15142,
+    "gn:longitude":43.98664,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mu\u1e29\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mu\u1e29\u0101mil"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0645\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071404
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af29cce35f11791f70afd219b1e4ddc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343925563,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343925563,
+    "wof:lastmodified":1537716016,
+    "wof:name":"Al Muhamil",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98664,
+    13.15142,
+    43.98664,
+    13.15142
+],
+  "geometry": {"coordinates":[43.98664,13.15142],"type":"Point"}
+}

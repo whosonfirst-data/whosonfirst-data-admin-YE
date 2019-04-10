@@ -1,0 +1,71 @@
+{
+  "id": 1360141703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13547,13.58577,44.13547,13.58577",
+    "geom:latitude":13.58577,
+    "geom:longitude":44.13547,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"An Namis",
+    "gn:country_code":"YE",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357340,
+    "gn:latitude":13.58577,
+    "gn:longitude":44.13547,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An N\u0101mis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An N\u0101mis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357340
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"230306ecc47b32bc6405337bc46a1e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1360141703,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360141703,
+    "wof:lastmodified":1537715698,
+    "wof:name":"An Namis",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13547,
+    13.58577,
+    44.13547,
+    13.58577
+],
+  "geometry": {"coordinates":[44.13547,13.58577],"type":"Point"}
+}

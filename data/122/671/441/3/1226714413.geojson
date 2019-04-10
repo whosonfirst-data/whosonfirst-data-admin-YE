@@ -1,0 +1,77 @@
+{
+  "id": 1226714413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62699,13.99102,45.62699,13.99102",
+    "geom:latitude":13.99102,
+    "geom:longitude":45.62699,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Al Hanakah",
+    "gn:country_code":"YE",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029479,
+    "gn:latitude":13.99102,
+    "gn:longitude":45.62699,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28anakah",
+    "gn:population":5,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28anakah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029479
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f57473d5a4977fa77af7b7ee40f46f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":1226714413,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226714413,
+    "wof:lastmodified":1537716009,
+    "wof:name":"Al Hanakah",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62699,
+    13.99102,
+    45.62699,
+    13.99102
+],
+  "geometry": {"coordinates":[45.62699,13.99102],"type":"Point"}
+}

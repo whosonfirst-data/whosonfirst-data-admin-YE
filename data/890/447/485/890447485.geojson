@@ -1,0 +1,73 @@
+{
+  "id": 890447485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46088,16.29334,43.46088,16.29334",
+    "geom:latitude":16.29334,
+    "geom:longitude":43.46088,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":36,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Saydah"
+    ],
+    "qs:name":"Saydah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755892,
+        "gp:id":1959128,
+        "qs:id":698755,
+        "wd:id":"Q20307127"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052594,
+    "wof:geomhash":"451295f5969da7888477632c59470bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890447485,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447485,
+    "wof:lastmodified":1514503353,
+    "wof:name":"Saydah",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46088,
+    16.29334,
+    43.46088,
+    16.29334
+],
+  "geometry": {"coordinates":[43.46088,16.29334],"type":"Point"}
+}

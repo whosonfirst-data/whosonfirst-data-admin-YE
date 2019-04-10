@@ -1,0 +1,71 @@
+{
+  "id": 1259376913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3123,15.34666,43.3123,15.34666",
+    "geom:latitude":15.34666,
+    "geom:longitude":43.3123,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Hara'irat Hamdan",
+    "gn:country_code":"YE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365251,
+    "gn:latitude":15.34666,
+    "gn:longitude":43.3123,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"\u1e28ar\u0101\u2019irat Hamd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ar\u0101\u2019irat Hamd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365251
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"316540050c3d3bdea8bdabb88cb15475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1259376913,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259376913,
+    "wof:lastmodified":1537715923,
+    "wof:name":"Hara'irat Hamdan",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3123,
+    15.34666,
+    43.3123,
+    15.34666
+],
+  "geometry": {"coordinates":[43.3123,15.34666],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890437521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29785,16.96832,44.29785,16.96832",
+    "geom:latitude":16.96832,
+    "geom:longitude":44.29785,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0627\u0635 \u0627\u0644\u0623\u0633\u0641\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hissas Al Asfal"
+    ],
+    "qs:name":"Al \u1e28i\u015f\u015f\u0101\u015f al Asfal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795065,
+        "gp:id":1959086,
+        "qs:id":700833,
+        "wd:id":"Q20301517"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052154,
+    "wof:geomhash":"569d6dd343ffe168591fbf52990afc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890437521,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890437521,
+    "wof:lastmodified":1514503206,
+    "wof:name":"Al \u1e28i\u015f\u015f\u0101\u015f al Asfal",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29785,
+    16.96832,
+    44.29785,
+    16.96832
+],
+  "geometry": {"coordinates":[44.29785,16.96832],"type":"Point"}
+}

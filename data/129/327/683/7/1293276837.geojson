@@ -1,0 +1,68 @@
+{
+  "id": 1293276837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22002,15.25127,43.22002,15.25127",
+    "geom:latitude":15.25127,
+    "geom:longitude":43.22002,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Al Muqannaf",
+    "gn:country_code":"YE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403180,
+    "gn:latitude":15.25127,
+    "gn:longitude":43.22002,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Muqannaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403180
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c31182ca4df6430ec08bf0f0b5fece00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1293276837,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293276837,
+    "wof:lastmodified":1537087551,
+    "wof:name":"Al Muqannaf",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22002,
+    15.25127,
+    43.22002,
+    15.25127
+],
+  "geometry": {"coordinates":[43.22002,15.25127],"type":"Point"}
+}

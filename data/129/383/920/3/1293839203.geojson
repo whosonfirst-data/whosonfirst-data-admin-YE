@@ -1,0 +1,72 @@
+{
+  "id": 1293839203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69389,13.46306,44.69389,13.46306",
+    "geom:latitude":13.46306,
+    "geom:longitude":44.69389,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Qaryat al `Ubayd",
+    "gn:country_code":"YE",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71926,
+    "gn:latitude":13.46306,
+    "gn:longitude":44.69389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qaryat al \u2018Ubayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qiryat al \u2018Ubayd",
+        "Qaryat al \u2018Ubayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71926
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed150208db93f4990ca983a9a9c387cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924843,
+            "locality_id":1293839203,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293839203,
+    "wof:lastmodified":1537715105,
+    "wof:name":"Qaryat al `Ubayd",
+    "wof:parent_id":1091924843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69389,
+    13.46306,
+    44.69389,
+    13.46306
+],
+  "geometry": {"coordinates":[44.69389,13.46306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343349923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49055,15.46172,43.49055,15.46172",
+    "geom:latitude":15.46172,
+    "geom:longitude":43.49055,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Suq al `Urqub",
+    "gn:country_code":"YE",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365301,
+    "gn:latitude":15.46172,
+    "gn:longitude":43.49055,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"S\u016bq al \u2018Urq\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al \u2018Urq\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365301
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"39205f2a2b253eb634d13755aee0a871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1343349923,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343349923,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Suq al `Urqub",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49055,
+    15.46172,
+    43.49055,
+    15.46172
+],
+  "geometry": {"coordinates":[43.49055,15.46172],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225841807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38884,14.82038,43.38884,14.82038",
+    "geom:latitude":14.82038,
+    "geom:longitude":43.38884,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Thuwayb",
+    "gn:country_code":"YE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401697,
+    "gn:latitude":14.82038,
+    "gn:longitude":43.38884,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Thuwayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401697
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc437162ac745527b144f96d00cfb040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1225841807,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225841807,
+    "wof:lastmodified":1537018607,
+    "wof:name":"Thuwayb",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38884,
+    14.82038,
+    43.38884,
+    14.82038
+],
+  "geometry": {"coordinates":[43.38884,14.82038],"type":"Point"}
+}

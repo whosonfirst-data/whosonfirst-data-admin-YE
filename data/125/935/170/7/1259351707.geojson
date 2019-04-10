@@ -1,0 +1,74 @@
+{
+  "id": 1259351707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62879,15.54781,43.62879,15.54781",
+    "geom:latitude":15.54781,
+    "geom:longitude":43.62879,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt 'Awshah",
+    "gn:country_code":"YE",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980776,
+    "gn:latitude":15.54781,
+    "gn:longitude":43.62879,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u2018Awshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0648\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Awshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980776
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fac2b05045cee3789727ffec957384fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1259351707,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259351707,
+    "wof:lastmodified":1537716184,
+    "wof:name":"Bayt 'Awshah",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62879,
+    15.54781,
+    43.62879,
+    15.54781
+],
+  "geometry": {"coordinates":[43.62879,15.54781],"type":"Point"}
+}

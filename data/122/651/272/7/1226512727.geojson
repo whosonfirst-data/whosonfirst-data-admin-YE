@@ -1,0 +1,74 @@
+{
+  "id": 1226512727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71099,15.44497,44.71099,15.44497",
+    "geom:latitude":15.44497,
+    "geom:longitude":44.71099,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Wadi al Qalbayn",
+    "gn:country_code":"YE",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331928,
+    "gn:latitude":15.44497,
+    "gn:longitude":44.71099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"W\u0101d\u012b al Qalbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0642\u0644\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Qalbayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331928
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2c3be551ac46718cd9c7555da62bfc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1226512727,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226512727,
+    "wof:lastmodified":1537716203,
+    "wof:name":"Wadi al Qalbayn",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71099,
+    15.44497,
+    44.71099,
+    15.44497
+],
+  "geometry": {"coordinates":[44.71099,15.44497],"type":"Point"}
+}

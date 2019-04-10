@@ -1,0 +1,90 @@
+{
+  "id": 1091921169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001185,
+    "geom:area_square_m":14127186.717422,
+    "geom:bbox":"43.5305198826,15.4358655045,43.5639189855,15.4938538696",
+    "geom:latitude":15.465422,
+    "geom:longitude":43.548899,
+    "iso:country":"YE",
+    "lbl:latitude":15.465778,
+    "lbl:longitude":43.546911,
+    "meso:admin1_en":"Al Mahwit",
+    "meso:admin1_loc":"\u0627\u0644\u0645\u062d\u0648\u064a\u062a",
+    "meso:dissme":"Al MahwitAl Mahwait City",
+    "meso:gadm_admin":"Al Mahwait City",
+    "meso:gaul_admin":"Al Mahwait City",
+    "meso:hasc_id":"YE.MW.MC",
+    "meso:mps_x":43.546911,
+    "meso:mps_y":15.465778,
+    "meso:name_en":"Al Mahwait City",
+    "meso:source":"AOTM",
+    "mps:latitude":15.465778,
+    "mps:longitude":43.546911,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Mahwait City"
+    ],
+    "name:eng_x_variant":[
+        "Al Mahwait City"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.MW",
+    "statoids:name":"Al Mahwait City",
+    "statoids:population":"20134",
+    "statoids:statoid":"YE.MW.MC",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.MW.MC"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893036,
+    "wof:geomhash":"e6034034e3e1426f05a0bef606417d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1091921169,
+    "wof:lastmodified":1536615034,
+    "wof:name":"Al Mahwait City",
+    "wof:parent_id":85680965,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":20134,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"MC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5305198825763,
+    15.43586550450359,
+    43.56391898546883,
+    15.49385386963032
+],
+  "geometry": {"coordinates":[[[43.55140276561905,15.49385386963032],[43.55224496890069,15.49289917488255],[43.55392937546397,15.49098978538701],[43.55645598530889,15.4881257011437],[43.55828962548577,15.48481654153894],[43.5587111761933,15.48142353976074],[43.55924115315371,15.47821118659649],[43.55978656542747,15.47503134085277],[43.56077675794455,15.46967139627348],[43.56126223577137,15.46477903384577],[43.56071905741457,15.46102224676518],[43.56106653762981,15.45627705669508],[43.56362176423104,15.44898568763792],[43.56391898546883,15.44581925145313],[43.56341501894874,15.4403551590207],[43.56147775968861,15.43699424918879],[43.55886789441989,15.43586550450359],[43.55580330319792,15.43721603213543],[43.55258399710627,15.4397314574052],[43.54907240458995,15.44311071776688],[43.54622793145249,15.44689007568229],[43.54430609219472,15.44977958826557],[43.54170971569998,15.45217002990669],[43.53751781089048,15.45462420873355],[43.53346578447434,15.45853724721287],[43.53132549052309,15.46290078125612],[43.5305198825763,15.46620297660897],[43.53083218058216,15.46885884628029],[43.53172309180722,15.47080784034873],[43.53331155016919,15.47320788282229],[43.53514189642423,15.47741252021181],[43.53673066375131,15.48215078925022],[43.53918123002276,15.48574261733044],[43.54164547827592,15.48796669699111],[43.54479228283144,15.49009462554728],[43.54809752422525,15.4919742475888],[43.55140276561905,15.49385386963032]]],"type":"Polygon"}
+}

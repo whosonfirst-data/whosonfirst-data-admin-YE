@@ -1,0 +1,73 @@
+{
+  "id": 890439535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74242,16.16186,43.74242,16.16186",
+    "geom:latitude":16.16186,
+    "geom:longitude":43.74242,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0647\u0631 \u0627\u0644\u0628\u0644\u062d\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Qahir Al Balhah"
+    ],
+    "qs:name":"Q\u0101hir al Bal\u1e29ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033540,
+        "gp:id":1959128,
+        "qs:id":750786,
+        "wd:id":"Q20305183"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052239,
+    "wof:geomhash":"28f6ef5234a60efc413b0f378f24eef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890439535,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890439535,
+    "wof:lastmodified":1514503338,
+    "wof:name":"Q\u0101hir al Bal\u1e29ah",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74242,
+    16.16186,
+    43.74242,
+    16.16186
+],
+  "geometry": {"coordinates":[43.74242,16.16186],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309781139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95831,16.29662,43.95831,16.29662",
+    "geom:latitude":16.29662,
+    "geom:longitude":43.95831,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Al Fayid",
+    "gn:country_code":"YE",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635045,
+    "gn:latitude":16.29662,
+    "gn:longitude":43.95831,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l F\u0101yid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l F\u0101yid"
+    ],
+    "name:ara_x_variant":[
+        "\u0622\u0644 \u0641\u0627\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635045
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77414b092f5031316857de04c37aeb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921923,
+            "locality_id":1309781139,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309781139,
+    "wof:lastmodified":1537716093,
+    "wof:name":"Al Fayid",
+    "wof:parent_id":1091921923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95831,
+    16.29662,
+    43.95831,
+    16.29662
+],
+  "geometry": {"coordinates":[43.95831,16.29662],"type":"Point"}
+}

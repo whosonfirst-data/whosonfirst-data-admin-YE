@@ -1,0 +1,75 @@
+{
+  "id": 1226615549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37582,16.82546,43.37582,16.82546",
+    "geom:latitude":16.82546,
+    "geom:longitude":43.37582,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al Quzzan",
+    "gn:country_code":"YE",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346433,
+    "gn:latitude":16.82546,
+    "gn:longitude":43.37582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l Quzz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bin Quzz\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0100l Quzz\u0101n",
+        "\u0627\u0644 \u0642\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346433
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"082118eefa96be050edd2c4faa0b7d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1226615549,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226615549,
+    "wof:lastmodified":1537715593,
+    "wof:name":"Al Quzzan",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37582,
+    16.82546,
+    43.37582,
+    16.82546
+],
+  "geometry": {"coordinates":[43.37582,16.82546],"type":"Point"}
+}

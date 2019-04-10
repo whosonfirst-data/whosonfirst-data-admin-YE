@@ -1,0 +1,76 @@
+{
+  "id": 1343357367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84319,14.99394,46.84319,14.99394",
+    "geom:latitude":14.99394,
+    "geom:longitude":46.84319,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"`Iyadh",
+    "gn:country_code":"YE",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74381,
+    "gn:latitude":14.99394,
+    "gn:longitude":46.84319,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"\u2018Iy\u0101dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Iy\u0101dh"
+    ],
+    "name:und_x_variant":[
+        "Aiyad",
+        "\u2018Ay\u0101dh",
+        "Iyad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74381
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a432b230046f0ce9d42ded34f499c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1343357367,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343357367,
+    "wof:lastmodified":1537715153,
+    "wof:name":"`Iyadh",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84319,
+    14.99394,
+    46.84319,
+    14.99394
+],
+  "geometry": {"coordinates":[46.84319,14.99394],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242774627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25256,14.81798,43.25256,14.81798",
+    "geom:latitude":14.81798,
+    "geom:longitude":43.25256,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Dayr al Qahnayn",
+    "gn:country_code":"YE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340942,
+    "gn:latitude":14.81798,
+    "gn:longitude":43.25256,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Dayr al Qa\u1e29nayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Qa\u1e29nayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340942
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bedf3c479b30a657576e45a44f4c49dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1242774627,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242774627,
+    "wof:lastmodified":1537715467,
+    "wof:name":"Dayr al Qahnayn",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25256,
+    14.81798,
+    43.25256,
+    14.81798
+],
+  "geometry": {"coordinates":[43.25256,14.81798],"type":"Point"}
+}

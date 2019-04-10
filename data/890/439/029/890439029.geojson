@@ -1,0 +1,73 @@
+{
+  "id": 890439029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57896,16.07465,43.57896,16.07465",
+    "geom:latitude":16.07465,
+    "geom:longitude":43.57896,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0645 \u0627\u0644\u0635\u0648\u0641\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Aqm As Sawfi"
+    ],
+    "qs:name":"\u2018Aqm a\u015f \u015eawf\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927494,
+        "gp:id":1959128,
+        "qs:id":745496,
+        "wd:id":"Q20299089"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052218,
+    "wof:geomhash":"c0c43c295f947b1cdbfae50aaf2be656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":890439029,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890439029,
+    "wof:lastmodified":1514503404,
+    "wof:name":"\u2018Aqm a\u015f \u015eawf\u012b",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57896,
+    16.07465,
+    43.57896,
+    16.07465
+],
+  "geometry": {"coordinates":[43.57896,16.07465],"type":"Point"}
+}

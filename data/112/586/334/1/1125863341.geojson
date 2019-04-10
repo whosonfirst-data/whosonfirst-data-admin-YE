@@ -1,0 +1,88 @@
+{
+  "id": 1125863341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00953,16.48494,43.00953,16.48494",
+    "geom:latitude":16.48494,
+    "geom:longitude":43.00953,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":14,
+    "gn:population":14,
+    "iso:country":"YE",
+    "lbl:latitude":16.48494,
+    "lbl:longitude":43.00953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0627\u0644\u0642\u0637\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Shamal Al Qitbah"
+    ],
+    "name:unk_x_variant":[
+        "Sham\u0101l al Qu\u0163bah"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":7631487,
+    "qs_pg:gn_pop":14,
+    "qs_pg:name":"Sham\u0101l al Qi\u0163bah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694476,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631487,
+        "qs_pg:id":694476,
+        "wd:id":"Q20308177"
+    },
+    "wof:country":"YE",
+    "wof:created":1497293926,
+    "wof:geomhash":"f84dfb65077baf3e45146e51700ee4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1125863341,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125863341,
+    "wof:lastmodified":1514503362,
+    "wof:name":"Sham\u0101l al Qi\u0163bah",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00953,
+    16.48494,
+    43.00953,
+    16.48494
+],
+  "geometry": {"coordinates":[43.00953,16.48494],"type":"Point"}
+}

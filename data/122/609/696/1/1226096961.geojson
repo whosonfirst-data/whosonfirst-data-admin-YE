@@ -1,0 +1,71 @@
+{
+  "id": 1226096961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47858,13.03796,43.47858,13.03796",
+    "geom:latitude":13.03796,
+    "geom:longitude":43.47858,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1507.0",
+    "gn:asciiname":"Bi'r al `Umari",
+    "gn:country_code":"YE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329452,
+    "gn:latitude":13.03796,
+    "gn:longitude":43.47858,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bi\u2019r al \u2018Umar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u2019r al \u2018Umar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329452
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed7ab766514caab236d9c26188ba89ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":1226096961,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226096961,
+    "wof:lastmodified":1537715434,
+    "wof:name":"Bi'r al `Umari",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47858,
+    13.03796,
+    43.47858,
+    13.03796
+],
+  "geometry": {"coordinates":[43.47858,13.03796],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36932,16.02617,43.36932,16.02617",
+    "geom:latitude":16.02617,
+    "geom:longitude":43.36932,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u062d\u0631 \u0627\u0644\u0632\u064a\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Dahir Az Zaydi"
+    ],
+    "qs:name":"D\u0101\u1e29ir az Zayd\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654679,
+        "gp:id":1958568,
+        "qs:id":695974,
+        "wd:id":"Q20301625"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051559,
+    "wof:geomhash":"e4843d5123c01bb5d7c032a934fbe030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890424713,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424713,
+    "wof:lastmodified":1514503265,
+    "wof:name":"D\u0101\u1e29ir az Zayd\u012b",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36932,
+    16.02617,
+    43.36932,
+    16.02617
+],
+  "geometry": {"coordinates":[43.36932,16.02617],"type":"Point"}
+}

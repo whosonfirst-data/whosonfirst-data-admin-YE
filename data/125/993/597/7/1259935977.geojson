@@ -1,0 +1,74 @@
+{
+  "id": 1259935977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03317,14.02731,44.03317,14.02731",
+    "geom:latitude":14.02731,
+    "geom:longitude":44.03317,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"`Akthab",
+    "gn:country_code":"YE",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359723,
+    "gn:latitude":14.02731,
+    "gn:longitude":44.03317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Akthab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0643\u062b\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Akthab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359723
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2949a70741d486c41bc9e1e39f5266be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1259935977,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259935977,
+    "wof:lastmodified":1537715774,
+    "wof:name":"`Akthab",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03317,
+    14.02731,
+    44.03317,
+    14.02731
+],
+  "geometry": {"coordinates":[44.03317,14.02731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310489495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05464,14.50078,44.05464,14.50078",
+    "geom:latitude":14.50078,
+    "geom:longitude":44.05464,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Al Mitbabah",
+    "gn:country_code":"YE",
+    "gn:dem":2189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402982,
+    "gn:latitude":14.50078,
+    "gn:longitude":44.05464,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mi\u0163b\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mi\u0163b\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402982
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db57f7dd52fdac3c1501951a6e505235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1310489495,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1310489495,
+    "wof:lastmodified":1537715367,
+    "wof:name":"Al Mitbabah",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05464,
+    14.50078,
+    44.05464,
+    14.50078
+],
+  "geometry": {"coordinates":[44.05464,14.50078],"type":"Point"}
+}

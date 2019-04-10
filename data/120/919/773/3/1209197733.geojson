@@ -1,0 +1,65 @@
+{
+  "id": 1209197733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21775,15.12205,45.21775,15.12205",
+    "geom:latitude":15.12205,
+    "geom:longitude":45.21775,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Ad Darmayn",
+    "gn:country_code":"YE",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976447,
+    "gn:latitude":15.12205,
+    "gn:longitude":45.21775,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Darmayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0645\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976447
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ba81e3e03a64d466973d61386f8ffe05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209197733
+        }
+    ],
+    "wof:id":1209197733,
+    "wof:lastmodified":1537716157,
+    "wof:name":"Ad Darmayn",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21775,
+    15.12205,
+    45.21775,
+    15.12205
+],
+  "geometry": {"coordinates":[45.21775,15.12205],"type":"Point"}
+}

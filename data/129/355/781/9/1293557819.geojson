@@ -1,0 +1,71 @@
+{
+  "id": 1293557819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10683,14.29273,44.10683,14.29273",
+    "geom:latitude":14.29273,
+    "geom:longitude":44.10683,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Al Adib",
+    "gn:country_code":"YE",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358960,
+    "gn:latitude":14.29273,
+    "gn:longitude":44.10683,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ad\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ad\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358960
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc44531934e641760c537e963fd2707f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1293557819,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293557819,
+    "wof:lastmodified":1537715738,
+    "wof:name":"Al Adib",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10683,
+    14.29273,
+    44.10683,
+    14.29273
+],
+  "geometry": {"coordinates":[44.10683,14.29273],"type":"Point"}
+}

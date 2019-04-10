@@ -1,0 +1,68 @@
+{
+  "id": 1260034729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03828,13.75449,44.03828,13.75449",
+    "geom:latitude":13.75449,
+    "geom:longitude":44.03828,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Ad Dafnah",
+    "gn:country_code":"YE",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356449,
+    "gn:latitude":13.75449,
+    "gn:longitude":44.03828,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Dafnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356449
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7696e7f359006d00172cd0841b191560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1260034729,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260034729,
+    "wof:lastmodified":1537055937,
+    "wof:name":"Ad Dafnah",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03828,
+    13.75449,
+    44.03828,
+    13.75449
+],
+  "geometry": {"coordinates":[44.03828,13.75449],"type":"Point"}
+}

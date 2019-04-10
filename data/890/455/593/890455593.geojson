@@ -1,0 +1,68 @@
+{
+  "id": 890455593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49332,16.08722,43.49332,16.08722",
+    "geom:latitude":16.08722,
+    "geom:longitude":43.49332,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0630\u064a \u0633\u0644\u0639"
+    ],
+    "qs:name":"Dh\u012b Sila\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658695,
+        "gp:id":1959128,
+        "qs:id":696490
+    },
+    "wof:country":"YE",
+    "wof:created":1469052963,
+    "wof:geomhash":"22a11c81cfefa67999cfc9fa719556fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "locality_id":890455593,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890455593,
+    "wof:lastmodified":1505343664,
+    "wof:name":"Dh\u012b Sila\u2018",
+    "wof:parent_id":85680973,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49332,
+    16.08722,
+    43.49332,
+    16.08722
+],
+  "geometry": {"coordinates":[43.49332,16.08722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309679773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18147,13.24972,44.18147,13.24972",
+    "geom:latitude":13.24972,
+    "geom:longitude":44.18147,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Al Hijam",
+    "gn:country_code":"YE",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871498,
+    "gn:latitude":13.24972,
+    "gn:longitude":44.18147,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Hij\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062c\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Hij\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871498
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ec1a6aa9222cba343af267527a1f04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1309679773,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309679773,
+    "wof:lastmodified":1537716247,
+    "wof:name":"Al Hijam",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18147,
+    13.24972,
+    44.18147,
+    13.24972
+],
+  "geometry": {"coordinates":[44.18147,13.24972],"type":"Point"}
+}

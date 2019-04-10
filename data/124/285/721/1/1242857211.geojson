@@ -1,0 +1,71 @@
+{
+  "id": 1242857211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25,16.81667,43.25,16.81667",
+    "geom:latitude":16.81667,
+    "geom:longitude":43.25,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Ghalib",
+    "gn:country_code":"YE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75684,
+    "gn:latitude":16.81667,
+    "gn:longitude":43.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gh\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Gh\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75684
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b7e0e10d61a6b8e8c1b6c0fe8a36b7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1242857211,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242857211,
+    "wof:lastmodified":1537715181,
+    "wof:name":"Ghalib",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25,
+    16.81667,
+    43.25,
+    16.81667
+],
+  "geometry": {"coordinates":[43.25,16.81667],"type":"Point"}
+}

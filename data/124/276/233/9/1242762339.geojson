@@ -1,0 +1,74 @@
+{
+  "id": 1242762339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57261,14.49113,43.57261,14.49113",
+    "geom:latitude":14.49113,
+    "geom:longitude":43.57261,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Shi`b az Zarb",
+    "gn:country_code":"YE",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358333,
+    "gn:latitude":14.49113,
+    "gn:longitude":43.57261,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Shi\u2018b az Zarb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0632\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Shi\u2018b az Zarb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358333
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87851d69951a49051520a22c9168d23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925305,
+            "locality_id":1242762339,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1242762339,
+    "wof:lastmodified":1537715719,
+    "wof:name":"Shi`b az Zarb",
+    "wof:parent_id":1091925305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57261,
+    14.49113,
+    43.57261,
+    14.49113
+],
+  "geometry": {"coordinates":[43.57261,14.49113],"type":"Point"}
+}

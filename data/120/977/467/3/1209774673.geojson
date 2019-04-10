@@ -1,0 +1,75 @@
+{
+  "id": 1209774673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7372,14.36647,44.7372,14.36647",
+    "geom:latitude":14.36647,
+    "geom:longitude":44.7372,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Al Kharayib",
+    "gn:country_code":"YE",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340228,
+    "gn:latitude":14.36647,
+    "gn:longitude":44.7372,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Khar\u0101yib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Khar\u0101\u2019ib",
+        "Al Khar\u0101yib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340228
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a6fea53af162ce2d34fb4776529e217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1209774673,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1209774673,
+    "wof:lastmodified":1537715443,
+    "wof:name":"Al Kharayib",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7372,
+    14.36647,
+    44.7372,
+    14.36647
+],
+  "geometry": {"coordinates":[44.7372,14.36647],"type":"Point"}
+}

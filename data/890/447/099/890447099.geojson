@@ -1,0 +1,73 @@
+{
+  "id": 890447099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67126,16.96691,43.67126,16.96691",
+    "geom:latitude":16.96691,
+    "geom:longitude":43.67126,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u0634\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rawashid"
+    ],
+    "qs:name":"Ar Raw\u0101shid",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753472,
+        "gp:id":1953481,
+        "qs:id":698396,
+        "wd:id":"Q20301802"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052579,
+    "wof:geomhash":"f74a2beb924c31982d94957815f38386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890447099,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447099,
+    "wof:lastmodified":1514503221,
+    "wof:name":"Ar Raw\u0101shid",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67126,
+    16.96691,
+    43.67126,
+    16.96691
+],
+  "geometry": {"coordinates":[43.67126,16.96691],"type":"Point"}
+}

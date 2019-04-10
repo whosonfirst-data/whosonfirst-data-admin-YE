@@ -1,0 +1,68 @@
+{
+  "id": 1343639821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38759,15.42973,43.38759,15.42973",
+    "geom:latitude":15.42973,
+    "geom:longitude":43.38759,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Makhdarah",
+    "gn:country_code":"YE",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365277,
+    "gn:latitude":15.42973,
+    "gn:longitude":43.38759,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Makhdarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365277
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3be4162871b9e02c71a13e8b7a95756a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1343639821,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343639821,
+    "wof:lastmodified":1536984071,
+    "wof:name":"Makhdarah",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38759,
+    15.42973,
+    43.38759,
+    15.42973
+],
+  "geometry": {"coordinates":[43.38759,15.42973],"type":"Point"}
+}

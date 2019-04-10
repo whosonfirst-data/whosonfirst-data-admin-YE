@@ -1,0 +1,74 @@
+{
+  "id": 1360257693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40835,16.89844,43.40835,16.89844",
+    "geom:latitude":16.89844,
+    "geom:longitude":43.40835,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Qullat `Ad",
+    "gn:country_code":"YE",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346208,
+    "gn:latitude":16.89844,
+    "gn:longitude":43.40835,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Qullat \u2018\u0100d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0639\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qullat \u2018\u0100d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346208
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d7f964aa647c86ef3fd470470dc9b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1360257693,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360257693,
+    "wof:lastmodified":1537715583,
+    "wof:name":"Qullat `Ad",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40835,
+    16.89844,
+    43.40835,
+    16.89844
+],
+  "geometry": {"coordinates":[43.40835,16.89844],"type":"Point"}
+}

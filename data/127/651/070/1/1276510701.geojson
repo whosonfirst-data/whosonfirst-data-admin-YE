@@ -1,0 +1,71 @@
+{
+  "id": 1276510701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78266,14.89936,44.78266,14.89936",
+    "geom:latitude":14.89936,
+    "geom:longitude":44.78266,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2314.0",
+    "gn:asciiname":"Buqayrah",
+    "gn:country_code":"YE",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364033,
+    "gn:latitude":14.89936,
+    "gn:longitude":44.78266,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Buqayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u064a\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364033
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e6d4bd16dcf0fa423766b70496a432ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925737,
+            "locality_id":1276510701,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276510701,
+    "wof:lastmodified":1537715887,
+    "wof:name":"Buqayrah",
+    "wof:parent_id":1091925737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78266,
+    14.89936,
+    44.78266,
+    14.89936
+],
+  "geometry": {"coordinates":[44.78266,14.89936],"type":"Point"}
+}

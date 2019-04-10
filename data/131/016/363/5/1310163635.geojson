@@ -1,0 +1,74 @@
+{
+  "id": 1310163635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20112,14.25127,44.20112,14.25127",
+    "geom:latitude":14.25127,
+    "geom:longitude":44.20112,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Al Huraqah",
+    "gn:country_code":"YE",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870279,
+    "gn:latitude":14.25127,
+    "gn:longitude":44.20112,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28uraqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28uraqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870279
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"826e8079dea9a7c0c2c336c33da40c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1310163635,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310163635,
+    "wof:lastmodified":1537716216,
+    "wof:name":"Al Huraqah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20112,
+    14.25127,
+    44.20112,
+    14.25127
+],
+  "geometry": {"coordinates":[44.20112,14.25127],"type":"Point"}
+}

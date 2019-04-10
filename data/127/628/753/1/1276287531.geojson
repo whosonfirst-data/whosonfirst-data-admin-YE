@@ -1,0 +1,72 @@
+{
+  "id": 1276287531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24352,15.75603,43.24352,15.75603",
+    "geom:latitude":15.75603,
+    "geom:longitude":43.24352,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Al Majassah",
+    "gn:country_code":"YE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34883,
+    "gn:latitude":15.75603,
+    "gn:longitude":43.24352,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Maja\u015f\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maja\u015f\u015fah",
+        "Al Majassah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34883
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a42bb410cd2dfab4ca7aa28bfd6c43ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1276287531,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276287531,
+    "wof:lastmodified":1537715058,
+    "wof:name":"Al Majassah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24352,
+    15.75603,
+    43.24352,
+    15.75603
+],
+  "geometry": {"coordinates":[43.24352,15.75603],"type":"Point"}
+}

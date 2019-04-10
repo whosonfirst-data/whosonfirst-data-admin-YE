@@ -1,0 +1,71 @@
+{
+  "id": 1293667373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77767,15.42224,43.77767,15.42224",
+    "geom:latitude":15.42224,
+    "geom:longitude":43.77767,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Radam",
+    "gn:country_code":"YE",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402539,
+    "gn:latitude":15.42224,
+    "gn:longitude":43.77767,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ra\u1e11am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u1e11am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402539
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e65d96a39def73aa417e625781894b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1293667373,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293667373,
+    "wof:lastmodified":1537715356,
+    "wof:name":"Radam",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77767,
+    15.42224,
+    43.77767,
+    15.42224
+],
+  "geometry": {"coordinates":[43.77767,15.42224],"type":"Point"}
+}

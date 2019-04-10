@@ -1,0 +1,71 @@
+{
+  "id": 1209810819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00521,14.90018,43.00521,14.90018",
+    "geom:latitude":14.90018,
+    "geom:longitude":43.00521,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Az Zawiyah",
+    "gn:country_code":"YE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77516,
+    "gn:latitude":14.90018,
+    "gn:longitude":43.00521,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Az Z\u0101wiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Z\u0101wiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77516
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dfa314c763bebdc7c2a025935fe3dd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1209810819,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209810819,
+    "wof:lastmodified":1537715226,
+    "wof:name":"Az Zawiyah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00521,
+    14.90018,
+    43.00521,
+    14.90018
+],
+  "geometry": {"coordinates":[43.00521,14.90018],"type":"Point"}
+}

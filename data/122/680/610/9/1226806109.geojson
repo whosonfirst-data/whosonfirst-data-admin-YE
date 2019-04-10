@@ -1,0 +1,71 @@
+{
+  "id": 1226806109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85316,13.77669,43.85316,13.77669",
+    "geom:latitude":13.77669,
+    "geom:longitude":43.85316,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Bani Sha'b",
+    "gn:country_code":"YE",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354894,
+    "gn:latitude":13.77669,
+    "gn:longitude":43.85316,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b Sha\u2018b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Sha\u2018b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354894
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81e4fac52d47ae6c4efbab1691c5ec13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":1226806109,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226806109,
+    "wof:lastmodified":1537716042,
+    "wof:name":"Bani Sha'b",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85316,
+    13.77669,
+    43.85316,
+    13.77669
+],
+  "geometry": {"coordinates":[43.85316,13.77669],"type":"Point"}
+}

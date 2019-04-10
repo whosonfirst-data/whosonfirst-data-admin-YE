@@ -1,0 +1,71 @@
+{
+  "id": 1293842893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38261,14.04141,45.38261,14.04141",
+    "geom:latitude":14.04141,
+    "geom:longitude":45.38261,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1405.0",
+    "gn:asciiname":"Al Majrish",
+    "gn:country_code":"YE",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364381,
+    "gn:latitude":14.04141,
+    "gn:longitude":45.38261,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Majr\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Majr\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364381
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb925e3b38abecea823f060430617130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919265,
+            "locality_id":1293842893,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293842893,
+    "wof:lastmodified":1537715897,
+    "wof:name":"Al Majrish",
+    "wof:parent_id":1091919265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38261,
+    14.04141,
+    45.38261,
+    14.04141
+],
+  "geometry": {"coordinates":[45.38261,14.04141],"type":"Point"}
+}

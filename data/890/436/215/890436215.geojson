@@ -1,0 +1,73 @@
+{
+  "id": 890436215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18726,14.44404,45.18726,14.44404",
+    "geom:latitude":14.44404,
+    "geom:longitude":45.18726,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0634\u0639\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ash'ar"
+    ],
+    "qs:name":"Al Ash\u2018ar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052047,
+        "gp:id":1958975,
+        "qs:id":751424,
+        "wd:id":"Q20304141"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052102,
+    "wof:geomhash":"879e07214d84b7277dd2d1267a1191cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890436215,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890436215,
+    "wof:lastmodified":1514503134,
+    "wof:name":"Al Ash\u2018ar",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18726,
+    14.44404,
+    45.18726,
+    14.44404
+],
+  "geometry": {"coordinates":[45.18726,14.44404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890427041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.50766,14.99486,45.50766,14.99486",
+    "geom:latitude":14.99486,
+    "geom:longitude":45.50766,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062f\u064a\u0645\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Dayman"
+    ],
+    "qs:name":"\u0100l Daym\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053579,
+        "gp:id":1959055,
+        "qs:id":751976,
+        "wd:id":"Q20305157"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051670,
+    "wof:geomhash":"23bbcda9636e153b7a72c11c1bfb165e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890427041,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890427041,
+    "wof:lastmodified":1514503387,
+    "wof:name":"\u0100l Daym\u0101n",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.50766,
+    14.99486,
+    45.50766,
+    14.99486
+],
+  "geometry": {"coordinates":[45.50766,14.99486],"type":"Point"}
+}

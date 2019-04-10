@@ -1,0 +1,71 @@
+{
+  "id": 1226591389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58143,14.87473,43.58143,14.87473",
+    "geom:latitude":14.87473,
+    "geom:longitude":43.58143,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3101.0",
+    "gn:asciiname":"Mahall al Hunayshi",
+    "gn:country_code":"YE",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360358,
+    "gn:latitude":14.87473,
+    "gn:longitude":43.58143,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al \u1e28unaysh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28unaysh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360358
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96adcac255fc49cba9e2851ca278b26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925309,
+            "locality_id":1226591389,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1226591389,
+    "wof:lastmodified":1537715798,
+    "wof:name":"Mahall al Hunayshi",
+    "wof:parent_id":1091925309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58143,
+    14.87473,
+    43.58143,
+    14.87473
+],
+  "geometry": {"coordinates":[43.58143,14.87473],"type":"Point"}
+}

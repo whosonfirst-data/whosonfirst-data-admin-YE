@@ -1,0 +1,71 @@
+{
+  "id": 1226806115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82393,13.51567,43.82393,13.51567",
+    "geom:latitude":13.51567,
+    "geom:longitude":43.82393,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Al Khalfah",
+    "gn:country_code":"YE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407822,
+    "gn:latitude":13.51567,
+    "gn:longitude":43.82393,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khalfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u0641\u0640\u0640\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407822
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8bb7790ab221ad59ead4f440c306f5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1226806115,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226806115,
+    "wof:lastmodified":1537715405,
+    "wof:name":"Al Khalfah",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82393,
+    13.51567,
+    43.82393,
+    13.51567
+],
+  "geometry": {"coordinates":[43.82393,13.51567],"type":"Point"}
+}

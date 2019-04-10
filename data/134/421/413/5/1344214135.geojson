@@ -1,0 +1,71 @@
+{
+  "id": 1344214135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85391,13.4364,43.85391,13.4364",
+    "geom:latitude":13.4364,
+    "geom:longitude":43.85391,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Midhafah",
+    "gn:country_code":"YE",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354368,
+    "gn:latitude":13.4364,
+    "gn:longitude":43.85391,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Midh\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midh\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354368
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30d3f58113fcf29e973d01d87fff88e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1344214135,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1344214135,
+    "wof:lastmodified":1537715608,
+    "wof:name":"Midhafah",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85391,
+    13.4364,
+    43.85391,
+    13.4364
+],
+  "geometry": {"coordinates":[43.85391,13.4364],"type":"Point"}
+}

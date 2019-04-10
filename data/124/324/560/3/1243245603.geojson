@@ -1,0 +1,71 @@
+{
+  "id": 1243245603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70578,15.04854,43.70578,15.04854",
+    "geom:latitude":15.04854,
+    "geom:longitude":43.70578,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"Qaryat al Amir",
+    "gn:country_code":"YE",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360804,
+    "gn:latitude":15.04854,
+    "gn:longitude":43.70578,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al \u0100mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al \u0100mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360804
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a6b8afc2fa6585c8662ce171bc8845e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1243245603,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243245603,
+    "wof:lastmodified":1537715806,
+    "wof:name":"Qaryat al Amir",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70578,
+    15.04854,
+    43.70578,
+    15.04854
+],
+  "geometry": {"coordinates":[43.70578,15.04854],"type":"Point"}
+}

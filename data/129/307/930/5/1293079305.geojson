@@ -1,0 +1,71 @@
+{
+  "id": 1293079305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32331,15.47307,43.32331,15.47307",
+    "geom:latitude":15.47307,
+    "geom:longitude":43.32331,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Al `Azib",
+    "gn:country_code":"YE",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364974,
+    "gn:latitude":15.47307,
+    "gn:longitude":43.32331,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al \u2018Az\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Az\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364974
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b9f26d4ef269440ebf09169cc6b448b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1293079305,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293079305,
+    "wof:lastmodified":1537715914,
+    "wof:name":"Al `Azib",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32331,
+    15.47307,
+    43.32331,
+    15.47307
+],
+  "geometry": {"coordinates":[43.32331,15.47307],"type":"Point"}
+}

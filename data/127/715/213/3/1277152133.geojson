@@ -1,0 +1,74 @@
+{
+  "id": 1277152133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85258,16.23236,43.85258,16.23236",
+    "geom:latitude":16.23236,
+    "geom:longitude":43.85258,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Sha'b Nawwah",
+    "gn:country_code":"YE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634563,
+    "gn:latitude":16.23236,
+    "gn:longitude":43.85258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b Nawwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0646\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b Nawwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634563
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1fb57c7e654b1f742ac07d459d290e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1277152133,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1277152133,
+    "wof:lastmodified":1537716082,
+    "wof:name":"Sha'b Nawwah",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85258,
+    16.23236,
+    43.85258,
+    16.23236
+],
+  "geometry": {"coordinates":[43.85258,16.23236],"type":"Point"}
+}

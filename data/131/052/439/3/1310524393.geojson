@@ -1,0 +1,71 @@
+{
+  "id": 1310524393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,14.78333,48.71667,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"Sharj Ba Salih",
+    "gn:country_code":"YE",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70780,
+    "gn:latitude":14.78333,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sharj B\u0101 \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharj B\u0101 \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70780
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0d892608fb6e2153e2faa8c14f025bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1310524393,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310524393,
+    "wof:lastmodified":1537715084,
+    "wof:name":"Sharj Ba Salih",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    14.78333,
+    48.71667,
+    14.78333
+],
+  "geometry": {"coordinates":[48.71667,14.78333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02386,16.48987,43.02386,16.48987",
+    "geom:latitude":16.48987,
+    "geom:longitude":43.02386,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0627\u0644\u062f\u0645\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Ad Damim"
+    ],
+    "qs:name":"Ban\u012b ad Dam\u012bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631489,
+        "gp:id":1939792,
+        "qs:id":694478,
+        "wd:id":"Q20298993"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051545,
+    "wof:geomhash":"e8a69ed777fae42a01175fcae6cb28cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":890424449,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424449,
+    "wof:lastmodified":1514503244,
+    "wof:name":"Ban\u012b ad Dam\u012bm",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02386,
+    16.48987,
+    43.02386,
+    16.48987
+],
+  "geometry": {"coordinates":[43.02386,16.48987],"type":"Point"}
+}

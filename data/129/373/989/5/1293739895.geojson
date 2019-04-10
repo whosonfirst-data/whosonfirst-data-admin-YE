@@ -1,0 +1,74 @@
+{
+  "id": 1293739895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7428,13.96812,43.7428,13.96812",
+    "geom:latitude":13.96812,
+    "geom:longitude":43.7428,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"An Nudaym",
+    "gn:country_code":"YE",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355767,
+    "gn:latitude":13.96812,
+    "gn:longitude":43.7428,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An Nudaym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062f\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "An Nad\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355767
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"64d0bd3c4cf4112f3e9ccf5a057039da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1293739895,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293739895,
+    "wof:lastmodified":1537715650,
+    "wof:name":"An Nudaym",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7428,
+    13.96812,
+    43.7428,
+    13.96812
+],
+  "geometry": {"coordinates":[43.7428,13.96812],"type":"Point"}
+}

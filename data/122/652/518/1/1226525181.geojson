@@ -1,0 +1,74 @@
+{
+  "id": 1226525181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50808,17.0397,43.50808,17.0397",
+    "geom:latitude":17.0397,
+    "geom:longitude":43.50808,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Mayfa`an",
+    "gn:country_code":"YE",
+    "gn:dem":2280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345261,
+    "gn:latitude":17.0397,
+    "gn:longitude":43.50808,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mayfa\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0641\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mayfa\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345261
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fddf3aebe0df0b1af4ce8d83b56fffe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1226525181,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226525181,
+    "wof:lastmodified":1537715555,
+    "wof:name":"Mayfa`an",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50808,
+    17.0397,
+    43.50808,
+    17.0397
+],
+  "geometry": {"coordinates":[43.50808,17.0397],"type":"Point"}
+}

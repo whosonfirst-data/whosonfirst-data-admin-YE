@@ -1,0 +1,74 @@
+{
+  "id": 1243386457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23278,14.47722,48.23278,14.47722",
+    "geom:latitude":14.47722,
+    "geom:longitude":48.23278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Al `Uqaymah",
+    "gn:country_code":"YE",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78527,
+    "gn:latitude":14.47722,
+    "gn:longitude":48.23278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Uqaymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-\u2019Uqaimah",
+        "Al Qeima",
+        "Al Qaymah",
+        "Al \u2018Uqaymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78527
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d1aa3f8e85b33ba4a21ca41094806dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923015,
+            "locality_id":1243386457,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243386457,
+    "wof:lastmodified":1537715261,
+    "wof:name":"Al `Uqaymah",
+    "wof:parent_id":1091923015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23278,
+    14.47722,
+    48.23278,
+    14.47722
+],
+  "geometry": {"coordinates":[48.23278,14.47722],"type":"Point"}
+}

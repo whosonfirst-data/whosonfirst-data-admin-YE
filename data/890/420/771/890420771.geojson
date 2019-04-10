@@ -1,0 +1,73 @@
+{
+  "id": 890420771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25564,17.3927,43.25564,17.3927",
+    "geom:latitude":17.3927,
+    "geom:longitude":43.25564,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0642\u0631\u0629"
+    ],
+    "qs:name":"Ash Shaqrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051824,
+        "gp:id":56447933,
+        "qs:id":742514,
+        "qs_pg:id":751207
+    },
+    "wof:country":"YE",
+    "wof:created":1469051361,
+    "wof:geomhash":"bbf3e817fa24110f79d974df1a3947fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890420771,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420771,
+    "wof:lastmodified":1505343459,
+    "wof:name":"Ash Shaqrah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25564,
+    17.3927,
+    43.25564,
+    17.3927
+],
+  "geometry": {"coordinates":[43.25564,17.3927],"type":"Point"}
+}

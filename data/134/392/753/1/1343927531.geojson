@@ -1,0 +1,74 @@
+{
+  "id": 1343927531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69761,17.01341,43.69761,17.01341",
+    "geom:latitude":17.01341,
+    "geom:longitude":43.69761,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Hishar",
+    "gn:country_code":"YE",
+    "gn:dem":1906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345388,
+    "gn:latitude":17.01341,
+    "gn:longitude":43.69761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ishar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ishar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345388
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"27bf02de0448e46d9217ba5f4b552705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1343927531,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343927531,
+    "wof:lastmodified":1537715558,
+    "wof:name":"Al Hishar",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69761,
+    17.01341,
+    43.69761,
+    17.01341
+],
+  "geometry": {"coordinates":[43.69761,17.01341],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343426563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87004,14.07243,44.87004,14.07243",
+    "geom:latitude":14.07243,
+    "geom:longitude":44.87004,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Thiyab",
+    "gn:country_code":"YE",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340162,
+    "gn:latitude":14.07243,
+    "gn:longitude":44.87004,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Thiy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Thiy\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u062b\u064a\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340162
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e8b5bbb68dc48c84777175854eb16a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1343426563,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343426563,
+    "wof:lastmodified":1537715441,
+    "wof:name":"Thiyab",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87004,
+    14.07243,
+    44.87004,
+    14.07243
+],
+  "geometry": {"coordinates":[44.87004,14.07243],"type":"Point"}
+}

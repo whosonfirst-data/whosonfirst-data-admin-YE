@@ -1,0 +1,68 @@
+{
+  "id": 1209372771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11637,14.0521,44.11637,14.0521",
+    "geom:latitude":14.0521,
+    "geom:longitude":44.11637,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Farad",
+    "gn:country_code":"YE",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360054,
+    "gn:latitude":14.0521,
+    "gn:longitude":44.11637,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Far\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Far\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360054
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a23da0c3a4dfbdea97dbd618f7101fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209372771
+        }
+    ],
+    "wof:id":1209372771,
+    "wof:lastmodified":1537715789,
+    "wof:name":"Farad",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11637,
+    14.0521,
+    44.11637,
+    14.0521
+],
+  "geometry": {"coordinates":[44.11637,14.0521],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243161955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1087,15.19629,43.1087,15.19629",
+    "geom:latitude":15.19629,
+    "geom:longitude":43.1087,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Mahall az Zahir",
+    "gn:country_code":"YE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036110,
+    "gn:latitude":15.19629,
+    "gn:longitude":43.1087,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all az Z\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0632\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all az Z\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036110
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c18b049579c36080e901a674c80d90bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1243161955,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243161955,
+    "wof:lastmodified":1537716310,
+    "wof:name":"Mahall az Zahir",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1087,
+    15.19629,
+    43.1087,
+    15.19629
+],
+  "geometry": {"coordinates":[43.1087,15.19629],"type":"Point"}
+}

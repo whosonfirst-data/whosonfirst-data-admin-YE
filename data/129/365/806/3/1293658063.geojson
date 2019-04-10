@@ -1,0 +1,74 @@
+{
+  "id": 1293658063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10028,16.07931,43.10028,16.07931",
+    "geom:latitude":16.07931,
+    "geom:longitude":43.10028,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"As Sabil",
+    "gn:country_code":"YE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363161,
+    "gn:latitude":16.07931,
+    "gn:longitude":43.10028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sab\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "As Sab\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363161
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68701dbd5ddba144d36fe4af4caafbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1293658063,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293658063,
+    "wof:lastmodified":1537715864,
+    "wof:name":"As Sabil",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10028,
+    16.07931,
+    43.10028,
+    16.07931
+],
+  "geometry": {"coordinates":[43.10028,16.07931],"type":"Point"}
+}

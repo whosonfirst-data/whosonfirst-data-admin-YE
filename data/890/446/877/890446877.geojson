@@ -1,0 +1,73 @@
+{
+  "id": 890446877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80157,16.83258,44.80157,16.83258",
+    "geom:latitude":16.83258,
+    "geom:longitude":44.80157,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u062d\u0644 \u0633\u0639\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Dahal Sa'id"
+    ],
+    "qs:name":"Da\u1e29al Sa\u2018\u012bd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687010,
+        "gp:id":1959135,
+        "qs:id":697718,
+        "wd:id":"Q20301620"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052570,
+    "wof:geomhash":"52caed9631f74c6f6628d90e97114581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":890446877,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890446877,
+    "wof:lastmodified":1514503256,
+    "wof:name":"Da\u1e29al Sa\u2018\u012bd",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80157,
+    16.83258,
+    44.80157,
+    16.83258
+],
+  "geometry": {"coordinates":[44.80157,16.83258],"type":"Point"}
+}

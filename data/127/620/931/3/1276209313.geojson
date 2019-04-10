@@ -1,0 +1,74 @@
+{
+  "id": 1276209313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20142,16.89834,43.20142,16.89834",
+    "geom:latitude":16.89834,
+    "geom:longitude":43.20142,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Sha'b Mita'b",
+    "gn:country_code":"YE",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202873,
+    "gn:latitude":16.89834,
+    "gn:longitude":43.20142,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b Mita\u2018b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0645\u062a\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b Mita\u2018b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202873
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed4e7e401af69758105f2be35834123d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1276209313,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276209313,
+    "wof:lastmodified":1537716022,
+    "wof:name":"Sha'b Mita'b",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20142,
+    16.89834,
+    43.20142,
+    16.89834
+],
+  "geometry": {"coordinates":[43.20142,16.89834],"type":"Point"}
+}

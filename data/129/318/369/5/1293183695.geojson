@@ -1,0 +1,74 @@
+{
+  "id": 1293183695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26333,17.1518,43.26333,17.1518",
+    "geom:latitude":17.1518,
+    "geom:longitude":43.26333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Mataqi",
+    "gn:country_code":"YE",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866932,
+    "gn:latitude":17.1518,
+    "gn:longitude":43.26333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mataq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062a\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Mataq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866932
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f292f2d995952fc230319b8e2f0bac89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293183695,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293183695,
+    "wof:lastmodified":1537716003,
+    "wof:name":"Al Mataqi",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26333,
+    17.1518,
+    43.26333,
+    17.1518
+],
+  "geometry": {"coordinates":[43.26333,17.1518],"type":"Point"}
+}

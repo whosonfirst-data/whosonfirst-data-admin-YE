@@ -1,0 +1,85 @@
+{
+  "id": 421197271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90445,15.50943,43.90445,15.50943",
+    "geom:latitude":15.50943,
+    "geom:longitude":43.90445,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Shib\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0628\u0627\u0645"
+    ],
+    "qs:gn_country":"YE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":70677,
+    "qs:gn_pop":0,
+    "qs:name":"Shibam",
+    "qs:name_adm0":"Yemen",
+    "qs:name_adm1":"Al Mahwit",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":122098,
+    "qs:woe_adm0":23425002,
+    "qs:woe_id":1959130,
+    "src:geom":"quattroshapes",
+    "wd:latitude":15.916667,
+    "wd:longitude":48.626669,
+    "wd:wordcount":630,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70677,
+        "gp:id":1959130,
+        "qs:id":122098
+    },
+    "wof:country":"YE",
+    "wof:created":1459009908,
+    "wof:geomhash":"a13d49418ae264a182570ff0a6ca93d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":421197271,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":421197271,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Shibam",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90445,
+    15.50943,
+    43.90445,
+    15.50943
+],
+  "geometry": {"coordinates":[43.90445,15.50943],"type":"Point"}
+}

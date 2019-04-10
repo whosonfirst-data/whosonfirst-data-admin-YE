@@ -1,0 +1,74 @@
+{
+  "id": 1343617853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48984,16.00427,43.48984,16.00427",
+    "geom:latitude":16.00427,
+    "geom:longitude":43.48984,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Wadi al Qiyas",
+    "gn:country_code":"YE",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681902,
+    "gn:latitude":16.00427,
+    "gn:longitude":43.48984,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"W\u0101d\u012b al Qiy\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0642\u064a\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Qiy\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681902
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"496f3f9a3c0b08688c69a1a0db6db737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1343617853,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343617853,
+    "wof:lastmodified":1537715984,
+    "wof:name":"Wadi al Qiyas",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48984,
+    16.00427,
+    43.48984,
+    16.00427
+],
+  "geometry": {"coordinates":[43.48984,16.00427],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1126034295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29278,17.06329,43.29278,17.06329",
+    "geom:latitude":17.06329,
+    "geom:longitude":43.29278,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":17.06329,
+    "lbl:longitude":43.29278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u0627\u0644\u0645\u0633\u0644\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Hayd Al Muslim"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7865335,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"\u1e28ayd al Muslim",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":742961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865335,
+        "qs_pg:id":742961,
+        "wd:id":"Q20305516"
+    },
+    "wof:country":"YE",
+    "wof:created":1497301682,
+    "wof:geomhash":"99e8b4f16dbe0a9632ab25b99cd115c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1126034295,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1126034295,
+    "wof:lastmodified":1514503400,
+    "wof:name":"\u1e28ayd al Muslim",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29278,
+    17.06329,
+    43.29278,
+    17.06329
+],
+  "geometry": {"coordinates":[43.29278,17.06329],"type":"Point"}
+}

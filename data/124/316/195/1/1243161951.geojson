@@ -1,0 +1,75 @@
+{
+  "id": 1243161951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36576,15.01544,43.36576,15.01544",
+    "geom:latitude":15.01544,
+    "geom:longitude":43.36576,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Hizz Jarab",
+    "gn:country_code":"YE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365457,
+    "gn:latitude":15.01544,
+    "gn:longitude":43.36576,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"\u1e28izz Jarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0632 \u062c\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28izz Jarab",
+        "Kharjarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed93514ad4fbb790285ffb76ae83f7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1243161951,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243161951,
+    "wof:lastmodified":1537715931,
+    "wof:name":"Hizz Jarab",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36576,
+    15.01544,
+    43.36576,
+    15.01544
+],
+  "geometry": {"coordinates":[43.36576,15.01544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226824269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96619,15.81922,43.96619,15.81922",
+    "geom:latitude":15.81922,
+    "geom:longitude":43.96619,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Bayt al `Amiri",
+    "gn:country_code":"YE",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343613,
+    "gn:latitude":15.81922,
+    "gn:longitude":43.96619,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u2018\u0100mir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u2018\u0100mir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343613
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"845ba2ef7f0f7d79a1beaa6df6f202d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922091,
+            "locality_id":1226824269,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226824269,
+    "wof:lastmodified":1537715512,
+    "wof:name":"Bayt al `Amiri",
+    "wof:parent_id":1091922091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96619000000001,
+    15.81922,
+    43.96619000000001,
+    15.81922
+],
+  "geometry": {"coordinates":[43.96619000000001,15.81922],"type":"Point"}
+}

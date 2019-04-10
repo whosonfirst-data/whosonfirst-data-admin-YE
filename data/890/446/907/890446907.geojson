@@ -1,0 +1,76 @@
+{
+  "id": 890446907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87652,16.9357,44.87652,16.9357",
+    "geom:latitude":16.9357,
+    "geom:longitude":44.87652,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0648\u0628 \u0628\u0646 \u062d\u0634\u062d\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "JibUb Bin Hashhash"
+    ],
+    "name:unk_x_variant":[
+        "Jab\u016bb Bin \u1e28ash\u1e29ash"
+    ],
+    "qs:name":"Jib\u016bb Bin \u1e28ash\u1e29ash",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687025,
+        "gp:id":1959135,
+        "qs:id":697733,
+        "wd:id":"Q20306372"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052571,
+    "wof:geomhash":"9de31089e81e5d5f04b63835c697f637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":890446907,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890446907,
+    "wof:lastmodified":1514503298,
+    "wof:name":"Jib\u016bb Bin \u1e28ash\u1e29ash",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87652,
+    16.9357,
+    44.87652,
+    16.9357
+],
+  "geometry": {"coordinates":[44.87652,16.9357],"type":"Point"}
+}

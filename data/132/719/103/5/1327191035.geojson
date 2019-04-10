@@ -1,0 +1,71 @@
+{
+  "id": 1327191035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03397,13.51346,44.03397,13.51346",
+    "geom:latitude":13.51346,
+    "geom:longitude":44.03397,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1512.0",
+    "gn:asciiname":"Wadi al `Arsh",
+    "gn:country_code":"YE",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357223,
+    "gn:latitude":13.51346,
+    "gn:longitude":44.03397,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"W\u0101d\u012b al \u2018Arsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al \u2018Arsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357223
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eff97c2b22847ddf804bf4ae6140445d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926623,
+            "locality_id":1327191035,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327191035,
+    "wof:lastmodified":1537715695,
+    "wof:name":"Wadi al `Arsh",
+    "wof:parent_id":1091926623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03397,
+    13.51346,
+    44.03397,
+    13.51346
+],
+  "geometry": {"coordinates":[44.03397,13.51346],"type":"Point"}
+}

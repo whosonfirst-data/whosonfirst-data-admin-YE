@@ -1,0 +1,73 @@
+{
+  "id": 1343250017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,14.6,44.38333,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Al Hisseine",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79424,
+    "gn:latitude":14.6,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Hisseine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hisseine",
+        "Al Hisseine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79424
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e9c5785f481ba4bba296e3cb923c3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922303,
+            "locality_id":1343250017,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343250017,
+    "wof:lastmodified":1537715300,
+    "wof:name":"Al Hisseine",
+    "wof:parent_id":1091922303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    14.6,
+    44.38333,
+    14.6
+],
+  "geometry": {"coordinates":[44.38333,14.6],"type":"Point"}
+}

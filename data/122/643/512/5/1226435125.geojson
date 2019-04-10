@@ -1,0 +1,71 @@
+{
+  "id": 1226435125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08333,15.35,47.08333,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":47.08333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Ghar al Matarifah",
+    "gn:country_code":"YE",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75667,
+    "gn:latitude":15.35,
+    "gn:longitude":47.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gh\u0101r al Ma\u0163\u0101rifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101r al Ma\u0163\u0101rifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75667
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dcc5482bf3e30513c35aacf4095fac78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925971,
+            "locality_id":1226435125,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1226435125,
+    "wof:lastmodified":1537715181,
+    "wof:name":"Ghar al Matarifah",
+    "wof:parent_id":1091925971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08333,
+    15.35,
+    47.08333,
+    15.35
+],
+  "geometry": {"coordinates":[47.08333,15.35],"type":"Point"}
+}

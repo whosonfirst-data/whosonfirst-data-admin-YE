@@ -1,0 +1,82 @@
+{
+  "id": 890454755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30389,16.66827,43.30389,16.66827",
+    "geom:latitude":16.66827,
+    "geom:longitude":43.30389,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u1e28i\u015fn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hisn"
+    ],
+    "qs:name":"Al \u1e28i\u015fn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855012,
+        "gp:id":1959134,
+        "qs:id":741948,
+        "wd:id":"Q20301492"
+    },
+    "wof:concordances_alt":{
+        "gn:id":7855388,
+        "qs:id":742295
+    },
+    "wof:country":"YE",
+    "wof:created":1469052912,
+    "wof:geomhash":"18f7f9a715cc7f1d6ebd3fcb77ab068a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890454755,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454755,
+    "wof:lastmodified":1534379829,
+    "wof:name":"Al \u1e28i\u015fn",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890426055
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30389,
+    16.66827,
+    43.30389,
+    16.66827
+],
+  "geometry": {"coordinates":[43.30389,16.66827],"type":"Point"}
+}

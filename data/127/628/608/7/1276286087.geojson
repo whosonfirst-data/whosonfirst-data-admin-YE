@@ -1,0 +1,71 @@
+{
+  "id": 1276286087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04096,13.36525,44.04096,13.36525",
+    "geom:latitude":13.36525,
+    "geom:longitude":44.04096,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Al Quhuf",
+    "gn:country_code":"YE",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354801,
+    "gn:latitude":13.36525,
+    "gn:longitude":44.04096,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qu\u1e29uf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qu\u1e29uf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354801
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a6574d8e2d9050a1d5ba91b67342c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1276286087,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276286087,
+    "wof:lastmodified":1537715622,
+    "wof:name":"Al Quhuf",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04096,
+    13.36525,
+    44.04096,
+    13.36525
+],
+  "geometry": {"coordinates":[44.04096,13.36525],"type":"Point"}
+}

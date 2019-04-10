@@ -1,0 +1,74 @@
+{
+  "id": 1243225477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67595,16.1127,43.67595,16.1127",
+    "geom:latitude":16.1127,
+    "geom:longitude":43.67595,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Al Mi'zab",
+    "gn:country_code":"YE",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260988,
+    "gn:latitude":16.1127,
+    "gn:longitude":43.67595,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mi\u2018z\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u2018z\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0632\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260988
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"322243a81005bc0ae9843790d26c11b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":1243225477,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243225477,
+    "wof:lastmodified":1537716063,
+    "wof:name":"Al Mi'zab",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67595,
+    16.1127,
+    43.67595,
+    16.1127
+],
+  "geometry": {"coordinates":[43.67595,16.1127],"type":"Point"}
+}

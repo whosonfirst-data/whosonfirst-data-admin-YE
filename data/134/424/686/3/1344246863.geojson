@@ -1,0 +1,74 @@
+{
+  "id": 1344246863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92896,15.19239,42.92896,15.19239",
+    "geom:latitude":15.19239,
+    "geom:longitude":42.92896,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall Sabri",
+    "gn:country_code":"YE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988974,
+    "gn:latitude":15.19239,
+    "gn:longitude":42.92896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all \u015eabr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0635\u0628\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all \u015eabr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988974
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8820a49a625022bae5a3f8b3a1f9f0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1344246863,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344246863,
+    "wof:lastmodified":1537716298,
+    "wof:name":"Mahall Sabri",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92896,
+    15.19239,
+    42.92896,
+    15.19239
+],
+  "geometry": {"coordinates":[42.92896,15.19239],"type":"Point"}
+}

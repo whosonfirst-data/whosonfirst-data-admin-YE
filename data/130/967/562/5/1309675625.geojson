@@ -1,0 +1,72 @@
+{
+  "id": 1309675625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9566,15.49631,43.9566,15.49631",
+    "geom:latitude":15.49631,
+    "geom:longitude":43.9566,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Hajar Sa`id",
+    "gn:country_code":"YE",
+    "gn:dem":2532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402601,
+    "gn:latitude":15.49631,
+    "gn:longitude":43.9566,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ajar Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402601,
+        "wk:page":"Hajar_Sa%60Id"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d615a0a8e950fb15418cee92d19191a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1309675625,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1309675625,
+    "wof:lastmodified":1537715358,
+    "wof:name":"Hajar Sa`id",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9566,
+    15.49631,
+    43.9566,
+    15.49631
+],
+  "geometry": {"coordinates":[43.9566,15.49631],"type":"Point"}
+}

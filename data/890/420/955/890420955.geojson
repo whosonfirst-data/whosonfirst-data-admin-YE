@@ -1,0 +1,75 @@
+{
+  "id": 890420955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07812,16.34804,44.07812,16.34804",
+    "geom:latitude":16.34804,
+    "geom:longitude":44.07812,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u062a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Jantar"
+    ],
+    "qs:name":"Jantar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8025378,
+        "gp:id":1958946,
+        "qs:id":750580,
+        "wd:id":"Q20306232",
+        "wk:page":"Jantar"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051368,
+    "wof:geomhash":"f268c4e2afcc96af5c8c4b52013c8b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890420955,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890420955,
+    "wof:lastmodified":1527792807,
+    "wof:name":"Jantar",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07812,
+    16.34804,
+    44.07812,
+    16.34804
+],
+  "geometry": {"coordinates":[44.07812,16.34804],"type":"Point"}
+}

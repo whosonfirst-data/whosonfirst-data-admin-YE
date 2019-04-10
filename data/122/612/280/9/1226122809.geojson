@@ -1,0 +1,71 @@
+{
+  "id": 1226122809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68822,14.32731,43.68822,14.32731",
+    "geom:latitude":14.32731,
+    "geom:longitude":43.68822,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Duhaybah",
+    "gn:country_code":"YE",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357948,
+    "gn:latitude":14.32731,
+    "gn:longitude":43.68822,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Du\u1e29aybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Du\u1e29aybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357948
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"df18b74f1e9da1eed37475b01d8c3827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1226122809,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226122809,
+    "wof:lastmodified":1537715711,
+    "wof:name":"Duhaybah",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68822,
+    14.32731,
+    43.68822,
+    14.32731
+],
+  "geometry": {"coordinates":[43.68822,14.32731],"type":"Point"}
+}

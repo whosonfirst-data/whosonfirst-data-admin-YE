@@ -1,0 +1,71 @@
+{
+  "id": 1225810141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80833,15.59974,43.80833,15.59974",
+    "geom:latitude":15.59974,
+    "geom:longitude":43.80833,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2917.0",
+    "gn:asciiname":"Al Ghulah",
+    "gn:country_code":"YE",
+    "gn:dem":3053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344763,
+    "gn:latitude":15.59974,
+    "gn:longitude":43.80833,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Gh\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Gh\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344763
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48dc821a2d6c1160c4fc5c5a7d82ba2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":1225810141,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1225810141,
+    "wof:lastmodified":1537715548,
+    "wof:name":"Al Ghulah",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80833,
+    15.59974,
+    43.80833,
+    15.59974
+],
+  "geometry": {"coordinates":[43.80833,15.59974],"type":"Point"}
+}

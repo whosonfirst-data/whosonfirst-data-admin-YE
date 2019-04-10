@@ -1,0 +1,74 @@
+{
+  "id": 1242736457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48961,16.2832,44.48961,16.2832",
+    "geom:latitude":16.2832,
+    "geom:longitude":44.48961,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Barahah",
+    "gn:country_code":"YE",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974924,
+    "gn:latitude":16.2832,
+    "gn:longitude":44.48961,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bar\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Bar\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974924
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8213496b7dd91e8820c25a3124aae21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1242736457,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1242736457,
+    "wof:lastmodified":1537716115,
+    "wof:name":"Al Barahah",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48961,
+    16.2832,
+    44.48961,
+    16.2832
+],
+  "geometry": {"coordinates":[44.48961,16.2832],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242635671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5616,15.59228,43.5616,15.59228",
+    "geom:latitude":15.59228,
+    "geom:longitude":43.5616,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Bayt Mahmud",
+    "gn:country_code":"YE",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980405,
+    "gn:latitude":15.59228,
+    "gn:longitude":43.5616,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980405
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"592c26d07775bd1c40b8b4afb7b1c711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1242635671,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242635671,
+    "wof:lastmodified":1537716168,
+    "wof:name":"Bayt Mahmud",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5616,
+    15.59228,
+    43.5616,
+    15.59228
+],
+  "geometry": {"coordinates":[43.5616,15.59228],"type":"Point"}
+}

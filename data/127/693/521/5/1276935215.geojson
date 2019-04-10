@@ -1,0 +1,75 @@
+{
+  "id": 1276935215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57926,15.59236,43.57926,15.59236",
+    "geom:latitude":15.59236,
+    "geom:longitude":43.57926,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Al Masna`ah",
+    "gn:country_code":"YE",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344782,
+    "gn:latitude":15.59236,
+    "gn:longitude":43.57926,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Al Masna\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0645\u0631\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Masna\u2018ah",
+        "Jabal Mirwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344782
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9e490177c825af181351f020ea1ca5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1276935215,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276935215,
+    "wof:lastmodified":1537715549,
+    "wof:name":"Al Masna`ah",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57926,
+    15.59236,
+    43.57926,
+    15.59236
+],
+  "geometry": {"coordinates":[43.57926,15.59236],"type":"Point"}
+}

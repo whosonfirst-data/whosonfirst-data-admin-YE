@@ -1,0 +1,72 @@
+{
+  "id": 1293372071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23164,15.22199,44.23164,15.22199",
+    "geom:latitude":15.22199,
+    "geom:longitude":44.23164,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Al Qirran",
+    "gn:country_code":"YE",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404067,
+    "gn:latitude":15.22199,
+    "gn:longitude":44.23164,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qirr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qirr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404067,
+        "wk:page":"Al-Qirran"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e84f9d73d2837a21f847491e56c965f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1293372071,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293372071,
+    "wof:lastmodified":1537715375,
+    "wof:name":"Al Qirran",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23164000000001,
+    15.22199,
+    44.23164000000001,
+    15.22199
+],
+  "geometry": {"coordinates":[44.23164000000001,15.22199],"type":"Point"}
+}

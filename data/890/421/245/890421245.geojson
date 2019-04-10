@@ -1,0 +1,73 @@
+{
+  "id": 890421245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80194,13.45938,43.80194,13.45938",
+    "geom:latitude":13.45938,
+    "geom:longitude":43.80194,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0627\u0646 \u0623\u062d\u0645\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Hassan Ahmad"
+    ],
+    "qs:name":"\u1e28ass\u0101n A\u1e29mad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075834,
+        "gp:id":1959049,
+        "qs:id":754415,
+        "wd:id":"Q20305401"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051385,
+    "wof:geomhash":"ee672f1bb17fe4eec81e2d0ea1dc6af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890421245,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421245,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28ass\u0101n A\u1e29mad",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80194,
+    13.45938,
+    43.80194,
+    13.45938
+],
+  "geometry": {"coordinates":[43.80194,13.45938],"type":"Point"}
+}

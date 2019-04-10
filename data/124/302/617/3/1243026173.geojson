@@ -1,0 +1,71 @@
+{
+  "id": 1243026173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82544,14.07744,43.82544,14.07744",
+    "geom:latitude":14.07744,
+    "geom:longitude":43.82544,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Ash Sharqi",
+    "gn:country_code":"YE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358883,
+    "gn:latitude":14.07744,
+    "gn:longitude":43.82544,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358883
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"001ba1d9a560194778834c1cec2193db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1243026173,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243026173,
+    "wof:lastmodified":1537715736,
+    "wof:name":"Ash Sharqi",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82544,
+    14.07744,
+    43.82544,
+    14.07744
+],
+  "geometry": {"coordinates":[43.82544,14.07744],"type":"Point"}
+}

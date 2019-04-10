@@ -1,0 +1,71 @@
+{
+  "id": 1226728077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45039,15.5278,43.45039,15.5278",
+    "geom:latitude":15.5278,
+    "geom:longitude":43.45039,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Bayt al `Usaymi",
+    "gn:country_code":"YE",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366588,
+    "gn:latitude":15.5278,
+    "gn:longitude":43.45039,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u2018U\u015faym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u2018U\u015faym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366588
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"905a2afd9c275e633bd79654a8a6e9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1226728077,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226728077,
+    "wof:lastmodified":1537715958,
+    "wof:name":"Bayt al `Usaymi",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45039000000001,
+    15.5278,
+    43.45039000000001,
+    15.5278
+],
+  "geometry": {"coordinates":[43.45039000000001,15.5278],"type":"Point"}
+}

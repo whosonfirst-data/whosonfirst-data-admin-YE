@@ -1,0 +1,72 @@
+{
+  "id": 1327391383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89992,12.92819,43.89992,12.92819",
+    "geom:latitude":12.92819,
+    "geom:longitude":43.89992,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Am Lasbah as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79061,
+    "gn:latitude":12.92819,
+    "gn:longitude":43.89992,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am La\u015fbah as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am La\u015fbah as Sufl\u00e1",
+        "Al La\u015fbah as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79061
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"06d27f8be187599c73815e7d1f7f4220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1327391383,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1327391383,
+    "wof:lastmodified":1537715285,
+    "wof:name":"Am Lasbah as Sufla",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89992,
+    12.92819,
+    43.89992,
+    12.92819
+],
+  "geometry": {"coordinates":[43.89992,12.92819],"type":"Point"}
+}

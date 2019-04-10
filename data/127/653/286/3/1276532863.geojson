@@ -1,0 +1,72 @@
+{
+  "id": 1276532863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28333,14.25,43.28333,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":43.28333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Jarba'",
+    "gn:country_code":"YE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74251,
+    "gn:latitude":14.25,
+    "gn:longitude":43.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jarb\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarbe",
+        "Jarb\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421174007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74251
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e12f8596c3c021f69f855d2679bd267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421174007,
+            "locality_id":1276532863,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276532863,
+    "wof:lastmodified":1537715150,
+    "wof:name":"Jarba'",
+    "wof:parent_id":421174007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28333,
+    14.25,
+    43.28333,
+    14.25
+],
+  "geometry": {"coordinates":[43.28333,14.25],"type":"Point"}
+}

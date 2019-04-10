@@ -1,0 +1,71 @@
+{
+  "id": 1310002651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34382,14.64191,43.34382,14.64191",
+    "geom:latitude":14.64191,
+    "geom:longitude":43.34382,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Quz`at Umm Jariyah",
+    "gn:country_code":"YE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340882,
+    "gn:latitude":14.64191,
+    "gn:longitude":43.34382,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Quz\u2018at Umm J\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quz\u2018at Umm J\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340882
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3092725bbb7b33ea1d6150a7335e7b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1310002651,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310002651,
+    "wof:lastmodified":1537715464,
+    "wof:name":"Quz`at Umm Jariyah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34382,
+    14.64191,
+    43.34382,
+    14.64191
+],
+  "geometry": {"coordinates":[43.34382,14.64191],"type":"Point"}
+}

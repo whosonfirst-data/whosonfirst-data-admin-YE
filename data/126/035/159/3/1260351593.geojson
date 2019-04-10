@@ -1,0 +1,71 @@
+{
+  "id": 1260351593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75122,13.84245,44.75122,13.84245",
+    "geom:latitude":13.84245,
+    "geom:longitude":44.75122,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Lakmat Khidr as Saghir",
+    "gn:country_code":"YE",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363821,
+    "gn:latitude":13.84245,
+    "gn:longitude":44.75122,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lakmat Khi\u1e11r a\u015f \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakmat Khi\u1e11r a\u015f \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363821
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"89567cc4e1bf12c520c795f07c74d180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1260351593,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1260351593,
+    "wof:lastmodified":1537715880,
+    "wof:name":"Lakmat Khidr as Saghir",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75122,
+    13.84245,
+    44.75122,
+    13.84245
+],
+  "geometry": {"coordinates":[44.75122,13.84245],"type":"Point"}
+}

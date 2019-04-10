@@ -1,0 +1,76 @@
+{
+  "id": 890449563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21474,17.17102,43.21474,17.17102",
+    "geom:latitude":17.17102,
+    "geom:longitude":43.21474,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ath Thuw\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u0648\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Ath Thuwa'"
+    ],
+    "qs:name":"Ath Thuw\u0101\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022181,
+        "gp:id":1938607,
+        "qs:id":750341,
+        "wd:id":"Q20305507"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052697,
+    "wof:geomhash":"d068764ceb6063bb78cfe454afb24441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890449563,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890449563,
+    "wof:lastmodified":1514503234,
+    "wof:name":"Ath Thuw\u0101\u2018",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21474,
+    17.17102,
+    43.21474,
+    17.17102
+],
+  "geometry": {"coordinates":[43.21474,17.17102],"type":"Point"}
+}

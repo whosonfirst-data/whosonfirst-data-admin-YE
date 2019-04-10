@@ -1,0 +1,74 @@
+{
+  "id": 1326893041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85318,13.88464,44.85318,13.88464",
+    "geom:latitude":13.88464,
+    "geom:longitude":44.85318,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Anjud",
+    "gn:country_code":"YE",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78387,
+    "gn:latitude":13.88464,
+    "gn:longitude":44.85318,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Anj\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Anj\u016bd"
+    ],
+    "name:und_x_variant":[
+        "Al Anjud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78387
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81a5901fbb3dfcdf632abbb38aa7c866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919697,
+            "locality_id":1326893041,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1326893041,
+    "wof:lastmodified":1537715257,
+    "wof:name":"Anjud",
+    "wof:parent_id":1091919697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85318,
+    13.88464,
+    44.85318,
+    13.88464
+],
+  "geometry": {"coordinates":[44.85318,13.88464],"type":"Point"}
+}

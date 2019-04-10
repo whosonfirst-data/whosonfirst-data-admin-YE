@@ -1,0 +1,74 @@
+{
+  "id": 1343434235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30392,15.01526,45.30392,15.01526",
+    "geom:latitude":15.01526,
+    "geom:longitude":45.30392,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Al Jarafah",
+    "gn:country_code":"YE",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977342,
+    "gn:latitude":15.01526,
+    "gn:longitude":45.30392,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jar\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jar\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977342
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a9dd6a9cf3e582f4e0699e4d058ed3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1343434235,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343434235,
+    "wof:lastmodified":1537716159,
+    "wof:name":"Al Jarafah",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30392,
+    15.01526,
+    45.30392,
+    15.01526
+],
+  "geometry": {"coordinates":[45.30392,15.01526],"type":"Point"}
+}

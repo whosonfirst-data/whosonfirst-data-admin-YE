@@ -1,0 +1,71 @@
+{
+  "id": 1242682329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51106,15.42916,47.51106,15.42916",
+    "geom:latitude":15.42916,
+    "geom:longitude":47.51106,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Dar Asawir",
+    "gn:country_code":"YE",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76478,
+    "gn:latitude":15.42916,
+    "gn:longitude":47.51106,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"D\u0101r As\u0101wir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r As\u0101wir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76478
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db08989bf51dde2e6eb3ff31fbd283b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926061,
+            "locality_id":1242682329,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1242682329,
+    "wof:lastmodified":1537715201,
+    "wof:name":"Dar Asawir",
+    "wof:parent_id":1091926061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51106,
+    15.42916,
+    47.51106,
+    15.42916
+],
+  "geometry": {"coordinates":[47.51106,15.42916],"type":"Point"}
+}

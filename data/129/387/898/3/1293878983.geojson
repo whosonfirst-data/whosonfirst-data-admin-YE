@@ -1,0 +1,72 @@
+{
+  "id": 1293878983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95648,15.57678,42.95648,15.57678",
+    "geom:latitude":15.57678,
+    "geom:longitude":42.95648,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Qaza`",
+    "gn:country_code":"YE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75739,
+    "gn:latitude":15.57678,
+    "gn:longitude":42.95648,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Qaza\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qaza\u2018",
+        "Gazaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75739
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9deebb836da3da78e2159ccda1187378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1293878983,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293878983,
+    "wof:lastmodified":1537715182,
+    "wof:name":"Al Qaza`",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95648,
+    15.57678,
+    42.95648,
+    15.57678
+],
+  "geometry": {"coordinates":[42.95648,15.57678],"type":"Point"}
+}

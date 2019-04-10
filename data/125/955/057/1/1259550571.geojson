@@ -1,0 +1,82 @@
+{
+  "id": 1259550571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21665,15.40958,44.21665,15.40958",
+    "geom:latitude":15.40958,
+    "geom:longitude":44.21665,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1302.0",
+    "gn:asciiname":"Bani Qushayb",
+    "gn:country_code":"YE",
+    "gn:dem":2229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342285,
+    "gn:latitude":15.40958,
+    "gn:longitude":44.21665,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban\u012b Qushayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0642\u0634\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b Qushayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921585,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342285
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e338f69629e037cc95816f366bb22eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921585,
+            "locality_id":1259550571,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921585,
+            "locality_id":1259550571,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259550571,
+    "wof:lastmodified":1537715497,
+    "wof:name":"Bani Qushayb",
+    "wof:parent_id":1091921585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21665,
+    15.40958,
+    44.21665,
+    15.40958
+],
+  "geometry": {"coordinates":[44.21665,15.40958],"type":"Point"}
+}

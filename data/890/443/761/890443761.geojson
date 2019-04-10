@@ -1,0 +1,73 @@
+{
+  "id": 890443761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27128,16.84633,43.27128,16.84633",
+    "geom:latitude":16.84633,
+    "geom:longitude":43.27128,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u064a\u0645\u0629"
+    ],
+    "qs:name":"Al Jumaymah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926837,
+        "gp:id":1958992,
+        "qs:id":745079,
+        "qs_pg:id":745176
+    },
+    "wof:country":"YE",
+    "wof:created":1469052437,
+    "wof:geomhash":"23d8871cde835babd23208b9777805b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890443761,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890443761,
+    "wof:lastmodified":1507751790,
+    "wof:name":"Al Jumaymah",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27128,
+    16.84633,
+    43.27128,
+    16.84633
+],
+  "geometry": {"coordinates":[43.27128,16.84633],"type":"Point"}
+}

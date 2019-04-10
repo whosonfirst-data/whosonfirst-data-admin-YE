@@ -1,0 +1,75 @@
+{
+  "id": 1343631099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65711,17.04091,43.65711,17.04091",
+    "geom:latitude":17.04091,
+    "geom:longitude":43.65711,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al as Sayfi",
+    "gn:country_code":"YE",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345310,
+    "gn:latitude":17.04091,
+    "gn:longitude":43.65711,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l a\u015f \u015eayf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0627\u0644\u0635\u064a\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0100l a\u015f \u015eayf\u012b",
+        "\u0100l a\u015f U\u015fayf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345310
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c2119b216eb0d935a9d64be5b254b38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1343631099,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343631099,
+    "wof:lastmodified":1537715556,
+    "wof:name":"Al as Sayfi",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65711,
+    17.04091,
+    43.65711,
+    17.04091
+],
+  "geometry": {"coordinates":[43.65711,17.04091],"type":"Point"}
+}

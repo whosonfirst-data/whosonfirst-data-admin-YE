@@ -1,0 +1,75 @@
+{
+  "id": 1242854729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31991,14.40482,44.31991,14.40482",
+    "geom:latitude":14.40482,
+    "geom:longitude":44.31991,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Bayt al Ba`m",
+    "gn:country_code":"YE",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76994,
+    "gn:latitude":14.40482,
+    "gn:longitude":44.31991,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bayt al Ba\u2018m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Baim",
+        "Beit-el-Baim",
+        "Beit Baum",
+        "Bayt al Bum",
+        "Bayt al Ba\u2018m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76994
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bcf82ca846990a90f19ca15bf1a038e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1242854729,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1242854729,
+    "wof:lastmodified":1537715216,
+    "wof:name":"Bayt al Ba`m",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31991,
+    14.40482,
+    44.31991,
+    14.40482
+],
+  "geometry": {"coordinates":[44.31991,14.40482],"type":"Point"}
+}

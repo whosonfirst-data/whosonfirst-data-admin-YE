@@ -1,0 +1,77 @@
+{
+  "id": 1293173393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27314,17.16717,43.27314,17.16717",
+    "geom:latitude":17.16717,
+    "geom:longitude":43.27314,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Ath Thu'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865435,
+    "gn:latitude":17.16717,
+    "gn:longitude":43.27314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ath Th\u016b\u2018ah",
+    "gn:population":3,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ath Th\u016b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865435
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cffd46615be2e0ec55ccd657281c53c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293173393,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293173393,
+    "wof:lastmodified":1537716003,
+    "wof:name":"Ath Thu'ah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27314000000001,
+    17.16717,
+    43.27314000000001,
+    17.16717
+],
+  "geometry": {"coordinates":[43.27314000000001,17.16717],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890447871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35612,16.27979,43.35612,16.27979",
+    "geom:latitude":16.27979,
+    "geom:longitude":43.35612,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Talan"
+    ],
+    "qs:name":"\u0162al\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761236,
+        "gp:id":1953570,
+        "qs:id":699228,
+        "wd:id":"Q20308956"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052608,
+    "wof:geomhash":"23d27124661c4964d64101472b4e5dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447871,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447871,
+    "wof:lastmodified":1534379829,
+    "wof:name":"\u0162al\u0101n",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890436115
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35612,
+    16.27979,
+    43.35612,
+    16.27979
+],
+  "geometry": {"coordinates":[43.35612,16.27979],"type":"Point"}
+}

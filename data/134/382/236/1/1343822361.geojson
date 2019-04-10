@@ -1,0 +1,73 @@
+{
+  "id": 1343822361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.82224,13.96934,45.82224,13.96934",
+    "geom:latitude":13.96934,
+    "geom:longitude":45.82224,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Am Taffah",
+    "gn:country_code":"YE",
+    "gn:dem":2321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77678,
+    "gn:latitude":13.96934,
+    "gn:longitude":45.82224,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am \u0162affah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am \u0162uffah",
+        "Am \u0162affah",
+        "A\u0163 \u0162affah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77678
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"72ce811a4eabdca76e2e72701fe3b7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1343822361,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1343822361,
+    "wof:lastmodified":1537715231,
+    "wof:name":"Am Taffah",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.82224,
+    13.96934,
+    45.82224,
+    13.96934
+],
+  "geometry": {"coordinates":[45.82224,13.96934],"type":"Point"}
+}

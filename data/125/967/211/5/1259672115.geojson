@@ -1,0 +1,71 @@
+{
+  "id": 1259672115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89753,15.45378,43.89753,15.45378",
+    "geom:latitude":15.45378,
+    "geom:longitude":43.89753,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"As Sarahah",
+    "gn:country_code":"YE",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402564,
+    "gn:latitude":15.45378,
+    "gn:longitude":43.89753,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eara\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eara\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402564
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"72bff1aa596ef4ed8fd731453d95e32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1259672115,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259672115,
+    "wof:lastmodified":1537715357,
+    "wof:name":"As Sarahah",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89753,
+    15.45378,
+    43.89753,
+    15.45378
+],
+  "geometry": {"coordinates":[43.89753,15.45378],"type":"Point"}
+}

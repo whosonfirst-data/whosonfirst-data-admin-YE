@@ -1,0 +1,73 @@
+{
+  "id": 890435723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28646,16.84689,43.28646,16.84689",
+    "geom:latitude":16.84689,
+    "geom:longitude":43.28646,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0633\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Sariyah"
+    ],
+    "qs:name":"Umm Sar\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926736,
+        "gp:id":1958992,
+        "qs:id":745078,
+        "wd:id":"Q20309299"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052078,
+    "wof:geomhash":"8a55ac105effa9fe0fc1880a3e1a3acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890435723,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890435723,
+    "wof:lastmodified":1514503378,
+    "wof:name":"Umm Sar\u012byah",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28646,
+    16.84689,
+    43.28646,
+    16.84689
+],
+  "geometry": {"coordinates":[43.28646,16.84689],"type":"Point"}
+}

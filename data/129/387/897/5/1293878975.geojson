@@ -1,0 +1,74 @@
+{
+  "id": 1293878975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.86769,15.67857,42.86769,15.67857",
+    "geom:latitude":15.67857,
+    "geom:longitude":42.86769,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Hananah",
+    "gn:country_code":"YE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983362,
+    "gn:latitude":15.67857,
+    "gn:longitude":42.86769,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28an\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28an\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983362
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6971c4763ba982f78609f08b75c5fb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1293878975,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293878975,
+    "wof:lastmodified":1537716295,
+    "wof:name":"Al Hananah",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.86769,
+    15.67857,
+    42.86769,
+    15.67857
+],
+  "geometry": {"coordinates":[42.86769,15.67857],"type":"Point"}
+}

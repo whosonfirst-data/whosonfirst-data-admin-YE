@@ -1,0 +1,73 @@
+{
+  "id": 890413577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3703,16.673,43.3703,16.673",
+    "geom:latitude":16.673,
+    "geom:longitude":43.3703,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0639\u062f \u0627\u0644\u0641\u0631\u062e"
+    ],
+    "name:eng_x_preferred":[
+        "Wa'd Al Farakh"
+    ],
+    "qs:name":"Wa\u2018d al Farakh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855357,
+        "gp:id":1959134,
+        "qs:id":742267,
+        "wd:id":"Q20309323"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051005,
+    "wof:geomhash":"fcd515587c84e80b9b0d3286ce3d93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890413577,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413577,
+    "wof:lastmodified":1514503380,
+    "wof:name":"Wa\u2018d al Farakh",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3703,
+    16.673,
+    43.3703,
+    16.673
+],
+  "geometry": {"coordinates":[43.3703,16.673],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310078137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22897,17.18564,43.22897,17.18564",
+    "geom:latitude":17.18564,
+    "geom:longitude":43.22897,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Lihib",
+    "gn:country_code":"YE",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345536,
+    "gn:latitude":17.18564,
+    "gn:longitude":43.22897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Lihib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345536
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bab0073290b239b1acc0489ed3203f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1310078137,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310078137,
+    "wof:lastmodified":1537034578,
+    "wof:name":"Al Lihib",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22897,
+    17.18564,
+    43.22897,
+    17.18564
+],
+  "geometry": {"coordinates":[43.22897,17.18564],"type":"Point"}
+}

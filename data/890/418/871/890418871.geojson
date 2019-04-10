@@ -1,0 +1,73 @@
+{
+  "id": 890418871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44619,16.08468,43.44619,16.08468",
+    "geom:latitude":16.08468,
+    "geom:longitude":43.44619,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":50,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0646\u0628\u0640\u0640\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Majnabah"
+    ],
+    "qs:name":"Al Majnabah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658683,
+        "gp:id":1958568,
+        "qs:id":696480,
+        "wd:id":"Q20307315"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051264,
+    "wof:geomhash":"4a0a4a0a2968ceaa1e6dd1b1a78f7d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":890418871,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418871,
+    "wof:lastmodified":1514503178,
+    "wof:name":"Al Majnabah",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44619,
+    16.08468,
+    43.44619,
+    16.08468
+],
+  "geometry": {"coordinates":[43.44619,16.08468],"type":"Point"}
+}

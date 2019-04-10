@@ -1,0 +1,74 @@
+{
+  "id": 1209998649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28992,15.13347,44.28992,15.13347",
+    "geom:latitude":15.13347,
+    "geom:longitude":44.28992,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Dar `Amru",
+    "gn:country_code":"YE",
+    "gn:dem":2429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76485,
+    "gn:latitude":15.13347,
+    "gn:longitude":44.28992,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r \u2018Amr\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r \u2018Amr\u016b"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r \u2018Amr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76485
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6da7423b64d6e92dc4f316f3559c1f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1209998649,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209998649,
+    "wof:lastmodified":1537715201,
+    "wof:name":"Dar `Amru",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28992,
+    15.13347,
+    44.28992,
+    15.13347
+],
+  "geometry": {"coordinates":[44.28992,15.13347],"type":"Point"}
+}

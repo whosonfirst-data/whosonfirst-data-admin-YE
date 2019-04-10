@@ -1,0 +1,71 @@
+{
+  "id": 1293941429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19639,14.33878,44.19639,14.33878",
+    "geom:latitude":14.33878,
+    "geom:longitude":44.19639,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Jurn al Ghuddah",
+    "gn:country_code":"YE",
+    "gn:dem":2675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870728,
+    "gn:latitude":14.33878,
+    "gn:longitude":44.19639,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jurn al Ghuddah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0646 \u0627\u0644\u063a\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870728
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d4216b1a71da8bf6243cefc467eb17fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1293941429,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293941429,
+    "wof:lastmodified":1537716239,
+    "wof:name":"Jurn al Ghuddah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19639,
+    14.33878,
+    44.19639,
+    14.33878
+],
+  "geometry": {"coordinates":[44.19639,14.33878],"type":"Point"}
+}

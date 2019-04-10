@@ -1,0 +1,82 @@
+{
+  "id": 1126087471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40804,16.30106,43.40804,16.30106",
+    "geom:latitude":16.30106,
+    "geom:longitude":43.40804,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"YE",
+    "lbl:latitude":16.30106,
+    "lbl:longitude":43.40804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0631"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7756474,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Al Magharr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":698970,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091924327,
+        85680973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756474,
+        "qs_pg:id":698970
+    },
+    "wof:country":"YE",
+    "wof:created":1497313041,
+    "wof:geomhash":"d3105b192801d63acd3da72ed1ea9016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":-1,
+            "neighbourhood_id":1126087471,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1126087471,
+    "wof:lastmodified":1509411473,
+    "wof:name":"Al Magharr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40804,
+    16.30106,
+    43.40804,
+    16.30106
+],
+  "geometry": {"coordinates":[43.40804,16.30106],"type":"Point"}
+}

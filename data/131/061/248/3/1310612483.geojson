@@ -1,0 +1,72 @@
+{
+  "id": 1310612483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18754,15.25138,51.18754,15.25138",
+    "geom:latitude":15.25138,
+    "geom:longitude":51.18754,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2807.0",
+    "gn:asciiname":"Darfut",
+    "gn:country_code":"YE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76450,
+    "gn:latitude":15.25138,
+    "gn:longitude":51.18754,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Darf\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darf\u0101t",
+        "Darf\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091921053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76450
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e75b75493f60d94be8d66b8daa97b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921053,
+            "locality_id":1310612483,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1310612483,
+    "wof:lastmodified":1537715200,
+    "wof:name":"Darfut",
+    "wof:parent_id":1091921053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18754000000001,
+    15.25138,
+    51.18754000000001,
+    15.25138
+],
+  "geometry": {"coordinates":[51.18754000000001,15.25138],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343330267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00562,14.10525,44.00562,14.10525",
+    "geom:latitude":14.10525,
+    "geom:longitude":44.00562,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Mijbayah",
+    "gn:country_code":"YE",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360119,
+    "gn:latitude":14.10525,
+    "gn:longitude":44.00562,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mijb\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0628\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mijb\u0101yah",
+        "Al Mijb\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360119
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1229411cefbc0dc0d481ae7111e163fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1343330267,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343330267,
+    "wof:lastmodified":1537715792,
+    "wof:name":"Mijbayah",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00562,
+    14.10525,
+    44.00562,
+    14.10525
+],
+  "geometry": {"coordinates":[44.00562,14.10525],"type":"Point"}
+}

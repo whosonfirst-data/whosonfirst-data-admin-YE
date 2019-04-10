@@ -1,0 +1,74 @@
+{
+  "id": 1276304999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53627,17.0647,43.53627,17.0647",
+    "geom:latitude":17.0647,
+    "geom:longitude":43.53627,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Hijrat Sarah",
+    "gn:country_code":"YE",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345201,
+    "gn:latitude":17.0647,
+    "gn:longitude":43.53627,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Hijrat S\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u062c\u0631\u0629 \u0635\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hijrat S\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345201
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69216e1243b32f0a6b0576dc53109994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1276304999,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276304999,
+    "wof:lastmodified":1537715553,
+    "wof:name":"Hijrat Sarah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53627,
+    17.0647,
+    43.53627,
+    17.0647
+],
+  "geometry": {"coordinates":[43.53627,17.0647],"type":"Point"}
+}

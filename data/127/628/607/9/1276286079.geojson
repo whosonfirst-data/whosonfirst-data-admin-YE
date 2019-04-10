@@ -1,0 +1,74 @@
+{
+  "id": 1276286079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8865,13.52472,43.8865,13.52472",
+    "geom:latitude":13.52472,
+    "geom:longitude":43.8865,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Yana`ah",
+    "gn:country_code":"YE",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407861,
+    "gn:latitude":13.52472,
+    "gn:longitude":43.8865,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yan\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0646\u0627\u0639\u0640\u0640\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yan\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407861
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d228693a2e76f40f90d244aa34fcab32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1276286079,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276286079,
+    "wof:lastmodified":1537715407,
+    "wof:name":"Yana`ah",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8865,
+    13.52472,
+    43.8865,
+    13.52472
+],
+  "geometry": {"coordinates":[43.8865,13.52472],"type":"Point"}
+}

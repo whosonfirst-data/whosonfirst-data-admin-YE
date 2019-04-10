@@ -1,0 +1,75 @@
+{
+  "id": 890418439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36281,16.51108,44.36281,16.51108",
+    "geom:latitude":16.51108,
+    "geom:longitude":44.36281,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u062f\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qadim"
+    ],
+    "qs:name":"Al Qad\u012bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1360,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795204,
+        "gp:id":1958965,
+        "qs:id":700968,
+        "wd:id":"Q20303751",
+        "wk:page":"Al-Qadim"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051248,
+    "wof:geomhash":"e43ab9fd793e0f3c0ec6783671229344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":890418439,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418439,
+    "wof:lastmodified":1527792815,
+    "wof:name":"Al Qad\u012bm",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36281,
+    16.51108,
+    44.36281,
+    16.51108
+],
+  "geometry": {"coordinates":[44.36281,16.51108],"type":"Point"}
+}

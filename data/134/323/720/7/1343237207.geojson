@@ -1,0 +1,71 @@
+{
+  "id": 1343237207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12919,16.02379,44.12919,16.02379",
+    "geom:latitude":16.02379,
+    "geom:longitude":44.12919,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Sawlan",
+    "gn:country_code":"YE",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300369,
+    "gn:latitude":16.02379,
+    "gn:longitude":44.12919,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eawl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eawl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300369
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6365b4e81551d3f7c2c92398202ab8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921833,
+            "locality_id":1343237207,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343237207,
+    "wof:lastmodified":1537716033,
+    "wof:name":"Sawlan",
+    "wof:parent_id":1091921833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12919,
+    16.02379,
+    44.12919,
+    16.02379
+],
+  "geometry": {"coordinates":[44.12919,16.02379],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226805455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44209,15.936,43.44209,15.936",
+    "geom:latitude":15.936,
+    "geom:longitude":43.44209,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1715.0",
+    "gn:asciiname":"Mahbashi",
+    "gn:country_code":"YE",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365763,
+    "gn:latitude":15.936,
+    "gn:longitude":43.44209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29bash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29bash\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365763
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2363f584a7c934378f7e009780b14524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":1226805455,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226805455,
+    "wof:lastmodified":1537715938,
+    "wof:name":"Mahbashi",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44209,
+    15.936,
+    43.44209,
+    15.936
+],
+  "geometry": {"coordinates":[43.44209,15.936],"type":"Point"}
+}

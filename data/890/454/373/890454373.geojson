@@ -1,0 +1,76 @@
+{
+  "id": 890454373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98936,16.22117,42.98936,16.22117",
+    "geom:latitude":16.22117,
+    "geom:longitude":42.98936,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0645"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Aqm"
+    ],
+    "qs:name":"Al \u2018Aqqam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632986,
+        "gp:id":1959063,
+        "qs:id":694030,
+        "qs_pg:id":695003
+    },
+    "wof:country":"YE",
+    "wof:created":1469052897,
+    "wof:geomhash":"14f71148921852cd00e5ba2536919c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890454373,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454373,
+    "wof:lastmodified":1505343656,
+    "wof:name":"Al \u2018Aqqam",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98936,
+    16.22117,
+    42.98936,
+    16.22117
+],
+  "geometry": {"coordinates":[42.98936,16.22117],"type":"Point"}
+}

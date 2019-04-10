@@ -1,0 +1,71 @@
+{
+  "id": 1293458243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23768,13.97932,44.23768,13.97932",
+    "geom:latitude":13.97932,
+    "geom:longitude":44.23768,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Bayt Murad",
+    "gn:country_code":"YE",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356638,
+    "gn:latitude":13.97932,
+    "gn:longitude":44.23768,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Mur\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Mur\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356638
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"151b607a41f8f6b422888d0be7d04707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1293458243,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293458243,
+    "wof:lastmodified":1537715681,
+    "wof:name":"Bayt Murad",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23768,
+    13.97932,
+    44.23768,
+    13.97932
+],
+  "geometry": {"coordinates":[44.23768,13.97932],"type":"Point"}
+}

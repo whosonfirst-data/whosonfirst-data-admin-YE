@@ -1,0 +1,74 @@
+{
+  "id": 1310070399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8785,16.37557,43.8785,16.37557",
+    "geom:latitude":16.37557,
+    "geom:longitude":43.8785,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Bughan",
+    "gn:country_code":"YE",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634525,
+    "gn:latitude":16.37557,
+    "gn:longitude":43.8785,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u016bghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u063a\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u016bghan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634525
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8f933c1fc4d8fb39ee59051a66508b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1310070399,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310070399,
+    "wof:lastmodified":1537716080,
+    "wof:name":"Bughan",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8785,
+    16.37557,
+    43.8785,
+    16.37557
+],
+  "geometry": {"coordinates":[43.8785,16.37557],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326507395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33075,14.35881,44.33075,14.35881",
+    "geom:latitude":14.35881,
+    "geom:longitude":44.33075,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Qumrah",
+    "gn:country_code":"YE",
+    "gn:dem":2533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950576,
+    "gn:latitude":14.35881,
+    "gn:longitude":44.33075,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al Qumrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0645\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950576
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c23f4adaa6b36135fa62873a427ceb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1326507395,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326507395,
+    "wof:lastmodified":1537716281,
+    "wof:name":"Al Qumrah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33075,
+    14.35881,
+    44.33075,
+    14.35881
+],
+  "geometry": {"coordinates":[44.33075,14.35881],"type":"Point"}
+}

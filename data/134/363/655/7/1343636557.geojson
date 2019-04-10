@@ -1,0 +1,71 @@
+{
+  "id": 1343636557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09647,15.96287,44.09647,15.96287",
+    "geom:latitude":15.96287,
+    "geom:longitude":44.09647,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"As Sahamah",
+    "gn:country_code":"YE",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362123,
+    "gn:latitude":15.96287,
+    "gn:longitude":44.09647,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sa\u1e29amah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sa\u1e29amah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362123
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"091018d098c0014a67d40260c6585ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921833,
+            "locality_id":1343636557,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343636557,
+    "wof:lastmodified":1537715835,
+    "wof:name":"As Sahamah",
+    "wof:parent_id":1091921833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09647,
+    15.96287,
+    44.09647,
+    15.96287
+],
+  "geometry": {"coordinates":[44.09647,15.96287],"type":"Point"}
+}

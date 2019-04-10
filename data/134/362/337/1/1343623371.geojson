@@ -1,0 +1,77 @@
+{
+  "id": 1343623371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71743,16.20587,43.71743,16.20587",
+    "geom:latitude":16.20587,
+    "geom:longitude":43.71743,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Al Ha'it",
+    "gn:country_code":"YE",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020392,
+    "gn:latitude":16.20587,
+    "gn:longitude":43.71743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101\u2019i\u0163",
+    "gn:population":11,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101\u2019i\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0626\u0637"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020392
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e10b3f13a6a8419943f3d6f45acdd0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":1343623371,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343623371,
+    "wof:lastmodified":1537716006,
+    "wof:name":"Al Ha'it",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71743,
+    16.20587,
+    43.71743,
+    16.20587
+],
+  "geometry": {"coordinates":[43.71743,16.20587],"type":"Point"}
+}

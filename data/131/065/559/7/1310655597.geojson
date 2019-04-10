@@ -1,0 +1,74 @@
+{
+  "id": 1310655597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99412,13.57667,43.99412,13.57667",
+    "geom:latitude":13.57667,
+    "geom:longitude":43.99412,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1518.0",
+    "gn:asciiname":"Al Hasab",
+    "gn:country_code":"YE",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407849,
+    "gn:latitude":13.57667,
+    "gn:longitude":43.99412,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Hasab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u062d\u0635\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407849
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"980b5e46124a6b88e0a44c2daf730296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926357,
+            "locality_id":1310655597,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310655597,
+    "wof:lastmodified":1537715406,
+    "wof:name":"Al Hasab",
+    "wof:parent_id":1091926357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99412,
+    13.57667,
+    43.99412,
+    13.57667
+],
+  "geometry": {"coordinates":[43.99412,13.57667],"type":"Point"}
+}

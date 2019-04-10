@@ -1,0 +1,71 @@
+{
+  "id": 1293257095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77043,15.80609,43.77043,15.80609",
+    "geom:latitude":15.80609,
+    "geom:longitude":43.77043,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Sabahah",
+    "gn:country_code":"YE",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343887,
+    "gn:latitude":15.80609,
+    "gn:longitude":43.77043,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015eaba\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eaba\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343887
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cebfbbf31c0e3573288a9de981ae2974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1293257095,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293257095,
+    "wof:lastmodified":1537715521,
+    "wof:name":"Sabahah",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77043,
+    15.80609,
+    43.77043,
+    15.80609
+],
+  "geometry": {"coordinates":[43.77043,15.80609],"type":"Point"}
+}

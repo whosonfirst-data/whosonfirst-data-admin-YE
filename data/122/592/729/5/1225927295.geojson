@@ -1,0 +1,74 @@
+{
+  "id": 1225927295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80551,15.69271,44.80551,15.69271",
+    "geom:latitude":15.69271,
+    "geom:longitude":44.80551,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Makif",
+    "gn:country_code":"YE",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976135,
+    "gn:latitude":15.69271,
+    "gn:longitude":44.80551,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mak\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Mak\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"42fee0b0489fcb5c6caaea857d9c0489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1225927295,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1225927295,
+    "wof:lastmodified":1537716145,
+    "wof:name":"Makif",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80551,
+    15.69271,
+    44.80551,
+    15.69271
+],
+  "geometry": {"coordinates":[44.80551,15.69271],"type":"Point"}
+}

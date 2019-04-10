@@ -1,0 +1,73 @@
+{
+  "id": 890437513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03782,17.05553,44.03782,17.05553",
+    "geom:latitude":17.05553,
+    "geom:longitude":44.03782,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0633\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Madarah Al Musinn"
+    ],
+    "qs:name":"Al Mad\u0101rah al Musinn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789606,
+        "gp:id":1959086,
+        "qs:id":700319,
+        "wd:id":"Q20306254"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052154,
+    "wof:geomhash":"947c690138204e71c5358851d7c5996a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890437513,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890437513,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Mad\u0101rah al Musinn",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03782,
+    17.05553,
+    44.03782,
+    17.05553
+],
+  "geometry": {"coordinates":[44.03782,17.05553],"type":"Point"}
+}

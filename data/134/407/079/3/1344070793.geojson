@@ -1,0 +1,68 @@
+{
+  "id": 1344070793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01083,13.76969,46.01083,13.76969",
+    "geom:latitude":13.76969,
+    "geom:longitude":46.01083,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Dukaim",
+    "gn:country_code":"YE",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408867,
+    "gn:latitude":13.76969,
+    "gn:longitude":46.01083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dukaim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408867
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53b789d1785db936ad0e40bab5885c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918487,
+            "locality_id":1344070793,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1344070793,
+    "wof:lastmodified":1536859232,
+    "wof:name":"Dukaim",
+    "wof:parent_id":1091918487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01083,
+    13.76969,
+    46.01083,
+    13.76969
+],
+  "geometry": {"coordinates":[46.01083,13.76969],"type":"Point"}
+}

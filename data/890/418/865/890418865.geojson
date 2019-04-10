@@ -1,0 +1,80 @@
+{
+  "id": 890418865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44898,16.08637,43.44898,16.08637",
+    "geom:latitude":16.08637,
+    "geom:longitude":43.44898,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0628\u0640\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0628\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b Al Bin"
+    ],
+    "qs:name":"Sha\u2018b al Bin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658746,
+        "gp:id":1958568,
+        "qs:id":696477,
+        "qs_pg:id":696524,
+        "wd:id":"Q20307355"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051264,
+    "wof:geomhash":"bf3ae8f3cbd90ff67c45eccadaa5c412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":890418865,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418865,
+    "wof:lastmodified":1514503364,
+    "wof:name":"Sha\u2018b al Bin",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44898,
+    16.08637,
+    43.44898,
+    16.08637
+],
+  "geometry": {"coordinates":[43.44898,16.08637],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343242499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88925,14.3879,43.88925,14.3879",
+    "geom:latitude":14.3879,
+    "geom:longitude":43.88925,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Shijab",
+    "gn:country_code":"YE",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358393,
+    "gn:latitude":14.3879,
+    "gn:longitude":43.88925,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shijab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358393
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb44eeb2e8e8d1a99268a869e428b118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1343242499,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343242499,
+    "wof:lastmodified":1537058378,
+    "wof:name":"Shijab",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88925,
+    14.3879,
+    43.88925,
+    14.3879
+],
+  "geometry": {"coordinates":[43.88925,14.3879],"type":"Point"}
+}

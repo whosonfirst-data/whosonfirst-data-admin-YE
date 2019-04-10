@@ -1,0 +1,76 @@
+{
+  "id": 890419921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7869,13.14896,43.7869,13.14896",
+    "geom:latitude":13.14896,
+    "geom:longitude":43.7869,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":34,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0623\u0631\u0628\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Al Arbah"
+    ],
+    "name:unk_x_variant":[
+        "W\u0101d\u012b al Arba\u1e29"
+    ],
+    "qs:name":"W\u0101d\u012b Al Arba\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069170,
+        "gp:id":1958962,
+        "qs:id":753350,
+        "wd:id":"Q20309408"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051307,
+    "wof:geomhash":"fc1e386686725c481042278ac0ce630a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890419921,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890419921,
+    "wof:lastmodified":1514503380,
+    "wof:name":"W\u0101d\u012b Al Arba\u1e29",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7869,
+    13.14896,
+    43.7869,
+    13.14896
+],
+  "geometry": {"coordinates":[43.7869,13.14896],"type":"Point"}
+}

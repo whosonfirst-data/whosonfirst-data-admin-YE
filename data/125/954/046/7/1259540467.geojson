@@ -1,0 +1,74 @@
+{
+  "id": 1259540467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14038,13.23198,44.14038,13.23198",
+    "geom:latitude":13.23198,
+    "geom:longitude":44.14038,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"As Sarhah",
+    "gn:country_code":"YE",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871468,
+    "gn:latitude":13.23198,
+    "gn:longitude":44.14038,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015ear\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0631\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015ear\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871468
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ad8f161ce2d51c9176691a798c57cf63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1259540467,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259540467,
+    "wof:lastmodified":1537716246,
+    "wof:name":"As Sarhah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14038,
+    13.23198,
+    44.14038,
+    13.23198
+],
+  "geometry": {"coordinates":[44.14038,13.23198],"type":"Point"}
+}

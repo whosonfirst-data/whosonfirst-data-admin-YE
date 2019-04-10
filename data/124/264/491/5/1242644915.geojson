@@ -1,0 +1,71 @@
+{
+  "id": 1242644915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82288,13.44851,43.82288,13.44851",
+    "geom:latitude":13.44851,
+    "geom:longitude":43.82288,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Al Janadayn",
+    "gn:country_code":"YE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354349,
+    "gn:latitude":13.44851,
+    "gn:longitude":43.82288,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al Janadayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0646\u062f\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354349
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0e70bf72ac6eb7f07f4ab1d2e9f21989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1242644915,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242644915,
+    "wof:lastmodified":1537715608,
+    "wof:name":"Al Janadayn",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82288,
+    13.44851,
+    43.82288,
+    13.44851
+],
+  "geometry": {"coordinates":[43.82288,13.44851],"type":"Point"}
+}

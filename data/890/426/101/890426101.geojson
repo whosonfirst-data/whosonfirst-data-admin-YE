@@ -1,0 +1,73 @@
+{
+  "id": 890426101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3323,17.35251,43.3323,17.35251",
+    "geom:latitude":17.35251,
+    "geom:longitude":43.3323,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u0628\u0627\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Makhbay"
+    ],
+    "qs:name":"Makhb\u0101y",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856625,
+        "gp:id":56447933,
+        "qs:id":742542,
+        "wd:id":"Q20300748"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051618,
+    "wof:geomhash":"f0a058f99da9bee4b213366e9b2f008c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890426101,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426101,
+    "wof:lastmodified":1514503319,
+    "wof:name":"Makhb\u0101y",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3323,
+    17.35251,
+    43.3323,
+    17.35251
+],
+  "geometry": {"coordinates":[43.3323,17.35251],"type":"Point"}
+}

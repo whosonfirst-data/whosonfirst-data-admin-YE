@@ -1,0 +1,71 @@
+{
+  "id": 1276838439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94763,13.95461,43.94763,13.95461",
+    "geom:latitude":13.95461,
+    "geom:longitude":43.94763,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Ash Sharqi Bani Zuhayr",
+    "gn:country_code":"YE",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355954,
+    "gn:latitude":13.95461,
+    "gn:longitude":43.94763,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Sharq\u012b Ban\u012b Zuhayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sharq\u012b Ban\u012b Zuhayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355954
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3447702abeb672f8928abf7fb7d107b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1276838439,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276838439,
+    "wof:lastmodified":1537715658,
+    "wof:name":"Ash Sharqi Bani Zuhayr",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94763,
+    13.95461,
+    43.94763,
+    13.95461
+],
+  "geometry": {"coordinates":[43.94763,13.95461],"type":"Point"}
+}

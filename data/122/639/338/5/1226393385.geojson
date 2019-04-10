@@ -1,0 +1,72 @@
+{
+  "id": 1226393385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49698,14.63064,43.49698,14.63064",
+    "geom:latitude":14.63064,
+    "geom:longitude":43.49698,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Ar Ramad",
+    "gn:country_code":"YE",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401837,
+    "gn:latitude":14.63064,
+    "gn:longitude":43.49698,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ar Ram\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ram\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401837,
+        "wk:page":"Ar_Ramad"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e0b2d32de8310dbe024e512bc3c237e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925303,
+            "locality_id":1226393385,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1226393385,
+    "wof:lastmodified":1537715348,
+    "wof:name":"Ar Ramad",
+    "wof:parent_id":1091925303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49698,
+    14.63064,
+    43.49698,
+    14.63064
+],
+  "geometry": {"coordinates":[43.49698,14.63064],"type":"Point"}
+}

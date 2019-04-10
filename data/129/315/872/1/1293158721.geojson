@@ -1,0 +1,74 @@
+{
+  "id": 1293158721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16922,14.09608,44.16922,14.09608",
+    "geom:latitude":14.09608,
+    "geom:longitude":44.16922,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Al Manqudah",
+    "gn:country_code":"YE",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359887,
+    "gn:latitude":14.09608,
+    "gn:longitude":44.16922,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Manq\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0642\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Manq\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359887
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1ad5a600f6c7f36a50e4269524721744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":1293158721,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293158721,
+    "wof:lastmodified":1537715781,
+    "wof:name":"Al Manqudah",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16922,
+    14.09608,
+    44.16922,
+    14.09608
+],
+  "geometry": {"coordinates":[44.16922,14.09608],"type":"Point"}
+}

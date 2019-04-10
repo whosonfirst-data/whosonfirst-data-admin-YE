@@ -1,0 +1,71 @@
+{
+  "id": 1243353315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44469,14.93952,43.44469,14.93952",
+    "geom:latitude":14.93952,
+    "geom:longitude":43.44469,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Sharim",
+    "gn:country_code":"YE",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300116,
+    "gn:latitude":14.93952,
+    "gn:longitude":43.44469,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300116
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"00c6e458bc64c0496aa04275d9aa1b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1243353315,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243353315,
+    "wof:lastmodified":1537716029,
+    "wof:name":"Sharim",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44469,
+    14.93952,
+    43.44469,
+    14.93952
+],
+  "geometry": {"coordinates":[43.44469,14.93952],"type":"Point"}
+}

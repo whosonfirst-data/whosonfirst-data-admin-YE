@@ -1,0 +1,74 @@
+{
+  "id": 1209885815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22224,17.11543,43.22224,17.11543",
+    "geom:latitude":17.11543,
+    "geom:longitude":43.22224,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Ash Shubabin",
+    "gn:country_code":"YE",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537732,
+    "gn:latitude":17.11543,
+    "gn:longitude":43.22224,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shub\u0101b\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ash Shub\u0101b\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0628\u0627\u0628\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537732
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75b2c19f40090b3a70d67f910c9ce5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1209885815,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209885815,
+    "wof:lastmodified":1537716055,
+    "wof:name":"Ash Shubabin",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22224,
+    17.11543,
+    43.22224,
+    17.11543
+],
+  "geometry": {"coordinates":[43.22224,17.11543],"type":"Point"}
+}

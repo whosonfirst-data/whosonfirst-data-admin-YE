@@ -1,0 +1,73 @@
+{
+  "id": 890427415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25565,17.38907,43.25565,17.38907",
+    "geom:latitude":17.38907,
+    "geom:longitude":43.25565,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u062b\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qurthiyah"
+    ],
+    "qs:name":"Al Qurth\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856570,
+        "gp:id":56447933,
+        "qs:id":742487,
+        "wd:id":"Q20299150"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051693,
+    "wof:geomhash":"b7bfaab27aff3f890a0d192e1d8802e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890427415,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427415,
+    "wof:lastmodified":1514503200,
+    "wof:name":"Al Qurth\u012byah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25565,
+    17.38907,
+    43.25565,
+    17.38907
+],
+  "geometry": {"coordinates":[43.25565,17.38907],"type":"Point"}
+}

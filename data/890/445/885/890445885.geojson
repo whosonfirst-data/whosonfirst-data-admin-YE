@@ -1,0 +1,73 @@
+{
+  "id": 890445885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09068,16.30968,43.09068,16.30968",
+    "geom:latitude":16.30968,
+    "geom:longitude":43.09068,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0627\u0644\u062e\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Al Khal"
+    ],
+    "qs:name":"Ban\u012b al Kh\u0101l",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631702,
+        "gp:id":1958967,
+        "qs:id":694587,
+        "wd:id":"Q20299020"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052526,
+    "wof:geomhash":"9817314dbbf6dfde9a5cef2b4a1983b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":890445885,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445885,
+    "wof:lastmodified":1514503244,
+    "wof:name":"Ban\u012b al Kh\u0101l",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09068,
+    16.30968,
+    43.09068,
+    16.30968
+],
+  "geometry": {"coordinates":[43.09068,16.30968],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326700567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53238,15.51004,45.53238,15.51004",
+    "geom:latitude":15.51004,
+    "geom:longitude":45.53238,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al Shawdaq",
+    "gn:country_code":"YE",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356690,
+    "gn:latitude":15.51004,
+    "gn:longitude":45.53238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Shawdaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0634\u0648\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Shawdaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356690
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e1635d6cabc2a90bd781fef406ed5ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1326700567,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1326700567,
+    "wof:lastmodified":1537716046,
+    "wof:name":"Al Shawdaq",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53238,
+    15.51004,
+    45.53238,
+    15.51004
+],
+  "geometry": {"coordinates":[45.53238,15.51004],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209999945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98893,14.8953,44.98893,14.8953",
+    "geom:latitude":14.8953,
+    "geom:longitude":44.98893,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Rahbah (Al Kawlah)",
+    "gn:country_code":"YE",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7364022,
+    "gn:latitude":14.8953,
+    "gn:longitude":44.98893,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ra\u1e29bah (Al Kawlah)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062d\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u062d\u0628\u0629 \u0627\u0644\u0643\u0648\u0644\u0629",
+        "\u0631\u062d\u0628\u0629 (\u0627\u0644\u0643\u0648\u0644\u0629)"
+    ],
+    "name:und_x_variant":[
+        "Al Kawlah Ra\u1e29abah",
+        "Ra\u1e29abah",
+        "Ra\u1e29abah al Kawlah",
+        "Ra\u1e29bah (Al Kawlah)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364022
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3efaabff48d962e9caa799873732419d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1209999945,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1209999945,
+    "wof:lastmodified":1537715887,
+    "wof:name":"Rahbah (Al Kawlah)",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98893,
+    14.8953,
+    44.98893,
+    14.8953
+],
+  "geometry": {"coordinates":[44.98893,14.8953],"type":"Point"}
+}

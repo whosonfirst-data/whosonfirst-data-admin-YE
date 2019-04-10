@@ -1,0 +1,75 @@
+{
+  "id": 1293457417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8698,13.55803,43.8698,13.55803",
+    "geom:latitude":13.55803,
+    "geom:longitude":43.8698,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Ar Radm",
+    "gn:country_code":"YE",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356189,
+    "gn:latitude":13.55803,
+    "gn:longitude":43.8698,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Ra\u1e11m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0638\u0640\u0640\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e11m",
+        "Ar Raz\u0327m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356189
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b5e77334c09b1dad72fcf4b50a2449ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1293457417,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293457417,
+    "wof:lastmodified":1537715667,
+    "wof:name":"Ar Radm",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8698,
+    13.55803,
+    43.8698,
+    13.55803
+],
+  "geometry": {"coordinates":[43.8698,13.55803],"type":"Point"}
+}

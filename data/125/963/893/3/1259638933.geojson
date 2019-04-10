@@ -1,0 +1,71 @@
+{
+  "id": 1259638933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85412,13.66437,44.85412,13.66437",
+    "geom:latitude":13.66437,
+    "geom:longitude":44.85412,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Dar al Jabri",
+    "gn:country_code":"YE",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76507,
+    "gn:latitude":13.66437,
+    "gn:longitude":44.85412,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al Jabr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Jabr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76507
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0d19221d4bf1750b4e8b635855447141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924897,
+            "locality_id":1259638933,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259638933,
+    "wof:lastmodified":1537715203,
+    "wof:name":"Dar al Jabri",
+    "wof:parent_id":1091924897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85412,
+    13.66437,
+    44.85412,
+    13.66437
+],
+  "geometry": {"coordinates":[44.85412,13.66437],"type":"Point"}
+}

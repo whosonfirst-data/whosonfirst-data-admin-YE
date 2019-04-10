@@ -1,0 +1,76 @@
+{
+  "id": 890414935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33707,16.56328,43.33707,16.56328",
+    "geom:latitude":16.56328,
+    "geom:longitude":43.33707,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Hir\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Hiran"
+    ],
+    "qs:name":"Hir\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854788,
+        "gp:id":1959134,
+        "qs:id":741733,
+        "wd:id":"Q20305886"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051068,
+    "wof:geomhash":"dd93a5ff0e2acbf2184178dc39728963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890414935,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890414935,
+    "wof:lastmodified":1514503289,
+    "wof:name":"Hir\u0101n",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33707,
+    16.56328,
+    43.33707,
+    16.56328
+],
+  "geometry": {"coordinates":[43.33707,16.56328],"type":"Point"}
+}

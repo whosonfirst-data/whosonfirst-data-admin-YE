@@ -1,0 +1,68 @@
+{
+  "id": 1327323523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45409,14.16265,43.45409,14.16265",
+    "geom:latitude":14.16265,
+    "geom:longitude":43.45409,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Al Jirbah",
+    "gn:country_code":"YE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407457,
+    "gn:latitude":14.16265,
+    "gn:longitude":43.45409,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jirbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dba97c33c0c4a0064d74cd2bd22dbb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919903,
+            "locality_id":1327323523,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327323523,
+    "wof:lastmodified":1536837047,
+    "wof:name":"Al Jirbah",
+    "wof:parent_id":1091919903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45409,
+    14.16265,
+    43.45409,
+    14.16265
+],
+  "geometry": {"coordinates":[43.45409,14.16265],"type":"Point"}
+}

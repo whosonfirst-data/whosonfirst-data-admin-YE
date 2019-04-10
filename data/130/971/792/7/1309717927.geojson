@@ -1,0 +1,73 @@
+{
+  "id": 1309717927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,14.73333,49.01667,14.73333",
+    "geom:latitude":14.73333,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"Zaman as Saghir",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69465,
+    "gn:latitude":14.73333,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zam\u0101n a\u015f \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zam\u0101n al-Sagh\u012br",
+        "Zam\u0101n a\u015f \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69465
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e18d9f29f8a0f21b407a60a10a91cfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1309717927,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1309717927,
+    "wof:lastmodified":1537715062,
+    "wof:name":"Zaman as Saghir",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    14.73333,
+    49.01667,
+    14.73333
+],
+  "geometry": {"coordinates":[49.01667,14.73333],"type":"Point"}
+}

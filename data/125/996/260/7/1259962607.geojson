@@ -1,0 +1,71 @@
+{
+  "id": 1259962607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27207,17.23531,43.27207,17.23531",
+    "geom:latitude":17.23531,
+    "geom:longitude":43.27207,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Dhari Al Salman",
+    "gn:country_code":"YE",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345591,
+    "gn:latitude":17.23531,
+    "gn:longitude":43.27207,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dh\u0101r\u012b \u0100l Salm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u0101r\u012b \u0100l Salm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345591
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e725bbdea87337df1e9c3da2994daa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1259962607,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259962607,
+    "wof:lastmodified":1537715563,
+    "wof:name":"Dhari Al Salman",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27207,
+    17.23531,
+    43.27207,
+    17.23531
+],
+  "geometry": {"coordinates":[43.27207,17.23531],"type":"Point"}
+}

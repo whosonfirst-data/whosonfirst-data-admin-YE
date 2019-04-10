@@ -1,0 +1,74 @@
+{
+  "id": 1276949405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65124,15.37176,44.65124,15.37176",
+    "geom:latitude":15.37176,
+    "geom:longitude":44.65124,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Bani Nahshal",
+    "gn:country_code":"YE",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331620,
+    "gn:latitude":15.37176,
+    "gn:longitude":44.65124,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b Nahshal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0646\u0647\u0634\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b Nahshal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331620
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ea7039d0dc009d0e43b6bbc7fc549632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":1276949405,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276949405,
+    "wof:lastmodified":1537716192,
+    "wof:name":"Bani Nahshal",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65124,
+    15.37176,
+    44.65124,
+    15.37176
+],
+  "geometry": {"coordinates":[44.65124,15.37176],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360308387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.405,14.83,48.405,14.83",
+    "geom:latitude":14.83,
+    "geom:longitude":48.405,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Ar Rubah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78091,
+    "gn:latitude":14.83,
+    "gn:longitude":48.405,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar R\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruba",
+        "Al-R\u016bbah",
+        "Ar R\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78091
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2c62775047cbc98911291a8fe098ac43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1360308387,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1360308387,
+    "wof:lastmodified":1537715246,
+    "wof:name":"Ar Rubah",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.405,
+    14.83,
+    48.405,
+    14.83
+],
+  "geometry": {"coordinates":[48.405,14.83],"type":"Point"}
+}

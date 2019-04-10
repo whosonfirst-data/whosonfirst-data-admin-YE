@@ -1,0 +1,68 @@
+{
+  "id": 1293646683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.77226,13.58782,44.77226,13.58782",
+    "geom:latitude":13.58782,
+    "geom:longitude":44.77226,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Alela",
+    "gn:country_code":"YE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79787,
+    "gn:latitude":13.58782,
+    "gn:longitude":44.77226,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Alela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79787
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e71f23aff03fa1418f16ca5df37e23fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1293646683,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293646683,
+    "wof:lastmodified":1537052672,
+    "wof:name":"Alela",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.77226,
+    13.58782,
+    44.77226,
+    13.58782
+],
+  "geometry": {"coordinates":[44.77226,13.58782],"type":"Point"}
+}

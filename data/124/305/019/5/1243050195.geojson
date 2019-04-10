@@ -1,0 +1,73 @@
+{
+  "id": 1243050195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05,15.43333,44.05,15.43333",
+    "geom:latitude":15.43333,
+    "geom:longitude":44.05,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Bayn `Amir",
+    "gn:country_code":"YE",
+    "gn:dem":2607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77010,
+    "gn:latitude":15.43333,
+    "gn:longitude":44.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayn \u2018\u0100mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u2018Amir",
+        "Bayn \u2018\u0100mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77010,
+        "wk:page":"Bayn_%60amir"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae0b70fc855f96e94fe8e1c7757857d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1243050195,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243050195,
+    "wof:lastmodified":1537715217,
+    "wof:name":"Bayn `Amir",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05,
+    15.43333,
+    44.05,
+    15.43333
+],
+  "geometry": {"coordinates":[44.05,15.43333],"type":"Point"}
+}

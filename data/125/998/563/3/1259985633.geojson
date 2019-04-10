@@ -1,0 +1,75 @@
+{
+  "id": 1259985633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75,16.5,48.75,16.5",
+    "geom:latitude":16.5,
+    "geom:longitude":48.75,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Ash Shaghi",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77984,
+    "gn:latitude":16.5,
+    "gn:longitude":48.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Sh\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ash Sh\u0101gh\u012b"
+    ],
+    "name:und_x_variant":[
+        "Al-Sh\u0101ghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77984
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"910e71395fac5127431d4c52e07fa46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922697,
+            "locality_id":1259985633,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259985633,
+    "wof:lastmodified":1537715244,
+    "wof:name":"Ash Shaghi",
+    "wof:parent_id":1091922697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75,
+    16.5,
+    48.75,
+    16.5
+],
+  "geometry": {"coordinates":[48.75,16.5],"type":"Point"}
+}

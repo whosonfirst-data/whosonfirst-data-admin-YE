@@ -1,0 +1,73 @@
+{
+  "id": 890423687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29142,16.25979,43.29142,16.25979",
+    "geom:latitude":16.25979,
+    "geom:longitude":43.29142,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0631\u0636 \u0623\u0628\u0648 \u0631\u0634\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Ariu AbU Rashid"
+    ],
+    "qs:name":"\u2018\u0100ri\u1e11 Ab\u016b Rash\u012bd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756364,
+        "gp:id":1953570,
+        "qs:id":698873,
+        "wd:id":"Q20299178"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051509,
+    "wof:geomhash":"ca60b3b4286e57c1f7fcfae0f6f4f80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890423687,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423687,
+    "wof:lastmodified":1514503407,
+    "wof:name":"\u2018\u0100ri\u1e11 Ab\u016b Rash\u012bd",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29142,
+    16.25979,
+    43.29142,
+    16.25979
+],
+  "geometry": {"coordinates":[43.29142,16.25979],"type":"Point"}
+}

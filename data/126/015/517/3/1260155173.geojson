@@ -1,0 +1,71 @@
+{
+  "id": 1260155173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.77573,13.9896,45.77573,13.9896",
+    "geom:latitude":13.9896,
+    "geom:longitude":45.77573,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Harawi",
+    "gn:country_code":"YE",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75145,
+    "gn:latitude":13.9896,
+    "gn:longitude":45.77573,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Har\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Har\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75145
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f69c0b174445a3e779cbf5f9c9a5e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1260155173,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260155173,
+    "wof:lastmodified":1537715171,
+    "wof:name":"Harawi",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.77573,
+    13.9896,
+    45.77573,
+    13.9896
+],
+  "geometry": {"coordinates":[45.77573,13.9896],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343549121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45166,14.25854,44.45166,14.25854",
+    "geom:latitude":14.25854,
+    "geom:longitude":44.45166,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Malyan",
+    "gn:country_code":"YE",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408306,
+    "gn:latitude":14.25854,
+    "gn:longitude":44.45166,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Maly\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mily\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0644\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maly\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408306
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e6cfed30258ad8224ac82d17b0bae00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1343549121,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343549121,
+    "wof:lastmodified":1537715417,
+    "wof:name":"Malyan",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45166,
+    14.25854,
+    44.45166,
+    14.25854
+],
+  "geometry": {"coordinates":[44.45166,14.25854],"type":"Point"}
+}

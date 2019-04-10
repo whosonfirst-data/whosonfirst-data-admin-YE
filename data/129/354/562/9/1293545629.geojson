@@ -1,0 +1,71 @@
+{
+  "id": 1293545629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56319,15.54518,43.56319,15.54518",
+    "geom:latitude":15.54518,
+    "geom:longitude":43.56319,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Ar Rayghah",
+    "gn:country_code":"YE",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980800,
+    "gn:latitude":15.54518,
+    "gn:longitude":43.56319,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Rayghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u063a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980800
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"785c8dce8b1fa0114a087078a4d501d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1293545629,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293545629,
+    "wof:lastmodified":1537716185,
+    "wof:name":"Ar Rayghah",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56319000000001,
+    15.54518,
+    43.56319000000001,
+    15.54518
+],
+  "geometry": {"coordinates":[43.56319000000001,15.54518],"type":"Point"}
+}

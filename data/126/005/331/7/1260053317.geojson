@@ -1,0 +1,75 @@
+{
+  "id": 1260053317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42077,15.44202,45.42077,15.44202",
+    "geom:latitude":15.44202,
+    "geom:longitude":45.42077,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al Uraydan",
+    "gn:country_code":"YE",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341135,
+    "gn:latitude":15.44202,
+    "gn:longitude":45.42077,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l Urayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0648\u0631\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Wurayd\u0101n",
+        "\u0100l Urayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"51bb03f0f68215d182998458d37db2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1260053317,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260053317,
+    "wof:lastmodified":1537715473,
+    "wof:name":"Al Uraydan",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42077000000001,
+    15.44202,
+    45.42077000000001,
+    15.44202
+],
+  "geometry": {"coordinates":[45.42077000000001,15.44202],"type":"Point"}
+}

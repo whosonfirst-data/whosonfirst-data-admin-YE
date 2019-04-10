@@ -1,0 +1,74 @@
+{
+  "id": 1326792443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01549,15.8438,44.01549,15.8438",
+    "geom:latitude":15.8438,
+    "geom:longitude":44.01549,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Dawa'ir",
+    "gn:country_code":"YE",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975355,
+    "gn:latitude":15.8438,
+    "gn:longitude":44.01549,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daw\u0101\u2018ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0627\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "Daw\u0101\u2018ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975355
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8a323100aad718b14caba03ee66ca598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922091,
+            "locality_id":1326792443,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1326792443,
+    "wof:lastmodified":1537716123,
+    "wof:name":"Dawa'ir",
+    "wof:parent_id":1091922091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01549,
+    15.8438,
+    44.01549,
+    15.8438
+],
+  "geometry": {"coordinates":[44.01549,15.8438],"type":"Point"}
+}

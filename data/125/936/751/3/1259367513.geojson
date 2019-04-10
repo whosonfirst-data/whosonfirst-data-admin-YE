@@ -1,0 +1,68 @@
+{
+  "id": 1259367513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27992,14.47821,43.27992,14.47821",
+    "geom:latitude":14.47821,
+    "geom:longitude":43.27992,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"As Sawlah",
+    "gn:country_code":"YE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77806,
+    "gn:latitude":14.47821,
+    "gn:longitude":43.27992,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Sawlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77806
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a53816fc970a17d2e9bdea109dc4881a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1259367513,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259367513,
+    "wof:lastmodified":1537024189,
+    "wof:name":"As Sawlah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27992,
+    14.47821,
+    43.27992,
+    14.47821
+],
+  "geometry": {"coordinates":[43.27992,14.47821],"type":"Point"}
+}

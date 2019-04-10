@@ -1,0 +1,72 @@
+{
+  "id": 1310200279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44196,15.10693,43.44196,15.10693",
+    "geom:latitude":15.10693,
+    "geom:longitude":43.44196,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Mahall Wahaban Hasan",
+    "gn:country_code":"YE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365493,
+    "gn:latitude":15.10693,
+    "gn:longitude":43.44196,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all Wahab\u0101n \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Wahab\u0101n \u1e28asan",
+        "Ma\u1e29all Wahb\u0101n \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365493
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8a500f2db7b0d315286c9dee7958059d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1310200279,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310200279,
+    "wof:lastmodified":1537715932,
+    "wof:name":"Mahall Wahaban Hasan",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44196,
+    15.10693,
+    43.44196,
+    15.10693
+],
+  "geometry": {"coordinates":[43.44196,15.10693],"type":"Point"}
+}

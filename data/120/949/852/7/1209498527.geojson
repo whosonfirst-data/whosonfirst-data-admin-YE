@@ -1,0 +1,65 @@
+{
+  "id": 1209498527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76908,15.89161,44.76908,15.89161",
+    "geom:latitude":15.89161,
+    "geom:longitude":44.76908,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Al Mawdin",
+    "gn:country_code":"YE",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342708,
+    "gn:latitude":15.89161,
+    "gn:longitude":44.76908,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mawdin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u062f\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342708
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e70af0e779a77025d93f9b189c43b537",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209498527
+        }
+    ],
+    "wof:id":1209498527,
+    "wof:lastmodified":1537715504,
+    "wof:name":"Al Mawdin",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76908,
+    15.89161,
+    44.76908,
+    15.89161
+],
+  "geometry": {"coordinates":[44.76908,15.89161],"type":"Point"}
+}

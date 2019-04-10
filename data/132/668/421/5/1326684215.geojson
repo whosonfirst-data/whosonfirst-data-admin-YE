@@ -1,0 +1,79 @@
+{
+  "id": 1326684215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24552,15.53693,44.24552,15.53693",
+    "geom:latitude":15.53693,
+    "geom:longitude":44.24552,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Ghallabah",
+    "gn:country_code":"YE",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362379,
+    "gn:latitude":15.53693,
+    "gn:longitude":44.24552,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ghall\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghall\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362379
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1d98baf9ced200ff99c0ac0017b5148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1326684215,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1326684215,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1326684215,
+    "wof:lastmodified":1537715842,
+    "wof:name":"Ghallabah",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24552,
+    15.53693,
+    44.24552,
+    15.53693
+],
+  "geometry": {"coordinates":[44.24552,15.53693],"type":"Point"}
+}

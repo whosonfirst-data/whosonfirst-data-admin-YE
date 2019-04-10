@@ -1,0 +1,75 @@
+{
+  "id": 1343646265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99902,15.68686,42.99902,15.68686",
+    "geom:latitude":15.68686,
+    "geom:longitude":42.99902,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Muslaybat al Gharbiyah",
+    "gn:country_code":"YE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341040,
+    "gn:latitude":15.68686,
+    "gn:longitude":42.99902,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mu\u015flaybat al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0644\u064a\u0628\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u015flaybah",
+        "Mu\u015flaybat al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341040
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed54572cd4b1689b27d44417b0b8f9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1343646265,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343646265,
+    "wof:lastmodified":1537715469,
+    "wof:name":"Muslaybat al Gharbiyah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99902,
+    15.68686,
+    42.99902,
+    15.68686
+],
+  "geometry": {"coordinates":[42.99902,15.68686],"type":"Point"}
+}

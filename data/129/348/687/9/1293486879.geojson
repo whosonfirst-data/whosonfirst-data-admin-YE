@@ -1,0 +1,71 @@
+{
+  "id": 1293486879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85278,16.01306,48.85278,16.01306",
+    "geom:latitude":16.01306,
+    "geom:longitude":48.85278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1910.0",
+    "gn:asciiname":"Dahamah",
+    "gn:country_code":"YE",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76636,
+    "gn:latitude":16.01306,
+    "gn:longitude":48.85278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Da\u1e29\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u1e29\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76636
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4858a9a6779a1ff170e51961324b6a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923163,
+            "locality_id":1293486879,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293486879,
+    "wof:lastmodified":1537715206,
+    "wof:name":"Dahamah",
+    "wof:parent_id":1091923163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85278,
+    16.01306,
+    48.85278,
+    16.01306
+],
+  "geometry": {"coordinates":[48.85278,16.01306],"type":"Point"}
+}

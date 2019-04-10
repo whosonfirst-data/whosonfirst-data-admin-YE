@@ -1,0 +1,71 @@
+{
+  "id": 1327117205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25438,16.85558,44.25438,16.85558",
+    "geom:latitude":16.85558,
+    "geom:longitude":44.25438,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2213.0",
+    "gn:asciiname":"Al Khays",
+    "gn:country_code":"YE",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362788,
+    "gn:latitude":16.85558,
+    "gn:longitude":44.25438,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Khays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362788
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a29366fbafac97452d5d2b1a3ce42c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":1327117205,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327117205,
+    "wof:lastmodified":1537715854,
+    "wof:name":"Al Khays",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25438,
+    16.85558,
+    44.25438,
+    16.85558
+],
+  "geometry": {"coordinates":[44.25438,16.85558],"type":"Point"}
+}

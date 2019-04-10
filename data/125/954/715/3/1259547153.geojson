@@ -1,0 +1,71 @@
+{
+  "id": 1259547153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26745,15.21428,44.26745,15.21428",
+    "geom:latitude":15.21428,
+    "geom:longitude":44.26745,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Al Mahaqirah",
+    "gn:country_code":"YE",
+    "gn:dem":2410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34762,
+    "gn:latitude":15.21428,
+    "gn:longitude":44.26745,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e29\u0101qirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u0101qirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34762
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"edfeec9742f3ec0b26295d960b38c676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1259547153,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259547153,
+    "wof:lastmodified":1537715055,
+    "wof:name":"Al Mahaqirah",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26745,
+    15.21428,
+    44.26745,
+    15.21428
+],
+  "geometry": {"coordinates":[44.26745,15.21428],"type":"Point"}
+}

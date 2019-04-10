@@ -1,0 +1,71 @@
+{
+  "id": 1225817939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29643,17.2074,43.29643,17.2074",
+    "geom:latitude":17.2074,
+    "geom:longitude":43.29643,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"As Sulayf",
+    "gn:country_code":"YE",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345570,
+    "gn:latitude":17.2074,
+    "gn:longitude":43.29643,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sulayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345570
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d220fd0fb76ddf3730e6e31a35391020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1225817939,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1225817939,
+    "wof:lastmodified":1537715563,
+    "wof:name":"As Sulayf",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29643,
+    17.2074,
+    43.29643,
+    17.2074
+],
+  "geometry": {"coordinates":[43.29643,17.2074],"type":"Point"}
+}

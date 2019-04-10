@@ -1,0 +1,74 @@
+{
+  "id": 1242646913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42901,17.2586,43.42901,17.2586",
+    "geom:latitude":17.2586,
+    "geom:longitude":43.42901,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Az Zahir",
+    "gn:country_code":"YE",
+    "gn:dem":2490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7345754,
+    "gn:latitude":17.2586,
+    "gn:longitude":43.42901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az\u0327 Z\u0327\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az\u0327 Z\u0327\u0101hir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345754
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0adfeb02808ee1f0a78e4608add5c8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1242646913,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242646913,
+    "wof:lastmodified":1537715567,
+    "wof:name":"Az Zahir",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42901,
+    17.2586,
+    43.42901,
+    17.2586
+],
+  "geometry": {"coordinates":[43.42901,17.2586],"type":"Point"}
+}

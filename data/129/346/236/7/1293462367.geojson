@@ -1,0 +1,74 @@
+{
+  "id": 1293462367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40366,17.40172,43.40366,17.40172",
+    "geom:latitude":17.40172,
+    "geom:longitude":43.40366,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Al Jazimah",
+    "gn:country_code":"YE",
+    "gn:dem":2271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345470,
+    "gn:latitude":17.40172,
+    "gn:longitude":43.40366,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Al Jaz\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jaz\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345470
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e642bb86c8093a1e9d90d13f1200856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1293462367,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293462367,
+    "wof:lastmodified":1537715560,
+    "wof:name":"Al Jazimah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40366,
+    17.40172,
+    43.40366,
+    17.40172
+],
+  "geometry": {"coordinates":[43.40366,17.40172],"type":"Point"}
+}

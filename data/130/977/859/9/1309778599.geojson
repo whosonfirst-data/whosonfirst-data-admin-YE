@@ -1,0 +1,75 @@
+{
+  "id": 1309778599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37472,16.82923,43.37472,16.82923",
+    "geom:latitude":16.82923,
+    "geom:longitude":43.37472,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al al Yasri",
+    "gn:country_code":"YE",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346430,
+    "gn:latitude":16.82923,
+    "gn:longitude":43.37472,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l al Yasr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0627\u0644\u064a\u0633\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all\u0101t al Yasr\u012b",
+        "\u0100l al Yasr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346430
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"922e3a65764ca2ad2709b2b9f1c4cafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1309778599,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309778599,
+    "wof:lastmodified":1537715592,
+    "wof:name":"Al al Yasri",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37472,
+    16.82923,
+    43.37472,
+    16.82923
+],
+  "geometry": {"coordinates":[43.37472,16.82923],"type":"Point"}
+}

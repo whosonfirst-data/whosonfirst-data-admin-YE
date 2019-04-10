@@ -1,0 +1,74 @@
+{
+  "id": 1310073235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96422,13.13163,43.96422,13.13163",
+    "geom:latitude":13.13163,
+    "geom:longitude":43.96422,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Qaryah al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071484,
+    "gn:latitude":13.13163,
+    "gn:longitude":43.96422,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qaryah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Qaryah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071484
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"728f09a34ae4d5a8f895682c1f05c950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1310073235,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310073235,
+    "wof:lastmodified":1537716017,
+    "wof:name":"Al Qaryah al 'Ulya",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96422000000001,
+    13.13163,
+    43.96422000000001,
+    13.13163
+],
+  "geometry": {"coordinates":[43.96422000000001,13.13163],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276397423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40915,16.30837,43.40915,16.30837",
+    "geom:latitude":16.30837,
+    "geom:longitude":43.40915,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Hasan Washhah",
+    "gn:country_code":"YE",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015640,
+    "gn:latitude":16.30837,
+    "gn:longitude":43.40915,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28a\u015fan Wash\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646 \u0648\u0634\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28a\u015fan Wash\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015640
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a87225d9fae9c0e37b03dc82f9b0f241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1276397423,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276397423,
+    "wof:lastmodified":1537716006,
+    "wof:name":"Hasan Washhah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40915,
+    16.30837,
+    43.40915,
+    16.30837
+],
+  "geometry": {"coordinates":[43.40915,16.30837],"type":"Point"}
+}

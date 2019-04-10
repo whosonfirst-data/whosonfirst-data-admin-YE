@@ -1,0 +1,74 @@
+{
+  "id": 1225828585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.99633,15.5548,44.99633,15.5548",
+    "geom:latitude":15.5548,
+    "geom:longitude":44.99633,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Shaja'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976171,
+    "gn:latitude":15.5548,
+    "gn:longitude":44.99633,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shaj\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062c\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shaj\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976171
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b08a43207c3b9c563fc743c351365af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1225828585,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1225828585,
+    "wof:lastmodified":1537716147,
+    "wof:name":"Shaja'ah",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.99633,
+    15.5548,
+    44.99633,
+    15.5548
+],
+  "geometry": {"coordinates":[44.99633,15.5548],"type":"Point"}
+}

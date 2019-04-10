@@ -1,0 +1,73 @@
+{
+  "id": 890418275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41344,16.09319,43.41344,16.09319",
+    "geom:latitude":16.09319,
+    "geom:longitude":43.41344,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0644\u0628\u064a\u0635"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Lubays"
+    ],
+    "qs:name":"Ban\u012b Lubay\u015f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681797,
+        "gp:id":1958568,
+        "qs:id":696971,
+        "wd:id":"Q20299138"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051241,
+    "wof:geomhash":"f66526f9e108bc83700d287c2e427c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890418275,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418275,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b Lubay\u015f",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41344,
+    16.09319,
+    43.41344,
+    16.09319
+],
+  "geometry": {"coordinates":[43.41344,16.09319],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260064787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04183,15.20664,43.04183,15.20664",
+    "geom:latitude":15.20664,
+    "geom:longitude":43.04183,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Mahall al Ghaws al `Arabi",
+    "gn:country_code":"YE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365408,
+    "gn:latitude":15.20664,
+    "gn:longitude":43.04183,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al Ghaw\u015f al \u2018Arab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u063a\u0648\u0635 \u0627\u0644\u0639\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u2018Aws",
+        "Ma\u1e29all al Ghaw\u015f al \u2018Arab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365408
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9d4f43747f9dfc422ec7e5a180a221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1260064787,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1260064787,
+    "wof:lastmodified":1537715929,
+    "wof:name":"Mahall al Ghaws al `Arabi",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04183,
+    15.20664,
+    43.04183,
+    15.20664
+],
+  "geometry": {"coordinates":[43.04183,15.20664],"type":"Point"}
+}

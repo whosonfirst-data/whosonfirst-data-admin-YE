@@ -1,0 +1,68 @@
+{
+  "id": 890447185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1989,16.93924,44.1989,16.93924",
+    "geom:latitude":16.93924,
+    "geom:longitude":44.1989,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0632\u0642\u0629"
+    ],
+    "qs:name":"Raziqah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680955,
+        85632499,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753567,
+        "qs:id":698457
+    },
+    "wof:country":"YE",
+    "wof:created":1469052582,
+    "wof:geomhash":"480ac241cdc4176d0d35ce5b258a0e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "neighbourhood_id":890447185,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447185,
+    "wof:lastmodified":1505343615,
+    "wof:name":"Raziqah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1989,
+    16.93924,
+    44.1989,
+    16.93924
+],
+  "geometry": {"coordinates":[44.1989,16.93924],"type":"Point"}
+}

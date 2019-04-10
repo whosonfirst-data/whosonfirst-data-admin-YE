@@ -1,0 +1,73 @@
+{
+  "id": 890425039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42313,16.03771,43.42313,16.03771",
+    "geom:latitude":16.03771,
+    "geom:longitude":43.42313,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0644\u0627\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jalayam"
+    ],
+    "qs:name":"Al Jal\u0101yam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682437,
+        "gp:id":1958568,
+        "qs:id":697211,
+        "wd:id":"Q20302720"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051573,
+    "wof:geomhash":"90495d9669127022d1c713043fbf1e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890425039,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425039,
+    "wof:lastmodified":1514503156,
+    "wof:name":"Al Jal\u0101yam",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42313,
+    16.03771,
+    43.42313,
+    16.03771
+],
+  "geometry": {"coordinates":[43.42313,16.03771],"type":"Point"}
+}

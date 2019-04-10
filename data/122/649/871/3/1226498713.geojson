@@ -1,0 +1,68 @@
+{
+  "id": 1226498713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59823,15.75349,43.59823,15.75349",
+    "geom:latitude":15.75349,
+    "geom:longitude":43.59823,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1720.0",
+    "gn:asciiname":"Al Maghrabah",
+    "gn:country_code":"YE",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344343,
+    "gn:latitude":15.75349,
+    "gn:longitude":43.59823,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maghrabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344343
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c7dd3089c00b8999151f612438dabae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":1226498713,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226498713,
+    "wof:lastmodified":1537063146,
+    "wof:name":"Al Maghrabah",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59823,
+    15.75349,
+    43.59823,
+    15.75349
+],
+  "geometry": {"coordinates":[43.59823,15.75349],"type":"Point"}
+}

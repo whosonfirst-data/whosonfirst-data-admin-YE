@@ -1,0 +1,71 @@
+{
+  "id": 1243035703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71563,13.80095,43.71563,13.80095",
+    "geom:latitude":13.80095,
+    "geom:longitude":43.71563,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Az Zuhrah",
+    "gn:country_code":"YE",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355796,
+    "gn:latitude":13.80095,
+    "gn:longitude":43.71563,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az\u0327 Z\u0327uhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327uhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355796
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"482649aeb286726a304b74a3a60f2a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1243035703,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243035703,
+    "wof:lastmodified":1537715651,
+    "wof:name":"Az Zuhrah",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71563,
+    13.80095,
+    43.71563,
+    13.80095
+],
+  "geometry": {"coordinates":[43.71563,13.80095],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1126038265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73247,16.09482,43.73247,16.09482",
+    "geom:latitude":16.09482,
+    "geom:longitude":43.73247,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":16.09482,
+    "lbl:longitude":43.73247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0642 \u0627\u0644\u0639\u0645\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Fawq Al 'Amish"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8020601,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Fawq al \u2018Amish",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":749946,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020601,
+        "qs_pg:id":749946,
+        "wd:id":"Q20303290"
+    },
+    "wof:country":"YE",
+    "wof:created":1497301942,
+    "wof:geomhash":"8899c90ff9b1222443cb7c09dcc33b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1126038265,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126038265,
+    "wof:lastmodified":1514503266,
+    "wof:name":"Fawq al \u2018Amish",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73247,
+    16.09482,
+    43.73247,
+    16.09482
+],
+  "geometry": {"coordinates":[43.73247,16.09482],"type":"Point"}
+}

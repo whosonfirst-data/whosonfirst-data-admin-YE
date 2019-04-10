@@ -1,0 +1,77 @@
+{
+  "id": 1293347831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91167,13.0025,44.91167,13.0025",
+    "geom:latitude":13.0025,
+    "geom:longitude":44.91167,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2515.0",
+    "gn:asciiname":"Sabir",
+    "gn:country_code":"YE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71352,
+    "gn:latitude":13.0025,
+    "gn:longitude":44.91167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eabir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Subar",
+        "\u015eubr",
+        "\u015eabir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71352,
+        "wk:page":"Subar"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"78d75c03d101f19dcce3ef4c2ad4d7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924941,
+            "locality_id":1293347831,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293347831,
+    "wof:lastmodified":1537715094,
+    "wof:name":"Sabir",
+    "wof:parent_id":1091924941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91167,
+    13.0025,
+    44.91167,
+    13.0025
+],
+  "geometry": {"coordinates":[44.91167,13.0025],"type":"Point"}
+}

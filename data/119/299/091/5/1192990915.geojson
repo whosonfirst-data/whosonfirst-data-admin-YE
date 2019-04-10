@@ -1,0 +1,74 @@
+{
+  "id": 1192990915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48561,16.87278,43.48561,16.87278",
+    "geom:latitude":16.87278,
+    "geom:longitude":43.48561,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Alt Bahlan",
+    "gn:country_code":"YE",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346468,
+    "gn:latitude":16.87278,
+    "gn:longitude":43.48561,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Alt Bahl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a \u0628\u0647\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Alt Bahl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346468
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"42639299e2e3f5131b9590cb5f27ca13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1192990915,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1192990915,
+    "wof:lastmodified":1537715594,
+    "wof:name":"Alt Bahlan",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48561,
+    16.87278,
+    43.48561,
+    16.87278
+],
+  "geometry": {"coordinates":[43.48561,16.87278],"type":"Point"}
+}

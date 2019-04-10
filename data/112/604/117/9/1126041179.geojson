@@ -1,0 +1,81 @@
+{
+  "id": 1126041179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23289,17.1707,43.23289,17.1707",
+    "geom:latitude":17.1707,
+    "geom:longitude":43.23289,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1,
+    "gn:population":1,
+    "iso:country":"YE",
+    "lbl:latitude":17.1707,
+    "lbl:longitude":43.23289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0630\u0646\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8022177,
+    "qs_pg:gn_pop":1,
+    "qs_pg:name":"Shudhnah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":750337,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022177,
+        "qs_pg:id":750337
+    },
+    "wof:country":"YE",
+    "wof:created":1497302169,
+    "wof:geomhash":"7d1431df470ded4380cd5ce93a98b8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1126041179,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1126041179,
+    "wof:lastmodified":1509408510,
+    "wof:name":"Shudhnah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23289,
+    17.1707,
+    43.23289,
+    17.1707
+],
+  "geometry": {"coordinates":[43.23289,17.1707],"type":"Point"}
+}

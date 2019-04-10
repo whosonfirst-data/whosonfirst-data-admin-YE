@@ -1,0 +1,71 @@
+{
+  "id": 1276725659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10038,15.45013,44.10038,15.45013",
+    "geom:latitude":15.45013,
+    "geom:longitude":44.10038,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Bayt al Amir",
+    "gn:country_code":"YE",
+    "gn:dem":2300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342494,
+    "gn:latitude":15.45013,
+    "gn:longitude":44.10038,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Am\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Am\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342494
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ca9fc8f7f0599f841a18f6565579ab5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1276725659,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276725659,
+    "wof:lastmodified":1537715501,
+    "wof:name":"Bayt al Amir",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10038,
+    15.45013,
+    44.10038,
+    15.45013
+],
+  "geometry": {"coordinates":[44.10038,15.45013],"type":"Point"}
+}

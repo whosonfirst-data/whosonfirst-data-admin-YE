@@ -1,0 +1,71 @@
+{
+  "id": 1226513903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3814,15.30182,44.3814,15.30182",
+    "geom:latitude":15.30182,
+    "geom:longitude":44.3814,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Hadath",
+    "gn:country_code":"YE",
+    "gn:dem":2508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342384,
+    "gn:latitude":15.30182,
+    "gn:longitude":44.3814,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28adath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28adath"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342384
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6fe91a522949346102469aa796a48dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1226513903,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226513903,
+    "wof:lastmodified":1537715499,
+    "wof:name":"Hadath",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3814,
+    15.30182,
+    44.3814,
+    15.30182
+],
+  "geometry": {"coordinates":[44.3814,15.30182],"type":"Point"}
+}

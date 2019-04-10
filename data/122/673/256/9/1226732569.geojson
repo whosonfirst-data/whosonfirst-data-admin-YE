@@ -1,0 +1,74 @@
+{
+  "id": 1226732569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39481,16.79928,43.39481,16.79928",
+    "geom:latitude":16.79928,
+    "geom:longitude":43.39481,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Aghwal",
+    "gn:country_code":"YE",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346522,
+    "gn:latitude":16.79928,
+    "gn:longitude":43.39481,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Aghw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aghw\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u063a\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346522
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fff698912e7a8cac575f30d9a3a7aeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1226732569,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226732569,
+    "wof:lastmodified":1537715596,
+    "wof:name":"Aghwal",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39481,
+    16.79928,
+    43.39481,
+    16.79928
+],
+  "geometry": {"coordinates":[43.39481,16.79928],"type":"Point"}
+}

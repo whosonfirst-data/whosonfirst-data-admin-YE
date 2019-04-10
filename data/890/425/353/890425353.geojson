@@ -1,0 +1,73 @@
+{
+  "id": 890425353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37134,17.23638,44.37134,17.23638",
+    "geom:latitude":17.23638,
+    "geom:longitude":44.37134,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u062d\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Malhah"
+    ],
+    "qs:name":"Al Mal\u1e29ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785352,
+        "gp:id":1939932,
+        "qs:id":700268,
+        "wd:id":"Q20307618"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051585,
+    "wof:geomhash":"c140123e556d06e71a8f3c669f41198c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890425353,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425353,
+    "wof:lastmodified":1514503180,
+    "wof:name":"Al Mal\u1e29ah",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37134,
+    17.23638,
+    44.37134,
+    17.23638
+],
+  "geometry": {"coordinates":[44.37134,17.23638],"type":"Point"}
+}

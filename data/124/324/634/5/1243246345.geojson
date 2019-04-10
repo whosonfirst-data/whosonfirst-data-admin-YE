@@ -1,0 +1,74 @@
+{
+  "id": 1243246345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25606,17.16998,43.25606,17.16998",
+    "geom:latitude":17.16998,
+    "geom:longitude":43.25606,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Zahir al Jarf",
+    "gn:country_code":"YE",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346011,
+    "gn:latitude":17.16998,
+    "gn:longitude":43.25606,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Z\u0327\u0101hir al Jarf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0627\u0647\u0631 \u0627\u0644\u062c\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327\u0101hir al Jarf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346011
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2bda2e30a2df7a9bc6bcf3a6ce04929d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1243246345,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243246345,
+    "wof:lastmodified":1537715575,
+    "wof:name":"Zahir al Jarf",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25606,
+    17.16998,
+    43.25606,
+    17.16998
+],
+  "geometry": {"coordinates":[43.25606,17.16998],"type":"Point"}
+}

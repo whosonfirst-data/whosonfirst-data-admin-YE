@@ -1,0 +1,65 @@
+{
+  "id": 1209471127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29413,16.14614,43.29413,16.14614",
+    "geom:latitude":16.14614,
+    "geom:longitude":43.29413,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Aslam",
+    "gn:country_code":"YE",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306231,
+    "gn:latitude":16.14614,
+    "gn:longitude":43.29413,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aslam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u0644\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306231
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"de0c00019eb0af695cb3d258b32ae419",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209471127
+        }
+    ],
+    "wof:id":1209471127,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Aslam",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29413,
+    16.14614,
+    43.29413,
+    16.14614
+],
+  "geometry": {"coordinates":[43.29413,16.14614],"type":"Point"}
+}

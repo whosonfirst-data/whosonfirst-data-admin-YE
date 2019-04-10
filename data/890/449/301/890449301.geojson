@@ -1,0 +1,73 @@
+{
+  "id": 890449301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27344,14.75848,45.27344,14.75848",
+    "geom:latitude":14.75848,
+    "geom:longitude":45.27344,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u062c\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Harijah"
+    ],
+    "qs:name":"Al \u1e28arijah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053286,
+        "gp:id":1958975,
+        "qs:id":751714,
+        "wd:id":"Q20300446"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052682,
+    "wof:geomhash":"65d912c6fbc6e51b1ee4efeef7d0d180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890449301,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890449301,
+    "wof:lastmodified":1514503204,
+    "wof:name":"Al \u1e28arijah",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27344,
+    14.75848,
+    45.27344,
+    14.75848
+],
+  "geometry": {"coordinates":[45.27344,14.75848],"type":"Point"}
+}

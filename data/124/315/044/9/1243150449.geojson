@@ -1,0 +1,68 @@
+{
+  "id": 1243150449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74714,15.47389,43.74714,15.47389",
+    "geom:latitude":15.47389,
+    "geom:longitude":43.74714,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Al Lakamah",
+    "gn:country_code":"YE",
+    "gn:dem":2554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367014,
+    "gn:latitude":15.47389,
+    "gn:longitude":43.74714,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Lakamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367014
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43519926f1018909f4918cfeac8f648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1243150449,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243150449,
+    "wof:lastmodified":1536735481,
+    "wof:name":"Al Lakamah",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74714,
+    15.47389,
+    43.74714,
+    15.47389
+],
+  "geometry": {"coordinates":[43.74714,15.47389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243431663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75932,14.75601,44.75932,14.75601",
+    "geom:latitude":14.75601,
+    "geom:longitude":44.75932,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Kharabah Bani Ahmad",
+    "gn:country_code":"YE",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364023,
+    "gn:latitude":14.75601,
+    "gn:longitude":44.75932,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Al Khar\u0101bah Ban\u012b A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u0628\u0629 \u0628\u0646\u064a \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Khar\u0101bah",
+        "Al Khar\u0101bah Ban\u012b A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2845d3cabb2b0252733ca3161e612adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1243431663,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243431663,
+    "wof:lastmodified":1537715887,
+    "wof:name":"Al Kharabah Bani Ahmad",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75932,
+    14.75601,
+    44.75932,
+    14.75601
+],
+  "geometry": {"coordinates":[44.75932,14.75601],"type":"Point"}
+}

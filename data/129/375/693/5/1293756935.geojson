@@ -1,0 +1,74 @@
+{
+  "id": 1293756935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6995,15.4205,44.6995,15.4205",
+    "geom:latitude":15.4205,
+    "geom:longitude":44.6995,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Bani Jaghman",
+    "gn:country_code":"YE",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331969,
+    "gn:latitude":15.4205,
+    "gn:longitude":44.6995,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b Jaghm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062c\u063a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b Jaghm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331969
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d78447d919f3c6c79ed3dc1379faa802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1293756935,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293756935,
+    "wof:lastmodified":1537716204,
+    "wof:name":"Bani Jaghman",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6995,
+    15.4205,
+    44.6995,
+    15.4205
+],
+  "geometry": {"coordinates":[44.6995,15.4205],"type":"Point"}
+}

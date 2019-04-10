@@ -1,0 +1,76 @@
+{
+  "id": 890425411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75089,17.11761,43.75089,17.11761",
+    "geom:latitude":17.11761,
+    "geom:longitude":43.75089,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l Z\u0101bin"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0632\u0627\u0628\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Zabin"
+    ],
+    "qs:name":"\u0100l Z\u0101bin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792646,
+        "gp:id":1959094,
+        "qs:id":700439,
+        "wd:id":"Q20300291"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051588,
+    "wof:geomhash":"61f61d1d242ff4f2bb7bd6ab4f7655b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890425411,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425411,
+    "wof:lastmodified":1514503390,
+    "wof:name":"\u0100l Z\u0101bin",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75089,
+    17.11761,
+    43.75089,
+    17.11761
+],
+  "geometry": {"coordinates":[43.75089,17.11761],"type":"Point"}
+}

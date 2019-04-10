@@ -1,0 +1,71 @@
+{
+  "id": 1259974885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30169,15.17408,43.30169,15.17408",
+    "geom:latitude":15.17408,
+    "geom:longitude":43.30169,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al Ashraf",
+    "gn:country_code":"YE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402566,
+    "gn:latitude":15.17408,
+    "gn:longitude":43.30169,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402566
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"877cdd4f84482d14aa58874206329b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1259974885,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259974885,
+    "wof:lastmodified":1537715357,
+    "wof:name":"Mahall al Ashraf",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30169,
+    15.17408,
+    43.30169,
+    15.17408
+],
+  "geometry": {"coordinates":[43.30169,15.17408],"type":"Point"}
+}

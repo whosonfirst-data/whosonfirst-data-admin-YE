@@ -1,0 +1,73 @@
+{
+  "id": 890419647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39892,14.42213,45.39892,14.42213",
+    "geom:latitude":14.42213,
+    "geom:longitude":45.39892,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Haydah"
+    ],
+    "qs:name":"Al \u1e28aydah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051714,
+        "gp:id":1958975,
+        "qs:id":751100,
+        "wd:id":"Q20300926"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051296,
+    "wof:geomhash":"f785788640e8ba61a843966f64855d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":890419647,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419647,
+    "wof:lastmodified":1514503205,
+    "wof:name":"Al \u1e28aydah",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39892,
+    14.42213,
+    45.39892,
+    14.42213
+],
+  "geometry": {"coordinates":[45.39892,14.42213],"type":"Point"}
+}

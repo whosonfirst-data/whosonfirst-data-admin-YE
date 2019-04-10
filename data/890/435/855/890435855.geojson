@@ -1,0 +1,73 @@
+{
+  "id": 890435855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35536,14.64348,45.35536,14.64348",
+    "geom:latitude":14.64348,
+    "geom:longitude":45.35536,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0632\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shurayzah"
+    ],
+    "qs:name":"Ash Shurayzah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053213,
+        "gp:id":1958975,
+        "qs:id":751644,
+        "wd:id":"Q20304796"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052084,
+    "wof:geomhash":"2a4ff5fb741a2ffebb13c4d4efc3ecd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":890435855,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890435855,
+    "wof:lastmodified":1514503231,
+    "wof:name":"Ash Shurayzah",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35536,
+    14.64348,
+    45.35536,
+    14.64348
+],
+  "geometry": {"coordinates":[45.35536,14.64348],"type":"Point"}
+}

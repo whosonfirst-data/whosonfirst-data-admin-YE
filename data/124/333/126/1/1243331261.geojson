@@ -1,0 +1,71 @@
+{
+  "id": 1243331261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0296,13.37102,44.0296,13.37102",
+    "geom:latitude":13.37102,
+    "geom:longitude":44.0296,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Al Qayyahah",
+    "gn:country_code":"YE",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354795,
+    "gn:latitude":13.37102,
+    "gn:longitude":44.0296,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qayy\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qayy\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354795
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53da497c47b097612cda178bc520200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1243331261,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243331261,
+    "wof:lastmodified":1537715622,
+    "wof:name":"Al Qayyahah",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0296,
+    13.37102,
+    44.0296,
+    13.37102
+],
+  "geometry": {"coordinates":[44.0296,13.37102],"type":"Point"}
+}

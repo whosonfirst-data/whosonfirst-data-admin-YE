@@ -1,0 +1,77 @@
+{
+  "id": 1243038381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21775,14.88941,45.21775,14.88941",
+    "geom:latitude":14.88941,
+    "geom:longitude":45.21775,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"As Sawar",
+    "gn:country_code":"YE",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053328,
+    "gn:latitude":14.88941,
+    "gn:longitude":45.21775,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Saw\u0101r",
+    "gn:population":8,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "As Saw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053328
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"44b5680c80b99e4ae48f2e98883d3959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1243038381,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1243038381,
+    "wof:lastmodified":1537716011,
+    "wof:name":"As Sawar",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21775,
+    14.88941,
+    45.21775,
+    14.88941
+],
+  "geometry": {"coordinates":[45.21775,14.88941],"type":"Point"}
+}

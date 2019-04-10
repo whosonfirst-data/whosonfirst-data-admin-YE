@@ -1,0 +1,71 @@
+{
+  "id": 1243432609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31453,15.34893,43.31453,15.34893",
+    "geom:latitude":15.34893,
+    "geom:longitude":43.31453,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Al Mulayhi",
+    "gn:country_code":"YE",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365171,
+    "gn:latitude":15.34893,
+    "gn:longitude":43.31453,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Mulay\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mulay\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365171
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"acd95abe4ac1bedba034b38c1c3d1c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1243432609,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243432609,
+    "wof:lastmodified":1537715921,
+    "wof:name":"Al Mulayhi",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31453,
+    15.34893,
+    43.31453,
+    15.34893
+],
+  "geometry": {"coordinates":[43.31453,15.34893],"type":"Point"}
+}

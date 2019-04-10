@@ -1,0 +1,73 @@
+{
+  "id": 1343235359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5651,16.10347,44.5651,16.10347",
+    "geom:latitude":16.10347,
+    "geom:longitude":44.5651,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Hadanah",
+    "gn:country_code":"YE",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9975114,
+    "gn:latitude":16.10347,
+    "gn:longitude":44.5651,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Al \u1e28a\u1e11anah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0636\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28a\u1e11anah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975114
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ea63e18ca03ebb44584889ab8affda90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920639,
+            "locality_id":1343235359,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1343235359,
+    "wof:lastmodified":1537716120,
+    "wof:name":"Al Hadanah",
+    "wof:parent_id":1091920639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5651,
+    16.10347,
+    44.5651,
+    16.10347
+],
+  "geometry": {"coordinates":[44.5651,16.10347],"type":"Point"}
+}

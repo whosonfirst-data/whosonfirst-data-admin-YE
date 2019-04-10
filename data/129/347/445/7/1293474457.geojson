@@ -1,0 +1,72 @@
+{
+  "id": 1293474457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01051,15.51689,43.01051,15.51689",
+    "geom:latitude":15.51689,
+    "geom:longitude":43.01051,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Khashm",
+    "gn:country_code":"YE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73811,
+    "gn:latitude":15.51689,
+    "gn:longitude":43.01051,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Khashm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khashum",
+        "Khashm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73811
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe0cb094c976376eab1994901ca28aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920165,
+            "locality_id":1293474457,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293474457,
+    "wof:lastmodified":1537715141,
+    "wof:name":"Khashm",
+    "wof:parent_id":1091920165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01051,
+    15.51689,
+    43.01051,
+    15.51689
+],
+  "geometry": {"coordinates":[43.01051,15.51689],"type":"Point"}
+}

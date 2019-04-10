@@ -1,0 +1,71 @@
+{
+  "id": 1243237583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80238,16.71988,44.80238,16.71988",
+    "geom:latitude":16.71988,
+    "geom:longitude":44.80238,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Al Mishraq",
+    "gn:country_code":"YE",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406742,
+    "gn:latitude":16.71988,
+    "gn:longitude":44.80238,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mishr\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mishr\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7a9367aa688f7ae6258c8f7517b307e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1243237583,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1243237583,
+    "wof:lastmodified":1537715384,
+    "wof:name":"Al Mishraq",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80238,
+    16.71988,
+    44.80238,
+    16.71988
+],
+  "geometry": {"coordinates":[44.80238,16.71988],"type":"Point"}
+}

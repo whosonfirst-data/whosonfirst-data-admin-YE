@@ -1,0 +1,73 @@
+{
+  "id": 890444575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19813,15.51219,44.19813,15.51219",
+    "geom:latitude":15.51219,
+    "geom:longitude":44.19813,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":63,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0647\u0627\u062f\u0649 \u0642\u064a\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Hadi Qays"
+    ],
+    "qs:name":"Bayt H\u0101d\u012b Qays",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890482,
+        "gp:id":12523005,
+        "qs:id":743910,
+        "wd:id":"Q20300374"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052474,
+    "wof:geomhash":"ed2cb6abf8ed489afeaa6aee642bd0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":890444575,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":890444575,
+    "wof:lastmodified":1514503246,
+    "wof:name":"Bayt H\u0101d\u012b Qays",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19813,
+    15.51219,
+    44.19813,
+    15.51219
+],
+  "geometry": {"coordinates":[44.19813,15.51219],"type":"Point"}
+}

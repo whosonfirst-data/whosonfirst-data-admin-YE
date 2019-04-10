@@ -1,0 +1,74 @@
+{
+  "id": 1327306565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18812,16.91423,43.18812,16.91423",
+    "geom:latitude":16.91423,
+    "geom:longitude":43.18812,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Al Jahaw",
+    "gn:country_code":"YE",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202878,
+    "gn:latitude":16.91423,
+    "gn:longitude":43.18812,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jah\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0647\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Al Jah\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202878
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9482f364633e8f623f0e774728ad3bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1327306565,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327306565,
+    "wof:lastmodified":1537716023,
+    "wof:name":"Al Jahaw",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18812,
+    16.91423,
+    43.18812,
+    16.91423
+],
+  "geometry": {"coordinates":[43.18812,16.91423],"type":"Point"}
+}

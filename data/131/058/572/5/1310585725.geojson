@@ -1,0 +1,73 @@
+{
+  "id": 1310585725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56667,13.91667,43.56667,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":43.56667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1819.0",
+    "gn:asciiname":"Nakhlah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72311,
+    "gn:latitude":13.91667,
+    "gn:longitude":43.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nakhlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakla",
+        "Nakhlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72311
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"971229593c2bbbfef5b51d7347ecbc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":1310585725,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310585725,
+    "wof:lastmodified":1537715113,
+    "wof:name":"Nakhlah",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56667,
+    13.91667,
+    43.56667,
+    13.91667
+],
+  "geometry": {"coordinates":[43.56667,13.91667],"type":"Point"}
+}

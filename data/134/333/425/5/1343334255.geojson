@@ -1,0 +1,74 @@
+{
+  "id": 1343334255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2088,16.98165,43.2088,16.98165",
+    "geom:latitude":16.98165,
+    "geom:longitude":43.2088,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Ghabit",
+    "gn:country_code":"YE",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202817,
+    "gn:latitude":16.98165,
+    "gn:longitude":43.2088,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gh\u0101bi\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Gh\u0101bi\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0627\u0628\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202817
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87c7aeb1982eaefdb19db6363ac7c6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1343334255,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343334255,
+    "wof:lastmodified":1537716019,
+    "wof:name":"Ghabit",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2088,
+    16.98165,
+    43.2088,
+    16.98165
+],
+  "geometry": {"coordinates":[43.2088,16.98165],"type":"Point"}
+}

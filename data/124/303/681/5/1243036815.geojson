@@ -1,0 +1,74 @@
+{
+  "id": 1243036815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44783,16.00993,43.44783,16.00993",
+    "geom:latitude":16.00993,
+    "geom:longitude":43.44783,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Qasabah",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681999,
+    "gn:latitude":16.00993,
+    "gn:longitude":43.44783,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u015fabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u015fabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681999
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"710af52ed633a4d90f1e7d2f64dc3832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1243036815,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243036815,
+    "wof:lastmodified":1537715987,
+    "wof:name":"Al Qasabah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44783,
+    16.00992999999999,
+    43.44783,
+    16.00992999999999
+],
+  "geometry": {"coordinates":[43.44783,16.00992999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327301627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87201,13.69054,43.87201,13.69054",
+    "geom:latitude":13.69054,
+    "geom:longitude":43.87201,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Qaryat Al kudshi al Ra'inah",
+    "gn:country_code":"YE",
+    "gn:dem":1052,
+    "gn:elevation":"1090.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356251,
+    "gn:latitude":13.69054,
+    "gn:longitude":43.87201,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Qaryat Al kudshi al Ra'inah",
+    "gn:population":750,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Ru\u2018aynah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356251
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb3c4b2c9caf0450e3793f0ca1633cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1327301627,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327301627,
+    "wof:lastmodified":1537715669,
+    "wof:name":"Qaryat Al kudshi al Ra'inah",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:population":750,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87201,
+    13.69054,
+    43.87201,
+    13.69054
+],
+  "geometry": {"coordinates":[43.87201,13.69054],"type":"Point"}
+}

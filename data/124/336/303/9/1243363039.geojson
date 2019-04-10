@@ -1,0 +1,73 @@
+{
+  "id": 1243363039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65,15.9,48.65,15.9",
+    "geom:latitude":15.9,
+    "geom:longitude":48.65,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1908.0",
+    "gn:asciiname":"Dahqat al Jifil",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76617,
+    "gn:latitude":15.9,
+    "gn:longitude":48.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Da\u1e29qat al Jifil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u1e29qah al Jifil",
+        "Da\u1e29qat al Jifil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76617
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a42548da95ca823eff9c5dd2d0da44c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923197,
+            "locality_id":1243363039,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243363039,
+    "wof:lastmodified":1537715206,
+    "wof:name":"Dahqat al Jifil",
+    "wof:parent_id":1091923197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65,
+    15.9,
+    48.65,
+    15.9
+],
+  "geometry": {"coordinates":[48.65,15.9],"type":"Point"}
+}

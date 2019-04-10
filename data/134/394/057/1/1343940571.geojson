@@ -1,0 +1,74 @@
+{
+  "id": 1343940571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37476,17.29391,43.37476,17.29391",
+    "geom:latitude":17.29391,
+    "geom:longitude":43.37476,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Jahdan",
+    "gn:country_code":"YE",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345720,
+    "gn:latitude":17.29391,
+    "gn:longitude":43.37476,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ja\u1e29d\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062d\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ja\u1e29d\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345720
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0a0b4b452416c81141d5a1a88b449ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1343940571,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343940571,
+    "wof:lastmodified":1537715566,
+    "wof:name":"Jahdan",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37476,
+    17.29391,
+    43.37476,
+    17.29391
+],
+  "geometry": {"coordinates":[43.37476,17.29391],"type":"Point"}
+}

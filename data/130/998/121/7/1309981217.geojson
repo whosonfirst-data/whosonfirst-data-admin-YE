@@ -1,0 +1,74 @@
+{
+  "id": 1309981217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93349,16.18459,43.93349,16.18459",
+    "geom:latitude":16.18459,
+    "geom:longitude":43.93349,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt as Sayyid Lahid",
+    "gn:country_code":"YE",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635135,
+    "gn:latitude":16.18459,
+    "gn:longitude":43.93349,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt as Sayyid La\u1e29\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0633\u064a\u062f \u0644\u062d\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt as Sayyid La\u1e29\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f55b25695a7abe00df328ebad10bcc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1309981217,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309981217,
+    "wof:lastmodified":1537716094,
+    "wof:name":"Bayt as Sayyid Lahid",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93349,
+    16.18459,
+    43.93349,
+    16.18459
+],
+  "geometry": {"coordinates":[43.93349,16.18459],"type":"Point"}
+}

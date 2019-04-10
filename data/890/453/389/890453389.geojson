@@ -1,0 +1,73 @@
+{
+  "id": 890453389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80759,13.46365,43.80759,13.46365",
+    "geom:latitude":13.46365,
+    "geom:longitude":43.80759,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Juray'ah"
+    ],
+    "qs:name":"Al Juray\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075800,
+        "gp:id":1959049,
+        "qs:id":754383,
+        "wd:id":"Q20303897"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052852,
+    "wof:geomhash":"1b402b38c0b583d20963acd8836fec22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890453389,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890453389,
+    "wof:lastmodified":1514503162,
+    "wof:name":"Al Juray\u2018ah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80759,
+    13.46365,
+    43.80759,
+    13.46365
+],
+  "geometry": {"coordinates":[43.80759,13.46365],"type":"Point"}
+}

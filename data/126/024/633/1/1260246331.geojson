@@ -1,0 +1,74 @@
+{
+  "id": 1260246331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.61751,14.03477,45.61751,14.03477",
+    "geom:latitude":14.03477,
+    "geom:longitude":45.61751,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Ad Dahaki",
+    "gn:country_code":"YE",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30524,
+    "gn:latitude":14.03477,
+    "gn:longitude":45.61751,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u1e11 \u1e10a\u1e29\u0101k\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u062d\u0627\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10a\u1e29\u0101k\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30524
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c1289356f8453c7beda6b2043b16a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":1260246331,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260246331,
+    "wof:lastmodified":1537715045,
+    "wof:name":"Ad Dahaki",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.61751,
+    14.03477,
+    45.61751,
+    14.03477
+],
+  "geometry": {"coordinates":[45.61751,14.03477],"type":"Point"}
+}

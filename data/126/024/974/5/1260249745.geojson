@@ -1,0 +1,71 @@
+{
+  "id": 1260249745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21935,13.26256,44.21935,13.26256",
+    "geom:latitude":13.26256,
+    "geom:longitude":44.21935,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Yahanman",
+    "gn:country_code":"YE",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354901,
+    "gn:latitude":13.26256,
+    "gn:longitude":44.21935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yahanm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yahanm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354901
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25632ec2144ba4b1805995f891acf25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1260249745,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260249745,
+    "wof:lastmodified":1537715624,
+    "wof:name":"Yahanman",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21935,
+    13.26256,
+    44.21935,
+    13.26256
+],
+  "geometry": {"coordinates":[44.21935,13.26256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260143949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64708,15.54861,44.64708,15.54861",
+    "geom:latitude":15.54861,
+    "geom:longitude":44.64708,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Al Haql",
+    "gn:country_code":"YE",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342868,
+    "gn:latitude":15.54861,
+    "gn:longitude":44.64708,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28aql",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28aql"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342868
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af660bcc3620209ef480f877ced16ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1260143949,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1260143949,
+    "wof:lastmodified":1537715508,
+    "wof:name":"Al Haql",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64708,
+    15.54861,
+    44.64708,
+    15.54861
+],
+  "geometry": {"coordinates":[44.64708,15.54861],"type":"Point"}
+}

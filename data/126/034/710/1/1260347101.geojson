@@ -1,0 +1,71 @@
+{
+  "id": 1260347101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24777,15.85844,43.24777,15.85844",
+    "geom:latitude":15.85844,
+    "geom:longitude":43.24777,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"An Ni`mah",
+    "gn:country_code":"YE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365917,
+    "gn:latitude":15.85844,
+    "gn:longitude":43.24777,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An Ni\u2018mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Ni\u2018mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365917
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d1962177f58089105739c9ba888597d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1260347101,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260347101,
+    "wof:lastmodified":1537715942,
+    "wof:name":"An Ni`mah",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24777,
+    15.85844,
+    43.24777,
+    15.85844
+],
+  "geometry": {"coordinates":[43.24777,15.85844],"type":"Point"}
+}

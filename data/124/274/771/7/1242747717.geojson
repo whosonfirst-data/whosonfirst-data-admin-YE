@@ -1,0 +1,74 @@
+{
+  "id": 1242747717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27682,16.92616,43.27682,16.92616",
+    "geom:latitude":16.92616,
+    "geom:longitude":43.27682,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Al Musin",
+    "gn:country_code":"YE",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346112,
+    "gn:latitude":16.92616,
+    "gn:longitude":43.27682,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al M\u016bs\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u016bs\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0648\u0633\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346112
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e93af492b91a2992252a9f688c3e152c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1242747717,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242747717,
+    "wof:lastmodified":1537715578,
+    "wof:name":"Al Musin",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27682,
+    16.92616,
+    43.27682,
+    16.92616
+],
+  "geometry": {"coordinates":[43.27682,16.92616],"type":"Point"}
+}

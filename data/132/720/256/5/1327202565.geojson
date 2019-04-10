@@ -1,0 +1,74 @@
+{
+  "id": 1327202565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43998,14.11125,44.43998,14.11125",
+    "geom:latitude":14.11125,
+    "geom:longitude":44.43998,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Dar Sa`id",
+    "gn:country_code":"YE",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359378,
+    "gn:latitude":14.11125,
+    "gn:longitude":44.43998,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"D\u0101r Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0633\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359378
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"837b07764dd8c0530b40953d15c8d228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1327202565,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1327202565,
+    "wof:lastmodified":1537715757,
+    "wof:name":"Dar Sa`id",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43998,
+    14.11125,
+    44.43998,
+    14.11125
+],
+  "geometry": {"coordinates":[44.43998,14.11125],"type":"Point"}
+}

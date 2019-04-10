@@ -1,0 +1,74 @@
+{
+  "id": 1259755799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24874,16.91533,43.24874,16.91533",
+    "geom:latitude":16.91533,
+    "geom:longitude":43.24874,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Al 'Ammar",
+    "gn:country_code":"YE",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202846,
+    "gn:latitude":16.91533,
+    "gn:longitude":43.24874,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Amm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Amm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202846
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dea0fa5a1ceaa9b292f50d23b47a290c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1259755799,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259755799,
+    "wof:lastmodified":1537716021,
+    "wof:name":"Al 'Ammar",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24874000000001,
+    16.91532999999999,
+    43.24874000000001,
+    16.91532999999999
+],
+  "geometry": {"coordinates":[43.24874000000001,16.91532999999999],"type":"Point"}
+}

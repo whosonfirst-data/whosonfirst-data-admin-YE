@@ -1,0 +1,71 @@
+{
+  "id": 1243444177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41484,13.86958,43.41484,13.86958",
+    "geom:latitude":13.86958,
+    "geom:longitude":43.41484,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1820.0",
+    "gn:asciiname":"Ad Dahiyah",
+    "gn:country_code":"YE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407958,
+    "gn:latitude":13.86958,
+    "gn:longitude":43.41484,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10\u0101\u1e29iyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10\u0101\u1e29iyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0db0025daef32b62ef7822a5c02ea31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920013,
+            "locality_id":1243444177,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243444177,
+    "wof:lastmodified":1537715408,
+    "wof:name":"Ad Dahiyah",
+    "wof:parent_id":1091920013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41484000000001,
+    13.86958,
+    43.41484000000001,
+    13.86958
+],
+  "geometry": {"coordinates":[43.41484000000001,13.86958],"type":"Point"}
+}

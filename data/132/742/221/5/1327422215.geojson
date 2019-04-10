@@ -1,0 +1,71 @@
+{
+  "id": 1327422215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59712,15.44464,43.59712,15.44464",
+    "geom:latitude":15.44464,
+    "geom:longitude":43.59712,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Al Lawzah",
+    "gn:country_code":"YE",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367079,
+    "gn:latitude":15.44464,
+    "gn:longitude":43.59712,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Lawz\u0327ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Lawz\u0327ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367079
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30b5841893b57e0b0d0c20496cf84499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1327422215,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327422215,
+    "wof:lastmodified":1537715970,
+    "wof:name":"Al Lawzah",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59712,
+    15.44464,
+    43.59712,
+    15.44464
+],
+  "geometry": {"coordinates":[43.59712,15.44464],"type":"Point"}
+}

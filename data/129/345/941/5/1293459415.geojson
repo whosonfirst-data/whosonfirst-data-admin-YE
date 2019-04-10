@@ -1,0 +1,74 @@
+{
+  "id": 1293459415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62328,16.91579,43.62328,16.91579",
+    "geom:latitude":16.91579,
+    "geom:longitude":43.62328,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Buhayri",
+    "gn:country_code":"YE",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363636,
+    "gn:latitude":16.91579,
+    "gn:longitude":43.62328,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Bu\u1e29ayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Bu\u1e29ayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363636
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8e78dc0d4b451bdecdea1a11271cab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1293459415,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293459415,
+    "wof:lastmodified":1537715878,
+    "wof:name":"Al Buhayri",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62328,
+    16.91579,
+    43.62328,
+    16.91579
+],
+  "geometry": {"coordinates":[43.62328,16.91579],"type":"Point"}
+}

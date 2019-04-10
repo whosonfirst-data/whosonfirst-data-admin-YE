@@ -1,0 +1,74 @@
+{
+  "id": 1226327071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45545,14.85021,43.45545,14.85021",
+    "geom:latitude":14.85021,
+    "geom:longitude":43.45545,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Ashram",
+    "gn:country_code":"YE",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058513,
+    "gn:latitude":14.85021,
+    "gn:longitude":43.45545,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ashr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0634\u0631\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Ashr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058513
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1fa6a37084ed724ba4c934480e9cb74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1226327071,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226327071,
+    "wof:lastmodified":1537716342,
+    "wof:name":"Al Ashram",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45545,
+    14.85021,
+    43.45545,
+    14.85021
+],
+  "geometry": {"coordinates":[43.45545,14.85021],"type":"Point"}
+}

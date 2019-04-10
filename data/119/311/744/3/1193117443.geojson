@@ -1,0 +1,71 @@
+{
+  "id": 1193117443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18194,14.46333,44.18194,14.46333",
+    "geom:latitude":14.46333,
+    "geom:longitude":44.18194,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Najah",
+    "gn:country_code":"YE",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354907,
+    "gn:latitude":14.46333,
+    "gn:longitude":44.18194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naj\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naj\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354907
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6669134b724d72eac59efee320f270ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":1193117443,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1193117443,
+    "wof:lastmodified":1537716042,
+    "wof:name":"Najah",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18194,
+    14.46333,
+    44.18194,
+    14.46333
+],
+  "geometry": {"coordinates":[44.18194,14.46333],"type":"Point"}
+}

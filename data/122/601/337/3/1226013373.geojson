@@ -1,0 +1,71 @@
+{
+  "id": 1226013373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0072,14.36205,44.0072,14.36205",
+    "geom:latitude":14.36205,
+    "geom:longitude":44.0072,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Al Wablah",
+    "gn:country_code":"YE",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870153,
+    "gn:latitude":14.36205,
+    "gn:longitude":44.0072,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Wablah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0628\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870153
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93f58dca99c13c5e020be5fa460767d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1226013373,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226013373,
+    "wof:lastmodified":1537716210,
+    "wof:name":"Al Wablah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0072,
+    14.36205,
+    44.0072,
+    14.36205
+],
+  "geometry": {"coordinates":[44.0072,14.36205],"type":"Point"}
+}

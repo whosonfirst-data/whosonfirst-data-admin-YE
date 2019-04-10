@@ -1,0 +1,70 @@
+{
+  "id": 1193006117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45063,14.28221,44.45063,14.28221",
+    "geom:latitude":14.28221,
+    "geom:longitude":44.45063,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ash Shurf",
+    "gn:country_code":"YE",
+    "gn:dem":2522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950521,
+    "gn:latitude":14.28221,
+    "gn:longitude":44.45063,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ash Shurf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950521
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3b3f92240ffdf2d44288a2ca62038cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1193006117,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1193006117,
+    "wof:lastmodified":1537716278,
+    "wof:name":"Ash Shurf",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45063,
+    14.28221,
+    44.45063,
+    14.28221
+],
+  "geometry": {"coordinates":[44.45063,14.28221],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193121797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26402,15.26669,43.26402,15.26669",
+    "geom:latitude":15.26669,
+    "geom:longitude":43.26402,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Al Mu'ashshi",
+    "gn:country_code":"YE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036162,
+    "gn:latitude":15.26669,
+    "gn:longitude":43.26402,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mu\u2018ashsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u2018ashsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036162
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"99556d05eeba7cc0bdf3d0a63b947cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1193121797,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193121797,
+    "wof:lastmodified":1537716311,
+    "wof:name":"Al Mu'ashshi",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26402,
+    15.26669,
+    43.26402,
+    15.26669
+],
+  "geometry": {"coordinates":[43.26402,15.26669],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890422261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27144,16.94723,43.27144,16.94723",
+    "geom:latitude":16.94723,
+    "geom:longitude":43.27144,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u0627\u0641 \u0627\u0644\u0628\u064a\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Siyaf Al Bayt"
+    ],
+    "qs:name":"\u015eiy\u0101f al Bayt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927013,
+        "gp:id":1958992,
+        "qs:id":745350,
+        "wd:id":"Q20308797"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051434,
+    "wof:geomhash":"1905a235207c0101a82bb40362887cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890422261,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890422261,
+    "wof:lastmodified":1514503394,
+    "wof:name":"\u015eiy\u0101f al Bayt",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27144,
+    16.94723,
+    43.27144,
+    16.94723
+],
+  "geometry": {"coordinates":[43.27144,16.94723],"type":"Point"}
+}

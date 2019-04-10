@@ -1,0 +1,78 @@
+{
+  "id": 1326718859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90183,15.50067,43.90183,15.50067",
+    "geom:latitude":15.50067,
+    "geom:longitude":43.90183,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Kawkaban",
+    "gn:country_code":"YE",
+    "gn:dem":2927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73958,
+    "gn:latitude":15.50067,
+    "gn:longitude":43.90183,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kawkab\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Haukaban",
+        "Kaukab\u0101n",
+        "Kaukahan",
+        "Kawkab\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73958,
+        "wk:page":"Kawkaban"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"be97eb4ee9f7df4c6cc772fa7afb50d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1326718859,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1326718859,
+    "wof:lastmodified":1537715144,
+    "wof:name":"Kawkaban",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90183,
+    15.50067,
+    43.90183,
+    15.50067
+],
+  "geometry": {"coordinates":[43.90183,15.50067],"type":"Point"}
+}

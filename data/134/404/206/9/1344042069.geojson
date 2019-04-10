@@ -1,0 +1,71 @@
+{
+  "id": 1344042069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2026,15.40453,43.2026,15.40453",
+    "geom:latitude":15.40453,
+    "geom:longitude":43.2026,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Ar Rayah",
+    "gn:country_code":"YE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403001,
+    "gn:latitude":15.40453,
+    "gn:longitude":43.2026,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ar R\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar R\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"160830ccd6c5915e7fae6c49cf9fd9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1344042069,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344042069,
+    "wof:lastmodified":1537715368,
+    "wof:name":"Ar Rayah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2026,
+    15.40453,
+    43.2026,
+    15.40453
+],
+  "geometry": {"coordinates":[43.2026,15.40453],"type":"Point"}
+}

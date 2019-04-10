@@ -1,0 +1,68 @@
+{
+  "id": 1343525053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42986,15.35492,44.42986,15.35492",
+    "geom:latitude":15.35492,
+    "geom:longitude":44.42986,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Dajjah",
+    "gn:country_code":"YE",
+    "gn:dem":2575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404130,
+    "gn:latitude":15.35492,
+    "gn:longitude":44.42986,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dajjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404130
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96aa97ffa19c5986d9698e583edb55c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1343525053,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343525053,
+    "wof:lastmodified":1536653073,
+    "wof:name":"Dajjah",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42986,
+    15.35492,
+    44.42986,
+    15.35492
+],
+  "geometry": {"coordinates":[44.42986,15.35492],"type":"Point"}
+}

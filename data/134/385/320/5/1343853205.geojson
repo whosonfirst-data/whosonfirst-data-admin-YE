@@ -1,0 +1,71 @@
+{
+  "id": 1343853205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43505,15.46323,43.43505,15.46323",
+    "geom:latitude":15.46323,
+    "geom:longitude":43.43505,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Bayt Nisan",
+    "gn:country_code":"YE",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365237,
+    "gn:latitude":15.46323,
+    "gn:longitude":43.43505,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bayt N\u012bs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt N\u012bs\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365237
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ddd5f080c5b82d49035b6a65f879e2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1343853205,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343853205,
+    "wof:lastmodified":1537715923,
+    "wof:name":"Bayt Nisan",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43505,
+    15.46323,
+    43.43505,
+    15.46323
+],
+  "geometry": {"coordinates":[43.43505,15.46323],"type":"Point"}
+}

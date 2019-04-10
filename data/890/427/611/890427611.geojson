@@ -1,0 +1,73 @@
+{
+  "id": 890427611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73037,16.51641,43.73037,16.51641",
+    "geom:latitude":16.51641,
+    "geom:longitude":43.73037,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0640\u0640\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Rayyik"
+    ],
+    "qs:name":"Rayyik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682716,
+        "gp:id":1953833,
+        "qs:id":697392,
+        "wd:id":"Q20306639"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051705,
+    "wof:geomhash":"e30f789fd30b70c45a2fb1369404d685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":890427611,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890427611,
+    "wof:lastmodified":1514503343,
+    "wof:name":"Rayyik",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73037,
+    16.51641,
+    43.73037,
+    16.51641
+],
+  "geometry": {"coordinates":[43.73037,16.51641],"type":"Point"}
+}

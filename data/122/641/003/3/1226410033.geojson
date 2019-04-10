@@ -1,0 +1,71 @@
+{
+  "id": 1226410033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86342,13.51431,43.86342,13.51431",
+    "geom:latitude":13.51431,
+    "geom:longitude":43.86342,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Hajramayn",
+    "gn:country_code":"YE",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355605,
+    "gn:latitude":13.51431,
+    "gn:longitude":43.86342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ajramayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajramayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355605
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"38a5fd4f907a6eb56e46ebe9f263b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1226410033,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226410033,
+    "wof:lastmodified":1537715644,
+    "wof:name":"Hajramayn",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86342,
+    13.51431,
+    43.86342,
+    13.51431
+],
+  "geometry": {"coordinates":[43.86342,13.51431],"type":"Point"}
+}

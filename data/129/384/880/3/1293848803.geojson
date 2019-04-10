@@ -1,0 +1,71 @@
+{
+  "id": 1293848803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08139,16.3606,44.08139,16.3606",
+    "geom:latitude":16.3606,
+    "geom:longitude":44.08139,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Madaqqah",
+    "gn:country_code":"YE",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73389,
+    "gn:latitude":16.3606,
+    "gn:longitude":44.08139,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Madaqqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mad\u0101qah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3c41ebb0fa8805bbfb5807ac1d59e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1293848803,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293848803,
+    "wof:lastmodified":1537715134,
+    "wof:name":"Madaqqah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08139,
+    16.3606,
+    44.08139,
+    16.3606
+],
+  "geometry": {"coordinates":[44.08139,16.3606],"type":"Point"}
+}

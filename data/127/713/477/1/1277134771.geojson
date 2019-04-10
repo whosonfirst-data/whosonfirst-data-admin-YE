@@ -1,0 +1,71 @@
+{
+  "id": 1277134771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43496,13.93471,44.43496,13.93471",
+    "geom:latitude":13.93471,
+    "geom:longitude":44.43496,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Al Hijfar",
+    "gn:country_code":"YE",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357008,
+    "gn:latitude":13.93471,
+    "gn:longitude":44.43496,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ijf\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28ijf\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357008
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"101cb1988d48c8c2a5e97e0bced1ffc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1277134771,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1277134771,
+    "wof:lastmodified":1537715690,
+    "wof:name":"Al Hijfar",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43496,
+    13.93471,
+    44.43496,
+    13.93471
+],
+  "geometry": {"coordinates":[44.43496,13.93471],"type":"Point"}
+}

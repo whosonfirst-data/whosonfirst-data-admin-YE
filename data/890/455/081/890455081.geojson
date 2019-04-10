@@ -1,0 +1,69 @@
+{
+  "id": 890455081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51876,15.00002,45.51876,15.00002",
+    "geom:latitude":15.00002,
+    "geom:longitude":45.51876,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0639"
+    ],
+    "qs:name":"Al Bad\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053585,
+        "gp:id":1959055,
+        "qs:id":751982
+    },
+    "wof:country":"YE",
+    "wof:created":1469052932,
+    "wof:geomhash":"73cd997dd50d257be678ae0780283340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890455081,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890455081,
+    "wof:lastmodified":1505343660,
+    "wof:name":"Al Bad\u2018",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51876,
+    15.00002,
+    45.51876,
+    15.00002
+],
+  "geometry": {"coordinates":[45.51876,15.00002],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310655593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78427,13.75315,43.78427,13.75315",
+    "geom:latitude":13.75315,
+    "geom:longitude":43.78427,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Qaryat al Mihal",
+    "gn:country_code":"YE",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356052,
+    "gn:latitude":13.75315,
+    "gn:longitude":43.78427,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al M\u012bh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0647\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al M\u012bh\u0101l",
+        "Al Mayh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356052
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f78666eb0921eca0c170532d850d0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1310655593,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310655593,
+    "wof:lastmodified":1537715662,
+    "wof:name":"Qaryat al Mihal",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78427,
+    13.75315,
+    43.78427,
+    13.75315
+],
+  "geometry": {"coordinates":[43.78427,13.75315],"type":"Point"}
+}

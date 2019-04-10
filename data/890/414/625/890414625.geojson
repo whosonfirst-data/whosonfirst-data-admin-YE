@@ -1,0 +1,73 @@
+{
+  "id": 890414625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93828,13.1123,43.93828,13.1123",
+    "geom:latitude":13.1123,
+    "geom:longitude":43.93828,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "At Tayyib"
+    ],
+    "qs:name":"A\u0163 \u0162ayyib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071329,
+        "gp:id":1958962,
+        "qs:id":753739,
+        "wd:id":"Q20305191"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051055,
+    "wof:geomhash":"a0ad43573d32251ce5288afc4c421bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890414625,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414625,
+    "wof:lastmodified":1514503239,
+    "wof:name":"A\u0163 \u0162ayyib",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93828,
+    13.1123,
+    43.93828,
+    13.1123
+],
+  "geometry": {"coordinates":[43.93828,13.1123],"type":"Point"}
+}

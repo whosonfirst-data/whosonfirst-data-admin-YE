@@ -1,0 +1,68 @@
+{
+  "id": 1259541421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91758,13.92279,43.91758,13.92279",
+    "geom:latitude":13.92279,
+    "geom:longitude":43.91758,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Mirwah",
+    "gn:country_code":"YE",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356026,
+    "gn:latitude":13.92279,
+    "gn:longitude":43.91758,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mirwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356026
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7b5a95bc1d4e4c59b785b6bc51027f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1259541421,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259541421,
+    "wof:lastmodified":1536776190,
+    "wof:name":"Mirwah",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91758,
+    13.92279,
+    43.91758,
+    13.92279
+],
+  "geometry": {"coordinates":[43.91758,13.92279],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193268097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02376,15.17668,43.02376,15.17668",
+    "geom:latitude":15.17668,
+    "geom:longitude":43.02376,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Qasim Jabir",
+    "gn:country_code":"YE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036073,
+    "gn:latitude":15.17668,
+    "gn:longitude":43.02376,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u0101sim J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0633\u0645 \u062c\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101sim J\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036073
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc3a0b42bcd6b72e3e6300554cf60d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1193268097,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193268097,
+    "wof:lastmodified":1537716309,
+    "wof:name":"Qasim Jabir",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02376,
+    15.17668,
+    43.02376,
+    15.17668
+],
+  "geometry": {"coordinates":[43.02376,15.17668],"type":"Point"}
+}

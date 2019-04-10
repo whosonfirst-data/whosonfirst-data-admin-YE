@@ -1,0 +1,72 @@
+{
+  "id": 1193246709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73944,13.5625,44.73944,13.5625",
+    "geom:latitude":13.5625,
+    "geom:longitude":44.73944,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Ruhbah",
+    "gn:country_code":"YE",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71417,
+    "gn:latitude":13.5625,
+    "gn:longitude":44.73944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ruhbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruhba",
+        "Ruhbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71417
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d869e6ff6a0c27a0b18779722ae2f592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1193246709,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1193246709,
+    "wof:lastmodified":1537715095,
+    "wof:name":"Ruhbah",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73944,
+    13.5625,
+    44.73944,
+    13.5625
+],
+  "geometry": {"coordinates":[44.73944,13.5625],"type":"Point"}
+}

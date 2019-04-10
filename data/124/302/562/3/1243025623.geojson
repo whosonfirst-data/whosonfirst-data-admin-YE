@@ -1,0 +1,71 @@
+{
+  "id": 1243025623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90528,13.50889,44.90528,13.50889",
+    "geom:latitude":13.50889,
+    "geom:longitude":44.90528,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Shi`b al Mashtar",
+    "gn:country_code":"YE",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70681,
+    "gn:latitude":13.50889,
+    "gn:longitude":44.90528,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shi\u2018b al Mashtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2018b al Mashtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70681
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f41cf2fd4bad08d54aa595853cdd96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1243025623,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1243025623,
+    "wof:lastmodified":1537715082,
+    "wof:name":"Shi`b al Mashtar",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90528,
+    13.50889,
+    44.90528,
+    13.50889
+],
+  "geometry": {"coordinates":[44.90528,13.50889],"type":"Point"}
+}

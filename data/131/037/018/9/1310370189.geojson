@@ -1,0 +1,71 @@
+{
+  "id": 1310370189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56842,16.23026,43.56842,16.23026",
+    "geom:latitude":16.23026,
+    "geom:longitude":43.56842,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"As Sallah",
+    "gn:country_code":"YE",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363511,
+    "gn:latitude":16.23026,
+    "gn:longitude":43.56842,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363511
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ca2efc5272dc3006b8fdc1f85cb75f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1310370189,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310370189,
+    "wof:lastmodified":1537715875,
+    "wof:name":"As Sallah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56842,
+    16.23026,
+    43.56842,
+    16.23026
+],
+  "geometry": {"coordinates":[43.56842,16.23026],"type":"Point"}
+}

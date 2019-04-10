@@ -1,0 +1,76 @@
+{
+  "id": 890454131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24011,16.781,44.24011,16.781",
+    "geom:latitude":16.781,
+    "geom:longitude":44.24011,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":46,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646 \u062d\u0646\u064a\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Bin Hunaysh"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u1e29all Bin \u1e28unaysh"
+    ],
+    "qs:name":"Bin \u1e28unaysh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406702,
+        "gp:id":1959135,
+        "qs:id":547995,
+        "wd:id":"Q20301414"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052887,
+    "wof:geomhash":"d708975daea123f39ac88bfc5ea90711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890454131,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890454131,
+    "wof:lastmodified":1514503251,
+    "wof:name":"Bin \u1e28unaysh",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24011,
+    16.781,
+    44.24011,
+    16.781
+],
+  "geometry": {"coordinates":[44.24011,16.781],"type":"Point"}
+}

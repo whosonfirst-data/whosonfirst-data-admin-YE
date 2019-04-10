@@ -1,0 +1,73 @@
+{
+  "id": 1326914861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43292,14.12744,43.43292,14.12744",
+    "geom:latitude":14.12744,
+    "geom:longitude":43.43292,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Ar Radadiyah",
+    "gn:country_code":"YE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71702,
+    "gn:latitude":14.12744,
+    "gn:longitude":43.43292,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Rad\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rad\u0101d\u012byah",
+        "Ar Rad\u0101d\u012byah",
+        "Badad\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71702
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69e6618fcee203614d5e73207abbbf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919903,
+            "locality_id":1326914861,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1326914861,
+    "wof:lastmodified":1537715100,
+    "wof:name":"Ar Radadiyah",
+    "wof:parent_id":1091919903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43292,
+    14.12744,
+    43.43292,
+    14.12744
+],
+  "geometry": {"coordinates":[43.43292,14.12744],"type":"Point"}
+}

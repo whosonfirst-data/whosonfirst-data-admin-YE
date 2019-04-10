@@ -1,0 +1,72 @@
+{
+  "id": 1309910633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43652,14.49736,46.43652,14.49736",
+    "geom:latitude":14.49736,
+    "geom:longitude":46.43652,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Am Sharfa'",
+    "gn:country_code":"YE",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77959,
+    "gn:latitude":14.49736,
+    "gn:longitude":46.43652,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Sharf\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Sharf\u0101\u2019",
+        "Ash Sharf\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77959
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"359b84bf795aae45ac1ddd15f230218e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1309910633,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1309910633,
+    "wof:lastmodified":1537715243,
+    "wof:name":"Am Sharfa'",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43652,
+    14.49736,
+    46.43652,
+    14.49736
+],
+  "geometry": {"coordinates":[46.43652,14.49736],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310672371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53066,15.05433,43.53066,15.05433",
+    "geom:latitude":15.05433,
+    "geom:longitude":43.53066,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Ghurabah",
+    "gn:country_code":"YE",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402429,
+    "gn:latitude":15.05433,
+    "gn:longitude":43.53066,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghur\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghur\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402429
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9b5edc89a4935d97a300ca9ccd3643b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1310672371,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310672371,
+    "wof:lastmodified":1537715355,
+    "wof:name":"Ghurabah",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53066,
+    15.05433,
+    43.53066,
+    15.05433
+],
+  "geometry": {"coordinates":[43.53066,15.05433],"type":"Point"}
+}

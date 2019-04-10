@@ -1,0 +1,74 @@
+{
+  "id": 1242736211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40134,16.17083,43.40134,16.17083",
+    "geom:latitude":16.17083,
+    "geom:longitude":43.40134,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Qufayl",
+    "gn:country_code":"YE",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658632,
+    "gn:latitude":16.17083,
+    "gn:longitude":43.40134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qufayl",
+    "gn:population":6,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658632
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6d93e953a0407d144f11b36ec4c488b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1242736211,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242736211,
+    "wof:lastmodified":1537715981,
+    "wof:name":"Al Qufayl",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40134000000001,
+    16.17083,
+    43.40134000000001,
+    16.17083
+],
+  "geometry": {"coordinates":[43.40134000000001,16.17083],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193121803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46042,14.61898,43.46042,14.61898",
+    "geom:latitude":14.61898,
+    "geom:longitude":43.46042,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Mirah",
+    "gn:country_code":"YE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401841,
+    "gn:latitude":14.61898,
+    "gn:longitude":43.46042,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Mir\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u016bza\u2018",
+        "Al Mir\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401841
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0e6a14e7ac10d482fdba61c3bb99826a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1193121803,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193121803,
+    "wof:lastmodified":1537715348,
+    "wof:name":"Al Mirah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46042,
+    14.61898,
+    43.46042,
+    14.61898
+],
+  "geometry": {"coordinates":[43.46042,14.61898],"type":"Point"}
+}

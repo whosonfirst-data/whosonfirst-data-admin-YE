@@ -1,0 +1,68 @@
+{
+  "id": 1260364921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07455,16.41079,44.07455,16.41079",
+    "geom:latitude":16.41079,
+    "geom:longitude":44.07455,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Mudayyar",
+    "gn:country_code":"YE",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362583,
+    "gn:latitude":16.41079,
+    "gn:longitude":44.07455,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mudayyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362583
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9690269aa1341b645e2e57bb96222161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1260364921,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1260364921,
+    "wof:lastmodified":1537096546,
+    "wof:name":"Al Mudayyar",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07455,
+    16.41079,
+    44.07455,
+    16.41079
+],
+  "geometry": {"coordinates":[44.07455,16.41079],"type":"Point"}
+}

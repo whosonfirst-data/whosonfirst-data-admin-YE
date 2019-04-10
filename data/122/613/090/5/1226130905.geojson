@@ -1,0 +1,71 @@
+{
+  "id": 1226130905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50073,15.48643,43.50073,15.48643",
+    "geom:latitude":15.48643,
+    "geom:longitude":43.50073,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bayt Nijad",
+    "gn:country_code":"YE",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360657,
+    "gn:latitude":15.48643,
+    "gn:longitude":43.50073,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bayt Nij\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Nij\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360657
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b99e768abec9354a2fbce4392a6ebd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1226130905,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226130905,
+    "wof:lastmodified":1537715803,
+    "wof:name":"Bayt Nijad",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50073,
+    15.48643,
+    43.50073,
+    15.48643
+],
+  "geometry": {"coordinates":[43.50073,15.48643],"type":"Point"}
+}

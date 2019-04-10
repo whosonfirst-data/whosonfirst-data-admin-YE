@@ -1,0 +1,69 @@
+{
+  "id": 890447729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4028,16.2988,43.4028,16.2988",
+    "geom:latitude":16.2988,
+    "geom:longitude":43.4028,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0647\u0631\u064a"
+    ],
+    "qs:name":"Al Qahr\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756483,
+        "gp:id":1953570,
+        "qs:id":698979
+    },
+    "wof:country":"YE",
+    "wof:created":1469052603,
+    "wof:geomhash":"41138af0e26db74d9f711249b049b04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447729,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447729,
+    "wof:lastmodified":1505343619,
+    "wof:name":"Al Qahr\u012b",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4028,
+    16.2988,
+    43.4028,
+    16.2988
+],
+  "geometry": {"coordinates":[43.4028,16.2988],"type":"Point"}
+}

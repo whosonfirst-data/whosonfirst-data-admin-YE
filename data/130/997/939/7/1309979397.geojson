@@ -1,0 +1,71 @@
+{
+  "id": 1309979397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28391,15.04194,45.28391,15.04194",
+    "geom:latitude":15.04194,
+    "geom:longitude":45.28391,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Ar Rawnah",
+    "gn:country_code":"YE",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976442,
+    "gn:latitude":15.04194,
+    "gn:longitude":45.28391,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Rawnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976442
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ab081555bfa822700f0a7db327a60fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1309979397,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1309979397,
+    "wof:lastmodified":1537716156,
+    "wof:name":"Ar Rawnah",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28391,
+    15.04194,
+    45.28391,
+    15.04194
+],
+  "geometry": {"coordinates":[45.28391,15.04194],"type":"Point"}
+}

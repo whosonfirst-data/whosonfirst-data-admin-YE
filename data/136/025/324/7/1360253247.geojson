@@ -1,0 +1,71 @@
+{
+  "id": 1360253247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48299,13.52154,44.48299,13.52154",
+    "geom:latitude":13.52154,
+    "geom:longitude":44.48299,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Sarawar",
+    "gn:country_code":"YE",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357789,
+    "gn:latitude":13.52154,
+    "gn:longitude":44.48299,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sar\u0101w\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u0101w\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357789
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bafabf1dd1a980ae274655d2b59b64a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924843,
+            "locality_id":1360253247,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1360253247,
+    "wof:lastmodified":1537715708,
+    "wof:name":"Sarawar",
+    "wof:parent_id":1091924843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48299,
+    13.52154,
+    44.48299,
+    13.52154
+],
+  "geometry": {"coordinates":[44.48299,13.52154],"type":"Point"}
+}

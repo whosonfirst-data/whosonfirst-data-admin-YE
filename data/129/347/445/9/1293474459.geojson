@@ -1,0 +1,74 @@
+{
+  "id": 1293474459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14993,15.3369,43.14993,15.3369",
+    "geom:latitude":15.3369,
+    "geom:longitude":43.14993,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Abkar Muhammad",
+    "gn:country_code":"YE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036293,
+    "gn:latitude":15.3369,
+    "gn:longitude":43.14993,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abkar Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0643\u0631 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Abkar Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036293
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c17252e7490eb1b7f059781288419336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1293474459,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293474459,
+    "wof:lastmodified":1537716317,
+    "wof:name":"Abkar Muhammad",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14993,
+    15.3369,
+    43.14993,
+    15.3369
+],
+  "geometry": {"coordinates":[43.14993,15.3369],"type":"Point"}
+}

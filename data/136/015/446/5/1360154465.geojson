@@ -1,0 +1,74 @@
+{
+  "id": 1360154465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78425,16.89725,43.78425,16.89725",
+    "geom:latitude":16.89725,
+    "geom:longitude":43.78425,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Al Khaniq",
+    "gn:country_code":"YE",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362037,
+    "gn:latitude":16.89725,
+    "gn:longitude":43.78425,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kh\u0101niq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101niq"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0627\u0646\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362037
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7558372f51f24390e0b4c1a4c4227266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1360154465,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360154465,
+    "wof:lastmodified":1537715833,
+    "wof:name":"Al Khaniq",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78425,
+    16.89725,
+    43.78425,
+    16.89725
+],
+  "geometry": {"coordinates":[43.78425,16.89725],"type":"Point"}
+}

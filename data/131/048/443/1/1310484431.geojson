@@ -1,0 +1,71 @@
+{
+  "id": 1310484431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30616,17.11761,43.30616,17.11761",
+    "geom:latitude":17.11761,
+    "geom:longitude":43.30616,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Mulayh",
+    "gn:country_code":"YE",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346006,
+    "gn:latitude":17.11761,
+    "gn:longitude":43.30616,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mulay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346006
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"451c97d80c9f01462c582f10ccc53cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1310484431,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310484431,
+    "wof:lastmodified":1537715575,
+    "wof:name":"Mulayh",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30616,
+    17.11761,
+    43.30616,
+    17.11761
+],
+  "geometry": {"coordinates":[43.30616,17.11761],"type":"Point"}
+}

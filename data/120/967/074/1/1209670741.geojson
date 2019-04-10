@@ -1,0 +1,68 @@
+{
+  "id": 1209670741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8425,13.48417,44.8425,13.48417",
+    "geom:latitude":13.48417,
+    "geom:longitude":44.8425,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Ar Ruwayd",
+    "gn:country_code":"YE",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78065,
+    "gn:latitude":13.48417,
+    "gn:longitude":44.8425,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Ar Ruwayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rawet",
+        "Ar Ruwayd",
+        "Al Rawayd",
+        "Ar Rawayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78065
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee03991aef3d9ba8e88c72ba09665256",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209670741
+        }
+    ],
+    "wof:id":1209670741,
+    "wof:lastmodified":1537715245,
+    "wof:name":"Ar Ruwayd",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8425,
+    13.48417,
+    44.8425,
+    13.48417
+],
+  "geometry": {"coordinates":[44.8425,13.48417],"type":"Point"}
+}

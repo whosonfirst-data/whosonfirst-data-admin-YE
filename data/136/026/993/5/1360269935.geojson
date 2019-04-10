@@ -1,0 +1,74 @@
+{
+  "id": 1360269935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05873,14.81406,43.05873,14.81406",
+    "geom:latitude":14.81406,
+    "geom:longitude":43.05873,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1823.0",
+    "gn:asciiname":"Mazra'at as Sayyid Hasan Qanawi",
+    "gn:country_code":"YE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058448,
+    "gn:latitude":14.81406,
+    "gn:longitude":43.05873,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mazra\u2018at as Sayyid \u1e28asan Qan\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0633\u064a\u062f \u062d\u0633\u0646 \u0642\u0646\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at as Sayyid \u1e28asan Qan\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058448
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a9b35d565783dc24e293515fa9cfe0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919955,
+            "locality_id":1360269935,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360269935,
+    "wof:lastmodified":1537716340,
+    "wof:name":"Mazra'at as Sayyid Hasan Qanawi",
+    "wof:parent_id":1091919955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05873,
+    14.81406,
+    43.05873,
+    14.81406
+],
+  "geometry": {"coordinates":[43.05873,14.81406],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259339777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01831,13.28747,44.01831,13.28747",
+    "geom:latitude":13.28747,
+    "geom:longitude":44.01831,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Khadma'",
+    "gn:country_code":"YE",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354982,
+    "gn:latitude":13.28747,
+    "gn:longitude":44.01831,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khadm\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354982
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"513d0958a555bdd6f461fd34e990d996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1259339777,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259339777,
+    "wof:lastmodified":1537715626,
+    "wof:name":"Khadma'",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01831,
+    13.28747,
+    44.01831,
+    13.28747
+],
+  "geometry": {"coordinates":[44.01831,13.28747],"type":"Point"}
+}

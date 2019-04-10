@@ -1,0 +1,77 @@
+{
+  "id": 890446899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85399,16.87224,44.85399,16.87224",
+    "geom:latitude":16.87224,
+    "geom:longitude":44.85399,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0635\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maqsirah"
+    ],
+    "qs:name":"Al Maq\u015firah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856681,
+        "gp:id":1959135,
+        "qs:id":697729,
+        "qs_pg:id":742596,
+        "wd:id":"Q20308150"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052571,
+    "wof:geomhash":"086e5bfa98ccf01051f533303494adb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":890446899,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890446899,
+    "wof:lastmodified":1514503182,
+    "wof:name":"Al Maq\u015firah",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85399,
+    16.87224,
+    44.85399,
+    16.87224
+],
+  "geometry": {"coordinates":[44.85399,16.87224],"type":"Point"}
+}

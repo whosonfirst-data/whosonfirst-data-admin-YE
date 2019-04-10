@@ -1,0 +1,74 @@
+{
+  "id": 1310061581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,14.08333,44.3,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1105.0",
+    "gn:asciiname":"Al Jubayb",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79237,
+    "gn:latitude":14.08333,
+    "gn:longitude":44.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jubayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jebeib",
+        "Al Jubayb",
+        "Jeboib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79237
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b592d71de44e8102e62a2a88a6af9d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924511,
+            "locality_id":1310061581,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310061581,
+    "wof:lastmodified":1537715292,
+    "wof:name":"Al Jubayb",
+    "wof:parent_id":1091924511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    14.08333,
+    44.3,
+    14.08333
+],
+  "geometry": {"coordinates":[44.3,14.08333],"type":"Point"}
+}

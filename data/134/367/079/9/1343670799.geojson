@@ -1,0 +1,75 @@
+{
+  "id": 1343670799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71367,13.52019,46.71367,13.52019",
+    "geom:latitude":13.52019,
+    "geom:longitude":46.71367,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1209.0",
+    "gn:asciiname":"Ahwar",
+    "gn:country_code":"YE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":80105,
+    "gn:latitude":13.52019,
+    "gn:longitude":46.71367,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"A\u1e29war",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062d\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u1e29war"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80105,
+        "wk:page":"Ahwar"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2421ffd5476d3e91144dce762a18ebfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918429,
+            "locality_id":1343670799,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1343670799,
+    "wof:lastmodified":1537715328,
+    "wof:name":"Ahwar",
+    "wof:parent_id":1091918429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71367,
+    13.52019,
+    46.71367,
+    13.52019
+],
+  "geometry": {"coordinates":[46.71367,13.52019],"type":"Point"}
+}

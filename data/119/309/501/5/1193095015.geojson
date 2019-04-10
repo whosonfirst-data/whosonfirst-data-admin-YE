@@ -1,0 +1,71 @@
+{
+  "id": 1193095015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3648,13.94654,44.3648,13.94654",
+    "geom:latitude":13.94654,
+    "geom:longitude":44.3648,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Al Hidhrir",
+    "gn:country_code":"YE",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357007,
+    "gn:latitude":13.94654,
+    "gn:longitude":44.3648,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28idhr\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28idhr\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357007
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e0b807cbc5e4a3fbd62d90ca1cd7bda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1193095015,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1193095015,
+    "wof:lastmodified":1537715690,
+    "wof:name":"Al Hidhrir",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3648,
+    13.94654,
+    44.3648,
+    13.94654
+],
+  "geometry": {"coordinates":[44.3648,13.94654],"type":"Point"}
+}

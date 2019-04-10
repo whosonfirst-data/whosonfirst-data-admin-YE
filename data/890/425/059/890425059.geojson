@@ -1,0 +1,69 @@
+{
+  "id": 890425059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38452,16.04414,43.38452,16.04414",
+    "geom:latitude":16.04414,
+    "geom:longitude":43.38452,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0645\u0629"
+    ],
+    "qs:name":"Al Qayyimah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682684,
+        "gp:id":1958568,
+        "qs:id":697367
+    },
+    "wof:country":"YE",
+    "wof:created":1469051573,
+    "wof:geomhash":"9bcdf42abe56100cb725825b806f5d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890425059,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425059,
+    "wof:lastmodified":1505343485,
+    "wof:name":"Al Qayyimah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38452,
+    16.04414,
+    43.38452,
+    16.04414
+],
+  "geometry": {"coordinates":[43.38452,16.04414],"type":"Point"}
+}

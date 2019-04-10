@@ -1,0 +1,71 @@
+{
+  "id": 1209718923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.95,13.7,45.95,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":45.95,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Surrat Al Mas`ud",
+    "gn:country_code":"YE",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70285,
+    "gn:latitude":13.7,
+    "gn:longitude":45.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eurrat \u0100l Mas\u2018\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eurrat \u0100l Mas\u2018\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70285
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fea307614a87e5df49c42f34f2747a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918487,
+            "locality_id":1209718923,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1209718923,
+    "wof:lastmodified":1537715074,
+    "wof:name":"Surrat Al Mas`ud",
+    "wof:parent_id":1091918487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.95,
+    13.7,
+    45.95,
+    13.7
+],
+  "geometry": {"coordinates":[45.95,13.7],"type":"Point"}
+}

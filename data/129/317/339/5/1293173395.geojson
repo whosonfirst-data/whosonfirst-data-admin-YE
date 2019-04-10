@@ -1,0 +1,74 @@
+{
+  "id": 1293173395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0911,16.91229,44.0911,16.91229",
+    "geom:latitude":16.91229,
+    "geom:longitude":44.0911,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al Hadaj",
+    "gn:country_code":"YE",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8307027,
+    "gn:latitude":16.91229,
+    "gn:longitude":44.0911,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28adaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28adaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307027
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aadff05136d449109f74e19f07a230c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1293173395,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293173395,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Al Hadaj",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0911,
+    16.91229,
+    44.0911,
+    16.91229
+],
+  "geometry": {"coordinates":[44.0911,16.91229],"type":"Point"}
+}

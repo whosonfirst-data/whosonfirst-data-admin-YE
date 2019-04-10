@@ -1,0 +1,74 @@
+{
+  "id": 1243345551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19229,15.85399,44.19229,15.85399",
+    "geom:latitude":15.85399,
+    "geom:longitude":44.19229,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Ibn 'Amir",
+    "gn:country_code":"YE",
+    "gn:dem":2647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975601,
+    "gn:latitude":15.85399,
+    "gn:longitude":44.19229,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibn \u2018\u0100mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0628\u0646 \u0639\u0627\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ibn \u2018\u0100mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975601
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1dfa2dc3955645882869559159806f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1243345551,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243345551,
+    "wof:lastmodified":1537716127,
+    "wof:name":"Ibn 'Amir",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19229,
+    15.85399,
+    44.19229,
+    15.85399
+],
+  "geometry": {"coordinates":[44.19229,15.85399],"type":"Point"}
+}

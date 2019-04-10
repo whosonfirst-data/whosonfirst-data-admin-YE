@@ -1,0 +1,68 @@
+{
+  "id": 1360241845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20165,13.58131,44.20165,13.58131",
+    "geom:latitude":13.58131,
+    "geom:longitude":44.20165,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Mukhaydish",
+    "gn:country_code":"YE",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357470,
+    "gn:latitude":13.58131,
+    "gn:longitude":44.20165,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mukhaydish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357470
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b8c167f39e46e1bee0f716fdbc402f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1360241845,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360241845,
+    "wof:lastmodified":1536720006,
+    "wof:name":"Mukhaydish",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20165,
+    13.58131,
+    44.20165,
+    13.58131
+],
+  "geometry": {"coordinates":[44.20165,13.58131],"type":"Point"}
+}

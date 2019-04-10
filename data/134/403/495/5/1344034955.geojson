@@ -1,0 +1,71 @@
+{
+  "id": 1344034955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22185,14.72913,44.22185,14.72913",
+    "geom:latitude":14.72913,
+    "geom:longitude":44.22185,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Rahabah",
+    "gn:country_code":"YE",
+    "gn:dem":2265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402905,
+    "gn:latitude":14.72913,
+    "gn:longitude":44.22185,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ra\u1e29abah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u1e29abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402905
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5198e58ffc0654620fbe8dea9d0b8aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1344034955,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1344034955,
+    "wof:lastmodified":1537715364,
+    "wof:name":"Rahabah",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22185,
+    14.72913,
+    44.22185,
+    14.72913
+],
+  "geometry": {"coordinates":[44.22185,14.72913],"type":"Point"}
+}

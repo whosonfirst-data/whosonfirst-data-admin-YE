@@ -1,0 +1,74 @@
+{
+  "id": 1276216663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42612,14.88273,43.42612,14.88273",
+    "geom:latitude":14.88273,
+    "geom:longitude":43.42612,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Margha'",
+    "gn:country_code":"YE",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058253,
+    "gn:latitude":14.88273,
+    "gn:longitude":43.42612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Margh\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u063a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Margh\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058253
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e736cf4eb3d78fb7f457c4eda852d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1276216663,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276216663,
+    "wof:lastmodified":1537716331,
+    "wof:name":"Al Margha'",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42612,
+    14.88273,
+    43.42612,
+    14.88273
+],
+  "geometry": {"coordinates":[43.42612,14.88273],"type":"Point"}
+}

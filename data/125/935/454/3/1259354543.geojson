@@ -1,0 +1,74 @@
+{
+  "id": 1259354543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66561,15.39624,44.66561,15.39624",
+    "geom:latitude":15.39624,
+    "geom:longitude":44.66561,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Al 'Aqabah",
+    "gn:country_code":"YE",
+    "gn:dem":2726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331615,
+    "gn:latitude":15.39624,
+    "gn:longitude":44.66561,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Aqabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Aqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331615
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4f302dedcf0df40f27ca7bf8d8733161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":1259354543,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259354543,
+    "wof:lastmodified":1537716192,
+    "wof:name":"Al 'Aqabah",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66561,
+    15.39624,
+    44.66561,
+    15.39624
+],
+  "geometry": {"coordinates":[44.66561,15.39624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226520605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54955,15.45418,43.54955,15.45418",
+    "geom:latitude":15.45418,
+    "geom:longitude":43.54955,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2708.0",
+    "gn:asciiname":"Bayt al Harbi",
+    "gn:country_code":"YE",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360624,
+    "gn:latitude":15.45418,
+    "gn:longitude":43.54955,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u1e28arb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u1e28arb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360624
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48f9ca05219d7a7a066bb1d9ad37e93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "locality_id":1226520605,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226520605,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt al Harbi",
+    "wof:parent_id":1091921169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54955,
+    15.45418,
+    43.54955,
+    15.45418
+],
+  "geometry": {"coordinates":[43.54955,15.45418],"type":"Point"}
+}

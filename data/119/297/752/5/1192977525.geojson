@@ -1,0 +1,74 @@
+{
+  "id": 1192977525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21483,14.0359,45.21483,14.0359",
+    "geom:latitude":14.0359,
+    "geom:longitude":45.21483,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Al Minah",
+    "gn:country_code":"YE",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051870,
+    "gn:latitude":14.0359,
+    "gn:longitude":45.21483,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Min\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Min\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051870
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9436322cbc08d395f289b115489d7a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":1192977525,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1192977525,
+    "wof:lastmodified":1537716010,
+    "wof:name":"Al Minah",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21483,
+    14.0359,
+    45.21483,
+    14.0359
+],
+  "geometry": {"coordinates":[45.21483,14.0359],"type":"Point"}
+}

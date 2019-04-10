@@ -1,0 +1,71 @@
+{
+  "id": 1293657845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33691,14.28436,44.33691,14.28436",
+    "geom:latitude":14.28436,
+    "geom:longitude":44.33691,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Meriun",
+    "gn:country_code":"YE",
+    "gn:dem":2608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72715,
+    "gn:latitude":14.28436,
+    "gn:longitude":44.33691,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Meriun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maryun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72715
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49ac04526b0ebc17167a4827dc3dfae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1293657845,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293657845,
+    "wof:lastmodified":1537715119,
+    "wof:name":"Meriun",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33691,
+    14.28436,
+    44.33691,
+    14.28436
+],
+  "geometry": {"coordinates":[44.33691,14.28436],"type":"Point"}
+}

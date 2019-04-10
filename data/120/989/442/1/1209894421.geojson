@@ -1,0 +1,71 @@
+{
+  "id": 1209894421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35074,15.31626,43.35074,15.31626",
+    "geom:latitude":15.31626,
+    "geom:longitude":43.35074,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Jabal `Amashah",
+    "gn:country_code":"YE",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365029,
+    "gn:latitude":15.31626,
+    "gn:longitude":43.35074,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Jabal \u2018Am\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabal \u2018Am\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365029
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8e1d3fb48db93406554312acecedf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1209894421,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1209894421,
+    "wof:lastmodified":1537715916,
+    "wof:name":"Jabal `Amashah",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35074,
+    15.31626,
+    43.35074,
+    15.31626
+],
+  "geometry": {"coordinates":[43.35074,15.31626],"type":"Point"}
+}

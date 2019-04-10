@@ -1,0 +1,76 @@
+{
+  "id": 1225915739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10996,15.52481,44.10996,15.52481",
+    "geom:latitude":15.52481,
+    "geom:longitude":44.10996,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Al Ma`mar",
+    "gn:country_code":"YE",
+    "gn:dem":2259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78948,
+    "gn:latitude":15.52481,
+    "gn:longitude":44.10996,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Al Ma\u2018mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamer",
+        "Ma\u2018min",
+        "El-Ma\u2018mer",
+        "Ma\u2018mar",
+        "Al Ma\u2018mar",
+        "Al Mu\u2018ammar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78948
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"63494d797ba4a481018837e9eff4f7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1225915739,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1225915739,
+    "wof:lastmodified":1537715279,
+    "wof:name":"Al Ma`mar",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10996,
+    15.52481,
+    44.10996,
+    15.52481
+],
+  "geometry": {"coordinates":[44.10996,15.52481],"type":"Point"}
+}

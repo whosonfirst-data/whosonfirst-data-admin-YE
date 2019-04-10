@@ -1,0 +1,71 @@
+{
+  "id": 1326712423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92318,15.16707,43.92318,15.16707",
+    "geom:latitude":15.16707,
+    "geom:longitude":43.92318,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Kharifi",
+    "gn:country_code":"YE",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402714,
+    "gn:latitude":15.16707,
+    "gn:longitude":43.92318,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kh\u0101rif\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101rif\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402714
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5abf48bdf6154d836299088f03bdc1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1326712423,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1326712423,
+    "wof:lastmodified":1537715361,
+    "wof:name":"Al Kharifi",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92318,
+    15.16707,
+    43.92318,
+    15.16707
+],
+  "geometry": {"coordinates":[43.92318,15.16707],"type":"Point"}
+}

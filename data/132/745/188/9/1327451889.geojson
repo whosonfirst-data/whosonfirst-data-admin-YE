@@ -1,0 +1,71 @@
+{
+  "id": 1327451889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64772,15.4239,43.64772,15.4239",
+    "geom:latitude":15.4239,
+    "geom:longitude":43.64772,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Magharib",
+    "gn:country_code":"YE",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367070,
+    "gn:latitude":15.4239,
+    "gn:longitude":43.64772,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Magh\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magh\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367070
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff43d9e405c11e0ff763fd099d617726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1327451889,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327451889,
+    "wof:lastmodified":1537715969,
+    "wof:name":"Magharib",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64772,
+    15.4239,
+    43.64772,
+    15.4239
+],
+  "geometry": {"coordinates":[43.64772,15.4239],"type":"Point"}
+}

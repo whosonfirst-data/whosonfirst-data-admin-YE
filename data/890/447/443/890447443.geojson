@@ -1,0 +1,77 @@
+{
+  "id": 890447443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44539,16.34993,43.44539,16.34993",
+    "geom:latitude":16.34993,
+    "geom:longitude":43.44539,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0631\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khawrimah"
+    ],
+    "qs:name":"Al Khawrimah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856677,
+        "gp:id":1959128,
+        "qs:id":698704,
+        "qs_pg:id":742592,
+        "wd:id":"Q20305195"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052592,
+    "wof:geomhash":"7dd3a0994afbbabef47931ddb411cf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890447443,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447443,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khawrimah",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44539,
+    16.34993,
+    43.44539,
+    16.34993
+],
+  "geometry": {"coordinates":[43.44539,16.34993],"type":"Point"}
+}

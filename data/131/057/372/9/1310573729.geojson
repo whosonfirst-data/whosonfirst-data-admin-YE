@@ -1,0 +1,74 @@
+{
+  "id": 1310573729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40358,16.85111,43.40358,16.85111",
+    "geom:latitude":16.85111,
+    "geom:longitude":43.40358,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Ma`taq ar Rayd",
+    "gn:country_code":"YE",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346439,
+    "gn:latitude":16.85111,
+    "gn:longitude":43.40358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u2018taq ar Rayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u062a\u0642 \u0627\u0644\u0631\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018taq ar Rayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346439
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0344e48878bb0d1a458f4dd7a84f8c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1310573729,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310573729,
+    "wof:lastmodified":1537715593,
+    "wof:name":"Ma`taq ar Rayd",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40358,
+    16.85111,
+    43.40358,
+    16.85111
+],
+  "geometry": {"coordinates":[43.40358,16.85111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260035849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42046,14.00308,44.42046,14.00308",
+    "geom:latitude":14.00308,
+    "geom:longitude":44.42046,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1105.0",
+    "gn:asciiname":"Sarm Rawhan",
+    "gn:country_code":"YE",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359693,
+    "gn:latitude":14.00308,
+    "gn:longitude":44.42046,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015earm Raw\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015earm Raw\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359693
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0424dc8f7d22931505d32c851d53689d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924511,
+            "locality_id":1260035849,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260035849,
+    "wof:lastmodified":1537715773,
+    "wof:name":"Sarm Rawhan",
+    "wof:parent_id":1091924511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42046,
+    14.00308,
+    44.42046,
+    14.00308
+],
+  "geometry": {"coordinates":[44.42046,14.00308],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890413899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.31404,15.03513,50.31404,15.03513",
+    "geom:latitude":15.03513,
+    "geom:longitude":50.31404,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0632\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Zamzam"
+    ],
+    "qs:name":"Zamzam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794978,
+        "gp:id":1959113,
+        "qs:id":700529,
+        "qs_pg:id":700754,
+        "wd:id":"Q20309605"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051019,
+    "wof:geomhash":"a345ed61861ad580f68fec4fff22aace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "locality_id":890413899,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":890413899,
+    "wof:lastmodified":1514503384,
+    "wof:name":"Zamzam",
+    "wof:parent_id":1091922781,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.31404,
+    15.03513,
+    50.31404,
+    15.03513
+],
+  "geometry": {"coordinates":[50.31404,15.03513],"type":"Point"}
+}

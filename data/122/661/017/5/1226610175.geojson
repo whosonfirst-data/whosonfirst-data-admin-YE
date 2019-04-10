@@ -1,0 +1,71 @@
+{
+  "id": 1226610175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95247,16.01934,43.95247,16.01934",
+    "geom:latitude":16.01934,
+    "geom:longitude":43.95247,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Bayt `Abd ar Rahman",
+    "gn:country_code":"YE",
+    "gn:dem":2385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361905,
+    "gn:latitude":16.01934,
+    "gn:longitude":43.95247,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u2018Abd ar Ra\u1e29m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018Abd ar Ra\u1e29m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361905
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9e76e0918745e4dd98b1a509f8dca2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1226610175,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226610175,
+    "wof:lastmodified":1537715829,
+    "wof:name":"Bayt `Abd ar Rahman",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95247,
+    16.01934,
+    43.95247,
+    16.01934
+],
+  "geometry": {"coordinates":[43.95247,16.01934],"type":"Point"}
+}

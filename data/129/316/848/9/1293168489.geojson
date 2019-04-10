@@ -1,0 +1,75 @@
+{
+  "id": 1293168489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75175,13.15963,43.75175,13.15963",
+    "geom:latitude":13.15963,
+    "geom:longitude":43.75175,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Jasham",
+    "gn:country_code":"YE",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354328,
+    "gn:latitude":13.15963,
+    "gn:longitude":43.75175,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jasham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0634\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Jushaym",
+        "Al Jasham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354328
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d6935e1ab7362450f38318280f7650b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1293168489,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293168489,
+    "wof:lastmodified":1537715607,
+    "wof:name":"Al Jasham",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75175,
+    13.15963,
+    43.75175,
+    13.15963
+],
+  "geometry": {"coordinates":[43.75175,13.15963],"type":"Point"}
+}

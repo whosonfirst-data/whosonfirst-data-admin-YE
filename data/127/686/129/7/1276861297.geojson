@@ -1,0 +1,71 @@
+{
+  "id": 1276861297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10299,15.66059,43.10299,15.66059",
+    "geom:latitude":15.66059,
+    "geom:longitude":43.10299,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Mirdaf al `Abid",
+    "gn:country_code":"YE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366389,
+    "gn:latitude":15.66059,
+    "gn:longitude":43.10299,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mird\u0101f al \u2018Ab\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mird\u0101f al \u2018Ab\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"91323fe71cc01e1cfac28964c3519f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1276861297,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276861297,
+    "wof:lastmodified":1537715953,
+    "wof:name":"Mirdaf al `Abid",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10299000000001,
+    15.66059,
+    43.10299000000001,
+    15.66059
+],
+  "geometry": {"coordinates":[43.10299000000001,15.66059],"type":"Point"}
+}

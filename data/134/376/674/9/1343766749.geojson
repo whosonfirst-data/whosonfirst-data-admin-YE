@@ -1,0 +1,74 @@
+{
+  "id": 1343766749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47709,14.10976,46.47709,14.10976",
+    "geom:latitude":14.10976,
+    "geom:longitude":46.47709,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Sabr Ghasil",
+    "gn:country_code":"YE",
+    "gn:dem":2261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308214,
+    "gn:latitude":14.10976,
+    "gn:longitude":46.47709,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eabr Ghas\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0631 \u063a\u0633\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u015eabr Ghas\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308214
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7aae6096c437b01088ae61f97a1fda78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926111,
+            "locality_id":1343766749,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343766749,
+    "wof:lastmodified":1537716038,
+    "wof:name":"Sabr Ghasil",
+    "wof:parent_id":1091926111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47709,
+    14.10976,
+    46.47709,
+    14.10976
+],
+  "geometry": {"coordinates":[46.47709,14.10976],"type":"Point"}
+}

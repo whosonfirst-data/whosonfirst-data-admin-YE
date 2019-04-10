@@ -1,0 +1,75 @@
+{
+  "id": 1343620185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47821,16.27295,44.47821,16.27295",
+    "geom:latitude":16.27295,
+    "geom:longitude":44.47821,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Matamah",
+    "gn:country_code":"YE",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34754,
+    "gn:latitude":16.27295,
+    "gn:longitude":44.47821,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Al Ma\u0163amah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u0163amah",
+        "Al Ma\u0163ammah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34754
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af56353336cdd8d893398afa4bbbd8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1343620185,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1343620185,
+    "wof:lastmodified":1537715054,
+    "wof:name":"Al Matamah",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47821,
+    16.27295,
+    44.47821,
+    16.27295
+],
+  "geometry": {"coordinates":[44.47821,16.27295],"type":"Point"}
+}

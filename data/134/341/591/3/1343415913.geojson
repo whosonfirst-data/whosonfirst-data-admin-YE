@@ -1,0 +1,71 @@
+{
+  "id": 1343415913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55939,13.65958,43.55939,13.65958",
+    "geom:latitude":13.65958,
+    "geom:longitude":43.55939,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Yalul",
+    "gn:country_code":"YE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407745,
+    "gn:latitude":13.65958,
+    "gn:longitude":43.55939,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u0101l\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Y\u0101l\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407745
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"776b1bb17102a251b8440772496e50bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1343415913,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343415913,
+    "wof:lastmodified":1537715402,
+    "wof:name":"Yalul",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55939,
+    13.65958,
+    43.55939,
+    13.65958
+],
+  "geometry": {"coordinates":[43.55939,13.65958],"type":"Point"}
+}

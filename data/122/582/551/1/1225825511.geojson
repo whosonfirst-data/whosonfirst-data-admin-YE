@@ -1,0 +1,72 @@
+{
+  "id": 1225825511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74303,14.3487,43.74303,14.3487",
+    "geom:latitude":14.3487,
+    "geom:longitude":43.74303,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Qaryat al Mawsatah",
+    "gn:country_code":"YE",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358255,
+    "gn:latitude":14.3487,
+    "gn:longitude":43.74303,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Qaryat al Mawsa\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Mawsa\u0163ah",
+        "Qaryat al Muwassa\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358255
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dd098b62a4e8ae8d8891554fdb112584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1225825511,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1225825511,
+    "wof:lastmodified":1537715718,
+    "wof:name":"Qaryat al Mawsatah",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74303,
+    14.3487,
+    43.74303,
+    14.3487
+],
+  "geometry": {"coordinates":[43.74303,14.3487],"type":"Point"}
+}

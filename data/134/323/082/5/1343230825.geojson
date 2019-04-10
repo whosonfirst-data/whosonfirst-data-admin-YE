@@ -1,0 +1,71 @@
+{
+  "id": 1343230825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98096,16.42592,42.98096,16.42592",
+    "geom:latitude":16.42592,
+    "geom:longitude":42.98096,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Al Maghafilah",
+    "gn:country_code":"YE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346799,
+    "gn:latitude":16.42592,
+    "gn:longitude":42.98096,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Magh\u0101filah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Magh\u0101filah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346799
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b3bd07c9ca2f964cd3d44f944846d600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1343230825,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343230825,
+    "wof:lastmodified":1537715602,
+    "wof:name":"Al Maghafilah",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98096,
+    16.42592,
+    42.98096,
+    16.42592
+],
+  "geometry": {"coordinates":[42.98096,16.42592],"type":"Point"}
+}

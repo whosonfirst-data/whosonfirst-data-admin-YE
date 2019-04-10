@@ -1,0 +1,71 @@
+{
+  "id": 1209871077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25602,13.65336,44.25602,13.65336",
+    "geom:latitude":13.65336,
+    "geom:longitude":44.25602,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Hisn ash Shurman",
+    "gn:country_code":"YE",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357579,
+    "gn:latitude":13.65336,
+    "gn:longitude":44.25602,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28i\u015fn ash Shurm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn ash Shurm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357579
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a47bd77756e0e1f3cb0d1ae1c95192b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1209871077,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1209871077,
+    "wof:lastmodified":1537715703,
+    "wof:name":"Hisn ash Shurman",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25602,
+    13.65336,
+    44.25602,
+    13.65336
+],
+  "geometry": {"coordinates":[44.25602,13.65336],"type":"Point"}
+}

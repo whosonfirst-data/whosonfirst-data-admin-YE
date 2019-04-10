@@ -1,0 +1,74 @@
+{
+  "id": 1226215085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19729,17.23073,44.19729,17.23073",
+    "geom:latitude":17.23073,
+    "geom:longitude":44.19729,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al Harma'",
+    "gn:country_code":"YE",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307596,
+    "gn:latitude":17.23073,
+    "gn:longitude":44.19729,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28arm\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0645\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28arm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307596
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb175678155959b47e9940f2642f6acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1226215085,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226215085,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Al Harma'",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19729,
+    17.23073,
+    44.19729,
+    17.23073
+],
+  "geometry": {"coordinates":[44.19729,17.23073],"type":"Point"}
+}

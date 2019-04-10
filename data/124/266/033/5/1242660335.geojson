@@ -1,0 +1,74 @@
+{
+  "id": 1242660335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38091,16.93785,43.38091,16.93785",
+    "geom:latitude":16.93785,
+    "geom:longitude":43.38091,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Mahrabah",
+    "gn:country_code":"YE",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346350,
+    "gn:latitude":16.93785,
+    "gn:longitude":43.38091,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Ma\u1e29rabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29rabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346350
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3dadd7ab91697043da3c787e71639fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1242660335,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242660335,
+    "wof:lastmodified":1537715588,
+    "wof:name":"Mahrabah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38091,
+    16.93785,
+    43.38091,
+    16.93785
+],
+  "geometry": {"coordinates":[43.38091,16.93785],"type":"Point"}
+}

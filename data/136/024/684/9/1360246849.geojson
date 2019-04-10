@@ -1,0 +1,74 @@
+{
+  "id": 1360246849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88333,16.05,43.88333,16.05",
+    "geom:latitude":16.05,
+    "geom:longitude":43.88333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Kharab al Wahbah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73842,
+    "gn:latitude":16.05,
+    "gn:longitude":43.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khar\u0101b al Wahbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wahbe",
+        "H\u0331ar\u00e2b el-Wahbe",
+        "Khar\u0101b al Wahbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73842
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"34e198a3f7a9a6c016e03442b5346a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1360246849,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360246849,
+    "wof:lastmodified":1537715142,
+    "wof:name":"Kharab al Wahbah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88333,
+    16.05,
+    43.88333,
+    16.05
+],
+  "geometry": {"coordinates":[43.88333,16.05],"type":"Point"}
+}

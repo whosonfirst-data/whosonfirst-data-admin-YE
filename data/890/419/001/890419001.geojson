@@ -1,0 +1,73 @@
+{
+  "id": 890419001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38692,16.0502,43.38692,16.0502",
+    "geom:latitude":16.0502,
+    "geom:longitude":43.38692,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":20,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hazibah"
+    ],
+    "qs:name":"Al \u1e28azibah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682497,
+        "gp:id":1958568,
+        "qs:id":697243,
+        "wd:id":"Q20301153"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051269,
+    "wof:geomhash":"acad90a9c2348b31ff810fafa6d8e266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890419001,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890419001,
+    "wof:lastmodified":1514503205,
+    "wof:name":"Al \u1e28azibah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38692,
+    16.0502,
+    43.38692,
+    16.0502
+],
+  "geometry": {"coordinates":[43.38692,16.0502],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259739555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52412,15.59039,43.52412,15.59039",
+    "geom:latitude":15.59039,
+    "geom:longitude":43.52412,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Jahabir",
+    "gn:country_code":"YE",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980269,
+    "gn:latitude":15.59039,
+    "gn:longitude":43.52412,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ja\u1e29\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062d\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ja\u1e29\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980269
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95a43e26786020ee95848c56f3fcac1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1259739555,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259739555,
+    "wof:lastmodified":1537716164,
+    "wof:name":"Jahabir",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52412,
+    15.59039,
+    43.52412,
+    15.59039
+],
+  "geometry": {"coordinates":[43.52412,15.59039],"type":"Point"}
+}

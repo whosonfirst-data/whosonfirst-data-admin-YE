@@ -1,0 +1,71 @@
+{
+  "id": 1276615789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9457,16.11234,43.9457,16.11234",
+    "geom:latitude":16.11234,
+    "geom:longitude":43.9457,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Al Masbah",
+    "gn:country_code":"YE",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361868,
+    "gn:latitude":16.11234,
+    "gn:longitude":43.9457,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Masba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Masba\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361868
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"308a5f71e56ff2e3639b7ad3dc97fa39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1276615789,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276615789,
+    "wof:lastmodified":1537715828,
+    "wof:name":"Al Masbah",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9457,
+    16.11234,
+    43.9457,
+    16.11234
+],
+  "geometry": {"coordinates":[43.9457,16.11234],"type":"Point"}
+}

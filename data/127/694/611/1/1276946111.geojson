@@ -1,0 +1,75 @@
+{
+  "id": 1276946111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00826,14.2799,44.00826,14.2799",
+    "geom:latitude":14.2799,
+    "geom:longitude":44.00826,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"At Tanamah",
+    "gn:country_code":"YE",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408182,
+    "gn:latitude":14.2799,
+    "gn:longitude":44.00826,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"At Tan\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0646\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "At Tin\u0101mah",
+        "At Tan\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408182
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8fa67597f53ecf2366a9da81b8a4c9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1276946111,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276946111,
+    "wof:lastmodified":1537715412,
+    "wof:name":"At Tanamah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00826,
+    14.2799,
+    44.00826,
+    14.2799
+],
+  "geometry": {"coordinates":[44.00826,14.2799],"type":"Point"}
+}

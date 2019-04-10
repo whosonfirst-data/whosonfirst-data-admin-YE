@@ -1,0 +1,80 @@
+{
+  "id": 1343512111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.8,12.38333,53.8,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":53.8,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Kodah",
+    "gn:country_code":"YE",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73664,
+    "gn:latitude":12.38333,
+    "gn:longitude":53.8,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Koda\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bda\u1e29",
+        "Koda\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73664
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a2001bfd68d03ff051cb86e138bcdf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1343512111,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1343512111,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343512111,
+    "wof:lastmodified":1537715139,
+    "wof:name":"Kodah",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.8,
+    12.38333,
+    53.8,
+    12.38333
+],
+  "geometry": {"coordinates":[53.8,12.38333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343233677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93901,15.11851,43.93901,15.11851",
+    "geom:latitude":15.11851,
+    "geom:longitude":43.93901,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Masna`at Ibn al Ghanim",
+    "gn:country_code":"YE",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367184,
+    "gn:latitude":15.11851,
+    "gn:longitude":43.93901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u015fna\u2018at Ibn al Gh\u0101nim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u015fna\u2018at Ibn al Gh\u0101nim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367184
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7f40788957a8ee9b1e2b9bb5eae34c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1343233677,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343233677,
+    "wof:lastmodified":1537715971,
+    "wof:name":"Masna`at Ibn al Ghanim",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93901,
+    15.11851,
+    43.93901,
+    15.11851
+],
+  "geometry": {"coordinates":[43.93901,15.11851],"type":"Point"}
+}

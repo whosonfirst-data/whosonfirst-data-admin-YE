@@ -1,0 +1,74 @@
+{
+  "id": 1259658913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07316,15.97648,44.07316,15.97648",
+    "geom:latitude":15.97648,
+    "geom:longitude":44.07316,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Bayt Sulayman",
+    "gn:country_code":"YE",
+    "gn:dem":2343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975329,
+    "gn:latitude":15.97648,
+    "gn:longitude":44.07316,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975329
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"02a8907bc1b53035e4e5f3016efb660b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921833,
+            "locality_id":1259658913,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259658913,
+    "wof:lastmodified":1537716122,
+    "wof:name":"Bayt Sulayman",
+    "wof:parent_id":1091921833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07316,
+    15.97648,
+    44.07316,
+    15.97648
+],
+  "geometry": {"coordinates":[44.07316,15.97648],"type":"Point"}
+}

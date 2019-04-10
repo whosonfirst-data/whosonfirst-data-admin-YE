@@ -1,0 +1,71 @@
+{
+  "id": 1243241817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46962,15.41067,43.46962,15.41067",
+    "geom:latitude":15.41067,
+    "geom:longitude":43.46962,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Mahall al Hisn",
+    "gn:country_code":"YE",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365266,
+    "gn:latitude":15.41067,
+    "gn:longitude":43.46962,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al \u1e28i\u015fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28i\u015fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365266
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"16053de09e7a23ec4cf4765ab71b8acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1243241817,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243241817,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Mahall al Hisn",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46962,
+    15.41067,
+    43.46962,
+    15.41067
+],
+  "geometry": {"coordinates":[43.46962,15.41067],"type":"Point"}
+}

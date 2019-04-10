@@ -1,0 +1,74 @@
+{
+  "id": 1226514889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43795,16.78863,43.43795,16.78863",
+    "geom:latitude":16.78863,
+    "geom:longitude":43.43795,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"`Uzamah",
+    "gn:country_code":"YE",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346272,
+    "gn:latitude":16.78863,
+    "gn:longitude":43.43795,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"\u2018Uz\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Uz\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346272
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6c40ef3f88a86751e502202e796304f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1226514889,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226514889,
+    "wof:lastmodified":1537715585,
+    "wof:name":"`Uzamah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43795,
+    16.78863,
+    43.43795,
+    16.78863
+],
+  "geometry": {"coordinates":[43.43795,16.78863],"type":"Point"}
+}

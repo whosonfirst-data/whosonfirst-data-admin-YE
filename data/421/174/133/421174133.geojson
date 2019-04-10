@@ -1,0 +1,106 @@
+{
+  "id": 421174133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.48333,12.68333,53.48333,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":53.48333,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0646\u0633\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Qalansiyah"
+    ],
+    "name:eng_x_preferred":[
+        "Qalansiyah"
+    ],
+    "name:fre_x_preferred":[
+        "Qalansiyah"
+    ],
+    "name:nno_x_preferred":[
+        "Qalansiyah"
+    ],
+    "name:unk_x_variant":[
+        "Kallansiya"
+    ],
+    "qs:gn_country":"YE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":71799,
+    "qs:gn_pop":3500,
+    "qs:name":"Qalansiyah",
+    "qs:name_adm0":"Yemen",
+    "qs:name_adm1":"Hadramawt",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":317243,
+    "qs:woe_adm0":23425002,
+    "qs:woe_id":1957953,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926281,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71799,
+        "gp:id":1957953,
+        "qs:id":317243,
+        "wd:id":"Q12233488"
+    },
+    "wof:country":"YE",
+    "wof:created":1459009020,
+    "wof:geomhash":"a3820f8cde17af0af4f4a6e051655a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926281,
+            "locality_id":421174133,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926281,
+            "locality_id":421174133,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":421174133,
+    "wof:lastmodified":1514503333,
+    "wof:name":"Qalansiyah",
+    "wof:parent_id":1091926281,
+    "wof:placetype":"locality",
+    "wof:population":3500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.48333,
+    12.68333,
+    53.48333,
+    12.68333
+],
+  "geometry": {"coordinates":[53.48333,12.68333],"type":"Point"}
+}

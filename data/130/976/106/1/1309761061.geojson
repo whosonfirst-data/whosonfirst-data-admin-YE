@@ -1,0 +1,71 @@
+{
+  "id": 1309761061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07702,13.19107,44.07702,13.19107",
+    "geom:latitude":13.19107,
+    "geom:longitude":44.07702,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Ar Risah",
+    "gn:country_code":"YE",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355365,
+    "gn:latitude":13.19107,
+    "gn:longitude":44.07702,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Ri\u015f\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Ri\u015f\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355365
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1779015800c299e8b0bf4c176b643faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1309761061,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309761061,
+    "wof:lastmodified":1537715636,
+    "wof:name":"Ar Risah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07702000000001,
+    13.19107,
+    44.07702000000001,
+    13.19107
+],
+  "geometry": {"coordinates":[44.07702000000001,13.19107],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309719713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03706,12.79794,45.03706,12.79794",
+    "geom:latitude":12.79794,
+    "geom:longitude":45.03706,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2408.0",
+    "gn:asciiname":"Ra's al Jarth",
+    "gn:country_code":"YE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71597,
+    "gn:latitude":12.79794,
+    "gn:longitude":45.03706,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ra\u2019s al Jarth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s al Jarih",
+        "Ra\u2019s al Jarth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681039,
+        1091918937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71597
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e576218fcc2cc2faf3c87b400402de98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918937,
+            "locality_id":1309719713,
+            "region_id":85681039
+        }
+    ],
+    "wof:id":1309719713,
+    "wof:lastmodified":1537715099,
+    "wof:name":"Ra's al Jarth",
+    "wof:parent_id":1091918937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03706,
+    12.79794,
+    45.03706,
+    12.79794
+],
+  "geometry": {"coordinates":[45.03706,12.79794],"type":"Point"}
+}

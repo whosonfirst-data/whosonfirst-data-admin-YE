@@ -1,0 +1,74 @@
+{
+  "id": 1243510853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45979,16.30136,44.45979,16.30136",
+    "geom:latitude":16.30136,
+    "geom:longitude":44.45979,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Hammah",
+    "gn:country_code":"YE",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974827,
+    "gn:latitude":16.30136,
+    "gn:longitude":44.45979,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ammah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ammah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974827
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3eed0ece6d36ff3860a6b1e650890f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1243510853,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1243510853,
+    "wof:lastmodified":1537716114,
+    "wof:name":"Al Hammah",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45979000000001,
+    16.30136,
+    44.45979000000001,
+    16.30136
+],
+  "geometry": {"coordinates":[44.45979000000001,16.30136],"type":"Point"}
+}

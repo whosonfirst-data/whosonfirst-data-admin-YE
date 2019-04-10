@@ -1,0 +1,68 @@
+{
+  "id": 1259836061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25505,16.58496,44.25505,16.58496",
+    "geom:latitude":16.58496,
+    "geom:longitude":44.25505,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Dihmah",
+    "gn:country_code":"YE",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300375,
+    "gn:latitude":16.58496,
+    "gn:longitude":44.25505,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dihmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300375
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"078e736bcff98a6bddf8d8d7c5fb7ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1259836061,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1259836061,
+    "wof:lastmodified":1536846532,
+    "wof:name":"Dihmah",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25505,
+    16.58496,
+    44.25505,
+    16.58496
+],
+  "geometry": {"coordinates":[44.25505,16.58496],"type":"Point"}
+}

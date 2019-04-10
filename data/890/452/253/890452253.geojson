@@ -1,0 +1,73 @@
+{
+  "id": 890452253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37194,15.47305,45.37194,15.47305",
+    "geom:latitude":15.47305,
+    "geom:longitude":45.37194,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0645\u0627\u0644\u0629 \u0627\u0644 \u0637\u0627\u0644\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Harmalat Al Talib"
+    ],
+    "qs:name":"\u1e28arm\u0101lat \u0100l \u0162\u0101lib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861404,
+        "gp:id":1957048,
+        "qs:id":742745,
+        "wd:id":"Q20305325"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052810,
+    "wof:geomhash":"6a33db074e9cbefdcae34a019fa52a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":890452253,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890452253,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28arm\u0101lat \u0100l \u0162\u0101lib",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37194,
+    15.47305,
+    45.37194,
+    15.47305
+],
+  "geometry": {"coordinates":[45.37194,15.47305],"type":"Point"}
+}

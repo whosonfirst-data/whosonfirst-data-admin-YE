@@ -1,0 +1,73 @@
+{
+  "id": 1326688997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44327,14.39311,44.44327,14.39311",
+    "geom:latitude":14.39311,
+    "geom:longitude":44.44327,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Al Wajidiyah",
+    "gn:country_code":"YE",
+    "gn:dem":2543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950701,
+    "gn:latitude":14.39311,
+    "gn:longitude":44.44327,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al W\u0101jid\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062c\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al W\u0101jid\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950701
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"89b8ddf81b03c125d2df70c7ca3fa910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1326688997,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1326688997,
+    "wof:lastmodified":1537716284,
+    "wof:name":"Al Wajidiyah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44327,
+    14.39311,
+    44.44327,
+    14.39311
+],
+  "geometry": {"coordinates":[44.44327,14.39311],"type":"Point"}
+}

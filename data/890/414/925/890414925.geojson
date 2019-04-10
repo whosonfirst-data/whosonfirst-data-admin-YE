@@ -1,0 +1,73 @@
+{
+  "id": 890414925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64105,16.30712,43.64105,16.30712",
+    "geom:latitude":16.30712,
+    "geom:longitude":43.64105,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0645 \u0645\u0642\u0628\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Qawm Muqbil"
+    ],
+    "qs:name":"Qawm Muqbil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849514,
+        "gp:id":1953833,
+        "qs:id":741638,
+        "wd:id":"Q20305881"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051067,
+    "wof:geomhash":"a1a764aee26fe1a67b57a6b7cb899a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890414925,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414925,
+    "wof:lastmodified":1514503335,
+    "wof:name":"Qawm Muqbil",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64105,
+    16.30712,
+    43.64105,
+    16.30712
+],
+  "geometry": {"coordinates":[43.64105,16.30712],"type":"Point"}
+}

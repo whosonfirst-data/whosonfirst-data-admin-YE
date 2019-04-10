@@ -1,0 +1,71 @@
+{
+  "id": 1242675941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97733,14.84307,46.97733,14.84307",
+    "geom:latitude":14.84307,
+    "geom:longitude":46.97733,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Mikrab",
+    "gn:country_code":"YE",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72677,
+    "gn:latitude":14.84307,
+    "gn:longitude":46.97733,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Mikr\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mikr\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72677
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"756629d2684171e802772304d09253f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1242675941,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1242675941,
+    "wof:lastmodified":1537715118,
+    "wof:name":"Mikrab",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97733,
+    14.84307,
+    46.97733,
+    14.84307
+],
+  "geometry": {"coordinates":[46.97733,14.84307],"type":"Point"}
+}

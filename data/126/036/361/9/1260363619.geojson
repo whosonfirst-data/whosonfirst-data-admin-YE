@@ -1,0 +1,73 @@
+{
+  "id": 1260363619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63333,16.08333,44.63333,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":44.63333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1608.0",
+    "gn:asciiname":"Al Mutawwan",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78726,
+    "gn:latitude":16.08333,
+    "gn:longitude":44.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mutawwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u0163\u016bn",
+        "Al Mutawwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78726
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f87d646dfbf18a2f8a5aa7d4e22bd92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920511,
+            "locality_id":1260363619,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1260363619,
+    "wof:lastmodified":1537715269,
+    "wof:name":"Al Mutawwan",
+    "wof:parent_id":1091920511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63333,
+    16.08333,
+    44.63333,
+    16.08333
+],
+  "geometry": {"coordinates":[44.63333,16.08333],"type":"Point"}
+}

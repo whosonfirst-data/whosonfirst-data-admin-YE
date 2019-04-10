@@ -1,0 +1,68 @@
+{
+  "id": 1209789019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07708,14.91183,45.07708,14.91183",
+    "geom:latitude":14.91183,
+    "geom:longitude":45.07708,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Thamar al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":2028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364337,
+    "gn:latitude":14.91183,
+    "gn:longitude":45.07708,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Thamar al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364337
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fbe83e0bc75a26f06ecea1447b62e129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1209789019,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1209789019,
+    "wof:lastmodified":1536395865,
+    "wof:name":"Thamar al Asfal",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07708,
+    14.91183,
+    45.07708,
+    14.91183
+],
+  "geometry": {"coordinates":[45.07708,14.91183],"type":"Point"}
+}

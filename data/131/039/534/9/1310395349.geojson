@@ -1,0 +1,71 @@
+{
+  "id": 1310395349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50756,14.52573,43.50756,14.52573",
+    "geom:latitude":14.52573,
+    "geom:longitude":43.50756,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Hajamiyah",
+    "gn:country_code":"YE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401015,
+    "gn:latitude":14.52573,
+    "gn:longitude":43.50756,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Haj\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Haj\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c36f828ba9331247696c967e3da0c13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1310395349,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310395349,
+    "wof:lastmodified":1537715341,
+    "wof:name":"Al Hajamiyah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50756,
+    14.52573,
+    43.50756,
+    14.52573
+],
+  "geometry": {"coordinates":[43.50756,14.52573],"type":"Point"}
+}

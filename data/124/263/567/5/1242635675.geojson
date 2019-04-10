@@ -1,0 +1,72 @@
+{
+  "id": 1242635675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95118,16.18136,42.95118,16.18136",
+    "geom:latitude":16.18136,
+    "geom:longitude":42.95118,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Hasy al Jinnah",
+    "gn:country_code":"YE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346807,
+    "gn:latitude":16.18136,
+    "gn:longitude":42.95118,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"\u1e28asy al Jinnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28asy al Jinnah",
+        "\u1e28asy al Jannah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346807
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b422a609f736580b88a9e4b545da039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1242635675,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242635675,
+    "wof:lastmodified":1537715602,
+    "wof:name":"Hasy al Jinnah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95118,
+    16.18136,
+    42.95118,
+    16.18136
+],
+  "geometry": {"coordinates":[42.95118,16.18136],"type":"Point"}
+}

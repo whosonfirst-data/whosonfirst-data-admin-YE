@@ -1,0 +1,68 @@
+{
+  "id": 890446407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41786,16.03982,43.41786,16.03982",
+    "geom:latitude":16.03982,
+    "geom:longitude":43.41786,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0644 \u0627\u0644\u0639\u064a\u0646"
+    ],
+    "qs:name":"Sahal al \u2018Ayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680973,
+        85632499,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682644,
+        "qs:id":697329
+    },
+    "wof:country":"YE",
+    "wof:created":1469052550,
+    "wof:geomhash":"aa61f64c68d8a222715e841bd41c76df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "neighbourhood_id":890446407,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446407,
+    "wof:lastmodified":1505343611,
+    "wof:name":"Sahal al \u2018Ayn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41786,
+    16.03982,
+    43.41786,
+    16.03982
+],
+  "geometry": {"coordinates":[43.41786,16.03982],"type":"Point"}
+}

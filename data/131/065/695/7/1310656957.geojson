@@ -1,0 +1,75 @@
+{
+  "id": 1310656957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27322,16.51382,43.27322,16.51382",
+    "geom:latitude":16.51382,
+    "geom:longitude":43.27322,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Sarahah",
+    "gn:country_code":"YE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346634,
+    "gn:latitude":16.51382,
+    "gn:longitude":43.27322,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015eara\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062d\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u015eara\u1e29ah",
+        "La\u1e29ij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346634
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c0108139bb59431799b2e4412ac7f644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":1310656957,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310656957,
+    "wof:lastmodified":1537715601,
+    "wof:name":"Sarahah",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27322,
+    16.51382000000001,
+    43.27322,
+    16.51382000000001
+],
+  "geometry": {"coordinates":[43.27322,16.51382000000001],"type":"Point"}
+}

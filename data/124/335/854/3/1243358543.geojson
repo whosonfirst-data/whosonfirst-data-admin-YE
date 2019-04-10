@@ -1,0 +1,75 @@
+{
+  "id": 1243358543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34077,15.33634,43.34077,15.33634",
+    "geom:latitude":15.33634,
+    "geom:longitude":43.34077,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"`Ukaybir",
+    "gn:country_code":"YE",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69913,
+    "gn:latitude":15.33634,
+    "gn:longitude":43.34077,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u2018Ukaybir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0643\u064a\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ukaybir",
+        "\u2018Ukayb\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69913
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9d2a90730cc9c571e3c55f3f0da11f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1243358543,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243358543,
+    "wof:lastmodified":1537715068,
+    "wof:name":"`Ukaybir",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34077,
+    15.33634,
+    43.34077,
+    15.33634
+],
+  "geometry": {"coordinates":[43.34077,15.33634],"type":"Point"}
+}

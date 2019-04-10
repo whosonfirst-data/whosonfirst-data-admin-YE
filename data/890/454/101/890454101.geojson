@@ -1,0 +1,73 @@
+{
+  "id": 890454101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37638,16.84086,43.37638,16.84086",
+    "geom:latitude":16.84086,
+    "geom:longitude":43.37638,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0630\u064a\u0641\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hudhayfi"
+    ],
+    "qs:name":"Al \u1e28udhayf\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900927,
+        "gp:id":1959134,
+        "qs:id":744435,
+        "wd:id":"Q20301720"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052886,
+    "wof:geomhash":"d53190982dd8b978638f01c5ca2af53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890454101,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454101,
+    "wof:lastmodified":1514503207,
+    "wof:name":"Al \u1e28udhayf\u012b",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37638,
+    16.84086,
+    43.37638,
+    16.84086
+],
+  "geometry": {"coordinates":[43.37638,16.84086],"type":"Point"}
+}

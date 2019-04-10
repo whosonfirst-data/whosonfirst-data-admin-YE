@@ -1,0 +1,77 @@
+{
+  "id": 1276409741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44671,16.80767,43.44671,16.80767",
+    "geom:latitude":16.80767,
+    "geom:longitude":43.44671,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Shihabah",
+    "gn:country_code":"YE",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411066,
+    "gn:latitude":16.80767,
+    "gn:longitude":43.44671,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shih\u0101b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shih\u0101b\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0647\u0627\u0628\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Shih\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411066
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bbdc48943dba900be90134fc7c204d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1276409741,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276409741,
+    "wof:lastmodified":1537715430,
+    "wof:name":"Shihabah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44671,
+    16.80767,
+    43.44671,
+    16.80767
+],
+  "geometry": {"coordinates":[43.44671,16.80767],"type":"Point"}
+}

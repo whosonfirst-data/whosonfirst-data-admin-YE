@@ -1,0 +1,69 @@
+{
+  "id": 1326512183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63618,15.04738,43.63618,15.04738",
+    "geom:latitude":15.04738,
+    "geom:longitude":43.63618,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Al Marzamah",
+    "gn:country_code":"YE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402431,
+    "gn:latitude":15.04738,
+    "gn:longitude":43.63618,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Marzamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402431,
+        "wk:page":"Al-Marzamah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c4854ca13fc6d0e56a37451ac51e98b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1326512183,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1326512183,
+    "wof:lastmodified":1537576135,
+    "wof:name":"Al Marzamah",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63618,
+    15.04738,
+    43.63618,
+    15.04738
+],
+  "geometry": {"coordinates":[43.63618,15.04738],"type":"Point"}
+}

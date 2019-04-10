@@ -1,0 +1,73 @@
+{
+  "id": 1327321677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25818,14.33163,44.25818,14.33163",
+    "geom:latitude":14.33163,
+    "geom:longitude":44.25818,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ad Dakhakhah",
+    "gn:country_code":"YE",
+    "gn:dem":2525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950476,
+    "gn:latitude":14.33163,
+    "gn:longitude":44.25818,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ad Dakh\u0101khah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u062e\u0627\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Dakh\u0101khah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950476
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6af0c08cb6fe8da754af951a0a81e25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1327321677,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1327321677,
+    "wof:lastmodified":1537716276,
+    "wof:name":"Ad Dakhakhah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25818,
+    14.33163,
+    44.25818,
+    14.33163
+],
+  "geometry": {"coordinates":[44.25818,14.33163],"type":"Point"}
+}

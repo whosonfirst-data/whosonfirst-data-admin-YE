@@ -1,0 +1,85 @@
+{
+  "id": 1327095829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.4713,12.66621,53.4713,12.66621",
+    "geom:latitude":12.66621,
+    "geom:longitude":53.4713,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1927.0",
+    "gn:asciiname":"Qaysoh",
+    "gn:country_code":"YE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71861,
+    "gn:latitude":12.66621,
+    "gn:longitude":53.4713,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Qaysoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaiso",
+        "Qaysah",
+        "Qay\u015fuh",
+        "Qays\u0101",
+        "Qayss\u0101",
+        "Qaysoh",
+        "Qays\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926281,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71861
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"05d360ee116c1faaecb628f3f54eab64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926281,
+            "locality_id":1327095829,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926281,
+            "locality_id":1327095829,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327095829,
+    "wof:lastmodified":1537715103,
+    "wof:name":"Qaysoh",
+    "wof:parent_id":1091926281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.4713,
+    12.66621,
+    53.4713,
+    12.66621
+],
+  "geometry": {"coordinates":[53.4713,12.66621],"type":"Point"}
+}

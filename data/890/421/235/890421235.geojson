@@ -1,0 +1,76 @@
+{
+  "id": 890421235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79423,13.45969,43.79423,13.45969",
+    "geom:latitude":13.45969,
+    "geom:longitude":43.79423,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mush\u0101jib"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0634\u0627\u062c\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mushajib"
+    ],
+    "qs:name":"Al Mush\u0101jib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075830,
+        "gp:id":1959049,
+        "qs:id":754411,
+        "wd:id":"Q20303078"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051384,
+    "wof:geomhash":"39b9287e06f727918b98ad7130608fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890421235,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421235,
+    "wof:lastmodified":1514503193,
+    "wof:name":"Al Mush\u0101jib",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79423,
+    13.45969,
+    43.79423,
+    13.45969
+],
+  "geometry": {"coordinates":[43.79423,13.45969],"type":"Point"}
+}

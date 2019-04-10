@@ -1,0 +1,71 @@
+{
+  "id": 1344125199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93,13.62917,44.93,13.62917",
+    "geom:latitude":13.62917,
+    "geom:longitude":44.93,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Turah",
+    "gn:country_code":"YE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69960,
+    "gn:latitude":13.62917,
+    "gn:longitude":44.93,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69960
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aedc30cf01c5e03540b31d4adb50dc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924875,
+            "locality_id":1344125199,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1344125199,
+    "wof:lastmodified":1537715069,
+    "wof:name":"Turah",
+    "wof:parent_id":1091924875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93,
+    13.62917,
+    44.93,
+    13.62917
+],
+  "geometry": {"coordinates":[44.93,13.62917],"type":"Point"}
+}

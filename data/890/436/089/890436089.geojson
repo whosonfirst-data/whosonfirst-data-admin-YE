@@ -1,0 +1,79 @@
+{
+  "id": 890436089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41555,16.07325,43.41555,16.07325",
+    "geom:latitude":16.07325,
+    "geom:longitude":43.41555,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0645\u0635\u0644\u062d\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0635\u0644\u062d\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al Ma\u015fli\u1e29ah"
+    ],
+    "qs:name":"Bayt al Ma\u015fli\u1e29ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658745,
+        "gp:id":1958568,
+        "qs:id":698250,
+        "qs_pg:id":696523
+    },
+    "wof:country":"YE",
+    "wof:created":1469052092,
+    "wof:geomhash":"5b4d71dda7dc8dcf70758bcb2fc2b8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890436089,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890436089,
+    "wof:lastmodified":1505343551,
+    "wof:name":"Bayt al Ma\u015fli\u1e29ah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41555,
+    16.07325,
+    43.41555,
+    16.07325
+],
+  "geometry": {"coordinates":[43.41555,16.07325],"type":"Point"}
+}

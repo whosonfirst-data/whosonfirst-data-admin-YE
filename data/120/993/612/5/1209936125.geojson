@@ -1,0 +1,71 @@
+{
+  "id": 1209936125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22805,14.725,43.22805,14.725",
+    "geom:latitude":14.725,
+    "geom:longitude":43.22805,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Bayt `Ali Musawa'",
+    "gn:country_code":"YE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340931,
+    "gn:latitude":14.725,
+    "gn:longitude":43.22805,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Bayt \u2018Al\u012b Mus\u0101w\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018Al\u012b Mus\u0101w\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340931
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8fcdd85e249d614662b2a771cdd42775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1209936125,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209936125,
+    "wof:lastmodified":1537715466,
+    "wof:name":"Bayt `Ali Musawa'",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22805,
+    14.725,
+    43.22805,
+    14.725
+],
+  "geometry": {"coordinates":[43.22805,14.725],"type":"Point"}
+}

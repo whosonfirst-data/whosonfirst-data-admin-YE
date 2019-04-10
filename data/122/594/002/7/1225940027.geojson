@@ -1,0 +1,68 @@
+{
+  "id": 1225940027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32816,15.47175,43.32816,15.47175",
+    "geom:latitude":15.47175,
+    "geom:longitude":43.32816,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Bayt al Ward",
+    "gn:country_code":"YE",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364976,
+    "gn:latitude":15.47175,
+    "gn:longitude":43.32816,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bayt al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364976
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fe14cd2ce0c5399e94da1732a330799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1225940027,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1225940027,
+    "wof:lastmodified":1536876784,
+    "wof:name":"Bayt al Ward",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32816,
+    15.47175,
+    43.32816,
+    15.47175
+],
+  "geometry": {"coordinates":[43.32816,15.47175],"type":"Point"}
+}

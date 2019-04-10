@@ -1,0 +1,74 @@
+{
+  "id": 1310463737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79881,16.17123,43.79881,16.17123",
+    "geom:latitude":16.17123,
+    "geom:longitude":43.79881,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Ghallat al Ghani",
+    "gn:country_code":"YE",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633519,
+    "gn:latitude":16.17123,
+    "gn:longitude":43.79881,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gh\u0101llat al Ghan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0644\u0629 \u0627\u0644\u063a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Gh\u0101llat al Ghan\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633519
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc235a8d02b70296289bc931475cf930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1310463737,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310463737,
+    "wof:lastmodified":1537716071,
+    "wof:name":"Ghallat al Ghani",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79881,
+    16.17123,
+    43.79881,
+    16.17123
+],
+  "geometry": {"coordinates":[43.79881,16.17123],"type":"Point"}
+}

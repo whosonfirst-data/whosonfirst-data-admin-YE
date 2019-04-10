@@ -1,0 +1,73 @@
+{
+  "id": 890439817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80649,13.47683,43.80649,13.47683",
+    "geom:latitude":13.47683,
+    "geom:longitude":43.80649,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u062d\u0641 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Qahf Al Jabal"
+    ],
+    "qs:name":"Qa\u1e29f al Jabal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075708,
+        "gp:id":1959049,
+        "qs:id":754294,
+        "wd:id":"Q20305158"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052251,
+    "wof:geomhash":"6f6c2a739f8741292b06bc3b9e8f1adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890439817,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890439817,
+    "wof:lastmodified":1514503336,
+    "wof:name":"Qa\u1e29f al Jabal",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80649,
+    13.47683,
+    43.80649,
+    13.47683
+],
+  "geometry": {"coordinates":[43.80649,13.47683],"type":"Point"}
+}

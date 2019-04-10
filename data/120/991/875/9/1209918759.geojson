@@ -1,0 +1,74 @@
+{
+  "id": 1209918759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84571,14.4995,46.84571,14.4995",
+    "geom:latitude":14.4995,
+    "geom:longitude":46.84571,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2113.0",
+    "gn:asciiname":"Al Hat",
+    "gn:country_code":"YE",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867075,
+    "gn:latitude":14.4995,
+    "gn:longitude":46.84571,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101\u0163"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"19819846b8bb23c28435d6d418bcb680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926023,
+            "locality_id":1209918759,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1209918759,
+    "wof:lastmodified":1537716003,
+    "wof:name":"Al Hat",
+    "wof:parent_id":1091926023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84571,
+    14.4995,
+    46.84571,
+    14.4995
+],
+  "geometry": {"coordinates":[46.84571,14.4995],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890439587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36088,14.36391,45.36088,14.36391",
+    "geom:latitude":14.36391,
+    "geom:longitude":45.36088,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0648\u062f \u0639\u0644\u064a \u062d\u0633\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "HuyUd 'Ali Hassan"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28uy\u016bd \u2018Al\u012b \u1e28asan"
+    ],
+    "qs:name":"\u1e28uy\u016bd \u2018Al\u012b \u1e28assan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051832,
+        "gp:id":1958975,
+        "qs:id":751215,
+        "wd:id":"Q20306080"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052241,
+    "wof:geomhash":"2341dd6439bfb5f6ce011735fe57cd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":890439587,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890439587,
+    "wof:lastmodified":1514503403,
+    "wof:name":"\u1e28uy\u016bd \u2018Al\u012b \u1e28assan",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36088,
+    14.36391,
+    45.36088,
+    14.36391
+],
+  "geometry": {"coordinates":[45.36088,14.36391],"type":"Point"}
+}

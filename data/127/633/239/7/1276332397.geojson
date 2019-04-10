@@ -1,0 +1,71 @@
+{
+  "id": 1276332397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.26667,14.53333,47.26667,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":47.26667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Al Bilad",
+    "gn:country_code":"YE",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79825,
+    "gn:latitude":14.53333,
+    "gn:longitude":47.26667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Bil\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bil\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79825
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9c90363da9f52ec44f8f3cd16bb9228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1276332397,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1276332397,
+    "wof:lastmodified":1537715319,
+    "wof:name":"Al Bilad",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.26667,
+    14.53333,
+    47.26667,
+    14.53333
+],
+  "geometry": {"coordinates":[47.26667,14.53333],"type":"Point"}
+}

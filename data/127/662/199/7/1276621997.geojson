@@ -1,0 +1,71 @@
+{
+  "id": 1276621997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79629,13.11661,43.79629,13.11661",
+    "geom:latitude":13.11661,
+    "geom:longitude":43.79629,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Bukhaytah",
+    "gn:country_code":"YE",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354547,
+    "gn:latitude":13.11661,
+    "gn:longitude":43.79629,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Bukhaytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062e\u064a\u062a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354547
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a11389280432aca5bc35c0ce2131de07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1276621997,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276621997,
+    "wof:lastmodified":1537715614,
+    "wof:name":"Bukhaytah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79629,
+    13.11661,
+    43.79629,
+    13.11661
+],
+  "geometry": {"coordinates":[43.79629,13.11661],"type":"Point"}
+}

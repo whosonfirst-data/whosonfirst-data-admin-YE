@@ -1,0 +1,71 @@
+{
+  "id": 1243436381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48752,15.62773,44.48752,15.62773",
+    "geom:latitude":15.62773,
+    "geom:longitude":44.48752,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Thajir",
+    "gn:country_code":"YE",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362240,
+    "gn:latitude":15.62773,
+    "gn:longitude":44.48752,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Th\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Th\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362240
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb743cfb21ea8bb1a7c231cdca0254d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1243436381,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243436381,
+    "wof:lastmodified":1537715839,
+    "wof:name":"Thajir",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48752,
+    15.62773,
+    44.48752,
+    15.62773
+],
+  "geometry": {"coordinates":[44.48752,15.62773],"type":"Point"}
+}

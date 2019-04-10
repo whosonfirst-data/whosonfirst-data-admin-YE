@@ -1,0 +1,73 @@
+{
+  "id": 890418547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44408,16.67082,44.44408,16.67082",
+    "geom:latitude":16.67082,
+    "geom:longitude":44.44408,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Dayrah"
+    ],
+    "qs:name":"Ad Dayrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795417,
+        "gp:id":1959135,
+        "qs:id":701177,
+        "wd:id":"Q20300634"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051252,
+    "wof:geomhash":"7b3ab0ab670127d14b60f3c432107b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890418547,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418547,
+    "wof:lastmodified":1514503128,
+    "wof:name":"Ad Dayrah",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44408,
+    16.67082,
+    44.44408,
+    16.67082
+],
+  "geometry": {"coordinates":[44.44408,16.67082],"type":"Point"}
+}

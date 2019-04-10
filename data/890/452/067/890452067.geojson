@@ -1,0 +1,73 @@
+{
+  "id": 890452067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40498,16.65851,43.40498,16.65851",
+    "geom:latitude":16.65851,
+    "geom:longitude":43.40498,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0631\u0629 \u062a\u0639\u0634\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Qufrat Ta'ashshar"
+    ],
+    "qs:name":"Qufrat Ta\u2018ashshar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855183,
+        "gp:id":1959061,
+        "qs:id":742103,
+        "wd:id":"Q20306071"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052803,
+    "wof:geomhash":"5ffc64d853569493dcdfde681e1ef986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890452067,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890452067,
+    "wof:lastmodified":1514503337,
+    "wof:name":"Qufrat Ta\u2018ashshar",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40498,
+    16.65851,
+    43.40498,
+    16.65851
+],
+  "geometry": {"coordinates":[43.40498,16.65851],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890426185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25848,17.15557,43.25848,17.15557",
+    "geom:latitude":17.15557,
+    "geom:longitude":43.25848,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0641\u0644\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Al Falaj"
+    ],
+    "qs:name":"W\u0101d\u012b al Falaj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866922,
+        "gp:id":1938607,
+        "qs:id":743096,
+        "wd:id":"Q20309416"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051621,
+    "wof:geomhash":"2cd21af763c1de1baea825631d215a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890426185,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426185,
+    "wof:lastmodified":1514503381,
+    "wof:name":"W\u0101d\u012b al Falaj",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25848,
+    17.15557,
+    43.25848,
+    17.15557
+],
+  "geometry": {"coordinates":[43.25848,17.15557],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360249341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47196,14.31762,44.47196,14.31762",
+    "geom:latitude":14.31762,
+    "geom:longitude":44.47196,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Al Qaryah",
+    "gn:country_code":"YE",
+    "gn:dem":2423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359222,
+    "gn:latitude":14.31762,
+    "gn:longitude":44.47196,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Qaryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u0101khil\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359222
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d46d6b58220dbaf8d9b1c4672f2f1b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1360249341,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1360249341,
+    "wof:lastmodified":1537715749,
+    "wof:name":"Al Qaryah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47196,
+    14.31762,
+    44.47196,
+    14.31762
+],
+  "geometry": {"coordinates":[44.47196,14.31762],"type":"Point"}
+}

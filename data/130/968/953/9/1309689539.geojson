@@ -1,0 +1,70 @@
+{
+  "id": 1309689539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45913,14.29606,44.45913,14.29606",
+    "geom:latitude":14.29606,
+    "geom:longitude":44.45913,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Lakmah",
+    "gn:country_code":"YE",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950550,
+    "gn:latitude":14.29606,
+    "gn:longitude":44.45913,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al Lakmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0643\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950550
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c23debb6135b88369bed84b0e385a6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1309689539,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309689539,
+    "wof:lastmodified":1537716280,
+    "wof:name":"Al Lakmah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45913,
+    14.29606,
+    44.45913,
+    14.29606
+],
+  "geometry": {"coordinates":[44.45913,14.29606],"type":"Point"}
+}

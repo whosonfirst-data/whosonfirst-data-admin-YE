@@ -1,0 +1,74 @@
+{
+  "id": 1259969609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33933,14.65174,43.33933,14.65174",
+    "geom:latitude":14.65174,
+    "geom:longitude":43.33933,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Buyut al Khawadim",
+    "gn:country_code":"YE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058291,
+    "gn:latitude":14.65174,
+    "gn:longitude":43.33933,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buy\u016bt al Khaw\u0101dim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u062a \u0627\u0644\u062e\u0648\u0627\u062f\u0645"
+    ],
+    "name:und_x_variant":[
+        "Buy\u016bt al Khaw\u0101dim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058291
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cccfef31093481877b9099742d6c4ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920045,
+            "locality_id":1259969609,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259969609,
+    "wof:lastmodified":1537716333,
+    "wof:name":"Buyut al Khawadim",
+    "wof:parent_id":1091920045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33933,
+    14.65174,
+    43.33933,
+    14.65174
+],
+  "geometry": {"coordinates":[43.33933,14.65174],"type":"Point"}
+}

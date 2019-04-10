@@ -1,0 +1,71 @@
+{
+  "id": 1343825529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08248,13.69869,44.08248,13.69869",
+    "geom:latitude":13.69869,
+    "geom:longitude":44.08248,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Hama'ir",
+    "gn:country_code":"YE",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30687,
+    "gn:latitude":13.69869,
+    "gn:longitude":44.08248,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28am\u0101\u2019ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28am\u0101\u2019ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30687
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d452b371d38dc0393b5025e666a22657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1343825529,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343825529,
+    "wof:lastmodified":1537715049,
+    "wof:name":"Al Hama'ir",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08248,
+    13.69869,
+    44.08248,
+    13.69869
+],
+  "geometry": {"coordinates":[44.08248,13.69869],"type":"Point"}
+}

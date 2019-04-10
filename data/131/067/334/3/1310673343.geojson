@@ -1,0 +1,74 @@
+{
+  "id": 1310673343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31,16.77128,43.31,16.77128",
+    "geom:latitude":16.77128,
+    "geom:longitude":43.31,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"At Tawayil",
+    "gn:country_code":"YE",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537560,
+    "gn:latitude":16.77128,
+    "gn:longitude":43.31,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162aw\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u0101yil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537560
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"41a57febb90ac0f9c3787a8517fc3591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1310673343,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310673343,
+    "wof:lastmodified":1537716053,
+    "wof:name":"At Tawayil",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31,
+    16.77127999999999,
+    43.31,
+    16.77127999999999
+],
+  "geometry": {"coordinates":[43.31,16.77127999999999],"type":"Point"}
+}

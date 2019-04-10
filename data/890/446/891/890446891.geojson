@@ -1,0 +1,73 @@
+{
+  "id": 890446891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83153,16.86346,44.83153,16.86346",
+    "geom:latitude":16.86346,
+    "geom:longitude":44.83153,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0630\u064a\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hadhiyah As Sufla"
+    ],
+    "qs:name":"Al \u1e28adh\u012byah as Sufl\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687017,
+        "gp:id":1959135,
+        "qs:id":697725,
+        "wd:id":"Q20299306"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052570,
+    "wof:geomhash":"0c7bbeb6cfc84bed6a961bb87e2a7e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":890446891,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890446891,
+    "wof:lastmodified":1514503203,
+    "wof:name":"Al \u1e28adh\u012byah as Sufl\u00e1",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83153,
+    16.86346,
+    44.83153,
+    16.86346
+],
+  "geometry": {"coordinates":[44.83153,16.86346],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890449499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85125,13.42581,43.85125,13.42581",
+    "geom:latitude":13.42581,
+    "geom:longitude":43.85125,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Anis"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ans"
+    ],
+    "qs:name":"\u2018Anis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075618,
+        "gp:id":1957662,
+        "qs:id":754221,
+        "wd:id":"Q20299014",
+        "wk:page":"Anis"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052695,
+    "wof:geomhash":"165d7bd16386b36001f4c33a6340621a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":890449499,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449499,
+    "wof:lastmodified":1527727155,
+    "wof:name":"\u2018Anis",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85125,
+    13.42581,
+    43.85125,
+    13.42581
+],
+  "geometry": {"coordinates":[43.85125,13.42581],"type":"Point"}
+}

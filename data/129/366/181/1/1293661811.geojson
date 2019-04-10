@@ -1,0 +1,74 @@
+{
+  "id": 1293661811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41583,17.05818,43.41583,17.05818",
+    "geom:latitude":17.05818,
+    "geom:longitude":43.41583,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Alt az Zuwayh",
+    "gn:country_code":"YE",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345956,
+    "gn:latitude":17.05818,
+    "gn:longitude":43.41583,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Alt az Zuway\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a \u0627\u0644\u0632\u0648\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Alt az Zuway\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345956
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1aac97c3449901c903a2e574d0deb2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1293661811,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293661811,
+    "wof:lastmodified":1537715573,
+    "wof:name":"Alt az Zuwayh",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41583,
+    17.05818,
+    43.41583,
+    17.05818
+],
+  "geometry": {"coordinates":[43.41583,17.05818],"type":"Point"}
+}

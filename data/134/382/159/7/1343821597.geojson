@@ -1,0 +1,74 @@
+{
+  "id": 1343821597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54273,15.79274,44.54273,15.79274",
+    "geom:latitude":15.79274,
+    "geom:longitude":44.54273,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"As Sir",
+    "gn:country_code":"YE",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975973,
+    "gn:latitude":15.79274,
+    "gn:longitude":44.54273,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015e\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015e\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975973
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cfb6ccf6feb3246fbc1a818e698e1bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1343821597,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343821597,
+    "wof:lastmodified":1537716138,
+    "wof:name":"As Sir",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54273,
+    15.79274,
+    44.54273,
+    15.79274
+],
+  "geometry": {"coordinates":[44.54273,15.79274],"type":"Point"}
+}

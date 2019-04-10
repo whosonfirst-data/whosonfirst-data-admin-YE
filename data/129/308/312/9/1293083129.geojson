@@ -1,0 +1,71 @@
+{
+  "id": 1293083129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01599,15.14064,44.01599,15.14064",
+    "geom:latitude":15.14064,
+    "geom:longitude":44.01599,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Hamasil",
+    "gn:country_code":"YE",
+    "gn:dem":2693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342057,
+    "gn:latitude":15.14064,
+    "gn:longitude":44.01599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28am\u0101sil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28am\u0101sil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8b6e316b79a7957bf591842213cb2433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1293083129,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293083129,
+    "wof:lastmodified":1537715493,
+    "wof:name":"Hamasil",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01599,
+    15.14064,
+    44.01599,
+    15.14064
+],
+  "geometry": {"coordinates":[44.01599,15.14064],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890418403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46247,16.87342,44.46247,16.87342",
+    "geom:latitude":16.87342,
+    "geom:longitude":44.46247,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u063a\u0631\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b Al Ghurs"
+    ],
+    "qs:name":"Sha\u2018b al Ghurs",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794970,
+        "gp:id":1959135,
+        "qs:id":700745,
+        "wd:id":"Q20307409"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051247,
+    "wof:geomhash":"feeb5bd0109a1cca135da9cc579d62ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890418403,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418403,
+    "wof:lastmodified":1514503364,
+    "wof:name":"Sha\u2018b al Ghurs",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46247,
+    16.87342,
+    44.46247,
+    16.87342
+],
+  "geometry": {"coordinates":[44.46247,16.87342],"type":"Point"}
+}

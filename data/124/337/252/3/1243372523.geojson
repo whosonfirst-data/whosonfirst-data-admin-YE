@@ -1,0 +1,72 @@
+{
+  "id": 1243372523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94925,13.70531,45.94925,13.70531",
+    "geom:latitude":13.70531,
+    "geom:longitude":45.94925,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Am Dha`nub",
+    "gn:country_code":"YE",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80292,
+    "gn:latitude":13.70531,
+    "gn:longitude":45.94925,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Dha\u2018n\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Dha\u2018n\u016bb",
+        "Adh Dha\u2018n\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80292
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a5a9421ea0300f51c9b86a31459315db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918487,
+            "locality_id":1243372523,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1243372523,
+    "wof:lastmodified":1537715330,
+    "wof:name":"Am Dha`nub",
+    "wof:parent_id":1091918487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94925,
+    13.70531,
+    45.94925,
+    13.70531
+],
+  "geometry": {"coordinates":[45.94925,13.70531],"type":"Point"}
+}

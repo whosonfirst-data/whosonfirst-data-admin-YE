@@ -1,0 +1,68 @@
+{
+  "id": 1243343751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39456,14.73567,44.39456,14.73567",
+    "geom:latitude":14.73567,
+    "geom:longitude":44.39456,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Balad",
+    "gn:country_code":"YE",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361562,
+    "gn:latitude":14.73567,
+    "gn:longitude":44.39456,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Balad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361562
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c2370f7b266a19b4b9aae3d5c828a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1243343751,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243343751,
+    "wof:lastmodified":1536953776,
+    "wof:name":"Al Balad",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39456,
+    14.73567,
+    44.39456,
+    14.73567
+],
+  "geometry": {"coordinates":[44.39456,14.73567],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310665637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07516,16.03733,44.07516,16.03733",
+    "geom:latitude":16.03733,
+    "geom:longitude":44.07516,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Bayt al Mulayh",
+    "gn:country_code":"YE",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362632,
+    "gn:latitude":16.03733,
+    "gn:longitude":44.07516,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Mulay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Mulay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362632
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"71843b9803795b3c9e07bed4b099ada6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921833,
+            "locality_id":1310665637,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310665637,
+    "wof:lastmodified":1537715850,
+    "wof:name":"Bayt al Mulayh",
+    "wof:parent_id":1091921833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07516,
+    16.03732999999999,
+    44.07516,
+    16.03732999999999
+],
+  "geometry": {"coordinates":[44.07516,16.03732999999999],"type":"Point"}
+}

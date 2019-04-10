@@ -1,0 +1,71 @@
+{
+  "id": 1277148593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50198,15.27904,44.50198,15.27904",
+    "geom:latitude":15.27904,
+    "geom:longitude":44.50198,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2316.0",
+    "gn:asciiname":"Ad Darb",
+    "gn:country_code":"YE",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341535,
+    "gn:latitude":15.27904,
+    "gn:longitude":44.50198,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ad Darb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341535
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f4e80408f2d81776ef12f1fd7aa8b7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925799,
+            "locality_id":1277148593,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1277148593,
+    "wof:lastmodified":1537715481,
+    "wof:name":"Ad Darb",
+    "wof:parent_id":1091925799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50198,
+    15.27904,
+    44.50198,
+    15.27904
+],
+  "geometry": {"coordinates":[44.50198,15.27904],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259974879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34954,14.94832,43.34954,14.94832",
+    "geom:latitude":14.94832,
+    "geom:longitude":43.34954,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Mahall al Barquqah",
+    "gn:country_code":"YE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73293,
+    "gn:latitude":14.94832,
+    "gn:longitude":43.34954,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Ma\u1e29all al Barq\u016bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Barq\u016bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73293
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f73c31612c71d7700daf7edc4db8ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1259974879,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259974879,
+    "wof:lastmodified":1537715131,
+    "wof:name":"Mahall al Barquqah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34954000000001,
+    14.94832,
+    43.34954000000001,
+    14.94832
+],
+  "geometry": {"coordinates":[43.34954000000001,14.94832],"type":"Point"}
+}

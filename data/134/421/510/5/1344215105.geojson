@@ -1,0 +1,75 @@
+{
+  "id": 1344215105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36049,14.11211,44.36049,14.11211",
+    "geom:latitude":14.11211,
+    "geom:longitude":44.36049,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Hiqab",
+    "gn:country_code":"YE",
+    "gn:dem":2406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359592,
+    "gn:latitude":14.11211,
+    "gn:longitude":44.36049,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"\u1e28iq\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aq\u0101b",
+        "\u1e28iq\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2130e905a78e17e1304df6ee30ba4379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1344215105,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1344215105,
+    "wof:lastmodified":1537715769,
+    "wof:name":"Hiqab",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36049000000001,
+    14.11211,
+    44.36049000000001,
+    14.11211
+],
+  "geometry": {"coordinates":[44.36049000000001,14.11211],"type":"Point"}
+}

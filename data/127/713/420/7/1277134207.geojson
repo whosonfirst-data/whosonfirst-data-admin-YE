@@ -1,0 +1,71 @@
+{
+  "id": 1277134207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0875,13.1075,44.0875,13.1075",
+    "geom:latitude":13.1075,
+    "geom:longitude":44.0875,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Ghayl Hashabah",
+    "gn:country_code":"YE",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409132,
+    "gn:latitude":13.1075,
+    "gn:longitude":44.0875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghayl \u1e28\u0101shabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghayl \u1e28\u0101shabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409132
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1aadd130af813cf30a337e2dc9d3b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1277134207,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1277134207,
+    "wof:lastmodified":1537715426,
+    "wof:name":"Ghayl Hashabah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0875,
+    13.1075,
+    44.0875,
+    13.1075
+],
+  "geometry": {"coordinates":[44.0875,13.1075],"type":"Point"}
+}

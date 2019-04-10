@@ -1,0 +1,71 @@
+{
+  "id": 1360162011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68169,14.29535,43.68169,14.29535",
+    "geom:latitude":14.29535,
+    "geom:longitude":43.68169,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Ar Rasan",
+    "gn:country_code":"YE",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357857,
+    "gn:latitude":14.29535,
+    "gn:longitude":43.68169,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Ras\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ras\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357857
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9454b0a5fe7d95b6995e579905533d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1360162011,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1360162011,
+    "wof:lastmodified":1537715709,
+    "wof:name":"Ar Rasan",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68169,
+    14.29535,
+    43.68169,
+    14.29535
+],
+  "geometry": {"coordinates":[43.68169,14.29535],"type":"Point"}
+}

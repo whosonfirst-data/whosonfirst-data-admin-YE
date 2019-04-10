@@ -1,0 +1,75 @@
+{
+  "id": 1343830499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4281,17.21518,43.4281,17.21518",
+    "geom:latitude":17.21518,
+    "geom:longitude":43.4281,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Sarmad",
+    "gn:country_code":"YE",
+    "gn:dem":2218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345807,
+    "gn:latitude":17.21518,
+    "gn:longitude":43.4281,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l Sarmad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0633\u0631\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sarmad",
+        "\u0100l Sarmad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345807
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30c56f8db06a113900826b5b3cd581be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1343830499,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343830499,
+    "wof:lastmodified":1537715568,
+    "wof:name":"Al Sarmad",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4281,
+    17.21518,
+    43.4281,
+    17.21518
+],
+  "geometry": {"coordinates":[43.4281,17.21518],"type":"Point"}
+}

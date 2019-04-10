@@ -1,0 +1,71 @@
+{
+  "id": 1276643983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99632,14.7392,43.99632,14.7392",
+    "geom:latitude":14.7392,
+    "geom:longitude":43.99632,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Al Qahad",
+    "gn:country_code":"YE",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360514,
+    "gn:latitude":14.7392,
+    "gn:longitude":43.99632,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qah\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qah\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360514
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79464ab8e0803050966e7c5bc83f456d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1276643983,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1276643983,
+    "wof:lastmodified":1537715800,
+    "wof:name":"Al Qahad",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99632,
+    14.7392,
+    43.99632,
+    14.7392
+],
+  "geometry": {"coordinates":[43.99632,14.7392],"type":"Point"}
+}

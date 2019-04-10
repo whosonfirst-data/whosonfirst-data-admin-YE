@@ -1,0 +1,73 @@
+{
+  "id": 890425193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32748,16.27041,43.32748,16.27041",
+    "geom:latitude":16.27041,
+    "geom:longitude":43.32748,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u0631\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mararah As Sufla"
+    ],
+    "qs:name":"Al Mar\u0101rah as Sufl\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761161,
+        "gp:id":1953570,
+        "qs:id":699151,
+        "wd:id":"Q20298950"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051579,
+    "wof:geomhash":"22c91234369da06b0b43e27167d0498a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890425193,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425193,
+    "wof:lastmodified":1514503183,
+    "wof:name":"Al Mar\u0101rah as Sufl\u00e1",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32748,
+    16.27041,
+    43.32748,
+    16.27041
+],
+  "geometry": {"coordinates":[43.32748,16.27041],"type":"Point"}
+}

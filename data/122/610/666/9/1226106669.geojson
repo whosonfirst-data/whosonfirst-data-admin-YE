@@ -1,0 +1,74 @@
+{
+  "id": 1226106669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.79938,14.16355,45.79938,14.16355",
+    "geom:latitude":14.16355,
+    "geom:longitude":45.79938,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Hayd Salih",
+    "gn:country_code":"YE",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364742,
+    "gn:latitude":14.16355,
+    "gn:longitude":45.79938,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ayd \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayd \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29fb26b1bdd02b7d9aea6b256b47718c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":1226106669,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226106669,
+    "wof:lastmodified":1537715907,
+    "wof:name":"Hayd Salih",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.79938,
+    14.16355,
+    45.79938,
+    14.16355
+],
+  "geometry": {"coordinates":[45.79938,14.16355],"type":"Point"}
+}

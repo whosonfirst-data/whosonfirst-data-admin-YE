@@ -1,0 +1,71 @@
+{
+  "id": 1260136319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46183,16.03713,43.46183,16.03713",
+    "geom:latitude":16.03713,
+    "geom:longitude":43.46183,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Birayk",
+    "gn:country_code":"YE",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681992,
+    "gn:latitude":16.03713,
+    "gn:longitude":43.46183,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Birayk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681992
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f1d415b0406caa13305e4e713d67a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1260136319,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260136319,
+    "wof:lastmodified":1537715987,
+    "wof:name":"Al Birayk",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46183,
+    16.03713,
+    43.46183,
+    16.03713
+],
+  "geometry": {"coordinates":[43.46183,16.03713],"type":"Point"}
+}

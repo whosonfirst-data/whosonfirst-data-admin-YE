@@ -1,0 +1,68 @@
+{
+  "id": 1225806927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6779,15.55801,43.6779,15.55801",
+    "geom:latitude":15.55801,
+    "geom:longitude":43.6779,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Sarm Maswar",
+    "gn:country_code":"YE",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344486,
+    "gn:latitude":15.55801,
+    "gn:longitude":43.6779,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sarm Maswar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344486
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"07948248b78dfb43d4c672772775b7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922059,
+            "locality_id":1225806927,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1225806927,
+    "wof:lastmodified":1537066926,
+    "wof:name":"Sarm Maswar",
+    "wof:parent_id":1091922059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6779,
+    15.55801,
+    43.6779,
+    15.55801
+],
+  "geometry": {"coordinates":[43.6779,15.55801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344125497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29919,14.00861,44.29919,14.00861",
+    "geom:latitude":14.00861,
+    "geom:longitude":44.29919,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Mashal",
+    "gn:country_code":"YE",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359648,
+    "gn:latitude":14.00861,
+    "gn:longitude":44.29919,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mas\u1e29al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mas\u1e29al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359648
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb8f0dca0de5feb031b8732c459f896e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1344125497,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1344125497,
+    "wof:lastmodified":1537715771,
+    "wof:name":"Mashal",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29919,
+    14.00861,
+    44.29919,
+    14.00861
+],
+  "geometry": {"coordinates":[44.29919,14.00861],"type":"Point"}
+}

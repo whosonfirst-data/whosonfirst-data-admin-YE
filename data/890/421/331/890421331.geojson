@@ -1,0 +1,73 @@
+{
+  "id": 890421331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33493,14.29346,45.33493,14.29346",
+    "geom:latitude":14.29346,
+    "geom:longitude":45.33493,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628\u0629 \u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Jirbat Al Khaur"
+    ],
+    "qs:name":"Jirbat al Kha\u1e11r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051931,
+        "gp:id":1958988,
+        "qs:id":751309,
+        "wd:id":"Q20306402"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051388,
+    "wof:geomhash":"15af6ec78a9447c79c9d94f195096ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":890421331,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890421331,
+    "wof:lastmodified":1514503298,
+    "wof:name":"Jirbat al Kha\u1e11r",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33493,
+    14.29346,
+    45.33493,
+    14.29346
+],
+  "geometry": {"coordinates":[45.33493,14.29346],"type":"Point"}
+}

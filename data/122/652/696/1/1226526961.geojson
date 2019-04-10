@@ -1,0 +1,72 @@
+{
+  "id": 1226526961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55447,13.93135,43.55447,13.93135",
+    "geom:latitude":13.93135,
+    "geom:longitude":43.55447,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1819.0",
+    "gn:asciiname":"Qaryat al Mahwa",
+    "gn:country_code":"YE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407622,
+    "gn:latitude":13.93135,
+    "gn:longitude":43.55447,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat al Ma\u1e29w\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Ma\u1e29w\u00e1",
+        "Qaryat al Ma\u1e29w\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407622
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5e0ab4b2330df7a3201c3b48337faadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":1226526961,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226526961,
+    "wof:lastmodified":1537715398,
+    "wof:name":"Qaryat al Mahwa",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55447,
+    13.93135,
+    43.55447,
+    13.93135
+],
+  "geometry": {"coordinates":[43.55447,13.93135],"type":"Point"}
+}

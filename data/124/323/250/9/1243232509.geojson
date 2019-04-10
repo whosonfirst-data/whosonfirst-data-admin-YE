@@ -1,0 +1,74 @@
+{
+  "id": 1243232509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48921,16.02249,43.48921,16.02249",
+    "geom:latitude":16.02249,
+    "geom:longitude":43.48921,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Qilai't",
+    "gn:country_code":"YE",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681807,
+    "gn:latitude":16.02249,
+    "gn:longitude":43.48921,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qil\u0101i\u2019\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qil\u0101i\u2019\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0644\u0627\u0626\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681807
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"afda909d7db8eef32e833a6cf66fefcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1243232509,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243232509,
+    "wof:lastmodified":1537715982,
+    "wof:name":"Al Qilai't",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48921,
+    16.02249,
+    43.48921,
+    16.02249
+],
+  "geometry": {"coordinates":[43.48921,16.02249],"type":"Point"}
+}

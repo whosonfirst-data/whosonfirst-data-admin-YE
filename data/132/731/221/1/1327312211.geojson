@@ -1,0 +1,71 @@
+{
+  "id": 1327312211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38752,15.48369,43.38752,15.48369",
+    "geom:latitude":15.48369,
+    "geom:longitude":43.38752,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Ghazal",
+    "gn:country_code":"YE",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365246,
+    "gn:latitude":15.48369,
+    "gn:longitude":43.38752,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ghaz\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghaz\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365246
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b25e4710131ccfc59989ae45c7da7d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1327312211,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327312211,
+    "wof:lastmodified":1537715923,
+    "wof:name":"Ghazal",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38752,
+    15.48369,
+    43.38752,
+    15.48369
+],
+  "geometry": {"coordinates":[43.38752,15.48369],"type":"Point"}
+}

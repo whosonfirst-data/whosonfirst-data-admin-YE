@@ -1,0 +1,77 @@
+{
+  "id": 1260344625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45898,14.22176,44.45898,14.22176",
+    "geom:latitude":14.22176,
+    "geom:longitude":44.45898,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Al Man",
+    "gn:country_code":"YE",
+    "gn:dem":2629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359489,
+    "gn:latitude":14.22176,
+    "gn:longitude":44.45898,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al M\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Alm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359489
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79a076d6a46b6c14a6ddbd05c274f22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1260344625,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260344625,
+    "wof:lastmodified":1537715764,
+    "wof:name":"Al Man",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45898,
+    14.22176,
+    44.45898,
+    14.22176
+],
+  "geometry": {"coordinates":[44.45898,14.22176],"type":"Point"}
+}

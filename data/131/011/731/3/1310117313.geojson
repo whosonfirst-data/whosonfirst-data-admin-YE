@@ -1,0 +1,80 @@
+{
+  "id": 1310117313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.98625,16.62389,52.98625,16.62389",
+    "geom:latitude":16.62389,
+    "geom:longitude":52.98625,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2803.0",
+    "gn:asciiname":"Jadhib",
+    "gn:country_code":"YE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74336,
+    "gn:latitude":16.62389,
+    "gn:longitude":52.98625,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"J\u0101dhib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u0101dib"
+    ],
+    "name:ara_x_variant":[
+        "J\u0101dhib",
+        "\u062c\u0627\u0630\u0628"
+    ],
+    "name:und_x_variant":[
+        "Jodab",
+        "Jud\u0101b",
+        "J\u0101dhib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091920947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74336
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"076a979305348f207e1127cb47ebda77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920947,
+            "locality_id":1310117313,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1310117313,
+    "wof:lastmodified":1537715152,
+    "wof:name":"Jadhib",
+    "wof:parent_id":1091920947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.98625,
+    16.62389,
+    52.98625,
+    16.62389
+],
+  "geometry": {"coordinates":[52.98625,16.62389],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259451653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4998,14.05639,44.4998,14.05639",
+    "geom:latitude":14.05639,
+    "geom:longitude":44.4998,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Bayt as Sarim",
+    "gn:country_code":"YE",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340076,
+    "gn:latitude":14.05639,
+    "gn:longitude":44.4998,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt a\u015f \u015e\u0101rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0635\u0627\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt a\u015f \u015e\u0101rim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340076
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ffd22725231db93e04dd84ba10fdc02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1259451653,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259451653,
+    "wof:lastmodified":1537715438,
+    "wof:name":"Bayt as Sarim",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4998,
+    14.05639,
+    44.4998,
+    14.05639
+],
+  "geometry": {"coordinates":[44.4998,14.05639],"type":"Point"}
+}

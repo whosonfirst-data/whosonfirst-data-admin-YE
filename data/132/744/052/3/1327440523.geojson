@@ -1,0 +1,71 @@
+{
+  "id": 1327440523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33333,13.65,45.33333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":45.33333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1207.0",
+    "gn:asciiname":"Al Majza`",
+    "gn:country_code":"YE",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78970,
+    "gn:latitude":13.65,
+    "gn:longitude":45.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Majza\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Majza\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78970
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f43760abd2f74a03f8315df8706c731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918653,
+            "locality_id":1327440523,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1327440523,
+    "wof:lastmodified":1537715281,
+    "wof:name":"Al Majza`",
+    "wof:parent_id":1091918653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33333,
+    13.65,
+    45.33333,
+    13.65
+],
+  "geometry": {"coordinates":[45.33333,13.65],"type":"Point"}
+}

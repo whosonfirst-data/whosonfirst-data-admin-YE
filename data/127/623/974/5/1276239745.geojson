@@ -1,0 +1,75 @@
+{
+  "id": 1276239745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24556,15.21056,51.24556,15.21056",
+    "geom:latitude":15.21056,
+    "geom:longitude":51.24556,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2807.0",
+    "gn:asciiname":"Sayhut",
+    "gn:country_code":"YE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":71005,
+    "gn:latitude":15.21056,
+    "gn:longitude":51.24556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Say\u1e29\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Saihut",
+        "Say\u1e29\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091921053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71005
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"976f553c497d0ce8f5fdc1ce65599b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921053,
+            "locality_id":1276239745,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1276239745,
+    "wof:lastmodified":1537715088,
+    "wof:name":"Sayhut",
+    "wof:parent_id":1091921053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24556,
+    15.21056,
+    51.24556,
+    15.21056
+],
+  "geometry": {"coordinates":[51.24556,15.21056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326887823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43791,13.31273,44.43791,13.31273",
+    "geom:latitude":13.31273,
+    "geom:longitude":44.43791,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Dar al Lushaybah",
+    "gn:country_code":"YE",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355021,
+    "gn:latitude":13.31273,
+    "gn:longitude":44.43791,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r al Lushaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Lushaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355021
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b4a389a1a8ffd4e61b905c6e78fcb232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1326887823,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1326887823,
+    "wof:lastmodified":1537715627,
+    "wof:name":"Dar al Lushaybah",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43791,
+    13.31273,
+    44.43791,
+    13.31273
+],
+  "geometry": {"coordinates":[44.43791,13.31273],"type":"Point"}
+}

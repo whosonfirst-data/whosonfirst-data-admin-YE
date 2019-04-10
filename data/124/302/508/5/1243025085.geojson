@@ -1,0 +1,71 @@
+{
+  "id": 1243025085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87823,13.52679,43.87823,13.52679",
+    "geom:latitude":13.52679,
+    "geom:longitude":43.87823,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Mihal Humayd",
+    "gn:country_code":"YE",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356232,
+    "gn:latitude":13.52679,
+    "gn:longitude":43.87823,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mih\u0101l \u1e28umayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mih\u0101l \u1e28umayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356232
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"853bac323b5e5517de196215e9498024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1243025085,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243025085,
+    "wof:lastmodified":1537715668,
+    "wof:name":"Mihal Humayd",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87823,
+    13.52679,
+    43.87823,
+    13.52679
+],
+  "geometry": {"coordinates":[43.87823,13.52679],"type":"Point"}
+}

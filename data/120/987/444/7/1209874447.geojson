@@ -1,0 +1,71 @@
+{
+  "id": 1209874447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18582,16.13334,43.18582,16.13334",
+    "geom:latitude":16.13334,
+    "geom:longitude":43.18582,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Al Musbar",
+    "gn:country_code":"YE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366819,
+    "gn:latitude":16.13334,
+    "gn:longitude":43.18582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mu\u015fb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mu\u015fb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366819
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ef14c440a41047646205e2d59f53db46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1209874447,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209874447,
+    "wof:lastmodified":1537715964,
+    "wof:name":"Al Musbar",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18582,
+    16.13334,
+    43.18582,
+    16.13334
+],
+  "geometry": {"coordinates":[43.18582,16.13334],"type":"Point"}
+}

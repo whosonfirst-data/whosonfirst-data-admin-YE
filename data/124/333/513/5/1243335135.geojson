@@ -1,0 +1,68 @@
+{
+  "id": 1243335135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99604,15.0595,43.99604,15.0595",
+    "geom:latitude":15.0595,
+    "geom:longitude":43.99604,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Shutrah",
+    "gn:country_code":"YE",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342041,
+    "gn:latitude":15.0595,
+    "gn:longitude":43.99604,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shutrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342041
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"47bbcea183a1174c7a3b95f6a4a44349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1243335135,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243335135,
+    "wof:lastmodified":1536965927,
+    "wof:name":"Shutrah",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99604,
+    15.0595,
+    43.99604,
+    15.0595
+],
+  "geometry": {"coordinates":[43.99604,15.0595],"type":"Point"}
+}

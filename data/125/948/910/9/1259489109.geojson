@@ -1,0 +1,73 @@
+{
+  "id": 1259489109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8525,14.67833,48.8525,14.67833",
+    "geom:latitude":14.67833,
+    "geom:longitude":48.8525,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"Asfal al `Ayn",
+    "gn:country_code":"YE",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78016,
+    "gn:latitude":14.67833,
+    "gn:longitude":48.8525,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Asfal al \u2018Ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asfal al-\u2018Ain",
+        "Asfal al \u2018Ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78016,
+        "wk:page":"Asfal_al-%60Ayn"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0ddc2fe3b42b5f5a48bd11598d671ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1259489109,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259489109,
+    "wof:lastmodified":1537715244,
+    "wof:name":"Asfal al `Ayn",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8525,
+    14.67833,
+    48.8525,
+    14.67833
+],
+  "geometry": {"coordinates":[48.8525,14.67833],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259852865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16271,15.08442,45.16271,15.08442",
+    "geom:latitude":15.08442,
+    "geom:longitude":45.16271,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"'Awsijah",
+    "gn:country_code":"YE",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976417,
+    "gn:latitude":15.08442,
+    "gn:longitude":45.16271,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Awsijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0633\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Awsijah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976417
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5751b1511ded3e0a30fc40e1e2dae9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1259852865,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1259852865,
+    "wof:lastmodified":1537716156,
+    "wof:name":"'Awsijah",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16271,
+    15.08442,
+    45.16271,
+    15.08442
+],
+  "geometry": {"coordinates":[45.16271,15.08442],"type":"Point"}
+}

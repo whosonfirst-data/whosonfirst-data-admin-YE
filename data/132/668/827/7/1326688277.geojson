@@ -1,0 +1,71 @@
+{
+  "id": 1326688277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01558,16.43011,43.01558,16.43011",
+    "geom:latitude":16.43011,
+    "geom:longitude":43.01558,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Ad Dabratayn",
+    "gn:country_code":"YE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411034,
+    "gn:latitude":16.43011,
+    "gn:longitude":43.01558,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10abratayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10abratayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411034
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"94041dd2ba1d06ceacd2d624585e7029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1326688277,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326688277,
+    "wof:lastmodified":1537715430,
+    "wof:name":"Ad Dabratayn",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01558,
+    16.43011,
+    43.01558,
+    16.43011
+],
+  "geometry": {"coordinates":[43.01558,16.43011],"type":"Point"}
+}

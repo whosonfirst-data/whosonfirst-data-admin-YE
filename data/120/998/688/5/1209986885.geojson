@@ -1,0 +1,77 @@
+{
+  "id": 1209986885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07105,14.71227,45.07105,14.71227",
+    "geom:latitude":14.71227,
+    "geom:longitude":45.07105,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Adh Dhira'",
+    "gn:country_code":"YE",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053501,
+    "gn:latitude":14.71227,
+    "gn:longitude":45.07105,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adh Dhir\u0101\u2018",
+    "gn:population":6,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Adh Dhir\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0630\u0631\u0627\u0639"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053501
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6c484a5b0329949c6f0709e72aefa59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1209986885,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1209986885,
+    "wof:lastmodified":1537716012,
+    "wof:name":"Adh Dhira'",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07105,
+    14.71227,
+    45.07105,
+    14.71227
+],
+  "geometry": {"coordinates":[45.07105,14.71227],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260153323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65037,16.9019,43.65037,16.9019",
+    "geom:latitude":16.9019,
+    "geom:longitude":43.65037,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Gharabah",
+    "gn:country_code":"YE",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363638,
+    "gn:latitude":16.9019,
+    "gn:longitude":43.65037,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Gharabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363638
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43f8b98a40e376c298d9ce1107da7ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1260153323,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260153323,
+    "wof:lastmodified":1536888937,
+    "wof:name":"Al Gharabah",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65037,
+    16.9019,
+    43.65037,
+    16.9019
+],
+  "geometry": {"coordinates":[43.65037,16.9019],"type":"Point"}
+}

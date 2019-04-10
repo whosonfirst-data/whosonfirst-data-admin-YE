@@ -1,0 +1,75 @@
+{
+  "id": 890428551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52142,12.68675,43.52142,12.68675",
+    "geom:latitude":12.68675,
+    "geom:longitude":43.52142,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":29,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "As Suwaydi"
+    ],
+    "qs:name":"As Suwayd\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076454,
+        "gp:id":1959013,
+        "qs:id":754552,
+        "wd:id":"Q20303611",
+        "wk:page":"As-Suwaidi"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051757,
+    "wof:geomhash":"ff54f0dc913c01994ac3b9b66f790fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":890428551,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890428551,
+    "wof:lastmodified":1527782114,
+    "wof:name":"As Suwayd\u012b",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52142,
+    12.68675,
+    43.52142,
+    12.68675
+],
+  "geometry": {"coordinates":[43.52142,12.68675],"type":"Point"}
+}

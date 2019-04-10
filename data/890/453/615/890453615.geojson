@@ -1,0 +1,77 @@
+{
+  "id": 890453615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77197,16.91326,43.77197,16.91326",
+    "geom:latitude":16.91326,
+    "geom:longitude":43.77197,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qat'ah"
+    ],
+    "qs:name":"Al Qa\u0163\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053184,
+        "gp:id":1958152,
+        "qs:id":697544,
+        "qs_pg:id":751615,
+        "wd:id":"Q20304661"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052861,
+    "wof:geomhash":"6ff0e010e4a30a5ff8ec3239dc374e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":890453615,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890453615,
+    "wof:lastmodified":1514503198,
+    "wof:name":"Al Qa\u0163\u2018ah",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77197,
+    16.91326,
+    43.77197,
+    16.91326
+],
+  "geometry": {"coordinates":[43.77197,16.91326],"type":"Point"}
+}

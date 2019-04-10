@@ -1,0 +1,75 @@
+{
+  "id": 1310470179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18225,13.18104,44.18225,13.18104",
+    "geom:latitude":13.18104,
+    "geom:longitude":44.18225,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Hujjaj",
+    "gn:country_code":"YE",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871813,
+    "gn:latitude":13.18104,
+    "gn:longitude":44.18225,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ujj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ujj\u0101j",
+        "Al \u1e28ajj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871813
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8119220249723d8f1a88e01dcb091950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1310470179,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310470179,
+    "wof:lastmodified":1537716264,
+    "wof:name":"Al Hujjaj",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18225,
+    13.18104,
+    44.18225,
+    13.18104
+],
+  "geometry": {"coordinates":[44.18225,13.18104],"type":"Point"}
+}

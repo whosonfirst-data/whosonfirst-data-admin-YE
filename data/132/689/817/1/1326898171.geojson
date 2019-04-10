@@ -1,0 +1,74 @@
+{
+  "id": 1326898171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7701,13.15297,43.7701,13.15297",
+    "geom:latitude":13.15297,
+    "geom:longitude":43.7701,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Ash Shalabiyah",
+    "gn:country_code":"YE",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354533,
+    "gn:latitude":13.15297,
+    "gn:longitude":43.7701,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Ash Shalab\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0644\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shalab\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354533
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79116be6ccf8423789ac9b4aacdeca7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1326898171,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326898171,
+    "wof:lastmodified":1537715613,
+    "wof:name":"Ash Shalabiyah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7701,
+    13.15297,
+    43.7701,
+    13.15297
+],
+  "geometry": {"coordinates":[43.7701,13.15297],"type":"Point"}
+}

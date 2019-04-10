@@ -1,0 +1,71 @@
+{
+  "id": 1259751935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47165,15.90357,43.47165,15.90357",
+    "geom:latitude":15.90357,
+    "geom:longitude":43.47165,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1715.0",
+    "gn:asciiname":"Al Mirkham",
+    "gn:country_code":"YE",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366134,
+    "gn:latitude":15.90357,
+    "gn:longitude":43.47165,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mirkh\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mirkh\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366134
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"df1834532f089e88676b7bb73ae5e47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":1259751935,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259751935,
+    "wof:lastmodified":1537715947,
+    "wof:name":"Al Mirkham",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47165,
+    15.90357,
+    43.47165,
+    15.90357
+],
+  "geometry": {"coordinates":[43.47165,15.90357],"type":"Point"}
+}

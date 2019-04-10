@@ -1,0 +1,78 @@
+{
+  "id": 1343914415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29048,16.5544,44.29048,16.5544",
+    "geom:latitude":16.5544,
+    "geom:longitude":44.29048,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Al Khirab",
+    "gn:country_code":"YE",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":406845,
+    "gn:latitude":16.5544,
+    "gn:longitude":44.29048,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khir\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0627\u0644\u0645\u0631\u0627\u0634\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Al Khir\u0101b",
+        "\u0627\u0644\u062e\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b al Mar\u0101sh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406845
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"785dc4e947e3ae5137ba51d1631ac996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1343914415,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1343914415,
+    "wof:lastmodified":1537715385,
+    "wof:name":"Al Khirab",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29048,
+    16.5544,
+    44.29048,
+    16.5544
+],
+  "geometry": {"coordinates":[44.29048,16.5544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293365433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91898,16.49682,43.91898,16.49682",
+    "geom:latitude":16.49682,
+    "geom:longitude":43.91898,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Ruhdat Dhu Hasan",
+    "gn:country_code":"YE",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406910,
+    "gn:latitude":16.49682,
+    "gn:longitude":43.91898,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ru\u1e29\u1e11at Dh\u016b \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ru\u1e29\u1e11at Dh\u016b \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406910
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"24b43cf9335b536cc3d2747c47c28d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1293365433,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293365433,
+    "wof:lastmodified":1537715386,
+    "wof:name":"Ruhdat Dhu Hasan",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91898,
+    16.49682,
+    43.91898,
+    16.49682
+],
+  "geometry": {"coordinates":[43.91898,16.49682],"type":"Point"}
+}

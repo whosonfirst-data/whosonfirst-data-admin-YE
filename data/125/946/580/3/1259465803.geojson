@@ -1,0 +1,77 @@
+{
+  "id": 1259465803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54669,16.84881,43.54669,16.84881",
+    "geom:latitude":16.84881,
+    "geom:longitude":43.54669,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Al Mahwal",
+    "gn:country_code":"YE",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363653,
+    "gn:latitude":16.84881,
+    "gn:longitude":43.54669,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e29wal",
+    "gn:population":3,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29wal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363653
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68d1129901445edebd1196475241e02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1259465803,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259465803,
+    "wof:lastmodified":1537715878,
+    "wof:name":"Al Mahwal",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54669000000001,
+    16.84881,
+    43.54669000000001,
+    16.84881
+],
+  "geometry": {"coordinates":[43.54669000000001,16.84881],"type":"Point"}
+}

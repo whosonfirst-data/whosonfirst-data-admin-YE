@@ -1,0 +1,73 @@
+{
+  "id": 1343666557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39858,14.38371,47.39858,14.38371",
+    "geom:latitude":14.38371,
+    "geom:longitude":47.39858,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2116.0",
+    "gn:asciiname":"Al Hawtah",
+    "gn:country_code":"YE",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79481,
+    "gn:latitude":14.38371,
+    "gn:longitude":47.39858,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Al \u1e28aw\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hauta",
+        "Al-Hautah",
+        "Al \u1e28aw\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79481
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c00bd017dbff7e1d80c52dfd9b6997de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926137,
+            "locality_id":1343666557,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343666557,
+    "wof:lastmodified":1537715304,
+    "wof:name":"Al Hawtah",
+    "wof:parent_id":1091926137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39858,
+    14.38371,
+    47.39858,
+    14.38371
+],
+  "geometry": {"coordinates":[47.39858,14.38371],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310676103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83477,15.73591,43.83477,15.73591",
+    "geom:latitude":15.73591,
+    "geom:longitude":43.83477,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2912.0",
+    "gn:asciiname":"Az Zamari",
+    "gn:country_code":"YE",
+    "gn:dem":2626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344704,
+    "gn:latitude":15.73591,
+    "gn:longitude":43.83477,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Az\u0327 Z\u0327amar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327amar\u012b",
+        "A\u0163 \u0163amar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344704
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"afd553eb08459dcba2ac0e0306ffde80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921965,
+            "locality_id":1310676103,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310676103,
+    "wof:lastmodified":1537715547,
+    "wof:name":"Az Zamari",
+    "wof:parent_id":1091921965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83477,
+    15.73591,
+    43.83477,
+    15.73591
+],
+  "geometry": {"coordinates":[43.83477,15.73591],"type":"Point"}
+}

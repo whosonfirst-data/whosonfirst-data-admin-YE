@@ -1,0 +1,73 @@
+{
+  "id": 890426503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38519,16.88552,43.38519,16.88552",
+    "geom:latitude":16.88552,
+    "geom:longitude":43.38519,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062f\u0639\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Da'Ur"
+    ],
+    "qs:name":"\u0100l Da\u2018\u016br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927062,
+        "gp:id":1958992,
+        "qs:id":745399,
+        "wd:id":"Q20305100"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051635,
+    "wof:geomhash":"863de340dfec97cf3e531421a9b5eecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":890426503,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426503,
+    "wof:lastmodified":1514503387,
+    "wof:name":"\u0100l Da\u2018\u016br",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38519,
+    16.88552,
+    43.38519,
+    16.88552
+],
+  "geometry": {"coordinates":[43.38519,16.88552],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890452273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36137,16.7947,43.36137,16.7947",
+    "geom:latitude":16.7947,
+    "geom:longitude":43.36137,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0647\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Wahidah"
+    ],
+    "qs:name":"Al Wahidah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926857,
+        "gp:id":1959134,
+        "qs:id":745196,
+        "wd:id":"Q20299908"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052811,
+    "wof:geomhash":"42f502f1089b71506cab98758708bfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890452273,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890452273,
+    "wof:lastmodified":1514503201,
+    "wof:name":"Al Wahidah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36137,
+    16.7947,
+    43.36137,
+    16.7947
+],
+  "geometry": {"coordinates":[43.36137,16.7947],"type":"Point"}
+}

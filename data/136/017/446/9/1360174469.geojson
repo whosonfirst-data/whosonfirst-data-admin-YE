@@ -1,0 +1,71 @@
+{
+  "id": 1360174469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18376,15.66707,43.18376,15.66707",
+    "geom:latitude":15.66707,
+    "geom:longitude":43.18376,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Mahall al Marariyah",
+    "gn:country_code":"YE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366364,
+    "gn:latitude":15.66707,
+    "gn:longitude":43.18376,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al Mar\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Mar\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366364
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"538d3e2612f4fad5795d154b02b14dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1360174469,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360174469,
+    "wof:lastmodified":1537715953,
+    "wof:name":"Mahall al Marariyah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18376,
+    15.66707,
+    43.18376,
+    15.66707
+],
+  "geometry": {"coordinates":[43.18376,15.66707],"type":"Point"}
+}

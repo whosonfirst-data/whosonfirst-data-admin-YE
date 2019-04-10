@@ -1,0 +1,71 @@
+{
+  "id": 1360140677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40907,14.10236,44.40907,14.10236",
+    "geom:latitude":14.10236,
+    "geom:longitude":44.40907,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Khuwal",
+    "gn:country_code":"YE",
+    "gn:dem":2789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359630,
+    "gn:latitude":14.10236,
+    "gn:longitude":44.40907,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khuw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Khuw\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359630
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a7fb1a9a2df5efa029d5e14b5a8733d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1360140677,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1360140677,
+    "wof:lastmodified":1537715770,
+    "wof:name":"Khuwal",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40907,
+    14.10236,
+    44.40907,
+    14.10236
+],
+  "geometry": {"coordinates":[44.40907,14.10236],"type":"Point"}
+}

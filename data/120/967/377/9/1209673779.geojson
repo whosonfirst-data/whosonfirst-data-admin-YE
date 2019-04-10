@@ -1,0 +1,65 @@
+{
+  "id": 1209673779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6386,15.82912,43.6386,15.82912",
+    "geom:latitude":15.82912,
+    "geom:longitude":43.6386,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1717.0",
+    "gn:asciiname":"Al Mahallah",
+    "gn:country_code":"YE",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343717,
+    "gn:latitude":15.82912,
+    "gn:longitude":43.6386,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e29allah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343717
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c50f930f91096557ea4c989c0f7abc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209673779
+        }
+    ],
+    "wof:id":1209673779,
+    "wof:lastmodified":1537715515,
+    "wof:name":"Al Mahallah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6386,
+    15.82912,
+    43.6386,
+    15.82912
+],
+  "geometry": {"coordinates":[43.6386,15.82912],"type":"Point"}
+}

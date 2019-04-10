@@ -1,0 +1,76 @@
+{
+  "id": 1243609073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11642,13.74174,44.11642,13.74174",
+    "geom:latitude":13.74174,
+    "geom:longitude":44.11642,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Dhanabatayn",
+    "gn:country_code":"YE",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76557,
+    "gn:latitude":13.74174,
+    "gn:longitude":44.11642,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhanabatayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Danapteno",
+        "Ed Danapteno",
+        "Danabatain",
+        "Danayt\u012bn",
+        "Dhanabatayn",
+        "Danabatayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76557
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e961d9a434706fa0f17527071504ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1243609073,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243609073,
+    "wof:lastmodified":1537715205,
+    "wof:name":"Dhanabatayn",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11642,
+    13.74174,
+    44.11642,
+    13.74174
+],
+  "geometry": {"coordinates":[44.11642,13.74174],"type":"Point"}
+}

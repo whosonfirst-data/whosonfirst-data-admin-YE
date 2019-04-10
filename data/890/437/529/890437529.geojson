@@ -1,0 +1,76 @@
+{
+  "id": 890437529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36976,16.68262,43.36976,16.68262",
+    "geom:latitude":16.68262,
+    "geom:longitude":43.36976,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0632\u0628"
+    ],
+    "name:unk_x_variant":[
+        "Al Ma\u2018zab"
+    ],
+    "qs:name":"Al Mi\u2018zab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855104,
+        "gp:id":1959134,
+        "qs:id":742131,
+        "qs_pg:id":742028
+    },
+    "wof:country":"YE",
+    "wof:created":1469052155,
+    "wof:geomhash":"c2a010c14754ad0922011a0a03ab98c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890437529,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890437529,
+    "wof:lastmodified":1505343560,
+    "wof:name":"Al Mi\u2018zab",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36976,
+    16.68262,
+    43.36976,
+    16.68262
+],
+  "geometry": {"coordinates":[43.36976,16.68262],"type":"Point"}
+}

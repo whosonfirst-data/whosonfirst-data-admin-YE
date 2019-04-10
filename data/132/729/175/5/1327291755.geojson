@@ -1,0 +1,68 @@
+{
+  "id": 1327291755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28333,13.93333,44.28333,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":44.28333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Sizouat",
+    "gn:country_code":"YE",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70489,
+    "gn:latitude":13.93333,
+    "gn:longitude":44.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sizouat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70489
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98ffb3dd2cd9ce4788d9504ab4ebd749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1327291755,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1327291755,
+    "wof:lastmodified":1536883450,
+    "wof:name":"Sizouat",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28333,
+    13.93333,
+    44.28333,
+    13.93333
+],
+  "geometry": {"coordinates":[44.28333,13.93333],"type":"Point"}
+}

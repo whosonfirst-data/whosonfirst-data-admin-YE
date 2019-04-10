@@ -1,0 +1,68 @@
+{
+  "id": 1293548399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59383,13.93767,45.59383,13.93767",
+    "geom:latitude":13.93767,
+    "geom:longitude":45.59383,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Ar Raysh",
+    "gn:country_code":"YE",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78122,
+    "gn:latitude":13.93767,
+    "gn:longitude":45.59383,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Raysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78122
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"757650162bb5632cb068f624b70965e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":1293548399,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293548399,
+    "wof:lastmodified":1536699729,
+    "wof:name":"Ar Raysh",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59383,
+    13.93767,
+    45.59383,
+    13.93767
+],
+  "geometry": {"coordinates":[45.59383,13.93767],"type":"Point"}
+}

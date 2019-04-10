@@ -1,0 +1,75 @@
+{
+  "id": 1293352309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84974,16.28106,43.84974,16.28106",
+    "geom:latitude":16.28106,
+    "geom:longitude":43.84974,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Az Zahwaf",
+    "gn:country_code":"YE",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361783,
+    "gn:latitude":16.28106,
+    "gn:longitude":43.84974,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Az Za\u1e29waf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u062d\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Az Za\u1e29w\u0101f",
+        "Az Za\u1e29waf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361783
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93b5a842cf982eba122b612dc21b853a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1293352309,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293352309,
+    "wof:lastmodified":1537715825,
+    "wof:name":"Az Zahwaf",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84974,
+    16.28106,
+    43.84974,
+    16.28106
+],
+  "geometry": {"coordinates":[43.84974,16.28106],"type":"Point"}
+}

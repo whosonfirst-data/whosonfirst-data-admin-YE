@@ -1,0 +1,69 @@
+{
+  "id": 890448265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48473,16.75123,44.48473,16.75123",
+    "geom:latitude":16.75123,
+    "geom:longitude":44.48473,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0646"
+    ],
+    "qs:name":"Al \u2018Urayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795041,
+        "gp:id":1959135,
+        "qs:id":700809
+    },
+    "wof:country":"YE",
+    "wof:created":1469052625,
+    "wof:geomhash":"28cd3bb5e41a836ab1260d247bb58c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890448265,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890448265,
+    "wof:lastmodified":1505343622,
+    "wof:name":"Al \u2018Urayn",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48473,
+    16.75123,
+    44.48473,
+    16.75123
+],
+  "geometry": {"coordinates":[44.48473,16.75123],"type":"Point"}
+}

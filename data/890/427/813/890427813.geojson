@@ -1,0 +1,71 @@
+{
+  "id": 890427813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29074,16.55481,44.29074,16.55481",
+    "geom:latitude":16.55481,
+    "geom:longitude":44.29074,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0645\u062d\u0631\u0645"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28\u0101rat al Ma\u1e29ram"
+    ],
+    "qs:name":"\u1e28\u0101rat al Mu\u1e29arram",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85681007,
+        85632499,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795131,
+        "qs:id":700897
+    },
+    "wof:country":"YE",
+    "wof:created":1469051719,
+    "wof:geomhash":"12a557a6dd2e9ff8149dfed8b7647f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "neighbourhood_id":890427813,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427813,
+    "wof:lastmodified":1505343501,
+    "wof:name":"\u1e28\u0101rat al Mu\u1e29arram",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29074,
+    16.55481,
+    44.29074,
+    16.55481
+],
+  "geometry": {"coordinates":[44.29074,16.55481],"type":"Point"}
+}

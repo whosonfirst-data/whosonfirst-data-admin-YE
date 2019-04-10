@@ -1,0 +1,72 @@
+{
+  "id": 1310694171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79779,13.93191,47.79779,13.93191",
+    "geom:latitude":13.93191,
+    "geom:longitude":47.79779,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2117.0",
+    "gn:asciiname":"Al Haybalah",
+    "gn:country_code":"YE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79475,
+    "gn:latitude":13.93191,
+    "gn:longitude":47.79779,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al \u1e28aybalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Haibala",
+        "Al \u1e28aybalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79475
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed156ff30e0ce831d6229426ffc0a444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926205,
+            "locality_id":1310694171,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310694171,
+    "wof:lastmodified":1537715303,
+    "wof:name":"Al Haybalah",
+    "wof:parent_id":1091926205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79779,
+    13.93191,
+    47.79779,
+    13.93191
+],
+  "geometry": {"coordinates":[47.79779,13.93191],"type":"Point"}
+}

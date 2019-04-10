@@ -1,0 +1,71 @@
+{
+  "id": 1360149667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03178,15.85013,44.03178,15.85013",
+    "geom:latitude":15.85013,
+    "geom:longitude":44.03178,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Madrak",
+    "gn:country_code":"YE",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975357,
+    "gn:latitude":15.85013,
+    "gn:longitude":44.03178,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u0631\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975357
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ba7a552498b60cf58649a66587851f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922091,
+            "locality_id":1360149667,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360149667,
+    "wof:lastmodified":1537716123,
+    "wof:name":"Madrak",
+    "wof:parent_id":1091922091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03178,
+    15.85013,
+    44.03178,
+    15.85013
+],
+  "geometry": {"coordinates":[44.03178,15.85013],"type":"Point"}
+}

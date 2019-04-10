@@ -1,0 +1,68 @@
+{
+  "id": 1276845455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74398,15.89557,43.74398,15.89557",
+    "geom:latitude":15.89557,
+    "geom:longitude":43.74398,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"As Suwad",
+    "gn:country_code":"YE",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343816,
+    "gn:latitude":15.89557,
+    "gn:longitude":43.74398,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Suwad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343816
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c20dc6b2216bf9cddf16930c0c6b5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1276845455,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276845455,
+    "wof:lastmodified":1537084090,
+    "wof:name":"As Suwad",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74398,
+    15.89557,
+    43.74398,
+    15.89557
+],
+  "geometry": {"coordinates":[43.74398,15.89557],"type":"Point"}
+}

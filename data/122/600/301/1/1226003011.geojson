@@ -1,0 +1,76 @@
+{
+  "id": 1226003011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05883,16.40965,43.05883,16.40965",
+    "geom:latitude":16.40965,
+    "geom:longitude":43.05883,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Harad",
+    "gn:country_code":"YE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":75163,
+    "gn:latitude":16.40965,
+    "gn:longitude":43.05883,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ara\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0636"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ar\u1e11 W\u0101d\u012b Sulaym\u0101n",
+        "Haradh",
+        "\u1e28ara\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75163
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"543fb8e77badde6e73ac2ddf8c267f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1226003011,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226003011,
+    "wof:lastmodified":1537715172,
+    "wof:name":"Harad",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05883,
+    16.40965,
+    43.05883,
+    16.40965
+],
+  "geometry": {"coordinates":[43.05883,16.40965],"type":"Point"}
+}

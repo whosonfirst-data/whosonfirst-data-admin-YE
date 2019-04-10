@@ -1,0 +1,74 @@
+{
+  "id": 1344118665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08219,16.41498,44.08219,16.41498",
+    "geom:latitude":16.41498,
+    "geom:longitude":44.08219,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Bilad Bani Sharib",
+    "gn:country_code":"YE",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973567,
+    "gn:latitude":16.41498,
+    "gn:longitude":44.08219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bil\u0101d Ban\u012b Sh\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u062f \u0628\u0646\u064a \u0634\u0627\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Bil\u0101d Ban\u012b Sh\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973567
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7a80fd33b9438f1d7ff21e9ed49c7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1344118665,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344118665,
+    "wof:lastmodified":1537716102,
+    "wof:name":"Bilad Bani Sharib",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08219,
+    16.41498,
+    44.08219,
+    16.41498
+],
+  "geometry": {"coordinates":[44.08219,16.41498],"type":"Point"}
+}

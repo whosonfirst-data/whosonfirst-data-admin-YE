@@ -1,0 +1,75 @@
+{
+  "id": 1226745623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13333,14.56667,47.13333,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":47.13333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Ad Dijan",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80341,
+    "gn:latitude":14.56667,
+    "gn:longitude":47.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u1e11 \u1e10\u012bj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e11 \u1e10\u012bj\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Al-D\u012bj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80341
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17c686a9cec450e39919734c83a0b716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1226745623,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1226745623,
+    "wof:lastmodified":1537715332,
+    "wof:name":"Ad Dijan",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13333,
+    14.56667,
+    47.13333,
+    14.56667
+],
+  "geometry": {"coordinates":[47.13333,14.56667],"type":"Point"}
+}

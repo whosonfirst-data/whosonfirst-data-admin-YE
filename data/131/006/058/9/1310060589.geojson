@@ -1,0 +1,77 @@
+{
+  "id": 1310060589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79948,13.71434,43.79948,13.71434",
+    "geom:latitude":13.71434,
+    "geom:longitude":43.79948,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"At Tiwal",
+    "gn:country_code":"YE",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407776,
+    "gn:latitude":13.71434,
+    "gn:longitude":43.79948,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162iw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162iw\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162iw\u0101l al Mi\u2018sh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407776
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4bf901716a2ae8ede43b7ddf226145a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1310060589,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310060589,
+    "wof:lastmodified":1537715403,
+    "wof:name":"At Tiwal",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79948,
+    13.71434,
+    43.79948,
+    13.71434
+],
+  "geometry": {"coordinates":[43.79948,13.71434],"type":"Point"}
+}

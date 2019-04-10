@@ -1,0 +1,73 @@
+{
+  "id": 890453027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3085,17.07033,43.3085,17.07033",
+    "geom:latitude":17.07033,
+    "geom:longitude":43.3085,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062e\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rakhdah"
+    ],
+    "qs:name":"Ar Rakhdah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865330,
+        "gp:id":1958992,
+        "qs:id":742956,
+        "wd:id":"Q20301544"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052838,
+    "wof:geomhash":"f9c92d27faaf4b02dba65378fb475186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890453027,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890453027,
+    "wof:lastmodified":1514503220,
+    "wof:name":"Ar Rakhdah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3085,
+    17.07033,
+    43.3085,
+    17.07033
+],
+  "geometry": {"coordinates":[43.3085,17.07033],"type":"Point"}
+}

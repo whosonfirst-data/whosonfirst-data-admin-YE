@@ -1,0 +1,71 @@
+{
+  "id": 1277077685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78208,13.84696,45.78208,13.84696",
+    "geom:latitude":13.84696,
+    "geom:longitude":45.78208,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Hisn al Arib",
+    "gn:country_code":"YE",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029430,
+    "gn:latitude":13.84696,
+    "gn:longitude":45.78208,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28i\u015fn al Ar\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn al Ar\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029430
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"18391f38562fbe8485d05f6c48510e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1277077685,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1277077685,
+    "wof:lastmodified":1537716009,
+    "wof:name":"Hisn al Arib",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78208,
+    13.84696,
+    45.78208,
+    13.84696
+],
+  "geometry": {"coordinates":[45.78208,13.84696],"type":"Point"}
+}

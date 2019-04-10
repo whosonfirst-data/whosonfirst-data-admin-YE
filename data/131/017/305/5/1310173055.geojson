@@ -1,0 +1,68 @@
+{
+  "id": 1310173055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78779,13.71943,43.78779,13.71943",
+    "geom:latitude":13.71943,
+    "geom:longitude":43.78779,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"As Suluq",
+    "gn:country_code":"YE",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356202,
+    "gn:latitude":13.71943,
+    "gn:longitude":43.78779,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Suluq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356202
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0fc03fc4fa0018da35d6c7adf23ce8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1310173055,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310173055,
+    "wof:lastmodified":1536899244,
+    "wof:name":"As Suluq",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78779,
+    13.71943,
+    43.78779,
+    13.71943
+],
+  "geometry": {"coordinates":[43.78779,13.71943],"type":"Point"}
+}

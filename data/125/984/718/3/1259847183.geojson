@@ -1,0 +1,74 @@
+{
+  "id": 1259847183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12649,13.22918,44.12649,13.22918",
+    "geom:latitude":13.22918,
+    "geom:longitude":44.12649,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Hajzuz",
+    "gn:country_code":"YE",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871481,
+    "gn:latitude":13.22918,
+    "gn:longitude":44.12649,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ajz\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0632\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ajz\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871481
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"47230fee0bc12c07d8112da643fef2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1259847183,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259847183,
+    "wof:lastmodified":1537716246,
+    "wof:name":"Al Hajzuz",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12649,
+    13.22918,
+    44.12649,
+    13.22918
+],
+  "geometry": {"coordinates":[44.12649,13.22918],"type":"Point"}
+}

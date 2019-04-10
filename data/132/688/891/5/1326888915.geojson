@@ -1,0 +1,74 @@
+{
+  "id": 1326888915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33435,16.77084,44.33435,16.77084",
+    "geom:latitude":16.77084,
+    "geom:longitude":44.33435,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al Kanif",
+    "gn:country_code":"YE",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362785,
+    "gn:latitude":16.77084,
+    "gn:longitude":44.33435,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kan\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0646\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Kan\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362785
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b2fd187b0b516d084723656608471491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1326888915,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1326888915,
+    "wof:lastmodified":1537715854,
+    "wof:name":"Al Kanif",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33435,
+    16.77084,
+    44.33435,
+    16.77084
+],
+  "geometry": {"coordinates":[44.33435,16.77084],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209169177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71637,13.63547,43.71637,13.63547",
+    "geom:latitude":13.63547,
+    "geom:longitude":43.71637,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Barh al `Awamir",
+    "gn:country_code":"YE",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407721,
+    "gn:latitude":13.63547,
+    "gn:longitude":43.71637,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bar\u1e29 al \u2018Aw\u0101mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u1e29 al \u2018Aw\u0101mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407721
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7a1a76b2da1ac89361792f9c2b74d5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209169177
+        }
+    ],
+    "wof:id":1209169177,
+    "wof:lastmodified":1537715401,
+    "wof:name":"Barh al `Awamir",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71637,
+    13.63547,
+    43.71637,
+    13.63547
+],
+  "geometry": {"coordinates":[43.71637,13.63547],"type":"Point"}
+}

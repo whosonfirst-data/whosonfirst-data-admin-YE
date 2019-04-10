@@ -1,0 +1,71 @@
+{
+  "id": 1259955031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8415,15.58816,43.8415,15.58816",
+    "geom:latitude":15.58816,
+    "geom:longitude":43.8415,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2917.0",
+    "gn:asciiname":"Hadur",
+    "gn:country_code":"YE",
+    "gn:dem":3064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300158,
+    "gn:latitude":15.58816,
+    "gn:longitude":43.8415,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28a\u1e11\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28a\u1e11\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300158
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"009675021ed827d31d80ceb22d5a4de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922171,
+            "locality_id":1259955031,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1259955031,
+    "wof:lastmodified":1537716030,
+    "wof:name":"Hadur",
+    "wof:parent_id":1091922171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8415,
+    15.58816,
+    43.8415,
+    15.58816
+],
+  "geometry": {"coordinates":[43.8415,15.58816],"type":"Point"}
+}

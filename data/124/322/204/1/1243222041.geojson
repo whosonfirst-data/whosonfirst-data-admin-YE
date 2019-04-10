@@ -1,0 +1,71 @@
+{
+  "id": 1243222041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7134,15.66708,43.7134,15.66708",
+    "geom:latitude":15.66708,
+    "geom:longitude":43.7134,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1718.0",
+    "gn:asciiname":"Al Qarah",
+    "gn:country_code":"YE",
+    "gn:dem":2047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344080,
+    "gn:latitude":15.66708,
+    "gn:longitude":43.7134,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Q\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Q\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17d1697770f082fa2b32f7a2369000bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":1243222041,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243222041,
+    "wof:lastmodified":1537715527,
+    "wof:name":"Al Qarah",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7134,
+    15.66708,
+    43.7134,
+    15.66708
+],
+  "geometry": {"coordinates":[43.7134,15.66708],"type":"Point"}
+}

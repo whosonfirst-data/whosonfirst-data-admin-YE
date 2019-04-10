@@ -1,0 +1,74 @@
+{
+  "id": 1276198463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32167,16.95245,43.32167,16.95245",
+    "geom:latitude":16.95245,
+    "geom:longitude":43.32167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Himaz",
+    "gn:country_code":"YE",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346340,
+    "gn:latitude":16.95245,
+    "gn:longitude":43.32167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28im\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28im\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0645\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346340
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c56ebece5d578d0498f01c8d8d739fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":1276198463,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276198463,
+    "wof:lastmodified":1537715588,
+    "wof:name":"Himaz",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32167000000001,
+    16.95245,
+    43.32167000000001,
+    16.95245
+],
+  "geometry": {"coordinates":[43.32167000000001,16.95245],"type":"Point"}
+}

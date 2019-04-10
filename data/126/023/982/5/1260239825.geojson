@@ -1,0 +1,71 @@
+{
+  "id": 1260239825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39599,16.03893,43.39599,16.03893",
+    "geom:latitude":16.03893,
+    "geom:longitude":43.39599,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1710.0",
+    "gn:asciiname":"Al Qasib",
+    "gn:country_code":"YE",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363262,
+    "gn:latitude":16.03893,
+    "gn:longitude":43.39599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qa\u015f\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qa\u015f\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363262
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da6c43d7a04f23e2f295f34fb770f044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":1260239825,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260239825,
+    "wof:lastmodified":1537715867,
+    "wof:name":"Al Qasib",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39599000000001,
+    16.03893,
+    43.39599000000001,
+    16.03893
+],
+  "geometry": {"coordinates":[43.39599000000001,16.03893],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260243557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80893,16.2063,43.80893,16.2063",
+    "geom:latitude":16.2063,
+    "geom:longitude":43.80893,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Hazm al Bayhani",
+    "gn:country_code":"YE",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634584,
+    "gn:latitude":16.2063,
+    "gn:longitude":43.80893,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28azm al Bay\u1e29\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0632\u0645 \u0627\u0644\u0628\u064a\u062d\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28azm al Bay\u1e29\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634584
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"193ecea17612b7b5fda9624362cc7451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1260243557,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1260243557,
+    "wof:lastmodified":1537716083,
+    "wof:name":"Hazm al Bayhani",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80893,
+    16.2063,
+    43.80893,
+    16.2063
+],
+  "geometry": {"coordinates":[43.80893,16.2063],"type":"Point"}
+}

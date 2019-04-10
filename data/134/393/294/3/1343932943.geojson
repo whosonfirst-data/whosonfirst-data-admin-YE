@@ -1,0 +1,71 @@
+{
+  "id": 1343932943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97389,15.58712,43.97389,15.58712",
+    "geom:latitude":15.58712,
+    "geom:longitude":43.97389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2918.0",
+    "gn:asciiname":"Al Kurbat",
+    "gn:country_code":"YE",
+    "gn:dem":2467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344242,
+    "gn:latitude":15.58712,
+    "gn:longitude":43.97389,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kurb\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kurb\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344242
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1598a764cecb8484e882e577c99469fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":1343932943,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343932943,
+    "wof:lastmodified":1537715532,
+    "wof:name":"Al Kurbat",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97389,
+    15.58712,
+    43.97389,
+    15.58712
+],
+  "geometry": {"coordinates":[43.97389,15.58712],"type":"Point"}
+}

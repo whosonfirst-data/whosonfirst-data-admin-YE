@@ -1,0 +1,74 @@
+{
+  "id": 1193093389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36407,16.22235,43.36407,16.22235",
+    "geom:latitude":16.22235,
+    "geom:longitude":43.36407,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"At Tawilah",
+    "gn:country_code":"YE",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363284,
+    "gn:latitude":16.22235,
+    "gn:longitude":43.36407,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u0163 \u0162aw\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363284
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7253e97cc1cebc741c3260cc607d06c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1193093389,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1193093389,
+    "wof:lastmodified":1537715868,
+    "wof:name":"At Tawilah",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36407,
+    16.22235,
+    43.36407,
+    16.22235
+],
+  "geometry": {"coordinates":[43.36407,16.22235],"type":"Point"}
+}

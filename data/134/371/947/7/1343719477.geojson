@@ -1,0 +1,71 @@
+{
+  "id": 1343719477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44359,13.21866,44.44359,13.21866",
+    "geom:latitude":13.21866,
+    "geom:longitude":44.44359,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Al Burah",
+    "gn:country_code":"YE",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300273,
+    "gn:latitude":13.21866,
+    "gn:longitude":44.44359,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bur\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bur\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300273
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"596ac5111667e5ae2af988829a7ffca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1343719477,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343719477,
+    "wof:lastmodified":1537716031,
+    "wof:name":"Al Burah",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44359,
+    13.21866,
+    44.44359,
+    13.21866
+],
+  "geometry": {"coordinates":[44.44359,13.21866],"type":"Point"}
+}

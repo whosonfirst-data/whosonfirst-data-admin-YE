@@ -1,0 +1,71 @@
+{
+  "id": 1293647603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17369,16.11881,43.17369,16.11881",
+    "geom:latitude":16.11881,
+    "geom:longitude":43.17369,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Ad Dubbah",
+    "gn:country_code":"YE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363043,
+    "gn:latitude":16.11881,
+    "gn:longitude":43.17369,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e11 \u1e10ubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363043
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c20fa6a608bee1f2bb7bb1319619257c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1293647603,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293647603,
+    "wof:lastmodified":1537715861,
+    "wof:name":"Ad Dubbah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17369,
+    16.11881,
+    43.17369,
+    16.11881
+],
+  "geometry": {"coordinates":[43.17369,16.11881],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344234233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6635,14.99958,44.6635,14.99958",
+    "geom:latitude":14.99958,
+    "geom:longitude":44.6635,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Maradish",
+    "gn:country_code":"YE",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341780,
+    "gn:latitude":14.99958,
+    "gn:longitude":44.6635,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mar\u0101dish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mar\u0101dish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341780
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec3e089ef7b8b33e32e93f20d43dbe58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1344234233,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1344234233,
+    "wof:lastmodified":1537715490,
+    "wof:name":"Al Maradish",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6635,
+    14.99958,
+    44.6635,
+    14.99958
+],
+  "geometry": {"coordinates":[44.6635,14.99958],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276963669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96859,15.66055,42.96859,15.66055",
+    "geom:latitude":15.66055,
+    "geom:longitude":42.96859,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Harji",
+    "gn:country_code":"YE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983367,
+    "gn:latitude":15.66055,
+    "gn:longitude":42.96859,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28arj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28arj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983367
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8d10fa157693736982c9ca659a5d925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1276963669,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276963669,
+    "wof:lastmodified":1537716296,
+    "wof:name":"Al Harji",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96859,
+    15.66055,
+    42.96859,
+    15.66055
+],
+  "geometry": {"coordinates":[42.96859,15.66055],"type":"Point"}
+}

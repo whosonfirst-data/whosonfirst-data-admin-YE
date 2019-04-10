@@ -1,0 +1,76 @@
+{
+  "id": 1276831173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0242,15.60223,44.0242,15.60223",
+    "geom:latitude":15.60223,
+    "geom:longitude":44.0242,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2918.0",
+    "gn:asciiname":"Sahhab",
+    "gn:country_code":"YE",
+    "gn:dem":2605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8357764,
+    "gn:latitude":15.60223,
+    "gn:longitude":44.0242,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sa\u1e29\u1e29ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062d\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sa\u1e29ab",
+        "Sa\u1e29\u1e29ab",
+        "W\u0101d\u012b Sa\u1e29ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8357764
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04370e71a3fc4f195cff963d471fb98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921953,
+            "locality_id":1276831173,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276831173,
+    "wof:lastmodified":1537716048,
+    "wof:name":"Sahhab",
+    "wof:parent_id":1091921953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0242,
+    15.60223,
+    44.0242,
+    15.60223
+],
+  "geometry": {"coordinates":[44.0242,15.60223],"type":"Point"}
+}

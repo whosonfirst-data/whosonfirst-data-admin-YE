@@ -1,0 +1,73 @@
+{
+  "id": 890446361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40849,16.03621,43.40849,16.03621",
+    "geom:latitude":16.03621,
+    "geom:longitude":43.40849,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0646\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Masnab"
+    ],
+    "qs:name":"Al Masnab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682588,
+        "gp:id":1958568,
+        "qs:id":697274,
+        "wd:id":"Q20299724"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052549,
+    "wof:geomhash":"ac9e57e85b354e4050abaea597a3af5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890446361,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446361,
+    "wof:lastmodified":1514503184,
+    "wof:name":"Al Masnab",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40849,
+    16.03621,
+    43.40849,
+    16.03621
+],
+  "geometry": {"coordinates":[43.40849,16.03621],"type":"Point"}
+}

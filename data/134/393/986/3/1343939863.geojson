@@ -1,0 +1,72 @@
+{
+  "id": 1343939863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42642,15.62614,44.42642,15.62614",
+    "geom:latitude":15.62614,
+    "geom:longitude":44.42642,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Khulaqah",
+    "gn:country_code":"YE",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76917,
+    "gn:latitude":15.62614,
+    "gn:longitude":44.42642,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khulaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Khul\u0101qah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76917,
+        "wk:page":"Bayt_Khulaqah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8c50e566d6f12c92c928edb19de16bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1343939863,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343939863,
+    "wof:lastmodified":1537715212,
+    "wof:name":"Khulaqah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42642,
+    15.62614,
+    44.42642,
+    15.62614
+],
+  "geometry": {"coordinates":[44.42642,15.62614],"type":"Point"}
+}

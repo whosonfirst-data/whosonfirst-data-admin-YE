@@ -1,0 +1,73 @@
+{
+  "id": 890428033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26165,16.80739,43.26165,16.80739",
+    "geom:latitude":16.80739,
+    "geom:longitude":43.26165,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062a\u062c\u0631\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mutajarraf"
+    ],
+    "qs:name":"Al Mutajarraf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926745,
+        "gp:id":1938881,
+        "qs:id":745087,
+        "wd:id":"Q20303279"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051733,
+    "wof:geomhash":"f470ed4fd098136eb4b03d01d3bae70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890428033,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428033,
+    "wof:lastmodified":1514503193,
+    "wof:name":"Al Mutajarraf",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26165,
+    16.80739,
+    43.26165,
+    16.80739
+],
+  "geometry": {"coordinates":[43.26165,16.80739],"type":"Point"}
+}

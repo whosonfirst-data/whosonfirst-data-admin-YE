@@ -1,0 +1,71 @@
+{
+  "id": 1226520609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77925,15.49854,43.77925,15.49854",
+    "geom:latitude":15.49854,
+    "geom:longitude":43.77925,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bayt Qusaylah",
+    "gn:country_code":"YE",
+    "gn:dem":3037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402594,
+    "gn:latitude":15.49854,
+    "gn:longitude":43.77925,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Qu\u015faylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Qu\u015faylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402594
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b574453ac8152bb92df478e05dcb52f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1226520609,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226520609,
+    "wof:lastmodified":1537715358,
+    "wof:name":"Bayt Qusaylah",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77925,
+    15.49854,
+    43.77925,
+    15.49854
+],
+  "geometry": {"coordinates":[43.77925,15.49854],"type":"Point"}
+}

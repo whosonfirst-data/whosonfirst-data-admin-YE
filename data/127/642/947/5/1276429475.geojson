@@ -1,0 +1,71 @@
+{
+  "id": 1276429475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25489,15.45432,43.25489,15.45432",
+    "geom:latitude":15.45432,
+    "geom:longitude":43.25489,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Mahall al Khalufah",
+    "gn:country_code":"YE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365268,
+    "gn:latitude":15.45432,
+    "gn:longitude":43.25489,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al Khal\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Khal\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365268
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"950460cd232c7a155fb1dad6b9b77622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1276429475,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276429475,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Mahall al Khalufah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25489,
+    15.45432,
+    43.25489,
+    15.45432
+],
+  "geometry": {"coordinates":[43.25489,15.45432],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890448857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27314,17.16717,43.27314,17.16717",
+    "geom:latitude":17.16717,
+    "geom:longitude":43.27314,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0648\u0639\u0629"
+    ],
+    "qs:name":"Ath Th\u016b\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865350,
+        "gp:id":1938607,
+        "qs:id":743056,
+        "qs_pg:id":742975
+    },
+    "wof:country":"YE",
+    "wof:created":1469052649,
+    "wof:geomhash":"458a5d19debeac93bf64cf9906a59be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890448857,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448857,
+    "wof:lastmodified":1505343625,
+    "wof:name":"Ath Th\u016b\u2018ah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27314,
+    17.16717,
+    43.27314,
+    17.16717
+],
+  "geometry": {"coordinates":[43.27314,17.16717],"type":"Point"}
+}

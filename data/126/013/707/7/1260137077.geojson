@@ -1,0 +1,75 @@
+{
+  "id": 1260137077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85007,13.34114,43.85007,13.34114",
+    "geom:latitude":13.34114,
+    "geom:longitude":43.85007,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Al Kadahah",
+    "gn:country_code":"YE",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30737,
+    "gn:latitude":13.34114,
+    "gn:longitude":43.85007,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Kada\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u062f\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kada\u1e29ah",
+        "Al Kad\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30737
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f5cd0dbcc9669807c430113dcce7472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1260137077,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260137077,
+    "wof:lastmodified":1537715051,
+    "wof:name":"Al Kadahah",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85007,
+    13.34114,
+    43.85007,
+    13.34114
+],
+  "geometry": {"coordinates":[43.85007,13.34114],"type":"Point"}
+}

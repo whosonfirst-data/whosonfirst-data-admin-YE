@@ -1,0 +1,74 @@
+{
+  "id": 1343529589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19279,13.20935,44.19279,13.20935",
+    "geom:latitude":13.20935,
+    "geom:longitude":44.19279,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Ana'ib 'Umar",
+    "gn:country_code":"YE",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871662,
+    "gn:latitude":13.20935,
+    "gn:longitude":44.19279,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al An\u0101\u2019ib \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0627\u0626\u0628 \u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al An\u0101\u2019ib \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871662
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f94a9331daf4400d3b18759a0735768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1343529589,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343529589,
+    "wof:lastmodified":1537716256,
+    "wof:name":"Al Ana'ib 'Umar",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19279,
+    13.20935,
+    44.19279,
+    13.20935
+],
+  "geometry": {"coordinates":[44.19279,13.20935],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327494731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.45,12.55,54.45,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":54.45,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Samhon",
+    "gn:country_code":"YE",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71146,
+    "gn:latitude":12.55,
+    "gn:longitude":54.45,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Samhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samhun",
+        "Samhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71146
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bc491b8d5762be6c99a10420652b89ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1327494731,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1327494731,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327494731,
+    "wof:lastmodified":1537715090,
+    "wof:name":"Samhon",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.45,
+    12.55,
+    54.45,
+    12.55
+],
+  "geometry": {"coordinates":[54.45,12.55],"type":"Point"}
+}

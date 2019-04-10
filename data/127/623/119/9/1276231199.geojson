@@ -1,0 +1,71 @@
+{
+  "id": 1276231199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.86955,13.92605,45.86955,13.92605",
+    "geom:latitude":13.92605,
+    "geom:longitude":45.86955,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Sakin am Zuhur",
+    "gn:country_code":"YE",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029421,
+    "gn:latitude":13.92605,
+    "gn:longitude":45.86955,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u0101kin am Zuh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101kin am Zuh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029421
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8337659394c18ad93e77a0914253e9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1276231199,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1276231199,
+    "wof:lastmodified":1537716009,
+    "wof:name":"Sakin am Zuhur",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.86955,
+    13.92605,
+    45.86955,
+    13.92605
+],
+  "geometry": {"coordinates":[45.86955,13.92605],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276404367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76692,16.01507,43.76692,16.01507",
+    "geom:latitude":16.01507,
+    "geom:longitude":43.76692,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"Al 'Irqah",
+    "gn:country_code":"YE",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634380,
+    "gn:latitude":16.01507,
+    "gn:longitude":43.76692,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Irqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Irqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634380
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e1b33b2cac954e7efe06c3e13764d66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1276404367,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276404367,
+    "wof:lastmodified":1537716077,
+    "wof:name":"Al 'Irqah",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76692,
+    16.01507,
+    43.76692,
+    16.01507
+],
+  "geometry": {"coordinates":[43.76692,16.01507],"type":"Point"}
+}

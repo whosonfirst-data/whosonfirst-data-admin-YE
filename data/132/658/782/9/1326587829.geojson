@@ -1,0 +1,75 @@
+{
+  "id": 1326587829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17217,14.27233,44.17217,14.27233",
+    "geom:latitude":14.27233,
+    "geom:longitude":44.17217,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Zahr as Sawd",
+    "gn:country_code":"YE",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359156,
+    "gn:latitude":14.27233,
+    "gn:longitude":44.17217,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Z\u0327ahr as Sawd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631 \u0627\u0644\u0633\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr as Sawd",
+        "Z\u0327ahr as Sawd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359156
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b231f3c893706697f2654f30e9222de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1326587829,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326587829,
+    "wof:lastmodified":1537715746,
+    "wof:name":"Zahr as Sawd",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17217,
+    14.27233,
+    44.17217,
+    14.27233
+],
+  "geometry": {"coordinates":[44.17217,14.27233],"type":"Point"}
+}

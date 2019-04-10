@@ -1,0 +1,71 @@
+{
+  "id": 1226524459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93216,14.9102,43.93216,14.9102",
+    "geom:latitude":14.9102,
+    "geom:longitude":43.93216,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Maqsarah",
+    "gn:country_code":"YE",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360257,
+    "gn:latitude":14.9102,
+    "gn:longitude":43.93216,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maq\u015farah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maq\u015farah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360257
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7748db62ed16cdd43d8c0d64c2382fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1226524459,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226524459,
+    "wof:lastmodified":1537715797,
+    "wof:name":"Al Maqsarah",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93216,
+    14.9102,
+    43.93216,
+    14.9102
+],
+  "geometry": {"coordinates":[43.93216,14.9102],"type":"Point"}
+}

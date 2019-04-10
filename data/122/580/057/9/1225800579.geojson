@@ -1,0 +1,71 @@
+{
+  "id": 1225800579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19059,13.14172,44.19059,13.14172",
+    "geom:latitude":13.14172,
+    "geom:longitude":44.19059,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Ar Rashmah",
+    "gn:country_code":"YE",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871751,
+    "gn:latitude":13.14172,
+    "gn:longitude":44.19059,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Rashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0634\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871751
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9151ca396ca251b3b15807d577c47896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1225800579,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1225800579,
+    "wof:lastmodified":1537716261,
+    "wof:name":"Ar Rashmah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19059,
+    13.14172,
+    44.19059,
+    13.14172
+],
+  "geometry": {"coordinates":[44.19059,13.14172],"type":"Point"}
+}

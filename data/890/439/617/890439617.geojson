@@ -1,0 +1,73 @@
+{
+  "id": 890439617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71921,13.19222,43.71921,13.19222",
+    "geom:latitude":13.19222,
+    "geom:longitude":43.71921,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'yanah"
+    ],
+    "qs:name":"Al Ma\u2018y\u0101nah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069209,
+        "gp:id":1958962,
+        "qs:id":753389,
+        "wd:id":"Q20306184"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052242,
+    "wof:geomhash":"ce5df2b56d41a117b3ba6dc6ef7b20c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890439617,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890439617,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018y\u0101nah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71921,
+    13.19222,
+    43.71921,
+    13.19222
+],
+  "geometry": {"coordinates":[43.71921,13.19222],"type":"Point"}
+}

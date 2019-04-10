@@ -1,0 +1,68 @@
+{
+  "id": 1260037891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1764,14.08505,44.1764,14.08505",
+    "geom:latitude":14.08505,
+    "geom:longitude":44.1764,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Al Mafraq",
+    "gn:country_code":"YE",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359876,
+    "gn:latitude":14.08505,
+    "gn:longitude":44.1764,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mafraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359876
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"afff3b29e6091acc2e786e29dc66b72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":1260037891,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260037891,
+    "wof:lastmodified":1537051659,
+    "wof:name":"Al Mafraq",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1764,
+    14.08505,
+    44.1764,
+    14.08505
+],
+  "geometry": {"coordinates":[44.1764,14.08505],"type":"Point"}
+}

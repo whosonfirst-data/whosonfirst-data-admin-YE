@@ -1,0 +1,72 @@
+{
+  "id": 1293352305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93808,15.97894,43.93808,15.97894",
+    "geom:latitude":15.97894,
+    "geom:longitude":43.93808,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al `Ayanah",
+    "gn:country_code":"YE",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403283,
+    "gn:latitude":15.97894,
+    "gn:longitude":43.93808,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al \u2018Ay\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ay\u0101nah",
+        "Al \u2018Ayy\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403283
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"16f3ee5a5da1631c9212d9c45ea78299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1293352305,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293352305,
+    "wof:lastmodified":1537715373,
+    "wof:name":"Al `Ayanah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93808,
+    15.97894,
+    43.93808,
+    15.97894
+],
+  "geometry": {"coordinates":[43.93808,15.97894],"type":"Point"}
+}

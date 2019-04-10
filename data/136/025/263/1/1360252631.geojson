@@ -1,0 +1,68 @@
+{
+  "id": 1360252631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55532,13.78285,43.55532,13.78285",
+    "geom:latitude":13.78285,
+    "geom:longitude":43.55532,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Ad Duwaylah",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355682,
+    "gn:latitude":13.78285,
+    "gn:longitude":43.55532,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Duwaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355682
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b9cc57e58aea3239887871506e82777e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1360252631,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360252631,
+    "wof:lastmodified":1536704321,
+    "wof:name":"Ad Duwaylah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55532,
+    13.78285,
+    43.55532,
+    13.78285
+],
+  "geometry": {"coordinates":[43.55532,13.78285],"type":"Point"}
+}

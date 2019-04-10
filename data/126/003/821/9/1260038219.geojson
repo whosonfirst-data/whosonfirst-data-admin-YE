@@ -1,0 +1,72 @@
+{
+  "id": 1260038219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.11712,15.88654,43.11712,15.88654",
+    "geom:latitude":15.88654,
+    "geom:longitude":43.11712,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Bani Sumaynah",
+    "gn:country_code":"YE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76303,
+    "gn:latitude":15.88654,
+    "gn:longitude":43.11712,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban\u012b Sumaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Sumaynah",
+        "Dayr al Marikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76303
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3194d907d60330bfdaf4ce3bf0ff149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1260038219,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260038219,
+    "wof:lastmodified":1537715194,
+    "wof:name":"Bani Sumaynah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.11712,
+    15.88654,
+    43.11712,
+    15.88654
+],
+  "geometry": {"coordinates":[43.11712,15.88654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243438813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27716,14.88386,43.27716,14.88386",
+    "geom:latitude":14.88386,
+    "geom:longitude":43.27716,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Waqir",
+    "gn:country_code":"YE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69663,
+    "gn:latitude":14.88386,
+    "gn:longitude":43.27716,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"W\u0101qir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101qir"
+    ],
+    "name:und_x_variant":[
+        "Waqr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69663
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"38e682372f347daa57a656e6c4294221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1243438813,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243438813,
+    "wof:lastmodified":1537715064,
+    "wof:name":"Waqir",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27716,
+    14.88386,
+    43.27716,
+    14.88386
+],
+  "geometry": {"coordinates":[43.27716,14.88386],"type":"Point"}
+}

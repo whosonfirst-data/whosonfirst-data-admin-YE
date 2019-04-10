@@ -1,0 +1,75 @@
+{
+  "id": 1343718861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81354,13.5409,43.81354,13.5409",
+    "geom:latitude":13.5409,
+    "geom:longitude":43.81354,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Mushayri `ah",
+    "gn:country_code":"YE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356244,
+    "gn:latitude":13.5409,
+    "gn:longitude":43.81354,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mushayri \u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mushayri \u2018ah",
+        "Mushayri\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356244
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2473f33e38702bdb9ad23e4e8168b9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1343718861,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343718861,
+    "wof:lastmodified":1537715669,
+    "wof:name":"Mushayri `ah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81354,
+    13.5409,
+    43.81354,
+    13.5409
+],
+  "geometry": {"coordinates":[43.81354,13.5409],"type":"Point"}
+}

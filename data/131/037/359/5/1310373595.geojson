@@ -1,0 +1,71 @@
+{
+  "id": 1310373595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01535,12.90739,44.01535,12.90739",
+    "geom:latitude":12.90739,
+    "geom:longitude":44.01535,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Al Ghurabiyah",
+    "gn:country_code":"YE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405028,
+    "gn:latitude":12.90739,
+    "gn:longitude":44.01535,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ghur\u0101b\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ghur\u0101b\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405028
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52e7003900a0e16aee59855db34240d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1310373595,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310373595,
+    "wof:lastmodified":1537715377,
+    "wof:name":"Al Ghurabiyah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01535,
+    12.90739,
+    44.01535,
+    12.90739
+],
+  "geometry": {"coordinates":[44.01535,12.90739],"type":"Point"}
+}

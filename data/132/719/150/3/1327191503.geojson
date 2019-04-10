@@ -1,0 +1,76 @@
+{
+  "id": 1327191503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0999,12.99114,44.0999,12.99114",
+    "geom:latitude":12.99114,
+    "geom:longitude":44.0999,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Al Mijza`",
+    "gn:country_code":"YE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78817,
+    "gn:latitude":12.99114,
+    "gn:longitude":44.0999,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mijza\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0632\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Em Mijza",
+        "Am Mijza\u2018",
+        "Al Mijza\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78817
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"803c4ea7e6a4eb3c61342a2a49a1f643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1327191503,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1327191503,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Mijza`",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0999,
+    12.99114,
+    44.0999,
+    12.99114
+],
+  "geometry": {"coordinates":[44.0999,12.99114],"type":"Point"}
+}

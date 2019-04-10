@@ -1,0 +1,73 @@
+{
+  "id": 890419835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88276,14.19336,45.88276,14.19336",
+    "geom:latitude":14.19336,
+    "geom:longitude":45.88276,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":18,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Hala"
+    ],
+    "qs:name":"\u1e28al\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066777,
+        "gp:id":1959090,
+        "qs:id":752832,
+        "wd:id":"Q20305032"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051303,
+    "wof:geomhash":"a480cc63df1268abed307f013b0d9da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":890419835,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419835,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28al\u0101\u2019",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88276,
+    14.19336,
+    45.88276,
+    14.19336
+],
+  "geometry": {"coordinates":[45.88276,14.19336],"type":"Point"}
+}

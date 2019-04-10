@@ -1,0 +1,71 @@
+{
+  "id": 1259874705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53308,15.46157,43.53308,15.46157",
+    "geom:latitude":15.46157,
+    "geom:longitude":43.53308,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2708.0",
+    "gn:asciiname":"Bani as Salahi",
+    "gn:country_code":"YE",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360607,
+    "gn:latitude":15.46157,
+    "gn:longitude":43.53308,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban\u012b a\u015f \u015eal\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b a\u015f \u015eal\u0101\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360607
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7e3be9f68bdbfdef4f94e693f5c2e4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "locality_id":1259874705,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259874705,
+    "wof:lastmodified":1537715801,
+    "wof:name":"Bani as Salahi",
+    "wof:parent_id":1091921169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53308,
+    15.46157,
+    43.53308,
+    15.46157
+],
+  "geometry": {"coordinates":[43.53308,15.46157],"type":"Point"}
+}

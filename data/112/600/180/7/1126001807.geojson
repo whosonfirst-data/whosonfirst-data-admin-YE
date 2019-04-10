@@ -1,0 +1,85 @@
+{
+  "id": 1126001807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28511,16.52978,43.28511,16.52978",
+    "geom:latitude":16.52978,
+    "geom:longitude":43.28511,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"YE",
+    "lbl:latitude":16.52978,
+    "lbl:longitude":43.28511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0637\u0627\u0644\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Talib"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7854833,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Ban\u012b \u0162\u0101lib",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":741778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854833,
+        "qs_pg:id":741778,
+        "wd:id":"Q20299261"
+    },
+    "wof:country":"YE",
+    "wof:created":1497299689,
+    "wof:geomhash":"c269869d58b20cfba2052ceaad05520f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":1126001807,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1126001807,
+    "wof:lastmodified":1514503244,
+    "wof:name":"Ban\u012b \u0162\u0101lib",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28511,
+    16.52978,
+    43.28511,
+    16.52978
+],
+  "geometry": {"coordinates":[43.28511,16.52978],"type":"Point"}
+}

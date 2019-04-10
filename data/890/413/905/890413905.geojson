@@ -1,0 +1,76 @@
+{
+  "id": 890413905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66654,17.03151,43.66654,17.03151",
+    "geom:latitude":17.03151,
+    "geom:longitude":43.66654,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":70,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ad Diq\u0101\u2019iq"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0642\u0627\u0626\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Diqaiq"
+    ],
+    "qs:name":"Ad Diq\u0101\u2019iq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794784,
+        "gp:id":1959094,
+        "qs:id":700567,
+        "wd:id":"Q20300756"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051020,
+    "wof:geomhash":"c18b50bcc6c981eaf2f50050c57cadd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890413905,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413905,
+    "wof:lastmodified":1514503129,
+    "wof:name":"Ad Diq\u0101\u2019iq",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66654,
+    17.03151,
+    43.66654,
+    17.03151
+],
+  "geometry": {"coordinates":[43.66654,17.03151],"type":"Point"}
+}

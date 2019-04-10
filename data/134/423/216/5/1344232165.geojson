@@ -1,0 +1,74 @@
+{
+  "id": 1344232165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95662,16.18663,43.95662,16.18663",
+    "geom:latitude":16.18663,
+    "geom:longitude":43.95662,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt Muthanna",
+    "gn:country_code":"YE",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635121,
+    "gn:latitude":16.18663,
+    "gn:longitude":43.95662,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Muthann\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062b\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "Bayt Muthann\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635121
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e53d6aee03caa5d27553cb281ba72360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1344232165,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344232165,
+    "wof:lastmodified":1537716093,
+    "wof:name":"Bayt Muthanna",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95662,
+    16.18662999999999,
+    43.95662,
+    16.18662999999999
+],
+  "geometry": {"coordinates":[43.95662,16.18662999999999],"type":"Point"}
+}

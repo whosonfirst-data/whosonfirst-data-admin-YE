@@ -1,0 +1,71 @@
+{
+  "id": 1343816009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19791,14.36255,44.19791,14.36255",
+    "geom:latitude":14.36255,
+    "geom:longitude":44.19791,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Tilbas",
+    "gn:country_code":"YE",
+    "gn:dem":2419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359045,
+    "gn:latitude":14.36255,
+    "gn:longitude":44.19791,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tilb\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Tilb\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359045
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cdcf64eede7c37c7187e9736476b391c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1343816009,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343816009,
+    "wof:lastmodified":1537715741,
+    "wof:name":"Tilbas",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19791,
+    14.36255,
+    44.19791,
+    14.36255
+],
+  "geometry": {"coordinates":[44.19791,14.36255],"type":"Point"}
+}

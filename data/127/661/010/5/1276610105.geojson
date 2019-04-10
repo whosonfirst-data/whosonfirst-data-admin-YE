@@ -1,0 +1,74 @@
+{
+  "id": 1276610105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32407,16.55359,44.32407,16.55359",
+    "geom:latitude":16.55359,
+    "geom:longitude":44.32407,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Al Jirab",
+    "gn:country_code":"YE",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362942,
+    "gn:latitude":16.55359,
+    "gn:longitude":44.32407,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jirab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Birm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362942
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52fc59adbf08c10d700ca465f72c5ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1276610105,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1276610105,
+    "wof:lastmodified":1537715859,
+    "wof:name":"Al Jirab",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32407,
+    16.55359,
+    44.32407,
+    16.55359
+],
+  "geometry": {"coordinates":[44.32407,16.55359],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225829753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49697,14.12197,43.49697,14.12197",
+    "geom:latitude":14.12197,
+    "geom:longitude":43.49697,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1818.0",
+    "gn:asciiname":"Al Marabit",
+    "gn:country_code":"YE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407488,
+    "gn:latitude":14.12197,
+    "gn:longitude":43.49697,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mar\u0101b\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mar\u0101b\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407488
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7ad1c38f81f465fb441eb786815bff22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":1225829753,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225829753,
+    "wof:lastmodified":1537715394,
+    "wof:name":"Al Marabit",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49697000000001,
+    14.12197,
+    43.49697000000001,
+    14.12197
+],
+  "geometry": {"coordinates":[43.49697000000001,14.12197],"type":"Point"}
+}

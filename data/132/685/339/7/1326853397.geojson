@@ -1,0 +1,74 @@
+{
+  "id": 1326853397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.51667,14.28333,48.51667,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":48.51667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1925.0",
+    "gn:asciiname":"Al Qulaytah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78586,
+    "gn:latitude":14.28333,
+    "gn:longitude":48.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qulaytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Qulaita",
+        "Al-Qulaitah",
+        "Al Qulaytah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78586
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7673d4f89b6e4ede6dae10d64dce030a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922857,
+            "locality_id":1326853397,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1326853397,
+    "wof:lastmodified":1537715263,
+    "wof:name":"Al Qulaytah",
+    "wof:parent_id":1091922857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.51667,
+    14.28333,
+    48.51667,
+    14.28333
+],
+  "geometry": {"coordinates":[48.51667,14.28333],"type":"Point"}
+}

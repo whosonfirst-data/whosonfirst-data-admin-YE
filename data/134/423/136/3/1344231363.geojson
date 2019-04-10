@@ -1,0 +1,74 @@
+{
+  "id": 1344231363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46916,14.14912,45.46916,14.14912",
+    "geom:latitude":14.14912,
+    "geom:longitude":45.46916,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Tiyab",
+    "gn:country_code":"YE",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30554,
+    "gn:latitude":14.14912,
+    "gn:longitude":45.46916,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162iy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162iy\u0101b"
+    ],
+    "name:und_x_variant":[
+        "\u0162ay\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30554
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"62ef113ae131551f6a0b14a75c54550c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919299,
+            "locality_id":1344231363,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1344231363,
+    "wof:lastmodified":1537715046,
+    "wof:name":"Tiyab",
+    "wof:parent_id":1091919299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46916,
+    14.14912,
+    45.46916,
+    14.14912
+],
+  "geometry": {"coordinates":[45.46916,14.14912],"type":"Point"}
+}

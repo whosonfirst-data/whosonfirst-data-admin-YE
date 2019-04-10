@@ -1,0 +1,74 @@
+{
+  "id": 1259869459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82434,15.68982,42.82434,15.68982",
+    "geom:latitude":15.68982,
+    "geom:longitude":42.82434,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Jami'i",
+    "gn:country_code":"YE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10983310,
+    "gn:latitude":15.68982,
+    "gn:longitude":42.82434,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al J\u0101mi\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al J\u0101mi\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983310
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db4e225216006b2de4b4c278042824c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1259869459,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259869459,
+    "wof:lastmodified":1537716293,
+    "wof:name":"Al Jami'i",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82434,
+    15.68982,
+    42.82434,
+    15.68982
+],
+  "geometry": {"coordinates":[42.82434,15.68982],"type":"Point"}
+}

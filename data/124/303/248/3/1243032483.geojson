@@ -1,0 +1,71 @@
+{
+  "id": 1243032483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78305,14.25536,44.78305,14.25536",
+    "geom:latitude":14.25536,
+    "geom:longitude":44.78305,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1418.0",
+    "gn:asciiname":"Mahall Bayt al Jalal",
+    "gn:country_code":"YE",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364868,
+    "gn:latitude":14.25536,
+    "gn:longitude":44.78305,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Bayt al Jal\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Bayt al Jal\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364868
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b3d8667190c49b6d44b54054793ed331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919109,
+            "locality_id":1243032483,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1243032483,
+    "wof:lastmodified":1537715911,
+    "wof:name":"Mahall Bayt al Jalal",
+    "wof:parent_id":1091919109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78305,
+    14.25536,
+    44.78305,
+    14.25536
+],
+  "geometry": {"coordinates":[44.78305,14.25536],"type":"Point"}
+}

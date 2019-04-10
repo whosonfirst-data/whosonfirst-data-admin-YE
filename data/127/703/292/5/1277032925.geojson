@@ -1,0 +1,71 @@
+{
+  "id": 1277032925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3645,16.3787,43.3645,16.3787",
+    "geom:latitude":16.3787,
+    "geom:longitude":43.3645,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Qurrah",
+    "gn:country_code":"YE",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307483,
+    "gn:latitude":16.3787,
+    "gn:longitude":43.3645,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qurrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307483
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bb7a98392e4fd479071467809f21bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1277032925,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1277032925,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Al Qurrah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3645,
+    16.3787,
+    43.3645,
+    16.3787
+],
+  "geometry": {"coordinates":[43.3645,16.3787],"type":"Point"}
+}

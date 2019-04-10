@@ -1,0 +1,68 @@
+{
+  "id": 1310632681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.55,14.83333,49.55,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":49.55,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1915.0",
+    "gn:asciiname":"Dhabdhab",
+    "gn:country_code":"YE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76203,
+    "gn:latitude":14.83333,
+    "gn:longitude":49.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhabdhab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76203
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed4a68a7c5595059465f6adc902fd1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922837,
+            "locality_id":1310632681,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310632681,
+    "wof:lastmodified":1536733698,
+    "wof:name":"Dhabdhab",
+    "wof:parent_id":1091922837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.55,
+    14.83333,
+    49.55,
+    14.83333
+],
+  "geometry": {"coordinates":[49.55,14.83333],"type":"Point"}
+}

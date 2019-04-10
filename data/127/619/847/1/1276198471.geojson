@@ -1,0 +1,74 @@
+{
+  "id": 1276198471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57468,17.09736,43.57468,17.09736",
+    "geom:latitude":17.09736,
+    "geom:longitude":43.57468,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"An Nuqa`",
+    "gn:country_code":"YE",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345219,
+    "gn:latitude":17.09736,
+    "gn:longitude":43.57468,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An Nuqa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0639"
+    ],
+    "name:und_x_variant":[
+        "An Nuqa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345219
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc389ee6f63efc80678a8cfd9f7acce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1276198471,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276198471,
+    "wof:lastmodified":1537715554,
+    "wof:name":"An Nuqa`",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57468,
+    17.09736,
+    43.57468,
+    17.09736
+],
+  "geometry": {"coordinates":[43.57468,17.09736],"type":"Point"}
+}

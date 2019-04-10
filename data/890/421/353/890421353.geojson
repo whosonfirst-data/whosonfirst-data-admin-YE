@@ -1,0 +1,80 @@
+{
+  "id": 890421353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36247,16.8095,43.36247,16.8095",
+    "geom:latitude":16.8095,
+    "geom:longitude":43.36247,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018\u0100mir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0639\u0627\u0645\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Amir"
+    ],
+    "qs:name":"\u0100l \u2018\u0100mir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927082,
+        "gp:id":1959134,
+        "qs:id":749517,
+        "qs_pg:id":745418,
+        "wd:id":"Q20301632"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051389,
+    "wof:geomhash":"81f9a18ee90b34d4f75ac1c336f3351d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890421353,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890421353,
+    "wof:lastmodified":1514503393,
+    "wof:name":"\u0100l \u2018\u0100mir",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36247,
+    16.8095,
+    43.36247,
+    16.8095
+],
+  "geometry": {"coordinates":[43.36247,16.8095],"type":"Point"}
+}

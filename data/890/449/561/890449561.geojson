@@ -1,0 +1,80 @@
+{
+  "id": 890449561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2474,17.12868,43.2474,17.12868",
+    "geom:latitude":17.12868,
+    "geom:longitude":43.2474,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u2018Azz\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Azzan"
+    ],
+    "qs:name":"\u2018Azz\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022139,
+        "gp:id":1938135,
+        "qs:id":750299,
+        "wd:id":"Q20299541"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052697,
+    "wof:geomhash":"93086417a45359cf7bf5caeca52ef61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890449561,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890449561,
+    "wof:lastmodified":1534379832,
+    "wof:name":"\u2018Azz\u0101n",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890439437
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2474,
+    17.12868,
+    43.2474,
+    17.12868
+],
+  "geometry": {"coordinates":[43.2474,17.12868],"type":"Point"}
+}

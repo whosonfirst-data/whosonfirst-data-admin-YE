@@ -1,0 +1,71 @@
+{
+  "id": 1344029465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,15.4,44.61667,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Marbuk",
+    "gn:country_code":"YE",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72975,
+    "gn:latitude":15.4,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marb\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marb\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72975
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f4b5f19cad047dfae28b22da7cb9c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":1344029465,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344029465,
+    "wof:lastmodified":1537715125,
+    "wof:name":"Marbuk",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    15.4,
+    44.61667,
+    15.4
+],
+  "geometry": {"coordinates":[44.61667,15.4],"type":"Point"}
+}

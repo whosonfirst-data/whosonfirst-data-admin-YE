@@ -1,0 +1,75 @@
+{
+  "id": 1327392455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22151,16.74102,44.22151,16.74102",
+    "geom:latitude":16.74102,
+    "geom:longitude":44.22151,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Maqam al Hashidi",
+    "gn:country_code":"YE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362894,
+    "gn:latitude":16.74102,
+    "gn:longitude":44.22151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maq\u0101m al \u1e28\u0101shid\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0645 \u0627\u0644\u062d\u0627\u0634\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u1e28\u0101shid",
+        "Maq\u0101m al \u1e28\u0101shid\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362894
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"02eddecdfbe5a85a4b5ed1b708a888bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1327392455,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327392455,
+    "wof:lastmodified":1537715858,
+    "wof:name":"Maqam al Hashidi",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22151,
+    16.74102,
+    44.22151,
+    16.74102
+],
+  "geometry": {"coordinates":[44.22151,16.74102],"type":"Point"}
+}

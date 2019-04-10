@@ -1,0 +1,74 @@
+{
+  "id": 1326688291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.90179,15.9151,42.90179,15.9151",
+    "geom:latitude":15.9151,
+    "geom:longitude":42.90179,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Al Ghubayriyah",
+    "gn:country_code":"YE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10983235,
+    "gn:latitude":15.9151,
+    "gn:longitude":42.90179,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ghubayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0628\u064a\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ghubayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983235
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b12a516e16b40ac6f556c70c537b3cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1326688291,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326688291,
+    "wof:lastmodified":1537716290,
+    "wof:name":"Al Ghubayriyah",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.90179000000001,
+    15.9151,
+    42.90179000000001,
+    15.9151
+],
+  "geometry": {"coordinates":[42.90179000000001,15.9151],"type":"Point"}
+}

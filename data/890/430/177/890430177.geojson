@@ -1,0 +1,73 @@
+{
+  "id": 890430177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40973,14.62653,45.40973,14.62653",
+    "geom:latitude":14.62653,
+    "geom:longitude":45.40973,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0633\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rasmah"
+    ],
+    "qs:name":"Ar Rasmah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053145,
+        "gp:id":1958975,
+        "qs:id":751576,
+        "wd:id":"Q20301750"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051842,
+    "wof:geomhash":"42cb5bb57485440939a6d4d2992fdcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":890430177,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890430177,
+    "wof:lastmodified":1514503220,
+    "wof:name":"Ar Rasmah",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40973,
+    14.62653,
+    45.40973,
+    14.62653
+],
+  "geometry": {"coordinates":[45.40973,14.62653],"type":"Point"}
+}

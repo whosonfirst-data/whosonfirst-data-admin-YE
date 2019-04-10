@@ -1,0 +1,74 @@
+{
+  "id": 1343732645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42454,14.89077,45.42454,14.89077",
+    "geom:latitude":14.89077,
+    "geom:longitude":45.42454,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2609.0",
+    "gn:asciiname":"Al Risam",
+    "gn:country_code":"YE",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053350,
+    "gn:latitude":14.89077,
+    "gn:longitude":45.42454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Ris\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l Ris\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0631\u0633\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053350
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"45acfff6300406edb67a29fcad59eb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1343732645,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343732645,
+    "wof:lastmodified":1537716011,
+    "wof:name":"Al Risam",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42454,
+    14.89077,
+    45.42454,
+    14.89077
+],
+  "geometry": {"coordinates":[45.42454,14.89077],"type":"Point"}
+}

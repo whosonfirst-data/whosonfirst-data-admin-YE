@@ -1,0 +1,74 @@
+{
+  "id": 1209986131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42487,16.74795,43.42487,16.74795",
+    "geom:latitude":16.74795,
+    "geom:longitude":43.42487,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Dubay'",
+    "gn:country_code":"YE",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260958,
+    "gn:latitude":16.74795,
+    "gn:longitude":43.42487,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e10ubay\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0628\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ubay\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"acb2999017feebb30a7ee04bcf1cddb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1209986131,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209986131,
+    "wof:lastmodified":1537716062,
+    "wof:name":"Dubay'",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42487,
+    16.74795,
+    43.42487,
+    16.74795
+],
+  "geometry": {"coordinates":[43.42487,16.74795],"type":"Point"}
+}

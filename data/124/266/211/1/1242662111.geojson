@@ -1,0 +1,74 @@
+{
+  "id": 1242662111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88739,15.7505,42.88739,15.7505",
+    "geom:latitude":15.7505,
+    "geom:longitude":42.88739,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Bayt Maqash",
+    "gn:country_code":"YE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983342,
+    "gn:latitude":15.7505,
+    "gn:longitude":42.88739,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Maq\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0642\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Bayt Maq\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983342
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a613ffa4e422994bc64051077ce751b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1242662111,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242662111,
+    "wof:lastmodified":1537716294,
+    "wof:name":"Bayt Maqash",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88739,
+    15.7505,
+    42.88739,
+    15.7505
+],
+  "geometry": {"coordinates":[42.88739,15.7505],"type":"Point"}
+}

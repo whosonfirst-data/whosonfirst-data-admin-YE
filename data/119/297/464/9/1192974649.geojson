@@ -1,0 +1,68 @@
+{
+  "id": 1192974649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49809,15.90382,43.49809,15.90382",
+    "geom:latitude":15.90382,
+    "geom:longitude":43.49809,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1715.0",
+    "gn:asciiname":"Ar Rahb",
+    "gn:country_code":"YE",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343531,
+    "gn:latitude":15.90382,
+    "gn:longitude":43.49809,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Rahb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343531
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc6746c78cb5f0c70dc04c6c04ae83fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923675,
+            "locality_id":1192974649,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1192974649,
+    "wof:lastmodified":1536374611,
+    "wof:name":"Ar Rahb",
+    "wof:parent_id":1091923675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49809000000001,
+    15.90382,
+    43.49809000000001,
+    15.90382
+],
+  "geometry": {"coordinates":[43.49809000000001,15.90382],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890423553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45212,16.37547,43.45212,16.37547",
+    "geom:latitude":16.37547,
+    "geom:longitude":43.45212,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":23,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062c\u0631\u0629"
+    ],
+    "qs:name":"Al Hijrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755466,
+        "gp:id":1959128,
+        "qs:id":698688,
+        "wd:id":"Q4702508",
+        "wk:page":"Al-Hijrah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051503,
+    "wof:geomhash":"f820d394af476c65a941eca84890c0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890423553,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423553,
+    "wof:lastmodified":1527727272,
+    "wof:name":"Al Hijrah",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45212,
+    16.37547,
+    43.45212,
+    16.37547
+],
+  "geometry": {"coordinates":[43.45212,16.37547],"type":"Point"}
+}

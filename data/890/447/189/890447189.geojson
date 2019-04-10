@@ -1,0 +1,70 @@
+{
+  "id": 890447189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20215,16.94303,44.20215,16.94303",
+    "geom:latitude":16.94303,
+    "geom:longitude":44.20215,
+    "gn:country":"YE",
+    "gn:fcode":"HSE",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0628\u0629"
+    ],
+    "qs:name":"Salbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753569,
+        "gp:id":1959086,
+        "qs:id":698459
+    },
+    "wof:country":"YE",
+    "wof:created":1469052582,
+    "wof:geomhash":"b1bf46856c9aa984771a1c3447c895c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":890447189,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447189,
+    "wof:lastmodified":1505343615,
+    "wof:name":"Salbah",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20215,
+    16.94303,
+    44.20215,
+    16.94303
+],
+  "geometry": {"coordinates":[44.20215,16.94303],"type":"Point"}
+}

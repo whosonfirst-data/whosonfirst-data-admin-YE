@@ -1,0 +1,77 @@
+{
+  "id": 1343761361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18278,15.59861,48.18278,15.59861",
+    "geom:latitude":15.59861,
+    "geom:longitude":48.18278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Huraydah",
+    "gn:country_code":"YE",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":79393,
+    "gn:latitude":15.59861,
+    "gn:longitude":48.18278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28uray\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Huraidha",
+        "Al-Huraidah",
+        "\u1e28uray\u1e11ah",
+        "Al \u1e28uray\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79393
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8492efd911aeb87b25d378243d53f204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923043,
+            "locality_id":1343761361,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343761361,
+    "wof:lastmodified":1537715299,
+    "wof:name":"Huraydah",
+    "wof:parent_id":1091923043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18278,
+    15.59861,
+    48.18278,
+    15.59861
+],
+  "geometry": {"coordinates":[48.18278,15.59861],"type":"Point"}
+}

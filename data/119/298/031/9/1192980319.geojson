@@ -1,0 +1,74 @@
+{
+  "id": 1192980319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8433,16.22359,43.8433,16.22359",
+    "geom:latitude":16.22359,
+    "geom:longitude":43.8433,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Sha'b an Nud",
+    "gn:country_code":"YE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634567,
+    "gn:latitude":16.22359,
+    "gn:longitude":43.8433,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b an N\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0646\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b an N\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634567
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed82e49435c11ac8ebe8c2b53f3584c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1192980319,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1192980319,
+    "wof:lastmodified":1537716082,
+    "wof:name":"Sha'b an Nud",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8433,
+    16.22359,
+    43.8433,
+    16.22359
+],
+  "geometry": {"coordinates":[43.8433,16.22359],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309928767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16259,14.60486,49.16259,14.60486",
+    "geom:latitude":14.60486,
+    "geom:longitude":49.16259,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"As Sabikhat",
+    "gn:country_code":"YE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77891,
+    "gn:latitude":14.60486,
+    "gn:longitude":49.16259,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"A\u015f \u015eab\u012bkh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Sab\u012bkh\u0101t",
+        "A\u015f \u015eab\u012bkh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77891,
+        "wk:page":"As_Sabikhat"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fbf2009ca9d954d1ad1277e7c5cd3409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1309928767,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1309928767,
+    "wof:lastmodified":1537715240,
+    "wof:name":"As Sabikhat",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16259,
+    14.60486,
+    49.16259,
+    14.60486
+],
+  "geometry": {"coordinates":[49.16259,14.60486],"type":"Point"}
+}

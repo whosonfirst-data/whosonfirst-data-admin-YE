@@ -1,0 +1,80 @@
+{
+  "id": 890446273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43606,16.04992,43.43606,16.04992",
+    "geom:latitude":16.04992,
+    "geom:longitude":43.43606,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Aqs\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0642\u0633\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aqsam"
+    ],
+    "qs:name":"Al Aqs\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682265,
+        "gp:id":1958568,
+        "qs:id":697118,
+        "qs_pg:id":697079,
+        "wd:id":"Q20304020"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052545,
+    "wof:geomhash":"7527a0024961b5513b3de86272654c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890446273,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890446273,
+    "wof:lastmodified":1514503134,
+    "wof:name":"Al Aqs\u0101m",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43606,
+    16.04992,
+    43.43606,
+    16.04992
+],
+  "geometry": {"coordinates":[43.43606,16.04992],"type":"Point"}
+}

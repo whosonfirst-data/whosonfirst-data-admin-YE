@@ -1,0 +1,71 @@
+{
+  "id": 1226327065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19278,15.75496,43.19278,15.75496",
+    "geom:latitude":15.75496,
+    "geom:longitude":43.19278,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Dayr al Finjan",
+    "gn:country_code":"YE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365689,
+    "gn:latitude":15.75496,
+    "gn:longitude":43.19278,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr al Finj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Finj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365689
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6c061c8cacd1a8d2366a0aba79d0d445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1226327065,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226327065,
+    "wof:lastmodified":1537715937,
+    "wof:name":"Dayr al Finjan",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19278,
+    15.75496,
+    43.19278,
+    15.75496
+],
+  "geometry": {"coordinates":[43.19278,15.75496],"type":"Point"}
+}

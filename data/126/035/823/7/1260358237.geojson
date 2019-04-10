@@ -1,0 +1,71 @@
+{
+  "id": 1260358237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44626,15.84798,43.44626,15.84798",
+    "geom:latitude":15.84798,
+    "geom:longitude":43.44626,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1721.0",
+    "gn:asciiname":"Jabal Dawud",
+    "gn:country_code":"YE",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366173,
+    "gn:latitude":15.84798,
+    "gn:longitude":43.44626,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jabal D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabal D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366173
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"306621f723e6d095e9aaae6b721b56c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923719,
+            "locality_id":1260358237,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260358237,
+    "wof:lastmodified":1537715948,
+    "wof:name":"Jabal Dawud",
+    "wof:parent_id":1091923719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44626,
+    15.84798,
+    43.44626,
+    15.84798
+],
+  "geometry": {"coordinates":[43.44626,15.84798],"type":"Point"}
+}

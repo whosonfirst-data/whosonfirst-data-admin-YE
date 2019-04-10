@@ -1,0 +1,71 @@
+{
+  "id": 1243411123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22391,13.33286,44.22391,13.33286",
+    "geom:latitude":13.33286,
+    "geom:longitude":44.22391,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1514.0",
+    "gn:asciiname":"Al Mansurah",
+    "gn:country_code":"YE",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409156,
+    "gn:latitude":13.33286,
+    "gn:longitude":44.22391,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Man\u015f\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Man\u015f\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409156
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af30646da0893493f66c5f8c5d29f32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":1243411123,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243411123,
+    "wof:lastmodified":1537715426,
+    "wof:name":"Al Mansurah",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22391,
+    13.33286,
+    44.22391,
+    13.33286
+],
+  "geometry": {"coordinates":[44.22391,13.33286],"type":"Point"}
+}

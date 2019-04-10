@@ -1,0 +1,71 @@
+{
+  "id": 1309873385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88333,13.68333,43.88333,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":43.88333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"AL Lasbah",
+    "gn:country_code":"YE",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79063,
+    "gn:latitude":13.68333,
+    "gn:longitude":43.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"AL La\u015fbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "AL La\u015fbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79063
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2850d7712b0e946d8b8440ada2aed25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1309873385,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309873385,
+    "wof:lastmodified":1537715285,
+    "wof:name":"AL Lasbah",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88333,
+    13.68333,
+    43.88333,
+    13.68333
+],
+  "geometry": {"coordinates":[43.88333,13.68333],"type":"Point"}
+}

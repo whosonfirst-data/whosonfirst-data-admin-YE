@@ -1,0 +1,68 @@
+{
+  "id": 1260084783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16667,15.31667,47.16667,15.31667",
+    "geom:latitude":15.31667,
+    "geom:longitude":47.16667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Maslab",
+    "gn:country_code":"YE",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72861,
+    "gn:latitude":15.31667,
+    "gn:longitude":47.16667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maslab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72861
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3cafcadc84a64aa109028f398f54d09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925971,
+            "locality_id":1260084783,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1260084783,
+    "wof:lastmodified":1536985288,
+    "wof:name":"Maslab",
+    "wof:parent_id":1091925971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16667,
+    15.31667,
+    47.16667,
+    15.31667
+],
+  "geometry": {"coordinates":[47.16667,15.31667],"type":"Point"}
+}

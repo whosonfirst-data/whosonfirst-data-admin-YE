@@ -1,0 +1,72 @@
+{
+  "id": 1343527095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70546,13.74312,44.70546,13.74312",
+    "geom:latitude":13.74312,
+    "geom:longitude":44.70546,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Dar al Qarn",
+    "gn:country_code":"YE",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76496,
+    "gn:latitude":13.74312,
+    "gn:longitude":44.70546,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al Qarn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar-al-Karn",
+        "D\u0101r al Qarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76496
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37a200735ece5a085fd4d38efacc0835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919751,
+            "locality_id":1343527095,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343527095,
+    "wof:lastmodified":1537715202,
+    "wof:name":"Dar al Qarn",
+    "wof:parent_id":1091919751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70546,
+    13.74312,
+    44.70546,
+    13.74312
+],
+  "geometry": {"coordinates":[44.70546,13.74312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1192995545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01582,14.65698,44.01582,14.65698",
+    "geom:latitude":14.65698,
+    "geom:longitude":44.01582,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Al Hawaz",
+    "gn:country_code":"YE",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361199,
+    "gn:latitude":14.65698,
+    "gn:longitude":44.01582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28aw\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28aw\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361199
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a871e77f984329a474c1eb01f72e260b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":1192995545,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1192995545,
+    "wof:lastmodified":1537715814,
+    "wof:name":"Al Hawaz",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01582,
+    14.65698,
+    44.01582,
+    14.65698
+],
+  "geometry": {"coordinates":[44.01582,14.65698],"type":"Point"}
+}

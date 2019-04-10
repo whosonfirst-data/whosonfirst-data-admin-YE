@@ -1,0 +1,71 @@
+{
+  "id": 1243129139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00249,13.69108,44.00249,13.69108",
+    "geom:latitude":13.69108,
+    "geom:longitude":44.00249,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Asyah",
+    "gn:country_code":"YE",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357377,
+    "gn:latitude":13.69108,
+    "gn:longitude":44.00249,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015fy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015fy\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357377
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a23bde808817f12e73883b22498054f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1243129139,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243129139,
+    "wof:lastmodified":1537715698,
+    "wof:name":"Asyah",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00249,
+    13.69108,
+    44.00249,
+    13.69108
+],
+  "geometry": {"coordinates":[44.00249,13.69108],"type":"Point"}
+}

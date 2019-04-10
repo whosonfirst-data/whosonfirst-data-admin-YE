@@ -1,0 +1,71 @@
+{
+  "id": 1243238709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78481,16.31461,43.78481,16.31461",
+    "geom:latitude":16.31461,
+    "geom:longitude":43.78481,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"As Suwaydah",
+    "gn:country_code":"YE",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9632981,
+    "gn:latitude":16.31461,
+    "gn:longitude":43.78481,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Suwaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9632981
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ac464655a7fec0ebbedb611c4bba902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1243238709,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243238709,
+    "wof:lastmodified":1537716069,
+    "wof:name":"As Suwaydah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78481,
+    16.31461,
+    43.78481,
+    16.31461
+],
+  "geometry": {"coordinates":[43.78481,16.31461],"type":"Point"}
+}

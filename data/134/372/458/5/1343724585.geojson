@@ -1,0 +1,74 @@
+{
+  "id": 1343724585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78947,14.05932,44.78947,14.05932",
+    "geom:latitude":14.05932,
+    "geom:longitude":44.78947,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Al Qawari",
+    "gn:country_code":"YE",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340209,
+    "gn:latitude":14.05932,
+    "gn:longitude":44.78947,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Qaw\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0627\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qaw\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340209
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6dc4ea7b1c8184eb3c53b209387d1327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1343724585,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343724585,
+    "wof:lastmodified":1537715442,
+    "wof:name":"Al Qawari",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78947,
+    14.05932,
+    44.78947,
+    14.05932
+],
+  "geometry": {"coordinates":[44.78947,14.05932],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242938001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71667,15.78333,43.71667,15.78333",
+    "geom:latitude":15.78333,
+    "geom:longitude":43.71667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Bayt `Ilman",
+    "gn:country_code":"YE",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76926,
+    "gn:latitude":15.78333,
+    "gn:longitude":43.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt \u2018Ilm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Ilman",
+        "Bayt \u2018Ilm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76926
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"adde71bef47b2bdd6b6cf29ff47a386e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":1242938001,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242938001,
+    "wof:lastmodified":1537715212,
+    "wof:name":"Bayt `Ilman",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71667,
+    15.78333,
+    43.71667,
+    15.78333
+],
+  "geometry": {"coordinates":[43.71667,15.78333],"type":"Point"}
+}

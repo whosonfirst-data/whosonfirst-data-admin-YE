@@ -1,0 +1,73 @@
+{
+  "id": 890423013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60693,16.91492,43.60693,16.91492",
+    "geom:latitude":16.91492,
+    "geom:longitude":43.60693,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0628\u0646 \u062d\u0633\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ibn Hasan"
+    ],
+    "qs:name":"Ibn \u1e28asan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363705,
+        "gp:id":1953481,
+        "qs:id":685346,
+        "wd:id":"Q20306094"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051476,
+    "wof:geomhash":"c63b43be1a26e56af5ddcd171bd7c46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890423013,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890423013,
+    "wof:lastmodified":1514503294,
+    "wof:name":"Ibn \u1e28asan",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60693,
+    16.91492,
+    43.60693,
+    16.91492
+],
+  "geometry": {"coordinates":[43.60693,16.91492],"type":"Point"}
+}

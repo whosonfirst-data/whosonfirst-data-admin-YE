@@ -1,0 +1,71 @@
+{
+  "id": 1225818683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91621,15.61426,44.91621,15.61426",
+    "geom:latitude":15.61426,
+    "geom:longitude":44.91621,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"As Sulayl",
+    "gn:country_code":"YE",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976162,
+    "gn:latitude":15.61426,
+    "gn:longitude":44.91621,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Sulayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976162
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"879529a4e38a603961cd5e99ad303224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925245,
+            "locality_id":1225818683,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1225818683,
+    "wof:lastmodified":1537716146,
+    "wof:name":"As Sulayl",
+    "wof:parent_id":1091925245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91621,
+    15.61426,
+    44.91621,
+    15.61426
+],
+  "geometry": {"coordinates":[44.91621,15.61426],"type":"Point"}
+}

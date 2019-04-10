@@ -1,0 +1,71 @@
+{
+  "id": 1293444795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21839,13.64714,44.21839,13.64714",
+    "geom:latitude":13.64714,
+    "geom:longitude":44.21839,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Hawafilah",
+    "gn:country_code":"YE",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357418,
+    "gn:latitude":13.64714,
+    "gn:longitude":44.21839,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28aw\u0101filah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28aw\u0101filah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357418
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b5bfde43ad85a9e425aa0bf3e038181c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1293444795,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293444795,
+    "wof:lastmodified":1537715700,
+    "wof:name":"Hawafilah",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21839,
+    13.64714,
+    44.21839,
+    13.64714
+],
+  "geometry": {"coordinates":[44.21839,13.64714],"type":"Point"}
+}

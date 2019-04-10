@@ -1,0 +1,73 @@
+{
+  "id": 890419461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35239,16.89099,43.35239,16.89099",
+    "geom:latitude":16.89099,
+    "geom:longitude":43.35239,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0645\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fumrah"
+    ],
+    "qs:name":"Al Fumrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927034,
+        "gp:id":1958992,
+        "qs:id":745371,
+        "wd:id":"Q20305513"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051288,
+    "wof:geomhash":"c52d6cae4144f6b69de4d115c6997428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":890419461,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419461,
+    "wof:lastmodified":1514503142,
+    "wof:name":"Al Fumrah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35239,
+    16.89099,
+    43.35239,
+    16.89099
+],
+  "geometry": {"coordinates":[43.35239,16.89099],"type":"Point"}
+}

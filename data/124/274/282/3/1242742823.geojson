@@ -1,0 +1,74 @@
+{
+  "id": 1242742823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06012,15.82106,44.06012,15.82106",
+    "geom:latitude":15.82106,
+    "geom:longitude":44.06012,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"Al Karsa'ah",
+    "gn:country_code":"YE",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975350,
+    "gn:latitude":15.82106,
+    "gn:longitude":44.06012,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Karsa\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0633\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Karsa\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975350
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23b0787d00c3211a87d2aacbc3156995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922025,
+            "locality_id":1242742823,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1242742823,
+    "wof:lastmodified":1537716123,
+    "wof:name":"Al Karsa'ah",
+    "wof:parent_id":1091922025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06012,
+    15.82106,
+    44.06012,
+    15.82106
+],
+  "geometry": {"coordinates":[44.06012,15.82106],"type":"Point"}
+}

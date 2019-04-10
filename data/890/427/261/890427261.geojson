@@ -1,0 +1,76 @@
+{
+  "id": 890427261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40301,16.61259,44.40301,16.61259",
+    "geom:latitude":16.61259,
+    "geom:longitude":44.40301,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":23,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mush\u0101ni\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0634\u0627\u0646\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mushani'"
+    ],
+    "qs:name":"Al Mush\u0101ni\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795307,
+        "gp:id":1959135,
+        "qs:id":701068,
+        "wd:id":"Q20303083"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051685,
+    "wof:geomhash":"8065f1c4c73e6f8ca1fc800b6010f63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890427261,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427261,
+    "wof:lastmodified":1514503193,
+    "wof:name":"Al Mush\u0101ni\u2018",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40301,
+    16.61259,
+    44.40301,
+    16.61259
+],
+  "geometry": {"coordinates":[44.40301,16.61259],"type":"Point"}
+}

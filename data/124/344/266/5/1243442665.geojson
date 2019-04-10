@@ -1,0 +1,74 @@
+{
+  "id": 1243442665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63226,15.45776,43.63226,15.45776",
+    "geom:latitude":15.45776,
+    "geom:longitude":43.63226,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Ar Rujum",
+    "gn:country_code":"YE",
+    "gn:dem":1958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":402074,
+    "gn:latitude":15.45776,
+    "gn:longitude":43.63226,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rujum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rujum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402074
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76604d2e71910ccc627c109a0a8bc24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1243442665,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243442665,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Ar Rujum",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63226,
+    15.45776,
+    43.63226,
+    15.45776
+],
+  "geometry": {"coordinates":[43.63226,15.45776],"type":"Point"}
+}

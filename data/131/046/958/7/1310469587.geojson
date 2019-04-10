@@ -1,0 +1,74 @@
+{
+  "id": 1310469587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92024,13.62376,43.92024,13.62376",
+    "geom:latitude":13.62376,
+    "geom:longitude":43.92024,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Afzar",
+    "gn:country_code":"YE",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407798,
+    "gn:latitude":13.62376,
+    "gn:longitude":43.92024,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Afz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Afz\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0641\u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407798
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a4e4832a80bb2151e6ea56399cba55bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1310469587,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310469587,
+    "wof:lastmodified":1537715404,
+    "wof:name":"Al Afzar",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92024,
+    13.62376,
+    43.92024,
+    13.62376
+],
+  "geometry": {"coordinates":[43.92024,13.62376],"type":"Point"}
+}

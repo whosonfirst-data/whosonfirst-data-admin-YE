@@ -1,0 +1,71 @@
+{
+  "id": 1242847037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40072,16.88535,43.40072,16.88535",
+    "geom:latitude":16.88535,
+    "geom:longitude":43.40072,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Al Qawz",
+    "gn:country_code":"YE",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8357328,
+    "gn:latitude":16.88535,
+    "gn:longitude":43.40072,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qawz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8357328
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25982dcbb6780bb77ee8a410d4f27f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1242847037,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242847037,
+    "wof:lastmodified":1537716046,
+    "wof:name":"Al Qawz",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40072,
+    16.88535,
+    43.40072,
+    16.88535
+],
+  "geometry": {"coordinates":[43.40072,16.88535],"type":"Point"}
+}

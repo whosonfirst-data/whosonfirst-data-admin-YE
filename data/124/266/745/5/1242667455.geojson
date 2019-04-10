@@ -1,0 +1,74 @@
+{
+  "id": 1242667455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1075,15.26641,43.1075,15.26641",
+    "geom:latitude":15.26641,
+    "geom:longitude":43.1075,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall al Juthaym",
+    "gn:country_code":"YE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036014,
+    "gn:latitude":15.26641,
+    "gn:longitude":43.1075,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al Juthaym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u062c\u062b\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Juthaym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036014
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a22d841bea9ccd7c17b2f008b6e6cf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1242667455,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242667455,
+    "wof:lastmodified":1537716306,
+    "wof:name":"Mahall al Juthaym",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1075,
+    15.26641,
+    43.1075,
+    15.26641
+],
+  "geometry": {"coordinates":[43.1075,15.26641],"type":"Point"}
+}

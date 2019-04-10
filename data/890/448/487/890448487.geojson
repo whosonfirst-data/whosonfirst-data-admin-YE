@@ -1,0 +1,76 @@
+{
+  "id": 890448487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30596,16.66403,43.30596,16.66403",
+    "geom:latitude":16.66403,
+    "geom:longitude":43.30596,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Gh\u0101rib Qumr"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0627\u0631\u0628 \u0642\u0645\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Gharib Qumr"
+    ],
+    "qs:name":"Gh\u0101rib Qumr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855007,
+        "gp:id":1959134,
+        "qs:id":741943,
+        "wd:id":"Q20304106"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052633,
+    "wof:geomhash":"120fedbd6b7a3a544c2126f5d1baaedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890448487,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448487,
+    "wof:lastmodified":1514503270,
+    "wof:name":"Gh\u0101rib Qumr",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30596,
+    16.66403,
+    43.30596,
+    16.66403
+],
+  "geometry": {"coordinates":[43.30596,16.66403],"type":"Point"}
+}

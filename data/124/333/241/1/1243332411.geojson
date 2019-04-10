@@ -1,0 +1,68 @@
+{
+  "id": 1243332411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66172,15.66766,43.66172,15.66766",
+    "geom:latitude":15.66766,
+    "geom:longitude":43.66172,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1719.0",
+    "gn:asciiname":"Maswar",
+    "gn:country_code":"YE",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344060,
+    "gn:latitude":15.66766,
+    "gn:longitude":43.66172,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maswar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344060
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"72c846e46ede053188ea162adef256ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924267,
+            "locality_id":1243332411,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243332411,
+    "wof:lastmodified":1536969791,
+    "wof:name":"Maswar",
+    "wof:parent_id":1091924267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66172,
+    15.66766,
+    43.66172,
+    15.66766
+],
+  "geometry": {"coordinates":[43.66172,15.66766],"type":"Point"}
+}

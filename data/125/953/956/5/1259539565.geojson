@@ -1,0 +1,72 @@
+{
+  "id": 1259539565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12851,14.11605,44.12851,14.11605",
+    "geom:latitude":14.11605,
+    "geom:longitude":44.12851,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Hisam ad Din",
+    "gn:country_code":"YE",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360072,
+    "gn:latitude":14.11605,
+    "gn:longitude":44.12851,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"\u1e28is\u0101m ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28is\u0101m ad D\u012bn",
+        "\u1e28us\u0101m ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360072
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"03bb12fa0b117c1553f13933ec407310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1259539565,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259539565,
+    "wof:lastmodified":1537715790,
+    "wof:name":"Hisam ad Din",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12851,
+    14.11605,
+    44.12851,
+    14.11605
+],
+  "geometry": {"coordinates":[44.12851,14.11605],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226420887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85636,15.46739,43.85636,15.46739",
+    "geom:latitude":15.46739,
+    "geom:longitude":43.85636,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Maksam",
+    "gn:country_code":"YE",
+    "gn:dem":2493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366969,
+    "gn:latitude":15.46739,
+    "gn:longitude":43.85636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maksam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366969
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95d2612ce5d6b81f22a50018f1195802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1226420887,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226420887,
+    "wof:lastmodified":1536681317,
+    "wof:name":"Maksam",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85636,
+    15.46739,
+    43.85636,
+    15.46739
+],
+  "geometry": {"coordinates":[43.85636,15.46739],"type":"Point"}
+}

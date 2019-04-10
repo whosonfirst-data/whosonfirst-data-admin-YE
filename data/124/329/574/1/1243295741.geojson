@@ -1,0 +1,71 @@
+{
+  "id": 1243295741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.43333,15.95,48.43333,15.95",
+    "geom:latitude":15.95,
+    "geom:longitude":48.43333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1907.0",
+    "gn:asciiname":"Qalat",
+    "gn:country_code":"YE",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72023,
+    "gn:latitude":15.95,
+    "gn:longitude":48.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6fd9af4c516f2228e778883497bb0777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922733,
+            "locality_id":1243295741,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243295741,
+    "wof:lastmodified":1537715107,
+    "wof:name":"Qalat",
+    "wof:parent_id":1091922733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.43333,
+    15.95,
+    48.43333,
+    15.95
+],
+  "geometry": {"coordinates":[48.43333,15.95],"type":"Point"}
+}

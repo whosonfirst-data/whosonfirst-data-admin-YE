@@ -1,0 +1,71 @@
+{
+  "id": 1243024183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04666,13.91435,44.04666,13.91435",
+    "geom:latitude":13.91435,
+    "geom:longitude":44.04666,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"As Salahif",
+    "gn:country_code":"YE",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356596,
+    "gn:latitude":13.91435,
+    "gn:longitude":44.04666,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eal\u0101\u1e29if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eal\u0101\u1e29if"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356596
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7b1d471b9566d0228d299e8105983c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924651,
+            "locality_id":1243024183,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243024183,
+    "wof:lastmodified":1537715680,
+    "wof:name":"As Salahif",
+    "wof:parent_id":1091924651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04666,
+    13.91435,
+    44.04666,
+    13.91435
+],
+  "geometry": {"coordinates":[44.04666,13.91435],"type":"Point"}
+}

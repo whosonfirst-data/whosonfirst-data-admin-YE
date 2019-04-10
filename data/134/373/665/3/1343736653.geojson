@@ -1,0 +1,71 @@
+{
+  "id": 1343736653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00342,14.33481,45.00342,14.33481",
+    "geom:latitude":14.33481,
+    "geom:longitude":45.00342,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Kharabat Sha`ban",
+    "gn:country_code":"YE",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340380,
+    "gn:latitude":14.33481,
+    "gn:longitude":45.00342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khar\u0101bat Sha\u2018b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khar\u0101bat Sha\u2018b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340380
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"28c7820b57f5454f32b9e44dd6d7a316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1343736653,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1343736653,
+    "wof:lastmodified":1537715447,
+    "wof:name":"Kharabat Sha`ban",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00342,
+    14.33481,
+    45.00342,
+    14.33481
+],
+  "geometry": {"coordinates":[45.00342,14.33481],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293740185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3358,15.7524,43.3358,15.7524",
+    "geom:latitude":15.7524,
+    "geom:longitude":43.3358,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Al Mighadir",
+    "gn:country_code":"YE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366127,
+    "gn:latitude":15.7524,
+    "gn:longitude":43.3358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Migh\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Migh\u0101dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f2f1f61c7442966d38be8e19c77ca5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1293740185,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293740185,
+    "wof:lastmodified":1537715947,
+    "wof:name":"Al Mighadir",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3358,
+    15.7524,
+    43.3358,
+    15.7524
+],
+  "geometry": {"coordinates":[43.3358,15.7524],"type":"Point"}
+}

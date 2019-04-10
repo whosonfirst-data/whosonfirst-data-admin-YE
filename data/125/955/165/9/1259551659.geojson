@@ -1,0 +1,71 @@
+{
+  "id": 1259551659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81694,13.14389,44.81694,13.14389",
+    "geom:latitude":13.14389,
+    "geom:longitude":44.81694,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2515.0",
+    "gn:asciiname":"As Salulah",
+    "gn:country_code":"YE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408405,
+    "gn:latitude":13.14389,
+    "gn:longitude":44.81694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eal\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eal\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408405
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3579cbfc1fbf096159ee88d194c047a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924941,
+            "locality_id":1259551659,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259551659,
+    "wof:lastmodified":1537715419,
+    "wof:name":"As Salulah",
+    "wof:parent_id":1091924941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81694,
+    13.14389,
+    44.81694,
+    13.14389
+],
+  "geometry": {"coordinates":[44.81694,13.14389],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293657537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82556,13.42611,44.82556,13.42611",
+    "geom:latitude":13.42611,
+    "geom:longitude":44.82556,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Al Milah",
+    "gn:country_code":"YE",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":78814,
+    "gn:latitude":13.42611,
+    "gn:longitude":44.82556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mil\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mil\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0644\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78814
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"470412d8ae0066f3ed971ff02fd39a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924821,
+            "locality_id":1293657537,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293657537,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Milah",
+    "wof:parent_id":1091924821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82556,
+    13.42611,
+    44.82556,
+    13.42611
+],
+  "geometry": {"coordinates":[44.82556,13.42611],"type":"Point"}
+}

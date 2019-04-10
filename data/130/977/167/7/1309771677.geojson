@@ -1,0 +1,73 @@
+{
+  "id": 1309771677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85294,13.85055,44.85294,13.85055",
+    "geom:latitude":13.85055,
+    "geom:longitude":44.85294,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Qatid",
+    "gn:country_code":"YE",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71895,
+    "gn:latitude":13.85055,
+    "gn:longitude":44.85294,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qat\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katid",
+        "Qatad",
+        "Qat\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"09a90fddb64f0dfdf7c877f29cd64da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919697,
+            "locality_id":1309771677,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1309771677,
+    "wof:lastmodified":1537715104,
+    "wof:name":"Qatid",
+    "wof:parent_id":1091919697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85294,
+    13.85055,
+    44.85294,
+    13.85055
+],
+  "geometry": {"coordinates":[44.85294,13.85055],"type":"Point"}
+}

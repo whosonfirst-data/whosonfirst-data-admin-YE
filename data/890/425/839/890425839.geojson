@@ -1,0 +1,73 @@
+{
+  "id": 890425839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42484,16.54673,43.42484,16.54673",
+    "geom:latitude":16.54673,
+    "geom:longitude":43.42484,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0627\u062d\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Miyahah"
+    ],
+    "qs:name":"Miy\u0101\u1e29ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854809,
+        "gp:id":1959061,
+        "qs:id":741754,
+        "wd:id":"Q20301965"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051606,
+    "wof:geomhash":"6e2b31cd9507a8509c47725273c7d5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890425839,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425839,
+    "wof:lastmodified":1514503327,
+    "wof:name":"Miy\u0101\u1e29ah",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42484,
+    16.54673,
+    43.42484,
+    16.54673
+],
+  "geometry": {"coordinates":[43.42484,16.54673],"type":"Point"}
+}

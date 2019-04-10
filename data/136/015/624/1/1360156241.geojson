@@ -1,0 +1,68 @@
+{
+  "id": 1360156241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72993,15.11556,43.72993,15.11556",
+    "geom:latitude":15.11556,
+    "geom:longitude":43.72993,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"Bayt ash Shaybah",
+    "gn:country_code":"YE",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360783,
+    "gn:latitude":15.11556,
+    "gn:longitude":43.72993,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt ash Shaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360783
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9174c6cfa6f08b4f3411e4c02653f06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1360156241,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1360156241,
+    "wof:lastmodified":1536842089,
+    "wof:name":"Bayt ash Shaybah",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72993,
+    15.11556,
+    43.72993,
+    15.11556
+],
+  "geometry": {"coordinates":[43.72993,15.11556],"type":"Point"}
+}

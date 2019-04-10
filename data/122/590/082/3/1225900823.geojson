@@ -1,0 +1,74 @@
+{
+  "id": 1225900823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35309,16.42278,44.35309,16.42278",
+    "geom:latitude":16.42278,
+    "geom:longitude":44.35309,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1602.0",
+    "gn:asciiname":"Al Mawasim",
+    "gn:country_code":"YE",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974386,
+    "gn:latitude":16.42278,
+    "gn:longitude":44.35309,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maw\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Maw\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974386
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7267049e38f4d8ddb043fa756997666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":1225900823,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1225900823,
+    "wof:lastmodified":1537716109,
+    "wof:name":"Al Mawasim",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35309,
+    16.42278,
+    44.35309,
+    16.42278
+],
+  "geometry": {"coordinates":[44.35309,16.42278],"type":"Point"}
+}

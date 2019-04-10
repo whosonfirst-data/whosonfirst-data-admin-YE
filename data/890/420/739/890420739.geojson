@@ -1,0 +1,76 @@
+{
+  "id": 890420739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44818,17.44234,43.44818,17.44234",
+    "geom:latitude":17.44234,
+    "geom:longitude":43.44818,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":28,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018Usl\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0639\u0633\u0644\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Uslan"
+    ],
+    "qs:name":"\u0100l \u2018Usl\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856456,
+        "gp:id":1939827,
+        "qs:id":742377,
+        "wd:id":"Q20303324"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051360,
+    "wof:geomhash":"d6d9f660e15592f46cc2a0ce5b57a88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890420739,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420739,
+    "wof:lastmodified":1514503393,
+    "wof:name":"\u0100l \u2018Usl\u0101n",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44818,
+    17.44234,
+    43.44818,
+    17.44234
+],
+  "geometry": {"coordinates":[43.44818,17.44234],"type":"Point"}
+}

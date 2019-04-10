@@ -1,0 +1,74 @@
+{
+  "id": 1327418425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42802,14.72423,43.42802,14.72423",
+    "geom:latitude":14.72423,
+    "geom:longitude":43.42802,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Al Hubayl al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058500,
+    "gn:latitude":14.72423,
+    "gn:longitude":43.42802,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ubayl al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0628\u064a\u0644 \u0627\u0644\u0627\u0633\u0641\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ubayl al Asfal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058500
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"58e5b388cbbf0338e6a02f1ec7012e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920045,
+            "locality_id":1327418425,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327418425,
+    "wof:lastmodified":1537716341,
+    "wof:name":"Al Hubayl al Asfal",
+    "wof:parent_id":1091920045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42802,
+    14.72423,
+    43.42802,
+    14.72423
+],
+  "geometry": {"coordinates":[43.42802,14.72423],"type":"Point"}
+}

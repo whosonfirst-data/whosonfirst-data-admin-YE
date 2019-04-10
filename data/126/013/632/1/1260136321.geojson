@@ -1,0 +1,72 @@
+{
+  "id": 1260136321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59849,15.63857,43.59849,15.63857",
+    "geom:latitude":15.63857,
+    "geom:longitude":43.59849,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1729.0",
+    "gn:asciiname":"Bal `Asari",
+    "gn:country_code":"YE",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34824,
+    "gn:latitude":15.63857,
+    "gn:longitude":43.59849,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101l \u2018Asar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101l \u2018Asar\u012b",
+        "Ban\u012b al \u2018A\u015far\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34824
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8aba5b1dbd6038621ad8c71496fb694f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923859,
+            "locality_id":1260136321,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260136321,
+    "wof:lastmodified":1537715056,
+    "wof:name":"Bal `Asari",
+    "wof:parent_id":1091923859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59849000000001,
+    15.63857,
+    43.59849000000001,
+    15.63857
+],
+  "geometry": {"coordinates":[43.59849000000001,15.63857],"type":"Point"}
+}

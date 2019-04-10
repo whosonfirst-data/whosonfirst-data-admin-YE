@@ -1,0 +1,71 @@
+{
+  "id": 1360167493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44665,17.30502,43.44665,17.30502",
+    "geom:latitude":17.30502,
+    "geom:longitude":43.44665,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Qarn Himaydah",
+    "gn:country_code":"YE",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345695,
+    "gn:latitude":17.30502,
+    "gn:longitude":43.44665,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qarn \u1e28imaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarn \u1e28imaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345695
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6ca98e555ebfb7471dafe6e0e05eb897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1360167493,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360167493,
+    "wof:lastmodified":1537715565,
+    "wof:name":"Qarn Himaydah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44665,
+    17.30502000000001,
+    43.44665,
+    17.30502000000001
+],
+  "geometry": {"coordinates":[43.44665,17.30502000000001],"type":"Point"}
+}

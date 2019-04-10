@@ -1,0 +1,74 @@
+{
+  "id": 1226211145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59128,15.57018,43.59128,15.57018",
+    "geom:latitude":15.57018,
+    "geom:longitude":43.59128,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Qal'at Bab an Nur",
+    "gn:country_code":"YE",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980755,
+    "gn:latitude":15.57018,
+    "gn:longitude":43.59128,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at B\u0101b an N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0628\u0627\u0628 \u0627\u0644\u0646\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at B\u0101b an N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980755
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9842fe79e06b679086e1724ae48cf8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1226211145,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226211145,
+    "wof:lastmodified":1537716182,
+    "wof:name":"Qal'at Bab an Nur",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59128,
+    15.57018,
+    43.59128,
+    15.57018
+],
+  "geometry": {"coordinates":[43.59128,15.57018],"type":"Point"}
+}

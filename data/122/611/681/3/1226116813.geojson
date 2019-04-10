@@ -1,0 +1,71 @@
+{
+  "id": 1226116813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56393,14.45244,45.56393,14.45244",
+    "geom:latitude":14.45244,
+    "geom:longitude":45.56393,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Jamaliyat Al al `Arif",
+    "gn:country_code":"YE",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30539,
+    "gn:latitude":14.45244,
+    "gn:longitude":45.56393,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jamal\u012byat \u0100l al \u2018Ar\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamal\u012byat \u0100l al \u2018Ar\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30539
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ba8b7dd34a8992f1fb3f36679b1ef1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919451,
+            "locality_id":1226116813,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226116813,
+    "wof:lastmodified":1537715046,
+    "wof:name":"Jamaliyat Al al `Arif",
+    "wof:parent_id":1091919451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56393,
+    14.45244,
+    45.56393,
+    14.45244
+],
+  "geometry": {"coordinates":[45.56393,14.45244],"type":"Point"}
+}

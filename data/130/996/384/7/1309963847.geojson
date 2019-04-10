@@ -1,0 +1,74 @@
+{
+  "id": 1309963847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13402,14.05627,44.13402,14.05627",
+    "geom:latitude":14.05627,
+    "geom:longitude":44.13402,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Ash Shabar",
+    "gn:country_code":"YE",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359983,
+    "gn:latitude":14.05627,
+    "gn:longitude":44.13402,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Shabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ash Shabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359983
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5a5f4ff924dd71c20cf53268e6cdc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1309963847,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309963847,
+    "wof:lastmodified":1537715786,
+    "wof:name":"Ash Shabar",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13402,
+    14.05627,
+    44.13402,
+    14.05627
+],
+  "geometry": {"coordinates":[44.13402,14.05627],"type":"Point"}
+}

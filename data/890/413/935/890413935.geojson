@@ -1,0 +1,76 @@
+{
+  "id": 890413935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60427,17.05275,43.60427,17.05275",
+    "geom:latitude":17.05275,
+    "geom:longitude":43.60427,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":60,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Fir\u0101y\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0631\u0627\u064a\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Firayin"
+    ],
+    "qs:name":"Al Fir\u0101y\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794813,
+        "gp:id":1959094,
+        "qs:id":700596,
+        "wd:id":"Q20305464"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051021,
+    "wof:geomhash":"bf86ef7e7fea445807def1aa0f547ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":890413935,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413935,
+    "wof:lastmodified":1514503142,
+    "wof:name":"Al Fir\u0101y\u012bn",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60427,
+    17.05275,
+    43.60427,
+    17.05275
+],
+  "geometry": {"coordinates":[43.60427,17.05275],"type":"Point"}
+}

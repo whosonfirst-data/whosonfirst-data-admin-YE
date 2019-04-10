@@ -1,0 +1,68 @@
+{
+  "id": 1327133643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,15.46667,48.31667,15.46667",
+    "geom:latitude":15.46667,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Al Jidfirah",
+    "gn:country_code":"YE",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79253,
+    "gn:latitude":15.46667,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jidfirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79253
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6e48cee29e895eeba26dfbc711fbd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923043,
+            "locality_id":1327133643,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327133643,
+    "wof:lastmodified":1536611814,
+    "wof:name":"Al Jidfirah",
+    "wof:parent_id":1091923043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    15.46667,
+    48.31667,
+    15.46667
+],
+  "geometry": {"coordinates":[48.31667,15.46667],"type":"Point"}
+}

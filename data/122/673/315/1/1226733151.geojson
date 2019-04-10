@@ -1,0 +1,68 @@
+{
+  "id": 1226733151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35611,14.69341,45.35611,14.69341",
+    "geom:latitude":14.69341,
+    "geom:longitude":45.35611,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2611.0",
+    "gn:asciiname":"As Saylah",
+    "gn:country_code":"YE",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341007,
+    "gn:latitude":14.69341,
+    "gn:longitude":45.35611,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Saylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341007
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10ff758432c786c8fff45e2da1625dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":1226733151,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226733151,
+    "wof:lastmodified":1536733895,
+    "wof:name":"As Saylah",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35611,
+    14.69341,
+    45.35611,
+    14.69341
+],
+  "geometry": {"coordinates":[45.35611,14.69341],"type":"Point"}
+}

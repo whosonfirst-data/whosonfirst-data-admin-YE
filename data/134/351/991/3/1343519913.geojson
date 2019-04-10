@@ -1,0 +1,71 @@
+{
+  "id": 1343519913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36728,15.95526,43.36728,15.95526",
+    "geom:latitude":15.95526,
+    "geom:longitude":43.36728,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Mihlajah",
+    "gn:country_code":"YE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366129,
+    "gn:latitude":15.95526,
+    "gn:longitude":43.36728,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mi\u1e29l\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mi\u1e29l\u0101jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366129
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a0b17b36015ca3337a968546098d8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1343519913,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343519913,
+    "wof:lastmodified":1537715947,
+    "wof:name":"Al Mihlajah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36728,
+    15.95526,
+    43.36728,
+    15.95526
+],
+  "geometry": {"coordinates":[43.36728,15.95526],"type":"Point"}
+}

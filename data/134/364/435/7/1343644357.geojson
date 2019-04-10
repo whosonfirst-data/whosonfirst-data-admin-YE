@@ -1,0 +1,68 @@
+{
+  "id": 1343644357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55,16.98333,43.55,16.98333",
+    "geom:latitude":16.98333,
+    "geom:longitude":43.55,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Ghallah",
+    "gn:country_code":"YE",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79718,
+    "gn:latitude":16.98333,
+    "gn:longitude":43.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ghallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79718
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"208562e42b8fcdc46823bfc092beedac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1343644357,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343644357,
+    "wof:lastmodified":1536977751,
+    "wof:name":"Al Ghallah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55,
+    16.98333,
+    43.55,
+    16.98333
+],
+  "geometry": {"coordinates":[43.55,16.98333],"type":"Point"}
+}

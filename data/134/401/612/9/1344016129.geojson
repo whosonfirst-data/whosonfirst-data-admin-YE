@@ -1,0 +1,68 @@
+{
+  "id": 1344016129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18262,14.3683,44.18262,14.3683",
+    "geom:latitude":14.3683,
+    "geom:longitude":44.18262,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Basar",
+    "gn:country_code":"YE",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359044,
+    "gn:latitude":14.3683,
+    "gn:longitude":44.18262,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Basar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359044
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2a59b1b1b069120033e2d7ff016450e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1344016129,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1344016129,
+    "wof:lastmodified":1536940442,
+    "wof:name":"Basar",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18262,
+    14.3683,
+    44.18262,
+    14.3683
+],
+  "geometry": {"coordinates":[44.18262,14.3683],"type":"Point"}
+}

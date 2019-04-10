@@ -1,0 +1,73 @@
+{
+  "id": 1344026253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6,13.46667,44.6,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":44.6,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Dajran",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76592,
+    "gn:latitude":13.46667,
+    "gn:longitude":44.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dajr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dijran",
+        "Dajr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aceb32c9ca91adce299081a618819bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924843,
+            "locality_id":1344026253,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1344026253,
+    "wof:lastmodified":1537715206,
+    "wof:name":"Dajran",
+    "wof:parent_id":1091924843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6,
+    13.46667,
+    44.6,
+    13.46667
+],
+  "geometry": {"coordinates":[44.6,13.46667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193252413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29303,16.77972,44.29303,16.77972",
+    "geom:latitude":16.77972,
+    "geom:longitude":44.29303,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Bin Qumri",
+    "gn:country_code":"YE",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362824,
+    "gn:latitude":16.77972,
+    "gn:longitude":44.29303,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bin Qumr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bin Qumr\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0646 \u0642\u0645\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all Bin Qumr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362824
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a291ff60bba4b4471ad790ba40ceee45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1193252413,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1193252413,
+    "wof:lastmodified":1537715856,
+    "wof:name":"Bin Qumri",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29303,
+    16.77972,
+    44.29303,
+    16.77972
+],
+  "geometry": {"coordinates":[44.29303,16.77972],"type":"Point"}
+}

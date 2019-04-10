@@ -1,0 +1,73 @@
+{
+  "id": 890439481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21952,17.16536,43.21952,17.16536",
+    "geom:latitude":17.16536,
+    "geom:longitude":43.21952,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u0639 \u0630\u0627\u0631\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Qam' Dhari'"
+    ],
+    "qs:name":"Qam\u2018 Dh\u0101ri\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022188,
+        "gp:id":1938607,
+        "qs:id":750348,
+        "wd:id":"Q20305309"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052237,
+    "wof:geomhash":"f8bc740fa01a4bd29e16423d39436b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890439481,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890439481,
+    "wof:lastmodified":1514503333,
+    "wof:name":"Qam\u2018 Dh\u0101ri\u2018",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21952,
+    17.16536,
+    43.21952,
+    17.16536
+],
+  "geometry": {"coordinates":[43.21952,17.16536],"type":"Point"}
+}

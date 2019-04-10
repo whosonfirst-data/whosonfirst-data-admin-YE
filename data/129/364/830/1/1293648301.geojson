@@ -1,0 +1,71 @@
+{
+  "id": 1293648301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51667,14.56667,45.51667,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":45.51667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Al Khul",
+    "gn:country_code":"YE",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30542,
+    "gn:latitude":14.56667,
+    "gn:longitude":45.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Kh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30542
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c31b00c5e430ed4284886066988e4321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919415,
+            "locality_id":1293648301,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293648301,
+    "wof:lastmodified":1537715046,
+    "wof:name":"Al Khul",
+    "wof:parent_id":1091919415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51667,
+    14.56667,
+    45.51667,
+    14.56667
+],
+  "geometry": {"coordinates":[45.51667,14.56667],"type":"Point"}
+}

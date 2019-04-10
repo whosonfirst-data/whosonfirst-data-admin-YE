@@ -1,0 +1,74 @@
+{
+  "id": 1293073599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27167,17.14436,43.27167,17.14436",
+    "geom:latitude":17.14436,
+    "geom:longitude":43.27167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Nayd Shawhat",
+    "gn:country_code":"YE",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345986,
+    "gn:latitude":17.14436,
+    "gn:longitude":43.27167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nayd Shaw\u1e29a\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u062f \u0634\u0648\u062d\u0637"
+    ],
+    "name:und_x_variant":[
+        "Nayd Shaw\u1e29a\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345986
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52408ce5e8963984e987ad3a7426e781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293073599,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293073599,
+    "wof:lastmodified":1537715575,
+    "wof:name":"Nayd Shawhat",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27167,
+    17.14436,
+    43.27167,
+    17.14436
+],
+  "geometry": {"coordinates":[43.27167,17.14436],"type":"Point"}
+}

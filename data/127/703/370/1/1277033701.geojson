@@ -1,0 +1,73 @@
+{
+  "id": 1277033701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39179,14.3691,44.39179,14.3691",
+    "geom:latitude":14.3691,
+    "geom:longitude":44.39179,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"As Sulbah",
+    "gn:country_code":"YE",
+    "gn:dem":2559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950752,
+    "gn:latitude":14.3691,
+    "gn:longitude":44.39179,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"A\u015f \u015eulbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0644\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eulbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950752
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9439c97b88123eb591957415b11c2f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1277033701,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1277033701,
+    "wof:lastmodified":1537716287,
+    "wof:name":"As Sulbah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39179,
+    14.3691,
+    44.39179,
+    14.3691
+],
+  "geometry": {"coordinates":[44.39179,14.3691],"type":"Point"}
+}

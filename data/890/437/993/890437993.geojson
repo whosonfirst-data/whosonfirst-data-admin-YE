@@ -1,0 +1,83 @@
+{
+  "id": 890437993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21775,14.88941,45.21775,14.88941",
+    "geom:latitude":14.88941,
+    "geom:longitude":45.21775,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "As Sawar"
+    ],
+    "name:unk_x_variant":[
+        "Saw\u0101r"
+    ],
+    "qs:name":"As Saw\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900550,
+        "gp:id":1959055,
+        "qs:id":751754,
+        "qs_pg:id":744317,
+        "wd:id":"Q20303039"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052175,
+    "wof:geomhash":"44b5680c80b99e4ae48f2e98883d3959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890437993,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890437993,
+    "wof:lastmodified":1514503226,
+    "wof:name":"As Saw\u0101r",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21775,
+    14.88941,
+    45.21775,
+    14.88941
+],
+  "geometry": {"coordinates":[45.21775,14.88941],"type":"Point"}
+}

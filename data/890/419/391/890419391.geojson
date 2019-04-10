@@ -1,0 +1,73 @@
+{
+  "id": 890419391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2597,17.15143,43.2597,17.15143",
+    "geom:latitude":17.15143,
+    "geom:longitude":43.2597,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0629 \u0627\u0644\u0631\u0648\u064a\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Mishshat Ar Ruwayq"
+    ],
+    "qs:name":"Mishshat ar Ruwayq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866926,
+        "gp:id":1938607,
+        "qs:id":743100,
+        "wd:id":"Q20301915"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051285,
+    "wof:geomhash":"49ffb559be51f1e0021ab7091ad60d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890419391,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419391,
+    "wof:lastmodified":1514503327,
+    "wof:name":"Mishshat ar Ruwayq",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2597,
+    17.15143,
+    43.2597,
+    17.15143
+],
+  "geometry": {"coordinates":[43.2597,17.15143],"type":"Point"}
+}

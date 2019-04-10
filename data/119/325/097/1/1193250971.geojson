@@ -1,0 +1,74 @@
+{
+  "id": 1193250971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34398,16.86624,43.34398,16.86624",
+    "geom:latitude":16.86624,
+    "geom:longitude":43.34398,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Al Mazar",
+    "gn:country_code":"YE",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537570,
+    "gn:latitude":16.86624,
+    "gn:longitude":43.34398,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maz\u0327ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0638\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Maz\u0327ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537570
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e64b6ca296496b280f63199415b5e471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1193250971,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1193250971,
+    "wof:lastmodified":1537716054,
+    "wof:name":"Al Mazar",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34398,
+    16.86624,
+    43.34398,
+    16.86624
+],
+  "geometry": {"coordinates":[43.34398,16.86624],"type":"Point"}
+}

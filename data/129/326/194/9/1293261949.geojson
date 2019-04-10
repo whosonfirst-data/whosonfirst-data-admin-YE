@@ -1,0 +1,71 @@
+{
+  "id": 1293261949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29296,16.65709,43.29296,16.65709",
+    "geom:latitude":16.65709,
+    "geom:longitude":43.29296,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Al Manshaykhah",
+    "gn:country_code":"YE",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854996,
+    "gn:latitude":16.65709,
+    "gn:longitude":43.29296,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Manshaykhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0634\u064a\u062e\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854996
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"01b0a5883746afd70c4ff06c67a5ff01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1293261949,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293261949,
+    "wof:lastmodified":1537715999,
+    "wof:name":"Al Manshaykhah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29296,
+    16.65709,
+    43.29296,
+    16.65709
+],
+  "geometry": {"coordinates":[43.29296,16.65709],"type":"Point"}
+}

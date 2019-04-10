@@ -1,0 +1,74 @@
+{
+  "id": 1310691217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4338,14.91499,43.4338,14.91499",
+    "geom:latitude":14.91499,
+    "geom:longitude":43.4338,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Maqsa'",
+    "gn:country_code":"YE",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058236,
+    "gn:latitude":14.91499,
+    "gn:longitude":43.4338,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maq\u015fa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0635\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u015fa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058236
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa905d9c15f1f451f7473563099a6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1310691217,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310691217,
+    "wof:lastmodified":1537716331,
+    "wof:name":"Al Maqsa'",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4338,
+    14.91499,
+    43.4338,
+    14.91499
+],
+  "geometry": {"coordinates":[43.4338,14.91499],"type":"Point"}
+}

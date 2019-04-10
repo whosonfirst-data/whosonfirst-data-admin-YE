@@ -1,0 +1,71 @@
+{
+  "id": 1242842099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80858,13.84982,43.80858,13.84982",
+    "geom:latitude":13.84982,
+    "geom:longitude":43.80858,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Al A'ruq",
+    "gn:country_code":"YE",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354893,
+    "gn:latitude":13.84982,
+    "gn:longitude":43.80858,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al A\u2018r\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al A\u2018r\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354893
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b77fe5228d2a08d8be319dd4e532ee33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":1242842099,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242842099,
+    "wof:lastmodified":1537716042,
+    "wof:name":"Al A'ruq",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80858,
+    13.84982,
+    43.80858,
+    13.84982
+],
+  "geometry": {"coordinates":[43.80858,13.84982],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890427961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28272,16.63398,46.28272,16.63398",
+    "geom:latitude":16.63398,
+    "geom:longitude":46.28272,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u064a\u0641\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Juwayfan"
+    ],
+    "qs:name":"Juwayf\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895332,
+        "gp:id":1938039,
+        "qs:id":744211,
+        "wd:id":"Q20306602"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051729,
+    "wof:geomhash":"6a1c1bfb68e6517d05c23555b56dd05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":890427961,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427961,
+    "wof:lastmodified":1514503299,
+    "wof:name":"Juwayf\u0101n",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28272,
+    16.63398,
+    46.28272,
+    16.63398
+],
+  "geometry": {"coordinates":[46.28272,16.63398],"type":"Point"}
+}

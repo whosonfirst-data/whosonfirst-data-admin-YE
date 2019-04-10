@@ -1,0 +1,76 @@
+{
+  "id": 890455111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70952,14.38764,45.70952,14.38764",
+    "geom:latitude":14.38764,
+    "geom:longitude":45.70952,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u062d\u0633\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Hayd Hassan"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28ayd \u1e28asan"
+    ],
+    "qs:name":"\u1e28ayd \u1e28assan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066838,
+        "gp:id":1958988,
+        "qs:id":752883,
+        "wd:id":"Q20305557"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052933,
+    "wof:geomhash":"608ef8ba1595b6e440ecda59ea61f6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919333,
+            "locality_id":890455111,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890455111,
+    "wof:lastmodified":1514503400,
+    "wof:name":"\u1e28ayd \u1e28assan",
+    "wof:parent_id":1091919333,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70952,
+    14.38764,
+    45.70952,
+    14.38764
+],
+  "geometry": {"coordinates":[45.70952,14.38764],"type":"Point"}
+}

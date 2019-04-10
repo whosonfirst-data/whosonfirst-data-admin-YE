@@ -1,0 +1,71 @@
+{
+  "id": 1310289639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1545,15.33612,43.1545,15.33612",
+    "geom:latitude":15.33612,
+    "geom:longitude":43.1545,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Al Jaysh",
+    "gn:country_code":"YE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036295,
+    "gn:latitude":15.33612,
+    "gn:longitude":43.1545,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jaysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036295
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dcc5b085c3c7efbf7b60e3fe60123923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1310289639,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310289639,
+    "wof:lastmodified":1537716317,
+    "wof:name":"Al Jaysh",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1545,
+    15.33612,
+    43.1545,
+    15.33612
+],
+  "geometry": {"coordinates":[43.1545,15.33612],"type":"Point"}
+}

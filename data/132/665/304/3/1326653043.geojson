@@ -1,0 +1,71 @@
+{
+  "id": 1326653043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,15.5,48.46667,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1919.0",
+    "gn:asciiname":"Sha`ran",
+    "gn:country_code":"YE",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70813,
+    "gn:latitude":15.5,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sha\u2018r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha\u2018r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70813
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f96e601943970741070ab66a18a2ada2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923285,
+            "locality_id":1326653043,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1326653043,
+    "wof:lastmodified":1537715085,
+    "wof:name":"Sha`ran",
+    "wof:parent_id":1091923285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    15.5,
+    48.46667,
+    15.5
+],
+  "geometry": {"coordinates":[48.46667,15.5],"type":"Point"}
+}

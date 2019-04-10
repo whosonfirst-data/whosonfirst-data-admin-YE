@@ -1,0 +1,68 @@
+{
+  "id": 890446717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75377,16.7547,43.75377,16.7547",
+    "geom:latitude":16.7547,
+    "geom:longitude":43.75377,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u0628\u0627\u0646"
+    ],
+    "qs:name":"Ta\u2018b\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680955,
+        85632499,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683875,
+        "qs:id":697570
+    },
+    "wof:country":"YE",
+    "wof:created":1469052564,
+    "wof:geomhash":"2b2b5bb62620c71ca162b7be61777fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "neighbourhood_id":890446717,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446717,
+    "wof:lastmodified":1505343612,
+    "wof:name":"Ta\u2018b\u0101n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75377,
+    16.7547,
+    43.75377,
+    16.7547
+],
+  "geometry": {"coordinates":[43.75377,16.7547],"type":"Point"}
+}

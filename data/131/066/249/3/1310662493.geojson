@@ -1,0 +1,72 @@
+{
+  "id": 1310662493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80607,15.96092,43.80607,15.96092",
+    "geom:latitude":15.96092,
+    "geom:longitude":43.80607,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"Ad Dula`ah",
+    "gn:country_code":"YE",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344015,
+    "gn:latitude":15.96092,
+    "gn:longitude":43.80607,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"A\u1e11 \u1e10ul\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ul\u0101\u2018ah",
+        "A\u1e11 \u1e10al\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f04a79373d44b7bfec104084342ed74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1310662493,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310662493,
+    "wof:lastmodified":1537715525,
+    "wof:name":"Ad Dula`ah",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80607,
+    15.96092,
+    43.80607,
+    15.96092
+],
+  "geometry": {"coordinates":[43.80607,15.96092],"type":"Point"}
+}

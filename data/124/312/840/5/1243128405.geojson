@@ -1,0 +1,71 @@
+{
+  "id": 1243128405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33112,15.74375,43.33112,15.74375",
+    "geom:latitude":15.74375,
+    "geom:longitude":43.33112,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1724.0",
+    "gn:asciiname":"Zahr as Salih",
+    "gn:country_code":"YE",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366330,
+    "gn:latitude":15.74375,
+    "gn:longitude":43.33112,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Z\u0327ahr a\u015f \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0327ahr a\u015f \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366330
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d250ab0213a16801bf0d2d29f9cd0ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":1243128405,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243128405,
+    "wof:lastmodified":1537715952,
+    "wof:name":"Zahr as Salih",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33112,
+    15.74375,
+    43.33112,
+    15.74375
+],
+  "geometry": {"coordinates":[43.33112,15.74375],"type":"Point"}
+}

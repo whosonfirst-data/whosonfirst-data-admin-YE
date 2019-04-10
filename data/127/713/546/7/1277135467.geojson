@@ -1,0 +1,74 @@
+{
+  "id": 1277135467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31079,16.70915,44.31079,16.70915",
+    "geom:latitude":16.70915,
+    "geom:longitude":44.31079,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al Muwassa`",
+    "gn:country_code":"YE",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362958,
+    "gn:latitude":16.70915,
+    "gn:longitude":44.31079,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Muwassa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0633\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Muwassa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362958
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"219cc1f77380dd51f0eb55ac75220bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1277135467,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1277135467,
+    "wof:lastmodified":1537715859,
+    "wof:name":"Al Muwassa`",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31079,
+    16.70915,
+    44.31079,
+    16.70915
+],
+  "geometry": {"coordinates":[44.31079,16.70915],"type":"Point"}
+}

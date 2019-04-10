@@ -1,0 +1,76 @@
+{
+  "id": 1293260473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98578,13.60422,44.98578,13.60422",
+    "geom:latitude":13.60422,
+    "geom:longitude":44.98578,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Habil al Jabr",
+    "gn:country_code":"YE",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":75504,
+    "gn:latitude":13.60422,
+    "gn:longitude":44.98578,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ab\u012bl al Jabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0644 \u0627\u0644\u062c\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ab\u012bl al Jabr",
+        "\u1e28ab\u012bl Jabr",
+        "\u1e28ab\u012bl Jabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75504
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5bc429ef9ba11ca62f6eeaeb3855289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924875,
+            "locality_id":1293260473,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293260473,
+    "wof:lastmodified":1537715178,
+    "wof:name":"Habil al Jabr",
+    "wof:parent_id":1091924875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98578,
+    13.60422,
+    44.98578,
+    13.60422
+],
+  "geometry": {"coordinates":[44.98578,13.60422],"type":"Point"}
+}

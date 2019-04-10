@@ -1,0 +1,76 @@
+{
+  "id": 890426833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25218,14.0552,45.25218,14.0552",
+    "geom:latitude":14.0552,
+    "geom:longitude":45.25218,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Amariyah"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018\u0100mir\u012byah"
+    ],
+    "qs:name":"Al \u2018\u0100mar\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051885,
+        "gp:id":1958988,
+        "qs:id":751263,
+        "wd:id":"Q20301601"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051648,
+    "wof:geomhash":"edefa54dd31bf6803641c48da0fe2a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890426833,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890426833,
+    "wof:lastmodified":1514503213,
+    "wof:name":"Al \u2018\u0100mar\u012byah",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25218,
+    14.0552,
+    45.25218,
+    14.0552
+],
+  "geometry": {"coordinates":[45.25218,14.0552],"type":"Point"}
+}

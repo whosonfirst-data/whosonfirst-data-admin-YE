@@ -1,0 +1,74 @@
+{
+  "id": 1259752857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43313,16.97844,43.43313,16.97844",
+    "geom:latitude":16.97844,
+    "geom:longitude":43.43313,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Qummali",
+    "gn:country_code":"YE",
+    "gn:dem":1918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346361,
+    "gn:latitude":16.97844,
+    "gn:longitude":43.43313,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qummal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0645\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qummal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346361
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9632fe5cbc94feb71384040da062af0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1259752857,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259752857,
+    "wof:lastmodified":1537715589,
+    "wof:name":"Al Qummali",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43313,
+    16.97844,
+    43.43313,
+    16.97844
+],
+  "geometry": {"coordinates":[43.43313,16.97844],"type":"Point"}
+}

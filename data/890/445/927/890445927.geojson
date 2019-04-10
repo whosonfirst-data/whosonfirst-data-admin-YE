@@ -1,0 +1,75 @@
+{
+  "id": 890445927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.347,16.16066,43.347,16.16066",
+    "geom:latitude":16.16066,
+    "geom:longitude":43.347,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0643\u0629"
+    ],
+    "qs:name":"Al Birkah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632969,
+        "gp:id":1953570,
+        "qs:id":694986
+    },
+    "wof:concordances_alt":{
+        "gn:id":7631881,
+        "qs:id":694720
+    },
+    "wof:country":"YE",
+    "wof:created":1469052528,
+    "wof:geomhash":"88c43a76a65e7f904e60d967900acd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890445927,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445927,
+    "wof:lastmodified":1534379830,
+    "wof:name":"Al Birkah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890424591
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.347,
+    16.16066,
+    43.347,
+    16.16066
+],
+  "geometry": {"coordinates":[43.347,16.16066],"type":"Point"}
+}

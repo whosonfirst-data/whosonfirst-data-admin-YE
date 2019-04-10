@@ -1,0 +1,71 @@
+{
+  "id": 1327416557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41329,17.39103,43.41329,17.39103",
+    "geom:latitude":17.39103,
+    "geom:longitude":43.41329,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Al Hadan",
+    "gn:country_code":"YE",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345442,
+    "gn:latitude":17.39103,
+    "gn:longitude":43.41329,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28a\u1e11an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28a\u1e11an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345442
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8891a10c58a3fc6f4e027b5a6f125ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1327416557,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327416557,
+    "wof:lastmodified":1537715559,
+    "wof:name":"Al Hadan",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41329,
+    17.39102999999999,
+    43.41329,
+    17.39102999999999
+],
+  "geometry": {"coordinates":[43.41329,17.39102999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293179281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59213,15.35079,43.59213,15.35079",
+    "geom:latitude":15.35079,
+    "geom:longitude":43.59213,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Qifaf",
+    "gn:country_code":"YE",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360589,
+    "gn:latitude":15.35079,
+    "gn:longitude":43.59213,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qif\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qif\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360589
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c581681a4621251812032617fa382e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1293179281,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293179281,
+    "wof:lastmodified":1537715801,
+    "wof:name":"Al Qifaf",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59213,
+    15.35079,
+    43.59213,
+    15.35079
+],
+  "geometry": {"coordinates":[43.59213,15.35079],"type":"Point"}
+}

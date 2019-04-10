@@ -1,0 +1,75 @@
+{
+  "id": 1226498371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51601,14.07355,44.51601,14.07355",
+    "geom:latitude":14.07355,
+    "geom:longitude":44.51601,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Khulqah",
+    "gn:country_code":"YE",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340072,
+    "gn:latitude":14.07355,
+    "gn:longitude":44.51601,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Khulqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khalaqah",
+        "Khulqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340072
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4095c376f75d047c45b8f4a7db78ca6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1226498371,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226498371,
+    "wof:lastmodified":1537715438,
+    "wof:name":"Khulqah",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51601,
+    14.07355,
+    44.51601,
+    14.07355
+],
+  "geometry": {"coordinates":[44.51601,14.07355],"type":"Point"}
+}

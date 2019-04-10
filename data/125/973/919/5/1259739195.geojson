@@ -1,0 +1,74 @@
+{
+  "id": 1259739195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20754,14.32503,44.20754,14.32503",
+    "geom:latitude":14.32503,
+    "geom:longitude":44.20754,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"'Atharibah",
+    "gn:country_code":"YE",
+    "gn:dem":2628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870791,
+    "gn:latitude":14.32503,
+    "gn:longitude":44.20754,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ath\u0101ribah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062b\u0627\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ath\u0101ribah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f72e7df644f9abdfb8a6db1ba35d8c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1259739195,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259739195,
+    "wof:lastmodified":1537716241,
+    "wof:name":"'Atharibah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20754,
+    14.32503,
+    44.20754,
+    14.32503
+],
+  "geometry": {"coordinates":[44.20754,14.32503],"type":"Point"}
+}

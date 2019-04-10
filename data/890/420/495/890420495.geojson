@@ -1,0 +1,69 @@
+{
+  "id": 890420495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38253,16.27867,43.38253,16.27867",
+    "geom:latitude":16.27867,
+    "geom:longitude":43.38253,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0648\u0642"
+    ],
+    "qs:name":"Al Maswaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761250,
+        "gp:id":1953570,
+        "qs:id":699242
+    },
+    "wof:country":"YE",
+    "wof:created":1469051345,
+    "wof:geomhash":"70ea449ba06d5b9007e57af5db1e45be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890420495,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890420495,
+    "wof:lastmodified":1505343458,
+    "wof:name":"Al Maswaq",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38253,
+    16.27867,
+    43.38253,
+    16.27867
+],
+  "geometry": {"coordinates":[43.38253,16.27867],"type":"Point"}
+}

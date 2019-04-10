@@ -1,0 +1,71 @@
+{
+  "id": 1260034727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43936,13.49742,43.43936,13.49742",
+    "geom:latitude":13.49742,
+    "geom:longitude":43.43936,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Al Kudayhah",
+    "gn:country_code":"YE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449177,
+    "gn:latitude":13.49742,
+    "gn:longitude":43.43936,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Kuday\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kuday\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449177
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5d5a04e7a2d4ce7749f13f8eb980ad23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1260034727,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260034727,
+    "wof:lastmodified":1537715432,
+    "wof:name":"Al Kudayhah",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43936,
+    13.49742,
+    43.43936,
+    13.49742
+],
+  "geometry": {"coordinates":[43.43936,13.49742],"type":"Point"}
+}

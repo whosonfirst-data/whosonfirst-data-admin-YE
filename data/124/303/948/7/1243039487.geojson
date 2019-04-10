@@ -1,0 +1,71 @@
+{
+  "id": 1243039487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04591,15.10276,44.04591,15.10276",
+    "geom:latitude":15.10276,
+    "geom:longitude":44.04591,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Hayd al Jalb",
+    "gn:country_code":"YE",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342050,
+    "gn:latitude":15.10276,
+    "gn:longitude":44.04591,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ayd al Jalb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayd al Jalb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342050
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d850d60c58514e3d7cca9e62e24987d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1243039487,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243039487,
+    "wof:lastmodified":1537715493,
+    "wof:name":"Hayd al Jalb",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04591,
+    15.10276,
+    44.04591,
+    15.10276
+],
+  "geometry": {"coordinates":[44.04591,15.10276],"type":"Point"}
+}

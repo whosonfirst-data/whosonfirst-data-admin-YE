@@ -1,0 +1,70 @@
+{
+  "id": 1226609695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3131,14.43712,44.3131,14.43712",
+    "geom:latitude":14.43712,
+    "geom:longitude":44.3131,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Labwah",
+    "gn:country_code":"YE",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10950755,
+    "gn:latitude":14.43712,
+    "gn:longitude":44.3131,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Labwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950755
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d9814a86e8dfaf2284930c1bfde39f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1226609695,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226609695,
+    "wof:lastmodified":1537716287,
+    "wof:name":"Labwah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3131,
+    14.43712,
+    44.3131,
+    14.43712
+],
+  "geometry": {"coordinates":[44.3131,14.43712],"type":"Point"}
+}

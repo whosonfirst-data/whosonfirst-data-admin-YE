@@ -1,0 +1,75 @@
+{
+  "id": 1259877931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67451,14.63721,45.67451,14.63721",
+    "geom:latitude":14.63721,
+    "geom:longitude":45.67451,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Al Kura`",
+    "gn:country_code":"YE",
+    "gn:dem":1247,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79076,
+    "gn:latitude":14.63721,
+    "gn:longitude":45.67451,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Kur\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kur\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0631\u0627\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79076
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c6806f5b21de39ccdd7796055f2a8eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1259877931,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1259877931,
+    "wof:lastmodified":1537715285,
+    "wof:name":"Al Kura`",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67451,
+    14.63721,
+    45.67451,
+    14.63721
+],
+  "geometry": {"coordinates":[45.67451,14.63721],"type":"Point"}
+}

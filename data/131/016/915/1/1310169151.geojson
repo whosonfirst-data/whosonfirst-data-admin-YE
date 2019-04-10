@@ -1,0 +1,74 @@
+{
+  "id": 1310169151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33255,15.50175,44.33255,15.50175",
+    "geom:latitude":15.50175,
+    "geom:longitude":44.33255,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al 'Uwayra'",
+    "gn:country_code":"YE",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975809,
+    "gn:latitude":15.50175,
+    "gn:longitude":44.33255,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Uwayr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uwayr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975809
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8fc2483c11739244b896213642480a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1310169151,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310169151,
+    "wof:lastmodified":1537716134,
+    "wof:name":"Al 'Uwayra'",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33255,
+    15.50175,
+    44.33255,
+    15.50175
+],
+  "geometry": {"coordinates":[44.33255,15.50175],"type":"Point"}
+}

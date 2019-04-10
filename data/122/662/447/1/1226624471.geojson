@@ -1,0 +1,71 @@
+{
+  "id": 1226624471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78395,15.45969,43.78395,15.45969",
+    "geom:latitude":15.45969,
+    "geom:longitude":43.78395,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Bayt Qatinah",
+    "gn:country_code":"YE",
+    "gn:dem":2583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402573,
+    "gn:latitude":15.45969,
+    "gn:longitude":43.78395,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Qa\u0163\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Qa\u0163\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402573
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8304d095f3f221f0ba2d5e40ea5eb4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1226624471,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226624471,
+    "wof:lastmodified":1537715357,
+    "wof:name":"Bayt Qatinah",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78395,
+    15.45969,
+    43.78395,
+    15.45969
+],
+  "geometry": {"coordinates":[43.78395,15.45969],"type":"Point"}
+}

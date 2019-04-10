@@ -1,0 +1,73 @@
+{
+  "id": 890455121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.00367,14.54315,46.00367,14.54315",
+    "geom:latitude":14.54315,
+    "geom:longitude":46.00367,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0644 \u0635\u0627\u0644\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Ghawl Salih"
+    ],
+    "qs:name":"Ghawl \u015e\u0101li\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066896,
+        "gp:id":1959048,
+        "qs:id":752926,
+        "wd:id":"Q20304380"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052934,
+    "wof:geomhash":"c9ce489b56060703f5b119f76c9e4891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":890455121,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":890455121,
+    "wof:lastmodified":1514503267,
+    "wof:name":"Ghawl \u015e\u0101li\u1e29",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.00367,
+    14.54315,
+    46.00367,
+    14.54315
+],
+  "geometry": {"coordinates":[46.00367,14.54315],"type":"Point"}
+}

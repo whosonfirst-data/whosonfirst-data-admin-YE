@@ -1,0 +1,73 @@
+{
+  "id": 1260373911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35,15.55,45.35,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":45.35,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al Juthwah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79217,
+    "gn:latitude":15.55,
+    "gn:longitude":45.35,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Al Juthwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jathmah",
+        "Al Juthwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79217
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0e37f24ff624aef9ff88c7c3078d3779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1260373911,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260373911,
+    "wof:lastmodified":1537715292,
+    "wof:name":"Al Juthwah",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35,
+    15.55,
+    45.35,
+    15.55
+],
+  "geometry": {"coordinates":[45.35,15.55],"type":"Point"}
+}

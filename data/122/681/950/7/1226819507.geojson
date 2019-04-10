@@ -1,0 +1,71 @@
+{
+  "id": 1226819507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17477,15.42803,45.17477,15.42803",
+    "geom:latitude":15.42803,
+    "geom:longitude":45.17477,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Al Khushaybah",
+    "gn:country_code":"YE",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976308,
+    "gn:latitude":15.42803,
+    "gn:longitude":45.17477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khushaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u064a\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976308
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f36da3c9fb6d6f33a6741bf75e207d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1226819507,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226819507,
+    "wof:lastmodified":1537716153,
+    "wof:name":"Al Khushaybah",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17477,
+    15.42803,
+    45.17477,
+    15.42803
+],
+  "geometry": {"coordinates":[45.17477,15.42803],"type":"Point"}
+}

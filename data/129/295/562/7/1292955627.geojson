@@ -1,0 +1,72 @@
+{
+  "id": 1292955627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,13.43333,43.4,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Jum`ah Dirham",
+    "gn:country_code":"YE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74091,
+    "gn:latitude":13.43333,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jum\u2018ah Dirham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumaa Dirhem",
+        "Jum\u2018ah Dirham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74091
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4acf6fde13ea33e70e5ff8c2b0ef1171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1292955627,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1292955627,
+    "wof:lastmodified":1537715146,
+    "wof:name":"Jum`ah Dirham",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    13.43333,
+    43.4,
+    13.43333
+],
+  "geometry": {"coordinates":[43.4,13.43333],"type":"Point"}
+}

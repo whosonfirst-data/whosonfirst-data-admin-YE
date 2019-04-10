@@ -1,0 +1,71 @@
+{
+  "id": 1260034737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30122,13.28513,44.30122,13.28513",
+    "geom:latitude":13.28513,
+    "geom:longitude":44.30122,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Maharbi",
+    "gn:country_code":"YE",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355163,
+    "gn:latitude":13.28513,
+    "gn:longitude":44.30122,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29arb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29arb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355163
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8f55c7d0d5b5ef3b1450c2e081cd013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1260034737,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260034737,
+    "wof:lastmodified":1537715630,
+    "wof:name":"Maharbi",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30122,
+    13.28513,
+    44.30122,
+    13.28513
+],
+  "geometry": {"coordinates":[44.30122,13.28513],"type":"Point"}
+}

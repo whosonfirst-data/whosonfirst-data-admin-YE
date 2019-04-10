@@ -1,0 +1,74 @@
+{
+  "id": 1292955611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93677,13.70504,43.93677,13.70504",
+    "geom:latitude":13.70504,
+    "geom:longitude":43.93677,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"As Sawhar",
+    "gn:country_code":"YE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356196,
+    "gn:latitude":13.70504,
+    "gn:longitude":43.93677,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eaw\u1e29ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u062d\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaw\u1e29ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356196
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bd285404257f5c8de3de57244d1a7b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":1292955611,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1292955611,
+    "wof:lastmodified":1537715667,
+    "wof:name":"As Sawhar",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93677,
+    13.70504,
+    43.93677,
+    13.70504
+],
+  "geometry": {"coordinates":[43.93677,13.70504],"type":"Point"}
+}

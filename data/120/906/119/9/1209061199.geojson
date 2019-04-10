@@ -1,0 +1,68 @@
+{
+  "id": 1209061199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18779,13.22276,44.18779,13.22276",
+    "geom:latitude":13.22276,
+    "geom:longitude":44.18779,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Ar Raqam al Ahmar",
+    "gn:country_code":"YE",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871582,
+    "gn:latitude":13.22276,
+    "gn:longitude":44.18779,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Raqam al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0627\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ar Raqam al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871582
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0c0be413524ce5021b4c99c7b662fac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209061199
+        }
+    ],
+    "wof:id":1209061199,
+    "wof:lastmodified":1537716252,
+    "wof:name":"Ar Raqam al Ahmar",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18779,
+    13.22276,
+    44.18779,
+    13.22276
+],
+  "geometry": {"coordinates":[44.18779,13.22276],"type":"Point"}
+}

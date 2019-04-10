@@ -1,0 +1,75 @@
+{
+  "id": 1259352663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3935,16.85163,43.3935,16.85163",
+    "geom:latitude":16.85163,
+    "geom:longitude":43.3935,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Darb Riwah",
+    "gn:country_code":"YE",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346440,
+    "gn:latitude":16.85163,
+    "gn:longitude":43.3935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Darb Riw\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628 \u0631\u0648\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ad Darb",
+        "Darb Riw\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346440
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c2bd286e4ba22d5f2cadf86f7036fb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1259352663,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259352663,
+    "wof:lastmodified":1537715593,
+    "wof:name":"Darb Riwah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3935,
+    16.85163,
+    43.3935,
+    16.85163
+],
+  "geometry": {"coordinates":[43.3935,16.85163],"type":"Point"}
+}

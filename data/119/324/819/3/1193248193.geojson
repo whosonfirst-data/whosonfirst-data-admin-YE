@@ -1,0 +1,74 @@
+{
+  "id": 1193248193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17062,17.12808,44.17062,17.12808",
+    "geom:latitude":17.12808,
+    "geom:longitude":44.17062,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al Halfa'",
+    "gn:country_code":"YE",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345115,
+    "gn:latitude":17.12808,
+    "gn:longitude":44.17062,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al \u1e28alf\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0641\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28alf\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345115
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe3a95bf6b8d8731772934faf99ae695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1193248193,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1193248193,
+    "wof:lastmodified":1537715552,
+    "wof:name":"Al Halfa'",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17062,
+    17.12807999999999,
+    44.17062,
+    17.12807999999999
+],
+  "geometry": {"coordinates":[44.17062,17.12807999999999],"type":"Point"}
+}

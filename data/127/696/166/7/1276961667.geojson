@@ -1,0 +1,71 @@
+{
+  "id": 1276961667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48994,16.84946,43.48994,16.84946",
+    "geom:latitude":16.84946,
+    "geom:longitude":43.48994,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Alt Shalah",
+    "gn:country_code":"YE",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346490,
+    "gn:latitude":16.84946,
+    "gn:longitude":43.48994,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Alt Shalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a \u0634\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346490
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c08aa680d7e986132309fca508c96809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1276961667,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276961667,
+    "wof:lastmodified":1537715595,
+    "wof:name":"Alt Shalah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48994,
+    16.84946,
+    43.48994,
+    16.84946
+],
+  "geometry": {"coordinates":[43.48994,16.84946],"type":"Point"}
+}

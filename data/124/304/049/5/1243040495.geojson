@@ -1,0 +1,71 @@
+{
+  "id": 1243040495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24144,17.24851,43.24144,17.24851",
+    "geom:latitude":17.24851,
+    "geom:longitude":43.24144,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Bilad Hiddad",
+    "gn:country_code":"YE",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345734,
+    "gn:latitude":17.24851,
+    "gn:longitude":43.24144,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bil\u0101d \u1e28idd\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bil\u0101d \u1e28idd\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345734
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"284ae87f23e8d1a20f1098b774070a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1243040495,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243040495,
+    "wof:lastmodified":1537715566,
+    "wof:name":"Bilad Hiddad",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24144,
+    17.24851,
+    43.24144,
+    17.24851
+],
+  "geometry": {"coordinates":[43.24144,17.24851],"type":"Point"}
+}

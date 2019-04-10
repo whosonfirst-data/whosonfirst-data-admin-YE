@@ -1,0 +1,74 @@
+{
+  "id": 1259847165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63502,13.82356,43.63502,13.82356",
+    "geom:latitude":13.82356,
+    "geom:longitude":43.63502,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Al `Ubaysha'",
+    "gn:country_code":"YE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355697,
+    "gn:latitude":13.82356,
+    "gn:longitude":43.63502,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Ubaysh\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u064a\u0634\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ubaysh\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355697
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5d4a510141f571a2478eb07fb0b8bdaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1259847165,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259847165,
+    "wof:lastmodified":1537715647,
+    "wof:name":"Al `Ubaysha'",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63502,
+    13.82356,
+    43.63502,
+    13.82356
+],
+  "geometry": {"coordinates":[43.63502,13.82356],"type":"Point"}
+}

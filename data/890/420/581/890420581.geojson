@@ -1,0 +1,73 @@
+{
+  "id": 890420581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37461,16.35045,43.37461,16.35045",
+    "geom:latitude":16.35045,
+    "geom:longitude":43.37461,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u064a\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Manayish"
+    ],
+    "qs:name":"Al Man\u0101yish",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783392,
+        "gp:id":1958967,
+        "qs:id":700044,
+        "wd:id":"Q20307718"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051353,
+    "wof:geomhash":"b50df47ccc1503cf905fe17b0f3ff8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890420581,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890420581,
+    "wof:lastmodified":1514503181,
+    "wof:name":"Al Man\u0101yish",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37461,
+    16.35045,
+    43.37461,
+    16.35045
+],
+  "geometry": {"coordinates":[43.37461,16.35045],"type":"Point"}
+}

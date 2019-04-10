@@ -1,0 +1,75 @@
+{
+  "id": 1276300627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38664,14.00187,44.38664,14.00187",
+    "geom:latitude":14.00187,
+    "geom:longitude":44.38664,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"As Sanahi",
+    "gn:country_code":"YE",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71125,
+    "gn:latitude":14.00187,
+    "gn:longitude":44.38664,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"As San\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u0627\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "As San\u0101\u1e29\u012b",
+        "Sanahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71125
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0cf559caaafd1d3c099bb51bc8e1564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1276300627,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276300627,
+    "wof:lastmodified":1537715090,
+    "wof:name":"As Sanahi",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38664,
+    14.00187,
+    44.38664,
+    14.00187
+],
+  "geometry": {"coordinates":[44.38664,14.00187],"type":"Point"}
+}

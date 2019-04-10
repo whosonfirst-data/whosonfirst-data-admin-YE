@@ -1,0 +1,71 @@
+{
+  "id": 1309684739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37879,17.24385,43.37879,17.24385",
+    "geom:latitude":17.24385,
+    "geom:longitude":43.37879,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Maddah",
+    "gn:country_code":"YE",
+    "gn:dem":2478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345782,
+    "gn:latitude":17.24385,
+    "gn:longitude":43.37879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e11\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e11\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345782
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c4fa3d90354538e2ab647643d43322f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1309684739,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309684739,
+    "wof:lastmodified":1537715567,
+    "wof:name":"Al Maddah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37879,
+    17.24385,
+    43.37879,
+    17.24385
+],
+  "geometry": {"coordinates":[43.37879,17.24385],"type":"Point"}
+}

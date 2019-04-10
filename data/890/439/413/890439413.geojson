@@ -1,0 +1,79 @@
+{
+  "id": 890439413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71567,16.08573,43.71567,16.08573",
+    "geom:latitude":16.08573,
+    "geom:longitude":43.71567,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0639\u0637\u0627\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b 'Attaf"
+    ],
+    "qs:name":"Sha\u2018b \u2018A\u0163\u0163\u0101f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021982,
+        "gp:id":1959046,
+        "qs:id":750212,
+        "wd:id":"Q20307218"
+    },
+    "wof:concordances_alt":{
+        "gn:id":8021987,
+        "qs:id":750217
+    },
+    "wof:country":"YE",
+    "wof:created":1469052235,
+    "wof:geomhash":"0ad93692034081a40c896f2140cfa6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890439413,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890439413,
+    "wof:lastmodified":1534379829,
+    "wof:name":"Sha\u2018b \u2018A\u0163\u0163\u0101f",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890439425
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71567,
+    16.08573,
+    43.71567,
+    16.08573
+],
+  "geometry": {"coordinates":[43.71567,16.08573],"type":"Point"}
+}

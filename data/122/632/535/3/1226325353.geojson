@@ -1,0 +1,71 @@
+{
+  "id": 1226325353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23835,16.84251,43.23835,16.84251",
+    "geom:latitude":16.84251,
+    "geom:longitude":43.23835,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Umm Zuraybah",
+    "gn:country_code":"YE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202782,
+    "gn:latitude":16.84251,
+    "gn:longitude":43.23835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm Zuraybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0632\u0631\u064a\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202782
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bee91d3b2cafbed40f2975fc6cadbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1226325353,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226325353,
+    "wof:lastmodified":1537716018,
+    "wof:name":"Umm Zuraybah",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23835,
+    16.84251,
+    43.23835,
+    16.84251
+],
+  "geometry": {"coordinates":[43.23835,16.84251],"type":"Point"}
+}

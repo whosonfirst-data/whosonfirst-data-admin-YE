@@ -1,0 +1,75 @@
+{
+  "id": 1326687877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72823,13.91203,43.72823,13.91203",
+    "geom:latitude":13.91203,
+    "geom:longitude":43.72823,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Halwajah",
+    "gn:country_code":"YE",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355507,
+    "gn:latitude":13.91203,
+    "gn:longitude":43.72823,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28alwaja\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0644 \u0648\u062c\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u1e28alwaja\u1e29",
+        "\u1e28awl Waja\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355507
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"16bfaeeee66456d2f4839f1b967f8a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1326687877,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326687877,
+    "wof:lastmodified":1537715639,
+    "wof:name":"Halwajah",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72823,
+    13.91203,
+    43.72823,
+    13.91203
+],
+  "geometry": {"coordinates":[43.72823,13.91203],"type":"Point"}
+}

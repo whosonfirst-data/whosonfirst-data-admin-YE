@@ -1,0 +1,73 @@
+{
+  "id": 1293470095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25397,14.26121,44.25397,14.26121",
+    "geom:latitude":14.26121,
+    "geom:longitude":44.25397,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"As Sulul",
+    "gn:country_code":"YE",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950469,
+    "gn:latitude":14.26121,
+    "gn:longitude":44.25397,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"A\u015f \u015eul\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0644\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eul\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950469
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"996d51b123bbefe05e11164aa86ec755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1293470095,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293470095,
+    "wof:lastmodified":1537716276,
+    "wof:name":"As Sulul",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25397,
+    14.26121,
+    44.25397,
+    14.26121
+],
+  "geometry": {"coordinates":[44.25397,14.26121],"type":"Point"}
+}

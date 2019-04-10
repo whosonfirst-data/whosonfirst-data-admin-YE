@@ -1,0 +1,68 @@
+{
+  "id": 1276434137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84457,14.47207,45.84457,14.47207",
+    "geom:latitude":14.47207,
+    "geom:longitude":45.84457,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2108.0",
+    "gn:asciiname":"Miswarah",
+    "gn:country_code":"YE",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72604,
+    "gn:latitude":14.47207,
+    "gn:longitude":45.84457,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Miswarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72604
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9358e249198711a257dcaca470e0cc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1276434137,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1276434137,
+    "wof:lastmodified":1536642835,
+    "wof:name":"Miswarah",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84457,
+    14.47207,
+    45.84457,
+    14.47207
+],
+  "geometry": {"coordinates":[45.84457,14.47207],"type":"Point"}
+}

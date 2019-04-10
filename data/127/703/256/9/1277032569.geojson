@@ -1,0 +1,74 @@
+{
+  "id": 1277032569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23789,14.00666,44.23789,14.00666",
+    "geom:latitude":14.00666,
+    "geom:longitude":44.23789,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Hisn al Haddad",
+    "gn:country_code":"YE",
+    "gn:dem":2446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360075,
+    "gn:latitude":14.00666,
+    "gn:longitude":44.23789,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28i\u015fn al \u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646 \u0627\u0644\u062d\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28i\u015fn al \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4856aa618570d37724cc95223f5de7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1277032569,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1277032569,
+    "wof:lastmodified":1537715790,
+    "wof:name":"Hisn al Haddad",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23789,
+    14.00666,
+    44.23789,
+    14.00666
+],
+  "geometry": {"coordinates":[44.23789,14.00666],"type":"Point"}
+}

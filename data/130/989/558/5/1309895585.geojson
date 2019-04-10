@@ -1,0 +1,74 @@
+{
+  "id": 1309895585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47346,14.8873,43.47346,14.8873",
+    "geom:latitude":14.8873,
+    "geom:longitude":43.47346,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al 'Aqab",
+    "gn:country_code":"YE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058642,
+    "gn:latitude":14.8873,
+    "gn:longitude":43.47346,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Aqab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Aqab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058642
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb2e5549c4554b86e117036c8955b668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1309895585,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1309895585,
+    "wof:lastmodified":1537716347,
+    "wof:name":"Al 'Aqab",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47346,
+    14.8873,
+    43.47346,
+    14.8873
+],
+  "geometry": {"coordinates":[43.47346,14.8873],"type":"Point"}
+}

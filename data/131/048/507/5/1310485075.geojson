@@ -1,0 +1,77 @@
+{
+  "id": 1310485075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35924,14.71211,45.35924,14.71211",
+    "geom:latitude":14.71211,
+    "geom:longitude":45.35924,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2611.0",
+    "gn:asciiname":"Al Ablas",
+    "gn:country_code":"YE",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341001,
+    "gn:latitude":14.71211,
+    "gn:longitude":45.35924,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Al Abl\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Abl\u0101s"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0628\u0644\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Abl\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc25696cfcb0fbbef55096bfa22f1701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":1310485075,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1310485075,
+    "wof:lastmodified":1537715468,
+    "wof:name":"Al Ablas",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35924,
+    14.71211,
+    45.35924,
+    14.71211
+],
+  "geometry": {"coordinates":[45.35924,14.71211],"type":"Point"}
+}

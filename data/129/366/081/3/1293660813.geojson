@@ -1,0 +1,74 @@
+{
+  "id": 1293660813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66735,15.55265,44.66735,15.55265",
+    "geom:latitude":15.55265,
+    "geom:longitude":44.66735,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Ash Shariyah",
+    "gn:country_code":"YE",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976065,
+    "gn:latitude":15.55265,
+    "gn:longitude":44.66735,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976065
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0c368ec7528fb8727b0ccfa40070972d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1293660813,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293660813,
+    "wof:lastmodified":1537716142,
+    "wof:name":"Ash Shariyah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66735,
+    15.55265,
+    44.66735,
+    15.55265
+],
+  "geometry": {"coordinates":[44.66735,15.55265],"type":"Point"}
+}

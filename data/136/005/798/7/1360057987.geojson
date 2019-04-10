@@ -1,0 +1,74 @@
+{
+  "id": 1360057987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3807,16.81033,43.3807,16.81033",
+    "geom:latitude":16.81033,
+    "geom:longitude":43.3807,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al ash Shamri",
+    "gn:country_code":"YE",
+    "gn:dem":2288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537562,
+    "gn:latitude":16.81033,
+    "gn:longitude":43.3807,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l ash Shamr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0627\u0644\u0634\u0645\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0100l ash Shamr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537562
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eba4d757117f1c5b207470e4af2944a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1360057987,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360057987,
+    "wof:lastmodified":1537716053,
+    "wof:name":"Al ash Shamri",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3807,
+    16.81033,
+    43.3807,
+    16.81033
+],
+  "geometry": {"coordinates":[43.3807,16.81033],"type":"Point"}
+}

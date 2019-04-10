@@ -1,0 +1,74 @@
+{
+  "id": 1360055897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04672,15.46109,45.04672,15.46109",
+    "geom:latitude":15.46109,
+    "geom:longitude":45.04672,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Al 'Umayr",
+    "gn:country_code":"YE",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976265,
+    "gn:latitude":15.46109,
+    "gn:longitude":45.04672,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u2018Umayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0639\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0100l \u2018Umayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976265
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10e1194ab154cefaf6c06a78a73e8f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1360055897,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1360055897,
+    "wof:lastmodified":1537716151,
+    "wof:name":"Al 'Umayr",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04672,
+    15.46109,
+    45.04672,
+    15.46109
+],
+  "geometry": {"coordinates":[45.04672,15.46109],"type":"Point"}
+}

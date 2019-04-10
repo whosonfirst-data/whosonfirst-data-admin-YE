@@ -1,0 +1,74 @@
+{
+  "id": 1209898943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2745,17.03362,43.2745,17.03362",
+    "geom:latitude":17.03362,
+    "geom:longitude":43.2745,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Ath Thahirayn",
+    "gn:country_code":"YE",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345898,
+    "gn:latitude":17.03362,
+    "gn:longitude":43.2745,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ath Th\u0101hirayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0627\u0647\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ath Th\u0101hirayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345898
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"420d129482df0b651b60b60b1198c566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":1209898943,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209898943,
+    "wof:lastmodified":1537715572,
+    "wof:name":"Ath Thahirayn",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2745,
+    17.03362000000001,
+    43.2745,
+    17.03362000000001
+],
+  "geometry": {"coordinates":[43.2745,17.03362000000001],"type":"Point"}
+}

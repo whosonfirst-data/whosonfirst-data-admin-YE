@@ -1,0 +1,73 @@
+{
+  "id": 890418785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3856,16.08867,43.3856,16.08867",
+    "geom:latitude":16.08867,
+    "geom:longitude":43.3856,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Salibah"
+    ],
+    "qs:name":"A\u015f \u015e\u0101libah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654646,
+        "gp:id":1958568,
+        "qs:id":695953,
+        "wd:id":"Q20302689"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051262,
+    "wof:geomhash":"b23860cf497ca87379d6c35383365b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890418785,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418785,
+    "wof:lastmodified":1514503238,
+    "wof:name":"A\u015f \u015e\u0101libah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3856,
+    16.08867,
+    43.3856,
+    16.08867
+],
+  "geometry": {"coordinates":[43.3856,16.08867],"type":"Point"}
+}

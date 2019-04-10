@@ -1,0 +1,74 @@
+{
+  "id": 1293659711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47923,15.56779,45.47923,15.56779",
+    "geom:latitude":15.56779,
+    "geom:longitude":45.47923,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al 'Awshan",
+    "gn:country_code":"YE",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356688,
+    "gn:latitude":15.56779,
+    "gn:longitude":45.47923,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u2018Awsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018Awsh\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0639\u0648\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356688
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"710759e18aea8e48e8ab875b881f0b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1293659711,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293659711,
+    "wof:lastmodified":1537716045,
+    "wof:name":"Al 'Awshan",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47923,
+    15.56779,
+    45.47923,
+    15.56779
+],
+  "geometry": {"coordinates":[45.47923,15.56779],"type":"Point"}
+}

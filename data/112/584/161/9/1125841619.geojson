@@ -1,0 +1,85 @@
+{
+  "id": 1125841619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58108,16.1241,43.58108,16.1241",
+    "geom:latitude":16.1241,
+    "geom:longitude":43.58108,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"YE",
+    "lbl:latitude":16.1241,
+    "lbl:longitude":43.58108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0633\u0648\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Mahall As Sawad"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7927531,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Ma\u1e29all as Saw\u0101d",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":745533,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927531,
+        "qs_pg:id":745533,
+        "wd:id":"Q20300375"
+    },
+    "wof:country":"YE",
+    "wof:created":1497292960,
+    "wof:geomhash":"f0dfc9a269f94b9f981678570c6ea68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922135,
+            "locality_id":1125841619,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1125841619,
+    "wof:lastmodified":1514503325,
+    "wof:name":"Ma\u1e29all as Saw\u0101d",
+    "wof:parent_id":1091922135,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58108,
+    16.1241,
+    43.58108,
+    16.1241
+],
+  "geometry": {"coordinates":[43.58108,16.1241],"type":"Point"}
+}

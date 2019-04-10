@@ -1,0 +1,74 @@
+{
+  "id": 1209975103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3909,16.39512,43.3909,16.39512",
+    "geom:latitude":16.39512,
+    "geom:longitude":43.3909,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Hasan",
+    "gn:country_code":"YE",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756056,
+    "gn:latitude":16.39512,
+    "gn:longitude":43.3909,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28a\u015fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0640\u0640\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28a\u015fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756056
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f1a7eb66e1d504da50659fc1da27cc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1209975103,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209975103,
+    "wof:lastmodified":1537715993,
+    "wof:name":"Al Hasan",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3909,
+    16.39512,
+    43.3909,
+    16.39512
+],
+  "geometry": {"coordinates":[43.3909,16.39512],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226769535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25602,15.39199,43.25602,15.39199",
+    "geom:latitude":15.39199,
+    "geom:longitude":43.25602,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Thawab",
+    "gn:country_code":"YE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036048,
+    "gn:latitude":15.39199,
+    "gn:longitude":43.25602,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Thaw\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0648\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Thaw\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036048
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a9be5f998df680a63b0b66d813794daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1226769535,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226769535,
+    "wof:lastmodified":1537716308,
+    "wof:name":"Thawab",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25602,
+    15.39199,
+    43.25602,
+    15.39199
+],
+  "geometry": {"coordinates":[43.25602,15.39199],"type":"Point"}
+}

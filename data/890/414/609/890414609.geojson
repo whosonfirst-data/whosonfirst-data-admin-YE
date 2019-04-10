@@ -1,0 +1,73 @@
+{
+  "id": 890414609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91898,13.13934,43.91898,13.13934",
+    "geom:latitude":13.13934,
+    "geom:longitude":43.91898,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0628\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Marbayn"
+    ],
+    "qs:name":"Al Marbayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071321,
+        "gp:id":1958962,
+        "qs:id":753732,
+        "wd:id":"Q20299022"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051054,
+    "wof:geomhash":"dc7e8aba778f1c118249943b222ec729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890414609,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414609,
+    "wof:lastmodified":1514503182,
+    "wof:name":"Al Marbayn",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91898,
+    13.13934,
+    43.91898,
+    13.13934
+],
+  "geometry": {"coordinates":[43.91898,13.13934],"type":"Point"}
+}

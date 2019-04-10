@@ -1,0 +1,75 @@
+{
+  "id": 1276313271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61556,14.25894,43.61556,14.25894",
+    "geom:latitude":14.25894,
+    "geom:longitude":43.61556,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Ash Sharif",
+    "gn:country_code":"YE",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357885,
+    "gn:latitude":14.25894,
+    "gn:longitude":43.61556,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Ash Shar\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Ash Shurayf",
+        "Ash Shar\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357885
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"67df4db52e50d681a37483991f17a393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1276313271,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1276313271,
+    "wof:lastmodified":1537715709,
+    "wof:name":"Ash Sharif",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61556,
+    14.25894,
+    43.61556,
+    14.25894
+],
+  "geometry": {"coordinates":[43.61556,14.25894],"type":"Point"}
+}

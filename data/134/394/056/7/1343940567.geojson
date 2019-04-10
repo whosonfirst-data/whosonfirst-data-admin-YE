@@ -1,0 +1,74 @@
+{
+  "id": 1343940567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33869,17.17816,43.33869,17.17816",
+    "geom:latitude":17.17816,
+    "geom:longitude":43.33869,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Lahj Sa`d",
+    "gn:country_code":"YE",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345576,
+    "gn:latitude":17.17816,
+    "gn:longitude":43.33869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La\u1e29j Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062d\u062c \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "La\u1e29j Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345576
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec8fd3ba4bfbed9583ef7f23652a2030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1343940567,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343940567,
+    "wof:lastmodified":1537715563,
+    "wof:name":"Lahj Sa`d",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33869,
+    17.17816,
+    43.33869,
+    17.17816
+],
+  "geometry": {"coordinates":[43.33869,17.17816],"type":"Point"}
+}

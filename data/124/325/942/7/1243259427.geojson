@@ -1,0 +1,71 @@
+{
+  "id": 1243259427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89883,15.77639,42.89883,15.77639",
+    "geom:latitude":15.77639,
+    "geom:longitude":42.89883,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Sulayt",
+    "gn:country_code":"YE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983269,
+    "gn:latitude":15.77639,
+    "gn:longitude":42.89883,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sulayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u064a\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983269
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48d4e0451a33f6483bd7327194346efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1243259427,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243259427,
+    "wof:lastmodified":1537716291,
+    "wof:name":"Sulayt",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89883,
+    15.77639,
+    42.89883,
+    15.77639
+],
+  "geometry": {"coordinates":[42.89883,15.77639],"type":"Point"}
+}

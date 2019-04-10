@@ -1,0 +1,71 @@
+{
+  "id": 1343251891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15329,15.25437,43.15329,15.25437",
+    "geom:latitude":15.25437,
+    "geom:longitude":43.15329,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Al `Aqimah",
+    "gn:country_code":"YE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403184,
+    "gn:latitude":15.25437,
+    "gn:longitude":43.15329,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al \u2018Aq\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Aq\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403184
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23426349185b35523bafc08e037871ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1343251891,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343251891,
+    "wof:lastmodified":1537715372,
+    "wof:name":"Al `Aqimah",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15329000000001,
+    15.25437,
+    43.15329000000001,
+    15.25437
+],
+  "geometry": {"coordinates":[43.15329000000001,15.25437],"type":"Point"}
+}

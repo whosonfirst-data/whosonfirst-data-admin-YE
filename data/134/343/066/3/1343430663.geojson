@@ -1,0 +1,74 @@
+{
+  "id": 1343430663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2476,17.11754,43.2476,17.11754",
+    "geom:latitude":17.11754,
+    "geom:longitude":43.2476,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Badiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345937,
+    "gn:latitude":17.11754,
+    "gn:longitude":43.2476,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u0101diyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u0101diyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345937
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2ee189cd5bd5c692fd89a60363b9bb23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1343430663,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343430663,
+    "wof:lastmodified":1537715573,
+    "wof:name":"Badiyah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2476,
+    17.11754,
+    43.2476,
+    17.11754
+],
+  "geometry": {"coordinates":[43.2476,17.11754],"type":"Point"}
+}

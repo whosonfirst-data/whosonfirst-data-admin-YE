@@ -1,0 +1,74 @@
+{
+  "id": 1293458475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54782,15.5713,43.54782,15.5713",
+    "geom:latitude":15.5713,
+    "geom:longitude":43.54782,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Bayt an Nashri",
+    "gn:country_code":"YE",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980449,
+    "gn:latitude":15.5713,
+    "gn:longitude":43.54782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt an Nashr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0646\u0634\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt an Nashr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980449
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f171161b039dbd7e859020b8469c035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1293458475,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293458475,
+    "wof:lastmodified":1537716169,
+    "wof:name":"Bayt an Nashri",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54782,
+    15.5713,
+    43.54782,
+    15.5713
+],
+  "geometry": {"coordinates":[43.54782,15.5713],"type":"Point"}
+}

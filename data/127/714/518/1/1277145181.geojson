@@ -1,0 +1,74 @@
+{
+  "id": 1277145181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17345,13.19471,44.17345,13.19471",
+    "geom:latitude":13.19471,
+    "geom:longitude":44.17345,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al 'Asnah",
+    "gn:country_code":"YE",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871929,
+    "gn:latitude":13.19471,
+    "gn:longitude":44.17345,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Asnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0633\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Asnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871929
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ebec47283772464dde253128e5abc31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1277145181,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1277145181,
+    "wof:lastmodified":1537716270,
+    "wof:name":"Al 'Asnah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17345,
+    13.19471,
+    44.17345,
+    13.19471
+],
+  "geometry": {"coordinates":[44.17345,13.19471],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327253315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18883,15.14449,43.18883,15.14449",
+    "geom:latitude":15.14449,
+    "geom:longitude":43.18883,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"'Ali Jalan",
+    "gn:country_code":"YE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036369,
+    "gn:latitude":15.14449,
+    "gn:longitude":43.18883,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b Jal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u062c\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b Jal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036369
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96e749906994100bab7fcc296ed1bd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1327253315,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327253315,
+    "wof:lastmodified":1537716319,
+    "wof:name":"'Ali Jalan",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18883,
+    15.14449,
+    43.18883,
+    15.14449
+],
+  "geometry": {"coordinates":[43.18883,15.14449],"type":"Point"}
+}

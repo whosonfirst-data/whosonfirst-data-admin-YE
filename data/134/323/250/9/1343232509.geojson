@@ -1,0 +1,74 @@
+{
+  "id": 1343232509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42542,15.49509,45.42542,15.49509",
+    "geom:latitude":15.49509,
+    "geom:longitude":45.42542,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al Hani",
+    "gn:country_code":"YE",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341144,
+    "gn:latitude":15.49509,
+    "gn:longitude":45.42542,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0646\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341144
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f554055d8ff7c7b6f8c0580e8e181d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1343232509,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343232509,
+    "wof:lastmodified":1537715473,
+    "wof:name":"Al Hani",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42542,
+    15.49509,
+    45.42542,
+    15.49509
+],
+  "geometry": {"coordinates":[45.42542,15.49509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309790417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40459,14.29865,43.40459,14.29865",
+    "geom:latitude":14.29865,
+    "geom:longitude":43.40459,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Bayt al Habaq",
+    "gn:country_code":"YE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340544,
+    "gn:latitude":14.29865,
+    "gn:longitude":43.40459,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u1e28abaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u1e28abaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421174007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340544
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"705b2c9fbd55e605a23a8b54abdddd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421174007,
+            "locality_id":1309790417,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1309790417,
+    "wof:lastmodified":1537715450,
+    "wof:name":"Bayt al Habaq",
+    "wof:parent_id":421174007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40459,
+    14.29865,
+    43.40459,
+    14.29865
+],
+  "geometry": {"coordinates":[43.40459,14.29865],"type":"Point"}
+}

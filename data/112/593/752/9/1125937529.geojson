@@ -1,0 +1,81 @@
+{
+  "id": 1125937529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16269,15.50371,44.16269,15.50371",
+    "geom:latitude":15.50371,
+    "geom:longitude":44.16269,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"FRMS",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"YE",
+    "lbl:latitude":15.50371,
+    "lbl:longitude":44.16269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0636\u0645"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"FRMS",
+    "qs_pg:gn_id":7890526,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Ar Ra\u1e11im",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":743949,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890526,
+        "qs_pg:id":743949
+    },
+    "wof:country":"YE",
+    "wof:created":1497297013,
+    "wof:geomhash":"28ebf7f56fa2d966296e58eb5ca56ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1125937529,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1125937529,
+    "wof:lastmodified":1509401868,
+    "wof:name":"Ar Ra\u1e11im",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16269,
+    15.50371,
+    44.16269,
+    15.50371
+],
+  "geometry": {"coordinates":[44.16269,15.50371],"type":"Point"}
+}

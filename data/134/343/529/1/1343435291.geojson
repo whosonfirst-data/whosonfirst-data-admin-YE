@@ -1,0 +1,73 @@
+{
+  "id": 1343435291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31852,14.26303,45.31852,14.26303",
+    "geom:latitude":14.26303,
+    "geom:longitude":45.31852,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1420.0",
+    "gn:asciiname":"Rashid",
+    "gn:country_code":"YE",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363955,
+    "gn:latitude":14.26303,
+    "gn:longitude":45.31852,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rash\u012bd",
+        "As Sabal",
+        "As Sibl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363955
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"379770b2e9f394ddd827cdfe91e5db89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":1343435291,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1343435291,
+    "wof:lastmodified":1537715884,
+    "wof:name":"Rashid",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31852,
+    14.26303,
+    45.31852,
+    14.26303
+],
+  "geometry": {"coordinates":[45.31852,14.26303],"type":"Point"}
+}

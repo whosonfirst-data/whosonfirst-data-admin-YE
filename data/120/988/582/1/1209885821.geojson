@@ -1,0 +1,71 @@
+{
+  "id": 1209885821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27916,16.94709,43.27916,16.94709",
+    "geom:latitude":16.94709,
+    "geom:longitude":43.27916,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Qullat al Basham",
+    "gn:country_code":"YE",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346328,
+    "gn:latitude":16.94709,
+    "gn:longitude":43.27916,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qullat al Basham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0628\u0634\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346328
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"711bfa5d3043b157c09186db8a590d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1209885821,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209885821,
+    "wof:lastmodified":1537715587,
+    "wof:name":"Qullat al Basham",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27916,
+    16.94709,
+    43.27916,
+    16.94709
+],
+  "geometry": {"coordinates":[43.27916,16.94709],"type":"Point"}
+}

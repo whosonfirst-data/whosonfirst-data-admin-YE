@@ -1,0 +1,71 @@
+{
+  "id": 1309984521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85396,15.53966,43.85396,15.53966",
+    "geom:latitude":15.53966,
+    "geom:longitude":43.85396,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bayt Khamis",
+    "gn:country_code":"YE",
+    "gn:dem":2764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344251,
+    "gn:latitude":15.53966,
+    "gn:longitude":43.85396,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344251
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb78ac18561cf49c842bee752953c09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1309984521,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1309984521,
+    "wof:lastmodified":1537715532,
+    "wof:name":"Bayt Khamis",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85396,
+    15.53966,
+    43.85396,
+    15.53966
+],
+  "geometry": {"coordinates":[43.85396,15.53966],"type":"Point"}
+}

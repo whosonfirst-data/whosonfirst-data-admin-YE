@@ -1,0 +1,71 @@
+{
+  "id": 1327253289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03458,15.6223,43.03458,15.6223",
+    "geom:latitude":15.6223,
+    "geom:longitude":43.03458,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Dayr Yunis",
+    "gn:country_code":"YE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366338,
+    "gn:latitude":15.6223,
+    "gn:longitude":43.03458,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr Y\u016bnis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr Y\u016bnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366338
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55d413daade22110854dd0109f36997b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1327253289,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327253289,
+    "wof:lastmodified":1537715952,
+    "wof:name":"Dayr Yunis",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03458,
+    15.6223,
+    43.03458,
+    15.6223
+],
+  "geometry": {"coordinates":[43.03458,15.6223],"type":"Point"}
+}

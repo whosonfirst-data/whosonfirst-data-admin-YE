@@ -1,0 +1,71 @@
+{
+  "id": 1343549137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85076,14.29131,43.85076,14.29131",
+    "geom:latitude":14.29131,
+    "geom:longitude":43.85076,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Suq Shafrah",
+    "gn:country_code":"YE",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358414,
+    "gn:latitude":14.29131,
+    "gn:longitude":43.85076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u016bq Shafrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq Shafrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358414
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48056a6ff3d598f10b1039261b284f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1343549137,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343549137,
+    "wof:lastmodified":1537715721,
+    "wof:name":"Suq Shafrah",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85076,
+    14.29131,
+    43.85076,
+    14.29131
+],
+  "geometry": {"coordinates":[43.85076,14.29131],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310715489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45,13.88333,45.45,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":45.45,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1205.0",
+    "gn:asciiname":"Shaywahah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70698,
+    "gn:latitude":13.88333,
+    "gn:longitude":45.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shaywahah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaywaha",
+        "Shaywahah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70698
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2929c4422ad2540f18af70bb923cf246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918685,
+            "locality_id":1310715489,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1310715489,
+    "wof:lastmodified":1537715083,
+    "wof:name":"Shaywahah",
+    "wof:parent_id":1091918685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45,
+    13.88333,
+    45.45,
+    13.88333
+],
+  "geometry": {"coordinates":[45.45,13.88333],"type":"Point"}
+}

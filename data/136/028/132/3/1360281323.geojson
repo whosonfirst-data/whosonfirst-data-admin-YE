@@ -1,0 +1,71 @@
+{
+  "id": 1360281323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75092,15.48693,43.75092,15.48693",
+    "geom:latitude":15.48693,
+    "geom:longitude":43.75092,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Al `Urrah",
+    "gn:country_code":"YE",
+    "gn:dem":2590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367019,
+    "gn:latitude":15.48693,
+    "gn:longitude":43.75092,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Urrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Urrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367019
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76d3d2b458b0a9e0c47be16c3b6a1b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1360281323,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1360281323,
+    "wof:lastmodified":1537715968,
+    "wof:name":"Al `Urrah",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75092,
+    15.48693,
+    43.75092,
+    15.48693
+],
+  "geometry": {"coordinates":[43.75092,15.48693],"type":"Point"}
+}

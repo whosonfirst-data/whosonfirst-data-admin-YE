@@ -1,0 +1,74 @@
+{
+  "id": 1276403881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18205,14.43751,45.18205,14.43751",
+    "geom:latitude":14.43751,
+    "geom:longitude":45.18205,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Haryah",
+    "gn:country_code":"YE",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79903,
+    "gn:latitude":14.43751,
+    "gn:longitude":45.18205,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28aryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Awadin",
+        "Al \u2018Aw\u0101qin",
+        "\u1e28aryah",
+        "Al \u2018Aw\u0101fin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79903
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b349b5deaa126cb2e127e98591ca3919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1276403881,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1276403881,
+    "wof:lastmodified":1537715322,
+    "wof:name":"Haryah",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18205,
+    14.43751,
+    45.18205,
+    14.43751
+],
+  "geometry": {"coordinates":[45.18205,14.43751],"type":"Point"}
+}

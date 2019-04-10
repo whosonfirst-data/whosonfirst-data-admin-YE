@@ -1,0 +1,75 @@
+{
+  "id": 1242574621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40243,14.95506,43.40243,14.95506",
+    "geom:latitude":14.95506,
+    "geom:longitude":43.40243,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Habil Raybah",
+    "gn:country_code":"YE",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340747,
+    "gn:latitude":14.95506,
+    "gn:longitude":43.40243,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"\u1e28ab\u012bl Raybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0644 \u0631\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ab\u012bl Raybah",
+        "\u1e28ubayl R\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340747
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"99c66ae4f1581b7302e463e4e40c1a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1242574621,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242574621,
+    "wof:lastmodified":1537715457,
+    "wof:name":"Habil Raybah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40243,
+    14.95506,
+    43.40243,
+    14.95506
+],
+  "geometry": {"coordinates":[43.40243,14.95506],"type":"Point"}
+}

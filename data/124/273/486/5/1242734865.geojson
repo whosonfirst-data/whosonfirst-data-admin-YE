@@ -1,0 +1,71 @@
+{
+  "id": 1242734865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37648,13.55046,44.37648,13.55046",
+    "geom:latitude":13.55046,
+    "geom:longitude":44.37648,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Ad Daba",
+    "gn:country_code":"YE",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300317,
+    "gn:latitude":13.55046,
+    "gn:longitude":44.37648,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dab\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Dab\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300317
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1f7d12188b0b0c70d68d0ff5ccd153ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1242734865,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242734865,
+    "wof:lastmodified":1537716032,
+    "wof:name":"Ad Daba",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37648,
+    13.55046,
+    44.37648,
+    13.55046
+],
+  "geometry": {"coordinates":[44.37648,13.55046],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293065543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83503,14.28722,44.83503,14.28722",
+    "geom:latitude":14.28722,
+    "geom:longitude":44.83503,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1418.0",
+    "gn:asciiname":"Al Hamam",
+    "gn:country_code":"YE",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364787,
+    "gn:latitude":14.28722,
+    "gn:longitude":44.83503,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364787
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb1d68d9c8a4910a948ed4cb33c4f8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919109,
+            "locality_id":1293065543,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293065543,
+    "wof:lastmodified":1537715908,
+    "wof:name":"Al Hamam",
+    "wof:parent_id":1091919109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83503,
+    14.28722,
+    44.83503,
+    14.28722
+],
+  "geometry": {"coordinates":[44.83503,14.28722],"type":"Point"}
+}

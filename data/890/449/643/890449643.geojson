@@ -1,0 +1,85 @@
+{
+  "id": 890449643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68724,13.15285,43.68724,13.15285",
+    "geom:latitude":13.15285,
+    "geom:longitude":43.68724,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0647\u0627\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u0627\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Hayah"
+    ],
+    "name:unk_x_variant":[
+        "H\u0101yah"
+    ],
+    "qs:name":"W\u0101d\u012b H\u0101yah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795306,
+        "gp:id":1958962,
+        "qs:id":753300,
+        "qs_pg:id":690727,
+        "wd:id":"Q20309468",
+        "wk:page":"Wadi al Hayaa District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052701,
+    "wof:geomhash":"f6fbb322c57f7c271fe85f3fdb5b3175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890449643,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449643,
+    "wof:lastmodified":1527727155,
+    "wof:name":"W\u0101d\u012b H\u0101yah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68724,
+    13.15285,
+    43.68724,
+    13.15285
+],
+  "geometry": {"coordinates":[43.68724,13.15285],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1091921405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000601,
+    "geom:area_square_m":7166854.568609,
+    "geom:bbox":"44.2022980841,15.3324626162,44.2606488875,15.3523902412",
+    "geom:latitude":15.340334,
+    "geom:longitude":44.230895,
+    "iso:country":"YE",
+    "lbl:latitude":15.339619,
+    "lbl:longitude":44.230918,
+    "meso:admin1_en":"Amanat Al Asimah",
+    "meso:admin1_loc":"\u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+    "meso:dissme":"Amanat Al AsimahAssafi'yah",
+    "meso:gadm_admin":"Assafi'yah",
+    "meso:gaul_admin":"Assafi'yah",
+    "meso:hasc_id":"YE.SA.AS",
+    "meso:mps_x":44.230918,
+    "meso:mps_y":15.339619,
+    "meso:name_en":"Assafi'yah",
+    "meso:source":"AOTM",
+    "mps:latitude":15.339619,
+    "mps:longitude":44.230918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0635\u0627\u0641\u064a\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0561\u056c-\u054d\u0561\u0586\u056b\u0561 \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:eng_x_preferred":[
+        "Assafi'yah"
+    ],
+    "name:eng_x_variant":[
+        "Assafi'yah",
+        "Assafi'yah District"
+    ],
+    "name:nno_x_preferred":[
+        "Assafi'yah-distriktet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0641\u06cc\u06c1 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Assafi'yah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.SA",
+    "statoids:name":"Assafi'yah",
+    "statoids:population":"109109",
+    "statoids:statoid":"YE.SA.AS",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.SA.AS",
+        "wd:id":"Q4117279"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893046,
+    "wof:geomhash":"ff3573ad4cc65c998b20996f81f0c5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921405,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921405,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1091921405,
+    "wof:lastmodified":1536615035,
+    "wof:name":"Assafi'yah",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":109109,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"AS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2022980840685,
+    15.33246261615782,
+    44.26064888747629,
+    15.35239024116784
+],
+  "geometry": {"coordinates":[[[44.20236222926244,15.33697156578915],[44.2045172094051,15.33999566324716],[44.20595386283352,15.34201172821916],[44.20667218954775,15.34301976070516],[44.20771026505976,15.34355817716368],[44.2069406279638,15.34923790639955],[44.21954996703693,15.35239024116784],[44.21975076573106,15.34811818869409],[44.2199644263204,15.34357249554045],[44.22143315869261,15.34430686172656],[44.2605849704337,15.3439778549052],[44.26064888747629,15.34394728588484],[44.25659483530371,15.33873744928471],[44.25700967227607,15.33744336277239],[44.25783934622078,15.33485518974776],[44.25844417968925,15.33296840798551],[44.23821250658165,15.33246261615782],[44.2376397193526,15.33360819061592],[44.23721668759643,15.33342372523361],[44.23237598403949,15.33491546433116],[44.23229038379728,15.3347656639073],[44.2022980840685,15.33688633156489],[44.20236222926244,15.33697156578915]]],"type":"Polygon"}
+}

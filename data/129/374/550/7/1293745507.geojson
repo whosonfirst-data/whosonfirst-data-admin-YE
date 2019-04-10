@@ -1,0 +1,74 @@
+{
+  "id": 1293745507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75759,16.0033,43.75759,16.0033",
+    "geom:latitude":16.0033,
+    "geom:longitude":43.75759,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"Sha'b al Mashih",
+    "gn:country_code":"YE",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634378,
+    "gn:latitude":16.0033,
+    "gn:longitude":43.75759,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b al M\u0101shi\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0645\u0627\u0634\u062d"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b al M\u0101shi\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634378
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ef9cd5b4ba77b36786371c5c7571cc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1293745507,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293745507,
+    "wof:lastmodified":1537716077,
+    "wof:name":"Sha'b al Mashih",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75759,
+    16.0033,
+    43.75759,
+    16.0033
+],
+  "geometry": {"coordinates":[43.75759,16.0033],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343760171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14602,14.67182,47.14602,14.67182",
+    "geom:latitude":14.67182,
+    "geom:longitude":47.14602,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Ad Dawj",
+    "gn:country_code":"YE",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80355,
+    "gn:latitude":14.67182,
+    "gn:longitude":47.14602,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"A\u1e11 \u1e10awj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Dauj",
+        "A\u1e11 \u1e10awj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80355
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"56189d9b81448ae1d3f6dde22edd4fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1343760171,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343760171,
+    "wof:lastmodified":1537715333,
+    "wof:name":"Ad Dawj",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14602,
+    14.67182,
+    47.14602,
+    14.67182
+],
+  "geometry": {"coordinates":[47.14602,14.67182],"type":"Point"}
+}

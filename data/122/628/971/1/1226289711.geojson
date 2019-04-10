@@ -1,0 +1,76 @@
+{
+  "id": 1226289711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7002,12.46815,53.7002,12.46815",
+    "geom:latitude":12.46815,
+    "geom:longitude":53.7002,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Qudud",
+    "gn:country_code":"YE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10182305,
+    "gn:latitude":12.46815,
+    "gn:longitude":53.7002,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qu\u1e11u\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182305
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37b2d3f057b945427215c6f9e60184fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1226289711,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1226289711,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226289711,
+    "wof:lastmodified":1536869243,
+    "wof:name":"Qudud",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7002,
+    12.46815,
+    53.7002,
+    12.46815
+],
+  "geometry": {"coordinates":[53.7002,12.46815],"type":"Point"}
+}

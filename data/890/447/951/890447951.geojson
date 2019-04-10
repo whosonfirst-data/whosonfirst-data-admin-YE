@@ -1,0 +1,73 @@
+{
+  "id": 890447951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36186,16.3158,43.36186,16.3158",
+    "geom:latitude":16.3158,
+    "geom:longitude":43.36186,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0645\u0629 \u062d\u0644\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Qimat Halim"
+    ],
+    "qs:name":"Q\u012bmat \u1e28al\u012bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783279,
+        "gp:id":1953570,
+        "qs:id":699932,
+        "wd:id":"Q20306033"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052614,
+    "wof:geomhash":"e08649b771c7efb6ccdb8be6cb4e557c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447951,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447951,
+    "wof:lastmodified":1514503339,
+    "wof:name":"Q\u012bmat \u1e28al\u012bm",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36186,
+    16.3158,
+    43.36186,
+    16.3158
+],
+  "geometry": {"coordinates":[43.36186,16.3158],"type":"Point"}
+}

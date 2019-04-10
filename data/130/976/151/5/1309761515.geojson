@@ -1,0 +1,74 @@
+{
+  "id": 1309761515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16007,13.12312,44.16007,13.12312",
+    "geom:latitude":13.12312,
+    "geom:longitude":44.16007,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Wafat",
+    "gn:country_code":"YE",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871820,
+    "gn:latitude":13.12312,
+    "gn:longitude":44.16007,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Wafa\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0641\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al Wafa\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871820
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"578e0f3b36507e088868f71d3b7d37f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1309761515,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1309761515,
+    "wof:lastmodified":1537716264,
+    "wof:name":"Al Wafat",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16007000000001,
+    13.12312,
+    44.16007000000001,
+    13.12312
+],
+  "geometry": {"coordinates":[44.16007000000001,13.12312],"type":"Point"}
+}

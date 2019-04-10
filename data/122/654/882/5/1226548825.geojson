@@ -1,0 +1,71 @@
+{
+  "id": 1226548825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78625,13.79305,45.78625,13.79305",
+    "geom:latitude":13.79305,
+    "geom:longitude":45.78625,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Al Qutayb",
+    "gn:country_code":"YE",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78557,
+    "gn:latitude":13.79305,
+    "gn:longitude":45.78625,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qu\u0163ayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qu\u0163ayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78557
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52d6fb886fc60b5903eb008f96383ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1226548825,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1226548825,
+    "wof:lastmodified":1537715262,
+    "wof:name":"Al Qutayb",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78625,
+    13.79305,
+    45.78625,
+    13.79305
+],
+  "geometry": {"coordinates":[45.78625,13.79305],"type":"Point"}
+}

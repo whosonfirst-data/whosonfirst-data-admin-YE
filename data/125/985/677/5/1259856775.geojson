@@ -1,0 +1,71 @@
+{
+  "id": 1259856775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03019,14.51471,44.03019,14.51471",
+    "geom:latitude":14.51471,
+    "geom:longitude":44.03019,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Ar Riyam",
+    "gn:country_code":"YE",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361254,
+    "gn:latitude":14.51471,
+    "gn:longitude":44.03019,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar R\u012byam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar R\u012byam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361254
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"90b228b87c28f8a21fe8b7d7c260a96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1259856775,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259856775,
+    "wof:lastmodified":1537715816,
+    "wof:name":"Ar Riyam",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03019000000001,
+    14.51471,
+    44.03019000000001,
+    14.51471
+],
+  "geometry": {"coordinates":[44.03019000000001,14.51471],"type":"Point"}
+}

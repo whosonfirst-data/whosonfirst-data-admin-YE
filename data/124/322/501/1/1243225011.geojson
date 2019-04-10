@@ -1,0 +1,76 @@
+{
+  "id": 1243225011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.06672,12.44609,54.06672,12.44609",
+    "geom:latitude":12.44609,
+    "geom:longitude":54.06672,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Kazzah",
+    "gn:country_code":"YE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182452,
+    "gn:latitude":12.44609,
+    "gn:longitude":54.06672,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kazzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182452
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee3e176c09704af3ebc50935bf0964ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243225011,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243225011,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243225011,
+    "wof:lastmodified":1536626040,
+    "wof:name":"Kazzah",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.06672,
+    12.44609,
+    54.06672,
+    12.44609
+],
+  "geometry": {"coordinates":[54.06672,12.44609],"type":"Point"}
+}

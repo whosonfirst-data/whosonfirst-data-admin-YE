@@ -1,0 +1,77 @@
+{
+  "id": 890453207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9411,16.26071,42.9411,16.26071",
+    "geom:latitude":16.26071,
+    "geom:longitude":42.9411,
+    "gn:country":"YE",
+    "gn:fcode":"HSE",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0641\u0627\u0636\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Fauil"
+    ],
+    "name:unk_x_variant":[
+        "\u0628\u0646\u064a \u0641\u0627\u0636\u0644"
+    ],
+    "qs:name":"Ban\u012b F\u0101\u1e11il",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622388,
+        "gp:id":1959063,
+        "qs:id":694055,
+        "wd:id":"Q20299076"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052845,
+    "wof:geomhash":"f662ebbafafc2c496a08b444a3279d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":890453207,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890453207,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b F\u0101\u1e11il",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9411,
+    16.26071,
+    42.9411,
+    16.26071
+],
+  "geometry": {"coordinates":[42.9411,16.26071],"type":"Point"}
+}

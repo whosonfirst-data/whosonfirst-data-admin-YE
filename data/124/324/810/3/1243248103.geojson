@@ -1,0 +1,74 @@
+{
+  "id": 1243248103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18125,15.35993,43.18125,15.35993",
+    "geom:latitude":15.35993,
+    "geom:longitude":43.18125,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Mazra'at ad Damaniyah",
+    "gn:country_code":"YE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036216,
+    "gn:latitude":15.35993,
+    "gn:longitude":43.18125,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mazra\u2018at ad Dam\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062f\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at ad Dam\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036216
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c7a701ed266e78813664d56511f22a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1243248103,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243248103,
+    "wof:lastmodified":1537716314,
+    "wof:name":"Mazra'at ad Damaniyah",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18125,
+    15.35993,
+    43.18125,
+    15.35993
+],
+  "geometry": {"coordinates":[43.18125,15.35993],"type":"Point"}
+}

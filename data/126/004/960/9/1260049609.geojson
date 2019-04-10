@@ -1,0 +1,74 @@
+{
+  "id": 1260049609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37279,17.13945,43.37279,17.13945",
+    "geom:latitude":17.13945,
+    "geom:longitude":43.37279,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Quma`",
+    "gn:country_code":"YE",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345865,
+    "gn:latitude":17.13945,
+    "gn:longitude":43.37279,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qum\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qum\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0645\u0627\u0621"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345865
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dd3a24f85b0d22d88b486a3d14786bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1260049609,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260049609,
+    "wof:lastmodified":1537715571,
+    "wof:name":"Al Quma`",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37279,
+    17.13945,
+    43.37279,
+    17.13945
+],
+  "geometry": {"coordinates":[43.37279,17.13945],"type":"Point"}
+}

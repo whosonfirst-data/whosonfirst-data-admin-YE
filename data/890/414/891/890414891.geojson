@@ -1,0 +1,69 @@
+{
+  "id": 890414891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74325,16.28518,43.74325,16.28518",
+    "geom:latitude":16.28518,
+    "geom:longitude":43.74325,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u064a\u0646"
+    ],
+    "qs:name":"Al W\u0101dayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849474,
+        "gp:id":1953833,
+        "qs:id":741601
+    },
+    "wof:country":"YE",
+    "wof:created":1469051066,
+    "wof:geomhash":"68bb607a6b8f9b3fc683941f87948988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890414891,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414891,
+    "wof:lastmodified":1505343422,
+    "wof:name":"Al W\u0101dayn",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74325,
+    16.28518,
+    43.74325,
+    16.28518
+],
+  "geometry": {"coordinates":[43.74325,16.28518],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890427167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96682,13.11605,43.96682,13.11605",
+    "geom:latitude":13.11605,
+    "geom:longitude":43.96682,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ghayl"
+    ],
+    "qs:name":"Al Ghayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900640,
+        "gp:id":1958962,
+        "qs:id":753843,
+        "qs_pg:id":744410,
+        "wd:id":"Q20305835",
+        "wk:page":"Al Ghayl District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051679,
+    "wof:geomhash":"461141a590d37af0abd91f818aa296ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890427167,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890427167,
+    "wof:lastmodified":1527792818,
+    "wof:name":"Al Ghayl",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96682,
+    13.11605,
+    43.96682,
+    13.11605
+],
+  "geometry": {"coordinates":[43.96682,13.11605],"type":"Point"}
+}

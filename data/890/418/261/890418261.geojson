@@ -1,0 +1,71 @@
+{
+  "id": 890418261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31027,16.76081,44.31027,16.76081",
+    "geom:latitude":16.76081,
+    "geom:longitude":44.31027,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0641\u0642"
+    ],
+    "qs:name":"Az Zafiq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191569,
+        85681007,
+        85632499,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794901,
+        "qs:id":700680,
+        "wd:id":"Q4874875",
+        "wk:page":"Bayt Az Zafiq"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051241,
+    "wof:geomhash":"ffafb64e1319c6eae6ee0ed0c3f94292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "neighbourhood_id":890418261,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418261,
+    "wof:lastmodified":1527792815,
+    "wof:name":"Az Zafiq",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31027,
+    16.76081,
+    44.31027,
+    16.76081
+],
+  "geometry": {"coordinates":[44.31027,16.76081],"type":"Point"}
+}

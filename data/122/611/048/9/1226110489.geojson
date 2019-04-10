@@ -1,0 +1,74 @@
+{
+  "id": 1226110489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13687,13.10271,44.13687,13.10271",
+    "geom:latitude":13.10271,
+    "geom:longitude":44.13687,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Qarmad",
+    "gn:country_code":"YE",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871870,
+    "gn:latitude":13.10271,
+    "gn:longitude":44.13687,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qarm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0645\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Qarm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871870
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c476842c9d1492b30bc531c2debadded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1226110489,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226110489,
+    "wof:lastmodified":1537716267,
+    "wof:name":"Al Qarmad",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13687,
+    13.10271,
+    44.13687,
+    13.10271
+],
+  "geometry": {"coordinates":[44.13687,13.10271],"type":"Point"}
+}

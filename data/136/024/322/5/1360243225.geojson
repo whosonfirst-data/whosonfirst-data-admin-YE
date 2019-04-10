@@ -1,0 +1,74 @@
+{
+  "id": 1360243225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48593,16.01375,43.48593,16.01375",
+    "geom:latitude":16.01375,
+    "geom:longitude":43.48593,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Mirahib",
+    "gn:country_code":"YE",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681927,
+    "gn:latitude":16.01375,
+    "gn:longitude":43.48593,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mir\u0101\u1e29ib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mir\u0101\u1e29ib"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0627\u062d\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681927
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"424d78f099bdb284b9bf72d80e083d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1360243225,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1360243225,
+    "wof:lastmodified":1537715984,
+    "wof:name":"Mirahib",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48593,
+    16.01375,
+    43.48593,
+    16.01375
+],
+  "geometry": {"coordinates":[43.48593,16.01375],"type":"Point"}
+}

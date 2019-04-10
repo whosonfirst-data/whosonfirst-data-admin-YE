@@ -1,0 +1,73 @@
+{
+  "id": 890421295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35618,14.30964,45.35618,14.30964",
+    "geom:latitude":14.30964,
+    "geom:longitude":45.35618,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0639\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Mat'as"
+    ],
+    "qs:name":"Ma\u0163\u2018\u0101s",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051899,
+        "gp:id":1958988,
+        "qs:id":751277,
+        "wd:id":"Q20301332"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051387,
+    "wof:geomhash":"b8c26203af98bb372e869a575269178a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":890421295,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890421295,
+    "wof:lastmodified":1514503324,
+    "wof:name":"Ma\u0163\u2018\u0101s",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35618,
+    14.30964,
+    45.35618,
+    14.30964
+],
+  "geometry": {"coordinates":[45.35618,14.30964],"type":"Point"}
+}

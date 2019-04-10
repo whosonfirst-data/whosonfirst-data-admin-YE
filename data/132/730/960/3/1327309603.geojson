@@ -1,0 +1,73 @@
+{
+  "id": 1327309603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74325,13.80355,44.74325,13.80355",
+    "geom:latitude":13.80355,
+    "geom:longitude":44.74325,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Khawbar",
+    "gn:country_code":"YE",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73799,
+    "gn:latitude":13.80355,
+    "gn:longitude":44.74325,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khawbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khobar",
+        "Khubar",
+        "Khawbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73799
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ab9b914a8fead26c8621481043c5ecd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1327309603,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1327309603,
+    "wof:lastmodified":1537715141,
+    "wof:name":"Khawbar",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74325,
+    13.80355,
+    44.74325,
+    13.80355
+],
+  "geometry": {"coordinates":[44.74325,13.80355],"type":"Point"}
+}

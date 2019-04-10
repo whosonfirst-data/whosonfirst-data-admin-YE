@@ -1,0 +1,72 @@
+{
+  "id": 1226407911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7252,13.84205,44.7252,13.84205",
+    "geom:latitude":13.84205,
+    "geom:longitude":44.7252,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Dar Tarnah",
+    "gn:country_code":"YE",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76389,
+    "gn:latitude":13.84205,
+    "gn:longitude":44.7252,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r Tarnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r Tarna",
+        "D\u0101r Tarnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d25bba907671d5aa986604a24150e318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1226407911,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1226407911,
+    "wof:lastmodified":1537715197,
+    "wof:name":"Dar Tarnah",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7252,
+    13.84205,
+    44.7252,
+    13.84205
+],
+  "geometry": {"coordinates":[44.7252,13.84205],"type":"Point"}
+}

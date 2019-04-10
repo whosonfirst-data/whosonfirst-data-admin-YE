@@ -1,0 +1,68 @@
+{
+  "id": 890427369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3799,17.44182,43.3799,17.44182",
+    "geom:latitude":17.44182,
+    "geom:longitude":43.3799,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0647\u0628"
+    ],
+    "qs:name":"Milhab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680955,
+        85632499,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856468,
+        "qs:id":742389
+    },
+    "wof:country":"YE",
+    "wof:created":1469051691,
+    "wof:geomhash":"538597b0ddcf1087706310ab301b545b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "neighbourhood_id":890427369,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427369,
+    "wof:lastmodified":1505343499,
+    "wof:name":"Milhab",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3799,
+    17.44182,
+    43.3799,
+    17.44182
+],
+  "geometry": {"coordinates":[43.3799,17.44182],"type":"Point"}
+}

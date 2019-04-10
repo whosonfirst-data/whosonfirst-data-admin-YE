@@ -1,0 +1,69 @@
+{
+  "id": 890427865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3023,16.54762,44.3023,16.54762",
+    "geom:latitude":16.54762,
+    "geom:longitude":44.3023,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":16,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0634\u0628"
+    ],
+    "qs:name":"Al Miqshab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795172,
+        "gp:id":1958965,
+        "qs:id":700936
+    },
+    "wof:country":"YE",
+    "wof:created":1469051722,
+    "wof:geomhash":"f77c5c331229cb0cbb46329330ed5c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890427865,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427865,
+    "wof:lastmodified":1505343502,
+    "wof:name":"Al Miqshab",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3023,
+    16.54762,
+    44.3023,
+    16.54762
+],
+  "geometry": {"coordinates":[44.3023,16.54762],"type":"Point"}
+}

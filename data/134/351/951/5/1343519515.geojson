@@ -1,0 +1,75 @@
+{
+  "id": 1343519515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38694,14.20434,44.38694,14.20434",
+    "geom:latitude":14.20434,
+    "geom:longitude":44.38694,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Bayt al Jal`i",
+    "gn:country_code":"YE",
+    "gn:dem":2580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359330,
+    "gn:latitude":14.20434,
+    "gn:longitude":44.38694,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt al Jal\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062c\u0644\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Jil\u2018ay",
+        "Bayt al Jal\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359330
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2c37921dd150164a68d9719d2fec25d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1343519515,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343519515,
+    "wof:lastmodified":1537715755,
+    "wof:name":"Bayt al Jal`i",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38694,
+    14.20434,
+    44.38694,
+    14.20434
+],
+  "geometry": {"coordinates":[44.38694,14.20434],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243321861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37225,15.89287,43.37225,15.89287",
+    "geom:latitude":15.89287,
+    "geom:longitude":43.37225,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1713.0",
+    "gn:asciiname":"Al Qafaliyah",
+    "gn:country_code":"YE",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366155,
+    "gn:latitude":15.89287,
+    "gn:longitude":43.37225,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qaf\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qaf\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366155
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e11cefed4d9da612fd9fb2d3ac4f161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":1243321861,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243321861,
+    "wof:lastmodified":1537715948,
+    "wof:name":"Al Qafaliyah",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37225,
+    15.89287,
+    43.37225,
+    15.89287
+],
+  "geometry": {"coordinates":[43.37225,15.89287],"type":"Point"}
+}

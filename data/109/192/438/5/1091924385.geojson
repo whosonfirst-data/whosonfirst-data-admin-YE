@@ -1,0 +1,107 @@
+{
+  "id": 1091924385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001588,
+    "geom:area_square_m":19051666.116392,
+    "geom:bbox":"44.1382525366,13.9291763403,44.1977488312,13.986340002",
+    "geom:latitude":13.951881,
+    "geom:longitude":44.174814,
+    "iso:country":"YE",
+    "lbl:latitude":13.947859,
+    "lbl:longitude":44.177293,
+    "meso:admin1_en":"Ibb",
+    "meso:admin1_loc":"\u0625\u0628",
+    "meso:dissme":"IbbAl Mashannah",
+    "meso:gadm_admin":"Al Mashannah",
+    "meso:gaul_admin":"Al Mashannah",
+    "meso:hasc_id":"YE.IB.MN",
+    "meso:mps_x":44.177293,
+    "meso:mps_y":13.947859,
+    "meso:name_en":"Al Mashannah",
+    "meso:source":"AOTM",
+    "mps:latitude":13.947859,
+    "mps:longitude":44.177293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0645\u0634\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mashannah"
+    ],
+    "name:eng_x_variant":[
+        "Al Mashannah",
+        "Al Mashannah District"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mashannah-distriktet"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0644\u0645\u0634\u0646\u0629"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0646\u06c1 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Al Mashannah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.IB",
+    "statoids:name":"Al Mashannah",
+    "statoids:population":"101148",
+    "statoids:statoid":"YE.IB.MN",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.IB.MN",
+        "wd:id":"Q4117706"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893164,
+    "wof:geomhash":"5285ed523fa543a8f157203e7ea06fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924385,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1091924385,
+    "wof:lastmodified":1536615039,
+    "wof:name":"Al Mashannah",
+    "wof:parent_id":85680979,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":101148,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"MN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13825253662541,
+    13.92917634026042,
+    44.19774883119216,
+    13.98634000200413
+],
+  "geometry": {"coordinates":[[[44.18620221189052,13.98634000200413],[44.18912831447865,13.98510648574106],[44.19205441706677,13.98387296947799],[44.19538791672598,13.98068869314462],[44.19713041277578,13.97555762311998],[44.19734363687593,13.96947522474021],[44.19696058779336,13.9637868811123],[44.19729830387661,13.95754902903045],[44.19774883119216,13.95221792134494],[44.19748881741504,13.94862437393979],[44.19658912148724,13.94332399940095],[44.19582570883549,13.94014883354882],[44.1944171225792,13.93980226016231],[44.19159995006665,13.93910911338928],[44.18737419129781,13.93806939322973],[44.1837114208077,13.9371742206596],[44.18147044480859,13.9365521589868],[44.1782909459047,13.93504724343909],[44.17444418053158,13.93324772779663],[44.17101207968277,13.93178453596979],[44.16765750100268,13.93000292374775],[44.16302957484274,13.92917634026042],[44.1581898555545,13.93097800366622],[44.15346750033021,13.93497660173587],[44.14750028343681,13.94006026702625],[44.13825253662541,13.95021000156861],[44.14248066998105,13.95206357518994],[44.1497389391581,13.95504491878117],[44.15527297508368,13.9565385694739],[44.1592858423473,13.95693098733865],[44.16314229340993,13.95713141933466],[44.16730139557377,13.95779036041015],[44.17123510264842,13.95858100405726],[44.17570709882538,13.95992851944731],[44.17990350968444,13.96312763772383],[44.18196534497776,13.96721671342953],[44.18212542170429,13.97086672613459],[44.1831031779478,13.97602364808562],[44.18465269491917,13.98118182504487],[44.18620221189052,13.98634000200413]]],"type":"Polygon"}
+}

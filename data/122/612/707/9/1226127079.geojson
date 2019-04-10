@@ -1,0 +1,75 @@
+{
+  "id": 1226127079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26076,15.18466,43.26076,15.18466",
+    "geom:latitude":15.18466,
+    "geom:longitude":43.26076,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Asla`",
+    "gn:country_code":"YE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365487,
+    "gn:latitude":15.18466,
+    "gn:longitude":43.26076,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al A\u015fla\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0635\u0644\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all Darw\u012bsh A\u1e29mad",
+        "Al A\u015fla\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365487
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b8ab3883dbe87fdf3f0f2be2ac8213ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1226127079,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226127079,
+    "wof:lastmodified":1537715932,
+    "wof:name":"Al Asla`",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26076,
+    15.18466,
+    43.26076,
+    15.18466
+],
+  "geometry": {"coordinates":[43.26076,15.18466],"type":"Point"}
+}

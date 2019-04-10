@@ -1,0 +1,74 @@
+{
+  "id": 1209988057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17008,15.72583,44.17008,15.72583",
+    "geom:latitude":15.72583,
+    "geom:longitude":44.17008,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bani `Utban",
+    "gn:country_code":"YE",
+    "gn:dem":2626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77174,
+    "gn:latitude":15.72583,
+    "gn:longitude":44.17008,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ban\u012b \u2018Utb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otban",
+        "Ban\u00ee Otb\u00e2n",
+        "Ban\u012b \u2018Atb\u0101n",
+        "Ban\u012b \u2018Utb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77174
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a2dd540704b0985fc6fed98903c88ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1209988057,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209988057,
+    "wof:lastmodified":1537715220,
+    "wof:name":"Bani `Utban",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17008,
+    15.72583,
+    44.17008,
+    15.72583
+],
+  "geometry": {"coordinates":[44.17008,15.72583],"type":"Point"}
+}

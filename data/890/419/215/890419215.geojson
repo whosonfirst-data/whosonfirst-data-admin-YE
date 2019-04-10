@@ -1,0 +1,76 @@
+{
+  "id": 890419215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72451,16.36852,43.72451,16.36852",
+    "geom:latitude":16.36852,
+    "geom:longitude":43.72451,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Kir\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Kiran"
+    ],
+    "qs:name":"Kir\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849499,
+        "gp:id":1953833,
+        "qs:id":741625,
+        "wd:id":"Q20299383"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051278,
+    "wof:geomhash":"b791aed27f56bc0c98e47641259f0c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890419215,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890419215,
+    "wof:lastmodified":1514503304,
+    "wof:name":"Kir\u0101n",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72451,
+    16.36852,
+    43.72451,
+    16.36852
+],
+  "geometry": {"coordinates":[43.72451,16.36852],"type":"Point"}
+}

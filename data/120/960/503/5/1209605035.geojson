@@ -1,0 +1,62 @@
+{
+  "id": 1209605035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4208,15.06779,43.4208,15.06779",
+    "geom:latitude":15.06779,
+    "geom:longitude":43.4208,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Matnah",
+    "gn:country_code":"YE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300401,
+    "gn:latitude":15.06779,
+    "gn:longitude":43.4208,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300401
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82dca7ae3166b96996023633d242b0a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209605035
+        }
+    ],
+    "wof:id":1209605035,
+    "wof:lastmodified":1536282040,
+    "wof:name":"Matnah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4208,
+    15.06779,
+    43.4208,
+    15.06779
+],
+  "geometry": {"coordinates":[43.4208,15.06779],"type":"Point"}
+}

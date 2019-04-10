@@ -1,0 +1,71 @@
+{
+  "id": 1309779317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21898,14.64673,45.21898,14.64673",
+    "geom:latitude":14.64673,
+    "geom:longitude":45.21898,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Al Farsh",
+    "gn:country_code":"YE",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364548,
+    "gn:latitude":14.64673,
+    "gn:longitude":45.21898,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Farsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364548
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc6713517e84ac02ed4dff1b4b4e9fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1309779317,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1309779317,
+    "wof:lastmodified":1537715901,
+    "wof:name":"Al Farsh",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21898,
+    14.64673,
+    45.21898,
+    14.64673
+],
+  "geometry": {"coordinates":[45.21898,14.64673],"type":"Point"}
+}

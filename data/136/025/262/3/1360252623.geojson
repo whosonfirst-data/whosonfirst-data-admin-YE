@@ -1,0 +1,74 @@
+{
+  "id": 1360252623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20607,13.22821,44.20607,13.22821",
+    "geom:latitude":13.22821,
+    "geom:longitude":44.20607,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Shi'b adh Dhira'",
+    "gn:country_code":"YE",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871552,
+    "gn:latitude":13.22821,
+    "gn:longitude":44.20607,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shi\u2018b adh Dhir\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0630\u0631\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Shi\u2018b adh Dhir\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871552
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d4540dda31ad3d6cb1df0032ad08afa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1360252623,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360252623,
+    "wof:lastmodified":1537716250,
+    "wof:name":"Shi'b adh Dhira'",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20607,
+    13.22821,
+    44.20607,
+    13.22821
+],
+  "geometry": {"coordinates":[44.20607,13.22821],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276296275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76514,14.44154,44.76514,14.44154",
+    "geom:latitude":14.44154,
+    "geom:longitude":44.76514,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Al Lahabi",
+    "gn:country_code":"YE",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364809,
+    "gn:latitude":14.44154,
+    "gn:longitude":44.76514,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Al Lahab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0647\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Lahab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364809
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54df5b24d33926df4db5607a7bfeb0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1276296275,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1276296275,
+    "wof:lastmodified":1537715909,
+    "wof:name":"Al Lahabi",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76514,
+    14.44154,
+    44.76514,
+    14.44154
+],
+  "geometry": {"coordinates":[44.76514,14.44154],"type":"Point"}
+}

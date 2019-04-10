@@ -1,0 +1,71 @@
+{
+  "id": 1327053063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,15.3,47.65,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1920.0",
+    "gn:asciiname":"Al `Amq",
+    "gn:country_code":"YE",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79984,
+    "gn:latitude":15.3,
+    "gn:longitude":47.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Amq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Amq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79984
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e80f6f5f402d3054d02d46dee0379bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923077,
+            "locality_id":1327053063,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327053063,
+    "wof:lastmodified":1537715325,
+    "wof:name":"Al `Amq",
+    "wof:parent_id":1091923077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    15.3,
+    47.65,
+    15.3
+],
+  "geometry": {"coordinates":[47.65,15.3],"type":"Point"}
+}

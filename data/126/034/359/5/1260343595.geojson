@@ -1,0 +1,74 @@
+{
+  "id": 1260343595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79698,13.43593,43.79698,13.43593",
+    "geom:latitude":13.43593,
+    "geom:longitude":43.79698,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al `Aridah",
+    "gn:country_code":"YE",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406050,
+    "gn:latitude":13.43593,
+    "gn:longitude":43.79698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018\u0100ri\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0631\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018\u0100ri\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406050
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a85bc573bc32b79f5a4166b46edaa1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1260343595,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260343595,
+    "wof:lastmodified":1537715379,
+    "wof:name":"Al `Aridah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79698,
+    13.43593,
+    43.79698,
+    13.43593
+],
+  "geometry": {"coordinates":[43.79698,13.43593],"type":"Point"}
+}

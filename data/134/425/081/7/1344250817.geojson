@@ -1,0 +1,71 @@
+{
+  "id": 1344250817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65302,15.45659,43.65302,15.45659",
+    "geom:latitude":15.45659,
+    "geom:longitude":43.65302,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Al Fayhah",
+    "gn:country_code":"YE",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402073,
+    "gn:latitude":15.45659,
+    "gn:longitude":43.65302,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Fay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Fay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402073
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9de5ed654a992fbc3f8e901457b8f173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1344250817,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1344250817,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Al Fayhah",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65302,
+    15.45659,
+    43.65302,
+    15.45659
+],
+  "geometry": {"coordinates":[43.65302,15.45659],"type":"Point"}
+}

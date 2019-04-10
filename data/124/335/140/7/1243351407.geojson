@@ -1,0 +1,68 @@
+{
+  "id": 1243351407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65626,14.29982,43.65626,14.29982",
+    "geom:latitude":14.29982,
+    "geom:longitude":43.65626,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Al Kawkabah",
+    "gn:country_code":"YE",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358051,
+    "gn:latitude":14.29982,
+    "gn:longitude":43.65626,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kawkabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358051
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21e5f442e5f2b7c2037e1696703d4942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1243351407,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243351407,
+    "wof:lastmodified":1536943152,
+    "wof:name":"Al Kawkabah",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65626,
+    14.29982,
+    43.65626,
+    14.29982
+],
+  "geometry": {"coordinates":[43.65626,14.29982],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225933769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38078,14.5546,43.38078,14.5546",
+    "geom:latitude":14.5546,
+    "geom:longitude":43.38078,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Bayt al Farid",
+    "gn:country_code":"YE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401732,
+    "gn:latitude":14.5546,
+    "gn:longitude":43.38078,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Bayt al Far\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Far\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401732
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"59b5dfeaa448d1b22a2b7d7668254d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1225933769,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225933769,
+    "wof:lastmodified":1537715346,
+    "wof:name":"Bayt al Farid",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38078,
+    14.5546,
+    43.38078,
+    14.5546
+],
+  "geometry": {"coordinates":[43.38078,14.5546],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890426991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16594,15.0003,45.16594,15.0003",
+    "geom:latitude":15.0003,
+    "geom:longitude":45.16594,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0648\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Qarwa'"
+    ],
+    "qs:name":"Qarwa\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053424,
+        "gp:id":1959055,
+        "qs:id":751841,
+        "wd:id":"Q20305594"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051666,
+    "wof:geomhash":"6268368d7d775538bd20700058918194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":890426991,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426991,
+    "wof:lastmodified":1514503334,
+    "wof:name":"Qarwa\u2018",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16594,
+    15.0003,
+    45.16594,
+    15.0003
+],
+  "geometry": {"coordinates":[45.16594,15.0003],"type":"Point"}
+}

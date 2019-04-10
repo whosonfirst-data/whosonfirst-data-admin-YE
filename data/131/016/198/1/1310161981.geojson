@@ -1,0 +1,74 @@
+{
+  "id": 1310161981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45127,16.17702,43.45127,16.17702",
+    "geom:latitude":16.17702,
+    "geom:longitude":43.45127,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Marwah",
+    "gn:country_code":"YE",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658389,
+    "gn:latitude":16.17702,
+    "gn:longitude":43.45127,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Marwah",
+    "gn:population":12,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0b5d4410080c3eb27122080caaaad3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1310161981,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310161981,
+    "wof:lastmodified":1537715979,
+    "wof:name":"Al Marwah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45127,
+    16.17702,
+    43.45127,
+    16.17702
+],
+  "geometry": {"coordinates":[43.45127,16.17702],"type":"Point"}
+}

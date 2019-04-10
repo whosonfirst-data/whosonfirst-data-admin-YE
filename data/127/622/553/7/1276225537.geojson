@@ -1,0 +1,73 @@
+{
+  "id": 1276225537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89658,14.50659,45.89658,14.50659",
+    "geom:latitude":14.50659,
+    "geom:longitude":45.89658,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2108.0",
+    "gn:asciiname":"Hanw",
+    "gn:country_code":"YE",
+    "gn:dem":1271,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75181,
+    "gn:latitude":14.50659,
+    "gn:longitude":45.89658,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28anw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanu",
+        "\u1e28anw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"738905da62163447f708b33cb7b57626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1276225537,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1276225537,
+    "wof:lastmodified":1537715172,
+    "wof:name":"Hanw",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89658,
+    14.50659,
+    45.89658,
+    14.50659
+],
+  "geometry": {"coordinates":[45.89658,14.50659],"type":"Point"}
+}

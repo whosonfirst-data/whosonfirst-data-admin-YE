@@ -1,0 +1,71 @@
+{
+  "id": 1360057989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91605,16.76328,43.91605,16.76328",
+    "geom:latitude":16.76328,
+    "geom:longitude":43.91605,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Maqam al Hibish",
+    "gn:country_code":"YE",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362063,
+    "gn:latitude":16.76328,
+    "gn:longitude":43.91605,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maq\u0101m al Hibish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maq\u0101m al Hibish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362063
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55ad490c81168ed1e137bf2f0e15ec37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1360057989,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360057989,
+    "wof:lastmodified":1537715834,
+    "wof:name":"Maqam al Hibish",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91605,
+    16.76328,
+    43.91605,
+    16.76328
+],
+  "geometry": {"coordinates":[43.91605,16.76328],"type":"Point"}
+}

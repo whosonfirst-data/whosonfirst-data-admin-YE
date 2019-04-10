@@ -1,0 +1,71 @@
+{
+  "id": 1193242031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87825,14.85975,43.87825,14.85975",
+    "geom:latitude":14.85975,
+    "geom:longitude":43.87825,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Haddadiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400917,
+    "gn:latitude":14.85975,
+    "gn:longitude":43.87825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28add\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28add\u0101d\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400917
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe9d77affe0dab2877f8cd6daf1c6e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1193242031,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1193242031,
+    "wof:lastmodified":1537715338,
+    "wof:name":"Al Haddadiyah",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87825,
+    14.85975,
+    43.87825,
+    14.85975
+],
+  "geometry": {"coordinates":[43.87825,14.85975],"type":"Point"}
+}

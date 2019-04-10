@@ -1,0 +1,79 @@
+{
+  "id": 890427939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32048,16.72742,43.32048,16.72742",
+    "geom:latitude":16.72742,
+    "geom:longitude":43.32048,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u064a\u0644"
+    ],
+    "qs:name":"An Nuqayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020588,
+        "gp:id":1959134,
+        "qs:id":742299,
+        "qs_pg:id":749933
+    },
+    "wof:concordances_alt":{
+        "gn:id":7855269,
+        "qs:id":742186
+    },
+    "wof:country":"YE",
+    "wof:created":1469051728,
+    "wof:geomhash":"316af2107a076c72ba78f859e680a0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890427939,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427939,
+    "wof:lastmodified":1534379830,
+    "wof:name":"An Nuqayl",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890413519
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32048,
+    16.72742,
+    43.32048,
+    16.72742
+],
+  "geometry": {"coordinates":[43.32048,16.72742],"type":"Point"}
+}

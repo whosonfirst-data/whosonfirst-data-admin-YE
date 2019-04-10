@@ -1,0 +1,73 @@
+{
+  "id": 890447223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02881,16.89839,44.02881,16.89839",
+    "geom:latitude":16.89839,
+    "geom:longitude":44.02881,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0639 \u0630\u0648 \u062d\u0627\u062c\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Qash' DhU Hajib"
+    ],
+    "qs:name":"Qash\u2018 Dh\u016b \u1e28\u0101jib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753612,
+        "gp:id":1959086,
+        "qs:id":698502,
+        "wd:id":"Q20305775"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052584,
+    "wof:geomhash":"5415f603fc45bbca27dba35de2672849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890447223,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447223,
+    "wof:lastmodified":1514503334,
+    "wof:name":"Qash\u2018 Dh\u016b \u1e28\u0101jib",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02881,
+    16.89839,
+    44.02881,
+    16.89839
+],
+  "geometry": {"coordinates":[44.02881,16.89839],"type":"Point"}
+}

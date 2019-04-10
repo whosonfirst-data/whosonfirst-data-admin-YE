@@ -1,0 +1,75 @@
+{
+  "id": 421190549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.179401,13.9679,44.179401,13.9679",
+    "geom:latitude":13.9679,
+    "geom:longitude":44.179401,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u064a\u0628",
+    "qs:name_adm0":"Yemen",
+    "qs:name_adm1":"Ibb",
+    "qs:photos":361,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":361,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119711,
+    "qs:woe_adm0":23425002,
+    "qs:woe_id":1959070,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1959070,
+        "qs:id":1119711
+    },
+    "wof:country":"YE",
+    "wof:created":1459009661,
+    "wof:geomhash":"9748533b43a4b1e27b273ade55e7ea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924353,
+            "locality_id":421190549,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":421190549,
+    "wof:lastmodified":1500035244,
+    "wof:name":"\u0627\u064a\u0628",
+    "wof:parent_id":1091924353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.179401,
+    13.9679,
+    44.179401,
+    13.9679
+],
+  "geometry": {"coordinates":[44.179401,13.9679],"type":"Point"}
+}

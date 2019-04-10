@@ -1,0 +1,73 @@
+{
+  "id": 890414691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78469,13.4733,43.78469,13.4733",
+    "geom:latitude":13.4733,
+    "geom:longitude":43.78469,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u064a\u0627\u0636\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mabyauah"
+    ],
+    "qs:name":"Al Maby\u0101\u1e11ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075716,
+        "gp:id":1959049,
+        "qs:id":754301,
+        "wd:id":"Q20306238"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051058,
+    "wof:geomhash":"2b5802e765bf814e1d57549035dc85d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890414691,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414691,
+    "wof:lastmodified":1514503168,
+    "wof:name":"Al Maby\u0101\u1e11ah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78469,
+    13.4733,
+    43.78469,
+    13.4733
+],
+  "geometry": {"coordinates":[43.78469,13.4733],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259973281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44062,15.38683,43.44062,15.38683",
+    "geom:latitude":15.38683,
+    "geom:longitude":43.44062,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Al Lihf",
+    "gn:country_code":"YE",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365121,
+    "gn:latitude":15.38683,
+    "gn:longitude":43.44062,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Li\u1e29f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Li\u1e29f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365121
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7eaba152fbc553fff926753321d581ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1259973281,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259973281,
+    "wof:lastmodified":1537715919,
+    "wof:name":"Al Lihf",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44062,
+    15.38683,
+    43.44062,
+    15.38683
+],
+  "geometry": {"coordinates":[43.44062,15.38683],"type":"Point"}
+}

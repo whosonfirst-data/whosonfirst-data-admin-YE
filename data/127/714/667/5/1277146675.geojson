@@ -1,0 +1,74 @@
+{
+  "id": 1277146675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52587,17.05849,43.52587,17.05849",
+    "geom:latitude":17.05849,
+    "geom:longitude":43.52587,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Al Ma`iz",
+    "gn:country_code":"YE",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345202,
+    "gn:latitude":17.05849,
+    "gn:longitude":43.52587,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l M\u0101\u2018iz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l M\u0101\u2018iz"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0645\u0627\u0639\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345202
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aee8aee1e647be74c37fb0274ad86ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1277146675,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1277146675,
+    "wof:lastmodified":1537715553,
+    "wof:name":"Al Ma`iz",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52587,
+    17.05849,
+    43.52587,
+    17.05849
+],
+  "geometry": {"coordinates":[43.52587,17.05849],"type":"Point"}
+}

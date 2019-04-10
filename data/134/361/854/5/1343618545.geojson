@@ -1,0 +1,74 @@
+{
+  "id": 1343618545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16038,13.22524,44.16038,13.22524",
+    "geom:latitude":13.22524,
+    "geom:longitude":44.16038,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Dar al 'Uqmah",
+    "gn:country_code":"YE",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871423,
+    "gn:latitude":13.22524,
+    "gn:longitude":44.16038,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r al \u2018Uqmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0639\u0642\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al \u2018Uqmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871423
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"780618f39673140431a7a019e4e92748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343618545,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343618545,
+    "wof:lastmodified":1537716243,
+    "wof:name":"Dar al 'Uqmah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16038,
+    13.22524,
+    44.16038,
+    13.22524
+],
+  "geometry": {"coordinates":[44.16038,13.22524],"type":"Point"}
+}

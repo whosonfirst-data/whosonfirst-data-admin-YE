@@ -1,0 +1,74 @@
+{
+  "id": 1293461381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52532,15.21049,44.52532,15.21049",
+    "geom:latitude":15.21049,
+    "geom:longitude":44.52532,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2316.0",
+    "gn:asciiname":"Al Mushir",
+    "gn:country_code":"YE",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331848,
+    "gn:latitude":15.21049,
+    "gn:longitude":44.52532,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mush\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Mush\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331848
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95c6107e7688364bb12a0607a408fb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925799,
+            "locality_id":1293461381,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293461381,
+    "wof:lastmodified":1537716201,
+    "wof:name":"Al Mushir",
+    "wof:parent_id":1091925799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52532,
+    15.21049,
+    44.52532,
+    15.21049
+],
+  "geometry": {"coordinates":[44.52532,15.21049],"type":"Point"}
+}

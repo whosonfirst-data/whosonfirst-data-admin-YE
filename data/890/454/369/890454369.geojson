@@ -1,0 +1,76 @@
+{
+  "id": 890454369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.91837,16.11222,42.91837,16.11222",
+    "geom:latitude":16.11222,
+    "geom:longitude":42.91837,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":31,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0647\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "At Tuwahirah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0647\u0631\u0629"
+    ],
+    "qs:name":"A\u0163 \u0162uw\u0101hirah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622250,
+        "gp:id":1959063,
+        "qs:id":694008,
+        "wd:id":"Q20305323"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052897,
+    "wof:geomhash":"2ff220a7245ff108b2f78e81b64f0299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":890454369,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454369,
+    "wof:lastmodified":1514503239,
+    "wof:name":"A\u0163 \u0162uw\u0101hirah",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.91837,
+    16.11222,
+    42.91837,
+    16.11222
+],
+  "geometry": {"coordinates":[42.91837,16.11222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34387,16.18403,43.34387,16.18403",
+    "geom:latitude":16.18403,
+    "geom:longitude":43.34387,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0648\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al MafUs"
+    ],
+    "qs:name":"Al Maf\u016bs",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631786,
+        "gp:id":1953570,
+        "qs:id":694625,
+        "wd:id":"Q20306629"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051548,
+    "wof:geomhash":"7590303402da071629330ab5967ae4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890424535,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424535,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Maf\u016bs",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34387,
+    16.18403,
+    43.34387,
+    16.18403
+],
+  "geometry": {"coordinates":[43.34387,16.18403],"type":"Point"}
+}

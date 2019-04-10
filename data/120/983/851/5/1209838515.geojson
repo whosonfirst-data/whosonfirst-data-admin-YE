@@ -1,0 +1,71 @@
+{
+  "id": 1209838515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13889,16.12194,49.13889,16.12194",
+    "geom:latitude":16.12194,
+    "geom:longitude":49.13889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Husayn",
+    "gn:country_code":"YE",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74513,
+    "gn:latitude":16.12194,
+    "gn:longitude":49.13889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74513
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7996c84d389e8828759640686537339b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1209838515,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1209838515,
+    "wof:lastmodified":1537715155,
+    "wof:name":"Husayn",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13889,
+    16.12194,
+    49.13889,
+    16.12194
+],
+  "geometry": {"coordinates":[49.13889,16.12194],"type":"Point"}
+}

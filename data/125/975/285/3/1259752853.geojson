@@ -1,0 +1,71 @@
+{
+  "id": 1259752853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3935,16.81864,43.3935,16.81864",
+    "geom:latitude":16.81864,
+    "geom:longitude":43.3935,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al Muhaddad",
+    "gn:country_code":"YE",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346538,
+    "gn:latitude":16.81864,
+    "gn:longitude":43.3935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mu\u1e29addad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u1e29addad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346538
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b29b5c6d35d32a2468ced59b62496edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1259752853,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259752853,
+    "wof:lastmodified":1537715597,
+    "wof:name":"Al Muhaddad",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3935,
+    16.81864,
+    43.3935,
+    16.81864
+],
+  "geometry": {"coordinates":[43.3935,16.81864],"type":"Point"}
+}

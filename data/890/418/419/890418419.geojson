@@ -1,0 +1,73 @@
+{
+  "id": 890418419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26205,16.58389,44.26205,16.58389",
+    "geom:latitude":16.58389,
+    "geom:longitude":44.26205,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Jarram"
+    ],
+    "qs:name":"Jarram",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795193,
+        "gp:id":1958965,
+        "qs:id":700957,
+        "wd:id":"Q20306251"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051247,
+    "wof:geomhash":"c0dcb8a2dc39cd2826113f1d8cd283c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890418419,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418419,
+    "wof:lastmodified":1514503297,
+    "wof:name":"Jarram",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26205,
+    16.58389,
+    44.26205,
+    16.58389
+],
+  "geometry": {"coordinates":[44.26205,16.58389],"type":"Point"}
+}

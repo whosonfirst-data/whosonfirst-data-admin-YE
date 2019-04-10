@@ -1,0 +1,76 @@
+{
+  "id": 890426047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33086,16.73977,43.33086,16.73977",
+    "geom:latitude":16.73977,
+    "geom:longitude":43.33086,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0648\u062f \u062c\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "HayyUd Jinnah"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28ay\u016bd Jannah"
+    ],
+    "qs:name":"\u1e28ayy\u016bd Jinnah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855380,
+        "gp:id":1959134,
+        "qs:id":742287,
+        "wd:id":"Q20305786"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051615,
+    "wof:geomhash":"1a53e54b7cb6f1baa3cec46439f656bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890426047,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426047,
+    "wof:lastmodified":1514503401,
+    "wof:name":"\u1e28ayy\u016bd Jinnah",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33086,
+    16.73977,
+    43.33086,
+    16.73977
+],
+  "geometry": {"coordinates":[43.33086,16.73977],"type":"Point"}
+}

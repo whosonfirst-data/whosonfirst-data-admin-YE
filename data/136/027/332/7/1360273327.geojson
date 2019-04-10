@@ -1,0 +1,71 @@
+{
+  "id": 1360273327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89584,14.30248,43.89584,14.30248",
+    "geom:latitude":14.30248,
+    "geom:longitude":43.89584,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Aryamat",
+    "gn:country_code":"YE",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358494,
+    "gn:latitude":14.30248,
+    "gn:longitude":43.89584,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Aryam\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aryam\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358494
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d7ea342e1616d1870b734a934a54ab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1360273327,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1360273327,
+    "wof:lastmodified":1537715724,
+    "wof:name":"Aryamat",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89584,
+    14.30248,
+    43.89584,
+    14.30248
+],
+  "geometry": {"coordinates":[43.89584,14.30248],"type":"Point"}
+}

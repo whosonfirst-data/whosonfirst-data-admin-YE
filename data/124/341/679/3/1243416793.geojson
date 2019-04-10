@@ -1,0 +1,68 @@
+{
+  "id": 1243416793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76458,13.80435,44.76458,13.80435",
+    "geom:latitude":13.80435,
+    "geom:longitude":44.76458,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Marfad",
+    "gn:country_code":"YE",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72972,
+    "gn:latitude":13.80435,
+    "gn:longitude":44.76458,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marfad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72972
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9020088b051502a2094b7f5cca53d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1243416793,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1243416793,
+    "wof:lastmodified":1536847251,
+    "wof:name":"Marfad",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76458,
+    13.80435,
+    44.76458,
+    13.80435
+],
+  "geometry": {"coordinates":[44.76458,13.80435],"type":"Point"}
+}

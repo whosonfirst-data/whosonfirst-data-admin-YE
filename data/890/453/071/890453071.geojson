@@ -1,0 +1,76 @@
+{
+  "id": 890453071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36353,16.0408,43.36353,16.0408",
+    "geom:latitude":16.0408,
+    "geom:longitude":43.36353,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mus\u0101him"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0633\u0627\u0647\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Musahim"
+    ],
+    "qs:name":"Al Mus\u0101him",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656131,
+        "gp:id":1958568,
+        "qs:id":696059,
+        "wd:id":"Q20302953"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052840,
+    "wof:geomhash":"8bab481596a7771b5bebfcad676aafcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890453071,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890453071,
+    "wof:lastmodified":1514503193,
+    "wof:name":"Al Mus\u0101him",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36353,
+    16.0408,
+    43.36353,
+    16.0408
+],
+  "geometry": {"coordinates":[43.36353,16.0408],"type":"Point"}
+}

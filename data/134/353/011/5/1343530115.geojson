@@ -1,0 +1,71 @@
+{
+  "id": 1343530115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53117,15.58316,43.53117,15.58316",
+    "geom:latitude":15.58316,
+    "geom:longitude":43.53117,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Al Qawd",
+    "gn:country_code":"YE",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980273,
+    "gn:latitude":15.58316,
+    "gn:longitude":43.53117,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qawd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980273
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"77514fa8af4bb453259d1f56b9d68950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1343530115,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343530115,
+    "wof:lastmodified":1537716165,
+    "wof:name":"Al Qawd",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53117,
+    15.58316,
+    43.53117,
+    15.58316
+],
+  "geometry": {"coordinates":[43.53117,15.58316],"type":"Point"}
+}

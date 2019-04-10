@@ -1,0 +1,77 @@
+{
+  "id": 890415031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31597,16.65297,43.31597,16.65297",
+    "geom:latitude":16.65297,
+    "geom:longitude":43.31597,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0635\u0627\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khursayah"
+    ],
+    "qs:name":"Al Khur\u015f\u0101yah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854932,
+        "gp:id":1959134,
+        "qs:id":741868,
+        "wd:id":"Q20305468"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051071,
+    "wof:geomhash":"b5ad62c72b1fd628b1d8ac9ede62893d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890415031,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890415031,
+    "wof:lastmodified":1534379833,
+    "wof:name":"Al Khur\u015f\u0101yah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890415035
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31597,
+    16.65297,
+    43.31597,
+    16.65297
+],
+  "geometry": {"coordinates":[43.31597,16.65297],"type":"Point"}
+}

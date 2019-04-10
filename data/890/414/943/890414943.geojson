@@ -1,0 +1,73 @@
+{
+  "id": 890414943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34564,16.57766,43.34564,16.57766",
+    "geom:latitude":16.57766,
+    "geom:longitude":43.34564,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0648\u064a\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Darwish"
+    ],
+    "qs:name":"Darw\u012bsh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854791,
+        "gp:id":1959134,
+        "qs:id":741736,
+        "wd:id":"Q20301972"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051068,
+    "wof:geomhash":"451c2c50d2faabb4cfe9e284d54ab688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890414943,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890414943,
+    "wof:lastmodified":1514503255,
+    "wof:name":"Darw\u012bsh",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34564,
+    16.57766,
+    43.34564,
+    16.57766
+],
+  "geometry": {"coordinates":[43.34564,16.57766],"type":"Point"}
+}

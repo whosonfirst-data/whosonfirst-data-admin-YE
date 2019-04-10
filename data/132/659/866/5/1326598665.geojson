@@ -1,0 +1,71 @@
+{
+  "id": 1326598665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42836,16.04876,43.42836,16.04876",
+    "geom:latitude":16.04876,
+    "geom:longitude":43.42836,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1710.0",
+    "gn:asciiname":"Al Qafl",
+    "gn:country_code":"YE",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7682192,
+    "gn:latitude":16.04876,
+    "gn:longitude":43.42836,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qafl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682192
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ffaf3ef2cd033dc0af912cdc00927347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":1326598665,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326598665,
+    "wof:lastmodified":1537715988,
+    "wof:name":"Al Qafl",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42836,
+    16.04876,
+    43.42836,
+    16.04876
+],
+  "geometry": {"coordinates":[43.42836,16.04876],"type":"Point"}
+}

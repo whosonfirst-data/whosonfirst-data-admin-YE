@@ -1,0 +1,72 @@
+{
+  "id": 1360049179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95533,15.34663,43.95533,15.34663",
+    "geom:latitude":15.34663,
+    "geom:longitude":43.95533,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Bayt al Yisri",
+    "gn:country_code":"YE",
+    "gn:dem":2872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402514,
+    "gn:latitude":15.34663,
+    "gn:longitude":43.95533,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt al Yisr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Yisr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402514,
+        "wk:page":"Bayt_al-Yisri"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"40300c21c40a924f282664bcc2e6b05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":1360049179,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1360049179,
+    "wof:lastmodified":1537715356,
+    "wof:name":"Bayt al Yisri",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95533,
+    15.34663,
+    43.95533,
+    15.34663
+],
+  "geometry": {"coordinates":[43.95533,15.34663],"type":"Point"}
+}

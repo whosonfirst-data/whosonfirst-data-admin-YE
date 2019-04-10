@@ -1,0 +1,75 @@
+{
+  "id": 1259589143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13889,15.13417,49.13889,15.13417",
+    "geom:latitude":15.13417,
+    "geom:longitude":49.13889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1916.0",
+    "gn:asciiname":"`Amum",
+    "gn:country_code":"YE",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78418,
+    "gn:latitude":15.13417,
+    "gn:longitude":49.13889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Am\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Am\u016bm"
+    ],
+    "name:und_x_variant":[
+        "Amun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78418,
+        "wk:page":"%60Amum"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"823e5878866d05788d684cbdaa0bc45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922963,
+            "locality_id":1259589143,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259589143,
+    "wof:lastmodified":1537715258,
+    "wof:name":"`Amum",
+    "wof:parent_id":1091922963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13889,
+    15.13417,
+    49.13889,
+    15.13417
+],
+  "geometry": {"coordinates":[49.13889,15.13417],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293346635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62803,15.5332,43.62803,15.5332",
+    "geom:latitude":15.5332,
+    "geom:longitude":43.62803,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Al Khawzranah",
+    "gn:country_code":"YE",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980792,
+    "gn:latitude":15.5332,
+    "gn:longitude":43.62803,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khawzr\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0632\u0631\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khawzr\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980792
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4eaba8e5eeed28cbf3abfc144b268ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1293346635,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293346635,
+    "wof:lastmodified":1537716185,
+    "wof:name":"Al Khawzranah",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62803,
+    15.5332,
+    43.62803,
+    15.5332
+],
+  "geometry": {"coordinates":[43.62803,15.5332],"type":"Point"}
+}

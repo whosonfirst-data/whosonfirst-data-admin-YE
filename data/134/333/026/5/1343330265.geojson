@@ -1,0 +1,75 @@
+{
+  "id": 1343330265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95328,14.07154,43.95328,14.07154",
+    "geom:latitude":14.07154,
+    "geom:longitude":43.95328,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Ra's al Ja`m",
+    "gn:country_code":"YE",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358819,
+    "gn:latitude":14.07154,
+    "gn:longitude":43.95328,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Ra\u2019s al Ja\u2018m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062c\u0639\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Ja\u2018m",
+        "Ra\u2019s al Ja\u2018m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358819
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e05bb6966cfa9ce4d674a7a337f6602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1343330265,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343330265,
+    "wof:lastmodified":1537715733,
+    "wof:name":"Ra's al Ja`m",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95328,
+    14.07154,
+    43.95328,
+    14.07154
+],
+  "geometry": {"coordinates":[43.95328,14.07154],"type":"Point"}
+}

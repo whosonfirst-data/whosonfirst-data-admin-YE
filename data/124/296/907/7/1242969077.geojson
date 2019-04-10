@@ -1,0 +1,72 @@
+{
+  "id": 1242969077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91959,14.31636,46.91959,14.31636",
+    "geom:latitude":14.31636,
+    "geom:longitude":46.91959,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Al Malahah",
+    "gn:country_code":"YE",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78952,
+    "gn:latitude":14.31636,
+    "gn:longitude":46.91959,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al Mala\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khuba",
+        "Al Mala\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78952
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f9963acf0e4bf75e6bc82947f88e7314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925997,
+            "locality_id":1242969077,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1242969077,
+    "wof:lastmodified":1537715280,
+    "wof:name":"Al Malahah",
+    "wof:parent_id":1091925997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91959,
+    14.31636,
+    46.91959,
+    14.31636
+],
+  "geometry": {"coordinates":[46.91959,14.31636],"type":"Point"}
+}

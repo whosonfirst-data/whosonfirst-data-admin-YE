@@ -1,0 +1,77 @@
+{
+  "id": 890423627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2923,16.46628,43.2923,16.46628",
+    "geom:latitude":16.46628,
+    "geom:longitude":43.2923,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Khish\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0634\u0640\u0627\u0634",
+        "\u062e\u0634\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Khishash"
+    ],
+    "qs:name":"Khish\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755937,
+        "gp:id":1959057,
+        "qs:id":698799,
+        "wd:id":"Q20299253"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051506,
+    "wof:geomhash":"861961c892ddd6281e2cb2bfa29ec00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890423627,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423627,
+    "wof:lastmodified":1514503303,
+    "wof:name":"Khish\u0101sh",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2923,
+    16.46628,
+    43.2923,
+    16.46628
+],
+  "geometry": {"coordinates":[43.2923,16.46628],"type":"Point"}
+}

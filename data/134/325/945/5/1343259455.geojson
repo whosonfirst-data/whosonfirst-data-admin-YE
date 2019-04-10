@@ -1,0 +1,74 @@
+{
+  "id": 1343259455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34379,14.8329,43.34379,14.8329",
+    "geom:latitude":14.8329,
+    "geom:longitude":43.34379,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"'Umar Hadish",
+    "gn:country_code":"YE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058459,
+    "gn:latitude":14.8329,
+    "gn:longitude":43.34379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Umar \u1e28ad\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631 \u062d\u062f\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Umar \u1e28ad\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058459
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b055fb3cfeb8bf70f974384fc557cd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1343259455,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343259455,
+    "wof:lastmodified":1537716340,
+    "wof:name":"'Umar Hadish",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34379000000001,
+    14.8329,
+    43.34379000000001,
+    14.8329
+],
+  "geometry": {"coordinates":[43.34379000000001,14.8329],"type":"Point"}
+}

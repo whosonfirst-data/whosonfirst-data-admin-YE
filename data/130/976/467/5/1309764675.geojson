@@ -1,0 +1,71 @@
+{
+  "id": 1309764675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51668,16.71399,44.51668,16.71399",
+    "geom:latitude":16.71399,
+    "geom:longitude":44.51668,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1611.0",
+    "gn:asciiname":"Al Khash",
+    "gn:country_code":"YE",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344938,
+    "gn:latitude":16.71399,
+    "gn:longitude":44.51668,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kh\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344938
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c918c9c8c7879cd2b8ba14016a82a29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":1309764675,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1309764675,
+    "wof:lastmodified":1537715550,
+    "wof:name":"Al Khash",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51668,
+    16.71399,
+    44.51668,
+    16.71399
+],
+  "geometry": {"coordinates":[44.51668,16.71399],"type":"Point"}
+}

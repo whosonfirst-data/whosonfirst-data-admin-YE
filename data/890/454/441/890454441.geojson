@@ -1,0 +1,80 @@
+{
+  "id": 890454441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29738,16.19805,43.29738,16.19805",
+    "geom:latitude":16.19805,
+    "geom:longitude":43.29738,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Al Miqsh\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0642\u0634\u0627\u0628"
+    ],
+    "qs:name":"Al Miqsh\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632242,
+        "gp:id":1953570,
+        "qs:id":694749,
+        "qs_pg:id":694830
+    },
+    "wof:country":"YE",
+    "wof:created":1469052900,
+    "wof:geomhash":"4124f9b7a2915b72db87e3fe7c12835f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890454441,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454441,
+    "wof:lastmodified":1534379831,
+    "wof:name":"Al Miqsh\u0101b",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890424601
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29738,
+    16.19805,
+    43.29738,
+    16.19805
+],
+  "geometry": {"coordinates":[43.29738,16.19805],"type":"Point"}
+}

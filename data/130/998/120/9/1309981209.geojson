@@ -1,0 +1,71 @@
+{
+  "id": 1309981209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78257,15.76217,43.78257,15.76217",
+    "geom:latitude":15.76217,
+    "geom:longitude":43.78257,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Bayt `Abdah",
+    "gn:country_code":"YE",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343875,
+    "gn:latitude":15.76217,
+    "gn:longitude":43.78257,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u2018Abdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018Abdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343875
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b76feeb4eb8e708fe688bc6d8037393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1309981209,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309981209,
+    "wof:lastmodified":1537715520,
+    "wof:name":"Bayt `Abdah",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78257,
+    15.76217,
+    43.78257,
+    15.76217
+],
+  "geometry": {"coordinates":[43.78257,15.76217],"type":"Point"}
+}

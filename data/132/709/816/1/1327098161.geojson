@@ -1,0 +1,71 @@
+{
+  "id": 1327098161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12861,15.43848,44.12861,15.43848",
+    "geom:latitude":15.43848,
+    "geom:longitude":44.12861,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Al Mahariq",
+    "gn:country_code":"YE",
+    "gn:dem":2255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342510,
+    "gn:latitude":15.43848,
+    "gn:longitude":44.12861,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e29\u0101r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u0101r\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342510
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"277ee9cac724f298a31f055235d468f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1327098161,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1327098161,
+    "wof:lastmodified":1537715501,
+    "wof:name":"Al Mahariq",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12861,
+    15.43848,
+    44.12861,
+    15.43848
+],
+  "geometry": {"coordinates":[44.12861,15.43848],"type":"Point"}
+}

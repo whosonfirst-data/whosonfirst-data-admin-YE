@@ -1,0 +1,76 @@
+{
+  "id": 890424465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2314,16.23773,43.2314,16.23773",
+    "geom:latitude":16.23773,
+    "geom:longitude":43.2314,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0644\u0628\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Al Julbah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u062c\u0644\u0628\u0627\u062d"
+    ],
+    "qs:name":"Al Julb\u0101\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631496,
+        "gp:id":1953570,
+        "qs:id":694485,
+        "wd:id":"Q20303782"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051545,
+    "wof:geomhash":"75789bd88e589a66149d2bafcf18c9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890424465,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424465,
+    "wof:lastmodified":1514503162,
+    "wof:name":"Al Julb\u0101\u1e29",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2314,
+    16.23773,
+    43.2314,
+    16.23773
+],
+  "geometry": {"coordinates":[43.2314,16.23773],"type":"Point"}
+}

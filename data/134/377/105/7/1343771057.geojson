@@ -1,0 +1,71 @@
+{
+  "id": 1343771057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11199,13.92211,46.11199,13.92211",
+    "geom:latitude":13.92211,
+    "geom:longitude":46.11199,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Hisn Bin Maiam",
+    "gn:country_code":"YE",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408795,
+    "gn:latitude":13.92211,
+    "gn:longitude":46.11199,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28i\u015fn Bin Maiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn Bin Maiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408795
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"08d9c30ab36754f78d6ffba1c5eb8017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918593,
+            "locality_id":1343771057,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1343771057,
+    "wof:lastmodified":1537715420,
+    "wof:name":"Hisn Bin Maiam",
+    "wof:parent_id":1091918593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11199000000001,
+    13.92211,
+    46.11199000000001,
+    13.92211
+],
+  "geometry": {"coordinates":[46.11199000000001,13.92211],"type":"Point"}
+}

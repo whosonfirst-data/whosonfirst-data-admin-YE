@@ -1,0 +1,73 @@
+{
+  "id": 890421647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74356,16.19847,43.74356,16.19847",
+    "geom:latitude":16.19847,
+    "geom:longitude":43.74356,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628 \u0627\u0644\u0639\u0637\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Darb Al 'Atl"
+    ],
+    "qs:name":"Darb al \u2018A\u0163l",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928192,
+        "gp:id":1959128,
+        "qs:id":745631,
+        "wd:id":"Q20301845"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051402,
+    "wof:geomhash":"35344b3d47a8d18b1d272a2f9abe5b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890421647,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890421647,
+    "wof:lastmodified":1514503255,
+    "wof:name":"Darb al \u2018A\u0163l",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74356,
+    16.19847,
+    43.74356,
+    16.19847
+],
+  "geometry": {"coordinates":[43.74356,16.19847],"type":"Point"}
+}

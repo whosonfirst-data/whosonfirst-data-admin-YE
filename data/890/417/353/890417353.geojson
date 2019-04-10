@@ -1,0 +1,73 @@
+{
+  "id": 890417353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50533,16.8863,43.50533,16.8863",
+    "geom:latitude":16.8863,
+    "geom:longitude":43.50533,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Hamak"
+    ],
+    "qs:name":"\u1e28amak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346466,
+        "gp:id":1958259,
+        "qs:id":685051,
+        "wd:id":"Q20305060"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051197,
+    "wof:geomhash":"40bc5e0ed74783a6918ad42c612b1fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":890417353,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890417353,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28amak",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50533,
+    16.8863,
+    43.50533,
+    16.8863
+],
+  "geometry": {"coordinates":[43.50533,16.8863],"type":"Point"}
+}

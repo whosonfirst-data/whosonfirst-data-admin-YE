@@ -1,0 +1,73 @@
+{
+  "id": 1226320987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33485,15.26547,43.33485,15.26547",
+    "geom:latitude":15.26547,
+    "geom:longitude":43.33485,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Shafahsin",
+    "gn:country_code":"YE",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70920,
+    "gn:latitude":15.26547,
+    "gn:longitude":43.33485,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Shafahsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shafehsin",
+        "Sciafehein",
+        "Shafahsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70920
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a122784c776512fc3448b45fb03034d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1226320987,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226320987,
+    "wof:lastmodified":1537715087,
+    "wof:name":"Shafahsin",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33485,
+    15.26547,
+    43.33485,
+    15.26547
+],
+  "geometry": {"coordinates":[43.33485,15.26547],"type":"Point"}
+}

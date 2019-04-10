@@ -1,0 +1,74 @@
+{
+  "id": 1310474471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75697,16.78579,43.75697,16.78579",
+    "geom:latitude":16.78579,
+    "geom:longitude":43.75697,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Dhu Ghilan",
+    "gn:country_code":"YE",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76079,
+    "gn:latitude":16.78579,
+    "gn:longitude":43.75697,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dh\u016b Gh\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dh\u016b Gh\u012bl\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Du Gh\u012bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76079
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81255dfd4ad8c7e4e5fd6879412efc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1310474471,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310474471,
+    "wof:lastmodified":1537715187,
+    "wof:name":"Dhu Ghilan",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75697,
+    16.78579,
+    43.75697,
+    16.78579
+],
+  "geometry": {"coordinates":[43.75697,16.78579],"type":"Point"}
+}

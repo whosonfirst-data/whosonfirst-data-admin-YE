@@ -1,0 +1,71 @@
+{
+  "id": 1327453589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26994,15.00691,43.26994,15.00691",
+    "geom:latitude":15.00691,
+    "geom:longitude":43.26994,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Qaryat al `Itafiyah",
+    "gn:country_code":"YE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402682,
+    "gn:latitude":15.00691,
+    "gn:longitude":43.26994,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Qaryat al \u2018I\u0163\u0101f\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al \u2018I\u0163\u0101f\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402682
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49629448c3c565bbb3aaf6e90e3784b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1327453589,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327453589,
+    "wof:lastmodified":1537715361,
+    "wof:name":"Qaryat al `Itafiyah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26994000000001,
+    15.00691,
+    43.26994000000001,
+    15.00691
+],
+  "geometry": {"coordinates":[43.26994000000001,15.00691],"type":"Point"}
+}

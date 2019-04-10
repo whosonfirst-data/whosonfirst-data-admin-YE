@@ -1,0 +1,71 @@
+{
+  "id": 890418237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28028,16.78054,44.28028,16.78054",
+    "geom:latitude":16.78054,
+    "geom:longitude":44.28028,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0641\u0631\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al \u1e28afrah"
+    ],
+    "qs:name":"Al \u1e28afirah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85681007,
+        85632499,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794888,
+        "qs:id":700669
+    },
+    "wof:country":"YE",
+    "wof:created":1469051239,
+    "wof:geomhash":"53f09417c3d5980030c9057448330258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "neighbourhood_id":890418237,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890418237,
+    "wof:lastmodified":1505343443,
+    "wof:name":"Al \u1e28afirah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28028,
+    16.78054,
+    44.28028,
+    16.78054
+],
+  "geometry": {"coordinates":[44.28028,16.78054],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293275603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08774,15.06587,45.08774,15.06587",
+    "geom:latitude":15.06587,
+    "geom:longitude":45.08774,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Al Junuq",
+    "gn:country_code":"YE",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976296,
+    "gn:latitude":15.06587,
+    "gn:longitude":45.08774,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jun\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0646\u0648\u0642"
+    ],
+    "name:und_x_variant":[
+        "Al Jun\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976296
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d6df1f30a6e05964b6cb3ebd1c2eaba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1293275603,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293275603,
+    "wof:lastmodified":1537716153,
+    "wof:name":"Al Junuq",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08774,
+    15.06587,
+    45.08774,
+    15.06587
+],
+  "geometry": {"coordinates":[45.08774,15.06587],"type":"Point"}
+}

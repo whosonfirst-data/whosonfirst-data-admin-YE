@@ -1,0 +1,67 @@
+{
+  "id": 1209599943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.58322,15.26801,42.58322,15.26801",
+    "geom:latitude":15.26801,
+    "geom:longitude":42.58322,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1803.0",
+    "gn:asciiname":"Yaman",
+    "gn:country_code":"YE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69371,
+    "gn:latitude":15.26801,
+    "gn:longitude":42.58322,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yemmen",
+        "Yemen",
+        "Yaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69371
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"42910ab60771c60a29e4716459ac1d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209599943
+        }
+    ],
+    "wof:id":1209599943,
+    "wof:lastmodified":1537715059,
+    "wof:name":"Yaman",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.58322,
+    15.26801,
+    42.58322,
+    15.26801
+],
+  "geometry": {"coordinates":[42.58322,15.26801],"type":"Point"}
+}

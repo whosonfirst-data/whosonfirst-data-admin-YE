@@ -1,0 +1,74 @@
+{
+  "id": 1259948603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3761,16.28752,43.3761,16.28752",
+    "geom:latitude":16.28752,
+    "geom:longitude":43.3761,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Qal'ah",
+    "gn:country_code":"YE",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260929,
+    "gn:latitude":16.28752,
+    "gn:longitude":43.3761,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0640\u0640\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260929
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"90f3e8a9c2297af6579a0445834ead2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1259948603,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259948603,
+    "wof:lastmodified":1537716061,
+    "wof:name":"Al Qal'ah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3761,
+    16.28752,
+    43.3761,
+    16.28752
+],
+  "geometry": {"coordinates":[43.3761,16.28752],"type":"Point"}
+}

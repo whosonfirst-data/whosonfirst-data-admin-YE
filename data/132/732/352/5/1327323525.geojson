@@ -1,0 +1,74 @@
+{
+  "id": 1327323525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25887,15.27353,43.25887,15.27353",
+    "geom:latitude":15.27353,
+    "geom:longitude":43.25887,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Dahhan al Ward",
+    "gn:country_code":"YE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036165,
+    "gn:latitude":15.27353,
+    "gn:longitude":43.25887,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Da\u1e29\u1e29\u0101n al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u062d\u0627\u0646 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Da\u1e29\u1e29\u0101n al Ward"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036165
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e00d608cf5b8033cbdf45b6fe8f923d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1327323525,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327323525,
+    "wof:lastmodified":1537716312,
+    "wof:name":"Dahhan al Ward",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25887,
+    15.27353,
+    43.25887,
+    15.27353
+],
+  "geometry": {"coordinates":[43.25887,15.27353],"type":"Point"}
+}

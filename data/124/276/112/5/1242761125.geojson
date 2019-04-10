@@ -1,0 +1,71 @@
+{
+  "id": 1242761125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21119,15.02563,45.21119,15.02563",
+    "geom:latitude":15.02563,
+    "geom:longitude":45.21119,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"Thirayya' as Sudan",
+    "gn:country_code":"YE",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341303,
+    "gn:latitude":15.02563,
+    "gn:longitude":45.21119,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Thirayy\u0101\u2019 as S\u016bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thirayy\u0101\u2019 as S\u016bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341303
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"06dfb7ee003a1e8ce37675713c0a2da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1242761125,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1242761125,
+    "wof:lastmodified":1537715478,
+    "wof:name":"Thirayya' as Sudan",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21119,
+    15.02563,
+    45.21119,
+    15.02563
+],
+  "geometry": {"coordinates":[45.21119,15.02563],"type":"Point"}
+}

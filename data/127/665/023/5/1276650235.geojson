@@ -1,0 +1,71 @@
+{
+  "id": 1276650235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71844,15.4405,43.71844,15.4405",
+    "geom:latitude":15.4405,
+    "geom:longitude":43.71844,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Bayt Ghazwan",
+    "gn:country_code":"YE",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402082,
+    "gn:latitude":15.4405,
+    "gn:longitude":43.71844,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Ghazw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Ghazw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402082
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"90e395f082a3b4a4430523bb12492bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1276650235,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276650235,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Bayt Ghazwan",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71844,
+    15.4405,
+    43.71844,
+    15.4405
+],
+  "geometry": {"coordinates":[43.71844,15.4405],"type":"Point"}
+}

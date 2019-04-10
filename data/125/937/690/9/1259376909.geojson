@@ -1,0 +1,68 @@
+{
+  "id": 1259376909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69238,15.48678,43.69238,15.48678",
+    "geom:latitude":15.48678,
+    "geom:longitude":43.69238,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Al Quraynah",
+    "gn:country_code":"YE",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367026,
+    "gn:latitude":15.48678,
+    "gn:longitude":43.69238,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Quraynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367026
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb1e8ee298f33e8fa58c1b2144d80cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1259376909,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259376909,
+    "wof:lastmodified":1537011027,
+    "wof:name":"Al Quraynah",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69238,
+    15.48678,
+    43.69238,
+    15.48678
+],
+  "geometry": {"coordinates":[43.69238,15.48678],"type":"Point"}
+}

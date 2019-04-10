@@ -1,0 +1,88 @@
+{
+  "id": 1126042693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0844,16.36431,44.0844,16.36431",
+    "geom:latitude":16.36431,
+    "geom:longitude":44.0844,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"YE",
+    "lbl:latitude":16.36431,
+    "lbl:longitude":44.0844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al Qu\u1e29\u016bm"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u062d\u0648\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al QuhUm"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8025356,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Al Qu\u1e29\u016bm",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":750560,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8025356,
+        "qs_pg:id":750560,
+        "wd:id":"Q20299000"
+    },
+    "wof:country":"YE",
+    "wof:created":1497302251,
+    "wof:geomhash":"0f950b3d2b37d63de64809e4d7ffb749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1126042693,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126042693,
+    "wof:lastmodified":1514503200,
+    "wof:name":"Al Qu\u1e29\u016bm",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0844,
+    16.36431,
+    44.0844,
+    16.36431
+],
+  "geometry": {"coordinates":[44.0844,16.36431],"type":"Point"}
+}

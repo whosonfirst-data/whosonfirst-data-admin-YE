@@ -1,0 +1,74 @@
+{
+  "id": 1259638931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23831,13.15304,44.23831,13.15304",
+    "geom:latitude":13.15304,
+    "geom:longitude":44.23831,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Ar Rasan al A'la",
+    "gn:country_code":"YE",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871691,
+    "gn:latitude":13.15304,
+    "gn:longitude":44.23831,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Ras\u0101n al A\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0633\u0627\u0646 \u0627\u0644\u0623\u0639\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ar Ras\u0101n al A\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871691
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0e343abc5e97a2087933867a1c7b479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1259638931,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259638931,
+    "wof:lastmodified":1537716257,
+    "wof:name":"Ar Rasan al A'la",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23831,
+    13.15304,
+    44.23831,
+    13.15304
+],
+  "geometry": {"coordinates":[44.23831,13.15304],"type":"Point"}
+}

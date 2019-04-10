@@ -1,0 +1,69 @@
+{
+  "id": 890452181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43844,16.75397,44.43844,16.75397",
+    "geom:latitude":16.75397,
+    "geom:longitude":44.43844,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":35,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0644\u064a"
+    ],
+    "qs:name":"Al Qabil\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795037,
+        "gp:id":1959135,
+        "qs:id":700805
+    },
+    "wof:country":"YE",
+    "wof:created":1469052807,
+    "wof:geomhash":"329b0076a04d6b61d94a7ab91512054a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890452181,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890452181,
+    "wof:lastmodified":1505343644,
+    "wof:name":"Al Qabil\u012b",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43844,
+    16.75397,
+    44.43844,
+    16.75397
+],
+  "geometry": {"coordinates":[44.43844,16.75397],"type":"Point"}
+}

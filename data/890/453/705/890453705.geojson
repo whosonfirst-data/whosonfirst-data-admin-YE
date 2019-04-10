@@ -1,0 +1,76 @@
+{
+  "id": 890453705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32004,16.35277,43.32004,16.35277",
+    "geom:latitude":16.35277,
+    "geom:longitude":43.32004,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Sh\u0101\u0163i\u2019 \u2018Akk\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0637\u0626 \u0639\u0643\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Shati 'Akkash"
+    ],
+    "qs:name":"Sh\u0101\u0163i\u2019 \u2018Akk\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783225,
+        "gp:id":1958967,
+        "qs:id":699905,
+        "wd:id":"Q20308251"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052870,
+    "wof:geomhash":"d6014d613284c600be3245b8d65123af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890453705,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890453705,
+    "wof:lastmodified":1514503370,
+    "wof:name":"Sh\u0101\u0163i\u2019 \u2018Akk\u0101sh",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32004,
+    16.35277,
+    43.32004,
+    16.35277
+],
+  "geometry": {"coordinates":[43.32004,16.35277],"type":"Point"}
+}

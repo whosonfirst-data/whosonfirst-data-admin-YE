@@ -1,0 +1,74 @@
+{
+  "id": 1209797567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51409,15.49165,44.51409,15.49165",
+    "geom:latitude":15.49165,
+    "geom:longitude":44.51409,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al Marani'",
+    "gn:country_code":"YE",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331481,
+    "gn:latitude":15.49165,
+    "gn:longitude":44.51409,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mar\u0101ni\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u0646\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Mar\u0101ni\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331481
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ac583b4892701604f031e07e1b3e1a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1209797567,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209797567,
+    "wof:lastmodified":1537716188,
+    "wof:name":"Al Marani'",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51409,
+    15.49165,
+    44.51409,
+    15.49165
+],
+  "geometry": {"coordinates":[44.51409,15.49165],"type":"Point"}
+}

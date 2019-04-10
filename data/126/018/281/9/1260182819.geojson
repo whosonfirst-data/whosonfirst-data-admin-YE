@@ -1,0 +1,72 @@
+{
+  "id": 1260182819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.45,17.18333,52.45,17.18333",
+    "geom:latitude":17.18333,
+    "geom:longitude":52.45,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2801.0",
+    "gn:asciiname":"Dakharayb",
+    "gn:country_code":"YE",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76588,
+    "gn:latitude":17.18333,
+    "gn:longitude":52.45,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Dakharayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakharaib",
+        "Dakharayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091921079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76588
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b807b04fd17942d3f53b24a3997778a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921079,
+            "locality_id":1260182819,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1260182819,
+    "wof:lastmodified":1537715205,
+    "wof:name":"Dakharayb",
+    "wof:parent_id":1091921079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.45,
+    17.18333,
+    52.45,
+    17.18333
+],
+  "geometry": {"coordinates":[52.45,17.18333],"type":"Point"}
+}

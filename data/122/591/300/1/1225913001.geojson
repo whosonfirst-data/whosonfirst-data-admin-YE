@@ -1,0 +1,74 @@
+{
+  "id": 1225913001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56227,15.57293,43.56227,15.57293",
+    "geom:latitude":15.57293,
+    "geom:longitude":43.56227,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt al Hajar",
+    "gn:country_code":"YE",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980616,
+    "gn:latitude":15.57293,
+    "gn:longitude":43.56227,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980616
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"93e0d8f6abf96f8f5c2e7eb8a31e728b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1225913001,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225913001,
+    "wof:lastmodified":1537716177,
+    "wof:name":"Bayt al Hajar",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56227,
+    15.57293,
+    43.56227,
+    15.57293
+],
+  "geometry": {"coordinates":[43.56227,15.57293],"type":"Point"}
+}

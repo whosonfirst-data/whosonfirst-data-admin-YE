@@ -1,0 +1,71 @@
+{
+  "id": 1193240865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11886,14.01895,45.11886,14.01895",
+    "geom:latitude":14.01895,
+    "geom:longitude":45.11886,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Ad Dawar",
+    "gn:country_code":"YE",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364210,
+    "gn:latitude":14.01895,
+    "gn:longitude":45.11886,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Daw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Daw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364210
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"15c992e8cdaa03fe6ffcb31308b62c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1193240865,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1193240865,
+    "wof:lastmodified":1537715892,
+    "wof:name":"Ad Dawar",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11886,
+    14.01895,
+    45.11886,
+    14.01895
+],
+  "geometry": {"coordinates":[45.11886,14.01895],"type":"Point"}
+}

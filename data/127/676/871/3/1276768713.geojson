@@ -1,0 +1,72 @@
+{
+  "id": 1276768713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,15.98333,48.96667,15.98333",
+    "geom:latitude":15.98333,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1910.0",
+    "gn:asciiname":"Al Bayda'",
+    "gn:country_code":"YE",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79832,
+    "gn:latitude":15.98333,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Bay\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Bai\u1e0d\u0101\u2019",
+        "Al Bay\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79832
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f71fa6db913903923a93c844889c5d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923163,
+            "locality_id":1276768713,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276768713,
+    "wof:lastmodified":1537715319,
+    "wof:name":"Al Bayda'",
+    "wof:parent_id":1091923163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    15.98333,
+    48.96667,
+    15.98333
+],
+  "geometry": {"coordinates":[48.96667,15.98333],"type":"Point"}
+}

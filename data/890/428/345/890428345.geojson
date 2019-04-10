@@ -1,0 +1,69 @@
+{
+  "id": 890428345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38329,14.51887,45.38329,14.51887",
+    "geom:latitude":14.51887,
+    "geom:longitude":45.38329,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u064a\u0628"
+    ],
+    "qs:name":"Al \u2018Ulayb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053140,
+        "gp:id":1958975,
+        "qs:id":751571
+    },
+    "wof:country":"YE",
+    "wof:created":1469051749,
+    "wof:geomhash":"87e2a9f3a1160776d5d1c3e71c54e4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":890428345,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890428345,
+    "wof:lastmodified":1505343505,
+    "wof:name":"Al \u2018Ulayb",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38329,
+    14.51887,
+    45.38329,
+    14.51887
+],
+  "geometry": {"coordinates":[45.38329,14.51887],"type":"Point"}
+}

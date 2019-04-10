@@ -1,0 +1,75 @@
+{
+  "id": 1276209293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47441,17.43357,43.47441,17.43357",
+    "geom:latitude":17.43357,
+    "geom:longitude":43.47441,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Zabyah",
+    "gn:country_code":"YE",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345450,
+    "gn:latitude":17.43357,
+    "gn:longitude":43.47441,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Z\u0327abyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e10abyah",
+        "Z\u0327abyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345450
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8918b9efa90742eb704aa3d0ed9125e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1276209293,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276209293,
+    "wof:lastmodified":1537715560,
+    "wof:name":"Zabyah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47441,
+    17.43357,
+    43.47441,
+    17.43357
+],
+  "geometry": {"coordinates":[43.47441,17.43357],"type":"Point"}
+}

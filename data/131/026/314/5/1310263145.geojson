@@ -1,0 +1,71 @@
+{
+  "id": 1310263145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65809,15.69524,43.65809,15.69524",
+    "geom:latitude":15.69524,
+    "geom:longitude":43.65809,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1719.0",
+    "gn:asciiname":"Sid",
+    "gn:country_code":"YE",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344645,
+    "gn:latitude":15.69524,
+    "gn:longitude":43.65809,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344645
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cc3d36c6554880169d313c53934e2283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924267,
+            "locality_id":1310263145,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310263145,
+    "wof:lastmodified":1537715545,
+    "wof:name":"Sid",
+    "wof:parent_id":1091924267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65809,
+    15.69524,
+    43.65809,
+    15.69524
+],
+  "geometry": {"coordinates":[43.65809,15.69524],"type":"Point"}
+}

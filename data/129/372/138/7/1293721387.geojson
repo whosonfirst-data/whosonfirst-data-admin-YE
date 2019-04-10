@@ -1,0 +1,71 @@
+{
+  "id": 1293721387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.14747,15.74033,48.14747,15.74033",
+    "geom:latitude":15.74033,
+    "geom:longitude":48.14747,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Al Jahi",
+    "gn:country_code":"YE",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79315,
+    "gn:latitude":15.74033,
+    "gn:longitude":48.14747,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Al Ja\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ja\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79315
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb6f34e33b1ef1f8811d1e5ff52ae4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923285,
+            "locality_id":1293721387,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293721387,
+    "wof:lastmodified":1537715296,
+    "wof:name":"Al Jahi",
+    "wof:parent_id":1091923285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.14747,
+    15.74033,
+    48.14747,
+    15.74033
+],
+  "geometry": {"coordinates":[48.14747,15.74033],"type":"Point"}
+}

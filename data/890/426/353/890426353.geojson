@@ -1,0 +1,76 @@
+{
+  "id": 890426353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35459,16.9842,43.35459,16.9842",
+    "geom:latitude":16.9842,
+    "geom:longitude":43.35459,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Mu\u2019thib"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0624\u062b\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Muthib"
+    ],
+    "qs:name":"Mu\u2019thib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900646,
+        "gp:id":1958992,
+        "qs:id":744416,
+        "wd:id":"Q20302011"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051629,
+    "wof:geomhash":"3d366dc1e31813403ae85e354278be00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":890426353,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426353,
+    "wof:lastmodified":1514503329,
+    "wof:name":"Mu\u2019thib",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35459,
+    16.9842,
+    43.35459,
+    16.9842
+],
+  "geometry": {"coordinates":[43.35459,16.9842],"type":"Point"}
+}

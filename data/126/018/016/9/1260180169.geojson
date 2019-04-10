@@ -1,0 +1,71 @@
+{
+  "id": 1260180169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,14.75,47.21667,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Harwaj",
+    "gn:country_code":"YE",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75076,
+    "gn:latitude":14.75,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28arwaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28arwaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75076
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"97bbd482cc481ccad251bc21eb0e9804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1260180169,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1260180169,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Harwaj",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    14.75,
+    47.21667,
+    14.75
+],
+  "geometry": {"coordinates":[47.21667,14.75],"type":"Point"}
+}

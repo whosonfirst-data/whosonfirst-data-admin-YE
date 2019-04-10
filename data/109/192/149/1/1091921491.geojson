@@ -1,0 +1,114 @@
+{
+  "id": 1091921491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000706,
+    "geom:area_square_m":8412367.015907,
+    "geom:bbox":"44.2191023753,15.3435724955,44.2609567134,15.3660611728",
+    "geom:latitude":15.353373,
+    "geom:longitude":44.237451,
+    "iso:country":"YE",
+    "lbl:latitude":15.354182,
+    "lbl:longitude":44.23706,
+    "meso:admin1_en":"Amanat Al Asimah",
+    "meso:admin1_loc":"\u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+    "meso:dissme":"Amanat Al AsimahAz'zal",
+    "meso:gadm_admin":"Az'zal",
+    "meso:gaul_admin":"Az'zal",
+    "meso:hasc_id":"YE.SA.AZ",
+    "meso:mps_x":44.23706,
+    "meso:mps_y":15.354182,
+    "meso:name_en":"Az'zal",
+    "meso:source":"AOTM",
+    "mps:latitude":15.354182,
+    "mps:longitude":44.23706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0623\u0632\u0627\u0644"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0566\u0561\u056c \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:eng_x_preferred":[
+        "Az'zal"
+    ],
+    "name:eng_x_variant":[
+        "Az'zal",
+        "Az'zal District"
+    ],
+    "name:nno_x_preferred":[
+        "Az'zal-distriktet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0632\u0627\u0644 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Az'zal"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.SA",
+    "statoids:name":"Az'zal",
+    "statoids:population":"115054",
+    "statoids:statoid":"YE.SA.AZ",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.SA.AZ",
+        "wd:id":"Q4117188"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893049,
+    "wof:geomhash":"fd12a1e747218067e9b09505e35ed48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921491,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921491,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1091921491,
+    "wof:lastmodified":1536615035,
+    "wof:name":"Az'zal",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":115054,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"AZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21910237530832,
+    15.34357249554045,
+    44.26095671339995,
+    15.36606117275114
+],
+  "geometry": {"coordinates":[[[44.24161648926876,15.36257237636651],[44.24238161828983,15.36223857368721],[44.24391187633195,15.36157096832861],[44.24620726339514,15.3605695602907],[44.24949957703657,15.35949914234052],[44.25315688402161,15.35823052423857],[44.25674152847809,15.35504436516886],[44.26095671339995,15.34434287101678],[44.26064888747629,15.34394728588484],[44.2605849704337,15.3439778549052],[44.22143315869261,15.34430686172656],[44.2199644263204,15.34357249554045],[44.21975076573106,15.34811818869409],[44.21910237530832,15.36191288950828],[44.22026797297923,15.36250734317007],[44.22259916832107,15.36369625049365],[44.22609596133382,15.36547961147902],[44.23185697799465,15.36606117275114],[44.24161648926876,15.36257237636651]]],"type":"Polygon"}
+}

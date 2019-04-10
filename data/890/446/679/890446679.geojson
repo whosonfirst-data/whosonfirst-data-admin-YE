@@ -1,0 +1,73 @@
+{
+  "id": 890446679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77886,16.93564,43.77886,16.93564",
+    "geom:latitude":16.93564,
+    "geom:longitude":43.77886,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":84,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0643\u0647\u0644\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kahlan"
+    ],
+    "qs:name":"\u0100l Kahl\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683858,
+        "gp:id":1958152,
+        "qs:id":697553,
+        "wd:id":"Q20304208"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052561,
+    "wof:geomhash":"f65cf4cf9006581600a4f1b0d28c9b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":890446679,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446679,
+    "wof:lastmodified":1514503388,
+    "wof:name":"\u0100l Kahl\u0101n",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77886,
+    16.93564,
+    43.77886,
+    16.93564
+],
+  "geometry": {"coordinates":[43.77886,16.93564],"type":"Point"}
+}

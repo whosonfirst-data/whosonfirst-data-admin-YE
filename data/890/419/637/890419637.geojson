@@ -1,0 +1,76 @@
+{
+  "id": 890419637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40587,14.02619,45.40587,14.02619",
+    "geom:latitude":14.02619,
+    "geom:longitude":45.40587,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l Bilgh\u012bth"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0628\u0644\u063a\u064a\u062b"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bilghith"
+    ],
+    "qs:name":"\u0100l Bilgh\u012bth",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051680,
+        "gp:id":1958988,
+        "qs:id":751072,
+        "wd:id":"Q20304897"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051295,
+    "wof:geomhash":"4f1d06b7178a93b795f7e217b12caea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919265,
+            "locality_id":890419637,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419637,
+    "wof:lastmodified":1514503387,
+    "wof:name":"\u0100l Bilgh\u012bth",
+    "wof:parent_id":1091919265,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40587,
+    14.02619,
+    45.40587,
+    14.02619
+],
+  "geometry": {"coordinates":[45.40587,14.02619],"type":"Point"}
+}

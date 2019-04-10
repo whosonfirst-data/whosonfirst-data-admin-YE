@@ -1,0 +1,75 @@
+{
+  "id": 1276216661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55556,15.28502,42.55556,15.28502",
+    "geom:latitude":15.28502,
+    "geom:longitude":42.55556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1803.0",
+    "gn:asciiname":"Al Furrah",
+    "gn:country_code":"YE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75765,
+    "gn:latitude":15.28502,
+    "gn:longitude":42.55556,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Furrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fura",
+        "Fawrah",
+        "Al Furrah",
+        "F\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75765,
+        "wk:page":"Furah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"282f20dec655f83420e4b775f1be1b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920475,
+            "locality_id":1276216661,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276216661,
+    "wof:lastmodified":1537715182,
+    "wof:name":"Al Furrah",
+    "wof:parent_id":1091920475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55556,
+    15.28502,
+    42.55556,
+    15.28502
+],
+  "geometry": {"coordinates":[42.55556,15.28502],"type":"Point"}
+}

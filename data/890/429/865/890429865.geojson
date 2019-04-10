@@ -1,0 +1,73 @@
+{
+  "id": 890429865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29256,16.17401,43.29256,16.17401",
+    "geom:latitude":16.17401,
+    "geom:longitude":43.29256,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0631\u062d \u0627\u0644\u0623\u0634\u0640\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mafrah Al Asham"
+    ],
+    "qs:name":"Al Mafra\u1e29 al Asham",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631801,
+        "gp:id":1953570,
+        "qs:id":694640,
+        "wd:id":"Q20306594"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051831,
+    "wof:geomhash":"84651683910c4bc30c948c4881a1a827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890429865,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890429865,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Mafra\u1e29 al Asham",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29256,
+    16.17401,
+    43.29256,
+    16.17401
+],
+  "geometry": {"coordinates":[43.29256,16.17401],"type":"Point"}
+}

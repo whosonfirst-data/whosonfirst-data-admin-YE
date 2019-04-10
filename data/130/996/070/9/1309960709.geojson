@@ -1,0 +1,68 @@
+{
+  "id": 1309960709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17561,13.65997,44.17561,13.65997",
+    "geom:latitude":13.65997,
+    "geom:longitude":44.17561,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Quzaylah",
+    "gn:country_code":"YE",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357502,
+    "gn:latitude":13.65997,
+    "gn:longitude":44.17561,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Quzaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357502
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"98798da6b2e1015153995fbcf5d4db77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1309960709,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309960709,
+    "wof:lastmodified":1536708303,
+    "wof:name":"Quzaylah",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17561,
+    13.65997,
+    44.17561,
+    13.65997
+],
+  "geometry": {"coordinates":[44.17561,13.65997],"type":"Point"}
+}

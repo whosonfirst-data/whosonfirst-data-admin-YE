@@ -1,0 +1,74 @@
+{
+  "id": 1293355291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97381,16.08608,43.97381,16.08608",
+    "geom:latitude":16.08608,
+    "geom:longitude":43.97381,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Jumdan",
+    "gn:country_code":"YE",
+    "gn:dem":2436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74081,
+    "gn:latitude":16.08608,
+    "gn:longitude":43.97381,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jumd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jumd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Jund\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74081
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5b8eee77708ba6049f82f8b9cc1b9a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1293355291,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293355291,
+    "wof:lastmodified":1537715146,
+    "wof:name":"Jumdan",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97381,
+    16.08608,
+    43.97381,
+    16.08608
+],
+  "geometry": {"coordinates":[43.97381,16.08608],"type":"Point"}
+}

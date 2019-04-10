@@ -1,0 +1,73 @@
+{
+  "id": 890425111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03554,16.9042,44.03554,16.9042",
+    "geom:latitude":16.9042,
+    "geom:longitude":44.03554,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648 \u063a\u0646\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "DhU Ghanim"
+    ],
+    "qs:name":"Dh\u016b Ghan\u012bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753642,
+        "gp:id":1959086,
+        "qs:id":698532,
+        "wd:id":"Q20302715"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051575,
+    "wof:geomhash":"18067b6a931ad4cd39b5243411e34db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890425111,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425111,
+    "wof:lastmodified":1514503263,
+    "wof:name":"Dh\u016b Ghan\u012bm",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03554,
+    16.9042,
+    44.03554,
+    16.9042
+],
+  "geometry": {"coordinates":[44.03554,16.9042],"type":"Point"}
+}

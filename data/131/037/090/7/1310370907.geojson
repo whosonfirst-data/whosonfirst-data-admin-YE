@@ -1,0 +1,75 @@
+{
+  "id": 1310370907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65979,14.10812,44.65979,14.10812",
+    "geom:latitude":14.10812,
+    "geom:longitude":44.65979,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"Bayt al Hadashi",
+    "gn:country_code":"YE",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340329,
+    "gn:latitude":14.10812,
+    "gn:longitude":44.65979,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Bayt al Had\u0101sh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0647\u062f\u0627\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Hadd\u0101sh\u012b",
+        "Bayt al Had\u0101sh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340329
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ef346616d49109606db8b4ab0a049178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":1310370907,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1310370907,
+    "wof:lastmodified":1537715446,
+    "wof:name":"Bayt al Hadashi",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65979,
+    14.10812,
+    44.65979,
+    14.10812
+],
+  "geometry": {"coordinates":[44.65979,14.10812],"type":"Point"}
+}

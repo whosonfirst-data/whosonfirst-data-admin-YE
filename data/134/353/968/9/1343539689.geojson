@@ -1,0 +1,71 @@
+{
+  "id": 1343539689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62765,15.46474,43.62765,15.46474",
+    "geom:latitude":15.46474,
+    "geom:longitude":43.62765,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Bayt Dawud",
+    "gn:country_code":"YE",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360641,
+    "gn:latitude":15.46474,
+    "gn:longitude":43.62765,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360641
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e97e270e3b6ae2a4dd578637e3335297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1343539689,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343539689,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt Dawud",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62765,
+    15.46474,
+    43.62765,
+    15.46474
+],
+  "geometry": {"coordinates":[43.62765,15.46474],"type":"Point"}
+}

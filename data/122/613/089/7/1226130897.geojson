@@ -1,0 +1,71 @@
+{
+  "id": 1226130897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32552,15.50801,43.32552,15.50801",
+    "geom:latitude":15.50801,
+    "geom:longitude":43.32552,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Al Humar",
+    "gn:country_code":"YE",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365519,
+    "gn:latitude":15.50801,
+    "gn:longitude":43.32552,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365519
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8248a24a11775bbc9bc75028c701d34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1226130897,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226130897,
+    "wof:lastmodified":1537715933,
+    "wof:name":"Al Humar",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32552,
+    15.50801,
+    43.32552,
+    15.50801
+],
+  "geometry": {"coordinates":[43.32552,15.50801],"type":"Point"}
+}

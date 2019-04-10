@@ -1,0 +1,74 @@
+{
+  "id": 1243231405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74231,13.17743,43.74231,13.17743",
+    "geom:latitude":13.17743,
+    "geom:longitude":43.74231,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Hamarah",
+    "gn:country_code":"YE",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538308,
+    "gn:latitude":13.17743,
+    "gn:longitude":43.74231,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28amarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28amarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538308
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d277d506c21d751d735740596d106e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1243231405,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243231405,
+    "wof:lastmodified":1537716056,
+    "wof:name":"Al Hamarah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74231,
+    13.17743,
+    43.74231,
+    13.17743
+],
+  "geometry": {"coordinates":[43.74231,13.17743],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344005735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18699,15.30605,44.18699,15.30605",
+    "geom:latitude":15.30605,
+    "geom:longitude":44.18699,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Hadda Staff Housing Complex",
+    "gn:country_code":"YE",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342098,
+    "gn:latitude":15.30605,
+    "gn:longitude":44.18699,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hadda Staff Housing Complex",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hadda Staff Housing Complex"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921377,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342098
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"79965060c4ff83d0eb8e66b8377d1803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921377,
+            "locality_id":1344005735,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921377,
+            "locality_id":1344005735,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344005735,
+    "wof:lastmodified":1537715494,
+    "wof:name":"Hadda Staff Housing Complex",
+    "wof:parent_id":1091921377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18699,
+    15.30605,
+    44.18699,
+    15.30605
+],
+  "geometry": {"coordinates":[44.18699,15.30605],"type":"Point"}
+}

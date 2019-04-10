@@ -1,0 +1,76 @@
+{
+  "id": 1225792203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.17858,12.53992,54.17858,12.53992",
+    "geom:latitude":12.53992,
+    "geom:longitude":54.17858,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Salamhun",
+    "gn:country_code":"YE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10182758,
+    "gn:latitude":12.53992,
+    "gn:longitude":54.17858,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salamh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182758
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e56ce3ba7c309e4648cab0822475e77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1225792203,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1225792203,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1225792203,
+    "wof:lastmodified":1537087775,
+    "wof:name":"Salamhun",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.17858,
+    12.53992,
+    54.17858,
+    12.53992
+],
+  "geometry": {"coordinates":[54.17858,12.53992],"type":"Point"}
+}

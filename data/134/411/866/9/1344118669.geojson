@@ -1,0 +1,74 @@
+{
+  "id": 1344118669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8113,16.31621,43.8113,16.31621",
+    "geom:latitude":16.31621,
+    "geom:longitude":43.8113,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Nafi'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634517,
+    "gn:latitude":16.31621,
+    "gn:longitude":43.8113,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101fi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0641\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u0101fi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634517
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a9afd10de7b83ca7b9aeb1b57bc2ad5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1344118669,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344118669,
+    "wof:lastmodified":1537716080,
+    "wof:name":"Nafi'ah",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8113,
+    16.31621,
+    43.8113,
+    16.31621
+],
+  "geometry": {"coordinates":[43.8113,16.31621],"type":"Point"}
+}

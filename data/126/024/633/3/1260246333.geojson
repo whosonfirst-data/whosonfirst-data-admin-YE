@@ -1,0 +1,75 @@
+{
+  "id": 1260246333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39577,14.04032,45.39577,14.04032",
+    "geom:latitude":14.04032,
+    "geom:longitude":45.39577,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1405.0",
+    "gn:asciiname":"Al Hasan",
+    "gn:country_code":"YE",
+    "gn:dem":1995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364452,
+    "gn:latitude":14.04032,
+    "gn:longitude":45.39577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u0100l \u1e28asan",
+        "\u0100l \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364452
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a6797f747db0e618c2b0a4e2dea18168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919265,
+            "locality_id":1260246333,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260246333,
+    "wof:lastmodified":1537715899,
+    "wof:name":"Al Hasan",
+    "wof:parent_id":1091919265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39577,
+    14.04032,
+    45.39577,
+    14.04032
+],
+  "geometry": {"coordinates":[45.39577,14.04032],"type":"Point"}
+}

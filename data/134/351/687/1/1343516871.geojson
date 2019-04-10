@@ -1,0 +1,74 @@
+{
+  "id": 1343516871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23145,13.21572,44.23145,13.21572",
+    "geom:latitude":13.21572,
+    "geom:longitude":44.23145,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Hawb al Huwayti",
+    "gn:country_code":"YE",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871641,
+    "gn:latitude":13.21572,
+    "gn:longitude":44.23145,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hawb al \u1e28uway\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0628 \u0627\u0644\u062d\u0648\u064a\u0637\u064a"
+    ],
+    "name:und_x_variant":[
+        "Hawb al \u1e28uway\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871641
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ba50ab12274fba94c5c1881621d04f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1343516871,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343516871,
+    "wof:lastmodified":1537716255,
+    "wof:name":"Hawb al Huwayti",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23145,
+    13.21572,
+    44.23145,
+    13.21572
+],
+  "geometry": {"coordinates":[44.23145,13.21572],"type":"Point"}
+}

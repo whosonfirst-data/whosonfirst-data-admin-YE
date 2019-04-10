@@ -1,0 +1,75 @@
+{
+  "id": 1242783751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.715,14.11111,48.715,14.11111",
+    "geom:latitude":14.11111,
+    "geom:longitude":48.715,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1925.0",
+    "gn:asciiname":"As Sufal",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77771,
+    "gn:latitude":14.11111,
+    "gn:longitude":48.715,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Suf\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Suf\u0101l"
+    ],
+    "name:und_x_variant":[
+        "Al-Sufal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77771
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55b0adb63bc155301b3818a026177fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922857,
+            "locality_id":1242783751,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1242783751,
+    "wof:lastmodified":1537715234,
+    "wof:name":"As Sufal",
+    "wof:parent_id":1091922857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.715,
+    14.11111,
+    48.715,
+    14.11111
+],
+  "geometry": {"coordinates":[48.715,14.11111],"type":"Point"}
+}

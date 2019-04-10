@@ -1,0 +1,75 @@
+{
+  "id": 1292985535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27675,14.66163,43.27675,14.66163",
+    "geom:latitude":14.66163,
+    "geom:longitude":43.27675,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Al `Anaziyah",
+    "gn:country_code":"YE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76326,
+    "gn:latitude":14.66163,
+    "gn:longitude":43.27675,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Al \u2018An\u0101z\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0646\u0627\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dayr al Basharah",
+        "Al \u2018An\u0101z\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76326
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69f64995bb6e1140e882420ed458f01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1292985535,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1292985535,
+    "wof:lastmodified":1537715195,
+    "wof:name":"Al `Anaziyah",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27675,
+    14.66163,
+    43.27675,
+    14.66163
+],
+  "geometry": {"coordinates":[43.27675,14.66163],"type":"Point"}
+}

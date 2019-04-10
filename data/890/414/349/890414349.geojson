@@ -1,0 +1,73 @@
+{
+  "id": 890414349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71673,16.06195,43.71673,16.06195",
+    "geom:latitude":16.06195,
+    "geom:longitude":43.71673,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0631\u0623\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Jabal Ar Ras"
+    ],
+    "qs:name":"Jabal ar Ra\u2019s",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020486,
+        "gp:id":1959046,
+        "qs:id":749838,
+        "wd:id":"Q20306134"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051044,
+    "wof:geomhash":"e06883b0fea9e85d3cca14b3863299d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890414349,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414349,
+    "wof:lastmodified":1514503296,
+    "wof:name":"Jabal ar Ra\u2019s",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71673,
+    16.06195,
+    43.71673,
+    16.06195
+],
+  "geometry": {"coordinates":[43.71673,16.06195],"type":"Point"}
+}

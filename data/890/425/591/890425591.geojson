@@ -1,0 +1,73 @@
+{
+  "id": 890425591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39273,16.75342,44.39273,16.75342",
+    "geom:latitude":16.75342,
+    "geom:longitude":44.39273,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0627\u0631\u064a"
+    ],
+    "qs:name":"Al Maj\u0101r\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795013,
+        "gp:id":1959135,
+        "qs:id":700785
+    },
+    "wof:country":"YE",
+    "wof:created":1469051596,
+    "wof:geomhash":"1ad8e2d9d61302c19db5beea81258eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890425591,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425591,
+    "wof:lastmodified":1534379833,
+    "wof:name":"Al Maj\u0101r\u012b",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890448267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39273,
+    16.75342,
+    44.39273,
+    16.75342
+],
+  "geometry": {"coordinates":[44.39273,16.75342],"type":"Point"}
+}

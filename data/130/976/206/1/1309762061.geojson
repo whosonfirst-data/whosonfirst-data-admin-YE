@@ -1,0 +1,77 @@
+{
+  "id": 1309762061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25162,14.20602,44.25162,14.20602",
+    "geom:latitude":14.20602,
+    "geom:longitude":44.25162,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Al Bahali",
+    "gn:country_code":"YE",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359420,
+    "gn:latitude":14.20602,
+    "gn:longitude":44.25162,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Bah\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bih\u0101l\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0647\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Bah\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359420
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9c88d9956e841efdcfb37becfa5026e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":1309762061,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309762061,
+    "wof:lastmodified":1537715760,
+    "wof:name":"Al Bahali",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25162,
+    14.20602,
+    44.25162,
+    14.20602
+],
+  "geometry": {"coordinates":[44.25162,14.20602],"type":"Point"}
+}

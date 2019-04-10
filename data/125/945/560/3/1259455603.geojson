@@ -1,0 +1,75 @@
+{
+  "id": 1259455603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7648,17.02207,43.7648,17.02207",
+    "geom:latitude":17.02207,
+    "geom:longitude":43.7648,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Jawi",
+    "gn:country_code":"YE",
+    "gn:dem":1842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345329,
+    "gn:latitude":17.02207,
+    "gn:longitude":43.7648,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"J\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ahl J\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "J\u0101w\u012b",
+        "\u062c\u0627\u0648\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345329
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1226d03a3072849528d4f02f86dd583c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1259455603,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259455603,
+    "wof:lastmodified":1537715557,
+    "wof:name":"Jawi",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7648,
+    17.02207000000001,
+    43.7648,
+    17.02207000000001
+],
+  "geometry": {"coordinates":[43.7648,17.02207000000001],"type":"Point"}
+}

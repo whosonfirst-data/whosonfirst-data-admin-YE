@@ -1,0 +1,74 @@
+{
+  "id": 1259441879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38067,14.36899,45.38067,14.36899",
+    "geom:latitude":14.36899,
+    "geom:longitude":45.38067,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1420.0",
+    "gn:asciiname":"Ad Darbah",
+    "gn:country_code":"YE",
+    "gn:dem":2018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363858,
+    "gn:latitude":14.36899,
+    "gn:longitude":45.38067,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"A\u1e11 \u1e10arbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10arbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363858
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bef236b98e139bb21f4ff5367cdc2542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":1259441879,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1259441879,
+    "wof:lastmodified":1537715880,
+    "wof:name":"Ad Darbah",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38067,
+    14.36899,
+    45.38067,
+    14.36899
+],
+  "geometry": {"coordinates":[45.38067,14.36899],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343926411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06515,14.07602,44.06515,14.07602",
+    "geom:latitude":14.07602,
+    "geom:longitude":44.06515,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Al Jarif",
+    "gn:country_code":"YE",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359837,
+    "gn:latitude":14.07602,
+    "gn:longitude":44.06515,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jarif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Jarf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359837
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"65811facf6994c23646627963ec6c265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1343926411,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343926411,
+    "wof:lastmodified":1537715779,
+    "wof:name":"Al Jarif",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06515,
+    14.07602,
+    44.06515,
+    14.07602
+],
+  "geometry": {"coordinates":[44.06515,14.07602],"type":"Point"}
+}

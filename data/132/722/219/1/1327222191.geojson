@@ -1,0 +1,71 @@
+{
+  "id": 1327222191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66157,15.47231,43.66157,15.47231",
+    "geom:latitude":15.47231,
+    "geom:longitude":43.66157,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Al Mubid",
+    "gn:country_code":"YE",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402057,
+    "gn:latitude":15.47231,
+    "gn:longitude":43.66157,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al M\u016bbid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u016bbid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8176c320e98305a18895819c40be2632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1327222191,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327222191,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Al Mubid",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66157000000001,
+    15.47231,
+    43.66157000000001,
+    15.47231
+],
+  "geometry": {"coordinates":[43.66157000000001,15.47231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259460115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02699,14.77106,44.02699,14.77106",
+    "geom:latitude":14.77106,
+    "geom:longitude":44.02699,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Thummanah",
+    "gn:country_code":"YE",
+    "gn:dem":2480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361046,
+    "gn:latitude":14.77106,
+    "gn:longitude":44.02699,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Thumm\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thumm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361046
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d3fd3fd2f97fb1ca2158809dd64901a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1259460115,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259460115,
+    "wof:lastmodified":1537715810,
+    "wof:name":"Thummanah",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02699000000001,
+    14.77106,
+    44.02699000000001,
+    14.77106
+],
+  "geometry": {"coordinates":[44.02699000000001,14.77106],"type":"Point"}
+}

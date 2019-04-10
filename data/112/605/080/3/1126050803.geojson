@@ -1,0 +1,85 @@
+{
+  "id": 1126050803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32889,16.52016,44.32889,16.52016",
+    "geom:latitude":16.52016,
+    "geom:longitude":44.32889,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":27,
+    "gn:population":27,
+    "iso:country":"YE",
+    "lbl:latitude":16.52016,
+    "lbl:longitude":44.32889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'inah"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7795196,
+    "qs_pg:gn_pop":27,
+    "qs_pg:name":"Al Ma\u2018inah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":700960,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795196,
+        "qs_pg:id":700960,
+        "wd:id":"Q20306043"
+    },
+    "wof:country":"YE",
+    "wof:created":1497302725,
+    "wof:geomhash":"005dc5aedefe56d1b6c1390de1390aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1126050803,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1126050803,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018inah",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32889,
+    16.52016,
+    44.32889,
+    16.52016
+],
+  "geometry": {"coordinates":[44.32889,16.52016],"type":"Point"}
+}

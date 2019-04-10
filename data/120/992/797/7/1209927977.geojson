@@ -1,0 +1,80 @@
+{
+  "id": 1209927977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.79877,13.8573,45.79877,13.8573",
+    "geom:latitude":13.8573,
+    "geom:longitude":45.79877,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Am Qa`",
+    "gn:country_code":"YE",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78717,
+    "gn:latitude":13.8573,
+    "gn:longitude":45.79877,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Am Q\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Q\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "Am Q\u0101\u2018",
+        "S\u0101kin Ahl \u2018Al\u012b",
+        "\u0633\u0627\u0643\u0646 \u0623\u0647\u0644 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Umm Q\u0101\u2018",
+        "Am Q\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78717
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"99bad6ae943067df6353951179e3513e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1209927977,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1209927977,
+    "wof:lastmodified":1537715269,
+    "wof:name":"Am Qa`",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.79877000000001,
+    13.8573,
+    45.79877000000001,
+    13.8573
+],
+  "geometry": {"coordinates":[45.79877000000001,13.8573],"type":"Point"}
+}

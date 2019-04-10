@@ -1,0 +1,68 @@
+{
+  "id": 890420971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57569,13.98785,45.57569,13.98785",
+    "geom:latitude":13.98785,
+    "geom:longitude":45.57569,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":88,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u064a\u062a"
+    ],
+    "qs:name":"Al Kuwayt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85681001,
+        85632499,
+        1091919021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029394,
+        "qs:id":750724
+    },
+    "wof:country":"YE",
+    "wof:created":1469051368,
+    "wof:geomhash":"973bddd02ba921f402be7bf5e4740da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919021,
+            "neighbourhood_id":890420971,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890420971,
+    "wof:lastmodified":1505343460,
+    "wof:name":"Al Kuwayt",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57569,
+    13.98785,
+    45.57569,
+    13.98785
+],
+  "geometry": {"coordinates":[45.57569,13.98785],"type":"Point"}
+}

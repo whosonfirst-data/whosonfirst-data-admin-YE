@@ -1,0 +1,65 @@
+{
+  "id": 1209673447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24522,13.79321,44.24522,13.79321",
+    "geom:latitude":13.79321,
+    "geom:longitude":44.24522,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Haydarah",
+    "gn:country_code":"YE",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356703,
+    "gn:latitude":13.79321,
+    "gn:longitude":44.24522,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28aydarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28aydarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356703
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"369e07fcbd67ef25b7c8a327c037d63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209673447
+        }
+    ],
+    "wof:id":1209673447,
+    "wof:lastmodified":1537715683,
+    "wof:name":"Haydarah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24522,
+    13.79321,
+    44.24522,
+    13.79321
+],
+  "geometry": {"coordinates":[44.24522,13.79321],"type":"Point"}
+}

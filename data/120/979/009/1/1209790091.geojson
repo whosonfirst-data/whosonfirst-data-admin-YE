@@ -1,0 +1,71 @@
+{
+  "id": 1209790091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23092,14.52944,45.23092,14.52944",
+    "geom:latitude":14.52944,
+    "geom:longitude":45.23092,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Naq`at al Aghwal",
+    "gn:country_code":"YE",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364594,
+    "gn:latitude":14.52944,
+    "gn:longitude":45.23092,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Naq\u2018at al Aghw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u2018at al Aghw\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364594
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c19ee9c47964f8ae4d0277001e624a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919509,
+            "locality_id":1209790091,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1209790091,
+    "wof:lastmodified":1537715902,
+    "wof:name":"Naq`at al Aghwal",
+    "wof:parent_id":1091919509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23092000000001,
+    14.52944,
+    45.23092000000001,
+    14.52944
+],
+  "geometry": {"coordinates":[45.23092000000001,14.52944],"type":"Point"}
+}

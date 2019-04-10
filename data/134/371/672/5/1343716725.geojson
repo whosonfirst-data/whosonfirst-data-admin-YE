@@ -1,0 +1,68 @@
+{
+  "id": 1343716725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08061,13.74805,44.08061,13.74805",
+    "geom:latitude":13.74805,
+    "geom:longitude":44.08061,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Al Manzil",
+    "gn:country_code":"YE",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357303,
+    "gn:latitude":13.74805,
+    "gn:longitude":44.08061,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Manzil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357303
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"619e59740f97fe8943a1a7f5a85c0eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1343716725,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343716725,
+    "wof:lastmodified":1536873100,
+    "wof:name":"Al Manzil",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08061,
+    13.74805,
+    44.08061,
+    13.74805
+],
+  "geometry": {"coordinates":[44.08061,13.74805],"type":"Point"}
+}

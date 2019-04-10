@@ -1,0 +1,79 @@
+{
+  "id": 1310506153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84825,15.06068,45.84825,15.06068",
+    "geom:latitude":15.06068,
+    "geom:longitude":45.84825,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2105.0",
+    "gn:asciiname":"Daghat",
+    "gn:country_code":"YE",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76411,
+    "gn:latitude":15.06068,
+    "gn:longitude":45.84825,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e10aghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r R\u0101ji\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0638\u0627\u063a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Dhagiet",
+        "\u1e10aghat",
+        "Z\u0327\u0101gha\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76411
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ccc20cc9f4146fd5aa4f4146571b2bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926229,
+            "locality_id":1310506153,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310506153,
+    "wof:lastmodified":1537715198,
+    "wof:name":"Daghat",
+    "wof:parent_id":1091926229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84825,
+    15.06068,
+    45.84825,
+    15.06068
+],
+  "geometry": {"coordinates":[45.84825,15.06068],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890453845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27648,14.04387,45.27648,14.04387",
+    "geom:latitude":14.04387,
+    "geom:longitude":45.27648,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Kh\u0101lif"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0644\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Khalif"
+    ],
+    "qs:name":"Kh\u0101lif",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051871,
+        "gp:id":1958988,
+        "qs:id":751249,
+        "wd:id":"Q20299009"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052875,
+    "wof:geomhash":"168e228989c9a4260e506a91eddabe27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890453845,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890453845,
+    "wof:lastmodified":1514503303,
+    "wof:name":"Kh\u0101lif",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27648,
+    14.04387,
+    45.27648,
+    14.04387
+],
+  "geometry": {"coordinates":[45.27648,14.04387],"type":"Point"}
+}

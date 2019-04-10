@@ -1,0 +1,74 @@
+{
+  "id": 1226831151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26095,15.30642,44.26095,15.30642",
+    "geom:latitude":15.30642,
+    "geom:longitude":44.26095,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Al Qulfan",
+    "gn:country_code":"YE",
+    "gn:dem":2313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342174,
+    "gn:latitude":15.30642,
+    "gn:longitude":44.26095,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qulf\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qulf\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0644\u0641\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342174
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7e05113bed6a2e37d01b8affb9b9294d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1226831151,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226831151,
+    "wof:lastmodified":1537715494,
+    "wof:name":"Al Qulfan",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26095,
+    15.30642,
+    44.26095,
+    15.30642
+],
+  "geometry": {"coordinates":[44.26095,15.30642],"type":"Point"}
+}

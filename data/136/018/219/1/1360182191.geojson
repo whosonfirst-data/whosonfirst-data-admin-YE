@@ -1,0 +1,74 @@
+{
+  "id": 1360182191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3302,14.85323,43.3302,14.85323",
+    "geom:latitude":14.85323,
+    "geom:longitude":43.3302,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Husayn 'Umar",
+    "gn:country_code":"YE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058456,
+    "gn:latitude":14.85323,
+    "gn:longitude":43.3302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058456
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fdedc198fd8f76b09b13380e8a5ab4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1360182191,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360182191,
+    "wof:lastmodified":1537716340,
+    "wof:name":"Husayn 'Umar",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3302,
+    14.85323,
+    43.3302,
+    14.85323
+],
+  "geometry": {"coordinates":[43.3302,14.85323],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226414053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45988,15.52239,44.45988,15.52239",
+    "geom:latitude":15.52239,
+    "geom:longitude":44.45988,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Al Jabbaylah",
+    "gn:country_code":"YE",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362310,
+    "gn:latitude":15.52239,
+    "gn:longitude":44.45988,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jabbaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362310
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5099482bf300314f2c731f3006a69d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1226414053,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226414053,
+    "wof:lastmodified":1536691426,
+    "wof:name":"Al Jabbaylah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45988,
+    15.52239,
+    44.45988,
+    15.52239
+],
+  "geometry": {"coordinates":[44.45988,15.52239],"type":"Point"}
+}

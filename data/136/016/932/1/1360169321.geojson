@@ -1,0 +1,73 @@
+{
+  "id": 1360169321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51806,13.91528,43.51806,13.91528",
+    "geom:latitude":13.91528,
+    "geom:longitude":43.51806,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1819.0",
+    "gn:asciiname":"Al Hab`i",
+    "gn:country_code":"YE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79664,
+    "gn:latitude":13.91528,
+    "gn:longitude":43.51806,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28ab\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hurbi",
+        "Al Hurbi",
+        "Al \u1e28ab\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79664
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e29ab19e17e1cbfd22611499de803ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":1360169321,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360169321,
+    "wof:lastmodified":1537715312,
+    "wof:name":"Al Hab`i",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51806,
+    13.91528,
+    43.51806,
+    13.91528
+],
+  "geometry": {"coordinates":[43.51806,13.91528],"type":"Point"}
+}

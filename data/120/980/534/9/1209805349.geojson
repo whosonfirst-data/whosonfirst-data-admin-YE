@@ -1,0 +1,74 @@
+{
+  "id": 1209805349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46475,14.91126,43.46475,14.91126",
+    "geom:latitude":14.91126,
+    "geom:longitude":43.46475,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Az Zubayda",
+    "gn:country_code":"YE",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058636,
+    "gn:latitude":14.91126,
+    "gn:longitude":43.46475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Zubayd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0628\u064a\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Az Zubayd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058636
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"86764276d79e347b1cdcd095cbb59b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1209805349,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209805349,
+    "wof:lastmodified":1537716347,
+    "wof:name":"Az Zubayda",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46475,
+    14.91126,
+    43.46475,
+    14.91126
+],
+  "geometry": {"coordinates":[43.46475,14.91126],"type":"Point"}
+}

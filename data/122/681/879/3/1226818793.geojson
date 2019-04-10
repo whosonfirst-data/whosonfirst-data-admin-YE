@@ -1,0 +1,71 @@
+{
+  "id": 1226818793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43057,17.23361,44.43057,17.23361",
+    "geom:latitude":17.23361,
+    "geom:longitude":44.43057,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Mawrak",
+    "gn:country_code":"YE",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307533,
+    "gn:latitude":17.23361,
+    "gn:longitude":44.43057,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mawrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307533
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c71e0aab52ea4e4931ba12acbe292dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1226818793,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226818793,
+    "wof:lastmodified":1537716035,
+    "wof:name":"Mawrak",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43057,
+    17.23361,
+    44.43057,
+    17.23361
+],
+  "geometry": {"coordinates":[44.43057,17.23361],"type":"Point"}
+}

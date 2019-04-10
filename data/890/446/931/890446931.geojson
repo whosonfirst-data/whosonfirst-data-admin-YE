@@ -1,0 +1,73 @@
+{
+  "id": 890446931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69233,17.10557,44.69233,17.10557",
+    "geom:latitude":17.10557,
+    "geom:longitude":44.69233,
+    "gn:country":"YE",
+    "gn:fcode":"CMP",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0639\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Ar Rab\u2018ah"
+    ],
+    "qs:name":"Ar Rib\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687191,
+        "gp:id":1959135,
+        "qs:id":697751
+    },
+    "wof:country":"YE",
+    "wof:created":1469052572,
+    "wof:geomhash":"9d233bfa57df421810720231e10e5be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890446931,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446931,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Ar Rib\u2018ah",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69233,
+    17.10557,
+    44.69233,
+    17.10557
+],
+  "geometry": {"coordinates":[44.69233,17.10557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193037761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34054,14.95194,43.34054,14.95194",
+    "geom:latitude":14.95194,
+    "geom:longitude":43.34054,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Al Shammah al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058465,
+    "gn:latitude":14.95194,
+    "gn:longitude":43.34054,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Shammah al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0629 \u0627\u0644\u0627\u0633\u0641\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058465
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d4f7491b027df47cc60381d4d018cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1193037761,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193037761,
+    "wof:lastmodified":1537716340,
+    "wof:name":"Al Shammah al Asfal",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34054,
+    14.95194,
+    43.34054,
+    14.95194
+],
+  "geometry": {"coordinates":[43.34054,14.95194],"type":"Point"}
+}

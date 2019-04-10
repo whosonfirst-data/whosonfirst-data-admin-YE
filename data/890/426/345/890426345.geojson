@@ -1,0 +1,76 @@
+{
+  "id": 890426345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33456,16.98517,43.33456,16.98517",
+    "geom:latitude":16.98517,
+    "geom:longitude":43.33456,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":51,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Abw\u0101y"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648\u0627\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Abway"
+    ],
+    "qs:name":"Abw\u0101y",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900643,
+        "gp:id":1958992,
+        "qs:id":744413,
+        "wd:id":"Q20299884"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051628,
+    "wof:geomhash":"b4de64c7e61e86776c62e090a6009393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":890426345,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426345,
+    "wof:lastmodified":1514503122,
+    "wof:name":"Abw\u0101y",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33456,
+    16.98517,
+    43.33456,
+    16.98517
+],
+  "geometry": {"coordinates":[43.33456,16.98517],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226013577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43868,16.01179,43.43868,16.01179",
+    "geom:latitude":16.01179,
+    "geom:longitude":43.43868,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Mafjah",
+    "gn:country_code":"YE",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7682447,
+    "gn:latitude":16.01179,
+    "gn:longitude":43.43868,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mafja\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u062c\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Mafja\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682447
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dd00f6ef82a71ce4414da1490a9b83f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1226013577,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226013577,
+    "wof:lastmodified":1537715989,
+    "wof:name":"Al Mafjah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43868,
+    16.01179,
+    43.43868,
+    16.01179
+],
+  "geometry": {"coordinates":[43.43868,16.01179],"type":"Point"}
+}

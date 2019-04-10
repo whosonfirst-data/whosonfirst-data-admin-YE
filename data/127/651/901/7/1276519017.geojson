@@ -1,0 +1,71 @@
+{
+  "id": 1276519017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45769,15.61349,44.45769,15.61349",
+    "geom:latitude":15.61349,
+    "geom:longitude":44.45769,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Duraymah",
+    "gn:country_code":"YE",
+    "gn:dem":2122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362249,
+    "gn:latitude":15.61349,
+    "gn:longitude":44.45769,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e10uraymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10uraymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362249
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"46186284005856ec8230de3b4ddf0154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1276519017,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276519017,
+    "wof:lastmodified":1537715839,
+    "wof:name":"Duraymah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45769,
+    15.61349,
+    44.45769,
+    15.61349
+],
+  "geometry": {"coordinates":[44.45769,15.61349],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343429153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25,13.83333,45.25,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":45.25,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Al Mahjabah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78989,
+    "gn:latitude":13.83333,
+    "gn:longitude":45.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e29jabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29jabah",
+        "Mahjaba",
+        "Majaba",
+        "Al Ma\u1e29jabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78989
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ceec11fca4cb8ba92889f03087796971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924979,
+            "locality_id":1343429153,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343429153,
+    "wof:lastmodified":1537715281,
+    "wof:name":"Al Mahjabah",
+    "wof:parent_id":1091924979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25,
+    13.83333,
+    45.25,
+    13.83333
+],
+  "geometry": {"coordinates":[45.25,13.83333],"type":"Point"}
+}

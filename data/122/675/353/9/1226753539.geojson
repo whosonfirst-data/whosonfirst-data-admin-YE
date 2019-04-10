@@ -1,0 +1,73 @@
+{
+  "id": 1226753539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.12889,14.48333,48.12889,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":48.12889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"`Ayn Barad",
+    "gn:country_code":"YE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77574,
+    "gn:latitude":14.48333,
+    "gn:longitude":48.12889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Ayn Barad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ain Barad",
+        "\u2018Ayn Barad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77574,
+        "wk:page":"%60Ayn_Barad"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a509d1c6156c5974ade8862ed306629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923015,
+            "locality_id":1226753539,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226753539,
+    "wof:lastmodified":1537715227,
+    "wof:name":"`Ayn Barad",
+    "wof:parent_id":1091923015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.12889000000001,
+    14.48333,
+    48.12889000000001,
+    14.48333
+],
+  "geometry": {"coordinates":[48.12889000000001,14.48333],"type":"Point"}
+}

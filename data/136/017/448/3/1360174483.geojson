@@ -1,0 +1,74 @@
+{
+  "id": 1360174483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1691,14.79223,43.1691,14.79223",
+    "geom:latitude":14.79223,
+    "geom:longitude":43.1691,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Al Faz'ah",
+    "gn:country_code":"YE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058414,
+    "gn:latitude":14.79223,
+    "gn:longitude":43.1691,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Faz\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0632\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Faz\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058414
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c68735e80a7234463d661aa1702738d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1360174483,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360174483,
+    "wof:lastmodified":1537716338,
+    "wof:name":"Al Faz'ah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1691,
+    14.79223,
+    43.1691,
+    14.79223
+],
+  "geometry": {"coordinates":[43.1691,14.79223],"type":"Point"}
+}

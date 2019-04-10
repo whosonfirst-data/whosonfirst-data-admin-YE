@@ -1,0 +1,70 @@
+{
+  "id": 890425025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42814,16.00271,43.42814,16.00271",
+    "geom:latitude":16.00271,
+    "geom:longitude":43.42814,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0640\u0640\u0631"
+    ],
+    "qs:name":"As Sirr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":12,
+    "wof:belongsto":[
+        102191569,
+        85680973,
+        85632499,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682431,
+        "qs:id":697205,
+        "wk:page":"As Sirr"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051572,
+    "wof:geomhash":"059e65d6468e174d1fe66127531fb72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "neighbourhood_id":890425025,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890425025,
+    "wof:lastmodified":1527727166,
+    "wof:name":"As Sirr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42814,
+    16.00271,
+    43.42814,
+    16.00271
+],
+  "geometry": {"coordinates":[43.42814,16.00271],"type":"Point"}
+}

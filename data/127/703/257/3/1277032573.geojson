@@ -1,0 +1,71 @@
+{
+  "id": 1277032573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24008,13.84163,44.24008,13.84163",
+    "geom:latitude":13.84163,
+    "geom:longitude":44.24008,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Jurafah",
+    "gn:country_code":"YE",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356726,
+    "gn:latitude":13.84163,
+    "gn:longitude":44.24008,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"J\u016br\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u016br\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356726
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1b33a2363e4146f8c2d0daf3c78fd849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1277032573,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1277032573,
+    "wof:lastmodified":1537715683,
+    "wof:name":"Jurafah",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24008,
+    13.84163,
+    44.24008,
+    13.84163
+],
+  "geometry": {"coordinates":[44.24008,13.84163],"type":"Point"}
+}

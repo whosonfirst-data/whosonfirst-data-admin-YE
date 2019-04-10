@@ -1,0 +1,73 @@
+{
+  "id": 890423473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20944,16.85103,44.20944,16.85103",
+    "geom:latitude":16.85103,
+    "geom:longitude":44.20944,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jawar"
+    ],
+    "qs:name":"Al Jaw\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753582,
+        "gp:id":1959086,
+        "qs:id":698472,
+        "wd:id":"Q20303135"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051499,
+    "wof:geomhash":"d2c90f4c220ff4b34f0e274baf6c33cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":890423473,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890423473,
+    "wof:lastmodified":1514503161,
+    "wof:name":"Al Jaw\u0101r",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20944,
+    16.85103,
+    44.20944,
+    16.85103
+],
+  "geometry": {"coordinates":[44.20944,16.85103],"type":"Point"}
+}

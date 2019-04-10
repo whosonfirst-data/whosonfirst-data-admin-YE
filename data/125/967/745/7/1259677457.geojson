@@ -1,0 +1,71 @@
+{
+  "id": 1259677457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51018,15.54328,43.51018,15.54328",
+    "geom:latitude":15.54328,
+    "geom:longitude":43.51018,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Qasr Ghayshan",
+    "gn:country_code":"YE",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344138,
+    "gn:latitude":15.54328,
+    "gn:longitude":43.51018,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u015fr Ghaysh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Ghaysh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344138
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04364fb0dd8902dbf659bd79dce8b53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1259677457,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259677457,
+    "wof:lastmodified":1537715529,
+    "wof:name":"Qasr Ghayshan",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51018,
+    15.54328,
+    43.51018,
+    15.54328
+],
+  "geometry": {"coordinates":[43.51018,15.54328],"type":"Point"}
+}

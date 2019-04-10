@@ -1,0 +1,74 @@
+{
+  "id": 1209973715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46812,13.7252,43.46812,13.7252",
+    "geom:latitude":13.7252,
+    "geom:longitude":43.46812,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Al Maqasi`",
+    "gn:country_code":"YE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407987,
+    "gn:latitude":13.7252,
+    "gn:longitude":43.46812,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Maq\u0101\u015fi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0635\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101\u015fi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407987
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4a01fd03a2ccb47c41b2a206335379a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1209973715,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1209973715,
+    "wof:lastmodified":1537715409,
+    "wof:name":"Al Maqasi`",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46812,
+    13.7252,
+    43.46812,
+    13.7252
+],
+  "geometry": {"coordinates":[43.46812,13.7252],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276401137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8096,16.02171,43.8096,16.02171",
+    "geom:latitude":16.02171,
+    "geom:longitude":43.8096,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Mihjali",
+    "gn:country_code":"YE",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634964,
+    "gn:latitude":16.02171,
+    "gn:longitude":43.8096,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mi\u1e29j\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u1e29j\u0101l\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u062c\u0627\u0644\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634964
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23fa255eddf749b2d6cbdd3cfdf92011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1276401137,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276401137,
+    "wof:lastmodified":1537716091,
+    "wof:name":"Al Mihjali",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8096,
+    16.02171,
+    43.8096,
+    16.02171
+],
+  "geometry": {"coordinates":[43.8096,16.02171],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327014455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32536,14.15091,43.32536,14.15091",
+    "geom:latitude":14.15091,
+    "geom:longitude":43.32536,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Bayt al Futt",
+    "gn:country_code":"YE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407469,
+    "gn:latitude":14.15091,
+    "gn:longitude":43.32536,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt al Futt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407469
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55260749763c560b464a22da7946225e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919903,
+            "locality_id":1327014455,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327014455,
+    "wof:lastmodified":1536786901,
+    "wof:name":"Bayt al Futt",
+    "wof:parent_id":1091919903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32536,
+    14.15091,
+    43.32536,
+    14.15091
+],
+  "geometry": {"coordinates":[43.32536,14.15091],"type":"Point"}
+}

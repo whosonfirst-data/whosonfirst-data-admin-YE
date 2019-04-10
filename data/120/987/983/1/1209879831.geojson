@@ -1,0 +1,71 @@
+{
+  "id": 1209879831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94543,15.05177,43.94543,15.05177",
+    "geom:latitude":15.05177,
+    "geom:longitude":43.94543,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Maqtuf",
+    "gn:country_code":"YE",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360838,
+    "gn:latitude":15.05177,
+    "gn:longitude":43.94543,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maq\u0163\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maq\u0163\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360838
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"08196dcb7eeb34e8462da3ec2809e821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1209879831,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209879831,
+    "wof:lastmodified":1537715807,
+    "wof:name":"Al Maqtuf",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94543,
+    15.05177,
+    43.94543,
+    15.05177
+],
+  "geometry": {"coordinates":[43.94543,15.05177],"type":"Point"}
+}

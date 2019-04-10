@@ -1,0 +1,73 @@
+{
+  "id": 890449445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9631,13.19864,43.9631,13.19864",
+    "geom:latitude":13.19864,
+    "geom:longitude":43.9631,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u062c\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Laj'ah"
+    ],
+    "qs:name":"Al Laj\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071377,
+        "gp:id":1958962,
+        "qs:id":753774,
+        "wd:id":"Q20305848"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052691,
+    "wof:geomhash":"2fdbbde904938f439fad8a31db5afd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890449445,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449445,
+    "wof:lastmodified":1514503167,
+    "wof:name":"Al Laj\u2018ah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9631,
+    13.19864,
+    43.9631,
+    13.19864
+],
+  "geometry": {"coordinates":[43.9631,13.19864],"type":"Point"}
+}

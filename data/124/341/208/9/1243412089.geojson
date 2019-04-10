@@ -1,0 +1,75 @@
+{
+  "id": 1243412089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40478,14.12876,44.40478,14.12876",
+    "geom:latitude":14.12876,
+    "geom:longitude":44.40478,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Ghayman",
+    "gn:country_code":"YE",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359579,
+    "gn:latitude":14.12876,
+    "gn:longitude":44.40478,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Ghaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ghaym\u0101n",
+        "Gh\u012bm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359579
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4465aa3984006b31dc96137a3f5323b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1243412089,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243412089,
+    "wof:lastmodified":1537715768,
+    "wof:name":"Ghayman",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40478,
+    14.12876,
+    44.40478,
+    14.12876
+],
+  "geometry": {"coordinates":[44.40478,14.12876],"type":"Point"}
+}

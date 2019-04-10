@@ -1,0 +1,80 @@
+{
+  "id": 1209978107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.76206,12.61827,53.76206,12.61827",
+    "geom:latitude":12.61827,
+    "geom:longitude":53.76206,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Ghubbah",
+    "gn:country_code":"YE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75602,
+    "gn:latitude":12.61827,
+    "gn:longitude":53.76206,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ghubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goba",
+        "Ghubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75602
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f6ad955cfb1b7c6266c7e813c7dcdd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1209978107,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1209978107,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1209978107,
+    "wof:lastmodified":1537715180,
+    "wof:name":"Ghubbah",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.76206,
+    12.61827,
+    53.76206,
+    12.61827
+],
+  "geometry": {"coordinates":[53.76206,12.61827],"type":"Point"}
+}

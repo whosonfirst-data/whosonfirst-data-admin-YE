@@ -1,0 +1,71 @@
+{
+  "id": 1360190481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.41667,16.08333,49.41667,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":49.41667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1912.0",
+    "gn:asciiname":"Shatir",
+    "gn:country_code":"YE",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70751,
+    "gn:latitude":16.08333,
+    "gn:longitude":49.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shat\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shat\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70751
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87ba67a600558f66d7781711fc164302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922807,
+            "locality_id":1360190481,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1360190481,
+    "wof:lastmodified":1537715084,
+    "wof:name":"Shatir",
+    "wof:parent_id":1091922807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.41667,
+    16.08333,
+    49.41667,
+    16.08333
+],
+  "geometry": {"coordinates":[49.41667,16.08333],"type":"Point"}
+}

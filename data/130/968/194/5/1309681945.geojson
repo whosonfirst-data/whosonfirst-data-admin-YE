@@ -1,0 +1,75 @@
+{
+  "id": 1309681945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40465,17.4626,43.40465,17.4626",
+    "geom:latitude":17.4626,
+    "geom:longitude":43.40465,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Ghalfaqah",
+    "gn:country_code":"YE",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345459,
+    "gn:latitude":17.4626,
+    "gn:longitude":43.40465,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Ghalfaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u0641\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Sha\u2018b",
+        "Ghalfaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345459
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6476e09ad1850dc8508e30d5cdcfa8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1309681945,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309681945,
+    "wof:lastmodified":1537715560,
+    "wof:name":"Ghalfaqah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40465,
+    17.4626,
+    43.40465,
+    17.4626
+],
+  "geometry": {"coordinates":[43.40465,17.4626],"type":"Point"}
+}

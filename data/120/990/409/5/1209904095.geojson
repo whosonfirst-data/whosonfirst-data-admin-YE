@@ -1,0 +1,71 @@
+{
+  "id": 1209904095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91095,14.636,43.91095,14.636",
+    "geom:latitude":14.636,
+    "geom:longitude":43.91095,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Najd al Ghabir",
+    "gn:country_code":"YE",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360532,
+    "gn:latitude":14.636,
+    "gn:longitude":43.91095,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Najd al Gh\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najd al Gh\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360532
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"87e9220444f2fcc3e9baa143e0b00d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922337,
+            "locality_id":1209904095,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1209904095,
+    "wof:lastmodified":1537715800,
+    "wof:name":"Najd al Ghabir",
+    "wof:parent_id":1091922337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91095,
+    14.636,
+    43.91095,
+    14.636
+],
+  "geometry": {"coordinates":[43.91095,14.636],"type":"Point"}
+}

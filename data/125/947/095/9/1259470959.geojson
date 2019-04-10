@@ -1,0 +1,73 @@
+{
+  "id": 1259470959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45038,14.28081,44.45038,14.28081",
+    "geom:latitude":14.28081,
+    "geom:longitude":44.45038,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ra's an Naqil",
+    "gn:country_code":"YE",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950512,
+    "gn:latitude":14.28081,
+    "gn:longitude":44.45038,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ra\u2019s an Naq\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0646\u0642\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s an Naq\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950512
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aadc9832ff2e413f46cfb48c65cdf39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1259470959,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259470959,
+    "wof:lastmodified":1537716278,
+    "wof:name":"Ra's an Naqil",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45038,
+    14.28081,
+    44.45038,
+    14.28081
+],
+  "geometry": {"coordinates":[44.45038,14.28081],"type":"Point"}
+}

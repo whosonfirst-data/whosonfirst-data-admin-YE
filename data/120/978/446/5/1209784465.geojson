@@ -1,0 +1,74 @@
+{
+  "id": 1209784465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4459,16.24503,43.4459,16.24503",
+    "geom:latitude":16.24503,
+    "geom:longitude":43.4459,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Jabal ash Shinfi",
+    "gn:country_code":"YE",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366758,
+    "gn:latitude":16.24503,
+    "gn:longitude":43.4459,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jabal ash Shinf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0634\u0646\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jabal ash Shinf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366758
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2b72801db3014e7c1d14a84b108407a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1209784465,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209784465,
+    "wof:lastmodified":1537715962,
+    "wof:name":"Jabal ash Shinfi",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4459,
+    16.24503,
+    43.4459,
+    16.24503
+],
+  "geometry": {"coordinates":[43.4459,16.24503],"type":"Point"}
+}

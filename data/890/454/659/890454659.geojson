@@ -1,0 +1,69 @@
+{
+  "id": 890454659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5834,17.10586,43.5834,17.10586",
+    "geom:latitude":17.10586,
+    "geom:longitude":43.5834,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u062a\u0628\u064a\u0629"
+    ],
+    "qs:name":"Al Makhtab\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794800,
+        "gp:id":1959094,
+        "qs:id":700583
+    },
+    "wof:country":"YE",
+    "wof:created":1469052909,
+    "wof:geomhash":"d3894e7f6df381195bca397cbb7f98ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":890454659,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454659,
+    "wof:lastmodified":1505343658,
+    "wof:name":"Al Makhtab\u012byah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5834,
+    17.10586,
+    43.5834,
+    17.10586
+],
+  "geometry": {"coordinates":[43.5834,17.10586],"type":"Point"}
+}

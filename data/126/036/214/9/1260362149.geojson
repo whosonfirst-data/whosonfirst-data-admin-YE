@@ -1,0 +1,71 @@
+{
+  "id": 1260362149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84121,16.80487,43.84121,16.80487",
+    "geom:latitude":16.80487,
+    "geom:longitude":43.84121,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Al Hadirah",
+    "gn:country_code":"YE",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362030,
+    "gn:latitude":16.80487,
+    "gn:longitude":43.84121,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28a\u1e11\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28a\u1e11\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362030
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54bf7ae0842881422db0a4cd51074e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1260362149,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260362149,
+    "wof:lastmodified":1537715833,
+    "wof:name":"Al Hadirah",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84121,
+    16.80487,
+    43.84121,
+    16.80487
+],
+  "geometry": {"coordinates":[43.84121,16.80487],"type":"Point"}
+}

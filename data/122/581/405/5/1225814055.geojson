@@ -1,0 +1,71 @@
+{
+  "id": 1225814055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28207,15.87339,43.28207,15.87339",
+    "geom:latitude":15.87339,
+    "geom:longitude":43.28207,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Al Wasit",
+    "gn:country_code":"YE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365672,
+    "gn:latitude":15.87339,
+    "gn:longitude":43.28207,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al W\u0101si\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al W\u0101si\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365672
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"923c0a64d9f7197596290355e09276c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1225814055,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225814055,
+    "wof:lastmodified":1537715936,
+    "wof:name":"Al Wasit",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28207,
+    15.87339,
+    43.28207,
+    15.87339
+],
+  "geometry": {"coordinates":[43.28207,15.87339],"type":"Point"}
+}

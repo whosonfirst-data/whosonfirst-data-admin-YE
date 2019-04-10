@@ -1,0 +1,78 @@
+{
+  "id": 1259741571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32906,16.51017,43.32906,16.51017",
+    "geom:latitude":16.51017,
+    "geom:longitude":43.32906,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Al Badh",
+    "gn:country_code":"YE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854849,
+    "gn:latitude":16.51017,
+    "gn:longitude":43.32906,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bad\u1e29",
+    "gn:population":2,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Bad\u1e29",
+        "Al Badi\u1e29"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854849
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"336d3d956a6b07290803b6b1f3d2790e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":1259741571,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259741571,
+    "wof:lastmodified":1537715998,
+    "wof:name":"Al Badh",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32906,
+    16.51017,
+    43.32906,
+    16.51017
+],
+  "geometry": {"coordinates":[43.32906,16.51017],"type":"Point"}
+}

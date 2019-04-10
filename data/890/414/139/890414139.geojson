@@ -1,0 +1,73 @@
+{
+  "id": 890414139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32686,15.44641,45.32686,15.44641",
+    "geom:latitude":15.44641,
+    "geom:longitude":45.32686,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062c\u0639\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ju'ayr"
+    ],
+    "qs:name":"Al Ju\u2018ayr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861476,
+        "gp:id":1957048,
+        "qs:id":742809,
+        "wd:id":"Q20303614"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051034,
+    "wof:geomhash":"f33dcf25fc4a244fe0e240c9c0c09ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925221,
+            "locality_id":890414139,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890414139,
+    "wof:lastmodified":1514503162,
+    "wof:name":"Al Ju\u2018ayr",
+    "wof:parent_id":1091925221,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32686,
+    15.44641,
+    45.32686,
+    15.44641
+],
+  "geometry": {"coordinates":[45.32686,15.44641],"type":"Point"}
+}

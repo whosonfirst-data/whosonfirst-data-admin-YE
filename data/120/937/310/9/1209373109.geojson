@@ -1,0 +1,68 @@
+{
+  "id": 1209373109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51533,15.59526,43.51533,15.59526",
+    "geom:latitude":15.59526,
+    "geom:longitude":43.51533,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Bayt al Wadi",
+    "gn:country_code":"YE",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980525,
+    "gn:latitude":15.59526,
+    "gn:longitude":43.51533,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al W\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al W\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980525
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8fea62b5fcca9713bab6b94578e1272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209373109
+        }
+    ],
+    "wof:id":1209373109,
+    "wof:lastmodified":1537716172,
+    "wof:name":"Bayt al Wadi",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51533,
+    15.59526,
+    43.51533,
+    15.59526
+],
+  "geometry": {"coordinates":[43.51533,15.59526],"type":"Point"}
+}

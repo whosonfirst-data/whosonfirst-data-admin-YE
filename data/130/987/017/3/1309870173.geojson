@@ -1,0 +1,77 @@
+{
+  "id": 1309870173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18981,14.43101,45.18981,14.43101",
+    "geom:latitude":14.43101,
+    "geom:longitude":45.18981,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Al Qaz'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052044,
+    "gn:latitude":14.43101,
+    "gn:longitude":45.18981,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qaz\u2018ah",
+    "gn:population":2,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0632\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qaz\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052044
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b1703455b3c6c85e1ee61e68b4920bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1309870173,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1309870173,
+    "wof:lastmodified":1537716010,
+    "wof:name":"Al Qaz'ah",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18981,
+    14.43101,
+    45.18981,
+    14.43101
+],
+  "geometry": {"coordinates":[45.18981,14.43101],"type":"Point"}
+}

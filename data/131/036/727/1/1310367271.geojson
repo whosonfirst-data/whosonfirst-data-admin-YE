@@ -1,0 +1,71 @@
+{
+  "id": 1310367271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88866,16.05233,43.88866,16.05233",
+    "geom:latitude":16.05233,
+    "geom:longitude":43.88866,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Ghurr",
+    "gn:country_code":"YE",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634881,
+    "gn:latitude":16.05233,
+    "gn:longitude":43.88866,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ghurr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634881
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ba4b1edc6776c334532c6fa7ee63765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1310367271,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310367271,
+    "wof:lastmodified":1537716088,
+    "wof:name":"Al Ghurr",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88866,
+    16.05233,
+    43.88866,
+    16.05233
+],
+  "geometry": {"coordinates":[43.88866,16.05233],"type":"Point"}
+}

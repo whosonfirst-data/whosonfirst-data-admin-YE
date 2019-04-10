@@ -1,0 +1,74 @@
+{
+  "id": 1260145199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77542,16.32533,43.77542,16.32533",
+    "geom:latitude":16.32533,
+    "geom:longitude":43.77542,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Majrad Abu Kahla",
+    "gn:country_code":"YE",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9632974,
+    "gn:latitude":16.32533,
+    "gn:longitude":43.77542,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Majrad Ab\u016b Ka\u1e29l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0631\u062f \u0623\u0628\u0648 \u0643\u062d\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Majrad Ab\u016b Ka\u1e29l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9632974
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"08f1e05b37a1399a305c5806c1ff66c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1260145199,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1260145199,
+    "wof:lastmodified":1537716068,
+    "wof:name":"Majrad Abu Kahla",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77542,
+    16.32532999999999,
+    43.77542,
+    16.32532999999999
+],
+  "geometry": {"coordinates":[43.77542,16.32532999999999],"type":"Point"}
+}

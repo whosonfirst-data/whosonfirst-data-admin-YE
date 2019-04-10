@@ -1,0 +1,79 @@
+{
+  "id": 1276510697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74156,15.07422,43.74156,15.07422",
+    "geom:latitude":15.07422,
+    "geom:longitude":43.74156,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"Manakhah",
+    "gn:country_code":"YE",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":73091,
+    "gn:latitude":15.07422,
+    "gn:longitude":43.74156,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u0101khah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0627\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Manaha",
+        "Menakha",
+        "Man\u0101kah",
+        "Men\u00e2cha",
+        "Man\u0101khah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73091,
+        "wk:page":"Manakhah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f40b02408ff7c22348341157028bf7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1276510697,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276510697,
+    "wof:lastmodified":1537715127,
+    "wof:name":"Manakhah",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74156,
+    15.07422,
+    43.74156,
+    15.07422
+],
+  "geometry": {"coordinates":[43.74156,15.07422],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310467501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70232,13.67517,44.70232,13.67517",
+    "geom:latitude":13.67517,
+    "geom:longitude":44.70232,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Atama",
+    "gn:country_code":"YE",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77727,
+    "gn:latitude":13.67517,
+    "gn:longitude":44.70232,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Atama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ata\u2019ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77727
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe8a61df9a82dd630a1ce55c64e82e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1310467501,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1310467501,
+    "wof:lastmodified":1537715232,
+    "wof:name":"Atama",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70232,
+    13.67517,
+    44.70232,
+    13.67517
+],
+  "geometry": {"coordinates":[44.70232,13.67517],"type":"Point"}
+}

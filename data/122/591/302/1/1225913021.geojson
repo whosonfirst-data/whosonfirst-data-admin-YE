@@ -1,0 +1,71 @@
+{
+  "id": 1225913021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5627,15.57181,43.5627,15.57181",
+    "geom:latitude":15.57181,
+    "geom:longitude":43.5627,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt as Sahl",
+    "gn:country_code":"YE",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980617,
+    "gn:latitude":15.57181,
+    "gn:longitude":43.5627,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt as Sahl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0633\u0647\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980617
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e7a685ed4126f7cedfd9301f12007888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1225913021,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225913021,
+    "wof:lastmodified":1537716177,
+    "wof:name":"Bayt as Sahl",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5627,
+    15.57181,
+    43.5627,
+    15.57181
+],
+  "geometry": {"coordinates":[43.5627,15.57181],"type":"Point"}
+}

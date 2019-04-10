@@ -1,0 +1,71 @@
+{
+  "id": 1277134213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40042,13.25427,44.40042,13.25427",
+    "geom:latitude":13.25427,
+    "geom:longitude":44.40042,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Sharar",
+    "gn:country_code":"YE",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534071,
+    "gn:latitude":13.25427,
+    "gn:longitude":44.40042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shar\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shar\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534071
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff8686bfff0e437be44845cc64fa6064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1277134213,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1277134213,
+    "wof:lastmodified":1537716049,
+    "wof:name":"Sharar",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40042,
+    13.25427,
+    44.40042,
+    13.25427
+],
+  "geometry": {"coordinates":[44.40042,13.25427],"type":"Point"}
+}

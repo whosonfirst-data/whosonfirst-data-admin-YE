@@ -1,0 +1,73 @@
+{
+  "id": 890446767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77116,16.93258,43.77116,16.93258",
+    "geom:latitude":16.93258,
+    "geom:longitude":43.77116,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0637\u0628\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Tabat"
+    ],
+    "qs:name":"Bi\u2019r \u0162ab\u0101t",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685423,
+        "gp:id":1958152,
+        "qs:id":697619,
+        "wd:id":"Q20301303"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052565,
+    "wof:geomhash":"71775b2b44fa3b686877f790c84d7707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":890446767,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446767,
+    "wof:lastmodified":1514503253,
+    "wof:name":"Bi\u2019r \u0162ab\u0101t",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77116,
+    16.93258,
+    43.77116,
+    16.93258
+],
+  "geometry": {"coordinates":[43.77116,16.93258],"type":"Point"}
+}

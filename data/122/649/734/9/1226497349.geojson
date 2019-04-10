@@ -1,0 +1,74 @@
+{
+  "id": 1226497349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84626,13.49093,43.84626,13.49093",
+    "geom:latitude":13.49093,
+    "geom:longitude":43.84626,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"'Adinah",
+    "gn:country_code":"YE",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8538412,
+    "gn:latitude":13.49093,
+    "gn:longitude":43.84626,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ad\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062f\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ad\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538412
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1ee9c52db55f37690c00c9d98dc6c9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1226497349,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226497349,
+    "wof:lastmodified":1537716056,
+    "wof:name":"'Adinah",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84626,
+    13.49093,
+    43.84626,
+    13.49093
+],
+  "geometry": {"coordinates":[43.84626,13.49093],"type":"Point"}
+}

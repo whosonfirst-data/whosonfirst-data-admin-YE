@@ -1,0 +1,68 @@
+{
+  "id": 1293852691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05,16.43333,43.05,16.43333",
+    "geom:latitude":16.43333,
+    "geom:longitude":43.05,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Hard al Madinah",
+    "gn:country_code":"YE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34925,
+    "gn:latitude":16.43333,
+    "gn:longitude":43.05,
+    "gn:modification_date":"1997-12-10",
+    "gn:name":"\u1e28ar\u1e11 al Mad\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34925
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a612a13468ca3e3306232ca40cfca80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1293852691,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293852691,
+    "wof:lastmodified":1536757951,
+    "wof:name":"Hard al Madinah",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05,
+    16.43333,
+    43.05,
+    16.43333
+],
+  "geometry": {"coordinates":[43.05,16.43333],"type":"Point"}
+}

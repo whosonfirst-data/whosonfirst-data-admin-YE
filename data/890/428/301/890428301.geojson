@@ -1,0 +1,76 @@
+{
+  "id": 890428301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25067,14.39512,45.25067,14.39512",
+    "geom:latitude":14.39512,
+    "geom:longitude":45.25067,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ji\u1e29\u0101f"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062d\u0627\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Jihaf"
+    ],
+    "qs:name":"Ji\u1e29\u0101f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051760,
+        "gp:id":1958975,
+        "qs:id":751146,
+        "wd:id":"Q20306383"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051747,
+    "wof:geomhash":"0a6c3889dc768d302055b7f18c1ba9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919509,
+            "locality_id":890428301,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890428301,
+    "wof:lastmodified":1514503298,
+    "wof:name":"Ji\u1e29\u0101f",
+    "wof:parent_id":1091919509,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25067,
+    14.39512,
+    45.25067,
+    14.39512
+],
+  "geometry": {"coordinates":[45.25067,14.39512],"type":"Point"}
+}

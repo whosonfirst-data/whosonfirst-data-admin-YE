@@ -1,0 +1,71 @@
+{
+  "id": 1343854891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20205,15.35585,43.20205,15.35585",
+    "geom:latitude":15.35585,
+    "geom:longitude":43.20205,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Ash Shiqabah",
+    "gn:country_code":"YE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34892,
+    "gn:latitude":15.35585,
+    "gn:longitude":43.20205,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Ash Shiqabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr Shiqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34892
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff2229321c28efb319714ef5f9ae9f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1343854891,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343854891,
+    "wof:lastmodified":1537715058,
+    "wof:name":"Ash Shiqabah",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20205,
+    15.35585,
+    43.20205,
+    15.35585
+],
+  "geometry": {"coordinates":[43.20205,15.35585],"type":"Point"}
+}

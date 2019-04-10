@@ -1,0 +1,74 @@
+{
+  "id": 1326522831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.34204,14.369,47.34204,14.369",
+    "geom:latitude":14.369,
+    "geom:longitude":47.34204,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Al Mu`ayzibah",
+    "gn:country_code":"YE",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78772,
+    "gn:latitude":14.369,
+    "gn:longitude":47.34204,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al Mu\u2018ayzibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mi\u2018ayzibah",
+        "Al-Mi\u2018aizibah",
+        "Al-Mi\u2019aizbah",
+        "Al Mu\u2018ayzibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78772
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2cce2befaac3439675048b7468fce8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1326522831,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1326522831,
+    "wof:lastmodified":1537715272,
+    "wof:name":"Al Mu`ayzibah",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.34204,
+    14.369,
+    47.34204,
+    14.369
+],
+  "geometry": {"coordinates":[47.34204,14.369],"type":"Point"}
+}

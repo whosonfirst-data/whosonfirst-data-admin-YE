@@ -1,0 +1,68 @@
+{
+  "id": 1259541445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15055,14.30038,44.15055,14.30038",
+    "geom:latitude":14.30038,
+    "geom:longitude":44.15055,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Ad Dukhaylah",
+    "gn:country_code":"YE",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300334,
+    "gn:latitude":14.30038,
+    "gn:longitude":44.15055,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dukhaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300334
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ddc01f4cc49c5d42a71567eb748e4eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1259541445,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259541445,
+    "wof:lastmodified":1536776159,
+    "wof:name":"Ad Dukhaylah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15055,
+    14.30038,
+    44.15055,
+    14.30038
+],
+  "geometry": {"coordinates":[44.15055,14.30038],"type":"Point"}
+}

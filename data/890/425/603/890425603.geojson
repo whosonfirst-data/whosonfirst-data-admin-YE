@@ -1,0 +1,73 @@
+{
+  "id": 890425603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31256,16.74071,44.31256,16.74071",
+    "geom:latitude":16.74071,
+    "geom:longitude":44.31256,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0645 \u0623\u0628\u0648 \u0631\u0623\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Maqam AbU Ras"
+    ],
+    "qs:name":"Maq\u0101m Ab\u016b Ra\u2019s",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795089,
+        "gp:id":1959135,
+        "qs:id":700856,
+        "wd:id":"Q20300900"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051596,
+    "wof:geomhash":"b79575ab1b6989f9b62fe462ad0ae908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425603,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425603,
+    "wof:lastmodified":1514503320,
+    "wof:name":"Maq\u0101m Ab\u016b Ra\u2019s",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31256,
+    16.74071,
+    44.31256,
+    16.74071
+],
+  "geometry": {"coordinates":[44.31256,16.74071],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890449655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75605,13.27496,43.75605,13.27496",
+    "geom:latitude":13.27496,
+    "geom:longitude":43.75605,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":46,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u062c\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Dajinah"
+    ],
+    "qs:name":"D\u0101jinah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069149,
+        "gp:id":1953407,
+        "qs:id":753328,
+        "wd:id":"Q20301656"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052702,
+    "wof:geomhash":"5a013203b821cf8a81e9de8056f0713c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890449655,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449655,
+    "wof:lastmodified":1514503265,
+    "wof:name":"D\u0101jinah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75605,
+    13.27496,
+    43.75605,
+    13.27496
+],
+  "geometry": {"coordinates":[43.75605,13.27496],"type":"Point"}
+}

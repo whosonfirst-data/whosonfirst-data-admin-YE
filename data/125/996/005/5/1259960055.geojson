@@ -1,0 +1,74 @@
+{
+  "id": 1259960055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71825,14.34686,43.71825,14.34686",
+    "geom:latitude":14.34686,
+    "geom:longitude":43.71825,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Al Waqi`",
+    "gn:country_code":"YE",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357848,
+    "gn:latitude":14.34686,
+    "gn:longitude":43.71825,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Waq\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0642\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Waq\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357848
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"81451cd2c421ccddcaa7262b36c781f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1259960055,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259960055,
+    "wof:lastmodified":1537715708,
+    "wof:name":"Al Waqi`",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71825,
+    14.34686,
+    43.71825,
+    14.34686
+],
+  "geometry": {"coordinates":[43.71825,14.34686],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276501895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41389,13.20222,44.41389,13.20222",
+    "geom:latitude":13.20222,
+    "geom:longitude":44.41389,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Marhumah",
+    "gn:country_code":"YE",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409089,
+    "gn:latitude":13.20222,
+    "gn:longitude":44.41389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mar\u1e29\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u1e29\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409089
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8131a83ea96e42c7400576cbcf264fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1276501895,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1276501895,
+    "wof:lastmodified":1537715425,
+    "wof:name":"Marhumah",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41389,
+    13.20222,
+    44.41389,
+    13.20222
+],
+  "geometry": {"coordinates":[44.41389,13.20222],"type":"Point"}
+}

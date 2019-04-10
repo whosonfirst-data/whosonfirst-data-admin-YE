@@ -1,0 +1,74 @@
+{
+  "id": 1242945613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38613,16.76551,43.38613,16.76551",
+    "geom:latitude":16.76551,
+    "geom:longitude":43.38613,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Alt Fari`",
+    "gn:country_code":"YE",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346555,
+    "gn:latitude":16.76551,
+    "gn:longitude":43.38613,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Alt F\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Alt F\u0101ri\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a \u0641\u0627\u0631\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346555
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e811ab084f107034c9160077372f04ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1242945613,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242945613,
+    "wof:lastmodified":1537715598,
+    "wof:name":"Alt Fari`",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38613,
+    16.76551,
+    43.38613,
+    16.76551
+],
+  "geometry": {"coordinates":[43.38613,16.76551],"type":"Point"}
+}

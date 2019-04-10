@@ -1,0 +1,68 @@
+{
+  "id": 1243222039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36288,15.9663,43.36288,15.9663",
+    "geom:latitude":15.9663,
+    "geom:longitude":43.36288,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Lajj al Mazaf",
+    "gn:country_code":"YE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365748,
+    "gn:latitude":15.9663,
+    "gn:longitude":43.36288,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lajj al Mazaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365748
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1c0c898063bad074546b3919bedcede5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1243222039,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243222039,
+    "wof:lastmodified":1536630581,
+    "wof:name":"Lajj al Mazaf",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36288,
+    15.9663,
+    43.36288,
+    15.9663
+],
+  "geometry": {"coordinates":[43.36288,15.9663],"type":"Point"}
+}

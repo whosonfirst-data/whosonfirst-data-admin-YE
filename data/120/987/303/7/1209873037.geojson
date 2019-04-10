@@ -1,0 +1,72 @@
+{
+  "id": 1209873037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28152,13.35723,44.28152,13.35723",
+    "geom:latitude":13.35723,
+    "geom:longitude":44.28152,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1513.0",
+    "gn:asciiname":"Hirwah",
+    "gn:country_code":"YE",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75080,
+    "gn:latitude":13.35723,
+    "gn:longitude":44.28152,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28irwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28irwah",
+        "\u1e28arwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7cbef21c14d0441007a582311d9c6d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":1209873037,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1209873037,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Hirwah",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28152,
+    13.35723,
+    44.28152,
+    13.35723
+],
+  "geometry": {"coordinates":[44.28152,13.35723],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890448061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33583,16.3384,43.33583,16.3384",
+    "geom:latitude":16.3384,
+    "geom:longitude":43.33583,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0645 \u062c\u0645\u0639\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Qawm Jam'an"
+    ],
+    "qs:name":"Qawm Jam\u2018\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783415,
+        "gp:id":1958967,
+        "qs:id":700067,
+        "wd:id":"Q20305877"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052618,
+    "wof:geomhash":"a056334c06f38d087f47351f56934b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890448061,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890448061,
+    "wof:lastmodified":1514503335,
+    "wof:name":"Qawm Jam\u2018\u0101n",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33583,
+    16.3384,
+    43.33583,
+    16.3384
+],
+  "geometry": {"coordinates":[43.33583,16.3384],"type":"Point"}
+}

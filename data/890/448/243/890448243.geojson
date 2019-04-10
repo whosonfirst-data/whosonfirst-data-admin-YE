@@ -1,0 +1,73 @@
+{
+  "id": 890448243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25282,16.58308,44.25282,16.58308",
+    "geom:latitude":16.58308,
+    "geom:longitude":44.25282,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":41,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u062f \u062e\u064a\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Yad Khayran"
+    ],
+    "qs:name":"Yad Khayr\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794867,
+        "gp:id":1958965,
+        "qs:id":700650,
+        "wd:id":"Q20309537"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052624,
+    "wof:geomhash":"31099cf398a054307391ba917a5c2b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890448243,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890448243,
+    "wof:lastmodified":1514503382,
+    "wof:name":"Yad Khayr\u0101n",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25282,
+    16.58308,
+    44.25282,
+    16.58308
+],
+  "geometry": {"coordinates":[44.25282,16.58308],"type":"Point"}
+}

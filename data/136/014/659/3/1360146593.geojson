@@ -1,0 +1,68 @@
+{
+  "id": 1360146593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.611,16.3176,43.611,16.3176",
+    "geom:latitude":16.3176,
+    "geom:longitude":43.611,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"As Surbah",
+    "gn:country_code":"YE",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363366,
+    "gn:latitude":16.3176,
+    "gn:longitude":43.611,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Surbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363366
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8e1ef179a2525fab1e9d94ba4d18c4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1360146593,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360146593,
+    "wof:lastmodified":1536855858,
+    "wof:name":"As Surbah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.611,
+    16.3176,
+    43.611,
+    16.3176
+],
+  "geometry": {"coordinates":[43.611,16.3176],"type":"Point"}
+}

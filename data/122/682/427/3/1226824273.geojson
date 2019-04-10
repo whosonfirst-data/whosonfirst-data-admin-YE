@@ -1,0 +1,75 @@
+{
+  "id": 1226824273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92788,16.12978,43.92788,16.12978",
+    "geom:latitude":16.12978,
+    "geom:longitude":43.92788,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt al Jahshari",
+    "gn:country_code":"YE",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361867,
+    "gn:latitude":16.12978,
+    "gn:longitude":43.92788,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Bayt al Ja\u1e29shar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062c\u062d\u0634\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Mas\u0101jid",
+        "Bayt al Ja\u1e29shar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361867
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9e1c44d2119c0d9c7fd394ed1a5b48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1226824273,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226824273,
+    "wof:lastmodified":1537715828,
+    "wof:name":"Bayt al Jahshari",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92788,
+    16.12978,
+    43.92788,
+    16.12978
+],
+  "geometry": {"coordinates":[43.92788,16.12978],"type":"Point"}
+}

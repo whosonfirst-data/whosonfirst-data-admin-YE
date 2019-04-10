@@ -1,0 +1,68 @@
+{
+  "id": 1343629069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21429,13.3225,44.21429,13.3225",
+    "geom:latitude":13.3225,
+    "geom:longitude":44.21429,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1514.0",
+    "gn:asciiname":"Akamat al Kalbayn",
+    "gn:country_code":"YE",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354686,
+    "gn:latitude":13.3225,
+    "gn:longitude":44.21429,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Akamat al Kalbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354686
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"905c6d81aa04effa7eb4a7c13ea51f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":1343629069,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343629069,
+    "wof:lastmodified":1536999678,
+    "wof:name":"Akamat al Kalbayn",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21429000000001,
+    13.3225,
+    44.21429000000001,
+    13.3225
+],
+  "geometry": {"coordinates":[44.21429000000001,13.3225],"type":"Point"}
+}

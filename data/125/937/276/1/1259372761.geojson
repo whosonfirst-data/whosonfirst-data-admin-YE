@@ -1,0 +1,74 @@
+{
+  "id": 1259372761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46419,14.877,43.46419,14.877",
+    "geom:latitude":14.877,
+    "geom:longitude":43.46419,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Bayt an Najjar",
+    "gn:country_code":"YE",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058646,
+    "gn:latitude":14.877,
+    "gn:longitude":43.46419,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt an Najj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0646\u062c\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt an Najj\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058646
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f9a4ab9c70ec8142dd4f20d4eb84f5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1259372761,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259372761,
+    "wof:lastmodified":1537716347,
+    "wof:name":"Bayt an Najjar",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46419,
+    14.877,
+    43.46419,
+    14.877
+],
+  "geometry": {"coordinates":[43.46419,14.877],"type":"Point"}
+}

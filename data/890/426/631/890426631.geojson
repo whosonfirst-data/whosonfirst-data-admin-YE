@@ -1,0 +1,73 @@
+{
+  "id": 890426631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70957,16.10155,43.70957,16.10155",
+    "geom:latitude":16.10155,
+    "geom:longitude":43.70957,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0630\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al MaghdhUr"
+    ],
+    "qs:name":"Al Maghdh\u016br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020622,
+        "gp:id":1959046,
+        "qs:id":749966,
+        "wd:id":"Q20306666"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051639,
+    "wof:geomhash":"10e98d0c2fd9a86bc83106c5793e106d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890426631,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890426631,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Maghdh\u016br",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70957,
+    16.10155,
+    43.70957,
+    16.10155
+],
+  "geometry": {"coordinates":[43.70957,16.10155],"type":"Point"}
+}

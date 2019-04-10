@@ -1,0 +1,68 @@
+{
+  "id": 1344135085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72869,15.49456,43.72869,15.49456",
+    "geom:latitude":15.49456,
+    "geom:longitude":43.72869,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Maqbal",
+    "gn:country_code":"YE",
+    "gn:dem":2583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367021,
+    "gn:latitude":15.49456,
+    "gn:longitude":43.72869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maqbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367021
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d14121dbca284110853203623f4761d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1344135085,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1344135085,
+    "wof:lastmodified":1536768412,
+    "wof:name":"Maqbal",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72869,
+    15.49456,
+    43.72869,
+    15.49456
+],
+  "geometry": {"coordinates":[43.72869,15.49456],"type":"Point"}
+}

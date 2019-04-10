@@ -1,0 +1,77 @@
+{
+  "id": 1259847167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63914,13.20762,43.63914,13.20762",
+    "geom:latitude":13.20762,
+    "geom:longitude":43.63914,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1508.0",
+    "gn:asciiname":"Al Jahili",
+    "gn:country_code":"YE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069275,
+    "gn:latitude":13.20762,
+    "gn:longitude":43.63914,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al J\u0101hil\u012b",
+    "gn:population":212,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al J\u0101hil\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0627\u0647\u0644\u064a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069275
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1acbc9ac527786bdefcf34f7ccd6be99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":1259847167,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259847167,
+    "wof:lastmodified":1537716015,
+    "wof:name":"Al Jahili",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63914000000001,
+    13.20762,
+    43.63914000000001,
+    13.20762
+],
+  "geometry": {"coordinates":[43.63914000000001,13.20762],"type":"Point"}
+}

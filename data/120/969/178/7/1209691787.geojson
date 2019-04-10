@@ -1,0 +1,69 @@
+{
+  "id": 1209691787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8184,13.85668,44.8184,13.85668",
+    "geom:latitude":13.85668,
+    "geom:longitude":44.8184,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Al Madu",
+    "gn:country_code":"YE",
+    "gn:dem":1999,
+    "gn:elevation":"2050.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79015,
+    "gn:latitude":13.85668,
+    "gn:longitude":44.8184,
+    "gn:modification_date":"2017-11-18",
+    "gn:name":"Al Madu",
+    "gn:population":1986,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0648"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79015
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84e6bc7c742eb39cb82a29a7da2b57aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209691787
+        }
+    ],
+    "wof:id":1209691787,
+    "wof:lastmodified":1537715283,
+    "wof:name":"Al Madu",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:population":1986,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8184,
+    13.85668,
+    44.8184,
+    13.85668
+],
+  "geometry": {"coordinates":[44.8184,13.85668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226330281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19576,14.55804,44.19576,14.55804",
+    "geom:latitude":14.55804,
+    "geom:longitude":44.19576,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Ya`ar",
+    "gn:country_code":"YE",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402972,
+    "gn:latitude":14.55804,
+    "gn:longitude":44.19576,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ya\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402972
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"80e06c4aef21a75f4f34020ddb143a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1226330281,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226330281,
+    "wof:lastmodified":1537715367,
+    "wof:name":"Ya`ar",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19576,
+    14.55804,
+    44.19576,
+    14.55804
+],
+  "geometry": {"coordinates":[44.19576,14.55804],"type":"Point"}
+}

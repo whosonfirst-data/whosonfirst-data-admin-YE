@@ -1,0 +1,71 @@
+{
+  "id": 1210030095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11793,13.93544,46.11793,13.93544",
+    "geom:latitude":13.93544,
+    "geom:longitude":46.11793,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Mansab",
+    "gn:country_code":"YE",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73052,
+    "gn:latitude":13.93544,
+    "gn:longitude":46.11793,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u015fab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u015fab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73052
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f8cb9622e34c0c1c5cef8b1d7bf165d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918593,
+            "locality_id":1210030095,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1210030095,
+    "wof:lastmodified":1537715126,
+    "wof:name":"Mansab",
+    "wof:parent_id":1091918593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11793,
+    13.93544,
+    46.11793,
+    13.93544
+],
+  "geometry": {"coordinates":[46.11793,13.93544],"type":"Point"}
+}

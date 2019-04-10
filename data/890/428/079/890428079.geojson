@@ -1,0 +1,76 @@
+{
+  "id": 890428079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28922,16.9038,43.28922,16.9038",
+    "geom:latitude":16.9038,
+    "geom:longitude":43.28922,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Th\u016b Muw\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062b\u0648 \u0645\u0648\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "ThU Muwan"
+    ],
+    "qs:name":"Th\u016b Muw\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926919,
+        "gp:id":1958992,
+        "qs:id":745257,
+        "wd:id":"Q20309148"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051734,
+    "wof:geomhash":"5bb023835b8912dae71771797a5ee904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890428079,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428079,
+    "wof:lastmodified":1514503378,
+    "wof:name":"Th\u016b Muw\u0101n",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28922,
+    16.9038,
+    43.28922,
+    16.9038
+],
+  "geometry": {"coordinates":[43.28922,16.9038],"type":"Point"}
+}

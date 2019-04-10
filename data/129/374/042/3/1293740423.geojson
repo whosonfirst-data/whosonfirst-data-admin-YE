@@ -1,0 +1,68 @@
+{
+  "id": 1293740423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9024,16.70614,44.9024,16.70614",
+    "geom:latitude":16.70614,
+    "geom:longitude":44.9024,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Al Burayd",
+    "gn:country_code":"YE",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344912,
+    "gn:latitude":16.70614,
+    "gn:longitude":44.9024,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Burayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344912
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"50b4822d5397a2a1154d5d168935162d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1293740423,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293740423,
+    "wof:lastmodified":1536920334,
+    "wof:name":"Al Burayd",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9024,
+    16.70614,
+    44.9024,
+    16.70614
+],
+  "geometry": {"coordinates":[44.9024,16.70614],"type":"Point"}
+}

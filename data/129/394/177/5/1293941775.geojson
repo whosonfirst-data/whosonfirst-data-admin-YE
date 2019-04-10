@@ -1,0 +1,71 @@
+{
+  "id": 1293941775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57668,15.74328,43.57668,15.74328",
+    "geom:latitude":15.74328,
+    "geom:longitude":43.57668,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1720.0",
+    "gn:asciiname":"Bayt Mihyi",
+    "gn:country_code":"YE",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344549,
+    "gn:latitude":15.74328,
+    "gn:longitude":43.57668,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Mi\u1e29y\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Mi\u1e29y\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344549
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c51122886b2d039fa8637379b0c2ba66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":1293941775,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293941775,
+    "wof:lastmodified":1537715543,
+    "wof:name":"Bayt Mihyi",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57668,
+    15.74328,
+    43.57668,
+    15.74328
+],
+  "geometry": {"coordinates":[43.57668,15.74328],"type":"Point"}
+}

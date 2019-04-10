@@ -1,0 +1,69 @@
+{
+  "id": 1343744207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,15.15,44.38333,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Jiharine",
+    "gn:country_code":"YE",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74166,
+    "gn:latitude":15.15,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jiharine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74166,
+        "wk:page":"Jiharine"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eeadc1a0685a89c7a77c1a02d9c56fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1343744207,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343744207,
+    "wof:lastmodified":1537576096,
+    "wof:name":"Jiharine",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    15.15,
+    44.38333,
+    15.15
+],
+  "geometry": {"coordinates":[44.38333,15.15],"type":"Point"}
+}

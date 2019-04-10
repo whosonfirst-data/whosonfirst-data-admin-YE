@@ -1,0 +1,76 @@
+{
+  "id": 890414735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8155,13.46997,43.8155,13.46997",
+    "geom:latitude":13.46997,
+    "geom:longitude":43.8155,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al K\u0101mm"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kamm"
+    ],
+    "qs:name":"Al K\u0101mm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075806,
+        "gp:id":1959049,
+        "qs:id":754389,
+        "wd:id":"Q20304225"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051060,
+    "wof:geomhash":"7d839925ec1c3fddfcce3d25ae4a29fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890414735,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414735,
+    "wof:lastmodified":1514503167,
+    "wof:name":"Al K\u0101mm",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8155,
+    13.46997,
+    43.8155,
+    13.46997
+],
+  "geometry": {"coordinates":[43.8155,13.46997],"type":"Point"}
+}

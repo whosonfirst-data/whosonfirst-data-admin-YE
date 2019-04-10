@@ -1,0 +1,73 @@
+{
+  "id": 890417791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28696,17.03573,44.28696,17.03573",
+    "geom:latitude":17.03573,
+    "geom:longitude":44.28696,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u062f\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sadrah"
+    ],
+    "qs:name":"Sadrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785345,
+        "gp:id":1959086,
+        "qs:id":700261,
+        "wd:id":"Q20306855"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051220,
+    "wof:geomhash":"5161c1f264db1d773fa59ab6f76f970b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890417791,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890417791,
+    "wof:lastmodified":1514503349,
+    "wof:name":"Sadrah",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28696,
+    17.03573,
+    44.28696,
+    17.03573
+],
+  "geometry": {"coordinates":[44.28696,17.03573],"type":"Point"}
+}

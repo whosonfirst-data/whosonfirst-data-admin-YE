@@ -1,0 +1,74 @@
+{
+  "id": 1260252913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20147,14.66267,45.20147,14.66267",
+    "geom:latitude":14.66267,
+    "geom:longitude":45.20147,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Aba al Jashish",
+    "gn:country_code":"YE",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364506,
+    "gn:latitude":14.66267,
+    "gn:longitude":45.20147,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ab\u0101 al Jash\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0627 \u0627\u0644\u062c\u0634\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Ab\u0101 al Jash\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364506
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c29842f0d5e1c1d9a4af8c618995861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1260252913,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260252913,
+    "wof:lastmodified":1537715900,
+    "wof:name":"Aba al Jashish",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20147,
+    14.66267,
+    45.20147,
+    14.66267
+],
+  "geometry": {"coordinates":[45.20147,14.66267],"type":"Point"}
+}

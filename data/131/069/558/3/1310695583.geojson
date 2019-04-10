@@ -1,0 +1,71 @@
+{
+  "id": 1310695583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8679,15.46799,43.8679,15.46799",
+    "geom:latitude":15.46799,
+    "geom:longitude":43.8679,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Hajar al Qasr",
+    "gn:country_code":"YE",
+    "gn:dem":2364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366990,
+    "gn:latitude":15.46799,
+    "gn:longitude":43.8679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ajar al Qasr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar al Qasr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366990
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc59b25f43d59dbd4831d93eb1cdcbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1310695583,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310695583,
+    "wof:lastmodified":1537715967,
+    "wof:name":"Hajar al Qasr",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8679,
+    15.46799,
+    43.8679,
+    15.46799
+],
+  "geometry": {"coordinates":[43.8679,15.46799],"type":"Point"}
+}

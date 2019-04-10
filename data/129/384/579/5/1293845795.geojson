@@ -1,0 +1,72 @@
+{
+  "id": 1293845795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82213,16.25125,43.82213,16.25125",
+    "geom:latitude":16.25125,
+    "geom:longitude":43.82213,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Umm Shatt",
+    "gn:country_code":"YE",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367125,
+    "gn:latitude":16.25125,
+    "gn:longitude":43.82213,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Umm Sha\u0163\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Sha\u0163\u0163",
+        "Ash Sha\u0163\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367125
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"733835434a433aefc322d89cc78a4590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1293845795,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293845795,
+    "wof:lastmodified":1537715970,
+    "wof:name":"Umm Shatt",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82213,
+    16.25125,
+    43.82213,
+    16.25125
+],
+  "geometry": {"coordinates":[43.82213,16.25125],"type":"Point"}
+}

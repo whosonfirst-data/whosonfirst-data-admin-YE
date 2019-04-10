@@ -1,0 +1,71 @@
+{
+  "id": 1293840133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31508,15.8114,43.31508,15.8114",
+    "geom:latitude":15.8114,
+    "geom:longitude":43.31508,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Dayr al `Ajam",
+    "gn:country_code":"YE",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366177,
+    "gn:latitude":15.8114,
+    "gn:longitude":43.31508,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr al \u2018Ajam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al \u2018Ajam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366177
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"182b4c391aa413f38f696f5f4cff5d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1293840133,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293840133,
+    "wof:lastmodified":1537715948,
+    "wof:name":"Dayr al `Ajam",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31508,
+    15.8114,
+    43.31508,
+    15.8114
+],
+  "geometry": {"coordinates":[43.31508,15.8114],"type":"Point"}
+}

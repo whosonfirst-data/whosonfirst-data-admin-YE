@@ -1,0 +1,74 @@
+{
+  "id": 1327290143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.86238,15.99561,42.86238,15.99561",
+    "geom:latitude":15.99561,
+    "geom:longitude":42.86238,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Ath Thimariyah",
+    "gn:country_code":"YE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983383,
+    "gn:latitude":15.99561,
+    "gn:longitude":42.86238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ath Thim\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0645\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ath Thim\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983383
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eb28ee1850abc4aba641c4669b26a284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":1327290143,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1327290143,
+    "wof:lastmodified":1537716297,
+    "wof:name":"Ath Thimariyah",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.86238,
+    15.99561,
+    42.86238,
+    15.99561
+],
+  "geometry": {"coordinates":[42.86238,15.99561],"type":"Point"}
+}

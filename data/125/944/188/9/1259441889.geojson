@@ -1,0 +1,72 @@
+{
+  "id": 1259441889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87799,14.47255,44.87799,14.47255",
+    "geom:latitude":14.47255,
+    "geom:longitude":44.87799,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Dar Mus`ab",
+    "gn:country_code":"YE",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76431,
+    "gn:latitude":14.47255,
+    "gn:longitude":44.87799,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r Mu\u015f\u2018ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Mus\u2018ib",
+        "D\u0101r Mu\u015f\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76431
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"697f1998fe3ef29722a016c51a42e05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1259441889,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1259441889,
+    "wof:lastmodified":1537715199,
+    "wof:name":"Dar Mus`ab",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87799,
+    14.47255,
+    44.87799,
+    14.47255
+],
+  "geometry": {"coordinates":[44.87799,14.47255],"type":"Point"}
+}

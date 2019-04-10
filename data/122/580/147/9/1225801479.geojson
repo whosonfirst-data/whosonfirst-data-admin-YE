@@ -1,0 +1,71 @@
+{
+  "id": 1225801479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39894,15.99178,43.39894,15.99178",
+    "geom:latitude":15.99178,
+    "geom:longitude":43.39894,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1714.0",
+    "gn:asciiname":"Al Malit Bal Azraqiyah",
+    "gn:country_code":"YE",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366101,
+    "gn:latitude":15.99178,
+    "gn:longitude":43.39894,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al M\u0101li\u0163 B\u0101l Azraq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al M\u0101li\u0163 B\u0101l Azraq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366101
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"66619bdb1077d21a845a90d4ee1830e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923413,
+            "locality_id":1225801479,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225801479,
+    "wof:lastmodified":1537715946,
+    "wof:name":"Al Malit Bal Azraqiyah",
+    "wof:parent_id":1091923413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39894,
+    15.99178,
+    43.39894,
+    15.99178
+],
+  "geometry": {"coordinates":[43.39894,15.99178],"type":"Point"}
+}

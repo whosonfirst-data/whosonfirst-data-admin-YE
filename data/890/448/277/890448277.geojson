@@ -1,0 +1,73 @@
+{
+  "id": 890448277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28633,16.92131,44.28633,16.92131",
+    "geom:latitude":16.92131,
+    "geom:longitude":44.28633,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0645\u0631\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muraym"
+    ],
+    "qs:name":"\u0100l Muraym",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795046,
+        "gp:id":1959086,
+        "qs:id":700814,
+        "wd:id":"Q20302832"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052625,
+    "wof:geomhash":"823e15c1d39730795e87399d9902470d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925391,
+            "locality_id":890448277,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448277,
+    "wof:lastmodified":1514503388,
+    "wof:name":"\u0100l Muraym",
+    "wof:parent_id":1091925391,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28633,
+    16.92131,
+    44.28633,
+    16.92131
+],
+  "geometry": {"coordinates":[44.28633,16.92131],"type":"Point"}
+}

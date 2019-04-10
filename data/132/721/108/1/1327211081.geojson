@@ -1,0 +1,68 @@
+{
+  "id": 1327211081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5287,14.35111,43.5287,14.35111",
+    "geom:latitude":14.35111,
+    "geom:longitude":43.5287,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Al Quran",
+    "gn:country_code":"YE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357846,
+    "gn:latitude":14.35111,
+    "gn:longitude":43.5287,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Quran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357846
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"312ac3f5227455b83e4ffddf1653b629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1327211081,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1327211081,
+    "wof:lastmodified":1536999739,
+    "wof:name":"Al Quran",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5287,
+    14.35111,
+    43.5287,
+    14.35111
+],
+  "geometry": {"coordinates":[43.5287,14.35111],"type":"Point"}
+}

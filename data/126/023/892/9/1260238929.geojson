@@ -1,0 +1,74 @@
+{
+  "id": 1260238929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09911,12.95055,44.09911,12.95055",
+    "geom:latitude":12.95055,
+    "geom:longitude":44.09911,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Am Majbah",
+    "gn:country_code":"YE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78974,
+    "gn:latitude":12.95055,
+    "gn:longitude":44.09911,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Majbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Majza\u2018",
+        "Al Majb\u00e1",
+        "Am Majba",
+        "Al Majbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78974
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d298bc6b4471c6c2416b431c73930ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1260238929,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1260238929,
+    "wof:lastmodified":1537715281,
+    "wof:name":"Am Majbah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09911,
+    12.95055,
+    44.09911,
+    12.95055
+],
+  "geometry": {"coordinates":[44.09911,12.95055],"type":"Point"}
+}

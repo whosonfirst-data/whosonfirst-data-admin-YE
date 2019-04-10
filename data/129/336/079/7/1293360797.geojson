@@ -1,0 +1,74 @@
+{
+  "id": 1293360797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7255,15.40296,44.7255,15.40296",
+    "geom:latitude":15.40296,
+    "geom:longitude":44.7255,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Al 'Utayfah",
+    "gn:country_code":"YE",
+    "gn:dem":2047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331945,
+    "gn:latitude":15.40296,
+    "gn:longitude":44.7255,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018U\u0163ayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0637\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018U\u0163ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331945
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"166d0ff1c60dcbadec6d9eea3251a8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925065,
+            "locality_id":1293360797,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293360797,
+    "wof:lastmodified":1537716204,
+    "wof:name":"Al 'Utayfah",
+    "wof:parent_id":1091925065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7255,
+    15.40296,
+    44.7255,
+    15.40296
+],
+  "geometry": {"coordinates":[44.7255,15.40296],"type":"Point"}
+}

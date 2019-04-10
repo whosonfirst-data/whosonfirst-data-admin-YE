@@ -1,0 +1,74 @@
+{
+  "id": 1243051341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45492,14.63969,45.45492,14.63969",
+    "geom:latitude":14.63969,
+    "geom:longitude":45.45492,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2611.0",
+    "gn:asciiname":"Ash Shijab",
+    "gn:country_code":"YE",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308887,
+    "gn:latitude":14.63969,
+    "gn:longitude":45.45492,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shij\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ash Shij\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u062c\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308887
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ab96747047110c323e901b33c8c374a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":1243051341,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1243051341,
+    "wof:lastmodified":1537716040,
+    "wof:name":"Ash Shijab",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45492,
+    14.63969,
+    45.45492,
+    14.63969
+],
+  "geometry": {"coordinates":[45.45492,14.63969],"type":"Point"}
+}

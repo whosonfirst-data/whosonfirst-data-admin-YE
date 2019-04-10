@@ -1,0 +1,68 @@
+{
+  "id": 1225999577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00912,13.55376,44.00912,13.55376",
+    "geom:latitude":13.55376,
+    "geom:longitude":44.00912,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1511.0",
+    "gn:asciiname":"Al Kurayfah",
+    "gn:country_code":"YE",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357298,
+    "gn:latitude":13.55376,
+    "gn:longitude":44.00912,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kurayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357298
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bcabac30640e10e26cdd7ec871dc9859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926623,
+            "locality_id":1225999577,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1225999577,
+    "wof:lastmodified":1536792170,
+    "wof:name":"Al Kurayfah",
+    "wof:parent_id":1091926623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00912,
+    13.55376,
+    44.00912,
+    13.55376
+],
+  "geometry": {"coordinates":[44.00912,13.55376],"type":"Point"}
+}

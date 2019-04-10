@@ -1,0 +1,74 @@
+{
+  "id": 1293853577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18325,16.8868,43.18325,16.8868",
+    "geom:latitude":16.8868,
+    "geom:longitude":43.18325,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Qullat al 'Araji",
+    "gn:country_code":"YE",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202868,
+    "gn:latitude":16.8868,
+    "gn:longitude":43.18325,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qullat al \u2018Araj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0639\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qullat al \u2018Araj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202868
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a0153531b6a2e35cf21958aa92e7e46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1293853577,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293853577,
+    "wof:lastmodified":1537716022,
+    "wof:name":"Qullat al 'Araji",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18325,
+    16.8868,
+    43.18325,
+    16.8868
+],
+  "geometry": {"coordinates":[43.18325,16.8868],"type":"Point"}
+}

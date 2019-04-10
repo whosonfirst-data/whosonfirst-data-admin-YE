@@ -1,0 +1,77 @@
+{
+  "id": 1310088291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71561,17.02807,43.71561,17.02807",
+    "geom:latitude":17.02807,
+    "geom:longitude":43.71561,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al `Amiri",
+    "gn:country_code":"YE",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345396,
+    "gn:latitude":17.02807,
+    "gn:longitude":43.71561,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l \u2018\u0100mir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018\u0100mir\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0639\u0627\u0645\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b al \u2018\u0100mir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345396
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68fbb78ed079d14d84afe71e8b70ecce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1310088291,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310088291,
+    "wof:lastmodified":1537715559,
+    "wof:name":"Al `Amiri",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71561,
+    17.02807,
+    43.71561,
+    17.02807
+],
+  "geometry": {"coordinates":[43.71561,17.02807],"type":"Point"}
+}

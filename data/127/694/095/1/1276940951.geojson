@@ -1,0 +1,71 @@
+{
+  "id": 1276940951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33258,15.84771,44.33258,15.84771",
+    "geom:latitude":15.84771,
+    "geom:longitude":44.33258,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Majam",
+    "gn:country_code":"YE",
+    "gn:dem":2355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362364,
+    "gn:latitude":15.84771,
+    "gn:longitude":44.33258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maj\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maj\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362364
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e525d1ccc5e4af0f9f6b2a4a7db69965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1276940951,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276940951,
+    "wof:lastmodified":1537715842,
+    "wof:name":"Majam",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33258,
+    15.84771,
+    44.33258,
+    15.84771
+],
+  "geometry": {"coordinates":[44.33258,15.84771],"type":"Point"}
+}

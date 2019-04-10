@@ -1,0 +1,71 @@
+{
+  "id": 1226300195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79472,13.00444,43.79472,13.00444",
+    "geom:latitude":13.00444,
+    "geom:longitude":43.79472,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Shaykh Hadi Qasis",
+    "gn:country_code":"YE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70710,
+    "gn:latitude":13.00444,
+    "gn:longitude":43.79472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shaykh H\u0101d\u012b Qa\u015f\u012b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaykh H\u0101d\u012b Qa\u015f\u012b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70710
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8025dc7a524be7fec902f76125c51998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1226300195,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226300195,
+    "wof:lastmodified":1537715083,
+    "wof:name":"Shaykh Hadi Qasis",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79472,
+    13.00444,
+    43.79472,
+    13.00444
+],
+  "geometry": {"coordinates":[43.79472,13.00444],"type":"Point"}
+}

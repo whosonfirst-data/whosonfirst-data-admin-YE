@@ -1,0 +1,71 @@
+{
+  "id": 1310400665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36211,15.29941,43.36211,15.29941",
+    "geom:latitude":15.29941,
+    "geom:longitude":43.36211,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Ad Diyam",
+    "gn:country_code":"YE",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365082,
+    "gn:latitude":15.29941,
+    "gn:longitude":43.36211,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ad Diy\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad Diy\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365082
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"734b79587aeeaa5d99fec5674aa434ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1310400665,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1310400665,
+    "wof:lastmodified":1537715918,
+    "wof:name":"Ad Diyam",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36211,
+    15.29941,
+    43.36211,
+    15.29941
+],
+  "geometry": {"coordinates":[43.36211,15.29941],"type":"Point"}
+}

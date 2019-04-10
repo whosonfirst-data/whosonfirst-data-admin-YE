@@ -1,0 +1,71 @@
+{
+  "id": 1327090245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19919,14.0762,44.19919,14.0762",
+    "geom:latitude":14.0762,
+    "geom:longitude":44.19919,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Al Kharabat Bani Shamsan",
+    "gn:country_code":"YE",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359859,
+    "gn:latitude":14.0762,
+    "gn:longitude":44.19919,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kharab\u0101t Ban\u012b Shams\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kharab\u0101t Ban\u012b Shams\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359859
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4b577725e76b54f86cc9479d1952087c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":1327090245,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1327090245,
+    "wof:lastmodified":1537715780,
+    "wof:name":"Al Kharabat Bani Shamsan",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19919,
+    14.0762,
+    44.19919,
+    14.0762
+],
+  "geometry": {"coordinates":[44.19919,14.0762],"type":"Point"}
+}

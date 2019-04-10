@@ -1,0 +1,71 @@
+{
+  "id": 1209887699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9967,15.1355,43.9967,15.1355",
+    "geom:latitude":15.1355,
+    "geom:longitude":43.9967,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Al Mawan",
+    "gn:country_code":"YE",
+    "gn:dem":2507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342048,
+    "gn:latitude":15.1355,
+    "gn:longitude":43.9967,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342048
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f2bc3dff6e1b300619d624f2c02353a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1209887699,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209887699,
+    "wof:lastmodified":1537715493,
+    "wof:name":"Al Mawan",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9967,
+    15.1355,
+    43.9967,
+    15.1355
+],
+  "geometry": {"coordinates":[43.9967,15.1355],"type":"Point"}
+}

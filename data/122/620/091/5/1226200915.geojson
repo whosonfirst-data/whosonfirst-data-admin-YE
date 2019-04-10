@@ -1,0 +1,75 @@
+{
+  "id": 1226200915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.93781,16.48078,45.93781,16.48078",
+    "geom:latitude":16.48078,
+    "geom:longitude":45.93781,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Mushayniqah",
+    "gn:country_code":"YE",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72421,
+    "gn:latitude":16.48078,
+    "gn:longitude":45.93781,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Mushayniqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0646\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mushairiqa",
+        "Mushayriqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72421
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"15142bfadb297339e2173705bee99688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1226200915,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226200915,
+    "wof:lastmodified":1537715114,
+    "wof:name":"Mushayniqah",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.93781,
+    16.48078,
+    45.93781,
+    16.48078
+],
+  "geometry": {"coordinates":[45.93781,16.48078],"type":"Point"}
+}

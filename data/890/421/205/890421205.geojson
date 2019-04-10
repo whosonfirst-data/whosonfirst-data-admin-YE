@@ -1,0 +1,73 @@
+{
+  "id": 890421205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97576,13.19907,43.97576,13.19907",
+    "geom:latitude":13.19907,
+    "geom:longitude":43.97576,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u0633\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maksir"
+    ],
+    "qs:name":"Al Maksir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071361,
+        "gp:id":1959012,
+        "qs:id":753759,
+        "wd:id":"Q20307541"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051383,
+    "wof:geomhash":"e62882a52a6734d38aa3cdf81e74f693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890421205,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421205,
+    "wof:lastmodified":1514503179,
+    "wof:name":"Al Maksir",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97576,
+    13.19907,
+    43.97576,
+    13.19907
+],
+  "geometry": {"coordinates":[43.97576,13.19907],"type":"Point"}
+}

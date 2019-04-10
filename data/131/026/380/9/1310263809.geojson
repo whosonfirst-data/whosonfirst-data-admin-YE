@@ -1,0 +1,77 @@
+{
+  "id": 1310263809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90556,14.62533,44.90556,14.62533",
+    "geom:latitude":14.62533,
+    "geom:longitude":44.90556,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"As Safar",
+    "gn:country_code":"YE",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364918,
+    "gn:latitude":14.62533,
+    "gn:longitude":44.90556,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"A\u015f \u015eafar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f \u015eufr"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eafar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364918
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b8e28b305c982fecb3afd026712455d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1310263809,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1310263809,
+    "wof:lastmodified":1537715913,
+    "wof:name":"As Safar",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90556,
+    14.62533,
+    44.90556,
+    14.62533
+],
+  "geometry": {"coordinates":[44.90556,14.62533],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890426867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16906,14.43714,45.16906,14.43714",
+    "geom:latitude":14.43714,
+    "geom:longitude":45.16906,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u064a\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kharayitah"
+    ],
+    "qs:name":"Al Khar\u0101yi\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052049,
+        "gp:id":1958975,
+        "qs:id":751426,
+        "wd:id":"Q20304977"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051650,
+    "wof:geomhash":"469fd04c946ab766e471f3eb4e44a272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890426867,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890426867,
+    "wof:lastmodified":1514503164,
+    "wof:name":"Al Khar\u0101yi\u0163ah",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16906,
+    14.43714,
+    45.16906,
+    14.43714
+],
+  "geometry": {"coordinates":[45.16906,14.43714],"type":"Point"}
+}

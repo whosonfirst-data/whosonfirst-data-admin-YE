@@ -1,0 +1,71 @@
+{
+  "id": 1226138045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59098,15.5309,43.59098,15.5309",
+    "geom:latitude":15.5309,
+    "geom:longitude":43.59098,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Al Hazzah",
+    "gn:country_code":"YE",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344439,
+    "gn:latitude":15.5309,
+    "gn:longitude":43.59098,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28azzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28azzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344439
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb19f70aa462fdde9213d34a7b33e3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1226138045,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226138045,
+    "wof:lastmodified":1537715540,
+    "wof:name":"Al Hazzah",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59098,
+    15.5309,
+    43.59098,
+    15.5309
+],
+  "geometry": {"coordinates":[43.59098,15.5309],"type":"Point"}
+}

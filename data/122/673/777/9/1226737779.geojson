@@ -1,0 +1,71 @@
+{
+  "id": 1226737779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50305,14.32151,43.50305,14.32151",
+    "geom:latitude":14.32151,
+    "geom:longitude":43.50305,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Qahfah",
+    "gn:country_code":"YE",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358186,
+    "gn:latitude":14.32151,
+    "gn:longitude":43.50305,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u1e29fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e29fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358186
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1603a75e20e3c746e0dfe7be375a21ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1226737779,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226737779,
+    "wof:lastmodified":1537715716,
+    "wof:name":"Qahfah",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50305,
+    14.32151,
+    43.50305,
+    14.32151
+],
+  "geometry": {"coordinates":[43.50305,14.32151],"type":"Point"}
+}

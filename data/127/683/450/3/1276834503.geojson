@@ -1,0 +1,74 @@
+{
+  "id": 1276834503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9045,16.04065,43.9045,16.04065",
+    "geom:latitude":16.04065,
+    "geom:longitude":43.9045,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Madhayib",
+    "gn:country_code":"YE",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635270,
+    "gn:latitude":16.04065,
+    "gn:longitude":43.9045,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Madh\u0101yib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0630\u0627\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Madh\u0101yib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635270
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6edd7f902d9eada1703d0f59044606dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1276834503,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276834503,
+    "wof:lastmodified":1537716100,
+    "wof:name":"Al Madhayib",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9045,
+    16.04065,
+    43.9045,
+    16.04065
+],
+  "geometry": {"coordinates":[43.9045,16.04065],"type":"Point"}
+}

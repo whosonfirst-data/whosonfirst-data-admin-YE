@@ -1,0 +1,76 @@
+{
+  "id": 890453109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39845,16.31911,43.39845,16.31911",
+    "geom:latitude":16.31911,
+    "geom:longitude":43.39845,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "An N\u0101\u015fir\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "An Nasiri"
+    ],
+    "qs:name":"An N\u0101\u015fir\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783565,
+        "gp:id":1953570,
+        "qs:id":700218,
+        "wd:id":"Q20300915"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052841,
+    "wof:geomhash":"9d1152cf17d3e92d0cec9c514561b677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890453109,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890453109,
+    "wof:lastmodified":1514503219,
+    "wof:name":"An N\u0101\u015fir\u012b",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39845,
+    16.31911,
+    43.39845,
+    16.31911
+],
+  "geometry": {"coordinates":[43.39845,16.31911],"type":"Point"}
+}

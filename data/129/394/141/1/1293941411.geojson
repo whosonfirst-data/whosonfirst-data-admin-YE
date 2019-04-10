@@ -1,0 +1,74 @@
+{
+  "id": 1293941411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48387,14.01381,44.48387,14.01381",
+    "geom:latitude":14.01381,
+    "geom:longitude":44.48387,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Sani",
+    "gn:country_code":"YE",
+    "gn:dem":2592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359692,
+    "gn:latitude":14.01381,
+    "gn:longitude":44.48387,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"San\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "San\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359692
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff5b3c9d15b5fd9d68a61715e521555e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1293941411,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293941411,
+    "wof:lastmodified":1537715773,
+    "wof:name":"Sani",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48387,
+    14.01381,
+    44.48387,
+    14.01381
+],
+  "geometry": {"coordinates":[44.48387,14.01381],"type":"Point"}
+}

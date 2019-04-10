@@ -1,0 +1,74 @@
+{
+  "id": 1243527069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70305,17.0209,43.70305,17.0209",
+    "geom:latitude":17.0209,
+    "geom:longitude":43.70305,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Miti`",
+    "gn:country_code":"YE",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345387,
+    "gn:latitude":17.0209,
+    "gn:longitude":43.70305,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l Mi\u0163\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l Mi\u0163\u012b\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0645\u0637\u064a\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345387
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dde35454983fd08832286b2d561c2d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1243527069,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243527069,
+    "wof:lastmodified":1537715558,
+    "wof:name":"Al Miti`",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70305,
+    17.0209,
+    43.70305,
+    17.0209
+],
+  "geometry": {"coordinates":[43.70305,17.0209],"type":"Point"}
+}

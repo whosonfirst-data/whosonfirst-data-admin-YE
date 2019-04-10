@@ -1,0 +1,71 @@
+{
+  "id": 1293163447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78392,13.86941,44.78392,13.86941",
+    "geom:latitude":13.86941,
+    "geom:longitude":44.78392,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Al Lakim",
+    "gn:country_code":"YE",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363800,
+    "gn:latitude":13.86941,
+    "gn:longitude":44.78392,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Lak\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Lak\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363800
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84d7adf41e183db88efc4e0476054407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919801,
+            "locality_id":1293163447,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1293163447,
+    "wof:lastmodified":1537715879,
+    "wof:name":"Al Lakim",
+    "wof:parent_id":1091919801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78392,
+    13.86941,
+    44.78392,
+    13.86941
+],
+  "geometry": {"coordinates":[44.78392,13.86941],"type":"Point"}
+}

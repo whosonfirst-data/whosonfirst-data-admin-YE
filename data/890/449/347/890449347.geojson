@@ -1,0 +1,73 @@
+{
+  "id": 890449347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75498,13.10502,43.75498,13.10502",
+    "geom:latitude":13.10502,
+    "geom:longitude":43.75498,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":32,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qal'ah"
+    ],
+    "qs:name":"Al Qal\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069102,
+        "gp:id":1958962,
+        "qs:id":753280,
+        "wd:id":"Q20303970"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052685,
+    "wof:geomhash":"5815f003b809b92122664b4ad8440f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890449347,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449347,
+    "wof:lastmodified":1514503196,
+    "wof:name":"Al Qal\u2018ah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75498,
+    13.10502,
+    43.75498,
+    13.10502
+],
+  "geometry": {"coordinates":[43.75498,13.10502],"type":"Point"}
+}

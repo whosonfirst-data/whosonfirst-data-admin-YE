@@ -1,0 +1,71 @@
+{
+  "id": 1259955631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70118,13.73527,44.70118,13.73527",
+    "geom:latitude":13.73527,
+    "geom:longitude":44.70118,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Habil",
+    "gn:country_code":"YE",
+    "gn:dem":2094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354923,
+    "gn:latitude":13.73527,
+    "gn:longitude":44.70118,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ab\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ab\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354923
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"659c04c386b5d53476261aa00a1b2bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919751,
+            "locality_id":1259955631,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1259955631,
+    "wof:lastmodified":1537716043,
+    "wof:name":"Habil",
+    "wof:parent_id":1091919751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70118,
+    13.73527,
+    44.70118,
+    13.73527
+],
+  "geometry": {"coordinates":[44.70118,13.73527],"type":"Point"}
+}

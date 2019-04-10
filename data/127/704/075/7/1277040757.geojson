@@ -1,0 +1,71 @@
+{
+  "id": 1277040757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42005,13.72562,44.42005,13.72562",
+    "geom:latitude":13.72562,
+    "geom:longitude":44.42005,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3009.0",
+    "gn:asciiname":"Al Khabi",
+    "gn:country_code":"YE",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357685,
+    "gn:latitude":13.72562,
+    "gn:longitude":44.42005,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kh\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357685
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1b0bed3f017b4fd47f2ae671676475b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":1277040757,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1277040757,
+    "wof:lastmodified":1537715705,
+    "wof:name":"Al Khabi",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42005,
+    13.72562,
+    44.42005,
+    13.72562
+],
+  "geometry": {"coordinates":[44.42005,13.72562],"type":"Point"}
+}

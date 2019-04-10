@@ -1,0 +1,75 @@
+{
+  "id": 1310273453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00691,14.03056,44.00691,14.03056",
+    "geom:latitude":14.03056,
+    "geom:longitude":44.00691,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Al Ma`aynah",
+    "gn:country_code":"YE",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359871,
+    "gn:latitude":14.03056,
+    "gn:longitude":44.00691,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Ma\u2018aynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018aynah",
+        "Al Mu\u2018aynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359871
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb46ee0c7ce07a35576dda86ef08c154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1310273453,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310273453,
+    "wof:lastmodified":1537715780,
+    "wof:name":"Al Ma`aynah",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00691,
+    14.03056,
+    44.00691,
+    14.03056
+],
+  "geometry": {"coordinates":[44.00691,14.03056],"type":"Point"}
+}

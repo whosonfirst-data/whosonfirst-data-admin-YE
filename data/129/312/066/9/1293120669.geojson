@@ -1,0 +1,77 @@
+{
+  "id": 1293120669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44038,15.05115,43.44038,15.05115",
+    "geom:latitude":15.05115,
+    "geom:longitude":43.44038,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Bani Shijab",
+    "gn:country_code":"YE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365500,
+    "gn:latitude":15.05115,
+    "gn:longitude":43.44038,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ban\u012b Shij\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shij\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0646\u064a \u0634\u062c\u0640\u0640\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b Shij\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365500
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"abbca4df9f99d7ffa3b093349d689a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1293120669,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293120669,
+    "wof:lastmodified":1537715933,
+    "wof:name":"Bani Shijab",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44038,
+    15.05115,
+    43.44038,
+    15.05115
+],
+  "geometry": {"coordinates":[43.44038,15.05115],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890420699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30144,16.66825,43.30144,16.66825",
+    "geom:latitude":16.66825,
+    "geom:longitude":43.30144,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0644\u062e"
+    ],
+    "qs:name":"Al Shalakh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855046,
+        "gp:id":1959134,
+        "qs:id":741978
+    },
+    "wof:country":"YE",
+    "wof:created":1469051358,
+    "wof:geomhash":"b6f98453bc4f75f17efe2ed13b432a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890420699,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420699,
+    "wof:lastmodified":1505343459,
+    "wof:name":"Al Shalakh",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30144,
+    16.66825,
+    43.30144,
+    16.66825
+],
+  "geometry": {"coordinates":[43.30144,16.66825],"type":"Point"}
+}

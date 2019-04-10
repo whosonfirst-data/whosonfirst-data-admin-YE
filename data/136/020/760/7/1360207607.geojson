@@ -1,0 +1,68 @@
+{
+  "id": 1360207607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,15.35,48.05,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1921.0",
+    "gn:asciiname":"Dakwah",
+    "gn:country_code":"YE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76583,
+    "gn:latitude":15.35,
+    "gn:longitude":48.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dakwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76583
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec4c85423ab2aed351628eaf11e04b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922765,
+            "locality_id":1360207607,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1360207607,
+    "wof:lastmodified":1536769459,
+    "wof:name":"Dakwah",
+    "wof:parent_id":1091922765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    15.35,
+    48.05,
+    15.35
+],
+  "geometry": {"coordinates":[48.05,15.35],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890439737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47772,14.97721,45.47772,14.97721",
+    "geom:latitude":14.97721,
+    "geom:longitude":45.47772,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":50,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0639\u0637\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Utayyir"
+    ],
+    "qs:name":"\u0100l \u2018U\u0163ayyir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053262,
+        "gp:id":1959055,
+        "qs:id":751691,
+        "wd:id":"Q20303339"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052247,
+    "wof:geomhash":"1068b57baa26cdeaf454d470d9f48ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890439737,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890439737,
+    "wof:lastmodified":1514503393,
+    "wof:name":"\u0100l \u2018U\u0163ayyir",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47772,
+    14.97721,
+    45.47772,
+    14.97721
+],
+  "geometry": {"coordinates":[45.47772,14.97721],"type":"Point"}
+}

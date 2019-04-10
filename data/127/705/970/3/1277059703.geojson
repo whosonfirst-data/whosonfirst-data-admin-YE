@@ -1,0 +1,74 @@
+{
+  "id": 1277059703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07274,15.75348,45.07274,15.75348",
+    "geom:latitude":15.75348,
+    "geom:longitude":45.07274,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"'Aslah",
+    "gn:country_code":"YE",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976201,
+    "gn:latitude":15.75348,
+    "gn:longitude":45.07274,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aslah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aslah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976201
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f02cd20ab6ef07a98a800204598eb8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925257,
+            "locality_id":1277059703,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1277059703,
+    "wof:lastmodified":1537716148,
+    "wof:name":"'Aslah",
+    "wof:parent_id":1091925257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07274,
+    15.75348,
+    45.07274,
+    15.75348
+],
+  "geometry": {"coordinates":[45.07274,15.75348],"type":"Point"}
+}

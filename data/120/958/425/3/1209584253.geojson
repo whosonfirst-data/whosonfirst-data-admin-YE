@@ -1,0 +1,65 @@
+{
+  "id": 1209584253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87337,13.99735,43.87337,13.99735",
+    "geom:latitude":13.99735,
+    "geom:longitude":43.87337,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Qasil",
+    "gn:country_code":"YE",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354895,
+    "gn:latitude":13.99735,
+    "gn:longitude":43.87337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qa\u015fil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b328356ade374e2ed9aa36d4064f34b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209584253
+        }
+    ],
+    "wof:id":1209584253,
+    "wof:lastmodified":1537716042,
+    "wof:name":"Qasil",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87337,
+    13.99735,
+    43.87337,
+    13.99735
+],
+  "geometry": {"coordinates":[43.87337,13.99735],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276295415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91549,14.95966,43.91549,14.95966",
+    "geom:latitude":14.95966,
+    "geom:longitude":43.91549,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"At Taliqat",
+    "gn:country_code":"YE",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400905,
+    "gn:latitude":14.95966,
+    "gn:longitude":43.91549,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162aliq\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162aliq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400905
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30dfb79260b903213a73b3485d42275e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1276295415,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276295415,
+    "wof:lastmodified":1537715338,
+    "wof:name":"At Taliqat",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91549000000001,
+    14.95966,
+    43.91549000000001,
+    14.95966
+],
+  "geometry": {"coordinates":[43.91549000000001,14.95966],"type":"Point"}
+}

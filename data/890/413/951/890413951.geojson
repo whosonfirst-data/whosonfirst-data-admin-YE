@@ -1,0 +1,77 @@
+{
+  "id": 890413951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36367,16.66935,44.36367,16.66935",
+    "geom:latitude":16.66935,
+    "geom:longitude":44.36367,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0641\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Safiyah"
+    ],
+    "qs:name":"A\u015f \u015e\u0101f\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066752,
+        "gp:id":1959135,
+        "qs:id":701035,
+        "qs_pg:id":752811,
+        "wd:id":"Q20302500"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051026,
+    "wof:geomhash":"119069a27d54b9b1d8101980497f0390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890413951,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890413951,
+    "wof:lastmodified":1514503238,
+    "wof:name":"A\u015f \u015e\u0101f\u012byah",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36367,
+    16.66935,
+    44.36367,
+    16.66935
+],
+  "geometry": {"coordinates":[44.36367,16.66935],"type":"Point"}
+}

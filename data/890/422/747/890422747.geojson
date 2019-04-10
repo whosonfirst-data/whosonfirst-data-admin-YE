@@ -1,0 +1,69 @@
+{
+  "id": 890422747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29881,16.81123,43.29881,16.81123",
+    "geom:latitude":16.81123,
+    "geom:longitude":43.29881,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u0628"
+    ],
+    "qs:name":"Al Khalab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926769,
+        "gp:id":1959134,
+        "qs:id":745111
+    },
+    "wof:country":"YE",
+    "wof:created":1469051462,
+    "wof:geomhash":"89ba680db25e3b9c8e00ebd3fbbebf96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890422747,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890422747,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Al Khalab",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29881,
+    16.81123,
+    43.29881,
+    16.81123
+],
+  "geometry": {"coordinates":[43.29881,16.81123],"type":"Point"}
+}

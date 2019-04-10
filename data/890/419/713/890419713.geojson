@@ -1,0 +1,76 @@
+{
+  "id": 890419713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04963,14.32503,45.04963,14.32503",
+    "geom:latitude":14.32503,
+    "geom:longitude":45.04963,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ayl\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u064a\u0644\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Aylat"
+    ],
+    "qs:name":"Al \u2018Ayl\u0101t",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051978,
+        "gp:id":1959118,
+        "qs:id":751356,
+        "wd:id":"Q20302661"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051298,
+    "wof:geomhash":"e81a09ca7494781a9989e960448b3c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890419713,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419713,
+    "wof:lastmodified":1514503211,
+    "wof:name":"Al \u2018Ayl\u0101t",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04963,
+    14.32503,
+    45.04963,
+    14.32503
+],
+  "geometry": {"coordinates":[45.04963,14.32503],"type":"Point"}
+}

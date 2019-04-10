@@ -1,0 +1,71 @@
+{
+  "id": 1327401721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26727,13.58496,44.26727,13.58496",
+    "geom:latitude":13.58496,
+    "geom:longitude":44.26727,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Hujfah",
+    "gn:country_code":"YE",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357583,
+    "gn:latitude":13.58496,
+    "gn:longitude":44.26727,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ujfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ujfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357583
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"840dde8916ec4771b98f46848613a201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1327401721,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327401721,
+    "wof:lastmodified":1537715703,
+    "wof:name":"Hujfah",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26727,
+    13.58496,
+    44.26727,
+    13.58496
+],
+  "geometry": {"coordinates":[44.26727,13.58496],"type":"Point"}
+}

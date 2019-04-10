@@ -1,0 +1,71 @@
+{
+  "id": 1210010213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59049,15.44273,43.59049,15.44273",
+    "geom:latitude":15.44273,
+    "geom:longitude":43.59049,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Dar Milh",
+    "gn:country_code":"YE",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360670,
+    "gn:latitude":15.44273,
+    "gn:longitude":43.59049,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r Mil\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r Mil\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360670
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"17ca0565be4feb2a25873dfb8d59c1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1210010213,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1210010213,
+    "wof:lastmodified":1537715803,
+    "wof:name":"Dar Milh",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59049,
+    15.44273,
+    43.59049,
+    15.44273
+],
+  "geometry": {"coordinates":[43.59049,15.44273],"type":"Point"}
+}

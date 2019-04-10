@@ -1,0 +1,74 @@
+{
+  "id": 1310470489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39005,14.2219,44.39005,14.2219",
+    "geom:latitude":14.2219,
+    "geom:longitude":44.39005,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Mawah",
+    "gn:country_code":"YE",
+    "gn:dem":2676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72791,
+    "gn:latitude":14.2219,
+    "gn:longitude":44.39005,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"M\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cdadb4cd034ea26b60cc7953a6ed260e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1310470489,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310470489,
+    "wof:lastmodified":1537715121,
+    "wof:name":"Mawah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39005,
+    14.2219,
+    44.39005,
+    14.2219
+],
+  "geometry": {"coordinates":[44.39005,14.2219],"type":"Point"}
+}

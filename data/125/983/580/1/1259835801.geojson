@@ -1,0 +1,73 @@
+{
+  "id": 1259835801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83147,16.24728,42.83147,16.24728",
+    "geom:latitude":16.24728,
+    "geom:longitude":42.83147,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Hayran",
+    "gn:country_code":"YE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306131,
+    "gn:latitude":16.24728,
+    "gn:longitude":42.83147,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ayr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayr\u0101n",
+        "\u062d\u064a\u0631\u0627\u0646",
+        "\u1e28\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306131
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"539bfa054a3ea28b500723280b8f833e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":1259835801,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259835801,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Hayran",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83147,
+    16.24728,
+    42.83147,
+    16.24728
+],
+  "geometry": {"coordinates":[42.83147,16.24728],"type":"Point"}
+}

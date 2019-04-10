@@ -1,0 +1,68 @@
+{
+  "id": 1276398151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.77431,14.32708,44.77431,14.32708",
+    "geom:latitude":14.32708,
+    "geom:longitude":44.77431,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Az Zabadah",
+    "gn:country_code":"YE",
+    "gn:dem":2310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364841,
+    "gn:latitude":14.32708,
+    "gn:longitude":44.77431,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az Zabadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364841
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4473b7a077511a9ec8bb58f3a621fdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1276398151,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1276398151,
+    "wof:lastmodified":1536692007,
+    "wof:name":"Az Zabadah",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.77431,
+    14.32708,
+    44.77431,
+    14.32708
+],
+  "geometry": {"coordinates":[44.77431,14.32708],"type":"Point"}
+}

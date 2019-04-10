@@ -1,0 +1,78 @@
+{
+  "id": 1260035825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25043,14.25682,44.25043,14.25682",
+    "geom:latitude":14.25682,
+    "geom:longitude":44.25043,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Al Qabr as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":2123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408323,
+    "gn:latitude":14.25682,
+    "gn:longitude":44.25043,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Qabr as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e11 \u1e10ubr"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0628\u0631 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Qabr as Sufl\u00e1",
+        "A\u1e11 \u1e10abr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408323
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c62aea48a2c69656817cfb8d204a7679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1260035825,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260035825,
+    "wof:lastmodified":1537715418,
+    "wof:name":"Al Qabr as Sufla",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25043,
+    14.25682,
+    44.25043,
+    14.25682
+],
+  "geometry": {"coordinates":[44.25043,14.25682],"type":"Point"}
+}

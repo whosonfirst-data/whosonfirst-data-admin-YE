@@ -1,0 +1,65 @@
+{
+  "id": 1209062801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31276,16.16747,44.31276,16.16747",
+    "geom:latitude":16.16747,
+    "geom:longitude":44.31276,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Khubsh",
+    "gn:country_code":"YE",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974600,
+    "gn:latitude":16.16747,
+    "gn:longitude":44.31276,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khubsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974600
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"03ffea34fafa6b164e59d4d3d91efaa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209062801
+        }
+    ],
+    "wof:id":1209062801,
+    "wof:lastmodified":1537716111,
+    "wof:name":"Khubsh",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31276,
+    16.16747,
+    44.31276,
+    16.16747
+],
+  "geometry": {"coordinates":[44.31276,16.16747],"type":"Point"}
+}

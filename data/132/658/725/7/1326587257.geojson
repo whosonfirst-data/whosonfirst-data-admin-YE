@@ -1,0 +1,74 @@
+{
+  "id": 1326587257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51556,13.22389,44.51556,13.22389",
+    "geom:latitude":13.22389,
+    "geom:longitude":44.51556,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"`Arthur",
+    "gn:country_code":"YE",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408432,
+    "gn:latitude":13.22389,
+    "gn:longitude":44.51556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arth\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Arth\u016br"
+    ],
+    "name:und_x_variant":[
+        "\u2018Auth\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408432
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75f5f6b118911a08b52e42e31c7ddc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1326587257,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1326587257,
+    "wof:lastmodified":1537715419,
+    "wof:name":"`Arthur",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51556,
+    13.22389,
+    44.51556,
+    13.22389
+],
+  "geometry": {"coordinates":[44.51556,13.22389],"type":"Point"}
+}

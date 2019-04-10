@@ -1,0 +1,65 @@
+{
+  "id": 1209404615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24862,15.28881,43.24862,15.28881",
+    "geom:latitude":15.28881,
+    "geom:longitude":43.24862,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Al Ghuzayrah",
+    "gn:country_code":"YE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036249,
+    "gn:latitude":15.28881,
+    "gn:longitude":43.24862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ghuzayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0632\u064a\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036249
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a0a187a4b255fe94306fe7c8183da7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209404615
+        }
+    ],
+    "wof:id":1209404615,
+    "wof:lastmodified":1537716316,
+    "wof:name":"Al Ghuzayrah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24862,
+    15.28881,
+    43.24862,
+    15.28881
+],
+  "geometry": {"coordinates":[43.24862,15.28881],"type":"Point"}
+}

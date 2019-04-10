@@ -1,0 +1,76 @@
+{
+  "id": 890445707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9057,16.00898,42.9057,16.00898",
+    "geom:latitude":16.00898,
+    "geom:longitude":42.9057,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0644\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Suwalimah"
+    ],
+    "name:unk_x_variant":[
+        "As Saw\u0101limah"
+    ],
+    "qs:name":"As Suw\u0101limah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622047,
+        "gp:id":1959063,
+        "qs:id":693994,
+        "wd:id":"Q20303604"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052519,
+    "wof:geomhash":"94d82a34d0d4e50c3fc28473a1c81772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":890445707,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445707,
+    "wof:lastmodified":1514503227,
+    "wof:name":"As Suw\u0101limah",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9057,
+    16.00898,
+    42.9057,
+    16.00898
+],
+  "geometry": {"coordinates":[42.9057,16.00898],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327223543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18769,15.63217,43.18769,15.63217",
+    "geom:latitude":15.63217,
+    "geom:longitude":43.18769,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Mahall al Qurayti",
+    "gn:country_code":"YE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366368,
+    "gn:latitude":15.63217,
+    "gn:longitude":43.18769,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ma\u1e29all al Quray\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Quray\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366368
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2441eaf3c9630ae547f1f3bc64731ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1327223543,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327223543,
+    "wof:lastmodified":1537715953,
+    "wof:name":"Mahall al Qurayti",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18769,
+    15.63217,
+    43.18769,
+    15.63217
+],
+  "geometry": {"coordinates":[43.18769,15.63217],"type":"Point"}
+}

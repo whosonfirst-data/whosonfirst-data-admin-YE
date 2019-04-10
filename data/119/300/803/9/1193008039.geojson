@@ -1,0 +1,74 @@
+{
+  "id": 1193008039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37231,14.85101,43.37231,14.85101",
+    "geom:latitude":14.85101,
+    "geom:longitude":43.37231,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Fayi' Mahim",
+    "gn:country_code":"YE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058478,
+    "gn:latitude":14.85101,
+    "gn:longitude":43.37231,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"F\u0101yi\u2018 Mah\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u064a\u0639 \u0645\u0647\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "F\u0101yi\u2018 Mah\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058478
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2300e4dade4f5f6928623cc9414dac2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1193008039,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193008039,
+    "wof:lastmodified":1537716341,
+    "wof:name":"Fayi' Mahim",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37231,
+    14.85101,
+    43.37231,
+    14.85101
+],
+  "geometry": {"coordinates":[43.37231,14.85101],"type":"Point"}
+}

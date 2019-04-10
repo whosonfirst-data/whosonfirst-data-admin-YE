@@ -1,0 +1,73 @@
+{
+  "id": 890424825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41621,16.1438,43.41621,16.1438",
+    "geom:latitude":16.1438,
+    "geom:longitude":43.41621,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u064a\u0629 \u0627\u0644\u062d\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Hadiyat Al Hass"
+    ],
+    "qs:name":"\u1e28ad\u012byat al \u1e28ass",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658587,
+        "gp:id":1958568,
+        "qs:id":696402,
+        "wd:id":"Q20304923"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051564,
+    "wof:geomhash":"182a6c58064404be62a9add611c2be0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890424825,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424825,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28ad\u012byat al \u1e28ass",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41621,
+    16.1438,
+    43.41621,
+    16.1438
+],
+  "geometry": {"coordinates":[43.41621,16.1438],"type":"Point"}
+}

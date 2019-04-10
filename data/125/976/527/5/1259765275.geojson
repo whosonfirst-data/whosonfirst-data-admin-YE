@@ -1,0 +1,71 @@
+{
+  "id": 1259765275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56667,15.28333,44.56667,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":44.56667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2316.0",
+    "gn:asciiname":"Bashar",
+    "gn:country_code":"YE",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77069,
+    "gn:latitude":15.28333,
+    "gn:longitude":44.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bash\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bash\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77069
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf01c6e6fbbec615bf17cafcbc3fdd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925799,
+            "locality_id":1259765275,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259765275,
+    "wof:lastmodified":1537715218,
+    "wof:name":"Bashar",
+    "wof:parent_id":1091925799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56667,
+    15.28333,
+    44.56667,
+    15.28333
+],
+  "geometry": {"coordinates":[44.56667,15.28333],"type":"Point"}
+}

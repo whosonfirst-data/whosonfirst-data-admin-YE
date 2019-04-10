@@ -1,0 +1,71 @@
+{
+  "id": 1343935087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25947,14.54888,44.25947,14.54888",
+    "geom:latitude":14.54888,
+    "geom:longitude":44.25947,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Hawbah",
+    "gn:country_code":"YE",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403064,
+    "gn:latitude":14.54888,
+    "gn:longitude":44.25947,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28awbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28awbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403064
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dafd6b77954823a514cbbb436919a897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922371,
+            "locality_id":1343935087,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343935087,
+    "wof:lastmodified":1537715369,
+    "wof:name":"Hawbah",
+    "wof:parent_id":1091922371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25947,
+    14.54888,
+    44.25947,
+    14.54888
+],
+  "geometry": {"coordinates":[44.25947,14.54888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226214109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33333,14.95,44.33333,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":44.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Hassan",
+    "gn:country_code":"YE",
+    "gn:dem":2528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75042,
+    "gn:latitude":14.95,
+    "gn:longitude":44.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ass\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ass\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75042
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95490c220b16d9678fb25a083bf17191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925795,
+            "locality_id":1226214109,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226214109,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Hassan",
+    "wof:parent_id":1091925795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33333,
+    14.95,
+    44.33333,
+    14.95
+],
+  "geometry": {"coordinates":[44.33333,14.95],"type":"Point"}
+}

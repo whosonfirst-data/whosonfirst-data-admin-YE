@@ -1,0 +1,77 @@
+{
+  "id": 1243052583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4187,15.1281,43.4187,15.1281",
+    "geom:latitude":15.1281,
+    "geom:longitude":43.4187,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Mikhsa`",
+    "gn:country_code":"YE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402606,
+    "gn:latitude":15.1281,
+    "gn:longitude":43.4187,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Mikhs\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mikhs\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062e\u0633\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Mikhs\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402606
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aa18524d9b9ec91e9341ee5aad7405ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1243052583,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243052583,
+    "wof:lastmodified":1537715358,
+    "wof:name":"Al Mikhsa`",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4187,
+    15.1281,
+    43.4187,
+    15.1281
+],
+  "geometry": {"coordinates":[43.4187,15.1281],"type":"Point"}
+}

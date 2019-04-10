@@ -1,0 +1,73 @@
+{
+  "id": 890423385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60885,17.22301,44.60885,17.22301",
+    "geom:latitude":17.22301,
+    "geom:longitude":44.60885,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":20,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0628\u0637 \u0627\u0644\u0639\u0637\u0641\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ibt Al 'Atifayn"
+    ],
+    "qs:name":"Ib\u0163 al \u2018A\u0163ifayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687188,
+        "gp:id":12517355,
+        "qs:id":697748,
+        "wd:id":"Q20306102"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051495,
+    "wof:geomhash":"64675d2b51466602391870eb737beb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890423385,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890423385,
+    "wof:lastmodified":1514503294,
+    "wof:name":"Ib\u0163 al \u2018A\u0163ifayn",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60885,
+    17.22301,
+    44.60885,
+    17.22301
+],
+  "geometry": {"coordinates":[44.60885,17.22301],"type":"Point"}
+}

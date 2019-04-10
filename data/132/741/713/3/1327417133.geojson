@@ -1,0 +1,74 @@
+{
+  "id": 1327417133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30656,15.08864,45.30656,15.08864",
+    "geom:latitude":15.08864,
+    "geom:longitude":45.30656,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Al Bahr al A'la",
+    "gn:country_code":"YE",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977329,
+    "gn:latitude":15.08864,
+    "gn:longitude":45.30656,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ba\u1e29r al A\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u0639\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u1e29r al A\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977329
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"99e6ff77507aeefb9c68c1d3e2f9b7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1327417133,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1327417133,
+    "wof:lastmodified":1537716159,
+    "wof:name":"Al Bahr al A'la",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30656,
+    15.08864,
+    45.30656,
+    15.08864
+],
+  "geometry": {"coordinates":[45.30656,15.08864],"type":"Point"}
+}

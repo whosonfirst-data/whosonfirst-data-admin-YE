@@ -1,0 +1,78 @@
+{
+  "id": 1309717923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.57789,17.45532,50.57789,17.45532",
+    "geom:latitude":17.45532,
+    "geom:longitude":50.57789,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1901.0",
+    "gn:asciiname":"Rumah",
+    "gn:country_code":"YE",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7930439,
+    "gn:latitude":17.45532,
+    "gn:longitude":50.57789,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Rum\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Rum\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0645\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0645\u0627\u0647",
+        "Rim\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930439
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6e8e23395ad46d5791548f263a70d6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923113,
+            "locality_id":1309717923,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1309717923,
+    "wof:lastmodified":1537716005,
+    "wof:name":"Rumah",
+    "wof:parent_id":1091923113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.57789,
+    17.45532,
+    50.57789,
+    17.45532
+],
+  "geometry": {"coordinates":[50.57789,17.45532],"type":"Point"}
+}

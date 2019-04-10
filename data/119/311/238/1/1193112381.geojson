@@ -1,0 +1,74 @@
+{
+  "id": 1193112381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99162,16.24865,43.99162,16.24865",
+    "geom:latitude":16.24865,
+    "geom:longitude":43.99162,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Dhu Jarad",
+    "gn:country_code":"YE",
+    "gn:dem":1842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635059,
+    "gn:latitude":16.24865,
+    "gn:longitude":43.99162,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dh\u016b Jar\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648 \u062c\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Dh\u016b Jar\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635059
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1eeb4c3ee9884e9707b6fabce8b4cac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921923,
+            "locality_id":1193112381,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1193112381,
+    "wof:lastmodified":1537716093,
+    "wof:name":"Dhu Jarad",
+    "wof:parent_id":1091921923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99162000000001,
+    16.24865,
+    43.99162000000001,
+    16.24865
+],
+  "geometry": {"coordinates":[43.99162000000001,16.24865],"type":"Point"}
+}

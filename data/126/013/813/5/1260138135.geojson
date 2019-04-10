@@ -1,0 +1,75 @@
+{
+  "id": 1260138135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71679,13.84762,43.71679,13.84762",
+    "geom:latitude":13.84762,
+    "geom:longitude":43.71679,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Shatt al Hinna'",
+    "gn:country_code":"YE",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355663,
+    "gn:latitude":13.84762,
+    "gn:longitude":43.71679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sha\u0163\u0163 al \u1e28inn\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0637 \u0627\u0644\u062d\u0646\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Sha\u0163\u0163 al \u1e28inn\u0101\u2019",
+        "Sha\u0163\u0163 al \u1e28an\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355663
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"692cb72d43c00a4d710f49b6a5c14b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1260138135,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260138135,
+    "wof:lastmodified":1537715646,
+    "wof:name":"Shatt al Hinna'",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71679,
+    13.84762,
+    43.71679,
+    13.84762
+],
+  "geometry": {"coordinates":[43.71679,13.84762],"type":"Point"}
+}

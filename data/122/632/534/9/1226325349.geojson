@@ -1,0 +1,71 @@
+{
+  "id": 1226325349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20839,16.98389,43.20839,16.98389",
+    "geom:latitude":16.98389,
+    "geom:longitude":43.20839,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Izzan",
+    "gn:country_code":"YE",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346142,
+    "gn:latitude":16.98389,
+    "gn:longitude":43.20839,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Izz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Izz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346142
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8ee7e6e98d91e30dd6d20e4a1c4e573c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1226325349,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226325349,
+    "wof:lastmodified":1537715579,
+    "wof:name":"Izzan",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20839,
+    16.98389,
+    43.20839,
+    16.98389
+],
+  "geometry": {"coordinates":[43.20839,16.98389],"type":"Point"}
+}

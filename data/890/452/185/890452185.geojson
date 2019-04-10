@@ -1,0 +1,76 @@
+{
+  "id": 890452185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41183,16.75918,44.41183,16.75918",
+    "geom:latitude":16.75918,
+    "geom:longitude":44.41183,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":62,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "D\u0101sim\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0633\u0645\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Dasimi"
+    ],
+    "qs:name":"D\u0101sim\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795039,
+        "gp:id":1959135,
+        "qs:id":700807,
+        "wd:id":"Q20301977"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052807,
+    "wof:geomhash":"e5783dd6d232b12d0cda370385a8e026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890452185,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890452185,
+    "wof:lastmodified":1514503265,
+    "wof:name":"D\u0101sim\u012b",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41183,
+    16.75918,
+    44.41183,
+    16.75918
+],
+  "geometry": {"coordinates":[44.41183,16.75918],"type":"Point"}
+}

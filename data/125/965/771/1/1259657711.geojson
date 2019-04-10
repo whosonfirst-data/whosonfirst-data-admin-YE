@@ -1,0 +1,74 @@
+{
+  "id": 1259657711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46134,16.91612,44.46134,16.91612",
+    "geom:latitude":16.91612,
+    "geom:longitude":44.46134,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al Misyah",
+    "gn:country_code":"YE",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795016,
+    "gn:latitude":16.91612,
+    "gn:longitude":44.46134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mi\u015fy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u015fy\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0635\u064a\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795016
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5a5b52b689cb04048c01fdeab5522ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1259657711,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1259657711,
+    "wof:lastmodified":1537715997,
+    "wof:name":"Al Misyah",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46134,
+    16.91612000000001,
+    44.46134,
+    16.91612000000001
+],
+  "geometry": {"coordinates":[44.46134,16.91612000000001],"type":"Point"}
+}

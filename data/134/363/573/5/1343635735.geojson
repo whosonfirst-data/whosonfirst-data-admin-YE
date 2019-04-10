@@ -1,0 +1,75 @@
+{
+  "id": 1343635735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23079,14.5181,45.23079,14.5181",
+    "geom:latitude":14.5181,
+    "geom:longitude":45.23079,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Al Hajfah",
+    "gn:country_code":"YE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364552,
+    "gn:latitude":14.5181,
+    "gn:longitude":45.23079,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al \u1e28ajfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ijfah",
+        "Al \u1e28ajfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364552
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7a3ca048eb882a8e301854c3e6216ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919509,
+            "locality_id":1343635735,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1343635735,
+    "wof:lastmodified":1537715902,
+    "wof:name":"Al Hajfah",
+    "wof:parent_id":1091919509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23079,
+    14.5181,
+    45.23079,
+    14.5181
+],
+  "geometry": {"coordinates":[45.23079,14.5181],"type":"Point"}
+}

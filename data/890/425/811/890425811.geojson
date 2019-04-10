@@ -1,0 +1,75 @@
+{
+  "id": 890425811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56758,16.36744,43.56758,16.36744",
+    "geom:latitude":16.36744,
+    "geom:longitude":43.56758,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mil\u1e29\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0644\u062d\u0627\u0646"
+    ],
+    "qs:name":"Mil\u1e29\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849428,
+        "gp:id":1953833,
+        "qs:id":741556,
+        "wd:id":"Q6851806",
+        "wk:page":"Milhan District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051605,
+    "wof:geomhash":"fe527e674f77bed1d02dcecfb0dfe14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890425811,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890425811,
+    "wof:lastmodified":1527727166,
+    "wof:name":"Mil\u1e29\u0101n",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56758,
+    16.36744,
+    43.56758,
+    16.36744
+],
+  "geometry": {"coordinates":[43.56758,16.36744],"type":"Point"}
+}

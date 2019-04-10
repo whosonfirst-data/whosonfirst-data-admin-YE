@@ -1,0 +1,71 @@
+{
+  "id": 1344019913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63688,16.18849,43.63688,16.18849",
+    "geom:latitude":16.18849,
+    "geom:longitude":43.63688,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Al Masalim",
+    "gn:country_code":"YE",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363488,
+    "gn:latitude":16.18849,
+    "gn:longitude":43.63688,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mas\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mas\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363488
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0011bce0a03662f4bcf231986b26b0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921649,
+            "locality_id":1344019913,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344019913,
+    "wof:lastmodified":1537715874,
+    "wof:name":"Al Masalim",
+    "wof:parent_id":1091921649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63688,
+    16.18849,
+    43.63688,
+    16.18849
+],
+  "geometry": {"coordinates":[43.63688,16.18849],"type":"Point"}
+}

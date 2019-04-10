@@ -1,0 +1,75 @@
+{
+  "id": 1209798249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42701,16.85044,43.42701,16.85044",
+    "geom:latitude":16.85044,
+    "geom:longitude":43.42701,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Al Himayl",
+    "gn:country_code":"YE",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346375,
+    "gn:latitude":16.85044,
+    "gn:longitude":43.42701,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Himayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0645\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Asal Himayl",
+        "Al Himayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346375
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3455b8ddc2f6b9f13f24ce3c57d78129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1209798249,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209798249,
+    "wof:lastmodified":1537715589,
+    "wof:name":"Al Himayl",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42701,
+    16.85044,
+    43.42701,
+    16.85044
+],
+  "geometry": {"coordinates":[43.42701,16.85044],"type":"Point"}
+}

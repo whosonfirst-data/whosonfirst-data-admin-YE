@@ -1,0 +1,75 @@
+{
+  "id": 1209800049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5321,13.92211,43.5321,13.92211",
+    "geom:latitude":13.92211,
+    "geom:longitude":43.5321,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1819.0",
+    "gn:asciiname":"Qaryat an Nazali",
+    "gn:country_code":"YE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407623,
+    "gn:latitude":13.92211,
+    "gn:longitude":43.5321,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat an Naz\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat an Naz\u0101l\u012b",
+        "An Naz\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407623
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"321390931ed2af3372f556c8ae51dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920423,
+            "locality_id":1209800049,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209800049,
+    "wof:lastmodified":1537715398,
+    "wof:name":"Qaryat an Nazali",
+    "wof:parent_id":1091920423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5321,
+    13.92211,
+    43.5321,
+    13.92211
+],
+  "geometry": {"coordinates":[43.5321,13.92211],"type":"Point"}
+}

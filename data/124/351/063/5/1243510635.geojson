@@ -1,0 +1,71 @@
+{
+  "id": 1243510635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36042,16.17977,43.36042,16.17977",
+    "geom:latitude":16.17977,
+    "geom:longitude":43.36042,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Mushaf",
+    "gn:country_code":"YE",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354919,
+    "gn:latitude":16.17977,
+    "gn:longitude":43.36042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mush\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mush\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354919
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"74c0db8d3bf7331395b111e0f3a8b03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1243510635,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243510635,
+    "wof:lastmodified":1537716043,
+    "wof:name":"Al Mushaf",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36042,
+    16.17977,
+    43.36042,
+    16.17977
+],
+  "geometry": {"coordinates":[43.36042,16.17977],"type":"Point"}
+}

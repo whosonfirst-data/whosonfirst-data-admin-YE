@@ -1,0 +1,73 @@
+{
+  "id": 890448389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72244,16.26429,43.72244,16.26429",
+    "geom:latitude":16.26429,
+    "geom:longitude":43.72244,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":49,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0644\u0627\u0628\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Misalabi"
+    ],
+    "qs:name":"Al Mis\u0101lab\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849455,
+        "gp:id":1953833,
+        "qs:id":741582,
+        "wd:id":"Q20301239"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052629,
+    "wof:geomhash":"2292be40e0360d7da24e9d8ae9b3f533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":890448389,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890448389,
+    "wof:lastmodified":1514503190,
+    "wof:name":"Al Mis\u0101lab\u012b",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72244,
+    16.26429,
+    43.72244,
+    16.26429
+],
+  "geometry": {"coordinates":[43.72244,16.26429],"type":"Point"}
+}

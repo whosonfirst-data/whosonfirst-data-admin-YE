@@ -1,0 +1,74 @@
+{
+  "id": 1343927521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29814,16.83369,43.29814,16.83369",
+    "geom:latitude":16.83369,
+    "geom:longitude":43.29814,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Al Jallah",
+    "gn:country_code":"YE",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926764,
+    "gn:latitude":16.83369,
+    "gn:longitude":43.29814,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jallah",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926764
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"11da538feeaf1685913542633c2a0759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1343927521,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1343927521,
+    "wof:lastmodified":1537716004,
+    "wof:name":"Al Jallah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29814,
+    16.83369,
+    43.29814,
+    16.83369
+],
+  "geometry": {"coordinates":[43.29814,16.83369],"type":"Point"}
+}

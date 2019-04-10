@@ -1,0 +1,74 @@
+{
+  "id": 1327465837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77333,15.31583,48.77333,15.31583",
+    "geom:latitude":15.31583,
+    "geom:longitude":48.77333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1909.0",
+    "gn:asciiname":"Ni`aydah",
+    "gn:country_code":"YE",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72196,
+    "gn:latitude":15.31583,
+    "gn:longitude":48.77333,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Ni\u2018aydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u2018aidah",
+        "Ni\u2018aydah",
+        "Nu\u2018aydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72196,
+        "wk:page":"Ni%60aydah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"debd30e29abc896a606dac3e0d48af40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923127,
+            "locality_id":1327465837,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327465837,
+    "wof:lastmodified":1537715110,
+    "wof:name":"Ni`aydah",
+    "wof:parent_id":1091923127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77333,
+    15.31583,
+    48.77333,
+    15.31583
+],
+  "geometry": {"coordinates":[48.77333,15.31583],"type":"Point"}
+}

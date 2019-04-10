@@ -1,0 +1,73 @@
+{
+  "id": 890414873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62481,16.25175,43.62481,16.25175",
+    "geom:latitude":16.25175,
+    "geom:longitude":43.62481,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0642\u0644\u064a\u0629 \u0627\u0644\u0648\u0627\u0633\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Aqiliyah Al Wasitah"
+    ],
+    "qs:name":"Al \u2018\u0100qil\u012byah al W\u0101si\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849417,
+        "gp:id":1959128,
+        "qs:id":741546,
+        "wd:id":"Q20301833"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051065,
+    "wof:geomhash":"1add215e7602f15d4ae5ce6394907592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921649,
+            "locality_id":890414873,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414873,
+    "wof:lastmodified":1514503213,
+    "wof:name":"Al \u2018\u0100qil\u012byah al W\u0101si\u0163ah",
+    "wof:parent_id":1091921649,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62481,
+    16.25175,
+    43.62481,
+    16.25175
+],
+  "geometry": {"coordinates":[43.62481,16.25175],"type":"Point"}
+}

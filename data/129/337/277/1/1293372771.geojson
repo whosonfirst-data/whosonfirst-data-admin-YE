@@ -1,0 +1,74 @@
+{
+  "id": 1293372771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68398,17.01063,43.68398,17.01063",
+    "geom:latitude":17.01063,
+    "geom:longitude":43.68398,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Jildan",
+    "gn:country_code":"YE",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345391,
+    "gn:latitude":17.01063,
+    "gn:longitude":43.68398,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jild\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jild\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0644\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345391
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0de240125d4f296e6715794800c7f920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1293372771,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293372771,
+    "wof:lastmodified":1537715558,
+    "wof:name":"Jildan",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68398,
+    17.01063,
+    43.68398,
+    17.01063
+],
+  "geometry": {"coordinates":[43.68398,17.01063],"type":"Point"}
+}

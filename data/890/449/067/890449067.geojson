@@ -1,0 +1,73 @@
+{
+  "id": 890449067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68011,16.07722,43.68011,16.07722",
+    "geom:latitude":16.07722,
+    "geom:longitude":43.68011,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0641\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sawfan"
+    ],
+    "qs:name":"\u015eawf\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020510,
+        "gp:id":1959046,
+        "qs:id":749860,
+        "wd:id":"Q20307114"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052666,
+    "wof:geomhash":"e4c3872d99d80c48afb7147ced440caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890449067,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890449067,
+    "wof:lastmodified":1514503394,
+    "wof:name":"\u015eawf\u0101n",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68011,
+    16.07722,
+    43.68011,
+    16.07722
+],
+  "geometry": {"coordinates":[43.68011,16.07722],"type":"Point"}
+}

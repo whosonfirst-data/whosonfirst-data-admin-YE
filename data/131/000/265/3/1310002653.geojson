@@ -1,0 +1,74 @@
+{
+  "id": 1310002653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06984,14.73418,43.06984,14.73418",
+    "geom:latitude":14.73418,
+    "geom:longitude":43.06984,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1814.0",
+    "gn:asciiname":"Al Jama'i",
+    "gn:country_code":"YE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058356,
+    "gn:latitude":14.73418,
+    "gn:longitude":43.06984,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jam\u0101\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0627\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Jam\u0101\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058356
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3f70ddad0f42cefb83fae8622c5314f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919869,
+            "locality_id":1310002653,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310002653,
+    "wof:lastmodified":1537716336,
+    "wof:name":"Al Jama'i",
+    "wof:parent_id":1091919869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06984,
+    14.73418,
+    43.06984,
+    14.73418
+],
+  "geometry": {"coordinates":[43.06984,14.73418],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259771253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07388,14.63453,44.07388,14.63453",
+    "geom:latitude":14.63453,
+    "geom:longitude":44.07388,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Shiryaf",
+    "gn:country_code":"YE",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300356,
+    "gn:latitude":14.63453,
+    "gn:longitude":44.07388,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shiry\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shiry\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300356
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cda0253c0dc2fbade6a5004ceeaef5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922231,
+            "locality_id":1259771253,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1259771253,
+    "wof:lastmodified":1537716033,
+    "wof:name":"Shiryaf",
+    "wof:parent_id":1091922231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07388,
+    14.63453,
+    44.07388,
+    14.63453
+],
+  "geometry": {"coordinates":[44.07388,14.63453],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226339047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23416,15.37233,43.23416,15.37233",
+    "geom:latitude":15.37233,
+    "geom:longitude":43.23416,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Al Mash`abi",
+    "gn:country_code":"YE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365042,
+    "gn:latitude":15.37233,
+    "gn:longitude":43.23416,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Mash\u2018ab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0639\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Mish\u2018ab\u012b",
+        "Al Mash\u2018ab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365042
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da87d2c76317ce04ef396150a6524ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1226339047,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226339047,
+    "wof:lastmodified":1537715916,
+    "wof:name":"Al Mash`abi",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23416,
+    15.37233,
+    43.23416,
+    15.37233
+],
+  "geometry": {"coordinates":[43.23416,15.37233],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259472983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14399,15.21082,43.14399,15.21082",
+    "geom:latitude":15.21082,
+    "geom:longitude":43.14399,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1809.0",
+    "gn:asciiname":"Az Zibl",
+    "gn:country_code":"YE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036123,
+    "gn:latitude":15.21082,
+    "gn:longitude":43.14399,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Zibl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036123
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9031060b194dba47b104c87523f07ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919835,
+            "locality_id":1259472983,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259472983,
+    "wof:lastmodified":1537716310,
+    "wof:name":"Az Zibl",
+    "wof:parent_id":1091919835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14399,
+    15.21082,
+    43.14399,
+    15.21082
+],
+  "geometry": {"coordinates":[43.14399,15.21082],"type":"Point"}
+}

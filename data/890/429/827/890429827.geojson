@@ -1,0 +1,75 @@
+{
+  "id": 890429827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4068,16.14602,43.4068,16.14602",
+    "geom:latitude":16.14602,
+    "geom:longitude":43.4068,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mir\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0631\u0627\u0634\u0649"
+    ],
+    "qs:name":"Al Mir\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":323,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658548,
+        "gp:id":1958568,
+        "qs:id":696365,
+        "wd:id":"Q2438558",
+        "wk:page":"Taleqan County"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051830,
+    "wof:geomhash":"4c4fed0802778a130b39dd6aacfa6611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890429827,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890429827,
+    "wof:lastmodified":1527792787,
+    "wof:name":"Al Mir\u0101sh",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4068,
+    16.14602,
+    43.4068,
+    16.14602
+],
+  "geometry": {"coordinates":[43.4068,16.14602],"type":"Point"}
+}

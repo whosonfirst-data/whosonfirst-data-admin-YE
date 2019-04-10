@@ -1,0 +1,71 @@
+{
+  "id": 1243057693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25023,14.74055,43.25023,14.74055",
+    "geom:latitude":14.74055,
+    "geom:longitude":43.25023,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Az Za`awir al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340934,
+    "gn:latitude":14.74055,
+    "gn:longitude":43.25023,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Az Za\u2018\u0101wir al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Za\u2018\u0101wir al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340934
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d3849a8bf1ddc114dd3ca172bf7a2942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1243057693,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243057693,
+    "wof:lastmodified":1537715466,
+    "wof:name":"Az Za`awir al `Ulya",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25023,
+    14.74055,
+    43.25023,
+    14.74055
+],
+  "geometry": {"coordinates":[43.25023,14.74055],"type":"Point"}
+}

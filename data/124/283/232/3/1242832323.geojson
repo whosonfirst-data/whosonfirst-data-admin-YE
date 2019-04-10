@@ -1,0 +1,71 @@
+{
+  "id": 1242832323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15857,14.24717,44.15857,14.24717",
+    "geom:latitude":14.24717,
+    "geom:longitude":44.15857,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Dima'",
+    "gn:country_code":"YE",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360048,
+    "gn:latitude":14.24717,
+    "gn:longitude":44.15857,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e10im\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10im\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360048
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6871a101a7bf9e86d612991ee1619582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1242832323,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242832323,
+    "wof:lastmodified":1537715789,
+    "wof:name":"Dima'",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15857000000001,
+    14.24717,
+    44.15857000000001,
+    14.24717
+],
+  "geometry": {"coordinates":[44.15857000000001,14.24717],"type":"Point"}
+}

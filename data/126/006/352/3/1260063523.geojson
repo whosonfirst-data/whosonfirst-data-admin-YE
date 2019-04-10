@@ -1,0 +1,75 @@
+{
+  "id": 1260063523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05359,15.73329,45.05359,15.73329",
+    "geom:latitude":15.73329,
+    "geom:longitude":45.05359,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Hazmat Al Zaba`",
+    "gn:country_code":"YE",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341399,
+    "gn:latitude":15.73329,
+    "gn:longitude":45.05359,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u1e28azmat \u0100l Zaba\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28azmat \u0100l Zaba\u2018",
+        "Al \u1e28azmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341399
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4055cc32fe684d550090200e8fe7e5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925257,
+            "locality_id":1260063523,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260063523,
+    "wof:lastmodified":1537715480,
+    "wof:name":"Hazmat Al Zaba`",
+    "wof:parent_id":1091925257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05359,
+    15.73329,
+    45.05359,
+    15.73329
+],
+  "geometry": {"coordinates":[45.05359,15.73329],"type":"Point"}
+}

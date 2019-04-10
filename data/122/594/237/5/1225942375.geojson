@@ -1,0 +1,69 @@
+{
+  "id": 1225942375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73507,14.89279,45.73507,14.89279",
+    "geom:latitude":14.89279,
+    "geom:longitude":45.73507,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Ar Rukbah",
+    "gn:country_code":"YE",
+    "gn:dem":1103,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78075,
+    "gn:latitude":14.89279,
+    "gn:longitude":45.73507,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Rukbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"604ea764cde05637c900b5e18aa46e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1225942375,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1225942375,
+    "wof:lastmodified":1536873273,
+    "wof:name":"Ar Rukbah",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73507,
+    14.89279,
+    45.73507,
+    14.89279
+],
+  "geometry": {"coordinates":[45.73507,14.89279],"type":"Point"}
+}

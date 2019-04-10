@@ -1,0 +1,81 @@
+{
+  "id": 1242635887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.77692,16.16406,44.77692,16.16406",
+    "geom:latitude":16.16406,
+    "geom:longitude":44.77692,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1605.0",
+    "gn:asciiname":"Al Hazm",
+    "gn:country_code":"YE",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":79455,
+    "gn:latitude":16.16406,
+    "gn:longitude":44.77692,
+    "gn:modification_date":"2013-08-11",
+    "gn:name":"Al \u1e28azm",
+    "gn:population":18241,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24azm",
+        "Hazm",
+        "Al \u1e28azm",
+        "\u1e28azm al Jawf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79455,
+        "wk:page":"Al_Hazm,_Yemen"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4c0e4ca900d981ec2cd35537dc1d7516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":1242635887,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1242635887,
+    "wof:lastmodified":1537715302,
+    "wof:name":"Al Hazm",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:population":18241,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.77692,
+    16.16406,
+    44.77692,
+    16.16406
+],
+  "geometry": {"coordinates":[44.77692,16.16406],"type":"Point"}
+}

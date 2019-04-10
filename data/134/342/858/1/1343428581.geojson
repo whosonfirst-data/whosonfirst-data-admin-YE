@@ -1,0 +1,74 @@
+{
+  "id": 1343428581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34278,13.49306,44.34278,13.49306",
+    "geom:latitude":13.49306,
+    "geom:longitude":44.34278,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Umm Midfanah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78826,
+    "gn:latitude":13.49306,
+    "gn:longitude":44.34278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm Midf\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Midf\u0101nah",
+        "Am Midf\u0101nah",
+        "Umm Midf\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78826
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"30cc8988e5242631ed0569052bab5736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1343428581,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343428581,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Umm Midfanah",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34278,
+    13.49306,
+    44.34278,
+    13.49306
+],
+  "geometry": {"coordinates":[44.34278,13.49306],"type":"Point"}
+}

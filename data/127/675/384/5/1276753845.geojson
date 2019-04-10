@@ -1,0 +1,74 @@
+{
+  "id": 1276753845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48152,14.87806,43.48152,14.87806",
+    "geom:latitude":14.87806,
+    "geom:longitude":43.48152,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Tasham",
+    "gn:country_code":"YE",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058551,
+    "gn:latitude":14.87806,
+    "gn:longitude":43.48152,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tash\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tash\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058551
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9fbd22e8e78bd73d8687cdb4cd1edf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1276753845,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276753845,
+    "wof:lastmodified":1537716343,
+    "wof:name":"Tasham",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48152,
+    14.87806,
+    43.48152,
+    14.87806
+],
+  "geometry": {"coordinates":[43.48152,14.87806],"type":"Point"}
+}

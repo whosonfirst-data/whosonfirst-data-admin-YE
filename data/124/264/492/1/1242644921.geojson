@@ -1,0 +1,71 @@
+{
+  "id": 1242644921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87889,13.71167,43.87889,13.71167",
+    "geom:latitude":13.71167,
+    "geom:longitude":43.87889,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Al Unaysiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407825,
+    "gn:latitude":13.71167,
+    "gn:longitude":43.87889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Unays\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Unays\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407825
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8f0dbde6df14f747cc8b1fac84e43978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1242644921,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242644921,
+    "wof:lastmodified":1537715405,
+    "wof:name":"Al Unaysiyah",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87889000000001,
+    13.71167,
+    43.87889000000001,
+    13.71167
+],
+  "geometry": {"coordinates":[43.87889000000001,13.71167],"type":"Point"}
+}

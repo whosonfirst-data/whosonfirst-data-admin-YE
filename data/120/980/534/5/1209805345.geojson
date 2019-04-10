@@ -1,0 +1,74 @@
+{
+  "id": 1209805345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46933,14.89147,43.46933,14.89147",
+    "geom:latitude":14.89147,
+    "geom:longitude":43.46933,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Wadi 'Inab",
+    "gn:country_code":"YE",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058634,
+    "gn:latitude":14.89147,
+    "gn:longitude":43.46933,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"W\u0101d\u012b \u2018Inab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0639\u0646\u0628"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b \u2018Inab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058634
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"05d0182129fa54bde9127a6da8b95fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1209805345,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209805345,
+    "wof:lastmodified":1537716347,
+    "wof:name":"Wadi 'Inab",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46933,
+    14.89147,
+    43.46933,
+    14.89147
+],
+  "geometry": {"coordinates":[43.46933,14.89147],"type":"Point"}
+}

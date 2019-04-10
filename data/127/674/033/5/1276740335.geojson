@@ -1,0 +1,71 @@
+{
+  "id": 1276740335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44279,14.7558,44.44279,14.7558",
+    "geom:latitude":14.7558,
+    "geom:longitude":44.44279,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Bayt as Sulayhi",
+    "gn:country_code":"YE",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361122,
+    "gn:latitude":14.7558,
+    "gn:longitude":44.44279,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt a\u015f \u015eulay\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt a\u015f \u015eulay\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361122
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cbfb5136bb934fb7251eba7a4b84404d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1276740335,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1276740335,
+    "wof:lastmodified":1537715812,
+    "wof:name":"Bayt as Sulayhi",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44279,
+    14.7558,
+    44.44279,
+    14.7558
+],
+  "geometry": {"coordinates":[44.44279,14.7558],"type":"Point"}
+}

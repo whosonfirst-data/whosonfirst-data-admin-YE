@@ -1,0 +1,74 @@
+{
+  "id": 1210011871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07079,15.33324,43.07079,15.33324",
+    "geom:latitude":15.33324,
+    "geom:longitude":43.07079,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Hadi Muhammad Shahri",
+    "gn:country_code":"YE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035984,
+    "gn:latitude":15.33324,
+    "gn:longitude":43.07079,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"H\u0101d\u012b Mu\u1e29ammad Sha\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u062f\u064a \u0645\u062d\u0645\u062f \u0634\u062d\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "H\u0101d\u012b Mu\u1e29ammad Sha\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035984
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3bc96cf81c622efc80895289f1cbdf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1210011871,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1210011871,
+    "wof:lastmodified":1537716304,
+    "wof:name":"Hadi Muhammad Shahri",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07079,
+    15.33324,
+    43.07079,
+    15.33324
+],
+  "geometry": {"coordinates":[43.07079,15.33324],"type":"Point"}
+}

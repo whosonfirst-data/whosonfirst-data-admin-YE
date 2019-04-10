@@ -1,0 +1,85 @@
+{
+  "id": 1126038239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7308,16.08818,43.7308,16.08818",
+    "geom:latitude":16.08818,
+    "geom:longitude":43.7308,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"YE",
+    "lbl:latitude":16.08818,
+    "lbl:longitude":43.7308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0645\u062d\u0631\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Al Mahras"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8020589,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Bayt al Ma\u1e29ras",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":749934,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020589,
+        "qs_pg:id":749934,
+        "wd:id":"Q20299915"
+    },
+    "wof:country":"YE",
+    "wof:created":1497301938,
+    "wof:geomhash":"550c8f77e8db7cc0e1c30881dddd1e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1126038239,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126038239,
+    "wof:lastmodified":1514503248,
+    "wof:name":"Bayt al Ma\u1e29ras",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7308,
+    16.08818,
+    43.7308,
+    16.08818
+],
+  "geometry": {"coordinates":[43.7308,16.08818],"type":"Point"}
+}

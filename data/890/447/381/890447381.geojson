@@ -1,0 +1,73 @@
+{
+  "id": 890447381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43217,16.43237,43.43217,16.43237",
+    "geom:latitude":16.43237,
+    "geom:longitude":43.43217,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646 \u0642\u0639\u0644\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Qarn Fa'lal"
+    ],
+    "qs:name":"Qarn Fa\u2018lal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755373,
+        "gp:id":1959057,
+        "qs:id":698654,
+        "wd:id":"Q20305506"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052589,
+    "wof:geomhash":"848abd5feff54e8c4f7c0d860c013d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890447381,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447381,
+    "wof:lastmodified":1514503333,
+    "wof:name":"Qarn Fa\u2018lal",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43217,
+    16.43237,
+    43.43217,
+    16.43237
+],
+  "geometry": {"coordinates":[43.43217,16.43237],"type":"Point"}
+}

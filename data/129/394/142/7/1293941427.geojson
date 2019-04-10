@@ -1,0 +1,68 @@
+{
+  "id": 1293941427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21484,13.93593,44.21484,13.93593",
+    "geom:latitude":13.93593,
+    "geom:longitude":44.21484,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Al Mandam",
+    "gn:country_code":"YE",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356557,
+    "gn:latitude":13.93593,
+    "gn:longitude":44.21484,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mandam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356557
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a0679774c7500a78fe7eafa8dbe7c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1293941427,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293941427,
+    "wof:lastmodified":1536628253,
+    "wof:name":"Al Mandam",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21484,
+    13.93593,
+    44.21484,
+    13.93593
+],
+  "geometry": {"coordinates":[44.21484,13.93593],"type":"Point"}
+}

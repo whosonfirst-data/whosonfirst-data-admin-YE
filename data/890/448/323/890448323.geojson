@@ -1,0 +1,83 @@
+{
+  "id": 890448323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38943,16.53119,44.38943,16.53119",
+    "geom:latitude":16.53119,
+    "geom:longitude":44.38943,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0648\u062f\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jawwah As Sawda"
+    ],
+    "name:unk_x_variant":[
+        "As Sawd\u0101\u2019"
+    ],
+    "qs:name":"Al Jawwah as Sawd\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051975,
+        "gp:id":1958965,
+        "qs:id":700843,
+        "qs_pg:id":751353,
+        "wd:id":"Q20303244"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052627,
+    "wof:geomhash":"a99baf5a234fbc0c4cb13b65064a32f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":890448323,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890448323,
+    "wof:lastmodified":1514503160,
+    "wof:name":"Al Jawwah as Sawd\u0101\u2019",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38943,
+    16.53119,
+    44.38943,
+    16.53119
+],
+  "geometry": {"coordinates":[44.38943,16.53119],"type":"Point"}
+}

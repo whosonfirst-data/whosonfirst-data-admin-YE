@@ -1,0 +1,74 @@
+{
+  "id": 1293852693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62474,15.56443,43.62474,15.56443",
+    "geom:latitude":15.56443,
+    "geom:longitude":43.62474,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Az Zawariq",
+    "gn:country_code":"YE",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980554,
+    "gn:latitude":15.56443,
+    "gn:longitude":43.62474,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Zaw\u0101riq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Az Zaw\u0101riq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980554
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5b0c4c77dc393307583dedf8ea05ef55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1293852693,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293852693,
+    "wof:lastmodified":1537716173,
+    "wof:name":"Az Zawariq",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62474,
+    15.56443,
+    43.62474,
+    15.56443
+],
+  "geometry": {"coordinates":[43.62474,15.56443],"type":"Point"}
+}

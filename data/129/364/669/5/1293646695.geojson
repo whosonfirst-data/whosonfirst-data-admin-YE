@@ -1,0 +1,73 @@
+{
+  "id": 1293646695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,13.45,44.61667,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Al Qahirah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78693,
+    "gn:latitude":13.45,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Q\u0101hirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kahira",
+        "Al Q\u0101hirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78693
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"01f3f4ffce2ad825aa6ce26e30d57887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924843,
+            "locality_id":1293646695,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293646695,
+    "wof:lastmodified":1537715267,
+    "wof:name":"Al Qahirah",
+    "wof:parent_id":1091924843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    13.45,
+    44.61667,
+    13.45
+],
+  "geometry": {"coordinates":[44.61667,13.45],"type":"Point"}
+}

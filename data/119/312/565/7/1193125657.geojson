@@ -1,0 +1,71 @@
+{
+  "id": 1193125657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82979,15.41459,43.82979,15.41459",
+    "geom:latitude":15.41459,
+    "geom:longitude":43.82979,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Mahadan",
+    "gn:country_code":"YE",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402532,
+    "gn:latitude":15.41459,
+    "gn:longitude":43.82979,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29a\u1e11\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29a\u1e11\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402532
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"825222850b1ef25509a0712e71fd2ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921213,
+            "locality_id":1193125657,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1193125657,
+    "wof:lastmodified":1537715356,
+    "wof:name":"Mahadan",
+    "wof:parent_id":1091921213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82979,
+    15.41459,
+    43.82979,
+    15.41459
+],
+  "geometry": {"coordinates":[43.82979,15.41459],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310658627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4,13.91667,44.4,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":44.4,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Akamat",
+    "gn:country_code":"YE",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80084,
+    "gn:latitude":13.91667,
+    "gn:longitude":44.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Akam\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akam\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80084
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c754d6d830f4ef65d5858a30e75a41b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1310658627,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310658627,
+    "wof:lastmodified":1537715328,
+    "wof:name":"Akamat",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4,
+    13.91667,
+    44.4,
+    13.91667
+],
+  "geometry": {"coordinates":[44.4,13.91667],"type":"Point"}
+}

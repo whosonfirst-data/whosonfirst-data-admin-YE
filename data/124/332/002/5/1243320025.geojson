@@ -1,0 +1,74 @@
+{
+  "id": 1243320025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44284,16.06704,44.44284,16.06704",
+    "geom:latitude":16.06704,
+    "geom:longitude":44.44284,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Darar",
+    "gn:country_code":"YE",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974857,
+    "gn:latitude":16.06704,
+    "gn:longitude":44.44284,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dar\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dar\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974857
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"349d88750b5eceadf4d71671223f3e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1243320025,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1243320025,
+    "wof:lastmodified":1537716114,
+    "wof:name":"Darar",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44284,
+    16.06704,
+    44.44284,
+    16.06704
+],
+  "geometry": {"coordinates":[44.44284,16.06704],"type":"Point"}
+}

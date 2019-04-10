@@ -1,0 +1,75 @@
+{
+  "id": 1293473203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20904,14.95993,45.20904,14.95993",
+    "geom:latitude":14.95993,
+    "geom:longitude":45.20904,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Al 'Arsh",
+    "gn:country_code":"YE",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308895,
+    "gn:latitude":14.95993,
+    "gn:longitude":45.20904,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Arsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0634"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Arsh",
+        "Al \u2018Ursh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"742430ee93729e7646e9d547dc623304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1293473203,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293473203,
+    "wof:lastmodified":1537716040,
+    "wof:name":"Al 'Arsh",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20904,
+    14.95993,
+    45.20904,
+    14.95993
+],
+  "geometry": {"coordinates":[45.20904,14.95993],"type":"Point"}
+}

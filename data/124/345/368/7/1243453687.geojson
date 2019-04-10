@@ -1,0 +1,76 @@
+{
+  "id": 1243453687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88444,15.69194,48.88444,15.69194",
+    "geom:latitude":15.69194,
+    "geom:longitude":48.88444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1909.0",
+    "gn:asciiname":"Ar Rawuk",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78129,
+    "gn:latitude":15.69194,
+    "gn:longitude":48.88444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar R\u0101wuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar R\u0101wuk"
+    ],
+    "name:und_x_variant":[
+        "Al-R\u0101wuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78129,
+        "wk:page":"Ar_Rawuk"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"641be48a3c748d709168d46f56badb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923127,
+            "locality_id":1243453687,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243453687,
+    "wof:lastmodified":1537715249,
+    "wof:name":"Ar Rawuk",
+    "wof:parent_id":1091923127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88444000000001,
+    15.69194,
+    48.88444000000001,
+    15.69194
+],
+  "geometry": {"coordinates":[48.88444000000001,15.69194],"type":"Point"}
+}

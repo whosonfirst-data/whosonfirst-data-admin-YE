@@ -1,0 +1,73 @@
+{
+  "id": 890425601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31151,16.7433,44.31151,16.7433",
+    "geom:latitude":16.7433,
+    "geom:longitude":44.31151,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Mawdan"
+    ],
+    "qs:name":"Mawd\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795088,
+        "gp:id":1959135,
+        "qs:id":700855,
+        "wd:id":"Q20301436"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051596,
+    "wof:geomhash":"46f8567896ce778e3c92028bf251040a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425601,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425601,
+    "wof:lastmodified":1514503323,
+    "wof:name":"Mawd\u0101n",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31151,
+    16.7433,
+    44.31151,
+    16.7433
+],
+  "geometry": {"coordinates":[44.31151,16.7433],"type":"Point"}
+}

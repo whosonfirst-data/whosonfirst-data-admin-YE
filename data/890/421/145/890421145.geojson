@@ -1,0 +1,73 @@
+{
+  "id": 890421145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76057,13.30066,43.76057,13.30066",
+    "geom:latitude":13.30066,
+    "geom:longitude":43.76057,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":26,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u062d\u0627\u062c\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mazhajah"
+    ],
+    "qs:name":"Al Maz\u1e29\u0101jah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069282,
+        "gp:id":1953407,
+        "qs:id":753457,
+        "wd:id":"Q20300317"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051375,
+    "wof:geomhash":"3d6f1a4371eca6190349443ae6f38904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":890421145,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421145,
+    "wof:lastmodified":1514503186,
+    "wof:name":"Al Maz\u1e29\u0101jah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76057,
+    13.30066,
+    43.76057,
+    13.30066
+],
+  "geometry": {"coordinates":[43.76057,13.30066],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293198797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23461,15.0728,47.23461,15.0728",
+    "geom:latitude":15.0728,
+    "geom:longitude":47.23461,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Luddat Shayhan",
+    "gn:country_code":"YE",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73451,
+    "gn:latitude":15.0728,
+    "gn:longitude":47.23461,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Luddat Shay\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ludda Shai\u1e25\u0101n",
+        "Ludda Shay\u1e29\u0101n",
+        "Luddat Shay\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73451
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc613ebe15a81f189d607461adf1162f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925929,
+            "locality_id":1293198797,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1293198797,
+    "wof:lastmodified":1537715135,
+    "wof:name":"Luddat Shayhan",
+    "wof:parent_id":1091925929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23461,
+    15.0728,
+    47.23461,
+    15.0728
+],
+  "geometry": {"coordinates":[47.23461,15.0728],"type":"Point"}
+}

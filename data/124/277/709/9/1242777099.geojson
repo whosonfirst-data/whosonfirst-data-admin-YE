@@ -1,0 +1,73 @@
+{
+  "id": 1242777099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96364,16.26998,47.96364,16.26998",
+    "geom:latitude":16.26998,
+    "geom:longitude":47.96364,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hisn Bin Quwaynas",
+    "gn:country_code":"YE",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11501915,
+    "gn:latitude":16.26998,
+    "gn:longitude":47.96364,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u1e28i\u015fn Bin Quwayna\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646 \u0628\u0646 \u0642\u0648\u064a\u0646\u0635"
+    ],
+    "name:und_x_variant":[
+        "\u1e28i\u015fn Bin Quwayna\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11501915
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"379b4e766b3a1aa948257fc5b75b6ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1242777099,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1242777099,
+    "wof:lastmodified":1537716359,
+    "wof:name":"Hisn Bin Quwaynas",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96364000000001,
+    16.26998,
+    47.96364000000001,
+    16.26998
+],
+  "geometry": {"coordinates":[47.96364000000001,16.26998],"type":"Point"}
+}

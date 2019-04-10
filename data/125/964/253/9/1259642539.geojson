@@ -1,0 +1,71 @@
+{
+  "id": 1259642539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70385,13.97299,45.70385,13.97299",
+    "geom:latitude":13.97299,
+    "geom:longitude":45.70385,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Am Hijlah",
+    "gn:country_code":"YE",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029412,
+    "gn:latitude":13.97299,
+    "gn:longitude":45.70385,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Am \u1e28ijlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am \u1e28ijlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029412
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8483af8a126c265adf9c51824b3c3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1259642539,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1259642539,
+    "wof:lastmodified":1537716008,
+    "wof:name":"Am Hijlah",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70385,
+    13.97299,
+    45.70385,
+    13.97299
+],
+  "geometry": {"coordinates":[45.70385,13.97299],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243505209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.97297,12.46504,53.97297,12.46504",
+    "geom:latitude":12.46504,
+    "geom:longitude":53.97297,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Di-Kilibah",
+    "gn:country_code":"YE",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76035,
+    "gn:latitude":12.46504,
+    "gn:longitude":53.97297,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Di-K\u012blibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gallaba",
+        "Di-K\u012blibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76035
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aa3c4d9e79af5f5721d6657827dd16e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243505209,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243505209,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243505209,
+    "wof:lastmodified":1537715186,
+    "wof:name":"Di-Kilibah",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.97297,
+    12.46504,
+    53.97297,
+    12.46504
+],
+  "geometry": {"coordinates":[53.97297,12.46504],"type":"Point"}
+}

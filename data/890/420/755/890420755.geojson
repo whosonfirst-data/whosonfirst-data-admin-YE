@@ -1,0 +1,76 @@
+{
+  "id": 890420755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26619,17.38285,43.26619,17.38285",
+    "geom:latitude":17.38285,
+    "geom:longitude":43.26619,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "At Tir\u2018\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0631\u0639\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "At Tir'an"
+    ],
+    "qs:name":"At Tir\u2018\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856557,
+        "gp:id":56447933,
+        "qs:id":742477,
+        "wd:id":"Q20305217"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051360,
+    "wof:geomhash":"53bab7064d7f48884dd7c92b538670b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890420755,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420755,
+    "wof:lastmodified":1514503233,
+    "wof:name":"At Tir\u2018\u0101n",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26619,
+    17.38285,
+    43.26619,
+    17.38285
+],
+  "geometry": {"coordinates":[43.26619,17.38285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42864,16.0586,43.42864,16.0586",
+    "geom:latitude":16.0586,
+    "geom:longitude":43.42864,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Al 'Uthmaniyah"
+    ],
+    "qs:name":"Bayt al \u2018Uthm\u0101n\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682319,
+        "gp:id":1958568,
+        "qs:id":697133,
+        "wd:id":"Q20299621"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051570,
+    "wof:geomhash":"00317b786c2a5b88276d7dfc0cceff85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890424989,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424989,
+    "wof:lastmodified":1514503249,
+    "wof:name":"Bayt al \u2018Uthm\u0101n\u012byah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42864,
+    16.0586,
+    43.42864,
+    16.0586
+],
+  "geometry": {"coordinates":[43.42864,16.0586],"type":"Point"}
+}

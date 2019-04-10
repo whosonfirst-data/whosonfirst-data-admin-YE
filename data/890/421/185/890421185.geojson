@@ -1,0 +1,73 @@
+{
+  "id": 890421185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95158,13.16141,43.95158,13.16141",
+    "geom:latitude":13.16141,
+    "geom:longitude":43.95158,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0627\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hawayah"
+    ],
+    "qs:name":"Al \u1e28aw\u0101yah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071345,
+        "gp:id":1958962,
+        "qs:id":753750,
+        "wd:id":"Q20300718"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051383,
+    "wof:geomhash":"eb06526e1ed09c32a4dc9a1e161cfc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":890421185,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421185,
+    "wof:lastmodified":1514503205,
+    "wof:name":"Al \u1e28aw\u0101yah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95158,
+    13.16141,
+    43.95158,
+    13.16141
+],
+  "geometry": {"coordinates":[43.95158,13.16141],"type":"Point"}
+}

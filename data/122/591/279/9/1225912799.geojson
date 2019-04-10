@@ -1,0 +1,77 @@
+{
+  "id": 1225912799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11119,14.09446,44.11119,14.09446",
+    "geom:latitude":14.09446,
+    "geom:longitude":44.11119,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Al Mifsas",
+    "gn:country_code":"YE",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359905,
+    "gn:latitude":14.09446,
+    "gn:longitude":44.11119,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mif\u015f\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mif\u015f\u0101\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0642\u0635\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Al Miq\u015f\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359905
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b819778025b36d77fb788a1ad32d0d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1225912799,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1225912799,
+    "wof:lastmodified":1537715782,
+    "wof:name":"Al Mifsas",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11119,
+    14.09446,
+    44.11119,
+    14.09446
+],
+  "geometry": {"coordinates":[44.11119,14.09446],"type":"Point"}
+}

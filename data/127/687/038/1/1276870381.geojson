@@ -1,0 +1,71 @@
+{
+  "id": 1276870381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.47757,14.63092,47.47757,14.63092",
+    "geom:latitude":14.63092,
+    "geom:longitude":47.47757,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Nakhl",
+    "gn:country_code":"YE",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72312,
+    "gn:latitude":14.63092,
+    "gn:longitude":47.47757,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nakhl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062e\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72312
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5e1fe0bf1fd820c20f36571a07236bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1276870381,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1276870381,
+    "wof:lastmodified":1537715113,
+    "wof:name":"Nakhl",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.47757,
+    14.63092,
+    47.47757,
+    14.63092
+],
+  "geometry": {"coordinates":[47.47757,14.63092],"type":"Point"}
+}

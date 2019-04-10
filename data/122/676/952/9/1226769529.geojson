@@ -1,0 +1,73 @@
+{
+  "id": 1226769529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,14.08333,43.4,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Bani Khurshidi",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77264,
+    "gn:latitude":14.08333,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban\u012b Kh\u016brsh\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Khurshidi",
+        "Ban\u012b Kh\u016brsh\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77264
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0b0116008554b907f91ae4fe37b15bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919903,
+            "locality_id":1226769529,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226769529,
+    "wof:lastmodified":1537715221,
+    "wof:name":"Bani Khurshidi",
+    "wof:parent_id":1091919903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    14.08333,
+    43.4,
+    14.08333
+],
+  "geometry": {"coordinates":[43.4,14.08333],"type":"Point"}
+}

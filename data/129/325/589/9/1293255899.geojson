@@ -1,0 +1,71 @@
+{
+  "id": 1293255899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81309,15.07441,43.81309,15.07441",
+    "geom:latitude":15.07441,
+    "geom:longitude":43.81309,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Bayt Ibn Mahdi",
+    "gn:country_code":"YE",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360873,
+    "gn:latitude":15.07441,
+    "gn:longitude":43.81309,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Ibn Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Ibn Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360873
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8f5bbbbcf7c05bf969cc38991c69a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1293255899,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293255899,
+    "wof:lastmodified":1537715807,
+    "wof:name":"Bayt Ibn Mahdi",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81309,
+    15.07441,
+    43.81309,
+    15.07441
+],
+  "geometry": {"coordinates":[43.81309,15.07441],"type":"Point"}
+}

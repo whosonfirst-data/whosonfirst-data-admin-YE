@@ -1,0 +1,74 @@
+{
+  "id": 1259642027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22913,16.72734,44.22913,16.72734",
+    "geom:latitude":16.72734,
+    "geom:longitude":44.22913,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al Maqam al Wasit",
+    "gn:country_code":"YE",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362859,
+    "gn:latitude":16.72734,
+    "gn:longitude":44.22913,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Maq\u0101m al W\u0101si\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0627\u0645 \u0627\u0644\u0648\u0627\u0633\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al Maq\u0101m al W\u0101si\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362859
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1a3292d9701741a198b7531afe9e8887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1259642027,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1259642027,
+    "wof:lastmodified":1537715857,
+    "wof:name":"Al Maqam al Wasit",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22913,
+    16.72734,
+    44.22913,
+    16.72734
+],
+  "geometry": {"coordinates":[44.22913,16.72734],"type":"Point"}
+}

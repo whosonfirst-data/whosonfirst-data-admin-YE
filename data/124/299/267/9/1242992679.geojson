@@ -1,0 +1,72 @@
+{
+  "id": 1242992679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14192,15.35352,43.14192,15.35352",
+    "geom:latitude":15.35352,
+    "geom:longitude":43.14192,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Dayr al Muqazilah",
+    "gn:country_code":"YE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76296,
+    "gn:latitude":15.35352,
+    "gn:longitude":43.14192,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dayr al Muq\u0101zilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Muq\u0101zilah",
+        "Dayr al Mik\u0101thalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76296
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db99614d2339a6f6bcbc6647a05d906d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1242992679,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242992679,
+    "wof:lastmodified":1537715194,
+    "wof:name":"Dayr al Muqazilah",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14192,
+    15.35352,
+    43.14192,
+    15.35352
+],
+  "geometry": {"coordinates":[43.14192,15.35352],"type":"Point"}
+}

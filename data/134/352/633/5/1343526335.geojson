@@ -1,0 +1,68 @@
+{
+  "id": 1343526335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7341,16.00253,43.7341,16.00253",
+    "geom:latitude":16.00253,
+    "geom:longitude":43.7341,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Ad Darbayn",
+    "gn:country_code":"YE",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363420,
+    "gn:latitude":16.00253,
+    "gn:longitude":43.7341,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Darbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363420
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"70599201ee1b97870be31f2521f1f2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1343526335,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343526335,
+    "wof:lastmodified":1536651136,
+    "wof:name":"Ad Darbayn",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7341,
+    16.00253,
+    43.7341,
+    16.00253
+],
+  "geometry": {"coordinates":[43.7341,16.00253],"type":"Point"}
+}

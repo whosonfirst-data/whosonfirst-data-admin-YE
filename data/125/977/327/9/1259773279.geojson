@@ -1,0 +1,74 @@
+{
+  "id": 1259773279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93015,15.22485,42.93015,15.22485",
+    "geom:latitude":15.22485,
+    "geom:longitude":42.93015,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Qathal",
+    "gn:country_code":"YE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989001,
+    "gn:latitude":15.22485,
+    "gn:longitude":42.93015,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qath\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u062b\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qath\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"58bc66d4f3d412406bb71e742b824ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1259773279,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259773279,
+    "wof:lastmodified":1537716300,
+    "wof:name":"Qathal",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93015,
+    15.22485,
+    42.93015,
+    15.22485
+],
+  "geometry": {"coordinates":[42.93015,15.22485],"type":"Point"}
+}

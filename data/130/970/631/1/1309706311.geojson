@@ -1,0 +1,71 @@
+{
+  "id": 1309706311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60206,15.27034,43.60206,15.27034",
+    "geom:latitude":15.27034,
+    "geom:longitude":43.60206,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Az Zahrah",
+    "gn:country_code":"YE",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402181,
+    "gn:latitude":15.27034,
+    "gn:longitude":43.60206,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az\u0327 Z\u0327ahrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327ahrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402181
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0df8a62090b27bd125951ec74ce76040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1309706311,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1309706311,
+    "wof:lastmodified":1537715354,
+    "wof:name":"Az Zahrah",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60206,
+    15.27034,
+    43.60206,
+    15.27034
+],
+  "geometry": {"coordinates":[43.60206,15.27034],"type":"Point"}
+}

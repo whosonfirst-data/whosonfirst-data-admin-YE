@@ -1,0 +1,74 @@
+{
+  "id": 1226312627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32063,17.00984,43.32063,17.00984",
+    "geom:latitude":17.00984,
+    "geom:longitude":43.32063,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Al Mihalwa'",
+    "gn:country_code":"YE",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345912,
+    "gn:latitude":17.00984,
+    "gn:longitude":43.32063,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mi\u1e29alw\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0644\u0648\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Mi\u1e29alw\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345912
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"070c53fdbd87fe4832d7e517d1c40c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":1226312627,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226312627,
+    "wof:lastmodified":1537715573,
+    "wof:name":"Al Mihalwa'",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32063,
+    17.00984,
+    43.32063,
+    17.00984
+],
+  "geometry": {"coordinates":[43.32063,17.00984],"type":"Point"}
+}

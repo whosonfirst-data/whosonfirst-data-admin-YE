@@ -1,0 +1,73 @@
+{
+  "id": 1310500825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,15.18333,48.31667,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Al Jubayl",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79234,
+    "gn:latitude":15.18333,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jubayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Jubail",
+        "Al Jubayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79234
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a0649619b5c9e5880fc171cff121904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1310500825,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310500825,
+    "wof:lastmodified":1537715292,
+    "wof:name":"Al Jubayl",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    15.18333,
+    48.31667,
+    15.18333
+],
+  "geometry": {"coordinates":[48.31667,15.18333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890427399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2663,17.38519,43.2663,17.38519",
+    "geom:latitude":17.38519,
+    "geom:longitude":43.2663,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u0646\u0628\u0629"
+    ],
+    "qs:name":"Adh Dhanabah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071407,
+        "gp:id":56447933,
+        "qs:id":742480,
+        "qs_pg:id":753797
+    },
+    "wof:country":"YE",
+    "wof:created":1469051693,
+    "wof:geomhash":"c4bf5ea4259409ea70036ef605dd7251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890427399,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427399,
+    "wof:lastmodified":1534530970,
+    "wof:name":"Adh Dhanabah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890427405
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2663,
+    17.38519,
+    43.2663,
+    17.38519
+],
+  "geometry": {"coordinates":[43.2663,17.38519],"type":"Point"}
+}

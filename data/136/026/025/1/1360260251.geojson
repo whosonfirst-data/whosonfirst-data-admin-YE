@@ -1,0 +1,71 @@
+{
+  "id": 1360260251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78661,16.185,43.78661,16.185",
+    "geom:latitude":16.185,
+    "geom:longitude":43.78661,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Ad Dishmah",
+    "gn:country_code":"YE",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633515,
+    "gn:latitude":16.185,
+    "gn:longitude":43.78661,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dishmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0634\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633515
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9ecab2b73c15b08bc2262fac0e77c0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1360260251,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360260251,
+    "wof:lastmodified":1537716071,
+    "wof:name":"Ad Dishmah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78661,
+    16.185,
+    43.78661,
+    16.185
+],
+  "geometry": {"coordinates":[43.78661,16.185],"type":"Point"}
+}

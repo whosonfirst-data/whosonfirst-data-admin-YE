@@ -1,0 +1,74 @@
+{
+  "id": 1259953913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34878,16.28246,44.34878,16.28246",
+    "geom:latitude":16.28246,
+    "geom:longitude":44.34878,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Shuja'",
+    "gn:country_code":"YE",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974568,
+    "gn:latitude":16.28246,
+    "gn:longitude":44.34878,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuj\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062c\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Shuj\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974568
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"27950bba2b926cc80a9e7ca353101caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1259953913,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1259953913,
+    "wof:lastmodified":1537716110,
+    "wof:name":"Shuja'",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34878,
+    16.28246,
+    44.34878,
+    16.28246
+],
+  "geometry": {"coordinates":[44.34878,16.28246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209808153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53527,14.82486,45.53527,14.82486",
+    "geom:latitude":14.82486,
+    "geom:longitude":45.53527,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2106.0",
+    "gn:asciiname":"Hassim Badi",
+    "gn:country_code":"YE",
+    "gn:dem":1226,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75038,
+    "gn:latitude":14.82486,
+    "gn:longitude":45.53527,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hassim Bad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassim Bedi",
+        "Hassim Bad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75038
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1a807348f51527a618f2961a9a223ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925903,
+            "locality_id":1209808153,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1209808153,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Hassim Badi",
+    "wof:parent_id":1091925903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53527,
+    14.82486,
+    45.53527,
+    14.82486
+],
+  "geometry": {"coordinates":[45.53527,14.82486],"type":"Point"}
+}

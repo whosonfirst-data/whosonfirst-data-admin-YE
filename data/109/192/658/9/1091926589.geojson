@@ -1,0 +1,107 @@
+{
+  "id": 1091926589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001088,
+    "geom:area_square_m":13083547.02368,
+    "geom:bbox":"43.9803957095,13.5173573772,44.0165382134,13.5657315175",
+    "geom:latitude":13.537006,
+    "geom:longitude":43.997137,
+    "iso:country":"YE",
+    "lbl:latitude":13.534816,
+    "lbl:longitude":43.995674,
+    "meso:admin1_en":"Taizz",
+    "meso:admin1_loc":"\u062a\u0639\u0632",
+    "meso:dissme":"TaizzMashra'a Wa Hadnan",
+    "meso:gadm_admin":"Mashra'a Wa Hadnan",
+    "meso:gaul_admin":"Mashra'a Wa Hadnan",
+    "meso:hasc_id":"YE.TA.MH",
+    "meso:mps_x":43.995674,
+    "meso:mps_y":13.534816,
+    "meso:name_en":"Mashra'a Wa Hadnan",
+    "meso:source":"AOTM",
+    "mps:latitude":13.534816,
+    "mps:longitude":43.995674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0645\u0634\u0631\u0639\u0629 \u0648\u062d\u062f\u0646\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Mashra'a Wa Hadnan"
+    ],
+    "name:eng_x_variant":[
+        "Mashra'a Wa Hadnan",
+        "Mashra'a Wa Hadnan District"
+    ],
+    "name:nno_x_preferred":[
+        "Mashra'a Wa Hadnan-distriktet"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0634\u0631\u0639\u0647 \u0648\u062d\u062f\u0646\u0627\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0634\u0631\u0639\u06c1 \u0648 \u062d\u062f\u0646\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Mashra'a Wa Hadnan"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-12-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-12-01",
+    "statoids:capital":"",
+    "statoids:country":"YE",
+    "statoids:hasc":"YE.TA",
+    "statoids:name":"Mashra'a Wa Hadnan",
+    "statoids:population":"109533",
+    "statoids:statoid":"YE.TA.MH",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"YE.TA.MH",
+        "wd:id":"Q4118869"
+    },
+    "wof:country":"YE",
+    "wof:created":1473893301,
+    "wof:geomhash":"7c76818a9e6af8d35d049121412adb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926589,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1091926589,
+    "wof:lastmodified":1536615045,
+    "wof:name":"Mashra'a Wa Hadnan",
+    "wof:parent_id":85680989,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":109533,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:shortcode":"MH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98039570954954,
+    13.51735737721348,
+    44.01653821341949,
+    13.56573151750013
+],
+  "geometry": {"coordinates":[[[43.99183740226559,13.56573151750013],[44.00111769188,13.56302840233112],[44.00421112175146,13.56212736394145],[44.0040528337373,13.55637361183491],[44.00389454572315,13.55061985972837],[44.00519040482901,13.5450398307224],[44.00833853346455,13.5404874944475],[44.01132213848854,13.53533533834117],[44.01338739358748,13.5296449889542],[44.0153770006344,13.52194798050038],[44.01653821341949,13.51759730733386],[44.00589588466927,13.51826776049905],[44.00064129503352,13.51814335792877],[43.99531320421789,13.51735737721348],[43.98907551455024,13.51844667008335],[43.98473561204989,13.52088419277098],[43.98184234371632,13.52250920789606],[43.98039570954954,13.52332171545861],[43.98065041631473,13.52465897714975],[43.98115982984511,13.52733350053205],[43.98192395014068,13.53134528560549],[43.98236977453342,13.53664151502495],[43.98259652946464,13.54015423218695],[43.98358479058582,13.5424547776022],[43.98564862652815,13.54657190276827],[43.9888657971978,13.55401590732632],[43.99183740226559,13.56573151750013]]],"type":"Polygon"}
+}

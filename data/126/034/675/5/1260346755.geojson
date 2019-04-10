@@ -1,0 +1,68 @@
+{
+  "id": 1260346755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23251,14.39402,44.23251,14.39402",
+    "geom:latitude":14.39402,
+    "geom:longitude":44.23251,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Qaryat al Jabal",
+    "gn:country_code":"YE",
+    "gn:dem":2436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359023,
+    "gn:latitude":14.39402,
+    "gn:longitude":44.23251,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"de5f7e855bed9047e00e57a24439112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1260346755,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260346755,
+    "wof:lastmodified":1536625484,
+    "wof:name":"Qaryat al Jabal",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23251,
+    14.39402,
+    44.23251,
+    14.39402
+],
+  "geometry": {"coordinates":[44.23251,14.39402],"type":"Point"}
+}

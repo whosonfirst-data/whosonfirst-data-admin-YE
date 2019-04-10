@@ -1,0 +1,69 @@
+{
+  "id": 890446589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81515,16.89419,43.81515,16.89419",
+    "geom:latitude":16.89419,
+    "geom:longitude":43.81515,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0634\u0629"
+    ],
+    "qs:name":"Al \u2018Ishshah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683800,
+        "gp:id":1958152,
+        "qs:id":697496
+    },
+    "wof:country":"YE",
+    "wof:created":1469052558,
+    "wof:geomhash":"1d7de28a8d826a561f84c5818149663d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890446589,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446589,
+    "wof:lastmodified":1505343612,
+    "wof:name":"Al \u2018Ishshah",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81515,
+    16.89419,
+    43.81515,
+    16.89419
+],
+  "geometry": {"coordinates":[43.81515,16.89419],"type":"Point"}
+}

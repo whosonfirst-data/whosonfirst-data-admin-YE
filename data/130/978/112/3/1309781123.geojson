@@ -1,0 +1,71 @@
+{
+  "id": 1309781123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85782,16.03212,43.85782,16.03212",
+    "geom:latitude":16.03212,
+    "geom:longitude":43.85782,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Ar Razwah",
+    "gn:country_code":"YE",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634912,
+    "gn:latitude":16.03212,
+    "gn:longitude":43.85782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Razwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0632\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634912
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"56f18e94c1ee36fd90136a5db7b6b963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1309781123,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1309781123,
+    "wof:lastmodified":1537716089,
+    "wof:name":"Ar Razwah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85782,
+    16.03212000000001,
+    43.85782,
+    16.03212000000001
+],
+  "geometry": {"coordinates":[43.85782,16.03212000000001],"type":"Point"}
+}

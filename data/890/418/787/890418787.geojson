@@ -1,0 +1,73 @@
+{
+  "id": 890418787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38765,16.08818,43.38765,16.08818",
+    "geom:latitude":16.08818,
+    "geom:longitude":43.38765,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u063a\u0646\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Yaghnam"
+    ],
+    "qs:name":"Yaghnam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654647,
+        "gp:id":1958568,
+        "qs:id":695954,
+        "wd:id":"Q20309539"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051262,
+    "wof:geomhash":"9b1143f8e073f87355d9c5b58215bd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890418787,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418787,
+    "wof:lastmodified":1514503382,
+    "wof:name":"Yaghnam",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38765,
+    16.08818,
+    43.38765,
+    16.08818
+],
+  "geometry": {"coordinates":[43.38765,16.08818],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209792965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30549,14.40117,44.30549,14.40117",
+    "geom:latitude":14.40117,
+    "geom:longitude":44.30549,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Bayt al Fatimi",
+    "gn:country_code":"YE",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359242,
+    "gn:latitude":14.40117,
+    "gn:longitude":44.30549,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bayt al F\u0101\u0163im\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt al F\u0101\u0163im\u012b",
+        "Al \u1e28i\u015fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359242
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d00a175752e0a07bb3c0af64ea898ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1209792965,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1209792965,
+    "wof:lastmodified":1537715750,
+    "wof:name":"Bayt al Fatimi",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30549,
+    14.40117,
+    44.30549,
+    14.40117
+],
+  "geometry": {"coordinates":[44.30549,14.40117],"type":"Point"}
+}

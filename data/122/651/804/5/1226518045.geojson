@@ -1,0 +1,73 @@
+{
+  "id": 1226518045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7,13.75,44.7,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":44.7,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Jarfah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74245,
+    "gn:latitude":13.75,
+    "gn:longitude":44.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jarfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarfa",
+        "Jarfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74245
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8315f277b73dfb68369ef179a3e0f3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919595,
+            "locality_id":1226518045,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1226518045,
+    "wof:lastmodified":1537715150,
+    "wof:name":"Jarfah",
+    "wof:parent_id":1091919595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7,
+    13.75,
+    44.7,
+    13.75
+],
+  "geometry": {"coordinates":[44.7,13.75],"type":"Point"}
+}

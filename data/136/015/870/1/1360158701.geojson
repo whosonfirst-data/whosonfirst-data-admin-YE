@@ -1,0 +1,74 @@
+{
+  "id": 1360158701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39507,16.11639,44.39507,16.11639",
+    "geom:latitude":16.11639,
+    "geom:longitude":44.39507,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Musaybir",
+    "gn:country_code":"YE",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9974608,
+    "gn:latitude":16.11639,
+    "gn:longitude":44.39507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u015fayb\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u064a\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mu\u015fayb\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974608
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a9b487d5e7b4bec1b57969b424ae1907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1360158701,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1360158701,
+    "wof:lastmodified":1537716111,
+    "wof:name":"Musaybir",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39507,
+    16.11639,
+    44.39507,
+    16.11639
+],
+  "geometry": {"coordinates":[44.39507,16.11639],"type":"Point"}
+}

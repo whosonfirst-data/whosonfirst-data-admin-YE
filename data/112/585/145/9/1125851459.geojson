@@ -1,0 +1,84 @@
+{
+  "id": 1125851459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40993,16.13886,43.40993,16.13886",
+    "geom:latitude":16.13886,
+    "geom:longitude":43.40993,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9,
+    "gn:population":9,
+    "iso:country":"YE",
+    "lbl:latitude":16.13886,
+    "lbl:longitude":43.40993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al Qiy\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u064a\u0627\u0634"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7658538,
+    "qs_pg:gn_pop":9,
+    "qs_pg:name":"Al Qiy\u0101sh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":696355,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658538,
+        "qs_pg:id":696355
+    },
+    "wof:country":"YE",
+    "wof:created":1497293423,
+    "wof:geomhash":"fabc6519e6aa265a383b8ebdc989274e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1125851459,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125851459,
+    "wof:lastmodified":1509395946,
+    "wof:name":"Al Qiy\u0101sh",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40993,
+    16.13886,
+    43.40993,
+    16.13886
+],
+  "geometry": {"coordinates":[43.40993,16.13886],"type":"Point"}
+}

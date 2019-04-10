@@ -1,0 +1,74 @@
+{
+  "id": 1293360791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75317,15.65017,44.75317,15.65017",
+    "geom:latitude":15.65017,
+    "geom:longitude":44.75317,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Ar Rik",
+    "gn:country_code":"YE",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976091,
+    "gn:latitude":15.65017,
+    "gn:longitude":44.75317,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar R\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Ar R\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976091
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5cfa3c2790ff44a11a9189c9f2b9a884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1293360791,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293360791,
+    "wof:lastmodified":1537716143,
+    "wof:name":"Ar Rik",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75317,
+    15.65017,
+    44.75317,
+    15.65017
+],
+  "geometry": {"coordinates":[44.75317,15.65017],"type":"Point"}
+}

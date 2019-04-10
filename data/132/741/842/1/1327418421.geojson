@@ -1,0 +1,71 @@
+{
+  "id": 1327418421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.222,15.68802,43.222,15.68802",
+    "geom:latitude":15.68802,
+    "geom:longitude":43.222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Al Kundafah",
+    "gn:country_code":"YE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365850,
+    "gn:latitude":15.68802,
+    "gn:longitude":43.222,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kund\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kund\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365850
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"632af795a0917947459c42f8d188a831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1327418421,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327418421,
+    "wof:lastmodified":1537715940,
+    "wof:name":"Al Kundafah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.222,
+    15.68802,
+    43.222,
+    15.68802
+],
+  "geometry": {"coordinates":[43.222,15.68802],"type":"Point"}
+}

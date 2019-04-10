@@ -1,0 +1,73 @@
+{
+  "id": 890437451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28822,16.28035,43.28822,16.28035",
+    "geom:latitude":16.28035,
+    "geom:longitude":43.28822,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646 \u0634\u0639\u0628 \u0642\u0639\u0628\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Qarn Sh'ab Qa'ban"
+    ],
+    "qs:name":"Qarn Sh\u2018ab Qa\u2018b\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756374,
+        "gp:id":1953570,
+        "qs:id":698883,
+        "wd:id":"Q20305568"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052152,
+    "wof:geomhash":"c26f44747733f679b28c97c7ea85d02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890437451,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890437451,
+    "wof:lastmodified":1514503333,
+    "wof:name":"Qarn Sh\u2018ab Qa\u2018b\u0101n",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28822,
+    16.28035,
+    43.28822,
+    16.28035
+],
+  "geometry": {"coordinates":[43.28822,16.28035],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890418979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40065,16.0495,43.40065,16.0495",
+    "geom:latitude":16.0495,
+    "geom:longitude":43.40065,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rayfah"
+    ],
+    "qs:name":"Ar Rayfah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682486,
+        "gp:id":1958568,
+        "qs:id":697233,
+        "wd:id":"Q20301882"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051268,
+    "wof:geomhash":"ff602f985801f3c9d5b394098201a143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890418979,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418979,
+    "wof:lastmodified":1514503221,
+    "wof:name":"Ar Rayfah",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40065,
+    16.0495,
+    43.40065,
+    16.0495
+],
+  "geometry": {"coordinates":[43.40065,16.0495],"type":"Point"}
+}

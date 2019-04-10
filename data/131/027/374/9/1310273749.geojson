@@ -1,0 +1,74 @@
+{
+  "id": 1310273749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51605,15.5795,43.51605,15.5795",
+    "geom:latitude":15.5795,
+    "geom:longitude":43.51605,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"I'bar al Bann",
+    "gn:country_code":"YE",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980336,
+    "gn:latitude":15.5795,
+    "gn:longitude":43.51605,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"I\u2018b\u0101r al Bann",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0639\u0628\u0627\u0631\u0627\u0644\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "I\u2018b\u0101r al Bann"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980336
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"89ae512563fa2a62433818249df5a1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1310273749,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310273749,
+    "wof:lastmodified":1537716166,
+    "wof:name":"I'bar al Bann",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51605,
+    15.5795,
+    43.51605,
+    15.5795
+],
+  "geometry": {"coordinates":[43.51605,15.5795],"type":"Point"}
+}

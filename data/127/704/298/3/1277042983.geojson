@@ -1,0 +1,73 @@
+{
+  "id": 1277042983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,13.71667,43.78333,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Karabda al Ketf",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73993,
+    "gn:latitude":13.71667,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Karabda al Ketf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carabda",
+        "Karabda al Ketf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec1e2f4524f4eebbf0d0ba790319296e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1277042983,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1277042983,
+    "wof:lastmodified":1537715145,
+    "wof:name":"Karabda al Ketf",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    13.71667,
+    43.78333,
+    13.71667
+],
+  "geometry": {"coordinates":[43.78333,13.71667],"type":"Point"}
+}

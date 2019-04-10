@@ -1,0 +1,72 @@
+{
+  "id": 1293393365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.97089,13.73703,45.97089,13.73703",
+    "geom:latitude":13.73703,
+    "geom:longitude":45.97089,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Sakin Ahl am Hawzah",
+    "gn:country_code":"YE",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408566,
+    "gn:latitude":13.73703,
+    "gn:longitude":45.97089,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0101kin Ahl am \u1e28awzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101kin Ahl am \u1e28awzah",
+        "S\u0101kin Ahl Umm \u1e28awzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408566
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc305579a76c2b9fe29ca53fe097d843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918487,
+            "locality_id":1293393365,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1293393365,
+    "wof:lastmodified":1537715420,
+    "wof:name":"Sakin Ahl am Hawzah",
+    "wof:parent_id":1091918487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.97089,
+    13.73703,
+    45.97089,
+    13.73703
+],
+  "geometry": {"coordinates":[45.97089,13.73703],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293742103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58913,15.5452,43.58913,15.5452",
+    "geom:latitude":15.5452,
+    "geom:longitude":43.58913,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt al Murugh",
+    "gn:country_code":"YE",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980578,
+    "gn:latitude":15.5452,
+    "gn:longitude":43.58913,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Mur\u016bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0645\u0631\u0648\u063a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Mur\u016bgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980578
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9f88270d578490d9ce19bd70965f7a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1293742103,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293742103,
+    "wof:lastmodified":1537716175,
+    "wof:name":"Bayt al Murugh",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58913,
+    15.5452,
+    43.58913,
+    15.5452
+],
+  "geometry": {"coordinates":[43.58913,15.5452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276734153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45396,15.49154,44.45396,15.49154",
+    "geom:latitude":15.49154,
+    "geom:longitude":44.45396,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Bayt al Malahi",
+    "gn:country_code":"YE",
+    "gn:dem":2331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342211,
+    "gn:latitude":15.49154,
+    "gn:longitude":44.45396,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Mal\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Mal\u0101\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342211
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c4d9e39ba6c1fbce6905202498122605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1276734153,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276734153,
+    "wof:lastmodified":1537715495,
+    "wof:name":"Bayt al Malahi",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45396,
+    15.49154,
+    44.45396,
+    15.49154
+],
+  "geometry": {"coordinates":[44.45396,15.49154],"type":"Point"}
+}

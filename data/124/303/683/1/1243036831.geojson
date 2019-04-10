@@ -1,0 +1,74 @@
+{
+  "id": 1243036831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52915,15.56827,43.52915,15.56827",
+    "geom:latitude":15.56827,
+    "geom:longitude":43.52915,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Nuha al Barmikah",
+    "gn:country_code":"YE",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980363,
+    "gn:latitude":15.56827,
+    "gn:longitude":43.52915,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuh\u0101 al Barmikah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0627 \u0627\u0644\u0628\u0631\u0645\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nuh\u0101 al Barmikah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980363
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84270b725fa608973b4cff77a973b623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1243036831,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243036831,
+    "wof:lastmodified":1537716167,
+    "wof:name":"Nuha al Barmikah",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52915,
+    15.56827,
+    43.52915,
+    15.56827
+],
+  "geometry": {"coordinates":[43.52915,15.56827],"type":"Point"}
+}

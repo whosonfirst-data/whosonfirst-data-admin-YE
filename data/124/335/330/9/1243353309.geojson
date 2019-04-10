@@ -1,0 +1,74 @@
+{
+  "id": 1243353309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43453,14.90123,43.43453,14.90123",
+    "geom:latitude":14.90123,
+    "geom:longitude":43.43453,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Masaba",
+    "gn:country_code":"YE",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058230,
+    "gn:latitude":14.90123,
+    "gn:longitude":43.43453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u015f\u0101b\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0627\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u015f\u0101b\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058230
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37fc18222c28bb0a121d880114a58cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1243353309,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243353309,
+    "wof:lastmodified":1537716330,
+    "wof:name":"Al Masaba",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43453,
+    14.90123,
+    43.43453,
+    14.90123
+],
+  "geometry": {"coordinates":[43.43453,14.90123],"type":"Point"}
+}

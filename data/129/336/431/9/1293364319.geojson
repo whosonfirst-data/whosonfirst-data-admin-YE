@@ -1,0 +1,74 @@
+{
+  "id": 1293364319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.313,16.53357,44.313,16.53357",
+    "geom:latitude":16.53357,
+    "geom:longitude":44.313,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Mishqab",
+    "gn:country_code":"YE",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363007,
+    "gn:latitude":16.53357,
+    "gn:longitude":44.313,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mishq\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mishq\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0634\u0642\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363007
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c84a0517b3eb3e24c1e69f5e13a6e2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1293364319,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293364319,
+    "wof:lastmodified":1537715861,
+    "wof:name":"Mishqab",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.313,
+    16.53357,
+    44.313,
+    16.53357
+],
+  "geometry": {"coordinates":[44.313,16.53357],"type":"Point"}
+}

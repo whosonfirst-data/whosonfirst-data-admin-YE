@@ -1,0 +1,73 @@
+{
+  "id": 890428009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39921,16.75211,43.39921,16.75211",
+    "geom:latitude":16.75211,
+    "geom:longitude":43.39921,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0632\u0628 \u0627\u0644 \u0633\u0639\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Ma'zab Al Sa'id"
+    ],
+    "qs:name":"Ma\u2018zab \u0100l Sa\u2018\u012bd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901001,
+        "gp:id":1959061,
+        "qs:id":744453,
+        "wd:id":"Q20300129"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051731,
+    "wof:geomhash":"a54a46ebbef5d102ab46419457bf05b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890428009,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428009,
+    "wof:lastmodified":1514503326,
+    "wof:name":"Ma\u2018zab \u0100l Sa\u2018\u012bd",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39921,
+    16.75211,
+    43.39921,
+    16.75211
+],
+  "geometry": {"coordinates":[43.39921,16.75211],"type":"Point"}
+}

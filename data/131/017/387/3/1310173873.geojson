@@ -1,0 +1,72 @@
+{
+  "id": 1310173873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33177,14.34708,44.33177,14.34708",
+    "geom:latitude":14.34708,
+    "geom:longitude":44.33177,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Ad Dobi",
+    "gn:country_code":"YE",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80323,
+    "gn:latitude":14.34708,
+    "gn:longitude":44.33177,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ad Dobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Dobi",
+        "Ad Dobi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80323
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"318f3f076158802aaedc61caca40d3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1310173873,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310173873,
+    "wof:lastmodified":1537715331,
+    "wof:name":"Ad Dobi",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33177,
+    14.34708,
+    44.33177,
+    14.34708
+],
+  "geometry": {"coordinates":[44.33177,14.34708],"type":"Point"}
+}

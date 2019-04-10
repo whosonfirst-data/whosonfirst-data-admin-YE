@@ -1,0 +1,71 @@
+{
+  "id": 1259935973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02364,14.26576,44.02364,14.26576",
+    "geom:latitude":14.26576,
+    "geom:longitude":44.02364,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Karw as Sarak",
+    "gn:country_code":"YE",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870446,
+    "gn:latitude":14.26576,
+    "gn:longitude":44.02364,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karw as Sarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0648 \u0627\u0644\u0633\u0631\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870446
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fd0bb20e95975c77f6a12fe6eb5ae715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1259935973,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259935973,
+    "wof:lastmodified":1537716224,
+    "wof:name":"Karw as Sarak",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02364,
+    14.26576,
+    44.02364,
+    14.26576
+],
+  "geometry": {"coordinates":[44.02364,14.26576],"type":"Point"}
+}

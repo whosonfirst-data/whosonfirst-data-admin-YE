@@ -1,0 +1,76 @@
+{
+  "id": 890427277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26416,17.10405,43.26416,17.10405",
+    "geom:latitude":17.10405,
+    "geom:longitude":43.26416,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Bur\u016bd"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0631\u0648\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al BurUd"
+    ],
+    "qs:name":"Al Bur\u016bd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865299,
+        "gp:id":1938135,
+        "qs:id":742925,
+        "wd:id":"Q20305049"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051686,
+    "wof:geomhash":"aa5ff680e9bf3f1a57d99137818c306f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890427277,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427277,
+    "wof:lastmodified":1514503141,
+    "wof:name":"Al Bur\u016bd",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26416,
+    17.10405,
+    43.26416,
+    17.10405
+],
+  "geometry": {"coordinates":[43.26416,17.10405],"type":"Point"}
+}

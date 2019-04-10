@@ -1,0 +1,74 @@
+{
+  "id": 1225815027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64605,17.06306,43.64605,17.06306",
+    "geom:latitude":17.06306,
+    "geom:longitude":43.64605,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Daribah",
+    "gn:country_code":"YE",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536593,
+    "gn:latitude":17.06306,
+    "gn:longitude":43.64605,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l D\u0101ribah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062f\u0627\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l D\u0101ribah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536593
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7ccec36f421818264507f2d3c6a2bf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1225815027,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1225815027,
+    "wof:lastmodified":1537716052,
+    "wof:name":"Al Daribah",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64605,
+    17.06306,
+    43.64605,
+    17.06306
+],
+  "geometry": {"coordinates":[43.64605,17.06306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310170297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74898,16.07661,43.74898,16.07661",
+    "geom:latitude":16.07661,
+    "geom:longitude":43.74898,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"An Najlah",
+    "gn:country_code":"YE",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634267,
+    "gn:latitude":16.07661,
+    "gn:longitude":43.74898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Najlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634267
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"712c0ac48663b10ba735bbf1e11bee75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1310170297,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310170297,
+    "wof:lastmodified":1537716075,
+    "wof:name":"An Najlah",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74898,
+    16.07661,
+    43.74898,
+    16.07661
+],
+  "geometry": {"coordinates":[43.74898,16.07661],"type":"Point"}
+}

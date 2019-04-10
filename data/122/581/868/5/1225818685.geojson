@@ -1,0 +1,73 @@
+{
+  "id": 1225818685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11667,15.8,45.11667,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":45.11667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Baram Dathirah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77132,
+    "gn:latitude":15.8,
+    "gn:longitude":45.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baram D\u0101thirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daram D\u0101\u2018irah",
+        "Baram D\u0101thirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77132
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7caeb3800d8d3da433c0211879c29845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925257,
+            "locality_id":1225818685,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1225818685,
+    "wof:lastmodified":1537715219,
+    "wof:name":"Baram Dathirah",
+    "wof:parent_id":1091925257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11667,
+    15.8,
+    45.11667,
+    15.8
+],
+  "geometry": {"coordinates":[45.11667,15.8],"type":"Point"}
+}

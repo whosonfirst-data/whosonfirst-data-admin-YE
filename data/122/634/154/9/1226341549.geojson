@@ -1,0 +1,73 @@
+{
+  "id": 1226341549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21,14.67667,49.21,14.67667",
+    "geom:latitude":14.67667,
+    "geom:longitude":49.21,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"Basrah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77067,
+    "gn:latitude":14.67667,
+    "gn:longitude":49.21,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba\u015frah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basra",
+        "Ba\u015frah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77067
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7a4763b86a2233d922239725f1816c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1226341549,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226341549,
+    "wof:lastmodified":1537715218,
+    "wof:name":"Basrah",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21,
+    14.67667,
+    49.21,
+    14.67667
+],
+  "geometry": {"coordinates":[49.21,14.67667],"type":"Point"}
+}

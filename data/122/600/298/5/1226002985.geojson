@@ -1,0 +1,73 @@
+{
+  "id": 1226002985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41513,15.73419,43.41513,15.73419",
+    "geom:latitude":15.73419,
+    "geom:longitude":43.41513,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1724.0",
+    "gn:asciiname":"Wadi al Masna",
+    "gn:country_code":"YE",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69652,
+    "gn:latitude":15.73419,
+    "gn:longitude":43.41513,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"W\u0101d\u012b al Masn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b \u1e29usayb",
+        "W\u0101d\u012b al Masn\u00e1",
+        "W\u0101d\u012b War\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69652
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"33c01fce125abc680653df890724c384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":1226002985,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226002985,
+    "wof:lastmodified":1537715064,
+    "wof:name":"Wadi al Masna",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41513,
+    15.73419,
+    43.41513,
+    15.73419
+],
+  "geometry": {"coordinates":[43.41513,15.73419],"type":"Point"}
+}

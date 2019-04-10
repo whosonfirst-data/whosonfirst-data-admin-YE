@@ -1,0 +1,71 @@
+{
+  "id": 1225933795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52707,14.44277,43.52707,14.44277",
+    "geom:latitude":14.44277,
+    "geom:longitude":43.52707,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Milhah",
+    "gn:country_code":"YE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358160,
+    "gn:latitude":14.44277,
+    "gn:longitude":43.52707,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mil\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mil\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358160
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"430c0987e8c913b8bf1aeac9c683d71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1225933795,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225933795,
+    "wof:lastmodified":1537715716,
+    "wof:name":"Milhah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52707,
+    14.44277,
+    43.52707,
+    14.44277
+],
+  "geometry": {"coordinates":[43.52707,14.44277],"type":"Point"}
+}

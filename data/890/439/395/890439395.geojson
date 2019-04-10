@@ -1,0 +1,77 @@
+{
+  "id": 890439395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69078,16.04208,43.69078,16.04208",
+    "geom:latitude":16.04208,
+    "geom:longitude":43.69078,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628 \u0631\u0627\u0632\u062d"
+    ],
+    "name:ara_x_variant":[
+        "R\u0101zi\u1e29",
+        "\u0631\u0627\u0632\u062d"
+    ],
+    "qs:name":"Darb R\u0101zi\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658594,
+        "gp:id":1959046,
+        "qs:id":750028,
+        "qs_pg:id":696406
+    },
+    "wof:country":"YE",
+    "wof:created":1469052234,
+    "wof:geomhash":"74cae6d7985ca14e15e7e49c2efbab02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890439395,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890439395,
+    "wof:lastmodified":1505343570,
+    "wof:name":"Darb R\u0101zi\u1e29",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69078,
+    16.04208,
+    43.69078,
+    16.04208
+],
+  "geometry": {"coordinates":[43.69078,16.04208],"type":"Point"}
+}

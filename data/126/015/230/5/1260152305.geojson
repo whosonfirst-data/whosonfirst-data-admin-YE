@@ -1,0 +1,73 @@
+{
+  "id": 1260152305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66667,14.93333,43.66667,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":43.66667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"Suq al Ahad",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70352,
+    "gn:latitude":14.93333,
+    "gn:longitude":43.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq al A\u1e29ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suk-el-Had",
+        "S\u016bq al A\u1e29ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70352
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"178c89fa2c71ddc9e97db71716159b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1260152305,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1260152305,
+    "wof:lastmodified":1537715076,
+    "wof:name":"Suq al Ahad",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66667,
+    14.93333,
+    43.66667,
+    14.93333
+],
+  "geometry": {"coordinates":[43.66667,14.93333],"type":"Point"}
+}

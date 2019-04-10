@@ -1,0 +1,81 @@
+{
+  "id": 1125871243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33635,16.2137,43.33635,16.2137",
+    "geom:latitude":16.2137,
+    "geom:longitude":43.33635,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"YE",
+    "lbl:latitude":16.2137,
+    "lbl:longitude":43.33635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062f\u0627\u062d"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7631864,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Ar Radd\u0101\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694703,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631864,
+        "qs_pg:id":694703
+    },
+    "wof:country":"YE",
+    "wof:created":1497294310,
+    "wof:geomhash":"18c078cffe2761f680d29d9f03ca880e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1125871243,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125871243,
+    "wof:lastmodified":1509397326,
+    "wof:name":"Ar Radd\u0101\u1e29",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33635,
+    16.2137,
+    43.33635,
+    16.2137
+],
+  "geometry": {"coordinates":[43.33635,16.2137],"type":"Point"}
+}

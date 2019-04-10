@@ -1,0 +1,74 @@
+{
+  "id": 1260272919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.12327,15.34332,43.12327,15.34332",
+    "geom:latitude":15.34332,
+    "geom:longitude":43.12327,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Mazra'at 'Ali 'Abd Allah Khalil",
+    "gn:country_code":"YE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036206,
+    "gn:latitude":15.34332,
+    "gn:longitude":43.12327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mazra\u2018at \u2018Al\u012b \u2018Abd All\u0101h Khal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0639\u0644\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u062e\u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u2018Al\u012b \u2018Abd All\u0101h Khal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036206
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ce47bbaf4550a58f05b01b260e57c5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1260272919,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1260272919,
+    "wof:lastmodified":1537716314,
+    "wof:name":"Mazra'at 'Ali 'Abd Allah Khalil",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.12327,
+    15.34332,
+    43.12327,
+    15.34332
+],
+  "geometry": {"coordinates":[43.12327,15.34332],"type":"Point"}
+}

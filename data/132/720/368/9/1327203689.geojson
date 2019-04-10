@@ -1,0 +1,75 @@
+{
+  "id": 1327203689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.281,17.16126,43.281,17.16126",
+    "geom:latitude":17.16126,
+    "geom:longitude":43.281,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Ath Thahirah",
+    "gn:country_code":"YE",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345824,
+    "gn:latitude":17.16126,
+    "gn:longitude":43.281,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ath T\u1e29\u0101hirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0627\u0647\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327\u0101hirah",
+        "Ath T\u1e29\u0101hirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345824
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53ddb02175c4d5a1ff8b1e14ef33af5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1327203689,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327203689,
+    "wof:lastmodified":1537715569,
+    "wof:name":"Ath Thahirah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28100000000001,
+    17.16126,
+    43.28100000000001,
+    17.16126
+],
+  "geometry": {"coordinates":[43.28100000000001,17.16126],"type":"Point"}
+}

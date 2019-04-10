@@ -1,0 +1,76 @@
+{
+  "id": 890439529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06112,16.36993,44.06112,16.36993",
+    "geom:latitude":16.36993,
+    "geom:longitude":44.06112,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Dh\u016b Z\u0101yid"
+    ],
+    "name:ara_x_variant":[
+        "\u0630\u0648 \u0632\u0627\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "DhU Zayid"
+    ],
+    "qs:name":"Dh\u016b Z\u0101yid",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8025368,
+        "gp:id":1958946,
+        "qs:id":750572,
+        "wd:id":"Q20302959"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052239,
+    "wof:geomhash":"937aa4aac2532186c2adc7698f066505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890439529,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890439529,
+    "wof:lastmodified":1514503264,
+    "wof:name":"Dh\u016b Z\u0101yid",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06112,
+    16.36993,
+    44.06112,
+    16.36993
+],
+  "geometry": {"coordinates":[44.06112,16.36993],"type":"Point"}
+}

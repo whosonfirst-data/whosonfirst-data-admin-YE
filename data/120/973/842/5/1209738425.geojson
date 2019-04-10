@@ -1,0 +1,72 @@
+{
+  "id": 1209738425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1,14.5,48.1,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":48.1,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Mashayikh `Abd al Mani`",
+    "gn:country_code":"YE",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72880,
+    "gn:latitude":14.5,
+    "gn:longitude":48.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mash\u0101yikh \u2018Abd al M\u0101ni\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mash\u0101\u2019ikh \u2018Abd al M\u0101ni\u2018",
+        "Mash\u0101yikh \u2018Abd al M\u0101ni\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72880
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d33c5f34f71a5558c2c459b97ca2ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923015,
+            "locality_id":1209738425,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1209738425,
+    "wof:lastmodified":1537715123,
+    "wof:name":"Mashayikh `Abd al Mani`",
+    "wof:parent_id":1091923015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1,
+    14.5,
+    48.1,
+    14.5
+],
+  "geometry": {"coordinates":[48.1,14.5],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1359,16.25017,43.1359,16.25017",
+    "geom:latitude":16.25017,
+    "geom:longitude":43.1359,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":19,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0639\u062c\u0645\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al A'jimiyah"
+    ],
+    "qs:name":"Al A\u2018jim\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631387,
+        "gp:id":1958967,
+        "qs:id":694383,
+        "wd:id":"Q20303417"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051543,
+    "wof:geomhash":"8f909434853d65e76932838dd237416c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890424397,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424397,
+    "wof:lastmodified":1514503135,
+    "wof:name":"Al A\u2018jim\u012byah",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1359,
+    16.25017,
+    43.1359,
+    16.25017
+],
+  "geometry": {"coordinates":[43.1359,16.25017],"type":"Point"}
+}

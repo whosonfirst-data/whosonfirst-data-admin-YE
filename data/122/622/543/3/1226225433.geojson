@@ -1,0 +1,74 @@
+{
+  "id": 1226225433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28313,15.17939,45.28313,15.17939",
+    "geom:latitude":15.17939,
+    "geom:longitude":45.28313,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"Ladah",
+    "gn:country_code":"YE",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976471,
+    "gn:latitude":15.17939,
+    "gn:longitude":45.28313,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La\u1e11\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0636\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "La\u1e11\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976471
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e95dbb476767b192168a61ab692ddb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1226225433,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226225433,
+    "wof:lastmodified":1537716158,
+    "wof:name":"Ladah",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28313,
+    15.17939,
+    45.28313,
+    15.17939
+],
+  "geometry": {"coordinates":[45.28313,15.17939],"type":"Point"}
+}

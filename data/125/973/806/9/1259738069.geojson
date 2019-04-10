@@ -1,0 +1,71 @@
+{
+  "id": 1259738069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12502,13.28716,44.12502,13.28716",
+    "geom:latitude":13.28716,
+    "geom:longitude":44.12502,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"As Suwayrah",
+    "gn:country_code":"YE",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354830,
+    "gn:latitude":13.28716,
+    "gn:longitude":44.12502,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015euwayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015euwayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354830
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ad81029706a2b34b48f73be7575f00fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1259738069,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259738069,
+    "wof:lastmodified":1537715623,
+    "wof:name":"As Suwayrah",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12502,
+    13.28716,
+    44.12502,
+    13.28716
+],
+  "geometry": {"coordinates":[44.12502,13.28716],"type":"Point"}
+}

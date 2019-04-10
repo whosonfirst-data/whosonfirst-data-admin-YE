@@ -1,0 +1,72 @@
+{
+  "id": 1226064819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96203,14.89602,42.96203,14.89602",
+    "geom:latitude":14.89602,
+    "geom:longitude":42.96203,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Mihawab",
+    "gn:country_code":"YE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407315,
+    "gn:latitude":14.89602,
+    "gn:longitude":42.96203,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al Mihawab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mihawal",
+        "Al Mihawab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407315
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e21ada852a9d72c6bf48f0a5fec876ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1226064819,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226064819,
+    "wof:lastmodified":1537715390,
+    "wof:name":"Al Mihawab",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96203,
+    14.89602,
+    42.96203,
+    14.89602
+],
+  "geometry": {"coordinates":[42.96203,14.89602],"type":"Point"}
+}

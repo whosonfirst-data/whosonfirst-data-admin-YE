@@ -1,0 +1,74 @@
+{
+  "id": 1309975811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25075,17.23476,43.25075,17.23476",
+    "geom:latitude":17.23476,
+    "geom:longitude":43.25075,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"'Abbas al Gharin",
+    "gn:country_code":"YE",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865413,
+    "gn:latitude":17.23476,
+    "gn:longitude":43.25075,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abb\u0101s al Ghar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627\u0633 \u0627\u0644\u063a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abb\u0101s al Ghar\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865413
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c27f7b23ae8c004f40ab05730c5aba74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1309975811,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309975811,
+    "wof:lastmodified":1537716003,
+    "wof:name":"'Abbas al Gharin",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25075,
+    17.23476,
+    43.25075,
+    17.23476
+],
+  "geometry": {"coordinates":[43.25075,17.23476],"type":"Point"}
+}

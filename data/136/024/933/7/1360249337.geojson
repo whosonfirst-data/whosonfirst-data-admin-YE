@@ -1,0 +1,71 @@
+{
+  "id": 1360249337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30594,14.08049,45.30594,14.08049",
+    "geom:latitude":14.08049,
+    "geom:longitude":45.30594,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Sinwan",
+    "gn:country_code":"YE",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364467,
+    "gn:latitude":14.08049,
+    "gn:longitude":45.30594,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sinw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sinw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364467
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5aa815f4de63a1038cd40762e67a9852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":1360249337,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1360249337,
+    "wof:lastmodified":1537715900,
+    "wof:name":"Sinwan",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30594,
+    14.08049,
+    45.30594,
+    14.08049
+],
+  "geometry": {"coordinates":[45.30594,14.08049],"type":"Point"}
+}

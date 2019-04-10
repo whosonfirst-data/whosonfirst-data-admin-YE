@@ -1,0 +1,71 @@
+{
+  "id": 1243542587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42478,14.66814,44.42478,14.66814",
+    "geom:latitude":14.66814,
+    "geom:longitude":44.42478,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Baddash",
+    "gn:country_code":"YE",
+    "gn:dem":2331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361568,
+    "gn:latitude":14.66814,
+    "gn:longitude":44.42478,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Badd\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badd\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361568
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"463d8cd4b51fd11b0183138482988714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1243542587,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243542587,
+    "wof:lastmodified":1537715821,
+    "wof:name":"Baddash",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42478,
+    14.66814,
+    44.42478,
+    14.66814
+],
+  "geometry": {"coordinates":[44.42478,14.66814],"type":"Point"}
+}

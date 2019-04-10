@@ -1,0 +1,69 @@
+{
+  "id": 1209590745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61667,16.25726,43.61667,16.25726",
+    "geom:latitude":16.25726,
+    "geom:longitude":43.61667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Kharab ash Sharafah",
+    "gn:country_code":"YE",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363385,
+    "gn:latitude":16.25726,
+    "gn:longitude":43.61667,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Khar\u0101b ash Sharafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0627\u0644\u0634\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b ash Shir\u0101fah",
+        "Khar\u0101b ash Sharafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363385
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"83396a769a4e6897cedc207d21b2a790",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209590745
+        }
+    ],
+    "wof:id":1209590745,
+    "wof:lastmodified":1537715871,
+    "wof:name":"Kharab ash Sharafah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61667,
+    16.25726,
+    43.61667,
+    16.25726
+],
+  "geometry": {"coordinates":[43.61667,16.25726],"type":"Point"}
+}

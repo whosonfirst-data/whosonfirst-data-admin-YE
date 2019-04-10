@@ -1,0 +1,62 @@
+{
+  "id": 1209510179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52993,15.45832,43.52993,15.45832",
+    "geom:latitude":15.45832,
+    "geom:longitude":43.52993,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Jabal",
+    "gn:country_code":"YE",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300346,
+    "gn:latitude":15.45832,
+    "gn:longitude":43.52993,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300346
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f796a6226baa929d3867ffc52d30438c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209510179
+        }
+    ],
+    "wof:id":1209510179,
+    "wof:lastmodified":1536284906,
+    "wof:name":"Al Jabal",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52993,
+    15.45832,
+    43.52993,
+    15.45832
+],
+  "geometry": {"coordinates":[43.52993,15.45832],"type":"Point"}
+}

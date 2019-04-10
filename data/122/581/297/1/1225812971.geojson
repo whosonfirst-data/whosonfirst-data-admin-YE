@@ -1,0 +1,71 @@
+{
+  "id": 1225812971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10832,13.18194,44.10832,13.18194",
+    "geom:latitude":13.18194,
+    "geom:longitude":44.10832,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Hafr",
+    "gn:country_code":"YE",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355314,
+    "gn:latitude":13.18194,
+    "gn:longitude":44.10832,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28afr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28afr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355314
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f5080cf444c92d45c809a9a2764a9300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1225812971,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1225812971,
+    "wof:lastmodified":1537715634,
+    "wof:name":"Al Hafr",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10832,
+    13.18194,
+    44.10832,
+    13.18194
+],
+  "geometry": {"coordinates":[44.10832,13.18194],"type":"Point"}
+}

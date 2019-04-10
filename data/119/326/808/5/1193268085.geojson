@@ -1,0 +1,77 @@
+{
+  "id": 1193268085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30805,14.80305,43.30805,14.80305",
+    "geom:latitude":14.80305,
+    "geom:longitude":43.30805,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Al Qutay`ah",
+    "gn:country_code":"YE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340856,
+    "gn:latitude":14.80305,
+    "gn:longitude":43.30805,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Qu\u0163ay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mir\u0101\u1e29 \u2018Abdah Ibr\u0101h\u012bm",
+        "Al Qu\u0163ay\u2018ah",
+        "Al Qa\u0163\u012b\u2018ah",
+        "Mir\u0101\u1e29 \u2018Abduh Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340856
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4a587b6c63fe62094550d3d0f55b8382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1193268085,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193268085,
+    "wof:lastmodified":1537715463,
+    "wof:name":"Al Qutay`ah",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30805,
+    14.80305,
+    43.30805,
+    14.80305
+],
+  "geometry": {"coordinates":[43.30805,14.80305],"type":"Point"}
+}

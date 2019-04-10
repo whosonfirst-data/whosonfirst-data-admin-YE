@@ -1,0 +1,74 @@
+{
+  "id": 1277044187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58099,15.70273,43.58099,15.70273",
+    "geom:latitude":15.70273,
+    "geom:longitude":43.58099,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1728.0",
+    "gn:asciiname":"Dufur",
+    "gn:country_code":"YE",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75942,
+    "gn:latitude":15.70273,
+    "gn:longitude":43.58099,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e10ufur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10ufur"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ufayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75942
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"51ca0c19caa5304edd1745ba56179023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923885,
+            "locality_id":1277044187,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1277044187,
+    "wof:lastmodified":1537715184,
+    "wof:name":"Dufur",
+    "wof:parent_id":1091923885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58099,
+    15.70273,
+    43.58099,
+    15.70273
+],
+  "geometry": {"coordinates":[43.58099,15.70273],"type":"Point"}
+}

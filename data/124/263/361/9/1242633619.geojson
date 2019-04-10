@@ -1,0 +1,71 @@
+{
+  "id": 1242633619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38444,15.79339,43.38444,15.79339",
+    "geom:latitude":15.79339,
+    "geom:longitude":43.38444,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Qaryat al `Ushur",
+    "gn:country_code":"YE",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366263,
+    "gn:latitude":15.79339,
+    "gn:longitude":43.38444,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al \u2018Ushur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al \u2018Ushur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366263
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5e9ea35c59959a352b36f001deb940a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1242633619,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242633619,
+    "wof:lastmodified":1537715950,
+    "wof:name":"Qaryat al `Ushur",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38444000000001,
+    15.79339,
+    43.38444000000001,
+    15.79339
+],
+  "geometry": {"coordinates":[43.38444000000001,15.79339],"type":"Point"}
+}

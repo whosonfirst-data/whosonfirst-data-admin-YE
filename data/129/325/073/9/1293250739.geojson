@@ -1,0 +1,74 @@
+{
+  "id": 1293250739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62515,15.54231,43.62515,15.54231",
+    "geom:latitude":15.54231,
+    "geom:longitude":43.62515,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"An Najid",
+    "gn:country_code":"YE",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980551,
+    "gn:latitude":15.54231,
+    "gn:longitude":43.62515,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Naj\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "An Naj\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980551
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e35fd9ba038cd9cbec429a62cee7003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1293250739,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293250739,
+    "wof:lastmodified":1537716173,
+    "wof:name":"An Najid",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62515,
+    15.54231,
+    43.62515,
+    15.54231
+],
+  "geometry": {"coordinates":[43.62515,15.54231],"type":"Point"}
+}

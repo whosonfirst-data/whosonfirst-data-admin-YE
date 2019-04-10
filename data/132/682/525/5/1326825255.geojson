@@ -1,0 +1,71 @@
+{
+  "id": 1326825255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32796,15.34359,43.32796,15.34359",
+    "geom:latitude":15.34359,
+    "geom:longitude":43.32796,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Bani Yahya",
+    "gn:country_code":"YE",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365214,
+    "gn:latitude":15.34359,
+    "gn:longitude":43.32796,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ban\u012b Ya\u1e29y\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Ya\u1e29y\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365214
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a17363043815de37c03e11abb0d3b9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1326825255,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1326825255,
+    "wof:lastmodified":1537715922,
+    "wof:name":"Bani Yahya",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32796,
+    15.34359,
+    43.32796,
+    15.34359
+],
+  "geometry": {"coordinates":[43.32796,15.34359],"type":"Point"}
+}

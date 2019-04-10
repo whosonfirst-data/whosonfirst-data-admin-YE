@@ -1,0 +1,73 @@
+{
+  "id": 890454579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42984,16.03043,43.42984,16.03043",
+    "geom:latitude":16.03043,
+    "geom:longitude":43.42984,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u062d\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bayhin"
+    ],
+    "qs:name":"Al Bay\u1e29\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682443,
+        "gp:id":1958568,
+        "qs:id":697217,
+        "wd:id":"Q20304727"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052905,
+    "wof:geomhash":"dcc88e497bfeccadb58db54872c14b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":890454579,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454579,
+    "wof:lastmodified":1514503140,
+    "wof:name":"Al Bay\u1e29\u012bn",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42984,
+    16.03043,
+    43.42984,
+    16.03043
+],
+  "geometry": {"coordinates":[43.42984,16.03043],"type":"Point"}
+}

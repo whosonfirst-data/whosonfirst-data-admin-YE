@@ -1,0 +1,77 @@
+{
+  "id": 1225941755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.196,15.08873,43.196,15.08873",
+    "geom:latitude":15.08873,
+    "geom:longitude":43.196,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Mihsam",
+    "gn:country_code":"YE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365346,
+    "gn:latitude":15.08873,
+    "gn:longitude":43.196,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al Mi\u1e29\u015f\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u1e29s\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0635\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Mi\u1e29\u015f\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365346
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0d69874ef3360bd4bff6f997a7ae1f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1225941755,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225941755,
+    "wof:lastmodified":1537715926,
+    "wof:name":"Al Mihsam",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19600000000001,
+    15.08873,
+    43.19600000000001,
+    15.08873
+],
+  "geometry": {"coordinates":[43.19600000000001,15.08873],"type":"Point"}
+}

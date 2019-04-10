@@ -1,0 +1,75 @@
+{
+  "id": 1343616391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15248,13.24113,44.15248,13.24113",
+    "geom:latitude":13.24113,
+    "geom:longitude":44.15248,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Zabr",
+    "gn:country_code":"YE",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409044,
+    "gn:latitude":13.24113,
+    "gn:longitude":44.15248,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Zabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al Aqb\u016bsh",
+        "Zabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409044
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf8343712e423fda056ccc3c7754ca3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343616391,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343616391,
+    "wof:lastmodified":1537715425,
+    "wof:name":"Zabr",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15248,
+    13.24113,
+    44.15248,
+    13.24113
+],
+  "geometry": {"coordinates":[44.15248,13.24113],"type":"Point"}
+}

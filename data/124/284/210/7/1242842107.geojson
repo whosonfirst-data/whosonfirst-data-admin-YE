@@ -1,0 +1,74 @@
+{
+  "id": 1242842107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12795,13.22844,44.12795,13.22844",
+    "geom:latitude":13.22844,
+    "geom:longitude":44.12795,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871483,
+    "gn:latitude":13.22844,
+    "gn:longitude":44.12795,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871483
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3154f395bd984ac83e51d3440143d8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1242842107,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242842107,
+    "wof:lastmodified":1537716246,
+    "wof:name":"Al 'Ulya",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12795,
+    13.22844,
+    44.12795,
+    13.22844
+],
+  "geometry": {"coordinates":[44.12795,13.22844],"type":"Point"}
+}

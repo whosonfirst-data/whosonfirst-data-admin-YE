@@ -1,0 +1,71 @@
+{
+  "id": 1259761483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49093,15.46345,43.49093,15.46345",
+    "geom:latitude":15.46345,
+    "geom:longitude":43.49093,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bayt `Umar",
+    "gn:country_code":"YE",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365217,
+    "gn:latitude":15.46345,
+    "gn:longitude":43.49093,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bayt \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365217
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"16a21a0873d4d1ed7de71d3358f57625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1259761483,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259761483,
+    "wof:lastmodified":1537715922,
+    "wof:name":"Bayt `Umar",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49093,
+    15.46345,
+    43.49093,
+    15.46345
+],
+  "geometry": {"coordinates":[43.49093,15.46345],"type":"Point"}
+}

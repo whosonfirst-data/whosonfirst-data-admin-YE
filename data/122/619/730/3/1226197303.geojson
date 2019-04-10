@@ -1,0 +1,71 @@
+{
+  "id": 1226197303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44599,13.59028,44.44599,13.59028",
+    "geom:latitude":13.59028,
+    "geom:longitude":44.44599,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Rubt",
+    "gn:country_code":"YE",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357784,
+    "gn:latitude":13.59028,
+    "gn:longitude":44.44599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rub\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Rub\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357784
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d6d4e53a47cccce42832a526ca5fa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1226197303,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226197303,
+    "wof:lastmodified":1537715708,
+    "wof:name":"Rubt",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44599,
+    13.59028,
+    44.44599,
+    13.59028
+],
+  "geometry": {"coordinates":[44.44599,13.59028],"type":"Point"}
+}

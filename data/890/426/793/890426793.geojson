@@ -1,0 +1,76 @@
+{
+  "id": 890426793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19635,14.16698,45.19635,14.16698",
+    "geom:latitude":14.16698,
+    "geom:longitude":45.19635,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Jumr\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0645\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jumri"
+    ],
+    "qs:name":"Al Jumr\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051848,
+        "gp:id":1958988,
+        "qs:id":751230,
+        "wd:id":"Q20303849"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051646,
+    "wof:geomhash":"93ad6e075f334acb9d852dd5564cf725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890426793,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890426793,
+    "wof:lastmodified":1514503162,
+    "wof:name":"Al Jumr\u012b",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19635,
+    14.16698,
+    45.19635,
+    14.16698
+],
+  "geometry": {"coordinates":[45.19635,14.16698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360174467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01361,15.64568,43.01361,15.64568",
+    "geom:latitude":15.64568,
+    "geom:longitude":43.01361,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Mahall Sarur",
+    "gn:country_code":"YE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366384,
+    "gn:latitude":15.64568,
+    "gn:longitude":43.01361,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Sar\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Sar\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366384
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9414884a1d8b693f2c9a8090beaac8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1360174467,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360174467,
+    "wof:lastmodified":1537715953,
+    "wof:name":"Mahall Sarur",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01361,
+    15.64568,
+    43.01361,
+    15.64568
+],
+  "geometry": {"coordinates":[43.01361,15.64568],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890419773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49707,14.98466,45.49707,14.98466",
+    "geom:latitude":14.98466,
+    "geom:longitude":45.49707,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0639 \u0627\u0644\u0645\u0648\u0633\u0637\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0634\u0639"
+    ],
+    "name:unk_x_variant":[
+        "Al Qash\u2018"
+    ],
+    "qs:name":"Qash\u2018 al Mawsi\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053559,
+        "gp:id":1959055,
+        "qs:id":751757,
+        "qs_pg:id":751956
+    },
+    "wof:country":"YE",
+    "wof:created":1469051301,
+    "wof:geomhash":"dd4bd096acf892cc3b08465500a5b563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890419773,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890419773,
+    "wof:lastmodified":1505343452,
+    "wof:name":"Qash\u2018 al Mawsi\u0163ah",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49707,
+    14.98466,
+    45.49707,
+    14.98466
+],
+  "geometry": {"coordinates":[45.49707,14.98466],"type":"Point"}
+}

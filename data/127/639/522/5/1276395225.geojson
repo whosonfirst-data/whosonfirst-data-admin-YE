@@ -1,0 +1,71 @@
+{
+  "id": 1276395225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56635,15.72051,43.56635,15.72051",
+    "geom:latitude":15.72051,
+    "geom:longitude":43.56635,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1720.0",
+    "gn:asciiname":"Dar Hajib",
+    "gn:country_code":"YE",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344540,
+    "gn:latitude":15.72051,
+    "gn:longitude":43.56635,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r \u1e28\u0101jib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r \u1e28\u0101jib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344540
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"97297de7967f4353fcbbd12384eeeeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":1276395225,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276395225,
+    "wof:lastmodified":1537715543,
+    "wof:name":"Dar Hajib",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56635,
+    15.72051,
+    43.56635,
+    15.72051
+],
+  "geometry": {"coordinates":[43.56635,15.72051],"type":"Point"}
+}

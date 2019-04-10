@@ -1,0 +1,71 @@
+{
+  "id": 1360153005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89243,12.94503,43.89243,12.94503",
+    "geom:latitude":12.94503,
+    "geom:longitude":43.89243,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"At Tufaysah",
+    "gn:country_code":"YE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77656,
+    "gn:latitude":12.94503,
+    "gn:longitude":43.89243,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u0163 \u0162ufaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162ufaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77656
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9974305e56fc4dbb5064f63a263b792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1360153005,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1360153005,
+    "wof:lastmodified":1537715229,
+    "wof:name":"At Tufaysah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89243,
+    12.94503,
+    43.89243,
+    12.94503
+],
+  "geometry": {"coordinates":[43.89243,12.94503],"type":"Point"}
+}

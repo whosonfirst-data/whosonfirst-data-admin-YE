@@ -1,0 +1,68 @@
+{
+  "id": 1276519011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68989,15.1382,43.68989,15.1382",
+    "geom:latitude":15.1382,
+    "geom:longitude":43.68989,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2310.0",
+    "gn:asciiname":"Sharaf al Qaryah",
+    "gn:country_code":"YE",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360727,
+    "gn:latitude":15.1382,
+    "gn:longitude":43.68989,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sharaf al Qaryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360727
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10b686d8af75319aa326c9e9a8364e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925811,
+            "locality_id":1276519011,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276519011,
+    "wof:lastmodified":1537026123,
+    "wof:name":"Sharaf al Qaryah",
+    "wof:parent_id":1091925811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68989000000001,
+    15.1382,
+    43.68989000000001,
+    15.1382
+],
+  "geometry": {"coordinates":[43.68989000000001,15.1382],"type":"Point"}
+}

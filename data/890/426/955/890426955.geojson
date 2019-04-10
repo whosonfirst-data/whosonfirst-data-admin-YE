@@ -1,0 +1,76 @@
+{
+  "id": 890426955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19983,14.96304,45.19983,14.96304",
+    "geom:latitude":14.96304,
+    "geom:longitude":45.19983,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Shirw\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0631\u0648\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Shirwam"
+    ],
+    "qs:name":"Shirw\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053399,
+        "gp:id":1959055,
+        "qs:id":751816,
+        "wd:id":"Q20308529"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051663,
+    "wof:geomhash":"30c877fafb6faff9fbda472edc25749e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":890426955,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426955,
+    "wof:lastmodified":1514503368,
+    "wof:name":"Shirw\u0101m",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19983,
+    14.96304,
+    45.19983,
+    14.96304
+],
+  "geometry": {"coordinates":[45.19983,14.96304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890427223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24544,16.71017,43.24544,16.71017",
+    "geom:latitude":16.71017,
+    "geom:longitude":43.24544,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Zabtah"
+    ],
+    "qs:name":"Zab\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079428,
+        "gp:id":1938881,
+        "qs:id":754810,
+        "wd:id":"Q20309563"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051684,
+    "wof:geomhash":"91fc3b3285d8be9a7eb1a4c6b7f6b8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890427223,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427223,
+    "wof:lastmodified":1514503383,
+    "wof:name":"Zab\u0163ah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24544,
+    16.71017,
+    43.24544,
+    16.71017
+],
+  "geometry": {"coordinates":[43.24544,16.71017],"type":"Point"}
+}

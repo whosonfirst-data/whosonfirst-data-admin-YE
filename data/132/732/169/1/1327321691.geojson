@@ -1,0 +1,71 @@
+{
+  "id": 1327321691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00126,14.50791,44.00126,14.50791",
+    "geom:latitude":14.50791,
+    "geom:longitude":44.00126,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Lakamat ad Dafir",
+    "gn:country_code":"YE",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361414,
+    "gn:latitude":14.50791,
+    "gn:longitude":44.00126,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lakamat a\u1e11 \u1e10af\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakamat a\u1e11 \u1e10af\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361414
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb83934e727abacda5d8858c90b5c971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1327321691,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1327321691,
+    "wof:lastmodified":1537715819,
+    "wof:name":"Lakamat ad Dafir",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00126,
+    14.50791,
+    44.00126,
+    14.50791
+],
+  "geometry": {"coordinates":[44.00126,14.50791],"type":"Point"}
+}

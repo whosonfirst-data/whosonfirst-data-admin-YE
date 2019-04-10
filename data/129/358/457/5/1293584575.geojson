@@ -1,0 +1,71 @@
+{
+  "id": 1293584575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0807,15.43364,43.0807,15.43364",
+    "geom:latitude":15.43364,
+    "geom:longitude":43.0807,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall al Khatib",
+    "gn:country_code":"YE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402942,
+    "gn:latitude":15.43364,
+    "gn:longitude":43.0807,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all al Kha\u0163\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Kha\u0163\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402942
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"de1f8fa9bcb8ff7dc66052be20f2a4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1293584575,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293584575,
+    "wof:lastmodified":1537715366,
+    "wof:name":"Mahall al Khatib",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0807,
+    15.43364,
+    43.0807,
+    15.43364
+],
+  "geometry": {"coordinates":[43.0807,15.43364],"type":"Point"}
+}

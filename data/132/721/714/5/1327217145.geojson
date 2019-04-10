@@ -1,0 +1,74 @@
+{
+  "id": 1327217145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81238,15.75972,44.81238,15.75972",
+    "geom:latitude":15.75972,
+    "geom:longitude":44.81238,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Al Batin",
+    "gn:country_code":"YE",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342808,
+    "gn:latitude":15.75972,
+    "gn:longitude":44.81238,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Al B\u0101\u0163in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al B\u0101\u0163in"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0637\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342808
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d48e95ae134dbc79b1f9f68fdb2f85e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1327217145,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1327217145,
+    "wof:lastmodified":1537715506,
+    "wof:name":"Al Batin",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81238,
+    15.75972,
+    44.81238,
+    15.75972
+],
+  "geometry": {"coordinates":[44.81238,15.75972],"type":"Point"}
+}

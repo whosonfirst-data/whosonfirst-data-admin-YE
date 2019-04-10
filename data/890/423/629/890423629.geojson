@@ -1,0 +1,73 @@
+{
+  "id": 890423629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29858,16.47405,43.29858,16.47405",
+    "geom:latitude":16.47405,
+    "geom:longitude":43.29858,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u0631 \u063a\u0627\u0631\u0628 \u0627\u0644\u0643\u0631\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Dawar Gharib Al Kurs"
+    ],
+    "qs:name":"D\u0101war Gh\u0101rib al Kurs",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755938,
+        "gp:id":1959057,
+        "qs:id":698800,
+        "wd:id":"Q20301997"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051506,
+    "wof:geomhash":"f2b71cf540cb4e2dd011b7ae29ce2bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890423629,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423629,
+    "wof:lastmodified":1514503265,
+    "wof:name":"D\u0101war Gh\u0101rib al Kurs",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29858,
+    16.47405,
+    43.29858,
+    16.47405
+],
+  "geometry": {"coordinates":[43.29858,16.47405],"type":"Point"}
+}

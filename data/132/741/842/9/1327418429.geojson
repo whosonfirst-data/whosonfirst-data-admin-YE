@@ -1,0 +1,74 @@
+{
+  "id": 1327418429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23088,15.37758,43.23088,15.37758",
+    "geom:latitude":15.37758,
+    "geom:longitude":43.23088,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Makhduf",
+    "gn:country_code":"YE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036039,
+    "gn:latitude":15.37758,
+    "gn:longitude":43.23088,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makhd\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u062f\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Makhd\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036039
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96b2324a2f5b43a7dbb4d5cbf6aacd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1327418429,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327418429,
+    "wof:lastmodified":1537716308,
+    "wof:name":"Makhduf",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23088,
+    15.37758,
+    43.23088,
+    15.37758
+],
+  "geometry": {"coordinates":[43.23088,15.37758],"type":"Point"}
+}

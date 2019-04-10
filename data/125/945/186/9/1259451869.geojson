@@ -1,0 +1,71 @@
+{
+  "id": 1259451869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33528,15.85392,43.33528,15.85392",
+    "geom:latitude":15.85392,
+    "geom:longitude":43.33528,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1722.0",
+    "gn:asciiname":"Bayt al Mijahid",
+    "gn:country_code":"YE",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365827,
+    "gn:latitude":15.85392,
+    "gn:longitude":43.33528,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Mij\u0101hid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Mij\u0101hid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365827
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96bf7bf0cc1703fd45537cc901e974e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923981,
+            "locality_id":1259451869,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259451869,
+    "wof:lastmodified":1537715940,
+    "wof:name":"Bayt al Mijahid",
+    "wof:parent_id":1091923981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33528,
+    15.85392,
+    43.33528,
+    15.85392
+],
+  "geometry": {"coordinates":[43.33528,15.85392],"type":"Point"}
+}

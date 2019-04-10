@@ -1,0 +1,72 @@
+{
+  "id": 1243139845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32149,13.26863,44.32149,13.26863",
+    "geom:latitude":13.26863,
+    "geom:longitude":44.32149,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Ma`shar",
+    "gn:country_code":"YE",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78881,
+    "gn:latitude":13.26863,
+    "gn:longitude":44.32149,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ma\u2018shar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2018shar",
+        "Al Ma\u2018shar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78881
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"228a5888c0cd52ac1258ca77d9276a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1243139845,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243139845,
+    "wof:lastmodified":1537715276,
+    "wof:name":"Ma`shar",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32149,
+    13.26863,
+    44.32149,
+    13.26863
+],
+  "geometry": {"coordinates":[44.32149,13.26863],"type":"Point"}
+}

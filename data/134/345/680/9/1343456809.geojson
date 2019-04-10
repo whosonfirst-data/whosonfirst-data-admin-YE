@@ -1,0 +1,76 @@
+{
+  "id": 1343456809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76636,14.35147,46.76636,14.35147",
+    "geom:latitude":14.35147,
+    "geom:longitude":46.76636,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Al Musayni`ah",
+    "gn:country_code":"YE",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78730,
+    "gn:latitude":14.35147,
+    "gn:longitude":46.76636,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Al Mu\u015fayni\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u064a\u0646\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Musayni\u2018ah",
+        "Al-Mu\u1e63aini\u2018ah",
+        "Al Mu\u015fayni\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78730
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75ec4ba32e3a625b2abbf5f52d6dbbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925997,
+            "locality_id":1343456809,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343456809,
+    "wof:lastmodified":1537715270,
+    "wof:name":"Al Musayni`ah",
+    "wof:parent_id":1091925997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76636,
+    14.35147,
+    46.76636,
+    14.35147
+],
+  "geometry": {"coordinates":[46.76636,14.35147],"type":"Point"}
+}

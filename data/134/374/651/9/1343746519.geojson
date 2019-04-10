@@ -1,0 +1,71 @@
+{
+  "id": 1343746519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.84111,15.71793,42.84111,15.71793",
+    "geom:latitude":15.71793,
+    "geom:longitude":42.84111,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Mahall Husayn",
+    "gn:country_code":"YE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73275,
+    "gn:latitude":15.71793,
+    "gn:longitude":42.84111,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ma\u1e29all \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73275
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5251424f0cfb475fe08aacc7090f299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1343746519,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343746519,
+    "wof:lastmodified":1537715130,
+    "wof:name":"Mahall Husayn",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.84111,
+    15.71793,
+    42.84111,
+    15.71793
+],
+  "geometry": {"coordinates":[42.84111,15.71793],"type":"Point"}
+}

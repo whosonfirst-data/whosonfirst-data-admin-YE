@@ -1,0 +1,75 @@
+{
+  "id": 1310389973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06126,15.1005,43.06126,15.1005",
+    "geom:latitude":15.1005,
+    "geom:longitude":43.06126,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Yahya Saghir",
+    "gn:country_code":"YE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70631,
+    "gn:latitude":15.1005,
+    "gn:longitude":43.06126,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ya\u1e29y\u00e1 \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062d\u064a\u0649 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Shirjan",
+        "Ya\u1e29y\u00e1 \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70631
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d377b3237e11676f281085b46bf3e52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1310389973,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310389973,
+    "wof:lastmodified":1537715081,
+    "wof:name":"Yahya Saghir",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06126,
+    15.1005,
+    43.06126,
+    15.1005
+],
+  "geometry": {"coordinates":[43.06126,15.1005],"type":"Point"}
+}

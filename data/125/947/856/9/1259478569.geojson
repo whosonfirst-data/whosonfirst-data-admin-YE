@@ -1,0 +1,74 @@
+{
+  "id": 1259478569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.266,14.96936,43.266,14.96936",
+    "geom:latitude":14.96936,
+    "geom:longitude":43.266,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Al Mazra'ah",
+    "gn:country_code":"YE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058335,
+    "gn:latitude":14.96936,
+    "gn:longitude":43.266,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mazra\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mazra\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058335
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d922f6dce5f0f39c92af1d1994e06453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1259478569,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259478569,
+    "wof:lastmodified":1537716335,
+    "wof:name":"Al Mazra'ah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26600000000001,
+    14.96936,
+    43.26600000000001,
+    14.96936
+],
+  "geometry": {"coordinates":[43.26600000000001,14.96936],"type":"Point"}
+}

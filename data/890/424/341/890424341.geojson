@@ -1,0 +1,76 @@
+{
+  "id": 890424341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.90836,16.23803,42.90836,16.23803",
+    "geom:latitude":16.23803,
+    "geom:longitude":42.90836,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0645\u0643\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Makki"
+    ],
+    "name:unk_x_variant":[
+        "\u0628\u0646\u064a \u0645\u0643\u064a"
+    ],
+    "qs:name":"Ban\u012b Makk\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622376,
+        "gp:id":1959100,
+        "qs:id":694043,
+        "wd:id":"Q20299142"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051540,
+    "wof:geomhash":"7b4ed745f1882a6cbf1e9fe3882bc1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924125,
+            "locality_id":890424341,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424341,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b Makk\u012b",
+    "wof:parent_id":1091924125,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.90836,
+    16.23803,
+    42.90836,
+    16.23803
+],
+  "geometry": {"coordinates":[42.90836,16.23803],"type":"Point"}
+}

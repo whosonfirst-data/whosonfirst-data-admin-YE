@@ -1,0 +1,73 @@
+{
+  "id": 890452131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35938,16.68188,43.35938,16.68188",
+    "geom:latitude":16.68188,
+    "geom:longitude":43.35938,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0631\u0628 \u062d\u0648\u062a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Gharib Hawtan"
+    ],
+    "qs:name":"Gh\u0101rib \u1e28awt\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855349,
+        "gp:id":1959134,
+        "qs:id":742259,
+        "wd:id":"Q20303932"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052806,
+    "wof:geomhash":"3e250e8a66d7d6fc94508f213752ebc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890452131,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890452131,
+    "wof:lastmodified":1514503271,
+    "wof:name":"Gh\u0101rib \u1e28awt\u0101n",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35938,
+    16.68188,
+    43.35938,
+    16.68188
+],
+  "geometry": {"coordinates":[43.35938,16.68188],"type":"Point"}
+}

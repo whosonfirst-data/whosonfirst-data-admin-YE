@@ -1,0 +1,76 @@
+{
+  "id": 1259354539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14129,15.52047,44.14129,15.52047",
+    "geom:latitude":15.52047,
+    "geom:longitude":44.14129,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Al Hawiri",
+    "gn:country_code":"YE",
+    "gn:dem":2260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76982,
+    "gn:latitude":15.52047,
+    "gn:longitude":44.14129,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28\u0101wir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101wir\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bayt al \u1e28awr\u012b",
+        "Bayt al \u1e28\u0101wir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76982,
+        "wk:page":"Bayt_al-Hawiri"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e9d9ff2c254f2ec7453f6ce1202fed02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1259354539,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259354539,
+    "wof:lastmodified":1537715216,
+    "wof:name":"Al Hawiri",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14129000000001,
+    15.52047,
+    44.14129000000001,
+    15.52047
+],
+  "geometry": {"coordinates":[44.14129000000001,15.52047],"type":"Point"}
+}

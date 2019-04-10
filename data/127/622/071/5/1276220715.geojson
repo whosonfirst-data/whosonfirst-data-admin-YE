@@ -1,0 +1,71 @@
+{
+  "id": 1276220715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44526,15.10236,43.44526,15.10236",
+    "geom:latitude":15.10236,
+    "geom:longitude":43.44526,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Mahall `Ali `Alwan",
+    "gn:country_code":"YE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365462,
+    "gn:latitude":15.10236,
+    "gn:longitude":43.44526,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all \u2018Al\u012b \u2018Alw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all \u2018Al\u012b \u2018Alw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365462
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"895699ed29861b85ecff73dd38f5a6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1276220715,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276220715,
+    "wof:lastmodified":1537715931,
+    "wof:name":"Mahall `Ali `Alwan",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44526,
+    15.10236,
+    43.44526,
+    15.10236
+],
+  "geometry": {"coordinates":[43.44526,15.10236],"type":"Point"}
+}

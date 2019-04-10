@@ -1,0 +1,74 @@
+{
+  "id": 1225919323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00624,15.99979,44.00624,15.99979",
+    "geom:latitude":15.99979,
+    "geom:longitude":44.00624,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Baynin",
+    "gn:country_code":"YE",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975320,
+    "gn:latitude":15.99979,
+    "gn:longitude":44.00624,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayn\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayn\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975320
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"92db74329062c80c23e87e8d99f5e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1225919323,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1225919323,
+    "wof:lastmodified":1537716122,
+    "wof:name":"Baynin",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00624000000001,
+    15.99979,
+    44.00624000000001,
+    15.99979
+],
+  "geometry": {"coordinates":[44.00624000000001,15.99979],"type":"Point"}
+}

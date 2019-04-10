@@ -1,0 +1,71 @@
+{
+  "id": 1309775707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32292,17.14532,43.32292,17.14532",
+    "geom:latitude":17.14532,
+    "geom:longitude":43.32292,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Umm Shajnah",
+    "gn:country_code":"YE",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865364,
+    "gn:latitude":17.14532,
+    "gn:longitude":43.32292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm Shajnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0634\u062c\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865364
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5630005241adaed33434aaa20dd6369f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1309775707,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1309775707,
+    "wof:lastmodified":1537716002,
+    "wof:name":"Umm Shajnah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32292,
+    17.14532,
+    43.32292,
+    17.14532
+],
+  "geometry": {"coordinates":[43.32292,17.14532],"type":"Point"}
+}

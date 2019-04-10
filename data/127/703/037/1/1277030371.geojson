@@ -1,0 +1,71 @@
+{
+  "id": 1277030371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03699,14.33343,44.03699,14.33343",
+    "geom:latitude":14.33343,
+    "geom:longitude":44.03699,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Al Jawhar",
+    "gn:country_code":"YE",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870376,
+    "gn:latitude":14.33343,
+    "gn:longitude":44.03699,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jawhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870376
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"32e272e95b4442575eff7e5bdccca7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1277030371,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1277030371,
+    "wof:lastmodified":1537716221,
+    "wof:name":"Al Jawhar",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03699,
+    14.33343,
+    44.03699,
+    14.33343
+],
+  "geometry": {"coordinates":[44.03699,14.33343],"type":"Point"}
+}

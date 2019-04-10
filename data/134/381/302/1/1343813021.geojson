@@ -1,0 +1,71 @@
+{
+  "id": 1343813021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0742,13.38135,44.0742,13.38135",
+    "geom:latitude":13.38135,
+    "geom:longitude":44.0742,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Al Qurf",
+    "gn:country_code":"YE",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354803,
+    "gn:latitude":13.38135,
+    "gn:longitude":44.0742,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Qurf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qirf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354803
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6c2e976235a8b39418bf216c21026324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1343813021,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343813021,
+    "wof:lastmodified":1537715622,
+    "wof:name":"Al Qurf",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0742,
+    13.38135,
+    44.0742,
+    13.38135
+],
+  "geometry": {"coordinates":[44.0742,13.38135],"type":"Point"}
+}

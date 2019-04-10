@@ -1,0 +1,76 @@
+{
+  "id": 890413779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43014,16.0655,43.43014,16.0655",
+    "geom:latitude":16.0655,
+    "geom:longitude":43.43014,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Muf\u0101l\u012bq"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0641\u0627\u0644\u064a\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mufaliq"
+    ],
+    "qs:name":"Al Muf\u0101l\u012bq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682234,
+        "gp:id":1958568,
+        "qs:id":697049,
+        "wd:id":"Q20301987"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051014,
+    "wof:geomhash":"52569b3fb2e20364ac0d85a473fa15dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890413779,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890413779,
+    "wof:lastmodified":1514503191,
+    "wof:name":"Al Muf\u0101l\u012bq",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43014,
+    16.0655,
+    43.43014,
+    16.0655
+],
+  "geometry": {"coordinates":[43.43014,16.0655],"type":"Point"}
+}

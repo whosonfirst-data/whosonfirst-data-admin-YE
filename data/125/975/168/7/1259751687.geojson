@@ -1,0 +1,77 @@
+{
+  "id": 1259751687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17395,13.84266,44.17395,13.84266",
+    "geom:latitude":13.84266,
+    "geom:longitude":44.17395,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"As Sayyani",
+    "gn:country_code":"YE",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":77791,
+    "gn:latitude":13.84266,
+    "gn:longitude":44.17395,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Sayy\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "As Say\u0101min",
+        "Al Sayyan\u2018",
+        "As Say\u0101n\u012b",
+        "As Sayy\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d0b890ec81e312740a4ccb27673ff773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1259751687,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259751687,
+    "wof:lastmodified":1537715235,
+    "wof:name":"As Sayyani",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17395,
+    13.84266,
+    44.17395,
+    13.84266
+],
+  "geometry": {"coordinates":[44.17395,13.84266],"type":"Point"}
+}

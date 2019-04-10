@@ -1,0 +1,71 @@
+{
+  "id": 1276719107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42167,13.20583,44.42167,13.20583",
+    "geom:latitude":13.20583,
+    "geom:longitude":44.42167,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Mijhalah",
+    "gn:country_code":"YE",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409090,
+    "gn:latitude":13.20583,
+    "gn:longitude":44.42167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mijh\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mijh\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409090
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f315755f0e57907d1a9cc3ec19ef79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1276719107,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1276719107,
+    "wof:lastmodified":1537715425,
+    "wof:name":"Mijhalah",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42167,
+    13.20583,
+    44.42167,
+    13.20583
+],
+  "geometry": {"coordinates":[44.42167,13.20583],"type":"Point"}
+}

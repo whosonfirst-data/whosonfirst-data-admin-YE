@@ -1,0 +1,74 @@
+{
+  "id": 1225909195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79232,16.03187,43.79232,16.03187",
+    "geom:latitude":16.03187,
+    "geom:longitude":43.79232,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Hadabat Zaqlan",
+    "gn:country_code":"YE",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634361,
+    "gn:latitude":16.03187,
+    "gn:longitude":43.79232,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28adabat Zaql\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0628\u0629 \u0632\u0642\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28adabat Zaql\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634361
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7e5aa3adb8c3211e6a90662a5e3a5f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1225909195,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1225909195,
+    "wof:lastmodified":1537716076,
+    "wof:name":"Hadabat Zaqlan",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79232,
+    16.03187,
+    43.79232,
+    16.03187
+],
+  "geometry": {"coordinates":[43.79232,16.03187],"type":"Point"}
+}

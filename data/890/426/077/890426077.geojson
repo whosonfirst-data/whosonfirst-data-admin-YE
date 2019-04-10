@@ -1,0 +1,73 @@
+{
+  "id": 890426077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43705,17.36758,43.43705,17.36758",
+    "geom:latitude":17.36758,
+    "geom:longitude":43.43705,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0642\u0648\u0632\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al ManqUzah"
+    ],
+    "qs:name":"Al Manq\u016bzah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856488,
+        "gp:id":56447933,
+        "qs:id":742409,
+        "wd:id":"Q20307781"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051617,
+    "wof:geomhash":"2ad29ceb900f3135618990e9610a0f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890426077,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426077,
+    "wof:lastmodified":1514503180,
+    "wof:name":"Al Manq\u016bzah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43705,
+    17.36758,
+    43.43705,
+    17.36758
+],
+  "geometry": {"coordinates":[43.43705,17.36758],"type":"Point"}
+}

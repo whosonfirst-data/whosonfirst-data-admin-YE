@@ -1,0 +1,85 @@
+{
+  "id": 1126102285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42544,17.17738,43.42544,17.17738",
+    "geom:latitude":17.17738,
+    "geom:longitude":43.42544,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":17.17738,
+    "lbl:longitude":43.42544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al Mi\u2018z\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0632\u0627\u0628"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7865276,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Al Mi\u2018z\u0101b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":742902,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091925445,
+        85680955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865276,
+        "qs_pg:id":742902
+    },
+    "wof:country":"YE",
+    "wof:created":1497316289,
+    "wof:geomhash":"a1df3530d9aaf24ffb155c9192c24209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":-1,
+            "neighbourhood_id":1126102285,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1126102285,
+    "wof:lastmodified":1509412189,
+    "wof:name":"Al Mi\u2018z\u0101b",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42544,
+    17.17738,
+    43.42544,
+    17.17738
+],
+  "geometry": {"coordinates":[43.42544,17.17738],"type":"Point"}
+}

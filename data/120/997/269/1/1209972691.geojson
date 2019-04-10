@@ -1,0 +1,75 @@
+{
+  "id": 1209972691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48241,14.19534,44.48241,14.19534",
+    "geom:latitude":14.19534,
+    "geom:longitude":44.48241,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Bayt Muhyi ad Din",
+    "gn:country_code":"YE",
+    "gn:dem":2767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359360,
+    "gn:latitude":14.19534,
+    "gn:longitude":44.48241,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt Mu\u1e29y\u012b ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062d\u064a \u0627\u0644\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ma\u1e29y ad D\u012bn",
+        "Bayt Mu\u1e29y\u012b ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359360
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"69ba05f45e8ecd931e4149e5563cb6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1209972691,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1209972691,
+    "wof:lastmodified":1537715756,
+    "wof:name":"Bayt Muhyi ad Din",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48241,
+    14.19534,
+    44.48241,
+    14.19534
+],
+  "geometry": {"coordinates":[44.48241,14.19534],"type":"Point"}
+}

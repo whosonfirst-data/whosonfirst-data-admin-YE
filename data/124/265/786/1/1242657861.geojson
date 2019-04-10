@@ -1,0 +1,71 @@
+{
+  "id": 1242657861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36216,14.96353,44.36216,14.96353",
+    "geom:latitude":14.96353,
+    "geom:longitude":44.36216,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Hidhafah",
+    "gn:country_code":"YE",
+    "gn:dem":2450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361080,
+    "gn:latitude":14.96353,
+    "gn:longitude":44.36216,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28idhafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28idhafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"57cddfe1d165ea35758c071d0eacb4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1242657861,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1242657861,
+    "wof:lastmodified":1537715811,
+    "wof:name":"Al Hidhafah",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36216,
+    14.96353,
+    44.36216,
+    14.96353
+],
+  "geometry": {"coordinates":[44.36216,14.96353],"type":"Point"}
+}

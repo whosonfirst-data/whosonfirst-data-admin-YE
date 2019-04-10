@@ -1,0 +1,74 @@
+{
+  "id": 1293853575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26571,17.25592,43.26571,17.25592",
+    "geom:latitude":17.25592,
+    "geom:longitude":43.26571,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Haqabah",
+    "gn:country_code":"YE",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536948,
+    "gn:latitude":17.25592,
+    "gn:longitude":43.26571,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28aqabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536948
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5f4f7c6af5de516d52d68823f025566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293853575,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293853575,
+    "wof:lastmodified":1537716052,
+    "wof:name":"Al Haqabah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26571,
+    17.25592,
+    43.26571,
+    17.25592
+],
+  "geometry": {"coordinates":[43.26571,17.25592],"type":"Point"}
+}

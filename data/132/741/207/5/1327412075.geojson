@@ -1,0 +1,71 @@
+{
+  "id": 1327412075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50514,15.46241,43.50514,15.46241",
+    "geom:latitude":15.46241,
+    "geom:longitude":43.50514,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Qurun",
+    "gn:country_code":"YE",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402066,
+    "gn:latitude":15.46241,
+    "gn:longitude":43.50514,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Qur\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qur\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402066
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"944ecf45399aaa561be1c390b75b0060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1327412075,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327412075,
+    "wof:lastmodified":1537715353,
+    "wof:name":"Al Qurun",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50514,
+    15.46241,
+    43.50514,
+    15.46241
+],
+  "geometry": {"coordinates":[43.50514,15.46241],"type":"Point"}
+}

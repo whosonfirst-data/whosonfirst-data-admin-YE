@@ -1,0 +1,71 @@
+{
+  "id": 1260271465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55368,15.47559,43.55368,15.47559",
+    "geom:latitude":15.47559,
+    "geom:longitude":43.55368,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2708.0",
+    "gn:asciiname":"Bayt Zandani",
+    "gn:country_code":"YE",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360668,
+    "gn:latitude":15.47559,
+    "gn:longitude":43.55368,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Zand\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Zand\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360668
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f654484d52777011a1cb22ef67534c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "locality_id":1260271465,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1260271465,
+    "wof:lastmodified":1537715803,
+    "wof:name":"Bayt Zandani",
+    "wof:parent_id":1091921169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55368,
+    15.47559,
+    43.55368,
+    15.47559
+],
+  "geometry": {"coordinates":[43.55368,15.47559],"type":"Point"}
+}

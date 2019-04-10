@@ -1,0 +1,85 @@
+{
+  "id": 1126023059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14513,13.70495,45.14513,13.70495",
+    "geom:latitude":13.70495,
+    "geom:longitude":45.14513,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":13.70495,
+    "lbl:longitude":45.14513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0628\u0629 \u0627\u0644\u062f\u0643\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Nawbat Ad Dukam"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8076162,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Nawbat ad Duk\u0101m",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":754505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076162,
+        "qs_pg:id":754505,
+        "wd:id":"Q20302352"
+    },
+    "wof:country":"YE",
+    "wof:created":1497300949,
+    "wof:geomhash":"ce7559e1ed22846867b2277d2495be8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924999,
+            "locality_id":1126023059,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1126023059,
+    "wof:lastmodified":1514503330,
+    "wof:name":"Nawbat ad Duk\u0101m",
+    "wof:parent_id":1091924999,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14513,
+    13.70495,
+    45.14513,
+    13.70495
+],
+  "geometry": {"coordinates":[45.14513,13.70495],"type":"Point"}
+}

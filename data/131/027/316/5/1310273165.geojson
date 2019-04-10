@@ -1,0 +1,71 @@
+{
+  "id": 1310273165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16745,13.23002,44.16745,13.23002",
+    "geom:latitude":13.23002,
+    "geom:longitude":44.16745,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Mihsamah",
+    "gn:country_code":"YE",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355343,
+    "gn:latitude":13.23002,
+    "gn:longitude":44.16745,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mi\u1e29\u015f\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mi\u1e29\u015f\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355343
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"44fa68f9d7fc268a8295c6a8d057daf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1310273165,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310273165,
+    "wof:lastmodified":1537715635,
+    "wof:name":"Al Mihsamah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16745,
+    13.23002,
+    44.16745,
+    13.23002
+],
+  "geometry": {"coordinates":[44.16745,13.23002],"type":"Point"}
+}

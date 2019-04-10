@@ -1,0 +1,74 @@
+{
+  "id": 1309969705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1881,15.94755,44.1881,15.94755",
+    "geom:latitude":15.94755,
+    "geom:longitude":44.1881,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt Abu Salih",
+    "gn:country_code":"YE",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975501,
+    "gn:latitude":15.94755,
+    "gn:longitude":44.1881,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Ab\u016b \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0628\u0648 \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ab\u016b \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975501
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e91be057d42062cd7007f89718b30a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1309969705,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1309969705,
+    "wof:lastmodified":1537716127,
+    "wof:name":"Bayt Abu Salih",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1881,
+    15.94755,
+    44.1881,
+    15.94755
+],
+  "geometry": {"coordinates":[44.1881,15.94755],"type":"Point"}
+}

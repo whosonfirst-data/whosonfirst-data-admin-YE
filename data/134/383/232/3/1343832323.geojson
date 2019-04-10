@@ -1,0 +1,68 @@
+{
+  "id": 1343832323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57618,14.02918,45.57618,14.02918",
+    "geom:latitude":14.02918,
+    "geom:longitude":45.57618,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Al Hujayrah",
+    "gn:country_code":"YE",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364634,
+    "gn:latitude":14.02918,
+    "gn:longitude":45.57618,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Hujayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364634
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2deb249261bfe831c4a6d7874cf0bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":1343832323,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1343832323,
+    "wof:lastmodified":1536707564,
+    "wof:name":"Al Hujayrah",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57618,
+    14.02918,
+    45.57618,
+    14.02918
+],
+  "geometry": {"coordinates":[45.57618,14.02918],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293377897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53392,14.29711,43.53392,14.29711",
+    "geom:latitude":14.29711,
+    "geom:longitude":43.53392,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Qaryat al Qasaba'",
+    "gn:country_code":"YE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358258,
+    "gn:latitude":14.29711,
+    "gn:longitude":43.53392,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al Qa\u015f\u0101b\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Qa\u015f\u0101b\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358258
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"951128b1013398d307f847b0007fdf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1293377897,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293377897,
+    "wof:lastmodified":1537715718,
+    "wof:name":"Qaryat al Qasaba'",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53392,
+    14.29711,
+    43.53392,
+    14.29711
+],
+  "geometry": {"coordinates":[43.53392,14.29711],"type":"Point"}
+}

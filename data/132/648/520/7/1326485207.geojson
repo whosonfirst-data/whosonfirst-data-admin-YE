@@ -1,0 +1,74 @@
+{
+  "id": 1326485207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22496,13.23201,44.22496,13.23201",
+    "geom:latitude":13.23201,
+    "geom:longitude":44.22496,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Hawb al 'Abd",
+    "gn:country_code":"YE",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871562,
+    "gn:latitude":13.23201,
+    "gn:longitude":44.22496,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hawb al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0628 \u0627\u0644\u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Hawb al \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871562
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"765350cebc8331c9596aea8319a66724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1326485207,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326485207,
+    "wof:lastmodified":1537716251,
+    "wof:name":"Hawb al 'Abd",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22496,
+    13.23201,
+    44.22496,
+    13.23201
+],
+  "geometry": {"coordinates":[44.22496,13.23201],"type":"Point"}
+}

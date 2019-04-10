@@ -1,0 +1,71 @@
+{
+  "id": 1309794289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67306,15.3935,43.67306,15.3935",
+    "geom:latitude":15.3935,
+    "geom:longitude":43.67306,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Bayt al Jubari",
+    "gn:country_code":"YE",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367064,
+    "gn:latitude":15.3935,
+    "gn:longitude":43.67306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Jubar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Jubar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367064
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04ddb4a8c888e8597975584c61077e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1309794289,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1309794289,
+    "wof:lastmodified":1537715969,
+    "wof:name":"Bayt al Jubari",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67306,
+    15.3935,
+    43.67306,
+    15.3935
+],
+  "geometry": {"coordinates":[43.67306,15.3935],"type":"Point"}
+}

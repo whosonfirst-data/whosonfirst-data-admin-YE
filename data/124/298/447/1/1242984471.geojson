@@ -1,0 +1,74 @@
+{
+  "id": 1242984471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31371,13.63778,45.31371,13.63778",
+    "geom:latitude":13.63778,
+    "geom:longitude":45.31371,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1207.0",
+    "gn:asciiname":"Sirar",
+    "gn:country_code":"YE",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8308731,
+    "gn:latitude":13.63778,
+    "gn:longitude":45.31371,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sir\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sir\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0631\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308731
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6259fbf008e6e7d2fb2d54061eb08ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918653,
+            "locality_id":1242984471,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1242984471,
+    "wof:lastmodified":1537716039,
+    "wof:name":"Sirar",
+    "wof:parent_id":1091918653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31371,
+    13.63778,
+    45.31371,
+    13.63778
+],
+  "geometry": {"coordinates":[45.31371,13.63778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327491991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53009,16.16606,44.53009,16.16606",
+    "geom:latitude":16.16606,
+    "geom:longitude":44.53009,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1607.0",
+    "gn:asciiname":"Az Zughnah",
+    "gn:country_code":"YE",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344867,
+    "gn:latitude":16.16606,
+    "gn:longitude":44.53009,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Az Zughnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u063a\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344867
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"387b04aee5b1b7d3f97aa17b128b18e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920639,
+            "locality_id":1327491991,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327491991,
+    "wof:lastmodified":1537715549,
+    "wof:name":"Az Zughnah",
+    "wof:parent_id":1091920639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53009,
+    16.16606,
+    44.53009,
+    16.16606
+],
+  "geometry": {"coordinates":[44.53009,16.16606],"type":"Point"}
+}

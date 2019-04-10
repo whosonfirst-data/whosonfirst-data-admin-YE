@@ -1,0 +1,71 @@
+{
+  "id": 1242783749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,15.25,48.3,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"Bilad al Ma'",
+    "gn:country_code":"YE",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76851,
+    "gn:latitude":15.25,
+    "gn:longitude":48.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bil\u0101d al M\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bil\u0101d al M\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76851
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"33229b5baf7c58121a9a2fa7131e0ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1242783749,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1242783749,
+    "wof:lastmodified":1537715210,
+    "wof:name":"Bilad al Ma'",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    15.25,
+    48.3,
+    15.25
+],
+  "geometry": {"coordinates":[48.3,15.25],"type":"Point"}
+}

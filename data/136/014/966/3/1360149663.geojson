@@ -1,0 +1,74 @@
+{
+  "id": 1360149663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99737,16.08375,43.99737,16.08375",
+    "geom:latitude":16.08375,
+    "geom:longitude":43.99737,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt 'Ali Ahmad",
+    "gn:country_code":"YE",
+    "gn:dem":2420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635223,
+    "gn:latitude":16.08375,
+    "gn:longitude":43.99737,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u2018Al\u012b A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0644\u064a \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Al\u012b A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635223
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a41f798d4a3caebc96f014a90e441338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1360149663,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360149663,
+    "wof:lastmodified":1537716098,
+    "wof:name":"Bayt 'Ali Ahmad",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99737,
+    16.08375,
+    43.99737,
+    16.08375
+],
+  "geometry": {"coordinates":[43.99737,16.08375],"type":"Point"}
+}

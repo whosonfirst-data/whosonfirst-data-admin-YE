@@ -1,0 +1,71 @@
+{
+  "id": 1292964465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03333,15.5,44.03333,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":44.03333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Al Qurayshi",
+    "gn:country_code":"YE",
+    "gn:dem":2612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78568,
+    "gn:latitude":15.5,
+    "gn:longitude":44.03333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Quraysh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Quraysh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78568
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bdbc10f5c02671ccd3f33684c5af5bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1292964465,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1292964465,
+    "wof:lastmodified":1537715262,
+    "wof:name":"Al Qurayshi",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03333,
+    15.5,
+    44.03333,
+    15.5
+],
+  "geometry": {"coordinates":[44.03333,15.5],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226410621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59636,12.75274,43.59636,12.75274",
+    "geom:latitude":12.75274,
+    "geom:longitude":43.59636,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"As Suqayyah",
+    "gn:country_code":"YE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77759,
+    "gn:latitude":12.75274,
+    "gn:longitude":43.59636,
+    "gn:modification_date":"2017-10-19",
+    "gn:name":"A\u015f \u015euqayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Sakiah"
+    ],
+    "name:eng_x_preferred":[
+        "Sakiah"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015euqayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77759
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"717bcead2d5245429ff2ba0617ba84d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1226410621,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1226410621,
+    "wof:lastmodified":1537715233,
+    "wof:name":"As Suqayyah",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59636,
+    12.75274,
+    43.59636,
+    12.75274
+],
+  "geometry": {"coordinates":[43.59636,12.75274],"type":"Point"}
+}

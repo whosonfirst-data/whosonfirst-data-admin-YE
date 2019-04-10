@@ -1,0 +1,74 @@
+{
+  "id": 1226001241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43846,16.48132,44.43846,16.48132",
+    "geom:latitude":16.48132,
+    "geom:longitude":44.43846,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1602.0",
+    "gn:asciiname":"Mihzam al Hijrah",
+    "gn:country_code":"YE",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974636,
+    "gn:latitude":16.48132,
+    "gn:longitude":44.43846,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mi\u1e29z\u0101m al Hijrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0632\u0627\u0645 \u0627\u0644\u0647\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mi\u1e29z\u0101m al Hijrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974636
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"74cf3b49de2e010eecd1813dd1635a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920575,
+            "locality_id":1226001241,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226001241,
+    "wof:lastmodified":1537716112,
+    "wof:name":"Mihzam al Hijrah",
+    "wof:parent_id":1091920575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43846,
+    16.48132,
+    44.43846,
+    16.48132
+],
+  "geometry": {"coordinates":[44.43846,16.48132],"type":"Point"}
+}

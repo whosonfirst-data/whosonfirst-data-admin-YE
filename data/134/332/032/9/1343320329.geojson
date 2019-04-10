@@ -1,0 +1,74 @@
+{
+  "id": 1343320329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42684,16.19728,43.42684,16.19728",
+    "geom:latitude":16.19728,
+    "geom:longitude":43.42684,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Ash Shawami",
+    "gn:country_code":"YE",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356259,
+    "gn:latitude":16.19728,
+    "gn:longitude":43.42684,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shaw\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaw\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356259
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7df8e4913b140b56aa0532b0bf591668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1343320329,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343320329,
+    "wof:lastmodified":1537716043,
+    "wof:name":"Ash Shawami",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42684000000001,
+    16.19728,
+    43.42684000000001,
+    16.19728
+],
+  "geometry": {"coordinates":[43.42684000000001,16.19728],"type":"Point"}
+}

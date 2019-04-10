@@ -1,0 +1,71 @@
+{
+  "id": 1209904091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48849,14.73749,44.48849,14.73749",
+    "geom:latitude":14.73749,
+    "geom:longitude":44.48849,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Bani `Akrut",
+    "gn:country_code":"YE",
+    "gn:dem":2464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403023,
+    "gn:latitude":14.73749,
+    "gn:longitude":44.48849,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b \u2018Akr\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u2018Akr\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403023
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"db1eb4657957c7e3769c2458e843963d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1209904091,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1209904091,
+    "wof:lastmodified":1537715368,
+    "wof:name":"Bani `Akrut",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48849000000001,
+    14.73749,
+    44.48849000000001,
+    14.73749
+],
+  "geometry": {"coordinates":[44.48849000000001,14.73749],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243127009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02366,13.75944,44.02366,13.75944",
+    "geom:latitude":13.75944,
+    "geom:longitude":44.02366,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"As Sakasik",
+    "gn:country_code":"YE",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356593,
+    "gn:latitude":13.75944,
+    "gn:longitude":44.02366,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sak\u0101sik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sak\u0101sik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356593
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"58802b8a128f7db0747a4d03b4a54e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1243127009,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243127009,
+    "wof:lastmodified":1537715680,
+    "wof:name":"As Sakasik",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02366,
+    13.75944,
+    44.02366,
+    13.75944
+],
+  "geometry": {"coordinates":[44.02366,13.75944],"type":"Point"}
+}

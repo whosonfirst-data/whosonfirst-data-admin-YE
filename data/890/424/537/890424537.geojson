@@ -1,0 +1,73 @@
+{
+  "id": 890424537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34266,16.19599,43.34266,16.19599",
+    "geom:latitude":16.19599,
+    "geom:longitude":43.34266,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0627\u0631\u0628 \u0627\u0644\u0646\u0648\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Majarib An Nawwi"
+    ],
+    "qs:name":"Maj\u0101rib an Naww\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631787,
+        "gp:id":1953570,
+        "qs:id":694626,
+        "wd:id":"Q20300593"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051548,
+    "wof:geomhash":"4b40125fe4eb6acc677b0cfc1cfc8554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890424537,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424537,
+    "wof:lastmodified":1514503318,
+    "wof:name":"Maj\u0101rib an Naww\u012b",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34266,
+    16.19599,
+    43.34266,
+    16.19599
+],
+  "geometry": {"coordinates":[43.34266,16.19599],"type":"Point"}
+}

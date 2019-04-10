@@ -1,0 +1,74 @@
+{
+  "id": 1276831193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85682,16.06582,43.85682,16.06582",
+    "geom:latitude":16.06582,
+    "geom:longitude":43.85682,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Al Habarah",
+    "gn:country_code":"YE",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634875,
+    "gn:latitude":16.06582,
+    "gn:longitude":43.85682,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ab\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0628\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ab\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634875
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ae92768790e806151c2c18de98a901ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921993,
+            "locality_id":1276831193,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276831193,
+    "wof:lastmodified":1537716088,
+    "wof:name":"Al Habarah",
+    "wof:parent_id":1091921993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85682,
+    16.06582,
+    43.85682,
+    16.06582
+],
+  "geometry": {"coordinates":[43.85682,16.06582],"type":"Point"}
+}

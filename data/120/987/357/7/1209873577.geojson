@@ -1,0 +1,74 @@
+{
+  "id": 1209873577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19169,13.20287,44.19169,13.20287",
+    "geom:latitude":13.20287,
+    "geom:longitude":44.19169,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Majran",
+    "gn:country_code":"YE",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871918,
+    "gn:latitude":13.20287,
+    "gn:longitude":44.19169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Majr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Majr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871918
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0846a7a90b9c5ae388c19a1c597c8c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1209873577,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1209873577,
+    "wof:lastmodified":1537716269,
+    "wof:name":"Al Majran",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19169,
+    13.20287,
+    44.19169,
+    13.20287
+],
+  "geometry": {"coordinates":[44.19169,13.20287],"type":"Point"}
+}

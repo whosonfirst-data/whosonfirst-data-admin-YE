@@ -1,0 +1,71 @@
+{
+  "id": 1326614681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31947,14.36198,43.31947,14.36198",
+    "geom:latitude":14.36198,
+    "geom:longitude":43.31947,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Husayniyah ash Shumah",
+    "gn:country_code":"YE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340555,
+    "gn:latitude":14.36198,
+    "gn:longitude":43.31947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28usayn\u012byah ash Sh\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28usayn\u012byah ash Sh\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340555
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c9ac52bfb526af811f5dc24fc7553f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1326614681,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1326614681,
+    "wof:lastmodified":1537715451,
+    "wof:name":"Al Husayniyah ash Shumah",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31947,
+    14.36198,
+    43.31947,
+    14.36198
+],
+  "geometry": {"coordinates":[43.31947,14.36198],"type":"Point"}
+}

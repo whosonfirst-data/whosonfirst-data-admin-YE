@@ -1,0 +1,71 @@
+{
+  "id": 1242772953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33718,15.47053,43.33718,15.47053",
+    "geom:latitude":15.47053,
+    "geom:longitude":43.33718,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Mahall al Yamaniyah",
+    "gn:country_code":"YE",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364967,
+    "gn:latitude":15.47053,
+    "gn:longitude":43.33718,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al Yam\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Yam\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364967
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a331554b55a95d78c8de25b6af096eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1242772953,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1242772953,
+    "wof:lastmodified":1537715914,
+    "wof:name":"Mahall al Yamaniyah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33718,
+    15.47053,
+    43.33718,
+    15.47053
+],
+  "geometry": {"coordinates":[43.33718,15.47053],"type":"Point"}
+}

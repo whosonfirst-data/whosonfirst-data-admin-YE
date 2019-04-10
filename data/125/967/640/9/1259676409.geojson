@@ -1,0 +1,70 @@
+{
+  "id": 1259676409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53108,15.00568,45.53108,15.00568",
+    "geom:latitude":15.00568,
+    "geom:longitude":45.53108,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Hawsh",
+    "gn:country_code":"YE",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308206,
+    "gn:latitude":15.00568,
+    "gn:longitude":45.53108,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al Hawsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0648\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308206
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"97dec3dd129fd760082cec839bab72a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":1259676409,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1259676409,
+    "wof:lastmodified":1537716038,
+    "wof:name":"Al Hawsh",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53108,
+    15.00568,
+    45.53108,
+    15.00568
+],
+  "geometry": {"coordinates":[45.53108,15.00568],"type":"Point"}
+}

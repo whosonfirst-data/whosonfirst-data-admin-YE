@@ -1,0 +1,76 @@
+{
+  "id": 1209919993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80465,16.51685,48.80465,16.51685",
+    "geom:latitude":16.51685,
+    "geom:longitude":48.80465,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Al Hanaw",
+    "gn:country_code":"YE",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79554,
+    "gn:latitude":16.51685,
+    "gn:longitude":48.80465,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Al \u1e28anaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Al-Han\u016b",
+        "Al \u1e28anw",
+        "Al \u1e28anaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79554
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a1915a4bec01c743f09dbc0ef22ac9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922697,
+            "locality_id":1209919993,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1209919993,
+    "wof:lastmodified":1537715307,
+    "wof:name":"Al Hanaw",
+    "wof:parent_id":1091922697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80465,
+    16.51685,
+    48.80465,
+    16.51685
+],
+  "geometry": {"coordinates":[48.80465,16.51685],"type":"Point"}
+}

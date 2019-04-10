@@ -1,0 +1,76 @@
+{
+  "id": 890449323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.99834,14.50767,45.99834,14.50767",
+    "geom:latitude":14.50767,
+    "geom:longitude":45.99834,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":38,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ath Thulm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u0644\u0645\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ath Thulman"
+    ],
+    "qs:name":"Ath Thulm\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066891,
+        "gp:id":1959048,
+        "qs:id":752921,
+        "wd:id":"Q20305504"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052683,
+    "wof:geomhash":"1372de5f2e10eb86b8c34c25edf7977e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":890449323,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":890449323,
+    "wof:lastmodified":1514503234,
+    "wof:name":"Ath Thulm\u0101n",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.99834,
+    14.50767,
+    45.99834,
+    14.50767
+],
+  "geometry": {"coordinates":[45.99834,14.50767],"type":"Point"}
+}

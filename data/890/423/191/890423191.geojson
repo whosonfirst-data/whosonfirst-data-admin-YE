@@ -1,0 +1,73 @@
+{
+  "id": 890423191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39908,16.01666,43.39908,16.01666",
+    "geom:latitude":16.01666,
+    "geom:longitude":43.39908,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u0644\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Falah"
+    ],
+    "qs:name":"Bayt Fal\u0101\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682629,
+        "gp:id":1958568,
+        "qs:id":697314,
+        "wd:id":"Q20300348"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051485,
+    "wof:geomhash":"e280cd577b3cbd595ce0aa444d22c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890423191,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423191,
+    "wof:lastmodified":1514503246,
+    "wof:name":"Bayt Fal\u0101\u1e29",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39908,
+    16.01666,
+    43.39908,
+    16.01666
+],
+  "geometry": {"coordinates":[43.39908,16.01666],"type":"Point"}
+}

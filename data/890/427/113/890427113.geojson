@@ -1,0 +1,78 @@
+{
+  "id": 890427113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77265,13.18742,43.77265,13.18742",
+    "geom:latitude":13.18742,
+    "geom:longitude":43.77265,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hudaydah"
+    ],
+    "qs:name":"Al \u1e28udaydah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"wk",
+    "wd:latitude":"14.802222222",
+    "wd:longitude":"42.951111111",
+    "wd:population":40260,
+    "wd:wordcount":810,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069190,
+        "gp:id":1958962,
+        "qs:id":753370,
+        "wd:id":"Q20301646",
+        "wk:page":"Al Hudaydah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051675,
+    "wof:geomhash":"f450e7385437e4536b2680051ff63502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890427113,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890427113,
+    "wof:lastmodified":1527792820,
+    "wof:name":"Al \u1e28udaydah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":40260,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77265,
+    13.18742,
+    43.77265,
+    13.18742
+],
+  "geometry": {"coordinates":[43.77265,13.18742],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890414189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78366,16.13997,44.78366,16.13997",
+    "geom:latitude":16.13997,
+    "geom:longitude":44.78366,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0631\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khayrat"
+    ],
+    "qs:name":"Al Khayr\u0101t",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890561,
+        "gp:id":1958950,
+        "qs:id":743982,
+        "wd:id":"Q20305244"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051036,
+    "wof:geomhash":"620783e8e196e04978ef408ec1bf8e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":890414189,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890414189,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khayr\u0101t",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78366,
+    16.13997,
+    44.78366,
+    16.13997
+],
+  "geometry": {"coordinates":[44.78366,16.13997],"type":"Point"}
+}

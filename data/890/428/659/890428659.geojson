@@ -1,0 +1,75 @@
+{
+  "id": 890428659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31375,16.66142,43.31375,16.66142",
+    "geom:latitude":16.66142,
+    "geom:longitude":43.31375,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0631\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "At Turbah"
+    ],
+    "qs:name":"At Turbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854897,
+        "gp:id":1959134,
+        "qs:id":741836,
+        "wd:id":"Q20305303",
+        "wk:page":"At Turbah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051762,
+    "wof:geomhash":"700dc83459cbaf46c83e0f2cf294e7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890428659,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890428659,
+    "wof:lastmodified":1527782116,
+    "wof:name":"At Turbah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31375,
+    16.66142,
+    43.31375,
+    16.66142
+],
+  "geometry": {"coordinates":[43.31375,16.66142],"type":"Point"}
+}

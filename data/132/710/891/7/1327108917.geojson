@@ -1,0 +1,75 @@
+{
+  "id": 1327108917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31524,14.10751,45.31524,14.10751",
+    "geom:latitude":14.10751,
+    "geom:longitude":45.31524,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Hayd ad Dubayb",
+    "gn:country_code":"YE",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364355,
+    "gn:latitude":14.10751,
+    "gn:longitude":45.31524,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ayd ad Dubayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u0627\u0644\u062f\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ad Dubayb",
+        "\u1e28ayd ad Dubayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364355
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f2247658e0502ead4e74d4ce67f7c1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":1327108917,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1327108917,
+    "wof:lastmodified":1537715896,
+    "wof:name":"Hayd ad Dubayb",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31524,
+    14.10751,
+    45.31524,
+    14.10751
+],
+  "geometry": {"coordinates":[45.31524,14.10751],"type":"Point"}
+}

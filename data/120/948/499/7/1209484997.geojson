@@ -1,0 +1,68 @@
+{
+  "id": 1209484997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38757,17.4395,43.38757,17.4395",
+    "geom:latitude":17.4395,
+    "geom:longitude":43.38757,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Bahrah",
+    "gn:country_code":"YE",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345466,
+    "gn:latitude":17.4395,
+    "gn:longitude":43.38757,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Ba\u1e29rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e29rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345466
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c32c3edf616fd61ce6d5c404c472dea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209484997
+        }
+    ],
+    "wof:id":1209484997,
+    "wof:lastmodified":1537715560,
+    "wof:name":"Bahrah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38757,
+    17.4395,
+    43.38757,
+    17.4395
+],
+  "geometry": {"coordinates":[43.38757,17.4395],"type":"Point"}
+}

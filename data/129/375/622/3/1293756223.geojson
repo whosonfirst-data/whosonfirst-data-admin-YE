@@ -1,0 +1,74 @@
+{
+  "id": 1293756223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34693,17.32999,43.34693,17.32999",
+    "geom:latitude":17.32999,
+    "geom:longitude":43.34693,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Thu`aylah",
+    "gn:country_code":"YE",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345678,
+    "gn:latitude":17.32999,
+    "gn:longitude":43.34693,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Thu\u2018aylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0639\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Thu\u2018aylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345678
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d4e6c6ad56b3925c90d8738db5fa03aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1293756223,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293756223,
+    "wof:lastmodified":1537715565,
+    "wof:name":"Thu`aylah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34693,
+    17.32999,
+    43.34693,
+    17.32999
+],
+  "geometry": {"coordinates":[43.34693,17.32999],"type":"Point"}
+}

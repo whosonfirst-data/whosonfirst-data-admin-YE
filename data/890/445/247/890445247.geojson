@@ -1,0 +1,73 @@
+{
+  "id": 890445247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35589,16.91896,43.35589,16.91896",
+    "geom:latitude":16.91896,
+    "geom:longitude":43.35589,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khishah"
+    ],
+    "qs:name":"Al Khishah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900629,
+        "gp:id":1958992,
+        "qs:id":744399,
+        "wd:id":"Q20305383"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052502,
+    "wof:geomhash":"f058a5785e68b01b04ceadb641897374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925419,
+            "locality_id":890445247,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890445247,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khishah",
+    "wof:parent_id":1091925419,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35589,
+    16.91896,
+    43.35589,
+    16.91896
+],
+  "geometry": {"coordinates":[43.35589,16.91896],"type":"Point"}
+}

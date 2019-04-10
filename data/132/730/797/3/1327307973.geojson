@@ -1,0 +1,68 @@
+{
+  "id": 1327307973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36355,16.76847,44.36355,16.76847",
+    "geom:latitude":16.76847,
+    "geom:longitude":44.36355,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Az Zafq",
+    "gn:country_code":"YE",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362805,
+    "gn:latitude":16.76847,
+    "gn:longitude":44.36355,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az Zafq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362805
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a66ee08d24798ccfb0e39d5ffb256f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1327307973,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327307973,
+    "wof:lastmodified":1536859246,
+    "wof:name":"Az Zafq",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36355,
+    16.76847,
+    44.36355,
+    16.76847
+],
+  "geometry": {"coordinates":[44.36355,16.76847],"type":"Point"}
+}

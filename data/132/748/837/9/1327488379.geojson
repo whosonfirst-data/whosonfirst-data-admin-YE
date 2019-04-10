@@ -1,0 +1,74 @@
+{
+  "id": 1327488379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2861,13.61668,43.2861,13.61668",
+    "geom:latitude":13.61668,
+    "geom:longitude":43.2861,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Jirdan",
+    "gn:country_code":"YE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74144,
+    "gn:latitude":13.61668,
+    "gn:longitude":43.2861,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Jird\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jird\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Jirden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74144
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cdf55783685de59f1f453652a022e577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1327488379,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327488379,
+    "wof:lastmodified":1537715147,
+    "wof:name":"Jirdan",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2861,
+    13.61668,
+    43.2861,
+    13.61668
+],
+  "geometry": {"coordinates":[43.2861,13.61668],"type":"Point"}
+}

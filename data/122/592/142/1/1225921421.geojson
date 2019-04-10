@@ -1,0 +1,71 @@
+{
+  "id": 1225921421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09777,14.77567,44.09777,14.77567",
+    "geom:latitude":14.77567,
+    "geom:longitude":44.09777,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Bayhan al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":2333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360954,
+    "gn:latitude":14.77567,
+    "gn:longitude":44.09777,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bay\u1e29\u0101n al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u1e29\u0101n al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360954
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fc85cdf23689fb2e07d9da4320c700a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922277,
+            "locality_id":1225921421,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1225921421,
+    "wof:lastmodified":1537715809,
+    "wof:name":"Bayhan al `Ulya",
+    "wof:parent_id":1091922277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09777,
+    14.77567,
+    44.09777,
+    14.77567
+],
+  "geometry": {"coordinates":[44.09777,14.77567],"type":"Point"}
+}

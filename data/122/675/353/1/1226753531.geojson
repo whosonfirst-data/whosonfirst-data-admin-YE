@@ -1,0 +1,73 @@
+{
+  "id": 1226753531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38333,15.25,48.38333,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":48.38333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1918.0",
+    "gn:asciiname":"`Ard Ba Haytham",
+    "gn:country_code":"YE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78222,
+    "gn:latitude":15.25,
+    "gn:longitude":48.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Ar\u1e11 B\u0101 Haytham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haitham",
+        "\u2018Ar\u1e0d B\u0101 Haitham",
+        "\u2018Ar\u1e11 B\u0101 Haytham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78222
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68941b07eaa344b6ab56ec8b6c6b1006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922891,
+            "locality_id":1226753531,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226753531,
+    "wof:lastmodified":1537715252,
+    "wof:name":"`Ard Ba Haytham",
+    "wof:parent_id":1091922891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38333,
+    15.25,
+    48.38333,
+    15.25
+],
+  "geometry": {"coordinates":[48.38333,15.25],"type":"Point"}
+}

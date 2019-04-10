@@ -1,0 +1,71 @@
+{
+  "id": 1344152321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33359,15.41722,43.33359,15.41722",
+    "geom:latitude":15.41722,
+    "geom:longitude":43.33359,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Hawrah",
+    "gn:country_code":"YE",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365001,
+    "gn:latitude":15.41722,
+    "gn:longitude":43.33359,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"\u1e28awrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28awrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0876335df08dc56f32aa1bcb014b9ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1344152321,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1344152321,
+    "wof:lastmodified":1537715915,
+    "wof:name":"Hawrah",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33359,
+    15.41722,
+    43.33359,
+    15.41722
+],
+  "geometry": {"coordinates":[43.33359,15.41722],"type":"Point"}
+}

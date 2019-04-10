@@ -1,0 +1,71 @@
+{
+  "id": 1293768267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17159,15.366,43.17159,15.366",
+    "geom:latitude":15.366,
+    "geom:longitude":43.17159,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Masrubah",
+    "gn:country_code":"YE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72840,
+    "gn:latitude":15.366,
+    "gn:longitude":43.17159,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Masr\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masr\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72840
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0ae508dc7d41498955bc4f9b228635bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920097,
+            "locality_id":1293768267,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293768267,
+    "wof:lastmodified":1537715122,
+    "wof:name":"Masrubah",
+    "wof:parent_id":1091920097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17159,
+    15.366,
+    43.17159,
+    15.366
+],
+  "geometry": {"coordinates":[43.17159,15.366],"type":"Point"}
+}

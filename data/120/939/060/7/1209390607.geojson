@@ -1,0 +1,67 @@
+{
+  "id": 1209390607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88333,13.98333,44.88333,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":44.88333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Al Kahar",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69377,
+    "gn:latitude":13.98333,
+    "gn:longitude":44.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Kahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kahara",
+        "Al Kahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69377
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8418b02544f54803351a207d4c03ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209390607
+        }
+    ],
+    "wof:id":1209390607,
+    "wof:lastmodified":1537715060,
+    "wof:name":"Al Kahar",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88333,
+    13.98333,
+    44.88333,
+    13.98333
+],
+  "geometry": {"coordinates":[44.88333,13.98333],"type":"Point"}
+}

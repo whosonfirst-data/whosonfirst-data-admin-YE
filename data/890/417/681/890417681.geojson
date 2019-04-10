@@ -1,0 +1,69 @@
+{
+  "id": 890417681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45545,16.20304,43.45545,16.20304",
+    "geom:latitude":16.20304,
+    "geom:longitude":43.45545,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0639\u0631\u0629"
+    ],
+    "qs:name":"Al Wa\u2018irah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658502,
+        "gp:id":1959128,
+        "qs:id":696334
+    },
+    "wof:country":"YE",
+    "wof:created":1469051216,
+    "wof:geomhash":"a8913edb333c4ba400d8ad01ed2a0daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890417681,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890417681,
+    "wof:lastmodified":1505343440,
+    "wof:name":"Al Wa\u2018irah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45545,
+    16.20304,
+    43.45545,
+    16.20304
+],
+  "geometry": {"coordinates":[43.45545,16.20304],"type":"Point"}
+}

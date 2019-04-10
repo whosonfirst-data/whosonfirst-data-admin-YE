@@ -1,0 +1,75 @@
+{
+  "id": 1277152819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89156,13.93049,44.89156,13.93049",
+    "geom:latitude":13.93049,
+    "geom:longitude":44.89156,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Ar Rubat",
+    "gn:country_code":"YE",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78115,
+    "gn:latitude":13.93049,
+    "gn:longitude":44.89156,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Rub\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Rub\u0101t"
+    ],
+    "name:und_x_variant":[
+        "Ar Rabat",
+        "Ar Rib\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78115
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2af4ee7f0b4a7e33e8189c906b29037e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1277152819,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1277152819,
+    "wof:lastmodified":1537715248,
+    "wof:name":"Ar Rubat",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89156,
+    13.93049,
+    44.89156,
+    13.93049
+],
+  "geometry": {"coordinates":[44.89156,13.93049],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310656953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25695,15.63239,43.25695,15.63239",
+    "geom:latitude":15.63239,
+    "geom:longitude":43.25695,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1724.0",
+    "gn:asciiname":"Al Mirbah",
+    "gn:country_code":"YE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366433,
+    "gn:latitude":15.63239,
+    "gn:longitude":43.25695,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mirb\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mirb\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366433
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7beb7e73b194283276226ed019ad58c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":1310656953,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310656953,
+    "wof:lastmodified":1537715954,
+    "wof:name":"Al Mirbah",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25695,
+    15.63239,
+    43.25695,
+    15.63239
+],
+  "geometry": {"coordinates":[43.25695,15.63239],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293647615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56132,15.99664,43.56132,15.99664",
+    "geom:latitude":15.99664,
+    "geom:longitude":43.56132,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Mahall Bayt ad Dil`ah",
+    "gn:country_code":"YE",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343557,
+    "gn:latitude":15.99664,
+    "gn:longitude":43.56132,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Bayt a\u1e11 \u1e10il\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Bayt a\u1e11 \u1e10il\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343557
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9109241337c5710b74a09f6ca042315e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1293647615,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293647615,
+    "wof:lastmodified":1537715510,
+    "wof:name":"Mahall Bayt ad Dil`ah",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56132,
+    15.99664,
+    43.56132,
+    15.99664
+],
+  "geometry": {"coordinates":[43.56132,15.99664],"type":"Point"}
+}

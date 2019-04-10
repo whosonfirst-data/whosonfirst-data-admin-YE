@@ -1,0 +1,83 @@
+{
+  "id": 1276285449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2112,15.52797,44.2112,15.52797",
+    "geom:latitude":15.52797,
+    "geom:longitude":44.2112,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Darb `Izwah",
+    "gn:country_code":"YE",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362377,
+    "gn:latitude":15.52797,
+    "gn:longitude":44.2112,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Darb \u2018Izwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628 \u0639\u0632\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Darb \u2018Izw\u0101\u2019",
+        "Darb \u2018Izwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362377
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f57495c8fb11691e2721bcf07576f6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1276285449,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1276285449,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276285449,
+    "wof:lastmodified":1537715842,
+    "wof:name":"Darb `Izwah",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2112,
+    15.52797,
+    44.2112,
+    15.52797
+],
+  "geometry": {"coordinates":[44.2112,15.52797],"type":"Point"}
+}

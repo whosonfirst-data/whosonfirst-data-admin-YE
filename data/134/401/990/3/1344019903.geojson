@@ -1,0 +1,71 @@
+{
+  "id": 1344019903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73317,15.97529,43.73317,15.97529",
+    "geom:latitude":15.97529,
+    "geom:longitude":43.73317,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2913.0",
+    "gn:asciiname":"Mahall Darqam",
+    "gn:country_code":"YE",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343586,
+    "gn:latitude":15.97529,
+    "gn:longitude":43.73317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Darqam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Darqam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343586
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"642dd9469c3045b3588e926f3c4b3042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921779,
+            "locality_id":1344019903,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1344019903,
+    "wof:lastmodified":1537715511,
+    "wof:name":"Mahall Darqam",
+    "wof:parent_id":1091921779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73317,
+    15.97529,
+    43.73317,
+    15.97529
+],
+  "geometry": {"coordinates":[43.73317,15.97529],"type":"Point"}
+}

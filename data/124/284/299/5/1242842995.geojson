@@ -1,0 +1,71 @@
+{
+  "id": 1242842995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33474,13.8876,44.33474,13.8876",
+    "geom:latitude":13.8876,
+    "geom:longitude":44.33474,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Al Asamayn",
+    "gn:country_code":"YE",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356993,
+    "gn:latitude":13.8876,
+    "gn:longitude":44.33474,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al A\u015famayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al A\u015famayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"04b60e78c46343c7731067ba87ca9d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924503,
+            "locality_id":1242842995,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242842995,
+    "wof:lastmodified":1537715689,
+    "wof:name":"Al Asamayn",
+    "wof:parent_id":1091924503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33474,
+    13.8876,
+    44.33474,
+    13.8876
+],
+  "geometry": {"coordinates":[44.33474,13.8876],"type":"Point"}
+}

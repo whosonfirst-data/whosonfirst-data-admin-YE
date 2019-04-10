@@ -1,0 +1,71 @@
+{
+  "id": 1243512773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54928,15.67305,43.54928,15.67305",
+    "geom:latitude":15.67305,
+    "geom:longitude":43.54928,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1726.0",
+    "gn:asciiname":"Dhira` al Khatam",
+    "gn:country_code":"YE",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344369,
+    "gn:latitude":15.67305,
+    "gn:longitude":43.54928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dhir\u0101\u2018 al Kha\u0163\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhir\u0101\u2018 al Kha\u0163\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344369
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4e3e2735f33eb6074813a2d49e5e1c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924177,
+            "locality_id":1243512773,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243512773,
+    "wof:lastmodified":1537715537,
+    "wof:name":"Dhira` al Khatam",
+    "wof:parent_id":1091924177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54928,
+    15.67305,
+    43.54928,
+    15.67305
+],
+  "geometry": {"coordinates":[43.54928,15.67305],"type":"Point"}
+}

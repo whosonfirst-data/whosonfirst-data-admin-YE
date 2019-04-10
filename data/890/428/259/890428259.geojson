@@ -1,0 +1,79 @@
+{
+  "id": 890428259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40235,14.0364,45.40235,14.0364",
+    "geom:latitude":14.0364,
+    "geom:longitude":45.40235,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":27,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qaw'ah"
+    ],
+    "qs:name":"Al Qaw\u2018ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051683,
+        "gp:id":1958988,
+        "qs:id":751075,
+        "wd:id":"Q20304746"
+    },
+    "wof:concordances_alt":{
+        "gn:id":8051697,
+        "qs:id":751083
+    },
+    "wof:country":"YE",
+    "wof:created":1469051745,
+    "wof:geomhash":"937909b81ac69e4bb0b5d023690c5e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919265,
+            "locality_id":890428259,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890428259,
+    "wof:lastmodified":1534379830,
+    "wof:name":"Al Qaw\u2018ah",
+    "wof:parent_id":1091919265,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890414453
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40235,
+    14.0364,
+    45.40235,
+    14.0364
+],
+  "geometry": {"coordinates":[45.40235,14.0364],"type":"Point"}
+}

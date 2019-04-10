@@ -1,0 +1,74 @@
+{
+  "id": 1293248955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87685,16.05744,44.87685,16.05744",
+    "geom:latitude":16.05744,
+    "geom:longitude":44.87685,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1605.0",
+    "gn:asciiname":"As Sarh",
+    "gn:country_code":"YE",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308187,
+    "gn:latitude":16.05744,
+    "gn:longitude":44.87685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Sar\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u062d"
+    ],
+    "name:und_x_variant":[
+        "As Sar\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308187
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"00fdf615d75cdb859a6c9868770a2c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":1293248955,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293248955,
+    "wof:lastmodified":1537716037,
+    "wof:name":"As Sarh",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87685,
+    16.05744,
+    44.87685,
+    16.05744
+],
+  "geometry": {"coordinates":[44.87685,16.05744],"type":"Point"}
+}

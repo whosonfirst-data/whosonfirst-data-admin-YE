@@ -1,0 +1,68 @@
+{
+  "id": 1293584569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01208,15.69439,43.01208,15.69439",
+    "geom:latitude":15.69439,
+    "geom:longitude":43.01208,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"As Sabakh",
+    "gn:country_code":"YE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365873,
+    "gn:latitude":15.69439,
+    "gn:longitude":43.01208,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sabakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365873
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3e316e58f8ae8694f13e0e7c64a04892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1293584569,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293584569,
+    "wof:lastmodified":1536646765,
+    "wof:name":"As Sabakh",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01208,
+    15.69439,
+    43.01208,
+    15.69439
+],
+  "geometry": {"coordinates":[43.01208,15.69439],"type":"Point"}
+}

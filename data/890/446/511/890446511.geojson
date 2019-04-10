@@ -1,0 +1,76 @@
+{
+  "id": 890446511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95979,16.56846,43.95979,16.56846",
+    "geom:latitude":16.56846,
+    "geom:longitude":43.95979,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":19,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Gh\u016bl Dh\u016b Qin\u0101f"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0648\u0644 \u0630\u0648 \u0642\u0646\u0627\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "GhUl DhU Qinaf"
+    ],
+    "qs:name":"Gh\u016bl Dh\u016b Qin\u0101f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683377,
+        "gp:id":1958949,
+        "qs:id":697431,
+        "wd:id":"Q20304490"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052555,
+    "wof:geomhash":"f03c4cf9eebbf2bc802ccdbe01b4c3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890446511,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890446511,
+    "wof:lastmodified":1514503272,
+    "wof:name":"Gh\u016bl Dh\u016b Qin\u0101f",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95979,
+    16.56846,
+    43.95979,
+    16.56846
+],
+  "geometry": {"coordinates":[43.95979,16.56846],"type":"Point"}
+}

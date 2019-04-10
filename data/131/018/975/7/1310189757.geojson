@@ -1,0 +1,74 @@
+{
+  "id": 1310189757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14398,15.27076,43.14398,15.27076",
+    "geom:latitude":15.27076,
+    "geom:longitude":43.14398,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Al Mikhdash",
+    "gn:country_code":"YE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403182,
+    "gn:latitude":15.27076,
+    "gn:longitude":43.14398,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Mikhd\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mikhd\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062e\u062f\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403182
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"019ebe746acdf39c5001ec308ae7eb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1310189757,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310189757,
+    "wof:lastmodified":1537715372,
+    "wof:name":"Al Mikhdash",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14398,
+    15.27076,
+    43.14398,
+    15.27076
+],
+  "geometry": {"coordinates":[43.14398,15.27076],"type":"Point"}
+}

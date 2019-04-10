@@ -1,0 +1,74 @@
+{
+  "id": 1310388161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39884,16.77305,43.39884,16.77305",
+    "geom:latitude":16.77305,
+    "geom:longitude":43.39884,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Al Himas",
+    "gn:country_code":"YE",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346543,
+    "gn:latitude":16.77305,
+    "gn:longitude":43.39884,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28im\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28im\u0101s"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0645\u0627\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346543
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"23588b4e2409190e4284d934c9262507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1310388161,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310388161,
+    "wof:lastmodified":1537715598,
+    "wof:name":"Al Himas",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39884,
+    16.77305,
+    43.39884,
+    16.77305
+],
+  "geometry": {"coordinates":[43.39884,16.77305],"type":"Point"}
+}

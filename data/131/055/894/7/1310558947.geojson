@@ -1,0 +1,74 @@
+{
+  "id": 1310558947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21298,13.17973,44.21298,13.17973",
+    "geom:latitude":13.17973,
+    "geom:longitude":44.21298,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Tarsah",
+    "gn:country_code":"YE",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871713,
+    "gn:latitude":13.17973,
+    "gn:longitude":44.21298,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0162arsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162arsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871713
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1f6bd77a3d1cc70b9980f715f8be6e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1310558947,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310558947,
+    "wof:lastmodified":1537716259,
+    "wof:name":"Tarsah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21298,
+    13.17973,
+    44.21298,
+    13.17973
+],
+  "geometry": {"coordinates":[44.21298,13.17973],"type":"Point"}
+}

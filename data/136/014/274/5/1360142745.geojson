@@ -1,0 +1,71 @@
+{
+  "id": 1360142745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80257,13.99694,43.80257,13.99694",
+    "geom:latitude":13.99694,
+    "geom:longitude":43.80257,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Al 'Adinah",
+    "gn:country_code":"YE",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300285,
+    "gn:latitude":13.99694,
+    "gn:longitude":43.80257,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Ad\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ad\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300285
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aac43bdbbd997f4d3ddde6532690f717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924557,
+            "locality_id":1360142745,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1360142745,
+    "wof:lastmodified":1537716031,
+    "wof:name":"Al 'Adinah",
+    "wof:parent_id":1091924557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80257,
+    13.99694,
+    43.80257,
+    13.99694
+],
+  "geometry": {"coordinates":[43.80257,13.99694],"type":"Point"}
+}

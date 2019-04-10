@@ -1,0 +1,71 @@
+{
+  "id": 1276418905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51884,15.28209,43.51884,15.28209",
+    "geom:latitude":15.28209,
+    "geom:longitude":43.51884,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Ad Dayq al Asfal",
+    "gn:country_code":"YE",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360457,
+    "gn:latitude":15.28209,
+    "gn:longitude":43.51884,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e11 \u1e10ayq al Asfal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ayq al Asfal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d025aac3e7594aba7d4de1e111a4e3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1276418905,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276418905,
+    "wof:lastmodified":1537715799,
+    "wof:name":"Ad Dayq al Asfal",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51884,
+    15.28209,
+    43.51884,
+    15.28209
+],
+  "geometry": {"coordinates":[43.51884,15.28209],"type":"Point"}
+}

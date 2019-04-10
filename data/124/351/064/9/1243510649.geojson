@@ -1,0 +1,74 @@
+{
+  "id": 1243510649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56462,15.58209,43.56462,15.58209",
+    "geom:latitude":15.58209,
+    "geom:longitude":43.56462,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"Qafl an Nu'aymi",
+    "gn:country_code":"YE",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980369,
+    "gn:latitude":15.58209,
+    "gn:longitude":43.56462,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qafl an Nu\u2018aym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0644 \u0627\u0644\u0646\u0639\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qafl an Nu\u2018aym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980369
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a2fba87e8db897c8d336735631ff2d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1243510649,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243510649,
+    "wof:lastmodified":1537716167,
+    "wof:name":"Qafl an Nu'aymi",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56462,
+    15.58209,
+    43.56462,
+    15.58209
+],
+  "geometry": {"coordinates":[43.56462,15.58209],"type":"Point"}
+}

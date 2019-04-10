@@ -1,0 +1,71 @@
+{
+  "id": 1260259993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03471,14.5016,44.03471,14.5016",
+    "geom:latitude":14.5016,
+    "geom:longitude":44.03471,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Hisn adh Dhahibi",
+    "gn:country_code":"YE",
+    "gn:dem":2316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361389,
+    "gn:latitude":14.5016,
+    "gn:longitude":44.03471,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hi\u015fn adh Dh\u0101hib\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hi\u015fn adh Dh\u0101hib\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361389
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"39c5a9b9ceecb00caa3c7a978d26c874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922467,
+            "locality_id":1260259993,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1260259993,
+    "wof:lastmodified":1537715819,
+    "wof:name":"Hisn adh Dhahibi",
+    "wof:parent_id":1091922467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03471,
+    14.5016,
+    44.03471,
+    14.5016
+],
+  "geometry": {"coordinates":[44.03471,14.5016],"type":"Point"}
+}

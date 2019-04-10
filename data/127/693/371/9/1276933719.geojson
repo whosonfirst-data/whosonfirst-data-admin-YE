@@ -1,0 +1,71 @@
+{
+  "id": 1276933719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85182,13.40581,43.85182,13.40581",
+    "geom:latitude":13.40581,
+    "geom:longitude":43.85182,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Dujayn",
+    "gn:country_code":"YE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354333,
+    "gn:latitude":13.40581,
+    "gn:longitude":43.85182,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dujayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u062c\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354333
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ce253154b7b4f0c1fc8ce7cfb9bc994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1276933719,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276933719,
+    "wof:lastmodified":1537715607,
+    "wof:name":"Dujayn",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85182,
+    13.40581,
+    43.85182,
+    13.40581
+],
+  "geometry": {"coordinates":[43.85182,13.40581],"type":"Point"}
+}

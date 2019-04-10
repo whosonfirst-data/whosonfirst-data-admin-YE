@@ -1,0 +1,81 @@
+{
+  "id": 1360032875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2,15.36667,44.2,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":44.2,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Bayt Majraz",
+    "gn:country_code":"YE",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76912,
+    "gn:latitude":15.36667,
+    "gn:longitude":44.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt Majraz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Majzar",
+        "Bayt Majraz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921459,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76912,
+        "wk:page":"Bayt_Majraz"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff654e74b6a9ee9fd4fbd03169c06455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921459,
+            "locality_id":1360032875,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921459,
+            "locality_id":1360032875,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1360032875,
+    "wof:lastmodified":1537715212,
+    "wof:name":"Bayt Majraz",
+    "wof:parent_id":1091921459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2,
+    15.36667,
+    44.2,
+    15.36667
+],
+  "geometry": {"coordinates":[44.2,15.36667],"type":"Point"}
+}

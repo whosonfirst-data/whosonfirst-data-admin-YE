@@ -1,0 +1,71 @@
+{
+  "id": 1259836453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21319,13.46309,44.21319,13.46309",
+    "geom:latitude":13.46309,
+    "geom:longitude":44.21319,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1513.0",
+    "gn:asciiname":"Al Qaddah",
+    "gn:country_code":"YE",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354792,
+    "gn:latitude":13.46309,
+    "gn:longitude":44.21319,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qadd\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qadd\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354792
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"96a67e9774a069933a0c1e37b043e57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":1259836453,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259836453,
+    "wof:lastmodified":1537715622,
+    "wof:name":"Al Qaddah",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21319,
+    13.46309,
+    44.21319,
+    13.46309
+],
+  "geometry": {"coordinates":[44.21319,13.46309],"type":"Point"}
+}

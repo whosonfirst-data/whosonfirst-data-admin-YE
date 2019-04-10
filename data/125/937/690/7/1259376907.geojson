@@ -1,0 +1,71 @@
+{
+  "id": 1259376907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53202,15.46479,43.53202,15.46479",
+    "geom:latitude":15.46479,
+    "geom:longitude":43.53202,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2708.0",
+    "gn:asciiname":"Bayt al Karadi",
+    "gn:country_code":"YE",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360628,
+    "gn:latitude":15.46479,
+    "gn:longitude":43.53202,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Karad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Karad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360628
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2f3156609558ef966cf1572bfbe211d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921169,
+            "locality_id":1259376907,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259376907,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt al Karadi",
+    "wof:parent_id":1091921169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53202,
+    15.46479,
+    43.53202,
+    15.46479
+],
+  "geometry": {"coordinates":[43.53202,15.46479],"type":"Point"}
+}

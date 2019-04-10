@@ -1,0 +1,66 @@
+{
+  "id": 1209624241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17444,13.91833,46.17444,13.91833",
+    "geom:latitude":13.91833,
+    "geom:longitude":46.17444,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Na`qal",
+    "gn:country_code":"YE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72279,
+    "gn:latitude":13.91833,
+    "gn:longitude":46.17444,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Na\u2018qal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u2018qal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72279,
+        "wk:page":"Naq%60al"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"968a257fc0622b36d25f965fcd82b0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209624241
+        }
+    ],
+    "wof:id":1209624241,
+    "wof:lastmodified":1537715112,
+    "wof:name":"Na`qal",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17444,
+    13.91833,
+    46.17444,
+    13.91833
+],
+  "geometry": {"coordinates":[46.17444,13.91833],"type":"Point"}
+}

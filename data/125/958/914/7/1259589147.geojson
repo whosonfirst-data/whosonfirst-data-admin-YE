@@ -1,0 +1,75 @@
+{
+  "id": 1259589147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02,15.97972,49.02,15.97972",
+    "geom:latitude":15.97972,
+    "geom:longitude":49.02,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"As Suwayri",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77740,
+    "gn:latitude":15.97972,
+    "gn:longitude":49.02,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Suwayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suweiri",
+        "Al-Suwairi",
+        "As Suwayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77740,
+        "wk:page":"As_Suwayri"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"629153ae03873a31f7980edcfd8b7be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1259589147,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259589147,
+    "wof:lastmodified":1537715232,
+    "wof:name":"As Suwayri",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02,
+    15.97972,
+    49.02,
+    15.97972
+],
+  "geometry": {"coordinates":[49.02,15.97972],"type":"Point"}
+}

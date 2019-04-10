@@ -1,0 +1,71 @@
+{
+  "id": 1293165363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04629,14.38857,45.04629,14.38857",
+    "geom:latitude":14.38857,
+    "geom:longitude":45.04629,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Majalid",
+    "gn:country_code":"YE",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364175,
+    "gn:latitude":14.38857,
+    "gn:longitude":45.04629,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maj\u0101lid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maj\u0101lid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364175
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a3942e08c9e7ef90f5ecfe2d56e646ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1293165363,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293165363,
+    "wof:lastmodified":1537715892,
+    "wof:name":"Majalid",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04629,
+    14.38857,
+    45.04629,
+    14.38857
+],
+  "geometry": {"coordinates":[45.04629,14.38857],"type":"Point"}
+}

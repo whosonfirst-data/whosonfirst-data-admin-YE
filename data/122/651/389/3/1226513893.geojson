@@ -1,0 +1,76 @@
+{
+  "id": 1226513893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17229,15.25215,44.17229,15.25215",
+    "geom:latitude":15.25215,
+    "geom:longitude":44.17229,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Bayt Mahfad",
+    "gn:country_code":"YE",
+    "gn:dem":2818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403756,
+    "gn:latitude":15.25215,
+    "gn:longitude":44.17229,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Ma\u1e29fad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062d\u0641\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ma\u1e29fad",
+        "Ma\u1e29fad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403756,
+        "wk:page":"Bayt_Mahfad"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"377d1d20146457084398ccf0e16c6f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1226513893,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226513893,
+    "wof:lastmodified":1537715374,
+    "wof:name":"Bayt Mahfad",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17229,
+    15.25215,
+    44.17229,
+    15.25215
+],
+  "geometry": {"coordinates":[44.17229,15.25215],"type":"Point"}
+}

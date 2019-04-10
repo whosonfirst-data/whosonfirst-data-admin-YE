@@ -1,0 +1,74 @@
+{
+  "id": 1209872075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03396,14.10521,44.03396,14.10521",
+    "geom:latitude":14.10521,
+    "geom:longitude":44.03396,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Al Jabjab",
+    "gn:country_code":"YE",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408330,
+    "gn:latitude":14.10521,
+    "gn:longitude":44.03396,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jabjab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062c\u0628\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Jajbab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408330
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3edb9035debeef1c528ff8d5bcf860d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1209872075,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1209872075,
+    "wof:lastmodified":1537715418,
+    "wof:name":"Al Jabjab",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03396,
+    14.10521,
+    44.03396,
+    14.10521
+],
+  "geometry": {"coordinates":[44.03396,14.10521],"type":"Point"}
+}

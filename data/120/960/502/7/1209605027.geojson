@@ -1,0 +1,68 @@
+{
+  "id": 1209605027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08443,15.31548,43.08443,15.31548",
+    "geom:latitude":15.31548,
+    "geom:longitude":43.08443,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall Yusuf Nasir",
+    "gn:country_code":"YE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036003,
+    "gn:latitude":15.31548,
+    "gn:longitude":43.08443,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all Y\u016bsuf N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u064a\u0648\u0633\u0641 \u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all Y\u016bsuf N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036003
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ce3a06ec9bf20ce51184d87b61e31b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209605027
+        }
+    ],
+    "wof:id":1209605027,
+    "wof:lastmodified":1537716306,
+    "wof:name":"Mahall Yusuf Nasir",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08443,
+    15.31548,
+    43.08443,
+    15.31548
+],
+  "geometry": {"coordinates":[43.08443,15.31548],"type":"Point"}
+}

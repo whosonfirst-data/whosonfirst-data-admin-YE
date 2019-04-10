@@ -1,0 +1,74 @@
+{
+  "id": 1327406437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17793,16.90046,43.17793,16.90046",
+    "geom:latitude":16.90046,
+    "geom:longitude":43.17793,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Al Halwayn",
+    "gn:country_code":"YE",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202927,
+    "gn:latitude":16.90046,
+    "gn:longitude":43.17793,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28alwayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0648\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28alwayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202927
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3db539672afee1a89941b9a0ed33601d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1327406437,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327406437,
+    "wof:lastmodified":1537716025,
+    "wof:name":"Al Halwayn",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17793,
+    16.90046,
+    43.17793,
+    16.90046
+],
+  "geometry": {"coordinates":[43.17793,16.90046],"type":"Point"}
+}

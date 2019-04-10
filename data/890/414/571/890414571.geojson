@@ -1,0 +1,76 @@
+{
+  "id": 890414571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.65615,14.16539,45.65615,14.16539",
+    "geom:latitude":14.16539,
+    "geom:longitude":45.65615,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "J\u016bblis"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0648\u0628\u0644\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "JUblis"
+    ],
+    "qs:name":"J\u016bblis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066798,
+        "gp:id":1952504,
+        "qs:id":752850,
+        "wd:id":"Q20306440"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051053,
+    "wof:geomhash":"dc711431554af38c5ff44495eb54916c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919167,
+            "locality_id":890414571,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890414571,
+    "wof:lastmodified":1514503299,
+    "wof:name":"J\u016bblis",
+    "wof:parent_id":1091919167,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.65615,
+    14.16539,
+    45.65615,
+    14.16539
+],
+  "geometry": {"coordinates":[45.65615,14.16539],"type":"Point"}
+}

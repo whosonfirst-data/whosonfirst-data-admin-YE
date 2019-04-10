@@ -1,0 +1,71 @@
+{
+  "id": 1259471473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26752,15.39386,43.26752,15.39386",
+    "geom:latitude":15.39386,
+    "geom:longitude":43.26752,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Mahdali",
+    "gn:country_code":"YE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365274,
+    "gn:latitude":15.39386,
+    "gn:longitude":43.26752,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Mahdal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahdal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365274
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f7a78483eb8db20edcc7d61491e2b24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1259471473,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259471473,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Mahdali",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26752000000001,
+    15.39386,
+    43.26752000000001,
+    15.39386
+],
+  "geometry": {"coordinates":[43.26752000000001,15.39386],"type":"Point"}
+}

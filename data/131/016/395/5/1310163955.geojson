@@ -1,0 +1,71 @@
+{
+  "id": 1310163955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59783,15.9995,43.59783,15.9995",
+    "geom:latitude":15.9995,
+    "geom:longitude":43.59783,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Al Miradah",
+    "gn:country_code":"YE",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343567,
+    "gn:latitude":15.9995,
+    "gn:longitude":43.59783,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al M\u012br\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al M\u012br\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343567
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"12b0406e8969005be6dced6cc7cf71db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1310163955,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310163955,
+    "wof:lastmodified":1537715511,
+    "wof:name":"Al Miradah",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59783,
+    15.9995,
+    43.59783,
+    15.9995
+],
+  "geometry": {"coordinates":[43.59783,15.9995],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890448693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3028,17.3947,43.3028,17.3947",
+    "geom:latitude":17.3947,
+    "geom:longitude":43.3028,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0632\u064a\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuzaynah"
+    ],
+    "qs:name":"Al Khuzaynah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856589,
+        "gp:id":56447933,
+        "qs:id":742506,
+        "wd:id":"Q20305552"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052641,
+    "wof:geomhash":"c63403b36cfae2f1afd6dac1c531d81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890448693,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448693,
+    "wof:lastmodified":1514503166,
+    "wof:name":"Al Khuzaynah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3028,
+    17.3947,
+    43.3028,
+    17.3947
+],
+  "geometry": {"coordinates":[43.3028,17.3947],"type":"Point"}
+}

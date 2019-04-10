@@ -1,0 +1,74 @@
+{
+  "id": 1309863679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13718,14.25643,44.13718,14.25643",
+    "geom:latitude":14.25643,
+    "geom:longitude":44.13718,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Sha'b Nasir",
+    "gn:country_code":"YE",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870202,
+    "gn:latitude":14.25643,
+    "gn:longitude":44.13718,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018b N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018b N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870202
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d0ae8aeb48874d3c144051c4be2cd79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1309863679,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309863679,
+    "wof:lastmodified":1537716212,
+    "wof:name":"Sha'b Nasir",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13718,
+    14.25643,
+    44.13718,
+    14.25643
+],
+  "geometry": {"coordinates":[44.13718,14.25643],"type":"Point"}
+}

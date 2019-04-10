@@ -1,0 +1,75 @@
+{
+  "id": 1309990561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40508,15.06101,43.40508,15.06101",
+    "geom:latitude":15.06101,
+    "geom:longitude":43.40508,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Ja'ashim",
+    "gn:country_code":"YE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300399,
+    "gn:latitude":15.06101,
+    "gn:longitude":43.40508,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ja\u2018\u0101shim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0639\u0627\u0634\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Ja\u2018\u0101sh\u012bm",
+        "Al Ja\u2018\u0101shim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300399
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"86f54431a79836e7f4d25949f985c87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1309990561,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1309990561,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Al Ja'ashim",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40508,
+    15.06101,
+    43.40508,
+    15.06101
+],
+  "geometry": {"coordinates":[43.40508,15.06101],"type":"Point"}
+}

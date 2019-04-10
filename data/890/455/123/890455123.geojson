@@ -1,0 +1,77 @@
+{
+  "id": 890455123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.00253,14.54067,46.00253,14.54067",
+    "geom:latitude":14.54067,
+    "geom:longitude":46.00253,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u0627\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bilaliyah"
+    ],
+    "qs:name":"Al Bil\u0101l\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"33.49583333",
+    "wd:longitude":"36.49833333",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066897,
+        "gp:id":1959048,
+        "qs:id":752927,
+        "wd:id":"Q20304884",
+        "wk:page":"Al-Bilaliyah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052935,
+    "wof:geomhash":"a3884850942d89c7b58ee158a7f8de63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":890455123,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":890455123,
+    "wof:lastmodified":1527735398,
+    "wof:name":"Al Bil\u0101l\u012byah",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.00253,
+    14.54067,
+    46.00253,
+    14.54067
+],
+  "geometry": {"coordinates":[46.00253,14.54067],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243449673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14328,15.82307,43.14328,15.82307",
+    "geom:latitude":15.82307,
+    "geom:longitude":43.14328,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Dayr al Wajiyah",
+    "gn:country_code":"YE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365701,
+    "gn:latitude":15.82307,
+    "gn:longitude":43.14328,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr al Waj\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Waj\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365701
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c148e3a7c976279d695c9dfd978b5500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1243449673,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243449673,
+    "wof:lastmodified":1537715937,
+    "wof:name":"Dayr al Wajiyah",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14328,
+    15.82307,
+    43.14328,
+    15.82307
+],
+  "geometry": {"coordinates":[43.14328,15.82307],"type":"Point"}
+}

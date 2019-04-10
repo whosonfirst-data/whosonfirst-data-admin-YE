@@ -1,0 +1,74 @@
+{
+  "id": 1226018201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9188,15.65252,44.9188,15.65252",
+    "geom:latitude":15.65252,
+    "geom:longitude":44.9188,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"Nay'ah al 'Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976160,
+    "gn:latitude":15.65252,
+    "gn:longitude":44.9188,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nay\u2018ah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0639\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Nay\u2018ah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976160
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"073553aba4bdd3736d656e595009209c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925245,
+            "locality_id":1226018201,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226018201,
+    "wof:lastmodified":1537716146,
+    "wof:name":"Nay'ah al 'Ulya",
+    "wof:parent_id":1091925245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9188,
+    15.65252,
+    44.9188,
+    15.65252
+],
+  "geometry": {"coordinates":[44.9188,15.65252],"type":"Point"}
+}

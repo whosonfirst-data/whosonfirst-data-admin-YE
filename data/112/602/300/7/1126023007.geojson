@@ -1,0 +1,85 @@
+{
+  "id": 1126023007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78114,13.48626,43.78114,13.48626",
+    "geom:latitude":13.48626,
+    "geom:longitude":43.78114,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1,
+    "gn:population":1,
+    "iso:country":"YE",
+    "lbl:latitude":13.48626,
+    "lbl:longitude":43.78114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u064a\u0628 \u064a\u0627\u0633\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Hasib Yasin"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8075690,
+    "qs_pg:gn_pop":1,
+    "qs_pg:name":"\u1e28a\u015f\u012bb Y\u0101s\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":754277,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075690,
+        "qs_pg:id":754277,
+        "wd:id":"Q20305395"
+    },
+    "wof:country":"YE",
+    "wof:created":1497300947,
+    "wof:geomhash":"648f937099f6cf6072e5778056a554ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1126023007,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1126023007,
+    "wof:lastmodified":1514503401,
+    "wof:name":"\u1e28a\u015f\u012bb Y\u0101s\u012bn",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78114,
+    13.48626,
+    43.78114,
+    13.48626
+],
+  "geometry": {"coordinates":[43.78114,13.48626],"type":"Point"}
+}

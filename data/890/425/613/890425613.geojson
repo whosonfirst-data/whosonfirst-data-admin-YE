@@ -1,0 +1,73 @@
+{
+  "id": 890425613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33157,16.73998,44.33157,16.73998",
+    "geom:latitude":16.73998,
+    "geom:longitude":44.33157,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062d\u0644\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Hala"
+    ],
+    "qs:name":"Umm al \u1e28al\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795096,
+        "gp:id":1959135,
+        "qs:id":700863,
+        "wd:id":"Q20309241"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051597,
+    "wof:geomhash":"8feec633cddd164ee7d4b8cc0db7d543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425613,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425613,
+    "wof:lastmodified":1514503378,
+    "wof:name":"Umm al \u1e28al\u0101\u2019",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33157,
+    16.73998,
+    44.33157,
+    16.73998
+],
+  "geometry": {"coordinates":[44.33157,16.73998],"type":"Point"}
+}

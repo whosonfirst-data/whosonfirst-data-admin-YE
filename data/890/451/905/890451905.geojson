@@ -1,0 +1,76 @@
+{
+  "id": 890451905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.11146,16.29621,43.11146,16.29621",
+    "geom:latitude":16.29621,
+    "geom:longitude":43.11146,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Kurs\u00e1"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0631\u0633\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kursa"
+    ],
+    "qs:name":"Al Kurs\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631717,
+        "gp:id":1958967,
+        "qs:id":694602,
+        "wd:id":"Q20305767"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052797,
+    "wof:geomhash":"cb87a692fccf8baccd81043a4bbe4219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890451905,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890451905,
+    "wof:lastmodified":1514503166,
+    "wof:name":"Al Kurs\u00e1",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.11146,
+    16.29621,
+    43.11146,
+    16.29621
+],
+  "geometry": {"coordinates":[43.11146,16.29621],"type":"Point"}
+}

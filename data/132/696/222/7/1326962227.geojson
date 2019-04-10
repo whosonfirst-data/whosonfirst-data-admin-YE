@@ -1,0 +1,73 @@
+{
+  "id": 1326962227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05278,16.0525,49.05278,16.0525",
+    "geom:latitude":16.0525,
+    "geom:longitude":49.05278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Al Juhayl",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79231,
+    "gn:latitude":16.0525,
+    "gn:longitude":49.05278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ju\u1e29ayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Ji\u1e25ail",
+        "Al Ju\u1e29ayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79231
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8ba98056b8b4e32493b499025ade6482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1326962227,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1326962227,
+    "wof:lastmodified":1537715292,
+    "wof:name":"Al Juhayl",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05278,
+    16.0525,
+    49.05278,
+    16.0525
+],
+  "geometry": {"coordinates":[49.05278,16.0525],"type":"Point"}
+}

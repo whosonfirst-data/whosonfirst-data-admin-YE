@@ -1,0 +1,75 @@
+{
+  "id": 1343746529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18937,15.16865,43.18937,15.16865",
+    "geom:latitude":15.16865,
+    "geom:longitude":43.18937,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Ar Radawinah",
+    "gn:country_code":"YE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365044,
+    "gn:latitude":15.16865,
+    "gn:longitude":43.18937,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ar Ra\u1e11\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0636\u0627\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all ar Raz\u0327awna\u1e29",
+        "Ar Ra\u1e11\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365044
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3062c90659d9aaa1bfad4b96db2a894a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1343746529,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343746529,
+    "wof:lastmodified":1537715916,
+    "wof:name":"Ar Radawinah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18937,
+    15.16865,
+    43.18937,
+    15.16865
+],
+  "geometry": {"coordinates":[43.18937,15.16865],"type":"Point"}
+}

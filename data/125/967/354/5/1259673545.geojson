@@ -1,0 +1,68 @@
+{
+  "id": 1259673545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32143,14.4144,43.32143,14.4144",
+    "geom:latitude":14.4144,
+    "geom:longitude":43.32143,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Waqf",
+    "gn:country_code":"YE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340570,
+    "gn:latitude":14.4144,
+    "gn:longitude":43.32143,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Waqf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340570
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f01b57132cd92336354e23dbb3fe0100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1259673545,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259673545,
+    "wof:lastmodified":1537078194,
+    "wof:name":"Al Waqf",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32143,
+    14.4144,
+    43.32143,
+    14.4144
+],
+  "geometry": {"coordinates":[43.32143,14.4144],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890447053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67518,16.96041,43.67518,16.96041",
+    "geom:latitude":16.96041,
+    "geom:longitude":43.67518,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":85,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0627\u0649 \u0627\u0644\u062d\u0631\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Ghaway Al Harf"
+    ],
+    "qs:name":"Ghaw\u0101y al \u1e28arf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753450,
+        "gp:id":1953481,
+        "qs:id":698374,
+        "wd:id":"Q20304260"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052577,
+    "wof:geomhash":"3855bb99fbbeec1a8ce367918756770a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":890447053,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890447053,
+    "wof:lastmodified":1514503267,
+    "wof:name":"Ghaw\u0101y al \u1e28arf",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67518,
+    16.96041,
+    43.67518,
+    16.96041
+],
+  "geometry": {"coordinates":[43.67518,16.96041],"type":"Point"}
+}

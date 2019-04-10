@@ -1,0 +1,71 @@
+{
+  "id": 1310664369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59776,15.03123,43.59776,15.03123",
+    "geom:latitude":15.03123,
+    "geom:longitude":43.59776,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Bani Jurayn",
+    "gn:country_code":"YE",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360778,
+    "gn:latitude":15.03123,
+    "gn:longitude":43.59776,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban\u012b Jurayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Jurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360778
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"36e38945612ac465cb89221ea421119d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1310664369,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310664369,
+    "wof:lastmodified":1537715805,
+    "wof:name":"Bani Jurayn",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59776,
+    15.03123,
+    43.59776,
+    15.03123
+],
+  "geometry": {"coordinates":[43.59776,15.03123],"type":"Point"}
+}

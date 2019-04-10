@@ -1,0 +1,74 @@
+{
+  "id": 1344113797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84427,13.25483,43.84427,13.25483",
+    "geom:latitude":13.25483,
+    "geom:longitude":43.84427,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Kawba'",
+    "gn:country_code":"YE",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069050,
+    "gn:latitude":13.25483,
+    "gn:longitude":43.84427,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawba\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u0639"
+    ],
+    "name:und_x_variant":[
+        "Kawba\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069050
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76b62b8c1fad5b9fa3bb336cdbbdd990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1344113797,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1344113797,
+    "wof:lastmodified":1537716014,
+    "wof:name":"Kawba'",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84427,
+    13.25483,
+    43.84427,
+    13.25483
+],
+  "geometry": {"coordinates":[43.84427,13.25483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293766997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04931,15.62694,45.04931,15.62694",
+    "geom:latitude":15.62694,
+    "geom:longitude":45.04931,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"Al Khuraybah",
+    "gn:country_code":"YE",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976220,
+    "gn:latitude":15.62694,
+    "gn:longitude":45.04931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khuraybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u064a\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976220
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f875e62e89ce504ea582d0be68ac365e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925245,
+            "locality_id":1293766997,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293766997,
+    "wof:lastmodified":1537716149,
+    "wof:name":"Al Khuraybah",
+    "wof:parent_id":1091925245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04931,
+    15.62694,
+    45.04931,
+    15.62694
+],
+  "geometry": {"coordinates":[45.04931,15.62694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890419525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40068,16.82986,43.40068,16.82986",
+    "geom:latitude":16.82986,
+    "geom:longitude":43.40068,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0633\u0631\u0648"
+    ],
+    "name:eng_x_preferred":[
+        "Qullat As Sarw"
+    ],
+    "qs:name":"Qullat as Sarw",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016063,
+        "gp:id":1959061,
+        "qs:id":749502,
+        "wd:id":"Q20306122"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051291,
+    "wof:geomhash":"bbef0980f2dd31989a2c3b5662e15f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":890419525,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419525,
+    "wof:lastmodified":1514503338,
+    "wof:name":"Qullat as Sarw",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40068,
+    16.82986,
+    43.40068,
+    16.82986
+],
+  "geometry": {"coordinates":[43.40068,16.82986],"type":"Point"}
+}

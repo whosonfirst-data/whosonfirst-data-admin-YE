@@ -1,0 +1,73 @@
+{
+  "id": 890421227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79695,13.4774,43.79695,13.4774",
+    "geom:latitude":13.4774,
+    "geom:longitude":43.79695,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0644\u0648\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al MaslUm"
+    ],
+    "qs:name":"Al Masl\u016bm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075698,
+        "gp:id":1959049,
+        "qs:id":754284,
+        "wd:id":"Q20299696"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051384,
+    "wof:geomhash":"efbf30555dcf6380cab0bbf602147b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890421227,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890421227,
+    "wof:lastmodified":1514503184,
+    "wof:name":"Al Masl\u016bm",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79695,
+    13.4774,
+    43.79695,
+    13.4774
+],
+  "geometry": {"coordinates":[43.79695,13.4774],"type":"Point"}
+}

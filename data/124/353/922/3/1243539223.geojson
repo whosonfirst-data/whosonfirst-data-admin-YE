@@ -1,0 +1,71 @@
+{
+  "id": 1243539223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44174,14.90794,43.44174,14.90794",
+    "geom:latitude":14.90794,
+    "geom:longitude":43.44174,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Kammah",
+    "gn:country_code":"YE",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058719,
+    "gn:latitude":14.90794,
+    "gn:longitude":43.44174,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kammah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058719
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f7d69b14e04bef1ada012e8c8929189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1243539223,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243539223,
+    "wof:lastmodified":1537716351,
+    "wof:name":"Al Kammah",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44174,
+    14.90794,
+    43.44174,
+    14.90794
+],
+  "geometry": {"coordinates":[43.44174,14.90794],"type":"Point"}
+}

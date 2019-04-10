@@ -1,0 +1,68 @@
+{
+  "id": 1243346225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55,17.01667,43.55,17.01667",
+    "geom:latitude":17.01667,
+    "geom:longitude":43.55,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Athijrah",
+    "gn:country_code":"YE",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34838,
+    "gn:latitude":17.01667,
+    "gn:longitude":43.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Athijrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34838
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b1b47e0cdbc9aff93bcf08a5b5b1c6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1243346225,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243346225,
+    "wof:lastmodified":1536950354,
+    "wof:name":"Athijrah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55,
+    17.01667,
+    43.55,
+    17.01667
+],
+  "geometry": {"coordinates":[43.55,17.01667],"type":"Point"}
+}

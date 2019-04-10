@@ -1,0 +1,68 @@
+{
+  "id": 1259352659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26352,17.44079,43.26352,17.44079",
+    "geom:latitude":17.44079,
+    "geom:longitude":43.26352,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Al Ghamrah",
+    "gn:country_code":"YE",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345505,
+    "gn:latitude":17.44079,
+    "gn:longitude":43.26352,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ghamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345505
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e8e03897f0d0177367ad7ccfe746af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1259352659,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259352659,
+    "wof:lastmodified":1537044869,
+    "wof:name":"Al Ghamrah",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26352,
+    17.44079,
+    43.26352,
+    17.44079
+],
+  "geometry": {"coordinates":[43.26352,17.44079],"type":"Point"}
+}

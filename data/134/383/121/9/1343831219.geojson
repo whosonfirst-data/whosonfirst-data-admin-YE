@@ -1,0 +1,74 @@
+{
+  "id": 1343831219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97139,15.44513,44.97139,15.44513",
+    "geom:latitude":15.44513,
+    "geom:longitude":44.97139,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Ash Shatt al A'la",
+    "gn:country_code":"YE",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352985,
+    "gn:latitude":15.44513,
+    "gn:longitude":44.97139,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Sha\u0163\u0163 al A\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0637 \u0627\u0644\u0627\u0639\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ash Sha\u0163\u0163 al A\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352985
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f41ddc2be97aa34d2b0e7e826d7f0628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1343831219,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343831219,
+    "wof:lastmodified":1537716208,
+    "wof:name":"Ash Shatt al A'la",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97139,
+    15.44513,
+    44.97139,
+    15.44513
+],
+  "geometry": {"coordinates":[44.97139,15.44513],"type":"Point"}
+}

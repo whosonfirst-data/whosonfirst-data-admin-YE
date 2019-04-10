@@ -1,0 +1,76 @@
+{
+  "id": 890445835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25403,16.22399,43.25403,16.22399",
+    "geom:latitude":16.22399,
+    "geom:longitude":43.25403,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0632\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khazirah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u062e\u0632\u064a\u0631\u0629"
+    ],
+    "qs:name":"Al Khaz\u012brah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631534,
+        "gp:id":1953570,
+        "qs:id":694521,
+        "wd:id":"Q20305295"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052524,
+    "wof:geomhash":"24c69671fee112046aecf76cfbfdacb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890445835,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445835,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khaz\u012brah",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25403,
+    16.22399,
+    43.25403,
+    16.22399
+],
+  "geometry": {"coordinates":[43.25403,16.22399],"type":"Point"}
+}

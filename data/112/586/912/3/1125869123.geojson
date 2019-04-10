@@ -1,0 +1,85 @@
+{
+  "id": 1125869123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25741,16.1714,43.25741,16.1714",
+    "geom:latitude":16.1714,
+    "geom:longitude":43.25741,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"YE",
+    "lbl:latitude":16.1714,
+    "lbl:longitude":43.25741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0631\u062e\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Dayr Ar Rakhim"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7631780,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Dayr ar Rakhim",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631780,
+        "qs_pg:id":694619,
+        "wd:id":"Q20302077"
+    },
+    "wof:country":"YE",
+    "wof:created":1497294198,
+    "wof:geomhash":"2635e74dc8a0c0c03ba2e5f9eeaf44fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":1125869123,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125869123,
+    "wof:lastmodified":1514503256,
+    "wof:name":"Dayr ar Rakhim",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25741,
+    16.1714,
+    43.25741,
+    16.1714
+],
+  "geometry": {"coordinates":[43.25741,16.1714],"type":"Point"}
+}

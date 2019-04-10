@@ -1,0 +1,71 @@
+{
+  "id": 1360254853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44821,17.53781,43.44821,17.53781",
+    "geom:latitude":17.53781,
+    "geom:longitude":43.44821,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Mandabah",
+    "gn:country_code":"YE",
+    "gn:dem":2439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308769,
+    "gn:latitude":17.53781,
+    "gn:longitude":43.44821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mandabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062f\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308769
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"999026d72e944c7ec0a8ba464a30995f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1360254853,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360254853,
+    "wof:lastmodified":1537716039,
+    "wof:name":"Mandabah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44821,
+    17.53781,
+    43.44821,
+    17.53781
+],
+  "geometry": {"coordinates":[43.44821,17.53781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293468087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65963,15.49476,43.65963,15.49476",
+    "geom:latitude":15.49476,
+    "geom:longitude":43.65963,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Al Mandahah",
+    "gn:country_code":"YE",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360492,
+    "gn:latitude":15.49476,
+    "gn:longitude":43.65963,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Man\u1e11a\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Man\u1e11a\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360492
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"91e7f49bb40907c5afac8f28ce2a985e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1293468087,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293468087,
+    "wof:lastmodified":1537715800,
+    "wof:name":"Al Mandahah",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65963,
+    15.49476,
+    43.65963,
+    15.49476
+],
+  "geometry": {"coordinates":[43.65963,15.49476],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293779253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08618,15.38237,43.08618,15.38237",
+    "geom:latitude":15.38237,
+    "geom:longitude":43.08618,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall al Hillah",
+    "gn:country_code":"YE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403135,
+    "gn:latitude":15.38237,
+    "gn:longitude":43.08618,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all al \u1e28illah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28illah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403135
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b76ba98606dc380a014a344ea5282ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1293779253,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293779253,
+    "wof:lastmodified":1537715370,
+    "wof:name":"Mahall al Hillah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08618,
+    15.38237,
+    43.08618,
+    15.38237
+],
+  "geometry": {"coordinates":[43.08618,15.38237],"type":"Point"}
+}

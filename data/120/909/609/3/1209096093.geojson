@@ -1,0 +1,66 @@
+{
+  "id": 1209096093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46454,13.97903,43.46454,13.97903",
+    "geom:latitude":13.97903,
+    "geom:longitude":43.46454,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Al Bughayl",
+    "gn:country_code":"YE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79810,
+    "gn:latitude":13.97903,
+    "gn:longitude":43.46454,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Bughayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bugheil",
+        "Al Bughayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79810
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e824d5f85f7620f70f4d275a28845879",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209096093
+        }
+    ],
+    "wof:id":1209096093,
+    "wof:lastmodified":1537715318,
+    "wof:name":"Al Bughayl",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46454,
+    13.97903,
+    43.46454,
+    13.97903
+],
+  "geometry": {"coordinates":[43.46454,13.97903],"type":"Point"}
+}

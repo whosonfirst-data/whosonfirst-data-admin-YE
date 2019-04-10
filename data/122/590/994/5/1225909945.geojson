@@ -1,0 +1,73 @@
+{
+  "id": 1225909945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,13.85,44.41667,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3009.0",
+    "gn:asciiname":"Al Guba",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79673,
+    "gn:latitude":13.85,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Guba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Guba",
+        "Al Guba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79673
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"06301f7742da6630d9927a39e1818c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919657,
+            "locality_id":1225909945,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1225909945,
+    "wof:lastmodified":1537715312,
+    "wof:name":"Al Guba",
+    "wof:parent_id":1091919657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    13.85,
+    44.41667,
+    13.85
+],
+  "geometry": {"coordinates":[44.41667,13.85],"type":"Point"}
+}

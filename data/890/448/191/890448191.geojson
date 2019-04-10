@@ -1,0 +1,73 @@
+{
+  "id": 890448191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09843,17.1652,44.09843,17.1652",
+    "geom:latitude":17.1652,
+    "geom:longitude":44.09843,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u0648\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Khauwan"
+    ],
+    "qs:name":"Kha\u1e11w\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789634,
+        "gp:id":1959086,
+        "qs:id":700346,
+        "wd:id":"Q20306804"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052622,
+    "wof:geomhash":"81ddad44bbcaa3cd8a3cb56d0bda6952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890448191,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448191,
+    "wof:lastmodified":1514503302,
+    "wof:name":"Kha\u1e11w\u0101n",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09843,
+    17.1652,
+    44.09843,
+    17.1652
+],
+  "geometry": {"coordinates":[44.09843,17.1652],"type":"Point"}
+}

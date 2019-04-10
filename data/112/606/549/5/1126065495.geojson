@@ -1,0 +1,82 @@
+{
+  "id": 1126065495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63843,16.18987,43.63843,16.18987",
+    "geom:latitude":16.18987,
+    "geom:longitude":43.63843,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":11,
+    "gn:population":11,
+    "iso:country":"YE",
+    "lbl:latitude":16.18987,
+    "lbl:longitude":43.63843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062a\u062c\u0639\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8020362,
+    "qs_pg:gn_pop":11,
+    "qs_pg:name":"Bayt at Taj\u2018ah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":749719,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091921649,
+        85680977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020362,
+        "qs_pg:id":749719
+    },
+    "wof:country":"YE",
+    "wof:created":1497308809,
+    "wof:geomhash":"dd38599efdb3c4d7e3915abb09e5a1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921649,
+            "locality_id":-1,
+            "neighbourhood_id":1126065495,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1126065495,
+    "wof:lastmodified":1509410401,
+    "wof:name":"Bayt at Taj\u2018ah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63843,
+    16.18987,
+    43.63843,
+    16.18987
+],
+  "geometry": {"coordinates":[43.63843,16.18987],"type":"Point"}
+}

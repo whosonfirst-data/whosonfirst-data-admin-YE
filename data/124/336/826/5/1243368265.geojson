@@ -1,0 +1,71 @@
+{
+  "id": 1243368265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.70891,14.06832,47.70891,14.06832",
+    "geom:latitude":14.06832,
+    "geom:longitude":47.70891,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2117.0",
+    "gn:asciiname":"Al A`raf",
+    "gn:country_code":"YE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79961,
+    "gn:latitude":14.06832,
+    "gn:longitude":47.70891,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al A\u2018raf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al A\u2018raf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79961
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0c6bb0baafa8d8782bbcf114c6fd79e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926205,
+            "locality_id":1243368265,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1243368265,
+    "wof:lastmodified":1537715324,
+    "wof:name":"Al A`raf",
+    "wof:parent_id":1091926205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.70891,
+    14.06832,
+    47.70891,
+    14.06832
+],
+  "geometry": {"coordinates":[47.70891,14.06832],"type":"Point"}
+}

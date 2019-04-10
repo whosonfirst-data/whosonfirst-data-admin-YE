@@ -1,0 +1,75 @@
+{
+  "id": 1343716721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92529,13.86375,43.92529,13.86375",
+    "geom:latitude":13.86375,
+    "geom:longitude":43.92529,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Al Musharifah",
+    "gn:country_code":"YE",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355904,
+    "gn:latitude":13.86375,
+    "gn:longitude":43.92529,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mush\u0101rifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mush\u0101rifah",
+        "Al Mash\u0101rifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355904
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8675502218fbdeccf6d64f4995ba9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":1343716721,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343716721,
+    "wof:lastmodified":1537715656,
+    "wof:name":"Al Musharifah",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92529,
+    13.86375,
+    43.92529,
+    13.86375
+],
+  "geometry": {"coordinates":[43.92529,13.86375],"type":"Point"}
+}

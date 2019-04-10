@@ -1,0 +1,68 @@
+{
+  "id": 1226499389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84641,13.76929,43.84641,13.76929",
+    "geom:latitude":13.76929,
+    "geom:longitude":43.84641,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Ash Shurayf",
+    "gn:country_code":"YE",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355959,
+    "gn:latitude":13.76929,
+    "gn:longitude":43.84641,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Shurayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355959
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f843d175cb1d63eb606023c93c6cabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926691,
+            "locality_id":1226499389,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226499389,
+    "wof:lastmodified":1537062209,
+    "wof:name":"Ash Shurayf",
+    "wof:parent_id":1091926691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84641,
+    13.76929,
+    43.84641,
+    13.76929
+],
+  "geometry": {"coordinates":[43.84641,13.76929],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277160625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20676,14.72103,45.20676,14.72103",
+    "geom:latitude":14.72103,
+    "geom:longitude":45.20676,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Al `Amud",
+    "gn:country_code":"YE",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7364546,
+    "gn:latitude":14.72103,
+    "gn:longitude":45.20676,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Am\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Am\u016bd"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0645\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364546
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53d329a47e7a6d801fa2e5815bf8931c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1277160625,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1277160625,
+    "wof:lastmodified":1537715901,
+    "wof:name":"Al `Amud",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20676,
+    14.72103,
+    45.20676,
+    14.72103
+],
+  "geometry": {"coordinates":[45.20676,14.72103],"type":"Point"}
+}

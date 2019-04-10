@@ -1,0 +1,71 @@
+{
+  "id": 1309774827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35,16.01667,43.35,16.01667",
+    "geom:latitude":16.01667,
+    "geom:longitude":43.35,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1712.0",
+    "gn:asciiname":"Suq Muharraq",
+    "gn:country_code":"YE",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34865,
+    "gn:latitude":16.01667,
+    "gn:longitude":43.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq Mu\u1e29arraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq Mu\u1e29arraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34865
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"15572777ec9a2879536cb40907c5f2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":1309774827,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1309774827,
+    "wof:lastmodified":1537715057,
+    "wof:name":"Suq Muharraq",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35,
+    16.01667,
+    43.35,
+    16.01667
+],
+  "geometry": {"coordinates":[43.35,16.01667],"type":"Point"}
+}

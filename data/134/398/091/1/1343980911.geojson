@@ -1,0 +1,71 @@
+{
+  "id": 1343980911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.50667,15.04167,50.50667,15.04167",
+    "geom:latitude":15.04167,
+    "geom:longitude":50.50667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Hasana",
+    "gn:country_code":"YE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75065,
+    "gn:latitude":15.04167,
+    "gn:longitude":50.50667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hasana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28a\u015f\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75065
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ddb4cbbf5f96abe607f8f3068b0ab6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "locality_id":1343980911,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343980911,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Hasana",
+    "wof:parent_id":1091922781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.50667,
+    15.04167,
+    50.50667,
+    15.04167
+],
+  "geometry": {"coordinates":[50.50667,15.04167],"type":"Point"}
+}

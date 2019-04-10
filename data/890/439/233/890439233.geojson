@@ -1,0 +1,73 @@
+{
+  "id": 890439233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22838,17.16176,43.22838,17.16176",
+    "geom:latitude":17.16176,
+    "geom:longitude":43.22838,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062a \u0627\u0644\u0633\u064a\u0627\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Hatt As Siyalah"
+    ],
+    "qs:name":"\u1e28att as Siy\u0101lah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022091,
+        "gp:id":1938607,
+        "qs:id":750254,
+        "wd:id":"Q20305404"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052227,
+    "wof:geomhash":"2804e2d9fe3834b2a9d3c5f7e4fe2126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890439233,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890439233,
+    "wof:lastmodified":1514503399,
+    "wof:name":"\u1e28att as Siy\u0101lah",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22838,
+    17.16176,
+    43.22838,
+    17.16176
+],
+  "geometry": {"coordinates":[43.22838,17.16176],"type":"Point"}
+}

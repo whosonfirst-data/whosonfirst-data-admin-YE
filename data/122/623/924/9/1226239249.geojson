@@ -1,0 +1,74 @@
+{
+  "id": 1226239249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30947,14.53813,43.30947,14.53813",
+    "geom:latitude":14.53813,
+    "geom:longitude":43.30947,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"'Ubayd Abkar",
+    "gn:country_code":"YE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058782,
+    "gn:latitude":14.53813,
+    "gn:longitude":43.30947,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ubayd Abkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u064a\u062f \u0623\u0628\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ubayd Abkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058782
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"85eebc013bf8e38b28e5f24438846228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1226239249,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226239249,
+    "wof:lastmodified":1537716354,
+    "wof:name":"'Ubayd Abkar",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30947000000001,
+    14.53813,
+    43.30947000000001,
+    14.53813
+],
+  "geometry": {"coordinates":[43.30947000000001,14.53813],"type":"Point"}
+}

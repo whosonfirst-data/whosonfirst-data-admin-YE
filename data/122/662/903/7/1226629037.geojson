@@ -1,0 +1,71 @@
+{
+  "id": 1226629037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18174,16.98325,43.18174,16.98325",
+    "geom:latitude":16.98325,
+    "geom:longitude":43.18174,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Gharbi al `Utayf",
+    "gn:country_code":"YE",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346127,
+    "gn:latitude":16.98325,
+    "gn:longitude":43.18174,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gharb\u012b al \u2018U\u0163ayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gharb\u012b al \u2018U\u0163ayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5a1604bc2ddad2acd7f92b1c831cffa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720561,
+            "locality_id":1226629037,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1226629037,
+    "wof:lastmodified":1537715579,
+    "wof:name":"Gharbi al `Utayf",
+    "wof:parent_id":1108720561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18174000000001,
+    16.98325,
+    43.18174000000001,
+    16.98325
+],
+  "geometry": {"coordinates":[43.18174000000001,16.98325],"type":"Point"}
+}

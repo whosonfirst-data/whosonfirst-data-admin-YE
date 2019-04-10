@@ -1,0 +1,74 @@
+{
+  "id": 1343536467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09481,16.42882,44.09481,16.42882",
+    "geom:latitude":16.42882,
+    "geom:longitude":44.09481,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Mahjar Dunih",
+    "gn:country_code":"YE",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973521,
+    "gn:latitude":16.42882,
+    "gn:longitude":44.09481,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29jar D\u016bni\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u062c\u0631 \u062f\u0648\u0646\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29jar D\u016bni\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973521
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c02dce0e64c1a9f8a9f1140d1946bad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1343536467,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343536467,
+    "wof:lastmodified":1537716102,
+    "wof:name":"Mahjar Dunih",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09481,
+    16.42882,
+    44.09481,
+    16.42882
+],
+  "geometry": {"coordinates":[44.09481,16.42882],"type":"Point"}
+}

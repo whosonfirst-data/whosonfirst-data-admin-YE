@@ -1,0 +1,76 @@
+{
+  "id": 890425363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44782,17.22099,44.44782,17.22099",
+    "geom:latitude":17.22099,
+    "geom:longitude":44.44782,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Qih\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0647\u0627\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Qihah"
+    ],
+    "qs:name":"Qih\u0101h",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785356,
+        "gp:id":1939932,
+        "qs:id":700272,
+        "wd:id":"Q20305999"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051586,
+    "wof:geomhash":"b62328f19b98bf4a5d06b8b59bed5507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890425363,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425363,
+    "wof:lastmodified":1514503336,
+    "wof:name":"Qih\u0101h",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44782,
+    17.22099,
+    44.44782,
+    17.22099
+],
+  "geometry": {"coordinates":[44.44782,17.22099],"type":"Point"}
+}

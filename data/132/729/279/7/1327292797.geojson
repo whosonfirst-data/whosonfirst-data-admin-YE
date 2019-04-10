@@ -1,0 +1,74 @@
+{
+  "id": 1327292797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74353,14.38823,44.74353,14.38823",
+    "geom:latitude":14.38823,
+    "geom:longitude":44.74353,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Al Farazi`ah",
+    "gn:country_code":"YE",
+    "gn:dem":2246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408890,
+    "gn:latitude":14.38823,
+    "gn:longitude":44.74353,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Al Far\u0101zi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0627\u0632\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Far\u0101zi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408890
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"971066e3aae721d5e634feb675024b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1327292797,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1327292797,
+    "wof:lastmodified":1537715422,
+    "wof:name":"Al Farazi`ah",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74353,
+    14.38823,
+    44.74353,
+    14.38823
+],
+  "geometry": {"coordinates":[44.74353,14.38823],"type":"Point"}
+}

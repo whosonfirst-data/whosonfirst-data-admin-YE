@@ -1,0 +1,71 @@
+{
+  "id": 1193240191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12992,15.94931,44.12992,15.94931",
+    "geom:latitude":15.94931,
+    "geom:longitude":44.12992,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Mahall Majzar",
+    "gn:country_code":"YE",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362201,
+    "gn:latitude":15.94931,
+    "gn:longitude":44.12992,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Majzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Majzar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362201
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c38a7d9114b0345bdb1d673202981324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921833,
+            "locality_id":1193240191,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1193240191,
+    "wof:lastmodified":1537715838,
+    "wof:name":"Mahall Majzar",
+    "wof:parent_id":1091921833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12992,
+    15.94931,
+    44.12992,
+    15.94931
+],
+  "geometry": {"coordinates":[44.12992,15.94931],"type":"Point"}
+}

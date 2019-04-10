@@ -1,0 +1,75 @@
+{
+  "id": 1310373899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41374,14.08884,44.41374,14.08884",
+    "geom:latitude":14.08884,
+    "geom:longitude":44.41374,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Bayt al Bana'",
+    "gn:country_code":"YE",
+    "gn:dem":2440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359323,
+    "gn:latitude":14.08884,
+    "gn:longitude":44.41374,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt al Ban\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0628\u0646\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Ban\u0101\u2019",
+        "Bayt al Bana\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359323
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"584e2d9bdc7c2a0c9a42b9a440335898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1310373899,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310373899,
+    "wof:lastmodified":1537715754,
+    "wof:name":"Bayt al Bana'",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41374,
+    14.08884,
+    44.41374,
+    14.08884
+],
+  "geometry": {"coordinates":[44.41374,14.08884],"type":"Point"}
+}

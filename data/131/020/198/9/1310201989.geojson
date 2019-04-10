@@ -1,0 +1,74 @@
+{
+  "id": 1310201989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08704,14.74623,43.08704,14.74623",
+    "geom:latitude":14.74623,
+    "geom:longitude":43.08704,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1814.0",
+    "gn:asciiname":"Bayt al Ja`bali",
+    "gn:country_code":"YE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058170,
+    "gn:latitude":14.74623,
+    "gn:longitude":43.08704,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Bayt al Ja\u2018bal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062c\u0639\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Ja\u2018bal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058170
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ccefc5fbb4bc6698b0633d9cdb121ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919869,
+            "locality_id":1310201989,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310201989,
+    "wof:lastmodified":1537716328,
+    "wof:name":"Bayt al Ja`bali",
+    "wof:parent_id":1091919869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08704,
+    14.74623,
+    43.08704,
+    14.74623
+],
+  "geometry": {"coordinates":[43.08704,14.74623],"type":"Point"}
+}

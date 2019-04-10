@@ -1,0 +1,71 @@
+{
+  "id": 1327226415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.34524,14.36174,47.34524,14.36174",
+    "geom:latitude":14.36174,
+    "geom:longitude":47.34524,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Bilad Lamatir",
+    "gn:country_code":"YE",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76839,
+    "gn:latitude":14.36174,
+    "gn:longitude":47.34524,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bil\u0101d Lam\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bil\u0101d Lam\u0101\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76839
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ae7236e1028c94886009e12773157ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1327226415,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1327226415,
+    "wof:lastmodified":1537715210,
+    "wof:name":"Bilad Lamatir",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.34524,
+    14.36174,
+    47.34524,
+    14.36174
+],
+  "geometry": {"coordinates":[47.34524,14.36174],"type":"Point"}
+}

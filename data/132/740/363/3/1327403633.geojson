@@ -1,0 +1,71 @@
+{
+  "id": 1327403633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,17.01667,43.78333,17.01667",
+    "geom:latitude":17.01667,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Makran",
+    "gn:country_code":"YE",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73138,
+    "gn:latitude":17.01667,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73138
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3d51b0cbc1de662635d4c359bd86b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1327403633,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327403633,
+    "wof:lastmodified":1537715128,
+    "wof:name":"Makran",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    17.01667,
+    43.78333,
+    17.01667
+],
+  "geometry": {"coordinates":[43.78333,17.01667],"type":"Point"}
+}

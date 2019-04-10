@@ -1,0 +1,68 @@
+{
+  "id": 890448715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38137,17.29334,43.38137,17.29334",
+    "geom:latitude":17.29334,
+    "geom:longitude":43.38137,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0641\u0629"
+    ],
+    "qs:name":"Al Jurfah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680955,
+        85632499,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856658,
+        "qs:id":742573
+    },
+    "wof:country":"YE",
+    "wof:created":1469052641,
+    "wof:geomhash":"80e9e64515fa1008e550252556d61156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "neighbourhood_id":890448715,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448715,
+    "wof:lastmodified":1505343624,
+    "wof:name":"Al Jurfah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38137,
+    17.29334,
+    43.38137,
+    17.29334
+],
+  "geometry": {"coordinates":[43.38137,17.29334],"type":"Point"}
+}

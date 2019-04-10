@@ -1,0 +1,74 @@
+{
+  "id": 1360256693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56676,15.74126,44.56676,15.74126",
+    "geom:latitude":15.74126,
+    "geom:longitude":44.56676,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Al Abu Hatim",
+    "gn:country_code":"YE",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975993,
+    "gn:latitude":15.74126,
+    "gn:longitude":44.56676,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Ab\u016b \u1e28\u0101tim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0623\u0628\u0648 \u062d\u0627\u062a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Ab\u016b \u1e28\u0101tim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"826fc6dcd88bd7f9ac5a93e5ce31f7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1360256693,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1360256693,
+    "wof:lastmodified":1537716139,
+    "wof:name":"Al Abu Hatim",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56676,
+    15.74126,
+    44.56676,
+    15.74126
+],
+  "geometry": {"coordinates":[44.56676,15.74126],"type":"Point"}
+}

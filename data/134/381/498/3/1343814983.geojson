@@ -1,0 +1,71 @@
+{
+  "id": 1343814983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08111,13.19,44.08111,13.19",
+    "geom:latitude":13.19,
+    "geom:longitude":44.08111,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Nabah",
+    "gn:country_code":"YE",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409049,
+    "gn:latitude":13.19,
+    "gn:longitude":44.08111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409049
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f1c824d6c228d65ff627a6ca4e671b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343814983,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343814983,
+    "wof:lastmodified":1537715425,
+    "wof:name":"Nabah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08111,
+    13.19,
+    44.08111,
+    13.19
+],
+  "geometry": {"coordinates":[44.08111,13.19],"type":"Point"}
+}

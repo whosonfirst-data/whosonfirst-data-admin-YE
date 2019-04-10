@@ -1,0 +1,72 @@
+{
+  "id": 1310668463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00335,13.35259,44.00335,13.35259",
+    "geom:latitude":13.35259,
+    "geom:longitude":44.00335,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Mil`ab as Sinnah",
+    "gn:country_code":"YE",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79816,
+    "gn:latitude":13.35259,
+    "gn:longitude":44.00335,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mil\u2018\u0101b a\u015f \u015einnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mil\u2018\u0101b a\u015f \u015einnah",
+        "Al Bi\u2019rayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79816
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"02d3ea32c3a14c7dae7440ed2d16ccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1310668463,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310668463,
+    "wof:lastmodified":1537715318,
+    "wof:name":"Mil`ab as Sinnah",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00335,
+    13.35259,
+    44.00335,
+    13.35259
+],
+  "geometry": {"coordinates":[44.00335,13.35259],"type":"Point"}
+}

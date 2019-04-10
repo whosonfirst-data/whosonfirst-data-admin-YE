@@ -1,0 +1,71 @@
+{
+  "id": 1293474445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49022,14.91528,43.49022,14.91528",
+    "geom:latitude":14.91528,
+    "geom:longitude":43.49022,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Bawn",
+    "gn:country_code":"YE",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058623,
+    "gn:latitude":14.91528,
+    "gn:longitude":43.49022,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058623
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"eaa897b576154ffc306b0f86676125d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1293474445,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293474445,
+    "wof:lastmodified":1537716346,
+    "wof:name":"Al Bawn",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49022,
+    14.91528,
+    43.49022,
+    14.91528
+],
+  "geometry": {"coordinates":[43.49022,14.91528],"type":"Point"}
+}

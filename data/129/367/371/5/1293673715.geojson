@@ -1,0 +1,71 @@
+{
+  "id": 1293673715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27991,14.71534,43.27991,14.71534",
+    "geom:latitude":14.71534,
+    "geom:longitude":43.27991,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Al Qusariyah",
+    "gn:country_code":"YE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401885,
+    "gn:latitude":14.71534,
+    "gn:longitude":43.27991,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Qu\u015f\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qu\u015f\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401885
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"64ff9722907a7a9fd6807c5eb2ef6fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920045,
+            "locality_id":1293673715,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293673715,
+    "wof:lastmodified":1537715349,
+    "wof:name":"Al Qusariyah",
+    "wof:parent_id":1091920045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27991,
+    14.71534,
+    43.27991,
+    14.71534
+],
+  "geometry": {"coordinates":[43.27991,14.71534],"type":"Point"}
+}

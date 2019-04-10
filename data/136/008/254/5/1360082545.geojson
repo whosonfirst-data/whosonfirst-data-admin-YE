@@ -1,0 +1,74 @@
+{
+  "id": 1360082545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45525,14.94264,43.45525,14.94264",
+    "geom:latitude":14.94264,
+    "geom:longitude":43.45525,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Al Mikhbaz",
+    "gn:country_code":"YE",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058196,
+    "gn:latitude":14.94264,
+    "gn:longitude":43.45525,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mikhb\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0628\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Al Mikhb\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058196
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25dbc6bbd300aab2b6c0831dd8cf801d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1360082545,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360082545,
+    "wof:lastmodified":1537716329,
+    "wof:name":"Al Mikhbaz",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45525,
+    14.94264,
+    43.45525,
+    14.94264
+],
+  "geometry": {"coordinates":[43.45525,14.94264],"type":"Point"}
+}

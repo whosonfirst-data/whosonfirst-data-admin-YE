@@ -1,0 +1,69 @@
+{
+  "id": 890425421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80876,17.04742,43.80876,17.04742",
+    "geom:latitude":17.04742,
+    "geom:longitude":43.80876,
+    "gn:country":"YE",
+    "gn:fcode":"TRB",
+    "gn:pop":13,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0648 \u0627\u0644 \u0639\u0631\u0641\u062c"
+    ],
+    "qs:name":"Badw \u0100l \u2018Arfaj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792657,
+        "gp:id":1958152,
+        "qs:id":700450
+    },
+    "wof:country":"YE",
+    "wof:created":1469051589,
+    "wof:geomhash":"22deb5419668dcaa146d137914d22040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890425421,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425421,
+    "wof:lastmodified":1505343487,
+    "wof:name":"Badw \u0100l \u2018Arfaj",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80876,
+    17.04742,
+    43.80876,
+    17.04742
+],
+  "geometry": {"coordinates":[43.80876,17.04742],"type":"Point"}
+}

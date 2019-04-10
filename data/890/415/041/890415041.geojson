@@ -1,0 +1,76 @@
+{
+  "id": 890415041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30817,16.64423,43.30817,16.64423",
+    "geom:latitude":16.64423,
+    "geom:longitude":43.30817,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0632\u0628 \u0648\u0627\u0635\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Mi'zab Wasil"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u2018zab W\u0101\u015fil"
+    ],
+    "qs:name":"Mi\u2018zab W\u0101\u015fil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854957,
+        "gp:id":1959134,
+        "qs:id":741895,
+        "wd:id":"Q20301643"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051071,
+    "wof:geomhash":"587b4a1acdb27151edcef67bf4ca7169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890415041,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890415041,
+    "wof:lastmodified":1514503328,
+    "wof:name":"Mi\u2018zab W\u0101\u015fil",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30817,
+    16.64423,
+    43.30817,
+    16.64423
+],
+  "geometry": {"coordinates":[43.30817,16.64423],"type":"Point"}
+}

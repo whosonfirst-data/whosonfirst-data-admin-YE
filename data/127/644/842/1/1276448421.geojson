@@ -1,0 +1,68 @@
+{
+  "id": 1276448421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.86667,15.21667,47.86667,15.21667",
+    "geom:latitude":15.21667,
+    "geom:longitude":47.86667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1921.0",
+    "gn:asciiname":"Turumil",
+    "gn:country_code":"YE",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69951,
+    "gn:latitude":15.21667,
+    "gn:longitude":47.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Turumil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69951
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ebdee27f1727076cd63a786d516b920f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922765,
+            "locality_id":1276448421,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276448421,
+    "wof:lastmodified":1536622341,
+    "wof:name":"Turumil",
+    "wof:parent_id":1091922765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.86667,
+    15.21667,
+    47.86667,
+    15.21667
+],
+  "geometry": {"coordinates":[47.86667,15.21667],"type":"Point"}
+}

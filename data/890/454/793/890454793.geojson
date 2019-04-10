@@ -1,0 +1,76 @@
+{
+  "id": 890454793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27263,17.2546,43.27263,17.2546",
+    "geom:latitude":17.2546,
+    "geom:longitude":43.27263,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u1e28ir\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0631\u0627\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Hiraz"
+    ],
+    "qs:name":"\u1e28ir\u0101z",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856676,
+        "gp:id":1938607,
+        "qs:id":742591,
+        "wd:id":"Q20305892"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052914,
+    "wof:geomhash":"367a2f0fce2121c195c636a3a53b43e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890454793,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890454793,
+    "wof:lastmodified":1514503402,
+    "wof:name":"\u1e28ir\u0101z",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27263,
+    17.2546,
+    43.27263,
+    17.2546
+],
+  "geometry": {"coordinates":[43.27263,17.2546],"type":"Point"}
+}

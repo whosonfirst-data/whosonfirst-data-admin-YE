@@ -1,0 +1,74 @@
+{
+  "id": 1292959855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56919,14.00873,45.56919,14.00873",
+    "geom:latitude":14.00873,
+    "geom:longitude":45.56919,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Al 'Amiriyah",
+    "gn:country_code":"YE",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538219,
+    "gn:latitude":14.00873,
+    "gn:longitude":45.56919,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018\u0100mir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018\u0100mir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538219
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"24b58268626081bb9b91d0a170d0f1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918993,
+            "locality_id":1292959855,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1292959855,
+    "wof:lastmodified":1537716055,
+    "wof:name":"Al 'Amiriyah",
+    "wof:parent_id":1091918993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56919,
+    14.00873,
+    45.56919,
+    14.00873
+],
+  "geometry": {"coordinates":[45.56919,14.00873],"type":"Point"}
+}

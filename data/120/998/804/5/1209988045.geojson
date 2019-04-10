@@ -1,0 +1,68 @@
+{
+  "id": 1209988045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,15.48333,44.3,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Safia",
+    "gn:country_code":"YE",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71304,
+    "gn:latitude":15.48333,
+    "gn:longitude":44.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Safia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71304
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"650cc7ceec5d21a06e8d756f705cd389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1209988045,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209988045,
+    "wof:lastmodified":1536387699,
+    "wof:name":"Safia",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    15.48333,
+    44.3,
+    15.48333
+],
+  "geometry": {"coordinates":[44.3,15.48333],"type":"Point"}
+}

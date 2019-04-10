@@ -1,0 +1,75 @@
+{
+  "id": 1360043331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99111,14.01747,43.99111,14.01747",
+    "geom:latitude":14.01747,
+    "geom:longitude":43.99111,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Bayt Nawabah",
+    "gn:country_code":"YE",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358744,
+    "gn:latitude":14.01747,
+    "gn:longitude":43.99111,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt Naw\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0646\u0648\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nuw\u0101bah",
+        "Bayt Naw\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358744
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b4aaea6e53593aca8ae7e3d5c4afdd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924581,
+            "locality_id":1360043331,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1360043331,
+    "wof:lastmodified":1537715730,
+    "wof:name":"Bayt Nawabah",
+    "wof:parent_id":1091924581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99111,
+    14.01747,
+    43.99111,
+    14.01747
+],
+  "geometry": {"coordinates":[43.99111,14.01747],"type":"Point"}
+}

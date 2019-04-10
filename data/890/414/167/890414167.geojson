@@ -1,0 +1,73 @@
+{
+  "id": 890414167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20053,15.98676,45.20053,15.98676",
+    "geom:latitude":15.98676,
+    "geom:longitude":45.20053,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":26,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0646\u0627\u062a \u0627\u0644 \u0645\u0631\u0639\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Labinat Al Mar'i"
+    ],
+    "qs:name":"Labin\u0101t \u0100l Mar\u2018\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890551,
+        "gp:id":1959008,
+        "qs:id":743972,
+        "wd:id":"Q20299612"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051035,
+    "wof:geomhash":"5908ef3ea9df2562c88d42890caaa6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":890414167,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890414167,
+    "wof:lastmodified":1514503305,
+    "wof:name":"Labin\u0101t \u0100l Mar\u2018\u012b",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20053,
+    15.98676,
+    45.20053,
+    15.98676
+],
+  "geometry": {"coordinates":[45.20053,15.98676],"type":"Point"}
+}

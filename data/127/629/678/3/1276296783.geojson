@@ -1,0 +1,74 @@
+{
+  "id": 1276296783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94741,16.19471,43.94741,16.19471",
+    "geom:latitude":16.19471,
+    "geom:longitude":43.94741,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt al Qadaf",
+    "gn:country_code":"YE",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635119,
+    "gn:latitude":16.19471,
+    "gn:longitude":43.94741,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Qa\u1e11af",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0642\u0636\u0641"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Qa\u1e11af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635119
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"32320dc1f0539a1f2290c4cbb6ab98ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1276296783,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276296783,
+    "wof:lastmodified":1537716093,
+    "wof:name":"Bayt al Qadaf",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94741,
+    16.19471,
+    43.94741,
+    16.19471
+],
+  "geometry": {"coordinates":[43.94741,16.19471],"type":"Point"}
+}

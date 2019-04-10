@@ -1,0 +1,71 @@
+{
+  "id": 1209906033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14344,15.68574,43.14344,15.68574",
+    "geom:latitude":15.68574,
+    "geom:longitude":43.14344,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Al Mahsam",
+    "gn:country_code":"YE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365856,
+    "gn:latitude":15.68574,
+    "gn:longitude":43.14344,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e29\u015fam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29\u015fam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365856
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"10f80e7ccb600381113305dc76c3bf98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1209906033,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209906033,
+    "wof:lastmodified":1537715940,
+    "wof:name":"Al Mahsam",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14344000000001,
+    15.68574,
+    43.14344000000001,
+    15.68574
+],
+  "geometry": {"coordinates":[43.14344000000001,15.68574],"type":"Point"}
+}

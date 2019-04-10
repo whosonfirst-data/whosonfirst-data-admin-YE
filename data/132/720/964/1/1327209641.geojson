@@ -1,0 +1,75 @@
+{
+  "id": 1327209641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72072,13.71181,44.72072,13.71181",
+    "geom:latitude":13.71181,
+    "geom:longitude":44.72072,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Al Hud",
+    "gn:country_code":"YE",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79493,
+    "gn:latitude":13.71181,
+    "gn:longitude":44.72072,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u016bd"
+    ],
+    "name:und_x_variant":[
+        "Al Haud",
+        "Al \u1e28aw\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79493
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"019c22bb093341d9f5beaf91a7566a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919595,
+            "locality_id":1327209641,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1327209641,
+    "wof:lastmodified":1537715304,
+    "wof:name":"Al Hud",
+    "wof:parent_id":1091919595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72072,
+    13.71181,
+    44.72072,
+    13.71181
+],
+  "geometry": {"coordinates":[44.72072,13.71181],"type":"Point"}
+}

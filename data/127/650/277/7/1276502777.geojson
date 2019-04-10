@@ -1,0 +1,74 @@
+{
+  "id": 1276502777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5566,15.5708,43.5566,15.5708",
+    "geom:latitude":15.5708,
+    "geom:longitude":43.5566,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Bayt 'Anbul",
+    "gn:country_code":"YE",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980825,
+    "gn:latitude":15.5708,
+    "gn:longitude":43.5566,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u2018Anb\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0646\u0628\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u2018Anb\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980825
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c77c9442ea48ae2dc85a27657faee357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1276502777,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276502777,
+    "wof:lastmodified":1537716186,
+    "wof:name":"Bayt 'Anbul",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5566,
+    15.5708,
+    43.5566,
+    15.5708
+],
+  "geometry": {"coordinates":[43.5566,15.5708],"type":"Point"}
+}

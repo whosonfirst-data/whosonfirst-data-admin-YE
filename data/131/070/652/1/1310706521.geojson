@@ -1,0 +1,73 @@
+{
+  "id": 1310706521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90353,14.57048,45.90353,14.57048",
+    "geom:latitude":14.57048,
+    "geom:longitude":45.90353,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bin Ja`ul",
+    "gn:country_code":"YE",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231526,
+    "gn:latitude":14.57048,
+    "gn:longitude":45.90353,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bin Ja\u2018\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646 \u062c\u0639\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bin Ja\u2018\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231526
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"edcab90d79addc2d123aef79c7ac6e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926157,
+            "locality_id":1310706521,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310706521,
+    "wof:lastmodified":1537716357,
+    "wof:name":"Bin Ja`ul",
+    "wof:parent_id":1091926157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90353,
+    14.57048,
+    45.90353,
+    14.57048
+],
+  "geometry": {"coordinates":[45.90353,14.57048],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259676403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02763,14.93278,47.02763,14.93278",
+    "geom:latitude":14.93278,
+    "geom:longitude":47.02763,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Jawl al Majma'",
+    "gn:country_code":"YE",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7931039,
+    "gn:latitude":14.93278,
+    "gn:longitude":47.02763,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jawl al Majma\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0644 \u0627\u0644\u0645\u062c\u0645\u0639"
+    ],
+    "name:und_x_variant":[
+        "Jawl al Majma\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931039
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"27cc65da2d37e37fe0d8b1ad3c7c1c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1259676403,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1259676403,
+    "wof:lastmodified":1537716005,
+    "wof:name":"Jawl al Majma'",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02763,
+    14.93278,
+    47.02763,
+    14.93278
+],
+  "geometry": {"coordinates":[47.02763,14.93278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276732199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28695,16.96572,43.28695,16.96572",
+    "geom:latitude":16.96572,
+    "geom:longitude":43.28695,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Al `Awarij",
+    "gn:country_code":"YE",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346316,
+    "gn:latitude":16.96572,
+    "gn:longitude":43.28695,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al \u2018Aw\u0101rij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Aw\u0101rij"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u0627\u0631\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346316
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6b5f9a75f5a804b2f745056b548733b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1276732199,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276732199,
+    "wof:lastmodified":1537715587,
+    "wof:name":"Al `Awarij",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28695,
+    16.96572,
+    43.28695,
+    16.96572
+],
+  "geometry": {"coordinates":[43.28695,16.96572],"type":"Point"}
+}

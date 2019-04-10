@@ -1,0 +1,76 @@
+{
+  "id": 1276400639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.78436,12.60745,53.78436,12.60745",
+    "geom:latitude":12.60745,
+    "geom:longitude":53.78436,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"'Awdaf",
+    "gn:country_code":"YE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182304,
+    "gn:latitude":12.60745,
+    "gn:longitude":53.78436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aw\u1e11af",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182304
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec4d07e6f0c91b61404157c3c080bcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1276400639,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1276400639,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276400639,
+    "wof:lastmodified":1536688611,
+    "wof:name":"'Awdaf",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.78436,
+    12.60745,
+    53.78436,
+    12.60745
+],
+  "geometry": {"coordinates":[53.78436,12.60745],"type":"Point"}
+}

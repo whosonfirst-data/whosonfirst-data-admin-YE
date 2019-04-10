@@ -1,0 +1,71 @@
+{
+  "id": 1226623409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54246,14.36701,44.54246,14.36701",
+    "geom:latitude":14.36701,
+    "geom:longitude":44.54246,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Jaw'ar",
+    "gn:country_code":"YE",
+    "gn:dem":2645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7339983,
+    "gn:latitude":14.36701,
+    "gn:longitude":44.54246,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jaw\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaw\u2019ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7339983
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"542551da298dbad968c8a203a33a58a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1226623409,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1226623409,
+    "wof:lastmodified":1537715434,
+    "wof:name":"Jaw'ar",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54246,
+    14.36701,
+    44.54246,
+    14.36701
+],
+  "geometry": {"coordinates":[44.54246,14.36701],"type":"Point"}
+}

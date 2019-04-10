@@ -1,0 +1,71 @@
+{
+  "id": 1226610193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87879,15.88748,43.87879,15.88748",
+    "geom:latitude":15.88748,
+    "geom:longitude":43.87879,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2912.0",
+    "gn:asciiname":"Bayt Ratas",
+    "gn:country_code":"YE",
+    "gn:dem":2340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343998,
+    "gn:latitude":15.88748,
+    "gn:longitude":43.87879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Ra\u0163\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Ra\u0163\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343998
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48113a0968d5486369f95808dba9bfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921965,
+            "locality_id":1226610193,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226610193,
+    "wof:lastmodified":1537715525,
+    "wof:name":"Bayt Ratas",
+    "wof:parent_id":1091921965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87879,
+    15.88748,
+    43.87879,
+    15.88748
+],
+  "geometry": {"coordinates":[43.87879,15.88748],"type":"Point"}
+}

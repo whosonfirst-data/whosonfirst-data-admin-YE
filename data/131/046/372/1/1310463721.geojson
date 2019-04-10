@@ -1,0 +1,68 @@
+{
+  "id": 1310463721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70363,15.65492,43.70363,15.65492",
+    "geom:latitude":15.65492,
+    "geom:longitude":43.70363,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Ad Dayr",
+    "gn:country_code":"YE",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344078,
+    "gn:latitude":15.65492,
+    "gn:longitude":43.70363,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Dayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344078
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b082a0f1f3a7578063c308380a712198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922059,
+            "locality_id":1310463721,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1310463721,
+    "wof:lastmodified":1536976747,
+    "wof:name":"Ad Dayr",
+    "wof:parent_id":1091922059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70363,
+    15.65492,
+    43.70363,
+    15.65492
+],
+  "geometry": {"coordinates":[43.70363,15.65492],"type":"Point"}
+}

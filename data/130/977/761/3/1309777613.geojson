@@ -1,0 +1,74 @@
+{
+  "id": 1309777613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89181,15.31391,44.89181,15.31391",
+    "geom:latitude":15.31391,
+    "geom:longitude":44.89181,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Al Makhbah",
+    "gn:country_code":"YE",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331548,
+    "gn:latitude":15.31391,
+    "gn:longitude":44.89181,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Makhb\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0628\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Makhb\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331548
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e557fac617204c02ff32098b7209630e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925803,
+            "locality_id":1309777613,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1309777613,
+    "wof:lastmodified":1537716190,
+    "wof:name":"Al Makhbah",
+    "wof:parent_id":1091925803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89181,
+    15.31391,
+    44.89181,
+    15.31391
+],
+  "geometry": {"coordinates":[44.89181,15.31391],"type":"Point"}
+}

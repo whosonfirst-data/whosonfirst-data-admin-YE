@@ -1,0 +1,76 @@
+{
+  "id": 890455057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21534,14.85179,45.21534,14.85179",
+    "geom:latitude":14.85179,
+    "geom:longitude":45.21534,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0637\u064a\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Atifah"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018U\u0163ayfah"
+    ],
+    "qs:name":"Al \u2018A\u0163\u012bfah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053322,
+        "gp:id":1959055,
+        "qs:id":751749,
+        "wd:id":"Q20302498"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052931,
+    "wof:geomhash":"203fb7392c0ca066168f8e14db60b429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890455057,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890455057,
+    "wof:lastmodified":1514503211,
+    "wof:name":"Al \u2018A\u0163\u012bfah",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21534,
+    14.85179,
+    45.21534,
+    14.85179
+],
+  "geometry": {"coordinates":[45.21534,14.85179],"type":"Point"}
+}

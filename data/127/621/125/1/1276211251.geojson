@@ -1,0 +1,71 @@
+{
+  "id": 1276211251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33862,14.90682,43.33862,14.90682",
+    "geom:latitude":14.90682,
+    "geom:longitude":43.33862,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"As Saqiyah",
+    "gn:country_code":"YE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401648,
+    "gn:latitude":14.90682,
+    "gn:longitude":43.33862,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"As S\u0101qiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As S\u0101qiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401648
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3e5de015379cc2c5279c07dc8a69fa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1276211251,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276211251,
+    "wof:lastmodified":1537715344,
+    "wof:name":"As Saqiyah",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33862,
+    14.90682,
+    43.33862,
+    14.90682
+],
+  "geometry": {"coordinates":[43.33862,14.90682],"type":"Point"}
+}

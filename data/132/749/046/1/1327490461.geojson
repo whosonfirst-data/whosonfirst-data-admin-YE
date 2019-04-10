@@ -1,0 +1,74 @@
+{
+  "id": 1327490461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8564,13.39475,43.8564,13.39475",
+    "geom:latitude":13.39475,
+    "geom:longitude":43.8564,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Hayjanah",
+    "gn:country_code":"YE",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406056,
+    "gn:latitude":13.39475,
+    "gn:longitude":43.8564,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"\u1e28ayjanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062c\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayjanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406056
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fb1dbb3d939a17bb78bb10b154e3777e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1327490461,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327490461,
+    "wof:lastmodified":1537715379,
+    "wof:name":"Hayjanah",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8564,
+    13.39475,
+    43.8564,
+    13.39475
+],
+  "geometry": {"coordinates":[43.8564,13.39475],"type":"Point"}
+}

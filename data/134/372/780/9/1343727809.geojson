@@ -1,0 +1,68 @@
+{
+  "id": 1343727809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66647,13.73658,44.66647,13.73658",
+    "geom:latitude":13.73658,
+    "geom:longitude":44.66647,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Al Qarn",
+    "gn:country_code":"YE",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354922,
+    "gn:latitude":13.73658,
+    "gn:longitude":44.66647,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qarn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354922
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0dbcbdd3c5122524b9fb4f5027088aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919751,
+            "locality_id":1343727809,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343727809,
+    "wof:lastmodified":1536856826,
+    "wof:name":"Al Qarn",
+    "wof:parent_id":1091919751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66647,
+    13.73658,
+    44.66647,
+    13.73658
+],
+  "geometry": {"coordinates":[44.66647,13.73658],"type":"Point"}
+}

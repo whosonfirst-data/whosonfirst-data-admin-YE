@@ -1,0 +1,69 @@
+{
+  "id": 890426095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33396,17.3489,43.33396,17.3489",
+    "geom:latitude":17.3489,
+    "geom:longitude":43.33396,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u063a\u062b\u0631"
+    ],
+    "qs:name":"Al Aghthar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856623,
+        "gp:id":56447933,
+        "qs:id":742540
+    },
+    "wof:country":"YE",
+    "wof:created":1469051618,
+    "wof:geomhash":"ed8899ecfd8c1a31a7bed4de2580cf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890426095,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426095,
+    "wof:lastmodified":1505343491,
+    "wof:name":"Al Aghthar",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33396,
+    17.3489,
+    43.33396,
+    17.3489
+],
+  "geometry": {"coordinates":[43.33396,17.3489],"type":"Point"}
+}

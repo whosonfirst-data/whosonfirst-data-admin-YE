@@ -1,0 +1,73 @@
+{
+  "id": 890448565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3654,16.68323,43.3654,16.68323",
+    "geom:latitude":16.68323,
+    "geom:longitude":43.3654,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0628\u0646\u062f\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b Al Bandaq"
+    ],
+    "qs:name":"Sha\u2018b al Bandaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855216,
+        "gp:id":1959134,
+        "qs:id":742134,
+        "wd:id":"Q20307351"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052636,
+    "wof:geomhash":"020d5fbc8a83db4325bd971f5feb824c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890448565,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448565,
+    "wof:lastmodified":1514503364,
+    "wof:name":"Sha\u2018b al Bandaq",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3654,
+    16.68323,
+    43.3654,
+    16.68323
+],
+  "geometry": {"coordinates":[43.3654,16.68323],"type":"Point"}
+}

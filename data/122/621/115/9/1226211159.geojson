@@ -1,0 +1,74 @@
+{
+  "id": 1226211159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39161,16.23537,43.39161,16.23537",
+    "geom:latitude":16.23537,
+    "geom:longitude":43.39161,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al 'Usaydah",
+    "gn:country_code":"YE",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260887,
+    "gn:latitude":16.23537,
+    "gn:longitude":43.39161,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018U\u015faydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0635\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018U\u015faydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260887
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0afcf85fe8e7f009246fd76b645b471f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1226211159,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226211159,
+    "wof:lastmodified":1537716060,
+    "wof:name":"Al 'Usaydah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39161,
+    16.23537,
+    43.39161,
+    16.23537
+],
+  "geometry": {"coordinates":[43.39161,16.23537],"type":"Point"}
+}

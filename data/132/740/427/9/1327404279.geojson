@@ -1,0 +1,76 @@
+{
+  "id": 1327404279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42538,15.44913,45.42538,15.44913",
+    "geom:latitude":15.44913,
+    "geom:longitude":45.42538,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Al `Aqqar",
+    "gn:country_code":"YE",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341137,
+    "gn:latitude":15.44913,
+    "gn:longitude":45.42538,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l \u2018Aqq\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28u\u015f\u016bn \u0100l \u2018Aqq\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0635\u0648\u0646 \u0622\u0644 \u0639\u0642\u0627\u0631",
+        "\u0100l \u2018Aqq\u0101r",
+        "\u0627\u0644 \u0639\u0642\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341137
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf62ed9f9dfc5277999ff34f3f292f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1327404279,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1327404279,
+    "wof:lastmodified":1537715473,
+    "wof:name":"Al `Aqqar",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42538,
+    15.44913,
+    45.42538,
+    15.44913
+],
+  "geometry": {"coordinates":[45.42538,15.44913],"type":"Point"}
+}

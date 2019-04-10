@@ -1,0 +1,74 @@
+{
+  "id": 1276962297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20317,15.02258,45.20317,15.02258",
+    "geom:latitude":15.02258,
+    "geom:longitude":45.20317,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"Ad Dubb",
+    "gn:country_code":"YE",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341302,
+    "gn:latitude":15.02258,
+    "gn:longitude":45.20317,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u1e11 \u1e10ubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e11 \u1e10ubb"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0636\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341302
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c06199d99b94eb214d373b62a9bb2d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925129,
+            "locality_id":1276962297,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276962297,
+    "wof:lastmodified":1537715477,
+    "wof:name":"Ad Dubb",
+    "wof:parent_id":1091925129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20317,
+    15.02258,
+    45.20317,
+    15.02258
+],
+  "geometry": {"coordinates":[45.20317,15.02258],"type":"Point"}
+}

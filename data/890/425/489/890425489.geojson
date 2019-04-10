@@ -1,0 +1,69 @@
+{
+  "id": 890425489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74918,17.11646,43.74918,17.11646",
+    "geom:latitude":17.11646,
+    "geom:longitude":43.74918,
+    "gn:country":"YE",
+    "gn:fcode":"TRB",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0648 \u0627\u0644\u0647\u062f\u0641"
+    ],
+    "qs:name":"Badw al Hadaf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794762,
+        "gp:id":1959094,
+        "qs:id":700549
+    },
+    "wof:country":"YE",
+    "wof:created":1469051591,
+    "wof:geomhash":"1202c9072485a48ecbdc7cb99234e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890425489,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425489,
+    "wof:lastmodified":1505343487,
+    "wof:name":"Badw al Hadaf",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74918,
+    17.11646,
+    43.74918,
+    17.11646
+],
+  "geometry": {"coordinates":[43.74918,17.11646],"type":"Point"}
+}

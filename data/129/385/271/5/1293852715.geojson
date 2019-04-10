@@ -1,0 +1,74 @@
+{
+  "id": 1293852715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36245,16.12135,43.36245,16.12135",
+    "geom:latitude":16.12135,
+    "geom:longitude":43.36245,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Quli'a",
+    "gn:country_code":"YE",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7654765,
+    "gn:latitude":16.12135,
+    "gn:longitude":43.36245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qul\u012b\u2018\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qul\u012b\u2018\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0644\u064a\u0639\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654765
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d3a4818dbad0ad9c5d1f8817a1b20efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1293852715,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1293852715,
+    "wof:lastmodified":1537715978,
+    "wof:name":"Al Quli'a",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36245,
+    16.12135,
+    43.36245,
+    16.12135
+],
+  "geometry": {"coordinates":[43.36245,16.12135],"type":"Point"}
+}

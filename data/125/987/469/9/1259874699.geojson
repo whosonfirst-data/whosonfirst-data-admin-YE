@@ -1,0 +1,71 @@
+{
+  "id": 1259874699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4563,15.38487,43.4563,15.38487",
+    "geom:latitude":15.38487,
+    "geom:longitude":43.4563,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Musaqil",
+    "gn:country_code":"YE",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365281,
+    "gn:latitude":15.38487,
+    "gn:longitude":43.4563,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Mus\u0101qil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mus\u0101qil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365281
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"af347a91202d63b336b7cce49b7c346d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1259874699,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259874699,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Musaqil",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4563,
+    15.38487,
+    43.4563,
+    15.38487
+],
+  "geometry": {"coordinates":[43.4563,15.38487],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209993769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53148,14.33342,43.53148,14.33342",
+    "geom:latitude":14.33342,
+    "geom:longitude":43.53148,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"An Najalah",
+    "gn:country_code":"YE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357851,
+    "gn:latitude":14.33342,
+    "gn:longitude":43.53148,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An Najalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357851
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bfa301afdde334de59a58bb975478979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922519,
+            "locality_id":1209993769,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1209993769,
+    "wof:lastmodified":1536385225,
+    "wof:name":"An Najalah",
+    "wof:parent_id":1091922519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53148,
+    14.33342,
+    43.53148,
+    14.33342
+],
+  "geometry": {"coordinates":[43.53148,14.33342],"type":"Point"}
+}

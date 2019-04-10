@@ -1,0 +1,73 @@
+{
+  "id": 1309676407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42642,14.08589,45.42642,14.08589",
+    "geom:latitude":14.08589,
+    "geom:longitude":45.42642,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Dhamjayr",
+    "gn:country_code":"YE",
+    "gn:dem":1965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76567,
+    "gn:latitude":14.08589,
+    "gn:longitude":45.42642,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhamjayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damjar",
+        "Dh\u012b Mujayr",
+        "Dh\u012b am J\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76567
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55cff4c952d67c5cf7063fde3924548e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919299,
+            "locality_id":1309676407,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1309676407,
+    "wof:lastmodified":1537715205,
+    "wof:name":"Dhamjayr",
+    "wof:parent_id":1091919299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42642,
+    14.08589,
+    45.42642,
+    14.08589
+],
+  "geometry": {"coordinates":[45.42642,14.08589],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209708353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39903,15.156,47.39903,15.156",
+    "geom:latitude":15.156,
+    "geom:longitude":47.39903,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"At Talh",
+    "gn:country_code":"YE",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8308730,
+    "gn:latitude":15.156,
+    "gn:longitude":47.39903,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162al\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162al\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308730
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bad3e65492487a385e7671eda3e7c8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925929,
+            "locality_id":1209708353,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1209708353,
+    "wof:lastmodified":1537716039,
+    "wof:name":"At Talh",
+    "wof:parent_id":1091925929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39903,
+    15.156,
+    47.39903,
+    15.156
+],
+  "geometry": {"coordinates":[47.39903,15.156],"type":"Point"}
+}

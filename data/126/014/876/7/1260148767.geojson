@@ -1,0 +1,71 @@
+{
+  "id": 1260148767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3618,13.08162,44.3618,13.08162",
+    "geom:latitude":13.08162,
+    "geom:longitude":44.3618,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Dar al Hajj",
+    "gn:country_code":"YE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355440,
+    "gn:latitude":13.08162,
+    "gn:longitude":44.3618,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dar al \u1e28\u0101jj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar al \u1e28\u0101jj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355440
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"107b76729c4626563e88a99e38f2edb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1260148767,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1260148767,
+    "wof:lastmodified":1537715638,
+    "wof:name":"Dar al Hajj",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3618,
+    13.08162,
+    44.3618,
+    13.08162
+],
+  "geometry": {"coordinates":[44.3618,13.08162],"type":"Point"}
+}

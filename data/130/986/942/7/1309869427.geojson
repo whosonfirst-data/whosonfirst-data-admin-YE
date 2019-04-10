@@ -1,0 +1,71 @@
+{
+  "id": 1309869427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30476,15.38178,44.30476,15.38178",
+    "geom:latitude":15.38178,
+    "geom:longitude":44.30476,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al Khirbah",
+    "gn:country_code":"YE",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79140,
+    "gn:latitude":15.38178,
+    "gn:longitude":44.30476,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Khirbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kharibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79140
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"553787ed2ae86941609d4bbb90903584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1309869427,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1309869427,
+    "wof:lastmodified":1537715288,
+    "wof:name":"Al Khirbah",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30476,
+    15.38178,
+    44.30476,
+    15.38178
+],
+  "geometry": {"coordinates":[44.30476,15.38178],"type":"Point"}
+}

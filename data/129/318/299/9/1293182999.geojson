@@ -1,0 +1,72 @@
+{
+  "id": 1293182999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2322,15.1896,44.2322,15.1896",
+    "geom:latitude":15.1896,
+    "geom:longitude":44.2322,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Ruhm as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":2429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404074,
+    "gn:latitude":15.1896,
+    "gn:longitude":44.2322,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruhm as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruhm as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404074,
+        "wk:page":"Ruhm_As_Sufla"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cd07c30027c28061c771e22ae725ebe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1293182999,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293182999,
+    "wof:lastmodified":1537715375,
+    "wof:name":"Ruhm as Sufla",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2322,
+    15.1896,
+    44.2322,
+    15.1896
+],
+  "geometry": {"coordinates":[44.2322,15.1896],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226103973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,15.85,43.78333,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Karin",
+    "gn:country_code":"YE",
+    "gn:dem":1815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73988,
+    "gn:latitude":15.85,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101rin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101rin"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73988,
+        "wk:page":"Karin%2C_Yemen"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0cff2d0a1aeec6366730f6ad18a2a85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1226103973,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226103973,
+    "wof:lastmodified":1537715145,
+    "wof:name":"Karin",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    15.85,
+    43.78333,
+    15.85
+],
+  "geometry": {"coordinates":[43.78333,15.85],"type":"Point"}
+}

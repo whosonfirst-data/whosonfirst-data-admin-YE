@@ -1,0 +1,75 @@
+{
+  "id": 890420903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46462,17.50747,43.46462,17.50747",
+    "geom:latitude":17.50747,
+    "geom:longitude":43.46462,
+    "gn:country":"YE",
+    "gn:fcode":"FRM",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0637\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shatibah"
+    ],
+    "qs:name":"Ash Shu\u0163bah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021608,
+        "gp:id":1939827,
+        "qs:id":750124,
+        "wd:id":"Q20304389",
+        "wk:page":"Ash Shutbah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051366,
+    "wof:geomhash":"8ec84379840be33b0cfb8f49c8e429af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890420903,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890420903,
+    "wof:lastmodified":1527792810,
+    "wof:name":"Ash Shu\u0163bah",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46462,
+    17.50747,
+    43.46462,
+    17.50747
+],
+  "geometry": {"coordinates":[43.46462,17.50747],"type":"Point"}
+}

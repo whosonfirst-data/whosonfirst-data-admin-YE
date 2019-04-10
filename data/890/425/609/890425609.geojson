@@ -1,0 +1,77 @@
+{
+  "id": 890425609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32486,16.73952,44.32486,16.73952",
+    "geom:latitude":16.73952,
+    "geom:longitude":44.32486,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0645\u0647\u062f\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Mahdi"
+    ],
+    "qs:name":"Bi\u2019r Mahd\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795095,
+        "gp:id":1959135,
+        "qs:id":700862,
+        "wd:id":"Q20301158"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051596,
+    "wof:geomhash":"3de20a0f9bf2cd92df33ecc74f374705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425609,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425609,
+    "wof:lastmodified":1534379833,
+    "wof:name":"Bi\u2019r Mahd\u012b",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890419145
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32486,
+    16.73952,
+    44.32486,
+    16.73952
+],
+  "geometry": {"coordinates":[44.32486,16.73952],"type":"Point"}
+}

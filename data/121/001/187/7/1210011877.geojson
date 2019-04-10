@@ -1,0 +1,71 @@
+{
+  "id": 1210011877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27899,15.18231,43.27899,15.18231",
+    "geom:latitude":15.18231,
+    "geom:longitude":43.27899,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al `Abid",
+    "gn:country_code":"YE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402557,
+    "gn:latitude":15.18231,
+    "gn:longitude":43.27899,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ma\u1e29all al \u2018Ab\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u2018Ab\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402557
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"583fd04a3ba931f9cbc9bf67735d4fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1210011877,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1210011877,
+    "wof:lastmodified":1537715357,
+    "wof:name":"Mahall al `Abid",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27899,
+    15.18231,
+    43.27899,
+    15.18231
+],
+  "geometry": {"coordinates":[43.27899,15.18231],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226389865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54628,14.72866,43.54628,14.72866",
+    "geom:latitude":14.72866,
+    "geom:longitude":43.54628,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Nawmah",
+    "gn:country_code":"YE",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401090,
+    "gn:latitude":14.72866,
+    "gn:longitude":43.54628,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nawmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401090
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d9f5ce3e132c602ef6f525f2f673734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925303,
+            "locality_id":1226389865,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1226389865,
+    "wof:lastmodified":1536726449,
+    "wof:name":"Nawmah",
+    "wof:parent_id":1091925303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54628,
+    14.72866,
+    43.54628,
+    14.72866
+],
+  "geometry": {"coordinates":[43.54628,14.72866],"type":"Point"}
+}

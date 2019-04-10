@@ -1,0 +1,71 @@
+{
+  "id": 1193248205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23987,16.91009,43.23987,16.91009",
+    "geom:latitude":16.91009,
+    "geom:longitude":43.23987,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Dhi al Bawaqil",
+    "gn:country_code":"YE",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346098,
+    "gn:latitude":16.91009,
+    "gn:longitude":43.23987,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dh\u012b al Baw\u0101qil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u012b al Baw\u0101qil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346098
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82595312e7fb035cbb1ec63d11edc6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1193248205,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1193248205,
+    "wof:lastmodified":1537715578,
+    "wof:name":"Dhi al Bawaqil",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23987,
+    16.91009,
+    43.23987,
+    16.91009
+],
+  "geometry": {"coordinates":[43.23987,16.91009],"type":"Point"}
+}

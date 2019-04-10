@@ -1,0 +1,71 @@
+{
+  "id": 1343639815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42854,15.27699,43.42854,15.27699",
+    "geom:latitude":15.27699,
+    "geom:longitude":43.42854,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Shi`b al Birak",
+    "gn:country_code":"YE",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365241,
+    "gn:latitude":15.27699,
+    "gn:longitude":43.42854,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Shi\u2018b al Birak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2018b al Birak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365241
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"06559c3504a838da8fbc6e8264550437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921243,
+            "locality_id":1343639815,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343639815,
+    "wof:lastmodified":1537715923,
+    "wof:name":"Shi`b al Birak",
+    "wof:parent_id":1091921243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42854000000001,
+    15.27699,
+    43.42854000000001,
+    15.27699
+],
+  "geometry": {"coordinates":[43.42854000000001,15.27699],"type":"Point"}
+}

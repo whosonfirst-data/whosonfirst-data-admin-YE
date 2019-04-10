@@ -1,0 +1,76 @@
+{
+  "id": 890414345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71564,16.0608,43.71564,16.0608",
+    "geom:latitude":16.0608,
+    "geom:longitude":43.71564,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0631\u0628\u0629"
+    ],
+    "qs:name":"Al Maghrabah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020484,
+        "gp:id":1959046,
+        "qs:id":749836,
+        "wd:id":"Q4117504",
+        "wk:page":"Al Maghrabah District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051044,
+    "wof:geomhash":"08d20d416383d36fe84b158f4e880183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890414345,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414345,
+    "wof:lastmodified":1534379830,
+    "wof:name":"Al Maghrabah",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890454947
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71564,
+    16.0608,
+    43.71564,
+    16.0608
+],
+  "geometry": {"coordinates":[43.71564,16.0608],"type":"Point"}
+}

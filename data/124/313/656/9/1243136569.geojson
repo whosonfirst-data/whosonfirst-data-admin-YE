@@ -1,0 +1,71 @@
+{
+  "id": 1243136569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71289,14.32757,44.71289,14.32757",
+    "geom:latitude":14.32757,
+    "geom:longitude":44.71289,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"As Sudan",
+    "gn:country_code":"YE",
+    "gn:dem":2447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340217,
+    "gn:latitude":14.32757,
+    "gn:longitude":44.71289,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As S\u016bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As S\u016bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340217
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5600dd4b98e7a336d048bcab8c11e35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1243136569,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1243136569,
+    "wof:lastmodified":1537715442,
+    "wof:name":"As Sudan",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71289,
+    14.32757,
+    44.71289,
+    14.32757
+],
+  "geometry": {"coordinates":[44.71289,14.32757],"type":"Point"}
+}

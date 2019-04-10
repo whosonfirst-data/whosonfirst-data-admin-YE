@@ -1,0 +1,73 @@
+{
+  "id": 890413757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.417,16.1466,43.417,16.1466",
+    "geom:latitude":16.1466,
+    "geom:longitude":43.417,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0631\u0628"
+    ],
+    "qs:name":"Al Majrab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679850,
+        "gp:id":1958568,
+        "qs:id":696965
+    },
+    "wof:country":"YE",
+    "wof:created":1469051013,
+    "wof:geomhash":"5de3aa661c858b9c1403bc73f77a7bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890413757,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890413757,
+    "wof:lastmodified":1534530968,
+    "wof:name":"Al Majrab",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[
+        890454559
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.417,
+    16.1466,
+    43.417,
+    16.1466
+],
+  "geometry": {"coordinates":[43.417,16.1466],"type":"Point"}
+}

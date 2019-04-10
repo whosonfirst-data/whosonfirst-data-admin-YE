@@ -1,0 +1,71 @@
+{
+  "id": 1310273463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24782,13.90526,44.24782,13.90526",
+    "geom:latitude":13.90526,
+    "geom:longitude":44.24782,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Dakhlat al Majami",
+    "gn:country_code":"YE",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356645,
+    "gn:latitude":13.90526,
+    "gn:longitude":44.24782,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dakhlat al Majam\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhlat al Majam\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356645
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"309ab8127f98a5ae8e1e0effcb203893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1310273463,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310273463,
+    "wof:lastmodified":1537715681,
+    "wof:name":"Dakhlat al Majami",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24782,
+    13.90526,
+    44.24782,
+    13.90526
+],
+  "geometry": {"coordinates":[44.24782,13.90526],"type":"Point"}
+}

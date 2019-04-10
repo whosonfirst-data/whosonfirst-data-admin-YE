@@ -1,0 +1,74 @@
+{
+  "id": 1292962713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71312,16.10681,43.71312,16.10681",
+    "geom:latitude":16.10681,
+    "geom:longitude":43.71312,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"As Sirfah",
+    "gn:country_code":"YE",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363514,
+    "gn:latitude":16.10681,
+    "gn:longitude":43.71312,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eirfa\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0631\u0641\u062d"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eirfa\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363514
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52d2683f947e994631ce9ce2d007087f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1292962713,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1292962713,
+    "wof:lastmodified":1537715875,
+    "wof:name":"As Sirfah",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71312,
+    16.10681,
+    43.71312,
+    16.10681
+],
+  "geometry": {"coordinates":[43.71312,16.10681],"type":"Point"}
+}

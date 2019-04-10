@@ -1,0 +1,73 @@
+{
+  "id": 890425721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25422,16.54366,44.25422,16.54366",
+    "geom:latitude":16.54366,
+    "geom:longitude":44.25422,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u062c\u0628\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jabran"
+    ],
+    "qs:name":"\u0100l Jabr\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795432,
+        "gp:id":1958965,
+        "qs:id":701192,
+        "wd:id":"Q20302471"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051601,
+    "wof:geomhash":"4459742b112549f8938386df3dbe8ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":890425721,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890425721,
+    "wof:lastmodified":1514503388,
+    "wof:name":"\u0100l Jabr\u0101n",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25422,
+    16.54366,
+    44.25422,
+    16.54366
+],
+  "geometry": {"coordinates":[44.25422,16.54366],"type":"Point"}
+}

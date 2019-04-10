@@ -1,0 +1,76 @@
+{
+  "id": 1259840821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.29044,12.52007,54.29044,12.52007",
+    "geom:latitude":12.52007,
+    "geom:longitude":54.29044,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Shihun",
+    "gn:country_code":"YE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182771,
+    "gn:latitude":12.52007,
+    "gn:longitude":54.29044,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shih\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182771
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5688e677a21297a2fcc5c26f9dc31d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1259840821,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1259840821,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259840821,
+    "wof:lastmodified":1536839711,
+    "wof:name":"Shihun",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.29044,
+    12.52007,
+    54.29044,
+    12.52007
+],
+  "geometry": {"coordinates":[54.29044,12.52007],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293748069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.82654,14.00801,45.82654,14.00801",
+    "geom:latitude":14.00801,
+    "geom:longitude":45.82654,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Dhi Hawrah",
+    "gn:country_code":"YE",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76140,
+    "gn:latitude":14.00801,
+    "gn:longitude":45.82654,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dh\u012b \u1e28awrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u012b \u1e28awrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76140
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d18cd377bb57fb4d997f0ecd1f6c0022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1293748069,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293748069,
+    "wof:lastmodified":1537715188,
+    "wof:name":"Dhi Hawrah",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.82654,
+    14.00801,
+    45.82654,
+    14.00801
+],
+  "geometry": {"coordinates":[45.82654,14.00801],"type":"Point"}
+}

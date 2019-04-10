@@ -1,0 +1,74 @@
+{
+  "id": 1360156245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54273,15.6238,44.54273,15.6238",
+    "geom:latitude":15.6238,
+    "geom:longitude":44.54273,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bayt Qal'am",
+    "gn:country_code":"YE",
+    "gn:dem":2348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976020,
+    "gn:latitude":15.6238,
+    "gn:longitude":44.54273,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Qal\u2018am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0642\u0644\u0639\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt Qal\u2018am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976020
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"026da56edb52b20278920eff284cec9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1360156245,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1360156245,
+    "wof:lastmodified":1537716140,
+    "wof:name":"Bayt Qal'am",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54273,
+    15.6238,
+    44.54273,
+    15.6238
+],
+  "geometry": {"coordinates":[44.54273,15.6238],"type":"Point"}
+}

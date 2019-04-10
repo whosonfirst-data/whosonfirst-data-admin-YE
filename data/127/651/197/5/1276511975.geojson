@@ -1,0 +1,74 @@
+{
+  "id": 1276511975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01944,16.07809,44.01944,16.07809",
+    "geom:latitude":16.07809,
+    "geom:longitude":44.01944,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2920.0",
+    "gn:asciiname":"Bayt al Buqayli",
+    "gn:country_code":"YE",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973796,
+    "gn:latitude":16.07809,
+    "gn:longitude":44.01944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Buqayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0628\u0642\u064a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Buqayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973796
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e6cf3428a09a8593182cbd902a7332d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921813,
+            "locality_id":1276511975,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276511975,
+    "wof:lastmodified":1537716106,
+    "wof:name":"Bayt al Buqayli",
+    "wof:parent_id":1091921813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01944,
+    16.07809,
+    44.01944,
+    16.07809
+],
+  "geometry": {"coordinates":[44.01944,16.07809],"type":"Point"}
+}

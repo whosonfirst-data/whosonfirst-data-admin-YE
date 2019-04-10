@@ -1,0 +1,75 @@
+{
+  "id": 1193268109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41334,14.53163,43.41334,14.53163",
+    "geom:latitude":14.53163,
+    "geom:longitude":43.41334,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Amiratayn",
+    "gn:country_code":"YE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401752,
+    "gn:latitude":14.53163,
+    "gn:longitude":43.41334,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Am\u012bratayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u064a\u0631\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Umm Umayr\u012byah",
+        "Al Am\u012bratayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401752
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"41dcf9a6a623b7f3315335c0652e6673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1193268109,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1193268109,
+    "wof:lastmodified":1537715347,
+    "wof:name":"Al Amiratayn",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41334000000001,
+    14.53163,
+    43.41334000000001,
+    14.53163
+],
+  "geometry": {"coordinates":[43.41334000000001,14.53163],"type":"Point"}
+}

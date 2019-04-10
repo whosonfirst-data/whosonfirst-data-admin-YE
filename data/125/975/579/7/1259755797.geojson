@@ -1,0 +1,71 @@
+{
+  "id": 1259755797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77334,16.90903,43.77334,16.90903",
+    "geom:latitude":16.90903,
+    "geom:longitude":43.77334,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2215.0",
+    "gn:asciiname":"Al `Anjar",
+    "gn:country_code":"YE",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362009,
+    "gn:latitude":16.90903,
+    "gn:longitude":43.77334,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l \u2018Anjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l \u2018Anjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76e0251337f0a710137abb9e33b0e7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925525,
+            "locality_id":1259755797,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259755797,
+    "wof:lastmodified":1537715832,
+    "wof:name":"Al `Anjar",
+    "wof:parent_id":1091925525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77334000000001,
+    16.90903,
+    43.77334000000001,
+    16.90903
+],
+  "geometry": {"coordinates":[43.77334000000001,16.90903],"type":"Point"}
+}

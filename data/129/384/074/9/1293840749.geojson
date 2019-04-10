@@ -1,0 +1,74 @@
+{
+  "id": 1293840749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98886,13.14934,43.98886,13.14934",
+    "geom:latitude":13.14934,
+    "geom:longitude":43.98886,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Haymah",
+    "gn:country_code":"YE",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071405,
+    "gn:latitude":13.14934,
+    "gn:longitude":43.98886,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28aymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071405
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"238547dead328fd09d73ef9737c60dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1293840749,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293840749,
+    "wof:lastmodified":1537716016,
+    "wof:name":"Al Haymah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98886,
+    13.14934,
+    43.98886,
+    13.14934
+],
+  "geometry": {"coordinates":[43.98886,13.14934],"type":"Point"}
+}

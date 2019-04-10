@@ -1,0 +1,72 @@
+{
+  "id": 1310459417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91167,12.96694,44.91167,12.96694",
+    "geom:latitude":12.96694,
+    "geom:longitude":44.91167,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2515.0",
+    "gn:asciiname":"Ad Darb at Tawil",
+    "gn:country_code":"YE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80360,
+    "gn:latitude":12.96694,
+    "gn:longitude":44.91167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ad Darb a\u0163 \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Darb",
+        "Ad Darb a\u0163 \u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80360
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"235260515b0280e3a7ee6ce6e5d3fe24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924941,
+            "locality_id":1310459417,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1310459417,
+    "wof:lastmodified":1537715333,
+    "wof:name":"Ad Darb at Tawil",
+    "wof:parent_id":1091924941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91167,
+    12.96694,
+    44.91167,
+    12.96694
+],
+  "geometry": {"coordinates":[44.91167,12.96694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890428403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07648,14.7117,45.07648,14.7117",
+    "geom:latitude":14.7117,
+    "geom:longitude":45.07648,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0644\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "At Tawla"
+    ],
+    "qs:name":"A\u0163 \u0162awl\u0101\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053496,
+        "gp:id":1958975,
+        "qs:id":751911,
+        "wd:id":"Q20305153"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051751,
+    "wof:geomhash":"f46b37edced16527f8bf8abeac82259c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":890428403,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890428403,
+    "wof:lastmodified":1514503239,
+    "wof:name":"A\u0163 \u0162awl\u0101\u2019",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07648,
+    14.7117,
+    45.07648,
+    14.7117
+],
+  "geometry": {"coordinates":[45.07648,14.7117],"type":"Point"}
+}

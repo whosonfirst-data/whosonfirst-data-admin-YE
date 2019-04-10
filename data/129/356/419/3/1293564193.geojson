@@ -1,0 +1,71 @@
+{
+  "id": 1293564193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73128,15.83915,43.73128,15.83915",
+    "geom:latitude":15.83915,
+    "geom:longitude":43.73128,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Mahall Zubaydah",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343847,
+    "gn:latitude":15.83915,
+    "gn:longitude":43.73128,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all Zubaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all Zubaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343847
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6f4de0f28df3542ac3819053f5ad78d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921745,
+            "locality_id":1293564193,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293564193,
+    "wof:lastmodified":1537715519,
+    "wof:name":"Mahall Zubaydah",
+    "wof:parent_id":1091921745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73128,
+    15.83915,
+    43.73128,
+    15.83915
+],
+  "geometry": {"coordinates":[43.73128,15.83915],"type":"Point"}
+}

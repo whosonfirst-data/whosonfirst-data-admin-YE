@@ -1,0 +1,71 @@
+{
+  "id": 1226009207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75788,14.43768,44.75788,14.43768",
+    "geom:latitude":14.43768,
+    "geom:longitude":44.75788,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Wadi Thah",
+    "gn:country_code":"YE",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408892,
+    "gn:latitude":14.43768,
+    "gn:longitude":44.75788,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"W\u0101d\u012b Th\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101d\u012b Th\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408892
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f31972ea73852cc5f744bd760886aedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1226009207,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1226009207,
+    "wof:lastmodified":1537715422,
+    "wof:name":"Wadi Thah",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75788,
+    14.43768,
+    44.75788,
+    14.43768
+],
+  "geometry": {"coordinates":[44.75788,14.43768],"type":"Point"}
+}

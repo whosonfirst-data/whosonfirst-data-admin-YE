@@ -1,0 +1,73 @@
+{
+  "id": 890429959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38871,16.07266,43.38871,16.07266",
+    "geom:latitude":16.07266,
+    "geom:longitude":43.38871,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062d\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Al Hadiyah"
+    ],
+    "qs:name":"Bayt al \u1e28ad\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682401,
+        "gp:id":1958568,
+        "qs:id":697193,
+        "wd:id":"Q20299736"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051835,
+    "wof:geomhash":"baf82a13c9ed3bc51d33439c06d27306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890429959,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890429959,
+    "wof:lastmodified":1514503248,
+    "wof:name":"Bayt al \u1e28ad\u012byah",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38871,
+    16.07266,
+    43.38871,
+    16.07266
+],
+  "geometry": {"coordinates":[43.38871,16.07266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242963213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13902,15.83941,43.13902,15.83941",
+    "geom:latitude":15.83941,
+    "geom:longitude":43.13902,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Dayr `Ali al Makki",
+    "gn:country_code":"YE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365949,
+    "gn:latitude":15.83941,
+    "gn:longitude":43.13902,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr \u2018Al\u012b al Makk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr \u2018Al\u012b al Makk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365949
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f42c45c1d24c10316b264c33d4b176d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1242963213,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242963213,
+    "wof:lastmodified":1537715942,
+    "wof:name":"Dayr `Ali al Makki",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13902,
+    15.83941,
+    43.13902,
+    15.83941
+],
+  "geometry": {"coordinates":[43.13902,15.83941],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327226413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.92575,14.92973,46.92575,14.92973",
+    "geom:latitude":14.92973,
+    "geom:longitude":46.92575,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Ghaymal as Sa`id",
+    "gn:country_code":"YE",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75614,
+    "gn:latitude":14.92973,
+    "gn:longitude":46.92575,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Ghaymal a\u015f \u015ea\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghemel es-Said",
+        "Ghaimal al-\u1e62a\u2019\u012bd",
+        "Ghaymal a\u015f \u015ea\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75614
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0450873e95669a7a087c2028b768cc13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1327226413,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1327226413,
+    "wof:lastmodified":1537715180,
+    "wof:name":"Ghaymal as Sa`id",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.92575,
+    14.92973,
+    46.92575,
+    14.92973
+],
+  "geometry": {"coordinates":[46.92575,14.92973],"type":"Point"}
+}

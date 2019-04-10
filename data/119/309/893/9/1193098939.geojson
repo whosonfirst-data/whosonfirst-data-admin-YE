@@ -1,0 +1,74 @@
+{
+  "id": 1193098939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05071,16.42985,44.05071,16.42985",
+    "geom:latitude":16.42985,
+    "geom:longitude":44.05071,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Dhu Nasir",
+    "gn:country_code":"YE",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973577,
+    "gn:latitude":16.42985,
+    "gn:longitude":44.05071,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dh\u016b N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648 \u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dh\u016b N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973577
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ea638fbf281d59001a8ca3d651e30689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1193098939,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1193098939,
+    "wof:lastmodified":1537716103,
+    "wof:name":"Dhu Nasir",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05071,
+    16.42985,
+    44.05071,
+    16.42985
+],
+  "geometry": {"coordinates":[44.05071,16.42985],"type":"Point"}
+}

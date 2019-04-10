@@ -1,0 +1,65 @@
+{
+  "id": 1209181863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62548,13.66784,43.62548,13.66784",
+    "geom:latitude":13.66784,
+    "geom:longitude":43.62548,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Su`aydah",
+    "gn:country_code":"YE",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407728,
+    "gn:latitude":13.66784,
+    "gn:longitude":43.62548,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Su\u2018aydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u2018aydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407728
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"050611820c4cd5093b06e9beca95d8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209181863
+        }
+    ],
+    "wof:id":1209181863,
+    "wof:lastmodified":1537715401,
+    "wof:name":"Su`aydah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62548,
+    13.66784,
+    43.62548,
+    13.66784
+],
+  "geometry": {"coordinates":[43.62548,13.66784],"type":"Point"}
+}

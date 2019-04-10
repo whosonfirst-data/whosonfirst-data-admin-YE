@@ -1,0 +1,74 @@
+{
+  "id": 1243231403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76828,13.20539,43.76828,13.20539",
+    "geom:latitude":13.20539,
+    "geom:longitude":43.76828,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al A'taf",
+    "gn:country_code":"YE",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309827,
+    "gn:latitude":13.20539,
+    "gn:longitude":43.76828,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al A\u2018\u0163af",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0639\u0637\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al A\u2018\u0163af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309827
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aaddc0ddffecdc18994736c7ed86a568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1243231403,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243231403,
+    "wof:lastmodified":1537716041,
+    "wof:name":"Al A'taf",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76828,
+    13.20539,
+    43.76828,
+    13.20539
+],
+  "geometry": {"coordinates":[43.76828,13.20539],"type":"Point"}
+}

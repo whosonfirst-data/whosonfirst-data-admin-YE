@@ -1,0 +1,76 @@
+{
+  "id": 890440427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.68986,15.69916,42.68986,15.69916",
+    "geom:latitude":15.69916,
+    "geom:longitude":42.68986,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":81,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0645\u0646"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u064a\u0645\u0646"
+    ],
+    "qs:name":"Al Yaman",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091920217,
+        85680959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622394,
+        "qs:id":750678,
+        "qs_pg:id":694060
+    },
+    "wof:country":"YE",
+    "wof:created":1469052275,
+    "wof:geomhash":"fdad557c80f94b1259ffa3b66c7fb1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":-1,
+            "neighbourhood_id":890440427,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":890440427,
+    "wof:lastmodified":1509412559,
+    "wof:name":"Al Yaman",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.68986,
+    15.69916,
+    42.68986,
+    15.69916
+],
+  "geometry": {"coordinates":[42.68986,15.69916],"type":"Point"}
+}

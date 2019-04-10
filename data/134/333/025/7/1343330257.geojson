@@ -1,0 +1,75 @@
+{
+  "id": 1343330257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23724,14.26081,44.23724,14.26081",
+    "geom:latitude":14.26081,
+    "geom:longitude":44.23724,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Hajr Mashrafah",
+    "gn:country_code":"YE",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359112,
+    "gn:latitude":14.26081,
+    "gn:longitude":44.23724,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u1e28ajr Mashrafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0631 \u0645\u0634\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ajar Mashrafah",
+        "\u1e28ajr Mashrafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359112
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"26aebd9523421e1730564bd3a73cf48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1343330257,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343330257,
+    "wof:lastmodified":1537715744,
+    "wof:name":"Hajr Mashrafah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23724,
+    14.26081,
+    44.23724,
+    14.26081
+],
+  "geometry": {"coordinates":[44.23724,14.26081],"type":"Point"}
+}

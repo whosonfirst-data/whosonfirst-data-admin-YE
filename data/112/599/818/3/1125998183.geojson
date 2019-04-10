@@ -1,0 +1,85 @@
+{
+  "id": 1125998183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3585,16.66632,43.3585,16.66632",
+    "geom:latitude":16.66632,
+    "geom:longitude":43.3585,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1,
+    "gn:population":1,
+    "iso:country":"YE",
+    "lbl:latitude":16.66632,
+    "lbl:longitude":43.3585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0641\u0629 \u0627\u0644\u0642\u064a\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Hayfat Al Qiq"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7855255,
+    "qs_pg:gn_pop":1,
+    "qs_pg:name":"\u1e28ayfat al Q\u012bq",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":742173,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855255,
+        "qs_pg:id":742173,
+        "wd:id":"Q20305604"
+    },
+    "wof:country":"YE",
+    "wof:created":1497299488,
+    "wof:geomhash":"3cc3b43a8a010dbc000436e81d9914bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":1125998183,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1125998183,
+    "wof:lastmodified":1514503400,
+    "wof:name":"\u1e28ayfat al Q\u012bq",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3585,
+    16.66632,
+    43.3585,
+    16.66632
+],
+  "geometry": {"coordinates":[43.3585,16.66632],"type":"Point"}
+}

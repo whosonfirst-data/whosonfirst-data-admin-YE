@@ -1,0 +1,76 @@
+{
+  "id": 890445715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00028,16.46809,43.00028,16.46809",
+    "geom:latitude":16.46809,
+    "geom:longitude":43.00028,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u0634\u0648\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "MakhshUsh"
+    ],
+    "name:unk_x_variant":[
+        "\u0645\u062e\u0634\u0648\u0634"
+    ],
+    "qs:name":"Makhsh\u016bsh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622150,
+        "gp:id":1939792,
+        "qs:id":693999,
+        "wd:id":"Q20300785"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052520,
+    "wof:geomhash":"55877dc70bcb44c4b50289d0c79873e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":890445715,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445715,
+    "wof:lastmodified":1514503319,
+    "wof:name":"Makhsh\u016bsh",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00028,
+    16.46809,
+    43.00028,
+    16.46809
+],
+  "geometry": {"coordinates":[43.00028,16.46809],"type":"Point"}
+}

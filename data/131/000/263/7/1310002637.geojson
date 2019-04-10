@@ -1,0 +1,71 @@
+{
+  "id": 1310002637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42628,15.09235,43.42628,15.09235",
+    "geom:latitude":15.09235,
+    "geom:longitude":43.42628,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al Kushi'ah",
+    "gn:country_code":"YE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365469,
+    "gn:latitude":15.09235,
+    "gn:longitude":43.42628,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all al Kushi\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Kushi\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365469
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff12bf590327d9449d957c3fd289f7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1310002637,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310002637,
+    "wof:lastmodified":1537715931,
+    "wof:name":"Mahall al Kushi'ah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42628,
+    15.09235,
+    43.42628,
+    15.09235
+],
+  "geometry": {"coordinates":[43.42628,15.09235],"type":"Point"}
+}

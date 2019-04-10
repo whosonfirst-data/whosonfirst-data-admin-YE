@@ -1,0 +1,76 @@
+{
+  "id": 1293083121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26666,15.31832,44.26666,15.31832",
+    "geom:latitude":15.31832,
+    "geom:longitude":44.26666,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Dar al Hayd",
+    "gn:country_code":"YE",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76512,
+    "gn:latitude":15.31832,
+    "gn:longitude":44.26666,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al \u1e28ayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u062d\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r \u1e28ayd",
+        "Dar Hiydah",
+        "D\u0101r al \u1e28ayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76512
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a5bf890ecc830f90a921938de9f7309b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1293083121,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293083121,
+    "wof:lastmodified":1537715203,
+    "wof:name":"Dar al Hayd",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26666,
+    15.31832,
+    44.26666,
+    15.31832
+],
+  "geometry": {"coordinates":[44.26666,15.31832],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292993453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41113,14.47106,46.41113,14.47106",
+    "geom:latitude":14.47106,
+    "geom:longitude":46.41113,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"As Salab",
+    "gn:country_code":"YE",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77855,
+    "gn:latitude":14.47106,
+    "gn:longitude":46.41113,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"As Salab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Suluh",
+        "Am Salab",
+        "Umm Sulub",
+        "As Salab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77855
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ff45f0aa0fc38a306c4c934ef44063e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926187,
+            "locality_id":1292993453,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1292993453,
+    "wof:lastmodified":1537715238,
+    "wof:name":"As Salab",
+    "wof:parent_id":1091926187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41113,
+    14.47106,
+    46.41113,
+    14.47106
+],
+  "geometry": {"coordinates":[46.41113,14.47106],"type":"Point"}
+}

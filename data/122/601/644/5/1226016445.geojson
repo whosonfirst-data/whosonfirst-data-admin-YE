@@ -1,0 +1,71 @@
+{
+  "id": 1226016445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39969,15.49786,44.39969,15.49786",
+    "geom:latitude":15.49786,
+    "geom:longitude":44.39969,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Al Bana'",
+    "gn:country_code":"YE",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342203,
+    "gn:latitude":15.49786,
+    "gn:longitude":44.39969,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ban\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ban\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342203
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d530ddde95f8b01e59300b1ed89bcff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1226016445,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226016445,
+    "wof:lastmodified":1537715495,
+    "wof:name":"Al Bana'",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39969,
+    15.49786,
+    44.39969,
+    15.49786
+],
+  "geometry": {"coordinates":[44.39969,15.49786],"type":"Point"}
+}

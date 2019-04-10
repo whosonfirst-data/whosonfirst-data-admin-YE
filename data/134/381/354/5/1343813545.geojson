@@ -1,0 +1,74 @@
+{
+  "id": 1343813545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18704,13.2198,44.18704,13.2198",
+    "geom:latitude":13.2198,
+    "geom:longitude":44.18704,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al 'Awah",
+    "gn:country_code":"YE",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871649,
+    "gn:latitude":13.2198,
+    "gn:longitude":44.18704,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018\u0100wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018\u0100wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871649
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"df80dc1eea69f14b456dadfc693cd6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1343813545,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343813545,
+    "wof:lastmodified":1537716255,
+    "wof:name":"Al 'Awah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18704,
+    13.2198,
+    44.18704,
+    13.2198
+],
+  "geometry": {"coordinates":[44.18704,13.2198],"type":"Point"}
+}

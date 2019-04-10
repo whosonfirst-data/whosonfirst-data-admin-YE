@@ -1,0 +1,71 @@
+{
+  "id": 1293872097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90098,15.421,43.90098,15.421",
+    "geom:latitude":15.421,
+    "geom:longitude":43.90098,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bayt Nashir",
+    "gn:country_code":"YE",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366951,
+    "gn:latitude":15.421,
+    "gn:longitude":43.90098,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt N\u0101shir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt N\u0101shir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366951
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"82526d8858a1087a9b63d618728fe4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921315,
+            "locality_id":1293872097,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1293872097,
+    "wof:lastmodified":1537715967,
+    "wof:name":"Bayt Nashir",
+    "wof:parent_id":1091921315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90098,
+    15.421,
+    43.90098,
+    15.421
+],
+  "geometry": {"coordinates":[43.90098,15.421],"type":"Point"}
+}

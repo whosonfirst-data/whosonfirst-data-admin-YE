@@ -1,0 +1,74 @@
+{
+  "id": 1310583319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38281,15.02895,44.38281,15.02895",
+    "geom:latitude":15.02895,
+    "geom:longitude":44.38281,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2315.0",
+    "gn:asciiname":"Al Mu`ayin",
+    "gn:country_code":"YE",
+    "gn:dem":2596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367260,
+    "gn:latitude":15.02895,
+    "gn:longitude":44.38281,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mu\u2018\u0101yin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mu\u2018\u0101yin"
+    ],
+    "name:und_x_variant":[
+        "Makraf al A\u2018l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367260
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c65324dff8a1fd5b44511ef4e2f7f21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925667,
+            "locality_id":1310583319,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1310583319,
+    "wof:lastmodified":1537715974,
+    "wof:name":"Al Mu`ayin",
+    "wof:parent_id":1091925667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38281,
+    15.02895,
+    44.38281,
+    15.02895
+],
+  "geometry": {"coordinates":[44.38281,15.02895],"type":"Point"}
+}

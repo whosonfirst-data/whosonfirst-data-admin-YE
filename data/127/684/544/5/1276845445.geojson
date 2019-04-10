@@ -1,0 +1,71 @@
+{
+  "id": 1276845445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06295,16.41855,44.06295,16.41855",
+    "geom:latitude":16.41855,
+    "geom:longitude":44.06295,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Sayfan",
+    "gn:country_code":"YE",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362609,
+    "gn:latitude":16.41855,
+    "gn:longitude":44.06295,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015eayf\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eayf\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362609
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8562a0534a08201a458c34916935c6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1276845445,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276845445,
+    "wof:lastmodified":1537715850,
+    "wof:name":"Sayfan",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06295,
+    16.41855,
+    44.06295,
+    16.41855
+],
+  "geometry": {"coordinates":[44.06295,16.41855],"type":"Point"}
+}

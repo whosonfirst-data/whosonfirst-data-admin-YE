@@ -1,0 +1,68 @@
+{
+  "id": 1209972997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57036,15.74756,43.57036,15.74756",
+    "geom:latitude":15.74756,
+    "geom:longitude":43.57036,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1720.0",
+    "gn:asciiname":"Al Qaylah",
+    "gn:country_code":"YE",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344559,
+    "gn:latitude":15.74756,
+    "gn:longitude":43.57036,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344559
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4ee0b9c987914b2736c878aa102ecbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924089,
+            "locality_id":1209972997,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209972997,
+    "wof:lastmodified":1536394191,
+    "wof:name":"Al Qaylah",
+    "wof:parent_id":1091924089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57036,
+    15.74756,
+    43.57036,
+    15.74756
+],
+  "geometry": {"coordinates":[43.57036,15.74756],"type":"Point"}
+}

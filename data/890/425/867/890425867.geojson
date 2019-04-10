@@ -1,0 +1,73 @@
+{
+  "id": 890425867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31121,16.65526,43.31121,16.65526",
+    "geom:latitude":16.65526,
+    "geom:longitude":43.31121,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0633 \u0627\u0644\u0634\u0639\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Kurs Ash Sha'b"
+    ],
+    "qs:name":"Kurs ash Sha\u2018b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854905,
+        "gp:id":1959134,
+        "qs:id":741844,
+        "wd:id":"Q20299549"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051608,
+    "wof:geomhash":"4655b7479da22b84130a6677dda916b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890425867,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425867,
+    "wof:lastmodified":1514503305,
+    "wof:name":"Kurs ash Sha\u2018b",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31121,
+    16.65526,
+    43.31121,
+    16.65526
+],
+  "geometry": {"coordinates":[43.31121,16.65526],"type":"Point"}
+}

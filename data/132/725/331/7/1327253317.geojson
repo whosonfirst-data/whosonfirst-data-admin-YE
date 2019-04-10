@@ -1,0 +1,74 @@
+{
+  "id": 1327253317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82131,15.68958,42.82131,15.68958",
+    "geom:latitude":15.68958,
+    "geom:longitude":42.82131,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Ashani",
+    "gn:country_code":"YE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983318,
+    "gn:latitude":15.68958,
+    "gn:longitude":42.82131,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ash\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0634\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ash\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983318
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"853b662ae10856c5064137e2d770d95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1327253317,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1327253317,
+    "wof:lastmodified":1537716293,
+    "wof:name":"Al Ashani",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82131,
+    15.68958,
+    42.82131,
+    15.68958
+],
+  "geometry": {"coordinates":[42.82131,15.68958],"type":"Point"}
+}

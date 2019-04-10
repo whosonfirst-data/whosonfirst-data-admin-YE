@@ -1,0 +1,73 @@
+{
+  "id": 1276522041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44065,14.48004,44.44065,14.48004",
+    "geom:latitude":14.48004,
+    "geom:longitude":44.44065,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Jurn al Ghiras",
+    "gn:country_code":"YE",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950692,
+    "gn:latitude":14.48004,
+    "gn:longitude":44.44065,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Jurn al Ghir\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0646 \u0627\u0644\u063a\u0631\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Jurn al Ghir\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950692
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aa3938ed3cb519bbe4f82399ea176fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1276522041,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1276522041,
+    "wof:lastmodified":1537716284,
+    "wof:name":"Jurn al Ghiras",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44065,
+    14.48004,
+    44.44065,
+    14.48004
+],
+  "geometry": {"coordinates":[44.44065,14.48004],"type":"Point"}
+}

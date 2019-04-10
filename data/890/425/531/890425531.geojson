@@ -1,0 +1,76 @@
+{
+  "id": 890425531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37449,16.79059,44.37449,16.79059",
+    "geom:latitude":16.79059,
+    "geom:longitude":44.37449,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mu\u1e29\u0101ndh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0646\u0630"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muhandh"
+    ],
+    "qs:name":"Al Mu\u1e29\u0101ndh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794942,
+        "gp:id":1959135,
+        "qs:id":700719,
+        "wd:id":"Q20302145"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051594,
+    "wof:geomhash":"634035cd86c27fa10e9772eb27144132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425531,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425531,
+    "wof:lastmodified":1514503194,
+    "wof:name":"Al Mu\u1e29\u0101ndh",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37449,
+    16.79059,
+    44.37449,
+    16.79059
+],
+  "geometry": {"coordinates":[44.37449,16.79059],"type":"Point"}
+}

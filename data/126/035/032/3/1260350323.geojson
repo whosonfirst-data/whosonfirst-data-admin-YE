@@ -1,0 +1,76 @@
+{
+  "id": 1260350323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.2657,12.56883,54.2657,12.56883",
+    "geom:latitude":12.56883,
+    "geom:longitude":54.2657,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Maydab",
+    "gn:country_code":"YE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182762,
+    "gn:latitude":12.56883,
+    "gn:longitude":54.2657,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mayd\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182762
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ca60680fc0da4cac82da925283383e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1260350323,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1260350323,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1260350323,
+    "wof:lastmodified":1536620490,
+    "wof:name":"Maydab",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.2657,
+    12.56883,
+    54.2657,
+    12.56883
+],
+  "geometry": {"coordinates":[54.2657,12.56883],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293445279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91778,13.48583,44.91778,13.48583",
+    "geom:latitude":13.48583,
+    "geom:longitude":44.91778,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"At Tuwanah",
+    "gn:country_code":"YE",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77644,
+    "gn:latitude":13.48583,
+    "gn:longitude":44.91778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"At Tuwanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77644
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"286225cdae7bc4e4d8f3e6731dd9bf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1293445279,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293445279,
+    "wof:lastmodified":1536846945,
+    "wof:name":"At Tuwanah",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91778,
+    13.48583,
+    44.91778,
+    13.48583
+],
+  "geometry": {"coordinates":[44.91778,13.48583],"type":"Point"}
+}

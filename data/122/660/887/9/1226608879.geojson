@@ -1,0 +1,71 @@
+{
+  "id": 1226608879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08391,15.4979,44.08391,15.4979",
+    "geom:latitude":15.4979,
+    "geom:longitude":44.08391,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Tuzan",
+    "gn:country_code":"YE",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403736,
+    "gn:latitude":15.4979,
+    "gn:longitude":44.08391,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u0162\u016bz\u0327\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162\u016bz\u0327\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403736
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"708d19367a4cf09b2076065906ddf536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925797,
+            "locality_id":1226608879,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226608879,
+    "wof:lastmodified":1537715373,
+    "wof:name":"Tuzan",
+    "wof:parent_id":1091925797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08391,
+    15.4979,
+    44.08391,
+    15.4979
+],
+  "geometry": {"coordinates":[44.08391,15.4979],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344228569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58917,15.68971,44.58917,15.68971",
+    "geom:latitude":15.68971,
+    "geom:longitude":44.58917,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Al Fawari'",
+    "gn:country_code":"YE",
+    "gn:dem":2158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976008,
+    "gn:latitude":15.68971,
+    "gn:longitude":44.58917,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Faw\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0627\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Faw\u0101ri\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976008
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"758dd6f0c64741a4eca9ab0bcf2f06f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1344228569,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344228569,
+    "wof:lastmodified":1537716140,
+    "wof:name":"Al Fawari'",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58917,
+    15.68971,
+    44.58917,
+    15.68971
+],
+  "geometry": {"coordinates":[44.58917,15.68971],"type":"Point"}
+}

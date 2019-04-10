@@ -1,0 +1,73 @@
+{
+  "id": 890449369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73987,13.17454,43.73987,13.17454",
+    "geom:latitude":13.17454,
+    "geom:longitude":43.73987,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0634\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ba'shirah"
+    ],
+    "qs:name":"Ba\u2018sh\u012brah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069212,
+        "gp:id":1958962,
+        "qs:id":753392,
+        "wd:id":"Q20305919"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052686,
+    "wof:geomhash":"0e66cfe3d770c079aa3da13b3cd4954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890449369,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449369,
+    "wof:lastmodified":1514503250,
+    "wof:name":"Ba\u2018sh\u012brah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73987,
+    13.17454,
+    43.73987,
+    13.17454
+],
+  "geometry": {"coordinates":[43.73987,13.17454],"type":"Point"}
+}

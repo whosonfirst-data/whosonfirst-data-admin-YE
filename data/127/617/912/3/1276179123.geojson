@@ -1,0 +1,71 @@
+{
+  "id": 1276179123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19317,13.38725,44.19317,13.38725",
+    "geom:latitude":13.38725,
+    "geom:longitude":44.19317,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1514.0",
+    "gn:asciiname":"Ar Rafsah",
+    "gn:country_code":"YE",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354817,
+    "gn:latitude":13.38725,
+    "gn:longitude":44.19317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Raf\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Raf\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354817
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d2a1b37492ef1e1be21f39627c8b2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926439,
+            "locality_id":1276179123,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276179123,
+    "wof:lastmodified":1537715622,
+    "wof:name":"Ar Rafsah",
+    "wof:parent_id":1091926439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19317,
+    13.38725,
+    44.19317,
+    13.38725
+],
+  "geometry": {"coordinates":[44.19317,13.38725],"type":"Point"}
+}

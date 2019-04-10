@@ -1,0 +1,72 @@
+{
+  "id": 1343519493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21174,13.98286,44.21174,13.98286",
+    "geom:latitude":13.98286,
+    "geom:longitude":44.21174,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Najd al Asabih",
+    "gn:country_code":"YE",
+    "gn:dem":2734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367241,
+    "gn:latitude":13.98286,
+    "gn:longitude":44.21174,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Najd al A\u015f\u0101bi\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najd al A\u015f\u0101bi\u1e29",
+        "Jabal \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367241
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7fc584441a74dc9ee698c71d225fb526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1343519493,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343519493,
+    "wof:lastmodified":1537715973,
+    "wof:name":"Najd al Asabih",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21174,
+    13.98286,
+    44.21174,
+    13.98286
+],
+  "geometry": {"coordinates":[44.21174,13.98286],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293083131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88055,14.86444,43.88055,14.86444",
+    "geom:latitude":14.86444,
+    "geom:longitude":43.88055,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Al Har",
+    "gn:country_code":"YE",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360243,
+    "gn:latitude":14.86444,
+    "gn:longitude":43.88055,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360243
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e5491977f363820e9de63f496e04c95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1293083131,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293083131,
+    "wof:lastmodified":1537715796,
+    "wof:name":"Al Har",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88055,
+    14.86444,
+    43.88055,
+    14.86444
+],
+  "geometry": {"coordinates":[43.88055,14.86444],"type":"Point"}
+}

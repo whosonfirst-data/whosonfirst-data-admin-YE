@@ -1,0 +1,81 @@
+{
+  "id": 1243164755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38811,14.20567,46.38811,14.20567",
+    "geom:latitude":14.20567,
+    "geom:longitude":46.38811,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Marbat",
+    "gn:country_code":"YE",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":78112,
+    "gn:latitude":14.20567,
+    "gn:longitude":46.38811,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marb\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Rib\u0101\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0628\u0627\u0637",
+        "\u0645\u0631\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al-Rub\u0101\u1e6d",
+        "Ar Rub\u0101\u0163",
+        "Al Robat",
+        "Marb\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78112
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c957b2d53b3f341eda07772b41f4465e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926111,
+            "locality_id":1243164755,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1243164755,
+    "wof:lastmodified":1537715248,
+    "wof:name":"Marbat",
+    "wof:parent_id":1091926111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38811,
+    14.20567,
+    46.38811,
+    14.20567
+],
+  "geometry": {"coordinates":[46.38811,14.20567],"type":"Point"}
+}

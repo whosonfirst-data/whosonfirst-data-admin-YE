@@ -1,0 +1,73 @@
+{
+  "id": 890423543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51278,16.79194,44.51278,16.79194",
+    "geom:latitude":16.79194,
+    "geom:longitude":44.51278,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Makhtah"
+    ],
+    "qs:name":"Makh\u0163ah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754620,
+        "gp:id":1959135,
+        "qs:id":698624,
+        "wd:id":"Q20300791"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051502,
+    "wof:geomhash":"14e3e6a9265166546c14a5c907a0fd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":890423543,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890423543,
+    "wof:lastmodified":1514503319,
+    "wof:name":"Makh\u0163ah",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51278,
+    16.79194,
+    44.51278,
+    16.79194
+],
+  "geometry": {"coordinates":[44.51278,16.79194],"type":"Point"}
+}

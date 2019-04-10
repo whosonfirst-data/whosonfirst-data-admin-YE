@@ -1,0 +1,75 @@
+{
+  "id": 1343318885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83777,13.13965,43.83777,13.13965",
+    "geom:latitude":13.13965,
+    "geom:longitude":43.83777,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Muhraqah",
+    "gn:country_code":"YE",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354644,
+    "gn:latitude":13.13965,
+    "gn:longitude":43.83777,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al Mu\u1e29raqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0631\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u1e29arraqah",
+        "Al Mu\u1e29raqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354644
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55ce0b9bf3baf7f6eebcf8d833b8a292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1343318885,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343318885,
+    "wof:lastmodified":1537715618,
+    "wof:name":"Al Muhraqah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83777,
+    13.13965,
+    43.83777,
+    13.13965
+],
+  "geometry": {"coordinates":[43.83777,13.13965],"type":"Point"}
+}

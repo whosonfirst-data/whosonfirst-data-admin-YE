@@ -1,0 +1,73 @@
+{
+  "id": 890426099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3296,17.35207,43.3296,17.35207",
+    "geom:latitude":17.35207,
+    "geom:longitude":43.3296,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u0639\u0631 \u0627\u0644\u0623\u0633\u0641\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Ya'r Al Asfal"
+    ],
+    "qs:name":"Ya\u2018r al Asfal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856624,
+        "gp:id":56447933,
+        "qs:id":742541,
+        "wd:id":"Q20309535"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051618,
+    "wof:geomhash":"d1d33afd9e81c4466ea6d6894ac165eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890426099,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426099,
+    "wof:lastmodified":1514503382,
+    "wof:name":"Ya\u2018r al Asfal",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3296,
+    17.35207,
+    43.3296,
+    17.35207
+],
+  "geometry": {"coordinates":[43.3296,17.35207],"type":"Point"}
+}

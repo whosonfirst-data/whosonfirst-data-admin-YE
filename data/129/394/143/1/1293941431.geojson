@@ -1,0 +1,75 @@
+{
+  "id": 1293941431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25412,14.01268,44.25412,14.01268",
+    "geom:latitude":14.01268,
+    "geom:longitude":44.25412,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Bayt al Hijri",
+    "gn:country_code":"YE",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359354,
+    "gn:latitude":14.01268,
+    "gn:longitude":44.25412,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Bayt al \u1e28ijr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062d\u062c\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u1e28ajr\u012b",
+        "Bayt al \u1e28ijr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359354
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e483b916c126d35f459d2a04a22076b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1293941431,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293941431,
+    "wof:lastmodified":1537715756,
+    "wof:name":"Bayt al Hijri",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25412,
+    14.01268,
+    44.25412,
+    14.01268
+],
+  "geometry": {"coordinates":[44.25412,14.01268],"type":"Point"}
+}

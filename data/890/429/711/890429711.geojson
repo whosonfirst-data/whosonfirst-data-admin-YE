@@ -1,0 +1,75 @@
+{
+  "id": 890429711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30829,15.42069,45.30829,15.42069",
+    "geom:latitude":15.42069,
+    "geom:longitude":45.30829,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":100,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Manin"
+    ],
+    "qs:name":"Al Man\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861722,
+        "gp:id":1957048,
+        "qs:id":108248,
+        "wd:id":"Q20307759",
+        "wk:page":"Al-Tall District"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051826,
+    "wof:geomhash":"83e6e31d2ca395af091467f210543bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925221,
+            "locality_id":890429711,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890429711,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Al Man\u012bn",
+    "wof:parent_id":1091925221,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30829,
+    15.42069,
+    45.30829,
+    15.42069
+],
+  "geometry": {"coordinates":[45.30829,15.42069],"type":"Point"}
+}

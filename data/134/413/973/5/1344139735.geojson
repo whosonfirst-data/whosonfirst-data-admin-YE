@@ -1,0 +1,74 @@
+{
+  "id": 1344139735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26714,17.22818,43.26714,17.22818",
+    "geom:latitude":17.22818,
+    "geom:longitude":43.26714,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Khatm",
+    "gn:country_code":"YE",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345592,
+    "gn:latitude":17.22818,
+    "gn:longitude":43.26714,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kha\u0163m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Kha\u0163m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e0839a293aa39c67a25cc2fbf0ed577f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1344139735,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1344139735,
+    "wof:lastmodified":1537715563,
+    "wof:name":"Al Khatm",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26714000000001,
+    17.22818,
+    43.26714000000001,
+    17.22818
+],
+  "geometry": {"coordinates":[43.26714000000001,17.22818],"type":"Point"}
+}

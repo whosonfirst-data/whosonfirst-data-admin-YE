@@ -1,0 +1,73 @@
+{
+  "id": 890414687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80192,13.49126,43.80192,13.49126",
+    "geom:latitude":13.49126,
+    "geom:longitude":43.80192,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628\u0629 \u0627\u0644\u0646\u0642\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'bat An Nuqayl"
+    ],
+    "qs:name":"Sha\u2018bat an Nuqayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075700,
+        "gp:id":1959049,
+        "qs:id":754286,
+        "wd:id":"Q20308030"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051057,
+    "wof:geomhash":"d241fe461a5105209b1896ca7f1eaa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890414687,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890414687,
+    "wof:lastmodified":1514503367,
+    "wof:name":"Sha\u2018bat an Nuqayl",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80192,
+    13.49126,
+    43.80192,
+    13.49126
+],
+  "geometry": {"coordinates":[43.80192,13.49126],"type":"Point"}
+}

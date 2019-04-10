@@ -1,0 +1,74 @@
+{
+  "id": 1276623191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37796,16.33317,43.37796,16.33317",
+    "geom:latitude":16.33317,
+    "geom:longitude":43.37796,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Kawma'",
+    "gn:country_code":"YE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366670,
+    "gn:latitude":16.33317,
+    "gn:longitude":43.37796,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kawm\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0645\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Kawm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366670
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fd3acd61908ea235b526cb08b184e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1276623191,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276623191,
+    "wof:lastmodified":1537715959,
+    "wof:name":"Al Kawma'",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37796,
+    16.33317000000001,
+    43.37796,
+    16.33317000000001
+],
+  "geometry": {"coordinates":[43.37796,16.33317000000001],"type":"Point"}
+}

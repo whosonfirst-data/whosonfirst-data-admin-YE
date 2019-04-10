@@ -1,0 +1,71 @@
+{
+  "id": 1226028081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38333,15.45,45.38333,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":45.38333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2613.0",
+    "gn:asciiname":"Sufrah",
+    "gn:country_code":"YE",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70433,
+    "gn:latitude":15.45,
+    "gn:longitude":45.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eufrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eufrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70433
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cf4cf21dd1c43f64308dc983d00e9f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925199,
+            "locality_id":1226028081,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1226028081,
+    "wof:lastmodified":1537715078,
+    "wof:name":"Sufrah",
+    "wof:parent_id":1091925199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38333,
+    15.45,
+    45.38333,
+    15.45
+],
+  "geometry": {"coordinates":[45.38333,15.45],"type":"Point"}
+}

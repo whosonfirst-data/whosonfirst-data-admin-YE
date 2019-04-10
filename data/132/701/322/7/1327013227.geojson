@@ -1,0 +1,73 @@
+{
+  "id": 1327013227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73009,16.44204,44.73009,16.44204",
+    "geom:latitude":16.44204,
+    "geom:longitude":44.73009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Hit",
+    "gn:country_code":"YE",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975956,
+    "gn:latitude":16.44204,
+    "gn:longitude":44.73009,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Al \u1e28\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975956
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b5eea4df7f211666b130d1d10845f0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1327013227,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327013227,
+    "wof:lastmodified":1537716137,
+    "wof:name":"Al Hit",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73009,
+    16.44204,
+    44.73009,
+    16.44204
+],
+  "geometry": {"coordinates":[44.73009,16.44204],"type":"Point"}
+}

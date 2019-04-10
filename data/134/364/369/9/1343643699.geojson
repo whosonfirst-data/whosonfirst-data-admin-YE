@@ -1,0 +1,71 @@
+{
+  "id": 1343643699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62386,15.03788,43.62386,15.03788",
+    "geom:latitude":15.03788,
+    "geom:longitude":43.62386,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Al Magharib",
+    "gn:country_code":"YE",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402426,
+    "gn:latitude":15.03788,
+    "gn:longitude":43.62386,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Magh\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Magh\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402426
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf9f3774aa7b2a9417842ad24347adcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1343643699,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343643699,
+    "wof:lastmodified":1537715355,
+    "wof:name":"Al Magharib",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62386,
+    15.03788,
+    43.62386,
+    15.03788
+],
+  "geometry": {"coordinates":[43.62386,15.03788],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310064035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.12044,16.38107,43.12044,16.38107",
+    "geom:latitude":16.38107,
+    "geom:longitude":43.12044,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Al Gharib",
+    "gn:country_code":"YE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363052,
+    "gn:latitude":16.38107,
+    "gn:longitude":43.12044,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Gh\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363052
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1db26ffa6d5ea3234298222083d056bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1310064035,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310064035,
+    "wof:lastmodified":1537715861,
+    "wof:name":"Al Gharib",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.12044,
+    16.38107,
+    43.12044,
+    16.38107
+],
+  "geometry": {"coordinates":[43.12044,16.38107],"type":"Point"}
+}

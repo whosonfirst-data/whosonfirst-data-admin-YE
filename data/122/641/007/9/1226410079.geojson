@@ -1,0 +1,68 @@
+{
+  "id": 1226410079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31527,13.28862,44.31527,13.28862",
+    "geom:latitude":13.28862,
+    "geom:longitude":44.31527,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Al Jubb",
+    "gn:country_code":"YE",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355070,
+    "gn:latitude":13.28862,
+    "gn:longitude":44.31527,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355070
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6055a7be2e3cb0d644fa7dc736984000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1226410079,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226410079,
+    "wof:lastmodified":1536697212,
+    "wof:name":"Al Jubb",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31527,
+    13.28862,
+    44.31527,
+    13.28862
+],
+  "geometry": {"coordinates":[44.31527,13.28862],"type":"Point"}
+}

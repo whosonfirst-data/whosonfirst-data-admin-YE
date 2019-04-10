@@ -1,0 +1,71 @@
+{
+  "id": 1343716761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28721,13.19233,43.28721,13.19233",
+    "geom:latitude":13.19233,
+    "geom:longitude":43.28721,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1507.0",
+    "gn:asciiname":"Bayt al Buwayri",
+    "gn:country_code":"YE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405993,
+    "gn:latitude":13.19233,
+    "gn:longitude":43.28721,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt al Buwayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Buwayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"95df9005945438ee73c06685932b4fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926505,
+            "locality_id":1343716761,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343716761,
+    "wof:lastmodified":1537715378,
+    "wof:name":"Bayt al Buwayri",
+    "wof:parent_id":1091926505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28721,
+    13.19233,
+    43.28721,
+    13.19233
+],
+  "geometry": {"coordinates":[43.28721,13.19233],"type":"Point"}
+}

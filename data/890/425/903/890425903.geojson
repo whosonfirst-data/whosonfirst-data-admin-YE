@@ -1,0 +1,76 @@
+{
+  "id": 890425903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27507,16.65222,43.27507,16.65222",
+    "geom:latitude":16.65222,
+    "geom:longitude":43.27507,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Mirm\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0631\u0645\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Mirmad"
+    ],
+    "qs:name":"Mirm\u0101d",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855018,
+        "gp:id":1938881,
+        "qs:id":741954,
+        "wd:id":"Q20301868"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051609,
+    "wof:geomhash":"40c9f5137ff6856a969b642e2a25d7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890425903,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890425903,
+    "wof:lastmodified":1514503327,
+    "wof:name":"Mirm\u0101d",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27507,
+    16.65222,
+    43.27507,
+    16.65222
+],
+  "geometry": {"coordinates":[43.27507,16.65222],"type":"Point"}
+}

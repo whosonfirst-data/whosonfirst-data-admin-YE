@@ -1,0 +1,74 @@
+{
+  "id": 1242635651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44389,16.00848,43.44389,16.00848",
+    "geom:latitude":16.00848,
+    "geom:longitude":43.44389,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Ad Dahah",
+    "gn:country_code":"YE",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681996,
+    "gn:latitude":16.00848,
+    "gn:longitude":43.44389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e11 \u1e10\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681996
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"447290689bbd76d28cfeff0ab1eb2d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1242635651,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1242635651,
+    "wof:lastmodified":1537715987,
+    "wof:name":"Ad Dahah",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44389,
+    16.00848,
+    43.44389,
+    16.00848
+],
+  "geometry": {"coordinates":[43.44389,16.00848],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1276406843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21614,15.50932,44.21614,15.50932",
+    "geom:latitude":15.50932,
+    "geom:longitude":44.21614,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Salih Qasim",
+    "gn:country_code":"YE",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342585,
+    "gn:latitude":15.50932,
+    "gn:longitude":44.21614,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015e\u0101li\u1e29 Q\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015e\u0101li\u1e29 Q\u0101sim"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0627\u0644\u062d \u0642\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u015e\u0101li\u1e29 Q\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342585
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a5e1dbf163d3c86ab5753b815fb0cdec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1276406843,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1276406843,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276406843,
+    "wof:lastmodified":1537715503,
+    "wof:name":"Salih Qasim",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21614,
+    15.50932,
+    44.21614,
+    15.50932
+],
+  "geometry": {"coordinates":[44.21614,15.50932],"type":"Point"}
+}

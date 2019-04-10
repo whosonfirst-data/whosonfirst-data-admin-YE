@@ -1,0 +1,74 @@
+{
+  "id": 1276610585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71427,13.29363,43.71427,13.29363",
+    "geom:latitude":13.29363,
+    "geom:longitude":43.71427,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1508.0",
+    "gn:asciiname":"As Surarah",
+    "gn:country_code":"YE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354220,
+    "gn:latitude":13.29363,
+    "gn:longitude":43.71427,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"A\u015f \u015eur\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0631\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eur\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354220
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3c88fe0fb6583312b9f88002ef6e20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":1276610585,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276610585,
+    "wof:lastmodified":1537715603,
+    "wof:name":"As Surarah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71427,
+    13.29363,
+    43.71427,
+    13.29363
+],
+  "geometry": {"coordinates":[43.71427,13.29363],"type":"Point"}
+}

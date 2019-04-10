@@ -1,0 +1,71 @@
+{
+  "id": 1225900615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49429,15.97148,43.49429,15.97148",
+    "geom:latitude":15.97148,
+    "geom:longitude":43.49429,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1716.0",
+    "gn:asciiname":"Bayt al Jaradi",
+    "gn:country_code":"YE",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365821,
+    "gn:latitude":15.97148,
+    "gn:longitude":43.49429,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Jar\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Jar\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365821
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d4eb87ca707be4969e36c4ee252bcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923689,
+            "locality_id":1225900615,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225900615,
+    "wof:lastmodified":1537715939,
+    "wof:name":"Bayt al Jaradi",
+    "wof:parent_id":1091923689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49429,
+    15.97148,
+    43.49429,
+    15.97148
+],
+  "geometry": {"coordinates":[43.49429,15.97148],"type":"Point"}
+}

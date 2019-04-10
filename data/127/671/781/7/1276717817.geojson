@@ -1,0 +1,77 @@
+{
+  "id": 1276717817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3896,16.33328,43.3896,16.33328",
+    "geom:latitude":16.33328,
+    "geom:longitude":43.3896,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Qimah",
+    "gn:country_code":"YE",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783294,
+    "gn:latitude":16.33328,
+    "gn:longitude":43.3896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Q\u012bmah",
+    "gn:population":6,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783294
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f395afa6307a7295936c869a066806d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1276717817,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276717817,
+    "wof:lastmodified":1537715995,
+    "wof:name":"Al Qimah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3896,
+    16.33328,
+    43.3896,
+    16.33328
+],
+  "geometry": {"coordinates":[43.3896,16.33328],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1225792687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25102,15.54364,44.25102,15.54364",
+    "geom:latitude":15.54364,
+    "geom:longitude":44.25102,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Bayt al Hidammah",
+    "gn:country_code":"YE",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367130,
+    "gn:latitude":15.54364,
+    "gn:longitude":44.25102,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u1e28idammah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u1e28idammah",
+        "Bayt al \u1e28idamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367130
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a683a128fe6488349c366a724a6170b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1225792687,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1225792687,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1225792687,
+    "wof:lastmodified":1537715970,
+    "wof:name":"Bayt al Hidammah",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25102,
+    15.54364,
+    44.25102,
+    15.54364
+],
+  "geometry": {"coordinates":[44.25102,15.54364],"type":"Point"}
+}

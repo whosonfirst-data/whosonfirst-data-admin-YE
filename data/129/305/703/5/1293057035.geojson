@@ -1,0 +1,75 @@
+{
+  "id": 1293057035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33689,14.13883,44.33689,14.13883",
+    "geom:latitude":14.13883,
+    "geom:longitude":44.33689,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Al Julb",
+    "gn:country_code":"YE",
+    "gn:dem":2850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359444,
+    "gn:latitude":14.13883,
+    "gn:longitude":44.33689,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Julb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Jalb",
+        "Al Julb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359444
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a147e12dbecce632ea052231b9bcdc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1293057035,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293057035,
+    "wof:lastmodified":1537715761,
+    "wof:name":"Al Julb",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33689,
+    14.13883,
+    44.33689,
+    14.13883
+],
+  "geometry": {"coordinates":[44.33689,14.13883],"type":"Point"}
+}

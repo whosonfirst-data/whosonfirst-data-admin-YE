@@ -1,0 +1,74 @@
+{
+  "id": 1343746531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48066,13.98148,43.48066,13.98148",
+    "geom:latitude":13.98148,
+    "geom:longitude":43.48066,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Al Marjim",
+    "gn:country_code":"YE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329463,
+    "gn:latitude":13.98148,
+    "gn:longitude":43.48066,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Marj\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u062c\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Marj\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421174007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329463
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bcc63f0a4de112025b737507963747bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421174007,
+            "locality_id":1343746531,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343746531,
+    "wof:lastmodified":1537715434,
+    "wof:name":"Al Marjim",
+    "wof:parent_id":421174007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48066,
+    13.98148,
+    43.48066,
+    13.98148
+],
+  "geometry": {"coordinates":[43.48066,13.98148],"type":"Point"}
+}

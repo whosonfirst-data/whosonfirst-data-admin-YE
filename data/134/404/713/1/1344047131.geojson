@@ -1,0 +1,71 @@
+{
+  "id": 1344047131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22458,15.07784,43.22458,15.07784",
+    "geom:latitude":15.07784,
+    "geom:longitude":43.22458,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Al Miqdamiyah",
+    "gn:country_code":"YE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78801,
+    "gn:latitude":15.07784,
+    "gn:longitude":43.22458,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Miqd\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Miqd\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78801
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3883223fdac8244410cb1388e34cc021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1344047131,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344047131,
+    "wof:lastmodified":1537715273,
+    "wof:name":"Al Miqdamiyah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22458,
+    15.07784,
+    43.22458,
+    15.07784
+],
+  "geometry": {"coordinates":[43.22458,15.07784],"type":"Point"}
+}

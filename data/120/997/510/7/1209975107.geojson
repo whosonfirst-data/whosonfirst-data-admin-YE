@@ -1,0 +1,71 @@
+{
+  "id": 1209975107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1986,15.91302,43.1986,15.91302",
+    "geom:latitude":15.91302,
+    "geom:longitude":43.1986,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Mahall al Qawi",
+    "gn:country_code":"YE",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365952,
+    "gn:latitude":15.91302,
+    "gn:longitude":43.1986,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al Qaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Qaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365952
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"baccb6193bbfb15804d7e0ca30ed5b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923385,
+            "locality_id":1209975107,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209975107,
+    "wof:lastmodified":1537715942,
+    "wof:name":"Mahall al Qawi",
+    "wof:parent_id":1091923385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1986,
+    15.91302,
+    43.1986,
+    15.91302
+],
+  "geometry": {"coordinates":[43.1986,15.91302],"type":"Point"}
+}

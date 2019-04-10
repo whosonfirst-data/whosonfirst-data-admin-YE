@@ -1,0 +1,74 @@
+{
+  "id": 1259862305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46989,17.49363,43.46989,17.49363",
+    "geom:latitude":17.49363,
+    "geom:longitude":43.46989,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Al Muharraq",
+    "gn:country_code":"YE",
+    "gn:dem":2247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345531,
+    "gn:latitude":17.49363,
+    "gn:longitude":43.46989,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mu\u1e29arraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u1e29arraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345531
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dffc89a5b2f282bd21e9546d73909c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":1259862305,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259862305,
+    "wof:lastmodified":1537715561,
+    "wof:name":"Al Muharraq",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46989,
+    17.49363,
+    43.46989,
+    17.49363
+],
+  "geometry": {"coordinates":[43.46989,17.49363],"type":"Point"}
+}

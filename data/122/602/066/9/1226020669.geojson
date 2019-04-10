@@ -1,0 +1,68 @@
+{
+  "id": 1226020669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68333,13.75,44.68333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":44.68333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Dinan",
+    "gn:country_code":"YE",
+    "gn:dem":2338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76009,
+    "gn:latitude":13.75,
+    "gn:longitude":44.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dinan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f268c6c750da18ef08cdea48fc78b1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919751,
+            "locality_id":1226020669,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1226020669,
+    "wof:lastmodified":1536761658,
+    "wof:name":"Dinan",
+    "wof:parent_id":1091919751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68333,
+    13.75,
+    44.68333,
+    13.75
+],
+  "geometry": {"coordinates":[44.68333,13.75],"type":"Point"}
+}

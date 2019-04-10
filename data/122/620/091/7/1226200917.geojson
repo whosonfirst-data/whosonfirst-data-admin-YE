@@ -1,0 +1,74 @@
+{
+  "id": 1226200917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73315,16.20732,44.73315,16.20732",
+    "geom:latitude":16.20732,
+    "geom:longitude":44.73315,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1605.0",
+    "gn:asciiname":"Al 'Ayid",
+    "gn:country_code":"YE",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308184,
+    "gn:latitude":16.20732,
+    "gn:longitude":44.73315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u2018\u0100yi\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018\u0100yi\u1e11"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0639\u0627\u064a\u0636"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308184
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cce74904022911eb244d9b539567ff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920547,
+            "locality_id":1226200917,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226200917,
+    "wof:lastmodified":1537716037,
+    "wof:name":"Al 'Ayid",
+    "wof:parent_id":1091920547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73315,
+    16.20732000000001,
+    44.73315,
+    16.20732000000001
+],
+  "geometry": {"coordinates":[44.73315,16.20732000000001],"type":"Point"}
+}

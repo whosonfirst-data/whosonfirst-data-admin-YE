@@ -1,0 +1,74 @@
+{
+  "id": 1209999329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25628,17.26152,43.25628,17.26152",
+    "geom:latitude":17.26152,
+    "geom:longitude":43.25628,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Jar'a",
+    "gn:country_code":"YE",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856683,
+    "gn:latitude":17.26152,
+    "gn:longitude":43.25628,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jar\u2018\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0639\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jar\u2018\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856683
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8d682c035df89bbda1279682765effe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1209999329,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1209999329,
+    "wof:lastmodified":1537716001,
+    "wof:name":"Jar'a",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25628,
+    17.26152,
+    43.25628,
+    17.26152
+],
+  "geometry": {"coordinates":[43.25628,17.26152],"type":"Point"}
+}

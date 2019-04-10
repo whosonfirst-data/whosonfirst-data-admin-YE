@@ -1,0 +1,74 @@
+{
+  "id": 1276417795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27916,14.3292,44.27916,14.3292",
+    "geom:latitude":14.3292,
+    "geom:longitude":44.27916,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Al `Ashshah",
+    "gn:country_code":"YE",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359191,
+    "gn:latitude":14.3292,
+    "gn:longitude":44.27916,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al \u2018Ashshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ashshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359191
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8ec95a34b43a875430f106765602b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1276417795,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1276417795,
+    "wof:lastmodified":1537715748,
+    "wof:name":"Al `Ashshah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27916,
+    14.3292,
+    44.27916,
+    14.3292
+],
+  "geometry": {"coordinates":[44.27916,14.3292],"type":"Point"}
+}

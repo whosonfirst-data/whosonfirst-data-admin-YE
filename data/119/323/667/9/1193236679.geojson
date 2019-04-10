@@ -1,0 +1,77 @@
+{
+  "id": 1193236679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42236,16.15746,43.42236,16.15746",
+    "geom:latitude":16.15746,
+    "geom:longitude":43.42236,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Masna'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658598,
+    "gn:latitude":16.15746,
+    "gn:longitude":43.42236,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u015fna\u2018ah",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0646\u0639\u0640\u0640\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u015fna\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658598
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e01207e76708e9253091f008475628e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1193236679,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1193236679,
+    "wof:lastmodified":1537715981,
+    "wof:name":"Al Masna'ah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42236,
+    16.15746,
+    43.42236,
+    16.15746
+],
+  "geometry": {"coordinates":[43.42236,16.15746],"type":"Point"}
+}

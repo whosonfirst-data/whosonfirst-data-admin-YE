@@ -1,0 +1,73 @@
+{
+  "id": 890439545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43075,14.17646,45.43075,14.17646",
+    "geom:latitude":14.17646,
+    "geom:longitude":45.43075,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":7,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0647\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Az Zahar"
+    ],
+    "qs:name":"Az\u0327 Z\u0327ahar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051790,
+        "gp:id":1958988,
+        "qs:id":751174,
+        "wd:id":"Q20305590"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052239,
+    "wof:geomhash":"a780a80fb8055bad077535a08554cd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890439545,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890439545,
+    "wof:lastmodified":1514503236,
+    "wof:name":"Az\u0327 Z\u0327ahar",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43075,
+    14.17646,
+    45.43075,
+    14.17646
+],
+  "geometry": {"coordinates":[45.43075,14.17646],"type":"Point"}
+}

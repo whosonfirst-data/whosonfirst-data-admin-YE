@@ -1,0 +1,74 @@
+{
+  "id": 1360249343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71465,14.48641,45.71465,14.48641",
+    "geom:latitude":14.48641,
+    "geom:longitude":45.71465,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Jirra",
+    "gn:country_code":"YE",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066856,
+    "gn:latitude":14.48641,
+    "gn:longitude":45.71465,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jirr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jirr\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066856
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7eff9d08c52db51fc64a2c63d10a38d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919333,
+            "locality_id":1360249343,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1360249343,
+    "wof:lastmodified":1537716014,
+    "wof:name":"Jirra",
+    "wof:parent_id":1091919333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71465,
+    14.48641,
+    45.71465,
+    14.48641
+],
+  "geometry": {"coordinates":[45.71465,14.48641],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226110753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26481,14.1765,44.26481,14.1765",
+    "geom:latitude":14.1765,
+    "geom:longitude":44.26481,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"`Aqad",
+    "gn:country_code":"YE",
+    "gn:dem":2951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359387,
+    "gn:latitude":14.1765,
+    "gn:longitude":44.26481,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"\u2018Aqad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Uqad",
+        "\u2018Aqad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359387
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a10db1f59913f2324e51cca7d558f219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1226110753,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226110753,
+    "wof:lastmodified":1537715758,
+    "wof:name":"`Aqad",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26481,
+    14.1765,
+    44.26481,
+    14.1765
+],
+  "geometry": {"coordinates":[44.26481,14.1765],"type":"Point"}
+}

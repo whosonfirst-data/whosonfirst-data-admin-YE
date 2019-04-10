@@ -1,0 +1,77 @@
+{
+  "id": 1192976441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08339,14.00695,44.08339,14.00695",
+    "geom:latitude":14.00695,
+    "geom:longitude":44.08339,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Suwwad",
+    "gn:country_code":"YE",
+    "gn:dem":2715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360204,
+    "gn:latitude":14.00695,
+    "gn:longitude":44.08339,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Suww\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Suww\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Saw\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360204
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1819c568bfe8b2b0b9035097128e187b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1192976441,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1192976441,
+    "wof:lastmodified":1537715796,
+    "wof:name":"Suwwad",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08339,
+    14.00695,
+    44.08339,
+    14.00695
+],
+  "geometry": {"coordinates":[44.08339,14.00695],"type":"Point"}
+}

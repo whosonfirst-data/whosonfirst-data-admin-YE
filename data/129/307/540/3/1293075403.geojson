@@ -1,0 +1,74 @@
+{
+  "id": 1293075403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81184,14.41,44.81184,14.41",
+    "geom:latitude":14.41,
+    "geom:longitude":44.81184,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Al Jayf",
+    "gn:country_code":"YE",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408895,
+    "gn:latitude":14.41,
+    "gn:longitude":44.81184,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Al Jayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0641 \u0627\u0644\u062d\u0645\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jayf al \u1e28umayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091918965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408895
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"25ba02ae7823307325d7dfa108ce4c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918965,
+            "locality_id":1293075403,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1293075403,
+    "wof:lastmodified":1537715422,
+    "wof:name":"Al Jayf",
+    "wof:parent_id":1091918965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81184,
+    14.41,
+    44.81184,
+    14.41
+],
+  "geometry": {"coordinates":[44.81184,14.41],"type":"Point"}
+}

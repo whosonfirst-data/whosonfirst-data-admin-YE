@@ -1,0 +1,71 @@
+{
+  "id": 890449013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71096,16.17093,43.71096,16.17093",
+    "geom:latitude":16.17093,
+    "geom:longitude":43.71096,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ghiz\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0632\u0627\u0644"
+    ],
+    "qs:name":"Al Ghiz\u0101l",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680977,
+        85632499,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020401,
+        "qs:id":749758
+    },
+    "wof:country":"YE",
+    "wof:created":1469052662,
+    "wof:geomhash":"e5383146275343b9c1ad8cafb904eb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "neighbourhood_id":890449013,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890449013,
+    "wof:lastmodified":1505343626,
+    "wof:name":"Al Ghiz\u0101l",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71096,
+    16.17093,
+    43.71096,
+    16.17093
+],
+  "geometry": {"coordinates":[43.71096,16.17093],"type":"Point"}
+}

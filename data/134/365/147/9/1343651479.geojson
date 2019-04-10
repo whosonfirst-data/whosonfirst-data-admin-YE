@@ -1,0 +1,74 @@
+{
+  "id": 1343651479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06537,15.33501,43.06537,15.33501",
+    "geom:latitude":15.33501,
+    "geom:longitude":43.06537,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Az Za'afir",
+    "gn:country_code":"YE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035981,
+    "gn:latitude":15.33501,
+    "gn:longitude":43.06537,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Za\u2018\u0101fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u0627\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "Az Za\u2018\u0101fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035981
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fa210c36f180ad4abfc7a189ab47a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1343651479,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343651479,
+    "wof:lastmodified":1537716304,
+    "wof:name":"Az Za'afir",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06537,
+    15.33501,
+    43.06537,
+    15.33501
+],
+  "geometry": {"coordinates":[43.06537,15.33501],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310494359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.26462,14.43707,47.26462,14.43707",
+    "geom:latitude":14.43707,
+    "geom:longitude":47.26462,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2115.0",
+    "gn:asciiname":"Al Mishbab",
+    "gn:country_code":"YE",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78789,
+    "gn:latitude":14.43707,
+    "gn:longitude":47.26462,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Al Mishb\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mishb\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78789
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c8f712de88086e3428f4e8cff305fbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925947,
+            "locality_id":1310494359,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310494359,
+    "wof:lastmodified":1537715273,
+    "wof:name":"Al Mishbab",
+    "wof:parent_id":1091925947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.26462,
+    14.43707,
+    47.26462,
+    14.43707
+],
+  "geometry": {"coordinates":[47.26462,14.43707],"type":"Point"}
+}

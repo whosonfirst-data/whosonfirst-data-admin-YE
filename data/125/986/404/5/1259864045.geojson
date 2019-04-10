@@ -1,0 +1,71 @@
+{
+  "id": 1259864045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00921,15.68209,43.00921,15.68209",
+    "geom:latitude":15.68209,
+    "geom:longitude":43.00921,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Az Zahr",
+    "gn:country_code":"YE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365877,
+    "gn:latitude":15.68209,
+    "gn:longitude":43.00921,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Az\u0327 Z\u0327ahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327ahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365877
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3d44f9a26e7174d116be2432f60adff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1259864045,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259864045,
+    "wof:lastmodified":1537715941,
+    "wof:name":"Az Zahr",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00921,
+    15.68209,
+    43.00921,
+    15.68209
+],
+  "geometry": {"coordinates":[43.00921,15.68209],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343529587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2044,13.0754,44.2044,13.0754",
+    "geom:latitude":13.0754,
+    "geom:longitude":44.2044,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Hubayl ash Sharj",
+    "gn:country_code":"YE",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871993,
+    "gn:latitude":13.0754,
+    "gn:longitude":44.2044,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ubayl ash Sharj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0644 \u0627\u0644\u0634\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ubayl ash Sharj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871993
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b98d35d5c09e2cf660b3b527063e5cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1343529587,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343529587,
+    "wof:lastmodified":1537716273,
+    "wof:name":"Hubayl ash Sharj",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2044,
+    13.0754,
+    44.2044,
+    13.0754
+],
+  "geometry": {"coordinates":[44.2044,13.0754],"type":"Point"}
+}

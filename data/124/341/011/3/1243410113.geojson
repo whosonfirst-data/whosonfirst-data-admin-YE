@@ -1,0 +1,68 @@
+{
+  "id": 1243410113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08951,13.97288,44.08951,13.97288",
+    "geom:latitude":13.97288,
+    "geom:longitude":44.08951,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"As Sahlah",
+    "gn:country_code":"YE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356591,
+    "gn:latitude":13.97288,
+    "gn:longitude":44.08951,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sahlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356591
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84fe584b9f10b4e93ee4e35c71d60c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924621,
+            "locality_id":1243410113,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243410113,
+    "wof:lastmodified":1536856724,
+    "wof:name":"As Sahlah",
+    "wof:parent_id":1091924621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08951,
+    13.97288,
+    44.08951,
+    13.97288
+],
+  "geometry": {"coordinates":[44.08951,13.97288],"type":"Point"}
+}

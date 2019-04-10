@@ -1,0 +1,74 @@
+{
+  "id": 1276179127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00375,13.56489,44.00375,13.56489",
+    "geom:latitude":13.56489,
+    "geom:longitude":44.00375,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1518.0",
+    "gn:asciiname":"Qaryat al Madrasah",
+    "gn:country_code":"YE",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357485,
+    "gn:latitude":13.56489,
+    "gn:longitude":44.00375,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al Madrasah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062f\u0631\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062f\u0631\u0633\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357485
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1e0ddf05b5da669b0b4b4831f707c2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926357,
+            "locality_id":1276179127,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276179127,
+    "wof:lastmodified":1537715701,
+    "wof:name":"Qaryat al Madrasah",
+    "wof:parent_id":1091926357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00375,
+    13.56489,
+    44.00375,
+    13.56489
+],
+  "geometry": {"coordinates":[44.00375,13.56489],"type":"Point"}
+}

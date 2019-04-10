@@ -1,0 +1,71 @@
+{
+  "id": 1343539685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70683,15.43559,43.70683,15.43559",
+    "geom:latitude":15.43559,
+    "geom:longitude":43.70683,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Bayt al Haddad",
+    "gn:country_code":"YE",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367051,
+    "gn:latitude":15.43559,
+    "gn:longitude":43.70683,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367051
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3b42befb812dae7a33ded9ab80772ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1343539685,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343539685,
+    "wof:lastmodified":1537715969,
+    "wof:name":"Bayt al Haddad",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70683,
+    15.43559,
+    43.70683,
+    15.43559
+],
+  "geometry": {"coordinates":[43.70683,15.43559],"type":"Point"}
+}

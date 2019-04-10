@@ -1,0 +1,75 @@
+{
+  "id": 890419737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05957,14.2857,45.05957,14.2857",
+    "geom:latitude":14.2857,
+    "geom:longitude":45.05957,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qubbah"
+    ],
+    "qs:name":"Al Qubbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051998,
+        "gp:id":1959118,
+        "qs:id":751376,
+        "wd:id":"Q20305256",
+        "wk:page":"Al Qubbah"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051299,
+    "wof:geomhash":"6aef08820d2156f12b5e78359e92eb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":890419737,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890419737,
+    "wof:lastmodified":1527782103,
+    "wof:name":"Al Qubbah",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05957,
+    14.2857,
+    45.05957,
+    14.2857
+],
+  "geometry": {"coordinates":[45.05957,14.2857],"type":"Point"}
+}

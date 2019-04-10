@@ -1,0 +1,73 @@
+{
+  "id": 890455075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.52392,14.99956,45.52392,14.99956",
+    "geom:latitude":14.99956,
+    "geom:longitude":45.52392,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u064a\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mafyal"
+    ],
+    "qs:name":"Al Mafy\u0101l",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053583,
+        "gp:id":1959055,
+        "qs:id":751980,
+        "wd:id":"Q20306634"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052932,
+    "wof:geomhash":"c41d6714d6256b188eb7bc13ee905e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890455075,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890455075,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Mafy\u0101l",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.52392,
+    14.99956,
+    45.52392,
+    14.99956
+],
+  "geometry": {"coordinates":[45.52392,14.99956],"type":"Point"}
+}

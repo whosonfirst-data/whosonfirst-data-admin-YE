@@ -1,0 +1,71 @@
+{
+  "id": 1276242241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83532,13.83357,45.83532,13.83357",
+    "geom:latitude":13.83357,
+    "geom:longitude":45.83532,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Qashshash",
+    "gn:country_code":"YE",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71910,
+    "gn:latitude":13.83357,
+    "gn:longitude":45.83532,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qashsh\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qashsh\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71910
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f65c386780b9d5fa21604f9b5084c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1276242241,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1276242241,
+    "wof:lastmodified":1537715104,
+    "wof:name":"Qashshash",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83532,
+    13.83357,
+    45.83532,
+    13.83357
+],
+  "geometry": {"coordinates":[45.83532,13.83357],"type":"Point"}
+}

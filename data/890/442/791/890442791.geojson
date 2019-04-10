@@ -1,0 +1,73 @@
+{
+  "id": 890442791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25157,16.84911,43.25157,16.84911",
+    "geom:latitude":16.84911,
+    "geom:longitude":43.25157,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646 \u0627\u0644\u0645\u0634\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bayn Al Mashbah"
+    ],
+    "qs:name":"Bayn al Mashbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926974,
+        "gp:id":1958992,
+        "qs:id":745311,
+        "wd:id":"Q20299417"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052379,
+    "wof:geomhash":"271a02903bcd4fa386556cb6e4be796e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890442791,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890442791,
+    "wof:lastmodified":1514503245,
+    "wof:name":"Bayn al Mashbah",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25157,
+    16.84911,
+    43.25157,
+    16.84911
+],
+  "geometry": {"coordinates":[43.25157,16.84911],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209689183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.15674,15.05532,45.15674,15.05532",
+    "geom:latitude":15.05532,
+    "geom:longitude":45.15674,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2614.0",
+    "gn:asciiname":"Al Jafnah",
+    "gn:country_code":"YE",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341305,
+    "gn:latitude":15.05532,
+    "gn:longitude":45.15674,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jafnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341305
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3a29c9e084d20d291fa64e4e3c2cd519",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209689183
+        }
+    ],
+    "wof:id":1209689183,
+    "wof:lastmodified":1536279304,
+    "wof:name":"Al Jafnah",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.15674,
+    15.055320000000002,
+    45.15674,
+    15.055320000000002
+],
+  "geometry": {"coordinates":[45.15674,15.05532],"type":"Point"}
+}

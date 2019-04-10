@@ -1,0 +1,71 @@
+{
+  "id": 1343349913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52005,15.5238,43.52005,15.5238",
+    "geom:latitude":15.5238,
+    "geom:longitude":43.52005,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Ghanimah",
+    "gn:country_code":"YE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344130,
+    "gn:latitude":15.5238,
+    "gn:longitude":43.52005,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gh\u0101nimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101nimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344130
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37dceca362bf9b4193d4a5b7b029b895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1343349913,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343349913,
+    "wof:lastmodified":1537715529,
+    "wof:name":"Ghanimah",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52005,
+    15.5238,
+    43.52005,
+    15.5238
+],
+  "geometry": {"coordinates":[43.52005,15.5238],"type":"Point"}
+}

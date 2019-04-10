@@ -1,0 +1,73 @@
+{
+  "id": 1360308377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5865,16.46759,48.5865,16.46759",
+    "geom:latitude":16.46759,
+    "geom:longitude":48.5865,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Buyut ash Shari",
+    "gn:country_code":"YE",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11502554,
+    "gn:latitude":16.46759,
+    "gn:longitude":48.5865,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Buy\u016bt ash Shar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u062a \u0627\u0644\u0634\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Buy\u016bt ash Shar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11502554
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da917d30a57d1c387bbca839f052b409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922697,
+            "locality_id":1360308377,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1360308377,
+    "wof:lastmodified":1537716359,
+    "wof:name":"Buyut ash Shari",
+    "wof:parent_id":1091922697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5865,
+    16.46759,
+    48.5865,
+    16.46759
+],
+  "geometry": {"coordinates":[48.5865,16.46759],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259606233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96667,15.03333,47.96667,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":47.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1922.0",
+    "gn:asciiname":"Madhun",
+    "gn:country_code":"YE",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73370,
+    "gn:latitude":15.03333,
+    "gn:longitude":47.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Madh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madh\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73370
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0ea41b756368409b93a5a834ebdbc0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922585,
+            "locality_id":1259606233,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259606233,
+    "wof:lastmodified":1537715133,
+    "wof:name":"Madhun",
+    "wof:parent_id":1091922585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96667,
+    15.03333,
+    47.96667,
+    15.03333
+],
+  "geometry": {"coordinates":[47.96667,15.03333],"type":"Point"}
+}

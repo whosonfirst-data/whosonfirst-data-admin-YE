@@ -1,0 +1,74 @@
+{
+  "id": 1242941583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23159,14.31257,44.23159,14.31257",
+    "geom:latitude":14.31257,
+    "geom:longitude":44.23159,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Yad'ar",
+    "gn:country_code":"YE",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870627,
+    "gn:latitude":14.31257,
+    "gn:longitude":44.23159,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yad\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062f\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "Yad\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870627
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee07f896139cc1bb9d3e238bc6585475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1242941583,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242941583,
+    "wof:lastmodified":1537716234,
+    "wof:name":"Yad'ar",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23159,
+    14.31257,
+    44.23159,
+    14.31257
+],
+  "geometry": {"coordinates":[44.23159,14.31257],"type":"Point"}
+}

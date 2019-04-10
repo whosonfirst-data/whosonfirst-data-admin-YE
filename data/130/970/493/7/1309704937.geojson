@@ -1,0 +1,72 @@
+{
+  "id": 1309704937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95106,14.07606,47.95106,14.07606",
+    "geom:latitude":14.07606,
+    "geom:longitude":47.95106,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2117.0",
+    "gn:asciiname":"At Ta`aniq",
+    "gn:country_code":"YE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77685,
+    "gn:latitude":14.07606,
+    "gn:longitude":47.95106,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"At Ta\u2018\u0101n\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ta\u2018\u0101n\u012bq",
+        "At Ta\u2018\u0101n\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77685
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"44b7a00df78731ff9e28b282ca842b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926205,
+            "locality_id":1309704937,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1309704937,
+    "wof:lastmodified":1537715231,
+    "wof:name":"At Ta`aniq",
+    "wof:parent_id":1091926205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95106,
+    14.07606,
+    47.95106,
+    14.07606
+],
+  "geometry": {"coordinates":[47.95106,14.07606],"type":"Point"}
+}

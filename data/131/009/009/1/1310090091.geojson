@@ -1,0 +1,72 @@
+{
+  "id": 1310090091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07218,15.6048,43.07218,15.6048",
+    "geom:latitude":15.6048,
+    "geom:longitude":43.07218,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Dayr al Misawa",
+    "gn:country_code":"YE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76248,
+    "gn:latitude":15.6048,
+    "gn:longitude":43.07218,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dayr al Mis\u0101w\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Mis\u0101w\u00e1",
+        "Dayr Massawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76248
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7342d36460edd4cdf5faec1fa50cce49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1310090091,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310090091,
+    "wof:lastmodified":1537715191,
+    "wof:name":"Dayr al Misawa",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07218,
+    15.6048,
+    43.07218,
+    15.6048
+],
+  "geometry": {"coordinates":[43.07218,15.6048],"type":"Point"}
+}

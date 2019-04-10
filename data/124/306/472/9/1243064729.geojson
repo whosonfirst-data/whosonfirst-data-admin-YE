@@ -1,0 +1,74 @@
+{
+  "id": 1243064729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25917,14.69629,43.25917,14.69629",
+    "geom:latitude":14.69629,
+    "geom:longitude":43.25917,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Kawd al Juhayt",
+    "gn:country_code":"YE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340924,
+    "gn:latitude":14.69629,
+    "gn:longitude":43.25917,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Kawd al Ju\u1e29ayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062f \u0627\u0644\u062c\u062d\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kawd al Ju\u1e29ayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340924
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e2f636865b37eceb8a9184b904e2d69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1243064729,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243064729,
+    "wof:lastmodified":1537715466,
+    "wof:name":"Kawd al Juhayt",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25917000000001,
+    14.69629,
+    43.25917000000001,
+    14.69629
+],
+  "geometry": {"coordinates":[43.25917000000001,14.69629],"type":"Point"}
+}

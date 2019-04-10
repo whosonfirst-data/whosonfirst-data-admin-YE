@@ -1,0 +1,76 @@
+{
+  "id": 890426407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36255,16.76181,43.36255,16.76181",
+    "geom:latitude":16.76181,
+    "geom:longitude":43.36255,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Si\u1e29\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u062d\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sihar"
+    ],
+    "qs:name":"Si\u1e29\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926892,
+        "gp:id":1959134,
+        "qs:id":745231,
+        "wd:id":"Q20308649"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051630,
+    "wof:geomhash":"0e5e585ed608ca6235a674dddb6f4e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890426407,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426407,
+    "wof:lastmodified":1514503371,
+    "wof:name":"Si\u1e29\u0101r",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36255,
+    16.76181,
+    43.36255,
+    16.76181
+],
+  "geometry": {"coordinates":[43.36255,16.76181],"type":"Point"}
+}

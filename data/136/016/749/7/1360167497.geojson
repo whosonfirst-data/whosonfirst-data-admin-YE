@@ -1,0 +1,71 @@
+{
+  "id": 1360167497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24104,16.91409,43.24104,16.91409",
+    "geom:latitude":16.91409,
+    "geom:longitude":43.24104,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Qullat al Matr",
+    "gn:country_code":"YE",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202845,
+    "gn:latitude":16.91409,
+    "gn:longitude":43.24104,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qullat al Matr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0629 \u0627\u0644\u0645\u062a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202845
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e3da23212af2297b40ee8d404c63209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1360167497,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360167497,
+    "wof:lastmodified":1537716021,
+    "wof:name":"Qullat al Matr",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24104000000001,
+    16.91409,
+    43.24104000000001,
+    16.91409
+],
+  "geometry": {"coordinates":[43.24104000000001,16.91409],"type":"Point"}
+}

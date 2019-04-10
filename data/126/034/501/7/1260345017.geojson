@@ -1,0 +1,71 @@
+{
+  "id": 1260345017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4599,16.03605,43.4599,16.03605",
+    "geom:latitude":16.03605,
+    "geom:longitude":43.4599,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Maktab",
+    "gn:country_code":"YE",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681991,
+    "gn:latitude":16.03605,
+    "gn:longitude":43.4599,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maktab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u062a\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681991
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"abb320d21137f9f557f7a273b66f021d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1260345017,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1260345017,
+    "wof:lastmodified":1537715987,
+    "wof:name":"Al Maktab",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4599,
+    16.03605,
+    43.4599,
+    16.03605
+],
+  "geometry": {"coordinates":[43.4599,16.03605],"type":"Point"}
+}

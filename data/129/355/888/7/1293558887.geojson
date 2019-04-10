@@ -1,0 +1,75 @@
+{
+  "id": 1293558887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33036,17.2256,43.33036,17.2256",
+    "geom:latitude":17.2256,
+    "geom:longitude":43.33036,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Suq ath Thuluth",
+    "gn:country_code":"YE",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345793,
+    "gn:latitude":17.2256,
+    "gn:longitude":43.33036,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u016bq ath Thul\u016bth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u062b\u0644\u0648\u062b"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq ath Thul\u016bth Shawdh\u0101n",
+        "S\u016bq ath Thul\u016bth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345793
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"acdab86557ac69d6df13fa516f1b3b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1293558887,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293558887,
+    "wof:lastmodified":1537715568,
+    "wof:name":"Suq ath Thuluth",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33036,
+    17.2256,
+    43.33036,
+    17.2256
+],
+  "geometry": {"coordinates":[43.33036,17.2256],"type":"Point"}
+}

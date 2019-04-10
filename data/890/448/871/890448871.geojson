@@ -1,0 +1,76 @@
+{
+  "id": 890448871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44959,17.21924,43.44959,17.21924",
+    "geom:latitude":17.21924,
+    "geom:longitude":43.44959,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l R\u0101bi\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0631\u0627\u0628\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rabih"
+    ],
+    "qs:name":"\u0100l R\u0101bi\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866897,
+        "gp:id":1959094,
+        "qs:id":743071,
+        "wd:id":"Q20299346"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052649,
+    "wof:geomhash":"fb753873f08a7da6fd681969514b556b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":890448871,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448871,
+    "wof:lastmodified":1514503389,
+    "wof:name":"\u0100l R\u0101bi\u1e29",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44959,
+    17.21924,
+    43.44959,
+    17.21924
+],
+  "geometry": {"coordinates":[43.44959,17.21924],"type":"Point"}
+}

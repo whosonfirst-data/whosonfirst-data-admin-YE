@@ -1,0 +1,71 @@
+{
+  "id": 1360180511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38133,15.52968,43.38133,15.52968",
+    "geom:latitude":15.52968,
+    "geom:longitude":43.38133,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Mahall al Qarah",
+    "gn:country_code":"YE",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365528,
+    "gn:latitude":15.52968,
+    "gn:longitude":43.38133,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ma\u1e29all al Q\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all al Q\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365528
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e11b460de3c0f77ed0d0471a1e2b0955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1360180511,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1360180511,
+    "wof:lastmodified":1537715933,
+    "wof:name":"Mahall al Qarah",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38133,
+    15.52968,
+    43.38133,
+    15.52968
+],
+  "geometry": {"coordinates":[43.38133,15.52968],"type":"Point"}
+}

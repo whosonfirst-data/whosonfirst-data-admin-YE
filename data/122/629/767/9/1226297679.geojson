@@ -1,0 +1,71 @@
+{
+  "id": 1226297679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06917,13.19167,44.06917,13.19167",
+    "geom:latitude":13.19167,
+    "geom:longitude":44.06917,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Dalqayan",
+    "gn:country_code":"YE",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76574,
+    "gn:latitude":13.19167,
+    "gn:longitude":44.06917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dalqay\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalqay\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76574
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cde8bd2c3a2d5ad2398d327471385edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1226297679,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226297679,
+    "wof:lastmodified":1537715205,
+    "wof:name":"Dalqayan",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06917,
+    13.19167,
+    44.06917,
+    13.19167
+],
+  "geometry": {"coordinates":[44.06917,13.19167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276322059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.53832,15.48942,43.53832,15.48942",
+    "geom:latitude":15.48942,
+    "geom:longitude":43.53832,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bayt al `Abbasi",
+    "gn:country_code":"YE",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360615,
+    "gn:latitude":15.48942,
+    "gn:longitude":43.53832,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u2018Abb\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u2018Abb\u0101s\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360615
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8dddbef5ca4cdb3efa9b4e65c3df5e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1276322059,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1276322059,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt al `Abbasi",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.53832,
+    15.48942,
+    43.53832,
+    15.48942
+],
+  "geometry": {"coordinates":[43.53832,15.48942],"type":"Point"}
+}

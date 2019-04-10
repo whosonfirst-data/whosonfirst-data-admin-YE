@@ -1,0 +1,75 @@
+{
+  "id": 1277108553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.80669,16.19962,47.80669,16.19962",
+    "geom:latitude":16.19962,
+    "geom:longitude":47.80669,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1905.0",
+    "gn:asciiname":"Ar Rumaydah",
+    "gn:country_code":"YE",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78072,
+    "gn:latitude":16.19962,
+    "gn:longitude":47.80669,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ar Rumaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al-Rumaidah",
+        "Ar Rumaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78072
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4b760b0a66a132480afdd43adcb81a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1277108553,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1277108553,
+    "wof:lastmodified":1537715245,
+    "wof:name":"Ar Rumaydah",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80669,
+    16.19962,
+    47.80669,
+    16.19962
+],
+  "geometry": {"coordinates":[47.80669,16.19962],"type":"Point"}
+}

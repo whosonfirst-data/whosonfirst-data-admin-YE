@@ -1,0 +1,75 @@
+{
+  "id": 1293467023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43199,14.47207,44.43199,14.47207",
+    "geom:latitude":14.47207,
+    "geom:longitude":44.43199,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Al Qaryah as Sufla",
+    "gn:country_code":"YE",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408245,
+    "gn:latitude":14.47207,
+    "gn:longitude":44.43199,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Qaryah as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Num\u0101rah",
+        "Al Qaryah as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408245
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"54aa07b1f83fe954cbe61a969bf25040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1293467023,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293467023,
+    "wof:lastmodified":1537715415,
+    "wof:name":"Al Qaryah as Sufla",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43199,
+    14.47207,
+    44.43199,
+    14.47207
+],
+  "geometry": {"coordinates":[44.43199,14.47207],"type":"Point"}
+}

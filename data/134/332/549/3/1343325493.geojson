@@ -1,0 +1,71 @@
+{
+  "id": 1343325493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79449,15.1319,44.79449,15.1319",
+    "geom:latitude":15.1319,
+    "geom:longitude":44.79449,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2314.0",
+    "gn:asciiname":"Al Ukayhil",
+    "gn:country_code":"YE",
+    "gn:dem":2121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341818,
+    "gn:latitude":15.1319,
+    "gn:longitude":44.79449,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ukay\u1e29il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ukay\u1e29il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341818
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bbebe24ac1b05e5e2a13e49e5c893657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925737,
+            "locality_id":1343325493,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343325493,
+    "wof:lastmodified":1537715491,
+    "wof:name":"Al Ukayhil",
+    "wof:parent_id":1091925737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79449,
+    15.1319,
+    44.79449,
+    15.1319
+],
+  "geometry": {"coordinates":[44.79449,15.1319],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344045299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28333,14.8,44.28333,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":44.28333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Tilhamah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70005,
+    "gn:latitude":14.8,
+    "gn:longitude":44.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162il\u1e29\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162ala\u1e29\u0101mah",
+        "\u0162il\u1e29\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70005
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b1a8b4b4756d7c70b39112ef4c90f1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922371,
+            "locality_id":1344045299,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1344045299,
+    "wof:lastmodified":1537715070,
+    "wof:name":"Tilhamah",
+    "wof:parent_id":1091922371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28333,
+    14.8,
+    44.28333,
+    14.8
+],
+  "geometry": {"coordinates":[44.28333,14.8],"type":"Point"}
+}

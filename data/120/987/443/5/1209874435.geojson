@@ -1,0 +1,71 @@
+{
+  "id": 1209874435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34298,15.97648,43.34298,15.97648",
+    "geom:latitude":15.97648,
+    "geom:longitude":43.34298,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1712.0",
+    "gn:asciiname":"As Sakit",
+    "gn:country_code":"YE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366187,
+    "gn:latitude":15.97648,
+    "gn:longitude":43.34298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As S\u0101kit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As S\u0101kit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366187
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a8534d06938bd21b9420337224d07dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":1209874435,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209874435,
+    "wof:lastmodified":1537715948,
+    "wof:name":"As Sakit",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34298,
+    15.97648,
+    43.34298,
+    15.97648
+],
+  "geometry": {"coordinates":[43.34298,15.97648],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343415917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02992,13.35067,44.02992,13.35067",
+    "geom:latitude":13.35067,
+    "geom:longitude":44.02992,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1521.0",
+    "gn:asciiname":"Al Kadhiyah",
+    "gn:country_code":"YE",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354748,
+    "gn:latitude":13.35067,
+    "gn:longitude":44.02992,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al K\u0101dh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al K\u0101dh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354748
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a567efdbd9c60c8f3b50cc97fd48c829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926297,
+            "locality_id":1343415917,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343415917,
+    "wof:lastmodified":1537715621,
+    "wof:name":"Al Kadhiyah",
+    "wof:parent_id":1091926297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02992,
+    13.35067,
+    44.02992,
+    13.35067
+],
+  "geometry": {"coordinates":[44.02992,13.35067],"type":"Point"}
+}

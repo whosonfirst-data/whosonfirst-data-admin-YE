@@ -1,0 +1,77 @@
+{
+  "id": 1310062153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22028,16.74652,44.22028,16.74652",
+    "geom:latitude":16.74652,
+    "geom:longitude":44.22028,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Al `Amir",
+    "gn:country_code":"YE",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362889,
+    "gn:latitude":16.74652,
+    "gn:longitude":44.22028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018\u0100mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018\u0100mir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u2018\u0100mir A\u2018l\u00e1 Jaw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362889
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"51d96b88ae9f5804323dd4642ba3a70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":1310062153,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1310062153,
+    "wof:lastmodified":1537715857,
+    "wof:name":"Al `Amir",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22028,
+    16.74652,
+    44.22028,
+    16.74652
+],
+  "geometry": {"coordinates":[44.22028,16.74652],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209973009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48257,16.03983,43.48257,16.03983",
+    "geom:latitude":16.03983,
+    "geom:longitude":43.48257,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Qal'ah wa al Mu'aytin",
+    "gn:country_code":"YE",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681911,
+    "gn:latitude":16.03983,
+    "gn:longitude":43.48257,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qal\u2018ah wa al Mu\u2018ay\u0163in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629 \u0648 \u0627\u0644\u0645\u0639\u064a\u0637\u0640\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qal\u2018ah wa al Mu\u2018ay\u0163in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681911
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52b6480dfe77e2417f20becfeb79ebf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924033,
+            "locality_id":1209973009,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209973009,
+    "wof:lastmodified":1537715984,
+    "wof:name":"Al Qal'ah wa al Mu'aytin",
+    "wof:parent_id":1091924033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48257,
+    16.03983,
+    43.48257,
+    16.03983
+],
+  "geometry": {"coordinates":[43.48257,16.03983],"type":"Point"}
+}

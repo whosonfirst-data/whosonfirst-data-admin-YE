@@ -1,0 +1,71 @@
+{
+  "id": 1343815001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93333,13.25,43.93333,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":43.93333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Duqm al Ghurab",
+    "gn:country_code":"YE",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75917,
+    "gn:latitude":13.25,
+    "gn:longitude":43.93333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Duqm al Ghur\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duqm al Ghur\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75917
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f842fb02d1f4bf5fa6590eafa007a8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1343815001,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1343815001,
+    "wof:lastmodified":1537715184,
+    "wof:name":"Duqm al Ghurab",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93333,
+    13.25,
+    43.93333,
+    13.25
+],
+  "geometry": {"coordinates":[43.93333,13.25],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293172395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62694,15.05194,43.62694,15.05194",
+    "geom:latitude":15.05194,
+    "geom:longitude":43.62694,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Qarn Hashim",
+    "gn:country_code":"YE",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402430,
+    "gn:latitude":15.05194,
+    "gn:longitude":43.62694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qarn H\u0101shim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarn H\u0101shim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402430,
+        "wk:page":"Qarn_Hashim"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec39f4a33df9b9c20fb3f44f7a301d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1293172395,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1293172395,
+    "wof:lastmodified":1537715355,
+    "wof:name":"Qarn Hashim",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62694000000001,
+    15.05194,
+    43.62694000000001,
+    15.05194
+],
+  "geometry": {"coordinates":[43.62694000000001,15.05194],"type":"Point"}
+}

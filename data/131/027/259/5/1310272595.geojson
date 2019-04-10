@@ -1,0 +1,77 @@
+{
+  "id": 1310272595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90448,13.18704,43.90448,13.18704",
+    "geom:latitude":13.18704,
+    "geom:longitude":43.90448,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Ash Sha'b",
+    "gn:country_code":"YE",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071387,
+    "gn:latitude":13.18704,
+    "gn:longitude":43.90448,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Sha\u2018b",
+    "gn:population":2,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ash Sha\u2018b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071387
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"55563973c70a3146588768fe82467767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1310272595,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1310272595,
+    "wof:lastmodified":1537716016,
+    "wof:name":"Ash Sha'b",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90448,
+    13.18704,
+    43.90448,
+    13.18704
+],
+  "geometry": {"coordinates":[43.90448,13.18704],"type":"Point"}
+}

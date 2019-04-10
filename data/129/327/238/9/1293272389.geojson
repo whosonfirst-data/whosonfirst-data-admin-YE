@@ -1,0 +1,71 @@
+{
+  "id": 1293272389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14933,14.51997,44.14933,14.51997",
+    "geom:latitude":14.51997,
+    "geom:longitude":44.14933,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"As Sayyid",
+    "gn:country_code":"YE",
+    "gn:dem":2665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361265,
+    "gn:latitude":14.51997,
+    "gn:longitude":44.14933,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u015f \u015eayyid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361265
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"549b3a6715c4c6f9f3974b0aad9dc996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922403,
+            "locality_id":1293272389,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293272389,
+    "wof:lastmodified":1537715816,
+    "wof:name":"As Sayyid",
+    "wof:parent_id":1091922403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14933,
+    14.51997,
+    44.14933,
+    14.51997
+],
+  "geometry": {"coordinates":[44.14933,14.51997],"type":"Point"}
+}

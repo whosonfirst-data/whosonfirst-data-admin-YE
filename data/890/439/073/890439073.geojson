@@ -1,0 +1,73 @@
+{
+  "id": 890439073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25853,16.93509,43.25853,16.93509",
+    "geom:latitude":16.93509,
+    "geom:longitude":43.25853,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Sawdan"
+    ],
+    "qs:name":"Bayt Sawd\u0101n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927025,
+        "gp:id":1958992,
+        "qs:id":745362,
+        "wd:id":"Q20300630"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052220,
+    "wof:geomhash":"5c2fb237a568d2a73590c03de42541c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":890439073,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890439073,
+    "wof:lastmodified":1514503246,
+    "wof:name":"Bayt Sawd\u0101n",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25853,
+    16.93509,
+    43.25853,
+    16.93509
+],
+  "geometry": {"coordinates":[43.25853,16.93509],"type":"Point"}
+}

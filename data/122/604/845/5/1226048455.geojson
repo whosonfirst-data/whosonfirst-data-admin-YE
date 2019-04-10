@@ -1,0 +1,72 @@
+{
+  "id": 1226048455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4225,15.025,50.4225,15.025",
+    "geom:latitude":15.025,
+    "geom:longitude":50.4225,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Sarar",
+    "gn:country_code":"YE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71085,
+    "gn:latitude":15.025,
+    "gn:longitude":50.4225,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Sar\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u0101r",
+        "Sir\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71085
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"acc624485ad1f5756dd14a82e7e50504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922781,
+            "locality_id":1226048455,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226048455,
+    "wof:lastmodified":1537715089,
+    "wof:name":"Sarar",
+    "wof:parent_id":1091922781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4225,
+    15.025,
+    50.4225,
+    15.025
+],
+  "geometry": {"coordinates":[50.4225,15.025],"type":"Point"}
+}

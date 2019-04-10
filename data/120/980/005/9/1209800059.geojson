@@ -1,0 +1,74 @@
+{
+  "id": 1209800059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36821,15.00043,43.36821,15.00043",
+    "geom:latitude":15.00043,
+    "geom:longitude":43.36821,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall al Makban",
+    "gn:country_code":"YE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036524,
+    "gn:latitude":15.00043,
+    "gn:longitude":43.36821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al Makban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u0645\u0643\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al Makban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036524
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c32b3c267b0fdc214a8ae0274adefff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1209800059,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1209800059,
+    "wof:lastmodified":1537716325,
+    "wof:name":"Mahall al Makban",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36821,
+    15.00043,
+    43.36821,
+    15.00043
+],
+  "geometry": {"coordinates":[43.36821,15.00043],"type":"Point"}
+}

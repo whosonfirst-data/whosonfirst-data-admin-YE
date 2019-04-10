@@ -1,0 +1,77 @@
+{
+  "id": 1310656967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35867,16.20294,43.35867,16.20294",
+    "geom:latitude":16.20294,
+    "geom:longitude":43.35867,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"Al Khira'ib",
+    "gn:country_code":"YE",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633116,
+    "gn:latitude":16.20294,
+    "gn:longitude":43.35867,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khir\u0101\u2019ib",
+    "gn:population":25,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Khir\u0101\u2019ib"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0631\u0627\u0626\u0628"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633116
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1f3cd8546b703357f06b497bb0b1b354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1310656967,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310656967,
+    "wof:lastmodified":1537715977,
+    "wof:name":"Al Khira'ib",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35867,
+    16.20294,
+    43.35867,
+    16.20294
+],
+  "geometry": {"coordinates":[43.35867,16.20294],"type":"Point"}
+}

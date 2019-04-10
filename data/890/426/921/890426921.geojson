@@ -1,0 +1,73 @@
+{
+  "id": 890426921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28011,14.77188,45.28011,14.77188",
+    "geom:latitude":14.77188,
+    "geom:longitude":45.28011,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062c\u064a\u062d\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ujayhar"
+    ],
+    "qs:name":"Al Ujay\u1e29\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053288,
+        "gp:id":1958975,
+        "qs:id":751716,
+        "wd:id":"Q20299809"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051658,
+    "wof:geomhash":"da676c8eafef65a85f55aa67877a6bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890426921,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890426921,
+    "wof:lastmodified":1514503201,
+    "wof:name":"Al Ujay\u1e29\u0101r",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28011,
+    14.77188,
+    45.28011,
+    14.77188
+],
+  "geometry": {"coordinates":[45.28011,14.77188],"type":"Point"}
+}

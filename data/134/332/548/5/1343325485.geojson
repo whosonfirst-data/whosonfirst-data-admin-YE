@@ -1,0 +1,71 @@
+{
+  "id": 1343325485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48691,15.4891,44.48691,15.4891",
+    "geom:latitude":15.4891,
+    "geom:longitude":44.48691,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Bani Zumah",
+    "gn:country_code":"YE",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342001,
+    "gn:latitude":15.4891,
+    "gn:longitude":44.48691,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban\u012b Z\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Z\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2415007c47a505e051c8c12eec948de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1343325485,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343325485,
+    "wof:lastmodified":1537715492,
+    "wof:name":"Bani Zumah",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48691,
+    15.4891,
+    44.48691,
+    15.4891
+],
+  "geometry": {"coordinates":[44.48691,15.4891],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277135465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38235,16.75407,44.38235,16.75407",
+    "geom:latitude":16.75407,
+    "geom:longitude":44.38235,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1611.0",
+    "gn:asciiname":"Al Malah",
+    "gn:country_code":"YE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362825,
+    "gn:latitude":16.75407,
+    "gn:longitude":44.38235,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al Mala\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Mala\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362825
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0dc6a09fd67c1a8a84f4b6bfce0a95f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920841,
+            "locality_id":1277135465,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1277135465,
+    "wof:lastmodified":1537715856,
+    "wof:name":"Al Malah",
+    "wof:parent_id":1091920841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38235,
+    16.75407,
+    44.38235,
+    16.75407
+],
+  "geometry": {"coordinates":[44.38235,16.75407],"type":"Point"}
+}

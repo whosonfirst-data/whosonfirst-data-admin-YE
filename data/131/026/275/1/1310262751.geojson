@@ -1,0 +1,74 @@
+{
+  "id": 1310262751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19712,14.26813,44.19712,14.26813",
+    "geom:latitude":14.26813,
+    "geom:longitude":44.19712,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Dar Dhi Sharbah",
+    "gn:country_code":"YE",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870294,
+    "gn:latitude":14.26813,
+    "gn:longitude":44.19712,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r Dh\u012b Sharbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0630\u064a \u0634\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Dh\u012b Sharbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870294
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d87fb925b32f5eb4515655b70d9a8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1310262751,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310262751,
+    "wof:lastmodified":1537716217,
+    "wof:name":"Dar Dhi Sharbah",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19712,
+    14.26813,
+    44.19712,
+    14.26813
+],
+  "geometry": {"coordinates":[44.19712,14.26813],"type":"Point"}
+}

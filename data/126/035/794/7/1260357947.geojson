@@ -1,0 +1,75 @@
+{
+  "id": 1260357947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26681,14.20111,44.26681,14.20111",
+    "geom:latitude":14.20111,
+    "geom:longitude":44.26681,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Dhi Sayr",
+    "gn:country_code":"YE",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359564,
+    "gn:latitude":14.20111,
+    "gn:longitude":44.26681,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Dh\u012b \u015eayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u064a \u0635\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dh\u012b \u015eayyir",
+        "Dh\u012b \u015eayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359564
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f47ab1ae9881c5dfff1b0de7b8373294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924377,
+            "locality_id":1260357947,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260357947,
+    "wof:lastmodified":1537715768,
+    "wof:name":"Dhi Sayr",
+    "wof:parent_id":1091924377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26681,
+    14.20111,
+    44.26681,
+    14.20111
+],
+  "geometry": {"coordinates":[44.26681,14.20111],"type":"Point"}
+}

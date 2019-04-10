@@ -1,0 +1,80 @@
+{
+  "id": 890413881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09452,17.0152,44.09452,17.0152",
+    "geom:latitude":17.0152,
+    "geom:longitude":44.09452,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u2018Uly\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al 'Ulya"
+    ],
+    "qs:name":"Al \u2018Uly\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053529,
+        "gp:id":1959086,
+        "qs:id":700357,
+        "qs_pg:id":751944,
+        "wd:id":"Q20303042"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051018,
+    "wof:geomhash":"dedb5fa81c732662ab3c8162af1350e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890413881,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413881,
+    "wof:lastmodified":1514503212,
+    "wof:name":"Al \u2018Uly\u0101",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09452,
+    17.0152,
+    44.09452,
+    17.0152
+],
+  "geometry": {"coordinates":[44.09452,17.0152],"type":"Point"}
+}

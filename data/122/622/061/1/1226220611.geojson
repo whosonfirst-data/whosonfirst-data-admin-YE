@@ -1,0 +1,71 @@
+{
+  "id": 1226220611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3632,15.4847,43.3632,15.4847",
+    "geom:latitude":15.4847,
+    "geom:longitude":43.3632,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Bayt al Qutayfi",
+    "gn:country_code":"YE",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364964,
+    "gn:latitude":15.4847,
+    "gn:longitude":43.3632,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bayt al Qu\u0163ayf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Qu\u0163ayf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364964
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"255273be706dd2fd54246e79bb6cb33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1226220611,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1226220611,
+    "wof:lastmodified":1537715914,
+    "wof:name":"Bayt al Qutayfi",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3632,
+    15.4847,
+    43.3632,
+    15.4847
+],
+  "geometry": {"coordinates":[43.3632,15.4847],"type":"Point"}
+}

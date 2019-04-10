@@ -1,0 +1,75 @@
+{
+  "id": 1242836923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59748,14.1273,44.59748,14.1273",
+    "geom:latitude":14.1273,
+    "geom:longitude":44.59748,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"`Urayban",
+    "gn:country_code":"YE",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340322,
+    "gn:latitude":14.1273,
+    "gn:longitude":44.59748,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"\u2018Urayb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u064a\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arjab\u0101n",
+        "\u2018Urayb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340322
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"823d12150ade48ffb42b0ed7d1600773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919725,
+            "locality_id":1242836923,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1242836923,
+    "wof:lastmodified":1537715445,
+    "wof:name":"`Urayban",
+    "wof:parent_id":1091919725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59748,
+    14.1273,
+    44.59748,
+    14.1273
+],
+  "geometry": {"coordinates":[44.59748,14.1273],"type":"Point"}
+}

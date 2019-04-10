@@ -1,0 +1,74 @@
+{
+  "id": 1310287775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18119,17.14804,44.18119,17.14804",
+    "geom:latitude":17.14804,
+    "geom:longitude":44.18119,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al `llayyayn",
+    "gn:country_code":"YE",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345111,
+    "gn:latitude":17.14804,
+    "gn:longitude":44.18119,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018llayyayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018llayyayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345111
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2b8486fc4c25853826aa149af32a3b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":1310287775,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310287775,
+    "wof:lastmodified":1537715552,
+    "wof:name":"Al `llayyayn",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18119,
+    17.14804,
+    44.18119,
+    17.14804
+],
+  "geometry": {"coordinates":[44.18119,17.14804],"type":"Point"}
+}

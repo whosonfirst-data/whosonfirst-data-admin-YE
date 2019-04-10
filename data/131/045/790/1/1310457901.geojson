@@ -1,0 +1,74 @@
+{
+  "id": 1310457901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14119,14.30865,44.14119,14.30865",
+    "geom:latitude":14.30865,
+    "geom:longitude":44.14119,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Kawlat al Muqham",
+    "gn:country_code":"YE",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870499,
+    "gn:latitude":14.30865,
+    "gn:longitude":44.14119,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawlat al Muq\u1e29am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0629 \u0627\u0644\u0645\u0642\u062d\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kawlat al Muq\u1e29am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870499
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4a3d64b7277f8b77ac05e2cbae95c4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1310457901,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1310457901,
+    "wof:lastmodified":1537716227,
+    "wof:name":"Kawlat al Muqham",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14119,
+    14.30865,
+    44.14119,
+    14.30865
+],
+  "geometry": {"coordinates":[44.14119,14.30865],"type":"Point"}
+}

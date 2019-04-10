@@ -1,0 +1,75 @@
+{
+  "id": 1243431661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67786,14.68181,44.67786,14.68181",
+    "geom:latitude":14.68181,
+    "geom:longitude":44.67786,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Al Hatmah",
+    "gn:country_code":"YE",
+    "gn:dem":2296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364075,
+    "gn:latitude":14.68181,
+    "gn:longitude":44.67786,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Al \u1e28a\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28u\u0163mah",
+        "Al \u1e28a\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364075
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"67d23918dd42519b9ecaef92a5939020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1243431661,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243431661,
+    "wof:lastmodified":1537715889,
+    "wof:name":"Al Hatmah",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67786,
+    14.68181,
+    44.67786,
+    14.68181
+],
+  "geometry": {"coordinates":[44.67786,14.68181],"type":"Point"}
+}

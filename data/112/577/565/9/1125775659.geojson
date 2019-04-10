@@ -1,0 +1,81 @@
+{
+  "id": 1125775659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20604,16.6446,43.20604,16.6446",
+    "geom:latitude":16.6446,
+    "geom:longitude":43.20604,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"YE",
+    "lbl:latitude":16.6446,
+    "lbl:longitude":43.20604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062d\u062c\u0634"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":8079403,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Bayt al \u1e28ajash",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":754786,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079403,
+        "qs_pg:id":754786
+    },
+    "wof:country":"YE",
+    "wof:created":1497290245,
+    "wof:geomhash":"73dc31acc800d098e1e069fa79398364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1125775659,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125775659,
+    "wof:lastmodified":1509391259,
+    "wof:name":"Bayt al \u1e28ajash",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20604,
+    16.6446,
+    43.20604,
+    16.6446
+],
+  "geometry": {"coordinates":[43.20604,16.6446],"type":"Point"}
+}

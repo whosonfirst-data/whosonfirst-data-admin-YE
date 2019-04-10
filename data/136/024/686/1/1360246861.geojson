@@ -1,0 +1,68 @@
+{
+  "id": 1360246861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0625,16.46667,44.0625,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":44.0625,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Kawlah",
+    "gn:country_code":"YE",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34781,
+    "gn:latitude":16.46667,
+    "gn:longitude":44.0625,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Kawlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34781
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f98aead99f075510c2ed33a599a62ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1360246861,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1360246861,
+    "wof:lastmodified":1536712696,
+    "wof:name":"Al Kawlah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0625,
+    16.46667,
+    44.0625,
+    16.46667
+],
+  "geometry": {"coordinates":[44.0625,16.46667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276748131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97162,15.27704,42.97162,15.27704",
+    "geom:latitude":15.27704,
+    "geom:longitude":42.97162,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"`Ali Ahmad",
+    "gn:country_code":"YE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414177,
+    "gn:latitude":15.27704,
+    "gn:longitude":42.97162,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u2018Al\u012b A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Dayr al Q\u0101dir\u012b",
+        "\u2018Al\u012b A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414177
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7387184fad978bd2e598ad1c1e380e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1276748131,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276748131,
+    "wof:lastmodified":1537715431,
+    "wof:name":"`Ali Ahmad",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97162,
+    15.27704,
+    42.97162,
+    15.27704
+],
+  "geometry": {"coordinates":[42.97162,15.27704],"type":"Point"}
+}

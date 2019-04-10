@@ -1,0 +1,69 @@
+{
+  "id": 890424623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26153,16.2175,43.26153,16.2175",
+    "geom:latitude":16.2175,
+    "geom:longitude":43.26153,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0634\u0629"
+    ],
+    "qs:name":"Al \u2018Amishah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631945,
+        "gp:id":1953570,
+        "qs:id":694783
+    },
+    "wof:country":"YE",
+    "wof:created":1469051552,
+    "wof:geomhash":"5eba00002750c9c8b6ca927f0aee1230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890424623,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424623,
+    "wof:lastmodified":1505343482,
+    "wof:name":"Al \u2018Amishah",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26153,
+    16.2175,
+    43.26153,
+    16.2175
+],
+  "geometry": {"coordinates":[43.26153,16.2175],"type":"Point"}
+}

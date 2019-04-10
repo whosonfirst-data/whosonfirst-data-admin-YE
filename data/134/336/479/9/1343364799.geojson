@@ -1,0 +1,71 @@
+{
+  "id": 1343364799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0,16.05,49.0,16.05",
+    "geom:latitude":16.05,
+    "geom:longitude":49.0,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Al Hawi",
+    "gn:country_code":"YE",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79486,
+    "gn:latitude":16.05,
+    "gn:longitude":49.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79486
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1c68fa6f6e9b48a2629c4ba6f4fbcd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1343364799,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343364799,
+    "wof:lastmodified":1537715304,
+    "wof:name":"Al Hawi",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0,
+    16.05,
+    49.0,
+    16.05
+],
+  "geometry": {"coordinates":[49.0,16.05],"type":"Point"}
+}

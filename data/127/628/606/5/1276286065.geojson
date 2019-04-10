@@ -1,0 +1,77 @@
+{
+  "id": 1276286065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64942,13.38197,43.64942,13.38197",
+    "geom:latitude":13.38197,
+    "geom:longitude":43.64942,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1508.0",
+    "gn:asciiname":"Al `Uraysh",
+    "gn:country_code":"YE",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69809,
+    "gn:latitude":13.38197,
+    "gn:longitude":43.64942,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Uraysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uraysh",
+        "Uraish",
+        "\u2018Arish",
+        "\u2018Uraysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69809
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"799a3aefe5ec7363a952c3cda92fefdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":1276286065,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1276286065,
+    "wof:lastmodified":1537715066,
+    "wof:name":"Al `Uraysh",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64942,
+    13.38197,
+    43.64942,
+    13.38197
+],
+  "geometry": {"coordinates":[43.64942,13.38197],"type":"Point"}
+}

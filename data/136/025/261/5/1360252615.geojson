@@ -1,0 +1,90 @@
+{
+  "id": 1360252615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24991,13.31814,43.24991,13.31814",
+    "geom:latitude":13.31814,
+    "geom:longitude":43.24991,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Mocha",
+    "gn:country_code":"YE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78751,
+    "gn:latitude":13.31814,
+    "gn:longitude":43.24991,
+    "gn:modification_date":"2011-02-12",
+    "gn:name":"Mocha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mukh\u0101"
+    ],
+    "name:deu_x_preferred":[
+        "Mokka"
+    ],
+    "name:eng_x_preferred":[
+        "Mocha"
+    ],
+    "name:fra_x_preferred":[
+        "Mokha"
+    ],
+    "name:por_x_preferred":[
+        "Mocha"
+    ],
+    "name:spa_x_preferred":[
+        "Moca"
+    ],
+    "name:und_x_variant":[
+        "Mukha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78751,
+        "wk:page":"Mocha%2C_Yemen"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0a08be423ca16e9430a044fc05bfd904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926373,
+            "locality_id":1360252615,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360252615,
+    "wof:lastmodified":1537715271,
+    "wof:name":"Mocha",
+    "wof:parent_id":1091926373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24991,
+    13.31814,
+    43.24991,
+    13.31814
+],
+  "geometry": {"coordinates":[43.24991,13.31814],"type":"Point"}
+}

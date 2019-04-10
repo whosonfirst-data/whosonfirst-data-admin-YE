@@ -1,0 +1,74 @@
+{
+  "id": 1327192523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24982,16.58143,44.24982,16.58143",
+    "geom:latitude":16.58143,
+    "geom:longitude":44.24982,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Bi'r Hamus",
+    "gn:country_code":"YE",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794868,
+    "gn:latitude":16.58143,
+    "gn:longitude":44.24982,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bi\u2019r Ham\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0647\u0645\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r Ham\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794868
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"05d931bb4b1e432e144124ab211b2d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1327192523,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327192523,
+    "wof:lastmodified":1537715996,
+    "wof:name":"Bi'r Hamus",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24982,
+    16.58142999999999,
+    44.24982,
+    16.58142999999999
+],
+  "geometry": {"coordinates":[44.24982,16.58142999999999],"type":"Point"}
+}

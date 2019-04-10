@@ -1,0 +1,74 @@
+{
+  "id": 1243141841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79096,17.0952,43.79096,17.0952",
+    "geom:latitude":17.0952,
+    "geom:longitude":43.79096,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Awa`il",
+    "gn:country_code":"YE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345347,
+    "gn:latitude":17.0952,
+    "gn:longitude":43.79096,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Aw\u0101\u2018il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aw\u0101\u2018il"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0627\u0639\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345347
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9bb16290eb17addbe366fca0303d7919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1243141841,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243141841,
+    "wof:lastmodified":1537715557,
+    "wof:name":"Awa`il",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79096,
+    17.0952,
+    43.79096,
+    17.0952
+],
+  "geometry": {"coordinates":[43.79096,17.0952],"type":"Point"}
+}

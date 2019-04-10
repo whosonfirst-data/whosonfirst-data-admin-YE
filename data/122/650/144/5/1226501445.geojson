@@ -1,0 +1,69 @@
+{
+  "id": 1226501445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62607,14.71572,45.62607,14.71572",
+    "geom:latitude":14.71572,
+    "geom:longitude":45.62607,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Al Akhf",
+    "gn:country_code":"YE",
+    "gn:dem":1241,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80006,
+    "gn:latitude":14.71572,
+    "gn:longitude":45.62607,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Akhf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80006
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8433ef191ae72650a35a5556cc32a55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1226501445,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1226501445,
+    "wof:lastmodified":1537059443,
+    "wof:name":"Al Akhf",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62607,
+    14.71572,
+    45.62607,
+    14.71572
+],
+  "geometry": {"coordinates":[45.62607,14.71572],"type":"Point"}
+}

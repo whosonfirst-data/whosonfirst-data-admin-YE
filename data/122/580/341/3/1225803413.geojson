@@ -1,0 +1,71 @@
+{
+  "id": 1225803413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52563,15.65747,43.52563,15.65747",
+    "geom:latitude":15.65747,
+    "geom:longitude":43.52563,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1726.0",
+    "gn:asciiname":"Bayt Tafyan",
+    "gn:country_code":"YE",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344182,
+    "gn:latitude":15.65747,
+    "gn:longitude":43.52563,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u0162afy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u0162afy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344182
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"918206768b0ec5a32b49b6880c0f77db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924177,
+            "locality_id":1225803413,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1225803413,
+    "wof:lastmodified":1537715531,
+    "wof:name":"Bayt Tafyan",
+    "wof:parent_id":1091924177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52563,
+    15.65747,
+    43.52563,
+    15.65747
+],
+  "geometry": {"coordinates":[43.52563,15.65747],"type":"Point"}
+}

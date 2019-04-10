@@ -1,0 +1,71 @@
+{
+  "id": 1309973731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04226,13.33371,44.04226,13.33371",
+    "geom:latitude":13.33371,
+    "geom:longitude":44.04226,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1522.0",
+    "gn:asciiname":"Qaryat al `Assar",
+    "gn:country_code":"YE",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355013,
+    "gn:latitude":13.33371,
+    "gn:longitude":44.04226,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al \u2018A\u015f\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al \u2018A\u015f\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355013
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a66d7ab2f681561982d1cca73be4aa7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926325,
+            "locality_id":1309973731,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309973731,
+    "wof:lastmodified":1537715627,
+    "wof:name":"Qaryat al `Assar",
+    "wof:parent_id":1091926325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04226,
+    13.33371,
+    44.04226,
+    13.33371
+],
+  "geometry": {"coordinates":[44.04226,13.33371],"type":"Point"}
+}

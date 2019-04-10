@@ -1,0 +1,74 @@
+{
+  "id": 1276646061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21722,15.42907,43.21722,15.42907",
+    "geom:latitude":15.42907,
+    "geom:longitude":43.21722,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Al Jarab ash Sharqi Bani Ghazi",
+    "gn:country_code":"YE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036058,
+    "gn:latitude":15.42907,
+    "gn:longitude":43.21722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jarab ash Sharq\u012b Ban\u012b Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0628 \u0627\u0644\u0634\u0631\u0642\u064a \u0628\u0646\u064a \u063a\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Jarab ash Sharq\u012b Ban\u012b Gh\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036058
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e889a79174c40e63f09d0beb14d7be1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1276646061,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276646061,
+    "wof:lastmodified":1537716309,
+    "wof:name":"Al Jarab ash Sharqi Bani Ghazi",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21722000000001,
+    15.42907,
+    43.21722000000001,
+    15.42907
+],
+  "geometry": {"coordinates":[43.21722000000001,15.42907],"type":"Point"}
+}

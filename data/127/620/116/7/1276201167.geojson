@@ -1,0 +1,71 @@
+{
+  "id": 1276201167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11667,15.83333,44.11667,15.83333",
+    "geom:latitude":15.83333,
+    "geom:longitude":44.11667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"`Araqah",
+    "gn:country_code":"YE",
+    "gn:dem":2375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78253,
+    "gn:latitude":15.83333,
+    "gn:longitude":44.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Araqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Araqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78253
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dbbaa056fee67fdfdd67c2aef393e5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922025,
+            "locality_id":1276201167,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1276201167,
+    "wof:lastmodified":1537715253,
+    "wof:name":"`Araqah",
+    "wof:parent_id":1091922025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11667,
+    15.83333,
+    44.11667,
+    15.83333
+],
+  "geometry": {"coordinates":[44.11667,15.83333],"type":"Point"}
+}

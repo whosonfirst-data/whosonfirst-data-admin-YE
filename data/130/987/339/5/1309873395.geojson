@@ -1,0 +1,71 @@
+{
+  "id": 1309873395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33085,13.39584,44.33085,13.39584",
+    "geom:latitude":13.39584,
+    "geom:longitude":44.33085,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1513.0",
+    "gn:asciiname":"Habil Maqtar",
+    "gn:country_code":"YE",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355139,
+    "gn:latitude":13.39584,
+    "gn:longitude":44.33085,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ab\u012bl Maq\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ab\u012bl Maq\u0163ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355139
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf9f28e15a9cd173c8336eb300d759d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926525,
+            "locality_id":1309873395,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1309873395,
+    "wof:lastmodified":1537715630,
+    "wof:name":"Habil Maqtar",
+    "wof:parent_id":1091926525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33085,
+    13.39584,
+    44.33085,
+    13.39584
+],
+  "geometry": {"coordinates":[44.33085,13.39584],"type":"Point"}
+}

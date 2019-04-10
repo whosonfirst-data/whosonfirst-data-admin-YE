@@ -1,0 +1,74 @@
+{
+  "id": 1243444187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07239,15.31837,43.07239,15.31837",
+    "geom:latitude":15.31837,
+    "geom:longitude":43.07239,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Mahall al Hadrami",
+    "gn:country_code":"YE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036453,
+    "gn:latitude":15.31837,
+    "gn:longitude":43.07239,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29all al \u1e28a\u1e11ram\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644 \u0627\u0644\u062d\u0636\u0631\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29all al \u1e28a\u1e11ram\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036453
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"823ac6b0dd73b1745253757323020de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1243444187,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1243444187,
+    "wof:lastmodified":1537716322,
+    "wof:name":"Mahall al Hadrami",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07239000000001,
+    15.31837,
+    43.07239000000001,
+    15.31837
+],
+  "geometry": {"coordinates":[43.07239000000001,15.31837],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890430209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4474,14.98531,45.4474,14.98531",
+    "geom:latitude":14.98531,
+    "geom:longitude":45.4474,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u064a\u0644\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuwaylif"
+    ],
+    "qs:name":"Al Khuwaylif",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053300,
+        "gp:id":1959055,
+        "qs:id":751727,
+        "wd:id":"Q20305531"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051844,
+    "wof:geomhash":"419a8bf557c89eb667b6ffeebdd8861a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890430209,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890430209,
+    "wof:lastmodified":1514503166,
+    "wof:name":"Al Khuwaylif",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4474,
+    14.98531,
+    45.4474,
+    14.98531
+],
+  "geometry": {"coordinates":[45.4474,14.98531],"type":"Point"}
+}

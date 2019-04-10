@@ -1,0 +1,73 @@
+{
+  "id": 890420019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83092,13.41197,43.83092,13.41197",
+    "geom:latitude":13.41197,
+    "geom:longitude":43.83092,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0628\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Al Barbaq"
+    ],
+    "qs:name":"Al Barbaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075776,
+        "gp:id":1957662,
+        "qs:id":754359,
+        "wd:id":"Q20304494"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051312,
+    "wof:geomhash":"67c6a514040e503a4cad23f40f5cb051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":890420019,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890420019,
+    "wof:lastmodified":1514503135,
+    "wof:name":"Al Barbaq",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83092,
+    13.41197,
+    43.83092,
+    13.41197
+],
+  "geometry": {"coordinates":[43.83092,13.41197],"type":"Point"}
+}

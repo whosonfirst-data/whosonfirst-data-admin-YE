@@ -1,0 +1,71 @@
+{
+  "id": 1326594779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59009,15.96017,43.59009,15.96017",
+    "geom:latitude":15.96017,
+    "geom:longitude":43.59009,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2907.0",
+    "gn:asciiname":"Al `Abla'",
+    "gn:country_code":"YE",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343925,
+    "gn:latitude":15.96017,
+    "gn:longitude":43.59009,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Abl\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Abl\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343925
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84378fae1981bde141937a8d288c149c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922135,
+            "locality_id":1326594779,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1326594779,
+    "wof:lastmodified":1537715522,
+    "wof:name":"Al `Abla'",
+    "wof:parent_id":1091922135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59009,
+    15.96017,
+    43.59009,
+    15.96017
+],
+  "geometry": {"coordinates":[43.59009,15.96017],"type":"Point"}
+}

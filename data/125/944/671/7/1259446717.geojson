@@ -1,0 +1,74 @@
+{
+  "id": 1259446717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57771,15.35753,44.57771,15.35753",
+    "geom:latitude":15.35753,
+    "geom:longitude":44.57771,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Bayt al Qatmah",
+    "gn:country_code":"YE",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331637,
+    "gn:latitude":15.35753,
+    "gn:longitude":44.57771,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt al Qa\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0642\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Qa\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331637
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37ed2084e5fe6099a08ad7e26cec8a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925719,
+            "locality_id":1259446717,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259446717,
+    "wof:lastmodified":1537716193,
+    "wof:name":"Bayt al Qatmah",
+    "wof:parent_id":1091925719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57771,
+    15.35753,
+    44.57771,
+    15.35753
+],
+  "geometry": {"coordinates":[44.57771,15.35753],"type":"Point"}
+}

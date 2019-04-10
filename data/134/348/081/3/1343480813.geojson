@@ -1,0 +1,71 @@
+{
+  "id": 1343480813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46231,14.91335,43.46231,14.91335",
+    "geom:latitude":14.91335,
+    "geom:longitude":43.46231,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Az Zanam",
+    "gn:country_code":"YE",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058610,
+    "gn:latitude":14.91335,
+    "gn:longitude":43.46231,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Zanam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0646\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058610
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"696337f605207fcdfa35dc76eecd4f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1343480813,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343480813,
+    "wof:lastmodified":1537716346,
+    "wof:name":"Az Zanam",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46231,
+    14.91335,
+    43.46231,
+    14.91335
+],
+  "geometry": {"coordinates":[43.46231,14.91335],"type":"Point"}
+}

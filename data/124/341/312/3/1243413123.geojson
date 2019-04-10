@@ -1,0 +1,73 @@
+{
+  "id": 1243413123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3789,14.466,44.3789,14.466",
+    "geom:latitude":14.466,
+    "geom:longitude":44.3789,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Maqbarat al Yahud",
+    "gn:country_code":"YE",
+    "gn:dem":2479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950735,
+    "gn:latitude":14.466,
+    "gn:longitude":44.3789,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Maqbarat al Yah\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0628\u0631\u0629 \u0627\u0644\u064a\u0647\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Maqbarat al Yah\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950735
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"92e7000115dddeb250abd5f04b28c22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1243413123,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243413123,
+    "wof:lastmodified":1537716286,
+    "wof:name":"Maqbarat al Yahud",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3789,
+    14.466,
+    44.3789,
+    14.466
+],
+  "geometry": {"coordinates":[44.3789,14.466],"type":"Point"}
+}

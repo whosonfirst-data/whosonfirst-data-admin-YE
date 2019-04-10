@@ -1,0 +1,74 @@
+{
+  "id": 1226125223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14001,16.90542,43.14001,16.90542",
+    "geom:latitude":16.90542,
+    "geom:longitude":43.14001,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2206.0",
+    "gn:asciiname":"Al Jibanah",
+    "gn:country_code":"YE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202918,
+    "gn:latitude":16.90542,
+    "gn:longitude":43.14001,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jib\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jib\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202918
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fe309cededb6fa482ae8570513e5a070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925595,
+            "locality_id":1226125223,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226125223,
+    "wof:lastmodified":1537716025,
+    "wof:name":"Al Jibanah",
+    "wof:parent_id":1091925595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14001,
+    16.90542,
+    43.14001,
+    16.90542
+],
+  "geometry": {"coordinates":[43.14001,16.90542],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360143287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02803,16.93507,45.02803,16.93507",
+    "geom:latitude":16.93507,
+    "geom:longitude":45.02803,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1601.0",
+    "gn:asciiname":"Al Mahjarah",
+    "gn:country_code":"YE",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7686991,
+    "gn:latitude":16.93507,
+    "gn:longitude":45.02803,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u1e29jarah",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e29jarah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686991
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"799bb7b21af3f155e91b01e1b5f57475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920775,
+            "locality_id":1360143287,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1360143287,
+    "wof:lastmodified":1537715991,
+    "wof:name":"Al Mahjarah",
+    "wof:parent_id":1091920775,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02803,
+    16.93507,
+    45.02803,
+    16.93507
+],
+  "geometry": {"coordinates":[45.02803,16.93507],"type":"Point"}
+}

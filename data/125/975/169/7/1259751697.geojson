@@ -1,0 +1,71 @@
+{
+  "id": 1259751697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58287,14.16763,44.58287,14.16763",
+    "geom:latitude":14.16763,
+    "geom:longitude":44.58287,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Al Ghayli",
+    "gn:country_code":"YE",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340304,
+    "gn:latitude":14.16763,
+    "gn:longitude":44.58287,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ghayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ghayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340304
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"aaf555184cde7d96983497461be8b0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1259751697,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1259751697,
+    "wof:lastmodified":1537715445,
+    "wof:name":"Al Ghayli",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58287,
+    14.16763,
+    44.58287,
+    14.16763
+],
+  "geometry": {"coordinates":[44.58287,14.16763],"type":"Point"}
+}

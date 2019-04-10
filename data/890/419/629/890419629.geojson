@@ -1,0 +1,73 @@
+{
+  "id": 890419629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21165,17.13544,43.21165,17.13544",
+    "geom:latitude":17.13544,
+    "geom:longitude":43.21165,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
+    "gn:pop":10,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0647\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Manhal"
+    ],
+    "qs:name":"Manhal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022107,
+        "gp:id":1938135,
+        "qs:id":750269,
+        "wd:id":"Q20300843"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051295,
+    "wof:geomhash":"75e5cac7c45ae1537e845b836e467e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890419629,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419629,
+    "wof:lastmodified":1514503319,
+    "wof:name":"Manhal",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21165,
+    17.13544,
+    43.21165,
+    17.13544
+],
+  "geometry": {"coordinates":[43.21165,17.13544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260034745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.60459,13.87103,43.60459,13.87103",
+    "geom:latitude":13.87103,
+    "geom:longitude":43.60459,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"As Suwah",
+    "gn:country_code":"YE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355781,
+    "gn:latitude":13.87103,
+    "gn:longitude":43.60459,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Suwa\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Suwa\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355781
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7721604b161f8874472ede515ccbed6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1260034745,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260034745,
+    "wof:lastmodified":1537715650,
+    "wof:name":"As Suwah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.60459,
+    13.87103,
+    43.60459,
+    13.87103
+],
+  "geometry": {"coordinates":[43.60459,13.87103],"type":"Point"}
+}

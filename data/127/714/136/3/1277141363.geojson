@@ -1,0 +1,71 @@
+{
+  "id": 1277141363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90174,14.47581,44.90174,14.47581",
+    "geom:latitude":14.47581,
+    "geom:longitude":44.90174,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Al Matar",
+    "gn:country_code":"YE",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364813,
+    "gn:latitude":14.47581,
+    "gn:longitude":44.90174,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mat\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mat\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364813
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9a84e26aebc2831649286498748db392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919083,
+            "locality_id":1277141363,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1277141363,
+    "wof:lastmodified":1537715909,
+    "wof:name":"Al Matar",
+    "wof:parent_id":1091919083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90174,
+    14.47581,
+    44.90174,
+    14.47581
+],
+  "geometry": {"coordinates":[44.90174,14.47581],"type":"Point"}
+}

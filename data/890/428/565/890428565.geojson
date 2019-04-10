@@ -1,0 +1,73 @@
+{
+  "id": 890428565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1586,13.80906,45.1586,13.80906",
+    "geom:latitude":13.80906,
+    "geom:longitude":45.1586,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0647\u0648\u0629 \u0634\u0642\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Rahwat Shuqrah"
+    ],
+    "qs:name":"Rahwat Shuqrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076153,
+        "gp:id":1958958,
+        "qs:id":754497,
+        "wd:id":"Q20306498"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051758,
+    "wof:geomhash":"19709c7f18a6640aa8bd2e5b2f1e73de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924787,
+            "locality_id":890428565,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":890428565,
+    "wof:lastmodified":1514503340,
+    "wof:name":"Rahwat Shuqrah",
+    "wof:parent_id":1091924787,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1586,
+    13.80906,
+    45.1586,
+    13.80906
+],
+  "geometry": {"coordinates":[45.1586,13.80906],"type":"Point"}
+}

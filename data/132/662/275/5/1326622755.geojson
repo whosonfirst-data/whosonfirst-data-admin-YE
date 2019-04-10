@@ -1,0 +1,74 @@
+{
+  "id": 1326622755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.49551,15.20284,47.49551,15.20284",
+    "geom:latitude":15.20284,
+    "geom:longitude":47.49551,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Tamun",
+    "gn:country_code":"YE",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308190,
+    "gn:latitude":15.20284,
+    "gn:longitude":47.49551,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tam\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tam\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308190
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8e17215435f1518c06c9d31d456efd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925929,
+            "locality_id":1326622755,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1326622755,
+    "wof:lastmodified":1537716038,
+    "wof:name":"Tamun",
+    "wof:parent_id":1091925929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.49551,
+    15.20284,
+    47.49551,
+    15.20284
+],
+  "geometry": {"coordinates":[47.49551,15.20284],"type":"Point"}
+}

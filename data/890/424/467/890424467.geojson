@@ -1,0 +1,76 @@
+{
+  "id": 890424467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2125,16.23962,43.2125,16.23962",
+    "geom:latitude":16.23962,
+    "geom:longitude":43.2125,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":12,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0647\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bahilah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0647\u0644\u0629"
+    ],
+    "qs:name":"Al B\u0101hilah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631497,
+        "gp:id":1953570,
+        "qs:id":694486,
+        "wd:id":"Q20304319"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051545,
+    "wof:geomhash":"321ab1a19a70b4514fa98bbc594a378a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":890424467,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424467,
+    "wof:lastmodified":1514503141,
+    "wof:name":"Al B\u0101hilah",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2125,
+    16.23962,
+    43.2125,
+    16.23962
+],
+  "geometry": {"coordinates":[43.2125,16.23962],"type":"Point"}
+}

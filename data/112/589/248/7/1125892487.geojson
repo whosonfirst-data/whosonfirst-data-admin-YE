@@ -1,0 +1,81 @@
+{
+  "id": 1125892487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34499,16.03707,43.34499,16.03707",
+    "geom:latitude":16.03707,
+    "geom:longitude":43.34499,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"YE",
+    "lbl:latitude":16.03707,
+    "lbl:longitude":43.34499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u0631\u0629"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7632416,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Ash Sh\u0101rah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":694965,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632416,
+        "qs_pg:id":694965
+    },
+    "wof:country":"YE",
+    "wof:created":1497295386,
+    "wof:geomhash":"4fd5742bda6d6f2e5d7be38d81675a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923743,
+            "locality_id":1125892487,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125892487,
+    "wof:lastmodified":1509398885,
+    "wof:name":"Ash Sh\u0101rah",
+    "wof:parent_id":1091923743,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34499,
+    16.03707,
+    43.34499,
+    16.03707
+],
+  "geometry": {"coordinates":[43.34499,16.03707],"type":"Point"}
+}

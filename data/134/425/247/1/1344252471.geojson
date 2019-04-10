@@ -1,0 +1,75 @@
+{
+  "id": 1344252471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27813,14.95951,43.27813,14.95951",
+    "geom:latitude":14.95951,
+    "geom:longitude":43.27813,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Dar al Ayman",
+    "gn:country_code":"YE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401625,
+    "gn:latitude":14.95951,
+    "gn:longitude":43.27813,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"D\u0101r al Ayman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0627\u064a\u0645\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qunbur",
+        "D\u0101r al Ayman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401625
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ee571c1797f2ed7bd368fda0d46faee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920065,
+            "locality_id":1344252471,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1344252471,
+    "wof:lastmodified":1537715343,
+    "wof:name":"Dar al Ayman",
+    "wof:parent_id":1091920065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27813,
+    14.95951,
+    43.27813,
+    14.95951
+],
+  "geometry": {"coordinates":[43.27813,14.95951],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293664929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56472,13.64983,44.56472,13.64983",
+    "geom:latitude":13.64983,
+    "geom:longitude":44.56472,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Nuwab",
+    "gn:country_code":"YE",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72117,
+    "gn:latitude":13.64983,
+    "gn:longitude":44.56472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nuwab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nowab",
+        "Nuwab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72117
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d9221c8fcc7cd53c004f079d159b554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1293664929,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1293664929,
+    "wof:lastmodified":1537715109,
+    "wof:name":"Nuwab",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56472,
+    13.64983,
+    44.56472,
+    13.64983
+],
+  "geometry": {"coordinates":[44.56472,13.64983],"type":"Point"}
+}

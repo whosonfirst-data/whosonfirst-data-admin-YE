@@ -1,0 +1,71 @@
+{
+  "id": 1226713701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86915,15.09278,43.86915,15.09278",
+    "geom:latitude":15.09278,
+    "geom:longitude":43.86915,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Bani Mansur",
+    "gn:country_code":"YE",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402700,
+    "gn:latitude":15.09278,
+    "gn:longitude":43.86915,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402700
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e48a677930e0c33108624a178629618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925637,
+            "locality_id":1226713701,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226713701,
+    "wof:lastmodified":1537715361,
+    "wof:name":"Bani Mansur",
+    "wof:parent_id":1091925637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86915,
+    15.09278,
+    43.86915,
+    15.09278
+],
+  "geometry": {"coordinates":[43.86915,15.09278],"type":"Point"}
+}

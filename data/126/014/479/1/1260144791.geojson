@@ -1,0 +1,71 @@
+{
+  "id": 1260144791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25,14.25,45.25,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":45.25,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"AT Tahiriyah",
+    "gn:country_code":"YE",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77676,
+    "gn:latitude":14.25,
+    "gn:longitude":45.25,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"A\u0162 \u0162\u0101hir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0162 \u0162\u0101hir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77676
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1ebe02ef5907bd5d38891f8673538f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":1260144791,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1260144791,
+    "wof:lastmodified":1537715231,
+    "wof:name":"AT Tahiriyah",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25,
+    14.25,
+    45.25,
+    14.25
+],
+  "geometry": {"coordinates":[45.25,14.25],"type":"Point"}
+}

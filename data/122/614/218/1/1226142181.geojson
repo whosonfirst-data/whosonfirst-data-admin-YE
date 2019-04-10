@@ -1,0 +1,73 @@
+{
+  "id": 1226142181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61963,14.78985,49.61963,14.78985",
+    "geom:latitude":14.78985,
+    "geom:longitude":49.61963,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1915.0",
+    "gn:asciiname":"Dufayqah",
+    "gn:country_code":"YE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75943,
+    "gn:latitude":14.78985,
+    "gn:longitude":49.61963,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Dufayqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dufaiqah",
+        "Dufaigha",
+        "Dufayqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75943
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b798bf1ad2aa66f96061e5e2f426cdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922837,
+            "locality_id":1226142181,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226142181,
+    "wof:lastmodified":1537715184,
+    "wof:name":"Dufayqah",
+    "wof:parent_id":1091922837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61963,
+    14.78985,
+    49.61963,
+    14.78985
+],
+  "geometry": {"coordinates":[49.61963,14.78985],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327412067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25745,15.43252,43.25745,15.43252",
+    "geom:latitude":15.43252,
+    "geom:longitude":43.25745,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Janah",
+    "gn:country_code":"YE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365258,
+    "gn:latitude":15.43252,
+    "gn:longitude":43.25745,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Jan\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365258
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f3e96920f536e4481e4d8191f9a3cca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1327412067,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1327412067,
+    "wof:lastmodified":1537715923,
+    "wof:name":"Janah",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25745,
+    15.43252,
+    43.25745,
+    15.43252
+],
+  "geometry": {"coordinates":[43.25745,15.43252],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260002449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2,15.55,49.2,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":49.2,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1916.0",
+    "gn:asciiname":"Hisn Dabu`ah",
+    "gn:country_code":"YE",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74689,
+    "gn:latitude":15.55,
+    "gn:longitude":49.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28i\u015fn \u1e10ab\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24u\u1e63n Dhubu\u2018ah",
+        "Husn Dhub\u016ba",
+        "\u1e24u\u1e63n \u1e0cab\u016b\u2018ah",
+        "\u1e28i\u015fn \u1e10ab\u016b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74689
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d7655890775b2ce79565049f4dbca47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922963,
+            "locality_id":1260002449,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1260002449,
+    "wof:lastmodified":1537715159,
+    "wof:name":"Hisn Dabu`ah",
+    "wof:parent_id":1091922963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2,
+    15.55,
+    49.2,
+    15.55
+],
+  "geometry": {"coordinates":[49.2,15.55],"type":"Point"}
+}

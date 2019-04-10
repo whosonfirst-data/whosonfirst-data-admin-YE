@@ -1,0 +1,71 @@
+{
+  "id": 1242665897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55579,15.49597,43.55579,15.49597",
+    "geom:latitude":15.49597,
+    "geom:longitude":43.55579,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Bayt ar Radi",
+    "gn:country_code":"YE",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360632,
+    "gn:latitude":15.49597,
+    "gn:longitude":43.55579,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt ar Ra\u1e11\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt ar Ra\u1e11\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360632
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2ae3047deaaa8002dc275ba280bd17bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921187,
+            "locality_id":1242665897,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1242665897,
+    "wof:lastmodified":1537715802,
+    "wof:name":"Bayt ar Radi",
+    "wof:parent_id":1091921187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55579,
+    15.49597,
+    43.55579,
+    15.49597
+],
+  "geometry": {"coordinates":[43.55579,15.49597],"type":"Point"}
+}

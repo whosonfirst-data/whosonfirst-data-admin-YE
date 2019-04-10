@@ -1,0 +1,71 @@
+{
+  "id": 1293852137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00417,13.01833,45.00417,13.01833",
+    "geom:latitude":13.01833,
+    "geom:longitude":45.00417,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2515.0",
+    "gn:asciiname":"Dar al Manasirah",
+    "gn:country_code":"YE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76501,
+    "gn:latitude":13.01833,
+    "gn:longitude":45.00417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r al Man\u0101\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Man\u0101\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76501
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"37c6abf7d4f45c83b987c3ce019484d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924941,
+            "locality_id":1293852137,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293852137,
+    "wof:lastmodified":1537715202,
+    "wof:name":"Dar al Manasirah",
+    "wof:parent_id":1091924941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00417,
+    13.01833,
+    45.00417,
+    13.01833
+],
+  "geometry": {"coordinates":[45.00417,13.01833],"type":"Point"}
+}

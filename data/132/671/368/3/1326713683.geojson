@@ -1,0 +1,74 @@
+{
+  "id": 1326713683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76664,15.67657,44.76664,15.67657",
+    "geom:latitude":15.67657,
+    "geom:longitude":44.76664,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Umm an Nashif",
+    "gn:country_code":"YE",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976085,
+    "gn:latitude":15.67657,
+    "gn:longitude":44.76664,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm an Nash\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0646\u0634\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Umm an Nash\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976085
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bcba7cd6f2a6f98f4ad225d7a5f944fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925175,
+            "locality_id":1326713683,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1326713683,
+    "wof:lastmodified":1537716143,
+    "wof:name":"Umm an Nashif",
+    "wof:parent_id":1091925175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76664,
+    15.67657,
+    44.76664,
+    15.67657
+],
+  "geometry": {"coordinates":[44.76664,15.67657],"type":"Point"}
+}

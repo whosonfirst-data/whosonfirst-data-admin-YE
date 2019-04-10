@@ -1,0 +1,72 @@
+{
+  "id": 1343933587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73479,13.81386,44.73479,13.81386",
+    "geom:latitude":13.81386,
+    "geom:longitude":44.73479,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Habil al Qubbah",
+    "gn:country_code":"YE",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75500,
+    "gn:latitude":13.81386,
+    "gn:longitude":44.73479,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ab\u012bl al Qubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habil el Kuba",
+        "\u1e28ab\u012bl al Qubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75500
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b967ccea96f9c8a18a9d53b33faa4ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1343933587,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343933587,
+    "wof:lastmodified":1537715178,
+    "wof:name":"Habil al Qubbah",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73479,
+    13.81386,
+    44.73479,
+    13.81386
+],
+  "geometry": {"coordinates":[44.73479,13.81386],"type":"Point"}
+}

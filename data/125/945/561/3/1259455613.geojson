@@ -1,0 +1,71 @@
+{
+  "id": 1259455613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69008,16.72348,43.69008,16.72348",
+    "geom:latitude":16.72348,
+    "geom:longitude":43.69008,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al Makhnaq",
+    "gn:country_code":"YE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363736,
+    "gn:latitude":16.72348,
+    "gn:longitude":43.69008,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Makhnaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0646\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363736
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b44fe73882a286390884f176e194cc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1259455613,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259455613,
+    "wof:lastmodified":1537715879,
+    "wof:name":"Al Makhnaq",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69008,
+    16.72348,
+    43.69008,
+    16.72348
+],
+  "geometry": {"coordinates":[43.69008,16.72348],"type":"Point"}
+}

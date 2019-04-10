@@ -1,0 +1,74 @@
+{
+  "id": 1226300749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41399,14.13748,44.41399,14.13748",
+    "geom:latitude":14.13748,
+    "geom:longitude":44.41399,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"`Amiqah",
+    "gn:country_code":"YE",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359280,
+    "gn:latitude":14.13748,
+    "gn:longitude":44.41399,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"\u2018Am\u012bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Am\u012bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359280
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"337a6519e796088460bb48dfc9b0cc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1226300749,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1226300749,
+    "wof:lastmodified":1537715752,
+    "wof:name":"`Amiqah",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41399000000001,
+    14.13748,
+    44.41399000000001,
+    14.13748
+],
+  "geometry": {"coordinates":[44.41399000000001,14.13748],"type":"Point"}
+}

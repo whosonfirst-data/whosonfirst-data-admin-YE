@@ -1,0 +1,77 @@
+{
+  "id": 1309762399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46759,16.16109,43.46759,16.16109",
+    "geom:latitude":16.16109,
+    "geom:longitude":43.46759,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Ma'nibah",
+    "gn:country_code":"YE",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658455,
+    "gn:latitude":16.16109,
+    "gn:longitude":43.46759,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u2018nibah",
+    "gn:population":4,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0646\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018nibah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658455
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7c1e07fa30df7c7bacb3e965bfbed716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1309762399,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1309762399,
+    "wof:lastmodified":1537715980,
+    "wof:name":"Al Ma'nibah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46759,
+    16.16109,
+    43.46759,
+    16.16109
+],
+  "geometry": {"coordinates":[43.46759,16.16109],"type":"Point"}
+}

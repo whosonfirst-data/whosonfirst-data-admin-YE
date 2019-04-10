@@ -1,0 +1,71 @@
+{
+  "id": 1310665201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13177,14.39582,45.13177,14.39582",
+    "geom:latitude":14.39582,
+    "geom:longitude":45.13177,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Kuhlan",
+    "gn:country_code":"YE",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364173,
+    "gn:latitude":14.39582,
+    "gn:longitude":45.13177,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ku\u1e29l\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ku\u1e29l\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364173
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5154de93942653f20ac1fdeb945d1562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919203,
+            "locality_id":1310665201,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1310665201,
+    "wof:lastmodified":1537715892,
+    "wof:name":"Kuhlan",
+    "wof:parent_id":1091919203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13177,
+    14.39582,
+    45.13177,
+    14.39582
+],
+  "geometry": {"coordinates":[45.13177,14.39582],"type":"Point"}
+}

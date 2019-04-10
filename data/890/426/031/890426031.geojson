@@ -1,0 +1,76 @@
+{
+  "id": 890426031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34604,16.64833,43.34604,16.64833",
+    "geom:latitude":16.64833,
+    "geom:longitude":43.34604,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Mu\u1e29\u0101jir\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u062c\u0627\u0631\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muhajirin"
+    ],
+    "qs:name":"Al Mu\u1e29\u0101jir\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855332,
+        "gp:id":1959134,
+        "qs:id":742243,
+        "wd:id":"Q20302103"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051615,
+    "wof:geomhash":"109094da9ff15b9ce46e63395e75171d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890426031,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426031,
+    "wof:lastmodified":1514503194,
+    "wof:name":"Al Mu\u1e29\u0101jir\u012bn",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34604,
+    16.64833,
+    43.34604,
+    16.64833
+],
+  "geometry": {"coordinates":[43.34604,16.64833],"type":"Point"}
+}

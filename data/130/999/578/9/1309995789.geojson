@@ -1,0 +1,72 @@
+{
+  "id": 1309995789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39352,14.63515,43.39352,14.63515",
+    "geom:latitude":14.63515,
+    "geom:longitude":43.39352,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1817.0",
+    "gn:asciiname":"Al Mahalabe",
+    "gn:country_code":"YE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79000,
+    "gn:latitude":14.63515,
+    "gn:longitude":43.39352,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Al Mahalabe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mahalabe",
+        "Al Mahalabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421202517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79000
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d683fb1654c9b1529c6a31eec0e5a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421202517,
+            "locality_id":1309995789,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1309995789,
+    "wof:lastmodified":1537715282,
+    "wof:name":"Al Mahalabe",
+    "wof:parent_id":421202517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39352,
+    14.63515,
+    43.39352,
+    14.63515
+],
+  "geometry": {"coordinates":[43.39352,14.63515],"type":"Point"}
+}

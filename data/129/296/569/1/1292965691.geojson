@@ -1,0 +1,74 @@
+{
+  "id": 1292965691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09076,16.20191,44.09076,16.20191",
+    "geom:latitude":16.20191,
+    "geom:longitude":44.09076,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Hawah",
+    "gn:country_code":"YE",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9973750,
+    "gn:latitude":16.20191,
+    "gn:longitude":44.09076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973750
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9cce9ea33fbc002d6b9220921edb869f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1292965691,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1292965691,
+    "wof:lastmodified":1537716105,
+    "wof:name":"Hawah",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09076,
+    16.20191,
+    44.09076,
+    16.20191
+],
+  "geometry": {"coordinates":[44.09076,16.20191],"type":"Point"}
+}

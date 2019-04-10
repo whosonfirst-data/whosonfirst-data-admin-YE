@@ -1,0 +1,68 @@
+{
+  "id": 1243046279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62658,15.35324,43.62658,15.35324",
+    "geom:latitude":15.35324,
+    "geom:longitude":43.62658,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Al Khurshubah",
+    "gn:country_code":"YE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402153,
+    "gn:latitude":15.35324,
+    "gn:longitude":43.62658,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khurshubah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402153
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7829405fc9ba505d23eaa641aa06bcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1243046279,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243046279,
+    "wof:lastmodified":1536884927,
+    "wof:name":"Al Khurshubah",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62658,
+    15.35324,
+    43.62658,
+    15.35324
+],
+  "geometry": {"coordinates":[43.62658,15.35324],"type":"Point"}
+}

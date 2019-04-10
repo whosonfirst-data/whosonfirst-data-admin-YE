@@ -1,0 +1,71 @@
+{
+  "id": 1327116523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97773,15.0244,44.97773,15.0244",
+    "geom:latitude":15.0244,
+    "geom:longitude":44.97773,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2314.0",
+    "gn:asciiname":"Ash Shahd",
+    "gn:country_code":"YE",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331775,
+    "gn:latitude":15.0244,
+    "gn:longitude":44.97773,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shahd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331775
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f600fa60046ccace3e97fa8c6746082e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925737,
+            "locality_id":1327116523,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1327116523,
+    "wof:lastmodified":1537716197,
+    "wof:name":"Ash Shahd",
+    "wof:parent_id":1091925737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97773,
+    15.0244,
+    44.97773,
+    15.0244
+],
+  "geometry": {"coordinates":[44.97773,15.0244],"type":"Point"}
+}

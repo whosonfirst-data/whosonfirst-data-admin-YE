@@ -1,0 +1,68 @@
+{
+  "id": 1226200667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40593,16.36144,43.40593,16.36144",
+    "geom:latitude":16.36144,
+    "geom:longitude":43.40593,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"As Salaqah",
+    "gn:country_code":"YE",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366710,
+    "gn:latitude":16.36144,
+    "gn:longitude":43.40593,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Salaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366710
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"60312d2d8dba89ebda1c9d49f6bff779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":1226200667,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226200667,
+    "wof:lastmodified":1536997978,
+    "wof:name":"As Salaqah",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40593,
+    16.36144,
+    43.40593,
+    16.36144
+],
+  "geometry": {"coordinates":[43.40593,16.36144],"type":"Point"}
+}

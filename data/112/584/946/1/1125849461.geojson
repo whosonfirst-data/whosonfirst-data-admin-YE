@@ -1,0 +1,85 @@
+{
+  "id": 1125849461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3683,16.13866,43.3683,16.13866",
+    "geom:latitude":16.13866,
+    "geom:longitude":43.3683,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":59,
+    "gn:population":59,
+    "iso:country":"YE",
+    "lbl:latitude":16.13866,
+    "lbl:longitude":43.3683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0635\u064a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ghasyan"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7654724,
+    "qs_pg:gn_pop":59,
+    "qs_pg:name":"Gha\u015fy\u0101n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":696002,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654724,
+        "qs_pg:id":696002,
+        "wd:id":"Q20304246"
+    },
+    "wof:country":"YE",
+    "wof:created":1497293326,
+    "wof:geomhash":"826517654a74e41b79c94b1f129345d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":1125849461,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125849461,
+    "wof:lastmodified":1514503268,
+    "wof:name":"Gha\u015fy\u0101n",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3683,
+    16.13866,
+    43.3683,
+    16.13866
+],
+  "geometry": {"coordinates":[43.3683,16.13866],"type":"Point"}
+}

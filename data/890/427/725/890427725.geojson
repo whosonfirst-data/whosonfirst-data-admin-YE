@@ -1,0 +1,77 @@
+{
+  "id": 890427725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23156,16.57037,44.23156,16.57037",
+    "geom:latitude":16.57037,
+    "geom:longitude":44.23156,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0642\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ma'qar"
+    ],
+    "qs:name":"Al Ma\u2018qar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856508,
+        "gp:id":1958965,
+        "qs:id":700539,
+        "qs_pg:id":742430,
+        "wd:id":"Q20306087"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051713,
+    "wof:geomhash":"0befaf095adbdc3a38972898c4ffc380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890427725,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890427725,
+    "wof:lastmodified":1514503187,
+    "wof:name":"Al Ma\u2018qar",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23156,
+    16.57037,
+    44.23156,
+    16.57037
+],
+  "geometry": {"coordinates":[44.23156,16.57037],"type":"Point"}
+}

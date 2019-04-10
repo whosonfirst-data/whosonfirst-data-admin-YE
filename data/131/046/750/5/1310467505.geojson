@@ -1,0 +1,68 @@
+{
+  "id": 1310467505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73367,13.64058,44.73367,13.64058",
+    "geom:latitude":13.64058,
+    "geom:longitude":44.73367,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Al Jaws",
+    "gn:country_code":"YE",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363766,
+    "gn:latitude":13.64058,
+    "gn:longitude":44.73367,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jaws",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363766
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bf53eab065241d8366d9310b14284d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1310467505,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1310467505,
+    "wof:lastmodified":1536971439,
+    "wof:name":"Al Jaws",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73367,
+    13.64058,
+    44.73367,
+    13.64058
+],
+  "geometry": {"coordinates":[44.73367,13.64058],"type":"Point"}
+}

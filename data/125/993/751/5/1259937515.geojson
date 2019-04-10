@@ -1,0 +1,73 @@
+{
+  "id": 1259937515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90139,13.05361,43.90139,13.05361",
+    "geom:latitude":13.05361,
+    "geom:longitude":43.90139,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Al Minbiya",
+    "gn:country_code":"YE",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78807,
+    "gn:latitude":13.05361,
+    "gn:longitude":43.90139,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Minbiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Qa\u015fawwarah",
+        "Am Minbiya",
+        "Al Minbiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78807
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bd39c91077958734e300342b0e4293ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924765,
+            "locality_id":1259937515,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259937515,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Minbiya",
+    "wof:parent_id":1091924765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90139,
+    13.05361,
+    43.90139,
+    13.05361
+],
+  "geometry": {"coordinates":[43.90139,13.05361],"type":"Point"}
+}

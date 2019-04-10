@@ -1,0 +1,80 @@
+{
+  "id": 1343814055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09404,14.1023,44.09404,14.1023",
+    "geom:latitude":14.1023,
+    "geom:longitude":44.09404,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Zalmah al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":30714,
+    "gn:latitude":14.1023,
+    "gn:longitude":44.09404,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Z\u0327almah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0644\u0645\u0629 \u062d\u0628\u064a\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0638\u0644\u0645\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327almat \u1e28ubaysh",
+        "Zalmat \u1e28ubaysh",
+        "Z\u0327ulmah",
+        "Z\u0327almah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30714
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ebfb534bdc8ee334fb91f28e6ea69b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924597,
+            "locality_id":1343814055,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343814055,
+    "wof:lastmodified":1537715050,
+    "wof:name":"Zalmah al `Ulya",
+    "wof:parent_id":1091924597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09404,
+    14.1023,
+    44.09404,
+    14.1023
+],
+  "geometry": {"coordinates":[44.09404,14.1023],"type":"Point"}
+}

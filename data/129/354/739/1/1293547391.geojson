@@ -1,0 +1,73 @@
+{
+  "id": 1293547391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65443,14.13919,44.65443,14.13919",
+    "geom:latitude":14.13919,
+    "geom:longitude":44.65443,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Al Ma`zabah",
+    "gn:country_code":"YE",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72734,
+    "gn:latitude":14.13919,
+    "gn:longitude":44.65443,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u2018zabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masaba",
+        "Ma\u2018zabah",
+        "Al Ma\u2018zabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72734
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ff17da5d9bc0ba720aac68710083da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1293547391,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293547391,
+    "wof:lastmodified":1537715119,
+    "wof:name":"Al Ma`zabah",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65443,
+    14.13919,
+    44.65443,
+    14.13919
+],
+  "geometry": {"coordinates":[44.65443,14.13919],"type":"Point"}
+}

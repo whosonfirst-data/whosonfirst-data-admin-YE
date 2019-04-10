@@ -1,0 +1,71 @@
+{
+  "id": 1277132225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37028,13.12417,44.37028,13.12417",
+    "geom:latitude":13.12417,
+    "geom:longitude":44.37028,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"`Ubayyid",
+    "gn:country_code":"YE",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409070,
+    "gn:latitude":13.12417,
+    "gn:longitude":44.37028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ubayyid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ubayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409070
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c199c3cc3715e56bc01c8fb4e99ec9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1277132225,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1277132225,
+    "wof:lastmodified":1537715425,
+    "wof:name":"`Ubayyid",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37028,
+    13.12417,
+    44.37028,
+    13.12417
+],
+  "geometry": {"coordinates":[44.37028,13.12417],"type":"Point"}
+}

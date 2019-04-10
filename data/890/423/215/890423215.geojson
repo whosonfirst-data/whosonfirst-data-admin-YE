@@ -1,0 +1,68 @@
+{
+  "id": 890423215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37699,16.03392,43.37699,16.03392",
+    "geom:latitude":16.03392,
+    "geom:longitude":43.37699,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":30,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062c \u062e\u064a\u0634\u0629"
+    ],
+    "qs:name":"Lujj Khayshah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85680973,
+        85632499,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682677,
+        "qs:id":697360
+    },
+    "wof:country":"YE",
+    "wof:created":1469051486,
+    "wof:geomhash":"6968671f05f3f0566572b8f86bcfdd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "neighbourhood_id":890423215,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890423215,
+    "wof:lastmodified":1505343474,
+    "wof:name":"Lujj Khayshah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37699,
+    16.03392,
+    43.37699,
+    16.03392
+],
+  "geometry": {"coordinates":[43.37699,16.03392],"type":"Point"}
+}

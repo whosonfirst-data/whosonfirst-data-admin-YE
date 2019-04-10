@@ -1,0 +1,74 @@
+{
+  "id": 1276628225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42959,14.67485,45.42959,14.67485",
+    "geom:latitude":14.67485,
+    "geom:longitude":45.42959,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2611.0",
+    "gn:asciiname":"Raht",
+    "gn:country_code":"YE",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308886,
+    "gn:latitude":14.67485,
+    "gn:longitude":45.42959,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rah\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0647\u0637"
+    ],
+    "name:und_x_variant":[
+        "Rah\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308886
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fac63c8b6fe25bb174d1dfc7efc572e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925025,
+            "locality_id":1276628225,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276628225,
+    "wof:lastmodified":1537716040,
+    "wof:name":"Raht",
+    "wof:parent_id":1091925025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42959000000001,
+    14.67485,
+    45.42959000000001,
+    14.67485
+],
+  "geometry": {"coordinates":[45.42959000000001,14.67485],"type":"Point"}
+}

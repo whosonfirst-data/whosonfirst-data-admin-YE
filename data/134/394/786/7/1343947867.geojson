@@ -1,0 +1,73 @@
+{
+  "id": 1343947867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60992,15.33506,42.60992,15.33506",
+    "geom:latitude":15.33506,
+    "geom:longitude":42.60992,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1803.0",
+    "gn:asciiname":"Kamaran",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74011,
+    "gn:latitude":15.33506,
+    "gn:longitude":42.60992,
+    "gn:modification_date":"2014-09-29",
+    "gn:name":"Kamar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qam\u0101r\u0101n",
+        "Kamar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74011
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc1e8babd37026aa75b5ec3af97236a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920475,
+            "locality_id":1343947867,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343947867,
+    "wof:lastmodified":1537715145,
+    "wof:name":"Kamaran",
+    "wof:parent_id":1091920475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60992,
+    15.33506,
+    42.60992,
+    15.33506
+],
+  "geometry": {"coordinates":[42.60992,15.33506],"type":"Point"}
+}

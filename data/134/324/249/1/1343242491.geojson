@@ -1,0 +1,73 @@
+{
+  "id": 1343242491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45122,14.28273,44.45122,14.28273",
+    "geom:latitude":14.28273,
+    "geom:longitude":44.45122,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Najd ad Dibarah",
+    "gn:country_code":"YE",
+    "gn:dem":2522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950524,
+    "gn:latitude":14.28273,
+    "gn:longitude":44.45122,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Najd a\u1e11 \u1e10ib\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u062f \u0627\u0644\u0636\u0628\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Najd a\u1e11 \u1e10ib\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950524
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a87ac43a0f948b29c0f7549583f2d9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924693,
+            "locality_id":1343242491,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1343242491,
+    "wof:lastmodified":1537716279,
+    "wof:name":"Najd ad Dibarah",
+    "wof:parent_id":1091924693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45122,
+    14.28273,
+    44.45122,
+    14.28273
+],
+  "geometry": {"coordinates":[44.45122,14.28273],"type":"Point"}
+}

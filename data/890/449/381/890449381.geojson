@@ -1,0 +1,73 @@
+{
+  "id": 890449381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74708,13.17005,43.74708,13.17005",
+    "geom:latitude":13.17005,
+    "geom:longitude":43.74708,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u062f\u0648\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "SadUh"
+    ],
+    "qs:name":"Sad\u016b\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069217,
+        "gp:id":1958962,
+        "qs:id":753397,
+        "wd:id":"Q20306860"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052687,
+    "wof:geomhash":"eb05a589c3f8fb3011efac2c7f1ce98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":890449381,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":890449381,
+    "wof:lastmodified":1514503349,
+    "wof:name":"Sad\u016b\u1e29",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74708,
+    13.17005,
+    43.74708,
+    13.17005
+],
+  "geometry": {"coordinates":[43.74708,13.17005],"type":"Point"}
+}

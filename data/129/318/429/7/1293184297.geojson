@@ -1,0 +1,77 @@
+{
+  "id": 1293184297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18587,14.74463,45.18587,14.74463",
+    "geom:latitude":14.74463,
+    "geom:longitude":45.18587,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Al Khalif",
+    "gn:country_code":"YE",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053479,
+    "gn:latitude":14.74463,
+    "gn:longitude":45.18587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khal\u012bf",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Khal\u012bf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053479
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8317353078be082b443ce1d3085e90df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":1293184297,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293184297,
+    "wof:lastmodified":1537716012,
+    "wof:name":"Al Khalif",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18587,
+    14.74463,
+    45.18587,
+    14.74463
+],
+  "geometry": {"coordinates":[45.18587,14.74463],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293070729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24316,16.90778,43.24316,16.90778",
+    "geom:latitude":16.90778,
+    "geom:longitude":43.24316,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Al Qam`ayn",
+    "gn:country_code":"YE",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346102,
+    "gn:latitude":16.90778,
+    "gn:longitude":43.24316,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Al Qam\u2018ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0645\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qam\u2018ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346102
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2a155ed090eaa441097ccc1f58f99095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1293070729,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293070729,
+    "wof:lastmodified":1537715578,
+    "wof:name":"Al Qam`ayn",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24316,
+    16.90778,
+    43.24316,
+    16.90778
+],
+  "geometry": {"coordinates":[43.24316,16.90778],"type":"Point"}
+}

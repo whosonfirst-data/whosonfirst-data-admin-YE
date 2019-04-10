@@ -1,0 +1,77 @@
+{
+  "id": 1327089677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20278,13.04898,44.20278,13.04898",
+    "geom:latitude":13.04898,
+    "geom:longitude":44.20278,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Hubayl al Hujjaj",
+    "gn:country_code":"YE",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75376,
+    "gn:latitude":13.04898,
+    "gn:longitude":44.20278,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"\u1e28ubayl al \u1e28ujj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0644 \u0627\u0644\u062d\u062c\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u1e28aj\u0101j",
+        "\u1e28aj\u0101j",
+        "Qaryat al \u1e28ajj\u0101j",
+        "\u1e28ubayl al \u1e28ujj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75376
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a0f8159f152c4a6e9095b5407bb5ef22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1327089677,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1327089677,
+    "wof:lastmodified":1537715175,
+    "wof:name":"Hubayl al Hujjaj",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20278,
+    13.04898,
+    44.20278,
+    13.04898
+],
+  "geometry": {"coordinates":[44.20278,13.04898],"type":"Point"}
+}

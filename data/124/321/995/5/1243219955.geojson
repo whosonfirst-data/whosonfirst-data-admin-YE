@@ -1,0 +1,74 @@
+{
+  "id": 1243219955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55054,15.56001,43.55054,15.56001",
+    "geom:latitude":15.56001,
+    "geom:longitude":43.55054,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"As Sammar",
+    "gn:country_code":"YE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980611,
+    "gn:latitude":15.56001,
+    "gn:longitude":43.55054,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eamm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eamm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980611
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ad6bbeb4edbb0a424ee817f5797034a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1243219955,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1243219955,
+    "wof:lastmodified":1537716176,
+    "wof:name":"As Sammar",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55054000000001,
+    15.56001,
+    43.55054000000001,
+    15.56001
+],
+  "geometry": {"coordinates":[43.55054000000001,15.56001],"type":"Point"}
+}

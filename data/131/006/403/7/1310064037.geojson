@@ -1,0 +1,73 @@
+{
+  "id": 1310064037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45,16.08333,43.45,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":43.45,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Aslam an Nashiri",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77904,
+    "gn:latitude":16.08333,
+    "gn:longitude":43.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aslam an N\u0101shir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Islam Nashari",
+        "Aslam an N\u0101shir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77904
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"460c8e5860b8ed361b1b37647a8a0dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923483,
+            "locality_id":1310064037,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310064037,
+    "wof:lastmodified":1537715240,
+    "wof:name":"Aslam an Nashiri",
+    "wof:parent_id":1091923483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45,
+    16.08333,
+    43.45,
+    16.08333
+],
+  "geometry": {"coordinates":[43.45,16.08333],"type":"Point"}
+}

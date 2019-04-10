@@ -1,0 +1,71 @@
+{
+  "id": 1226804119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83861,13.64954,43.83861,13.64954",
+    "geom:latitude":13.64954,
+    "geom:longitude":43.83861,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Al Bahbahah",
+    "gn:country_code":"YE",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355529,
+    "gn:latitude":13.64954,
+    "gn:longitude":43.83861,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Bahbahah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0647\u0628\u0647\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355529
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1d45be546b0d146c35efec3f3e09e8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1226804119,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226804119,
+    "wof:lastmodified":1537715640,
+    "wof:name":"Al Bahbahah",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83861,
+    13.64954,
+    43.83861,
+    13.64954
+],
+  "geometry": {"coordinates":[43.83861,13.64954],"type":"Point"}
+}

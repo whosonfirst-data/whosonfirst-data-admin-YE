@@ -1,0 +1,65 @@
+{
+  "id": 1209590737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94625,16.01302,43.94625,16.01302",
+    "geom:latitude":16.01302,
+    "geom:longitude":43.94625,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2919.0",
+    "gn:asciiname":"Makhbash",
+    "gn:country_code":"YE",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7361973,
+    "gn:latitude":16.01302,
+    "gn:longitude":43.94625,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Makhbash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u0628\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7361973
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5fee72e9fde9f2f198785c370f29c21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209590737
+        }
+    ],
+    "wof:id":1209590737,
+    "wof:lastmodified":1537715831,
+    "wof:name":"Makhbash",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94625,
+    16.01302,
+    43.94625,
+    16.01302
+],
+  "geometry": {"coordinates":[43.94625,16.01302],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209373855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42768,14.11213,45.42768,14.11213",
+    "geom:latitude":14.11213,
+    "geom:longitude":45.42768,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Al Qurayn al `Ulya",
+    "gn:country_code":"YE",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7364399,
+    "gn:latitude":14.11213,
+    "gn:longitude":45.42768,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qurayn al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0646 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Qurayn al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7364399
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0341c7a406541055234551c9a0021aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209373855
+        }
+    ],
+    "wof:id":1209373855,
+    "wof:lastmodified":1537715898,
+    "wof:name":"Al Qurayn al `Ulya",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42768,
+    14.11213,
+    45.42768,
+    14.11213
+],
+  "geometry": {"coordinates":[45.42768,14.11213],"type":"Point"}
+}

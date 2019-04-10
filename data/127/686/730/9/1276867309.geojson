@@ -1,0 +1,71 @@
+{
+  "id": 1276867309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4742,14.37181,43.4742,14.37181",
+    "geom:latitude":14.37181,
+    "geom:longitude":43.4742,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Dar Ghalib",
+    "gn:country_code":"YE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340639,
+    "gn:latitude":14.37181,
+    "gn:longitude":43.4742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r Gh\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r Gh\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421174007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340639
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"322548e3213973c4dbd38cb4cb2bd7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421174007,
+            "locality_id":1276867309,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1276867309,
+    "wof:lastmodified":1537715453,
+    "wof:name":"Dar Ghalib",
+    "wof:parent_id":421174007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4742,
+    14.37181,
+    43.4742,
+    14.37181
+],
+  "geometry": {"coordinates":[43.4742,14.37181],"type":"Point"}
+}

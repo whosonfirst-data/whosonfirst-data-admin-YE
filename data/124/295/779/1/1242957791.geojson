@@ -1,0 +1,74 @@
+{
+  "id": 1242957791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49954,14.88378,43.49954,14.88378",
+    "geom:latitude":14.88378,
+    "geom:longitude":43.49954,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Ad Dawla'",
+    "gn:country_code":"YE",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058599,
+    "gn:latitude":14.88378,
+    "gn:longitude":43.49954,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e11 \u1e10awla\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0648\u0644\u0639"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10awla\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058599
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6cad206c11fc9d75aeee290bb74b2d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920387,
+            "locality_id":1242957791,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1242957791,
+    "wof:lastmodified":1537716345,
+    "wof:name":"Ad Dawla'",
+    "wof:parent_id":1091920387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49954,
+    14.88378,
+    43.49954,
+    14.88378
+],
+  "geometry": {"coordinates":[43.49954,14.88378],"type":"Point"}
+}

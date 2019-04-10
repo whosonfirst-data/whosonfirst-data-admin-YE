@@ -1,0 +1,76 @@
+{
+  "id": 890414493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08981,14.85199,45.08981,14.85199",
+    "geom:latitude":14.85199,
+    "geom:longitude":45.08981,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l Q\u0101sim"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0642\u0627\u0633\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qasim"
+    ],
+    "qs:name":"\u0100l Q\u0101sim",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053379,
+        "gp:id":1958975,
+        "qs:id":751798,
+        "wd:id":"Q20304615"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051050,
+    "wof:geomhash":"82a9d7923f8079f78874c06eb298abe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":890414493,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890414493,
+    "wof:lastmodified":1514503389,
+    "wof:name":"\u0100l Q\u0101sim",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08981,
+    14.85199,
+    45.08981,
+    14.85199
+],
+  "geometry": {"coordinates":[45.08981,14.85199],"type":"Point"}
+}

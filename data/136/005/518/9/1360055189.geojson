@@ -1,0 +1,75 @@
+{
+  "id": 1360055189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76753,17.01715,43.76753,17.01715",
+    "geom:latitude":17.01715,
+    "geom:longitude":43.76753,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2211.0",
+    "gn:asciiname":"Al `Izah",
+    "gn:country_code":"YE",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345327,
+    "gn:latitude":17.01715,
+    "gn:longitude":43.76753,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"\u0100l \u2018\u012az\u0327ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0639\u064a\u0638\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l \u2018\u012a\u1e11ah",
+        "\u0100l \u2018\u012az\u0327ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345327
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3acce3b3e917ea59ce6bb8cf9e5cafef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925551,
+            "locality_id":1360055189,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360055189,
+    "wof:lastmodified":1537715556,
+    "wof:name":"Al `Izah",
+    "wof:parent_id":1091925551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76753,
+    17.01715,
+    43.76753,
+    17.01715
+],
+  "geometry": {"coordinates":[43.76753,17.01715],"type":"Point"}
+}

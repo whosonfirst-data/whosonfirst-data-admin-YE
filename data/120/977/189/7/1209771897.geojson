@@ -1,0 +1,74 @@
+{
+  "id": 1209771897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43145,16.08282,43.43145,16.08282",
+    "geom:latitude":16.08282,
+    "geom:longitude":43.43145,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Jiz'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7682354,
+    "gn:latitude":16.08282,
+    "gn:longitude":43.43145,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jiz\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jiz\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682354
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a2b4363e78f3478587fdbc084cb76cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1209771897,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1209771897,
+    "wof:lastmodified":1537715989,
+    "wof:name":"Al Jiz'ah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43145,
+    16.08282,
+    43.43145,
+    16.08282
+],
+  "geometry": {"coordinates":[43.43145,16.08282],"type":"Point"}
+}

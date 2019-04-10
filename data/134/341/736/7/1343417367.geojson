@@ -1,0 +1,72 @@
+{
+  "id": 1343417367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15642,16.38608,43.15642,16.38608",
+    "geom:latitude":16.38608,
+    "geom:longitude":43.15642,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Shi`b an Nab`",
+    "gn:country_code":"YE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411026,
+    "gn:latitude":16.38608,
+    "gn:longitude":43.15642,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shi\u2018b an Nab\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2018b an Nab\u2018",
+        "Al Jam\u0101\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411026
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fdddc6cc6e2dc9cb8d856f86253a1515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":1343417367,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1343417367,
+    "wof:lastmodified":1537715430,
+    "wof:name":"Shi`b an Nab`",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15642,
+    16.38608,
+    43.15642,
+    16.38608
+],
+  "geometry": {"coordinates":[43.15642,16.38608],"type":"Point"}
+}

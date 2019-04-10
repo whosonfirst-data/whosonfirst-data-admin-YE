@@ -1,0 +1,74 @@
+{
+  "id": 1243524253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42406,17.03723,43.42406,17.03723",
+    "geom:latitude":17.03723,
+    "geom:longitude":43.42406,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"`Asayah",
+    "gn:country_code":"YE",
+    "gn:dem":2009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346021,
+    "gn:latitude":17.03723,
+    "gn:longitude":43.42406,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"\u2018As\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018As\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346021
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cf38164357d3fb9e25d4ee1b3eef4836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1243524253,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243524253,
+    "wof:lastmodified":1537715575,
+    "wof:name":"`Asayah",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42406,
+    17.03722999999999,
+    43.42406,
+    17.03722999999999
+],
+  "geometry": {"coordinates":[43.42406,17.03722999999999],"type":"Point"}
+}

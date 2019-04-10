@@ -1,0 +1,68 @@
+{
+  "id": 1309680309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87861,13.38556,44.87861,13.38556",
+    "geom:latitude":13.38556,
+    "geom:longitude":44.87861,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Al Jiblah",
+    "gn:country_code":"YE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79257,
+    "gn:latitude":13.38556,
+    "gn:longitude":44.87861,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jiblah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79257
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"636976245dcee7c8ad4f07cacba415b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924821,
+            "locality_id":1309680309,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1309680309,
+    "wof:lastmodified":1536612700,
+    "wof:name":"Al Jiblah",
+    "wof:parent_id":1091924821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87861,
+    13.38556,
+    44.87861,
+    13.38556
+],
+  "geometry": {"coordinates":[44.87861,13.38556],"type":"Point"}
+}

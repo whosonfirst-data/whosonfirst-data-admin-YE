@@ -1,0 +1,75 @@
+{
+  "id": 1242683503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.59167,14.8225,49.59167,14.8225",
+    "geom:latitude":14.8225,
+    "geom:longitude":49.59167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1915.0",
+    "gn:asciiname":"Tabalah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70255,
+    "gn:latitude":14.8225,
+    "gn:longitude":49.59167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tab\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabala",
+        "Tubala",
+        "Tab\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70255,
+        "wk:page":"Tabalah"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2e8d1af58c608b0bc16375cf6cd0a441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922837,
+            "locality_id":1242683503,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1242683503,
+    "wof:lastmodified":1537715073,
+    "wof:name":"Tabalah",
+    "wof:parent_id":1091922837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.59167,
+    14.8225,
+    49.59167,
+    14.8225
+],
+  "geometry": {"coordinates":[49.59167,14.8225],"type":"Point"}
+}

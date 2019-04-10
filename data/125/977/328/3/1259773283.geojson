@@ -1,0 +1,71 @@
+{
+  "id": 1259773283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54351,14.04679,43.54351,14.04679",
+    "geom:latitude":14.04679,
+    "geom:longitude":43.54351,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1818.0",
+    "gn:asciiname":"Al Hadabah",
+    "gn:country_code":"YE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30769,
+    "gn:latitude":14.04679,
+    "gn:longitude":43.54351,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28adabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28adabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30769
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0e63415994738c1b1c80a5c2fa789175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":1259773283,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1259773283,
+    "wof:lastmodified":1537715052,
+    "wof:name":"Al Hadabah",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54351,
+    14.04679,
+    43.54351,
+    14.04679
+],
+  "geometry": {"coordinates":[43.54351,14.04679],"type":"Point"}
+}

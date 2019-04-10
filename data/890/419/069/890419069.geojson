@@ -1,0 +1,76 @@
+{
+  "id": 890419069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49482,17.12454,44.49482,17.12454",
+    "geom:latitude":17.12454,
+    "geom:longitude":44.49482,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "At Tin\u0101jir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0646\u0627\u062c\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "At Tinajir"
+    ],
+    "qs:name":"At Tin\u0101jir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785361,
+        "gp:id":1959086,
+        "qs:id":700277,
+        "wd:id":"Q20305211"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051272,
+    "wof:geomhash":"ca333980ee0a1b4d5237806482c58502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890419069,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890419069,
+    "wof:lastmodified":1514503233,
+    "wof:name":"At Tin\u0101jir",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49482,
+    17.12454,
+    44.49482,
+    17.12454
+],
+  "geometry": {"coordinates":[44.49482,17.12454],"type":"Point"}
+}

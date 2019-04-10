@@ -1,0 +1,68 @@
+{
+  "id": 1293445835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24869,14.04993,44.24869,14.04993",
+    "geom:latitude":14.04993,
+    "geom:longitude":44.24869,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Qaryat Ruqab",
+    "gn:country_code":"YE",
+    "gn:dem":2332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360166,
+    "gn:latitude":14.04993,
+    "gn:longitude":44.24869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat Ruqab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360166
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ca19e95e1576606058fa5cfac4b243b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1293445835,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1293445835,
+    "wof:lastmodified":1536846140,
+    "wof:name":"Qaryat Ruqab",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24869,
+    14.04993,
+    44.24869,
+    14.04993
+],
+  "geometry": {"coordinates":[44.24869,14.04993],"type":"Point"}
+}

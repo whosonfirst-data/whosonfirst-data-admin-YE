@@ -1,0 +1,73 @@
+{
+  "id": 890414331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63842,16.19323,43.63842,16.19323",
+    "geom:latitude":16.19323,
+    "geom:longitude":43.63842,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u0644\u0629"
+    ],
+    "qs:name":"Az Zaylah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1091921649,
+        85680977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900603,
+        "qs:id":749688,
+        "qs_pg:id":744372
+    },
+    "wof:country":"YE",
+    "wof:created":1469051044,
+    "wof:geomhash":"3ae16be1b3fbcd47df25924ddd80cfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921649,
+            "locality_id":-1,
+            "neighbourhood_id":890414331,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890414331,
+    "wof:lastmodified":1509412558,
+    "wof:name":"Az Zaylah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63842,
+    16.19323,
+    43.63842,
+    16.19323
+],
+  "geometry": {"coordinates":[43.63842,16.19323],"type":"Point"}
+}

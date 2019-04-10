@@ -1,0 +1,73 @@
+{
+  "id": 890421103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14445,14.69802,45.14445,14.69802",
+    "geom:latitude":14.69802,
+    "geom:longitude":45.14445,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0631\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mashrifah"
+    ],
+    "qs:name":"Al Mashrifah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053495,
+        "gp:id":1958975,
+        "qs:id":751910,
+        "wd:id":"Q20299584"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051373,
+    "wof:geomhash":"1ac80f22c8ed25100fcec93cb8870402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":890421103,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890421103,
+    "wof:lastmodified":1514503183,
+    "wof:name":"Al Mashrifah",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14445,
+    14.69802,
+    45.14445,
+    14.69802
+],
+  "geometry": {"coordinates":[45.14445,14.69802],"type":"Point"}
+}

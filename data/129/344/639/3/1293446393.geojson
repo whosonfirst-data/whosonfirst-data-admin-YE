@@ -1,0 +1,75 @@
+{
+  "id": 1293446393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68005,16.10774,44.68005,16.10774",
+    "geom:latitude":16.10774,
+    "geom:longitude":44.68005,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1608.0",
+    "gn:asciiname":"Al Ghayl",
+    "gn:country_code":"YE",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":407049,
+    "gn:latitude":16.10774,
+    "gn:longitude":44.68005,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ghayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Chalek",
+        "Ghayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407049
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bb2fa89808b911c9cfeb0175d5447b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920511,
+            "locality_id":1293446393,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1293446393,
+    "wof:lastmodified":1537715388,
+    "wof:name":"Al Ghayl",
+    "wof:parent_id":1091920511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68005,
+    16.10774,
+    44.68005,
+    16.10774
+],
+  "geometry": {"coordinates":[44.68005,16.10774],"type":"Point"}
+}

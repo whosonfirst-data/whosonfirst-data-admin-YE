@@ -1,0 +1,71 @@
+{
+  "id": 1343921683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90377,15.29387,43.90377,15.29387",
+    "geom:latitude":15.29387,
+    "geom:longitude":43.90377,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Bayt Suraymi",
+    "gn:country_code":"YE",
+    "gn:dem":2261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366908,
+    "gn:latitude":15.29387,
+    "gn:longitude":43.90377,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt \u015euraym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u015euraym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366908
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ec3660d3f8a4b4b4806688748e9811e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":1343921683,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343921683,
+    "wof:lastmodified":1537715966,
+    "wof:name":"Bayt Suraymi",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90377,
+    15.29387,
+    43.90377,
+    15.29387
+],
+  "geometry": {"coordinates":[43.90377,15.29387],"type":"Point"}
+}

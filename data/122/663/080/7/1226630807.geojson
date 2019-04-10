@@ -1,0 +1,72 @@
+{
+  "id": 1226630807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99804,14.6674,42.99804,14.6674",
+    "geom:latitude":14.6674,
+    "geom:longitude":42.99804,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1814.0",
+    "gn:asciiname":"Wadi al `Uqr",
+    "gn:country_code":"YE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407319,
+    "gn:latitude":14.6674,
+    "gn:longitude":42.99804,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"W\u0101d\u012b al \u2018Uqr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al \u2018Uqr",
+        "Qaz\u0327abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407319
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"321b64591bd4b6c83611e1ad52817069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919869,
+            "locality_id":1226630807,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226630807,
+    "wof:lastmodified":1537715390,
+    "wof:name":"Wadi al `Uqr",
+    "wof:parent_id":1091919869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99804,
+    14.6674,
+    42.99804,
+    14.6674
+],
+  "geometry": {"coordinates":[42.99804,14.6674],"type":"Point"}
+}

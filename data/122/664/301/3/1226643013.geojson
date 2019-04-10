@@ -1,0 +1,74 @@
+{
+  "id": 1226643013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89561,15.56788,42.89561,15.56788",
+    "geom:latitude":15.56788,
+    "geom:longitude":42.89561,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Quway'",
+    "gn:country_code":"YE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983283,
+    "gn:latitude":15.56788,
+    "gn:longitude":42.89561,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Quway\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Quway\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983283
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e13e9d625868e622b0eed83eb448353c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1226643013,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226643013,
+    "wof:lastmodified":1537716291,
+    "wof:name":"Al Quway'",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89561,
+    15.56788,
+    42.89561,
+    15.56788
+],
+  "geometry": {"coordinates":[42.89561,15.56788],"type":"Point"}
+}

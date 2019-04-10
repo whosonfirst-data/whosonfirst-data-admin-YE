@@ -1,0 +1,71 @@
+{
+  "id": 1259765287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95153,15.22804,43.95153,15.22804",
+    "geom:latitude":15.22804,
+    "geom:longitude":43.95153,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Bayt ad Dawi",
+    "gn:country_code":"YE",
+    "gn:dem":2966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367212,
+    "gn:latitude":15.22804,
+    "gn:longitude":43.95153,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt a\u1e11 \u1e10\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt a\u1e11 \u1e10\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367212
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"64786ef331419de11383ee7de31c6446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":1259765287,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259765287,
+    "wof:lastmodified":1537715972,
+    "wof:name":"Bayt ad Dawi",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95153,
+    15.22804,
+    43.95153,
+    15.22804
+],
+  "geometry": {"coordinates":[43.95153,15.22804],"type":"Point"}
+}

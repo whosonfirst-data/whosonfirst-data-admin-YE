@@ -1,0 +1,72 @@
+{
+  "id": 1310496945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03937,15.68543,43.03937,15.68543",
+    "geom:latitude":15.68543,
+    "geom:longitude":43.03937,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Dayr al Buni",
+    "gn:country_code":"YE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534081,
+    "gn:latitude":15.68543,
+    "gn:longitude":43.03937,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dayr al B\u016bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al B\u016bn\u012b",
+        "Dayr Mida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534081
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29ff22839e8f2926112e5430ec31202d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920353,
+            "locality_id":1310496945,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1310496945,
+    "wof:lastmodified":1537716049,
+    "wof:name":"Dayr al Buni",
+    "wof:parent_id":1091920353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03937,
+    15.68543,
+    43.03937,
+    15.68543
+],
+  "geometry": {"coordinates":[43.03937,15.68543],"type":"Point"}
+}

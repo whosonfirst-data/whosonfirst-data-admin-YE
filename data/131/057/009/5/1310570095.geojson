@@ -1,0 +1,74 @@
+{
+  "id": 1310570095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40355,16.02432,43.40355,16.02432",
+    "geom:latitude":16.02432,
+    "geom:longitude":43.40355,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1710.0",
+    "gn:asciiname":"Bani Subayh",
+    "gn:country_code":"YE",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7682512,
+    "gn:latitude":16.02432,
+    "gn:longitude":43.40355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b \u015eubay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0635\u0628\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b \u015eubay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682512
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ddea73c3259cd8372e2452cd58de006d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":1310570095,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1310570095,
+    "wof:lastmodified":1537715990,
+    "wof:name":"Bani Subayh",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40355,
+    16.02432,
+    43.40355,
+    16.02432
+],
+  "geometry": {"coordinates":[43.40355,16.02432],"type":"Point"}
+}

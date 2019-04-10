@@ -1,0 +1,71 @@
+{
+  "id": 1343244235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49326,15.47877,44.49326,15.47877",
+    "geom:latitude":15.47877,
+    "geom:longitude":44.49326,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Qaryat al Ahzuq",
+    "gn:country_code":"YE",
+    "gn:dem":2392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342005,
+    "gn:latitude":15.47877,
+    "gn:longitude":44.49326,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al A\u1e29z\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al A\u1e29z\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342005
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"61728cfce45f51b7eb0a0dc592c86741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925759,
+            "locality_id":1343244235,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343244235,
+    "wof:lastmodified":1537715492,
+    "wof:name":"Qaryat al Ahzuq",
+    "wof:parent_id":1091925759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49326,
+    15.47877,
+    44.49326,
+    15.47877
+],
+  "geometry": {"coordinates":[44.49326,15.47877],"type":"Point"}
+}

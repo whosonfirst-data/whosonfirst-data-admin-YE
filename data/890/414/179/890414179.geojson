@@ -1,0 +1,73 @@
+{
+  "id": 890414179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8585,16.0551,44.8585,16.0551",
+    "geom:latitude":16.0551,
+    "geom:longitude":44.8585,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0639\u062f \u062d\u0633\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sa'id Hasan"
+    ],
+    "qs:name":"S\u0101\u2018id \u1e28asan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890557,
+        "gp:id":1958950,
+        "qs:id":743978,
+        "wd:id":"Q20306794"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051035,
+    "wof:geomhash":"c620240a5a3f4de974d69ef386a13c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920605,
+            "locality_id":890414179,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890414179,
+    "wof:lastmodified":1514503371,
+    "wof:name":"S\u0101\u2018id \u1e28asan",
+    "wof:parent_id":1091920605,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8585,
+    16.0551,
+    44.8585,
+    16.0551
+],
+  "geometry": {"coordinates":[44.8585,16.0551],"type":"Point"}
+}

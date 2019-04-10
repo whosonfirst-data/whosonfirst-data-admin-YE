@@ -1,0 +1,71 @@
+{
+  "id": 1327117211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4302,16.84851,43.4302,16.84851",
+    "geom:latitude":16.84851,
+    "geom:longitude":43.4302,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Qarn ash Shalal",
+    "gn:country_code":"YE",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346374,
+    "gn:latitude":16.84851,
+    "gn:longitude":43.4302,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qarn ash Shalal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646 \u0627\u0644\u0634\u0644\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346374
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f1a742ebbf79d4e1cbf55f5577b93caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1327117211,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1327117211,
+    "wof:lastmodified":1537715589,
+    "wof:name":"Qarn ash Shalal",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4302,
+    16.84851,
+    43.4302,
+    16.84851
+],
+  "geometry": {"coordinates":[43.4302,16.84851],"type":"Point"}
+}

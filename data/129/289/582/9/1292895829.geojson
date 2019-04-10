@@ -1,0 +1,71 @@
+{
+  "id": 1292895829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51004,14.14815,43.51004,14.14815",
+    "geom:latitude":14.14815,
+    "geom:longitude":43.51004,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1818.0",
+    "gn:asciiname":"Al Musbariyah",
+    "gn:country_code":"YE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358589,
+    "gn:latitude":14.14815,
+    "gn:longitude":43.51004,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mu\u015fbar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u015fbar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358589
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b2d502055e4ef719b5b1f6e23bfe7bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920441,
+            "locality_id":1292895829,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1292895829,
+    "wof:lastmodified":1537715726,
+    "wof:name":"Al Musbariyah",
+    "wof:parent_id":1091920441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51004,
+    14.14815,
+    43.51004,
+    14.14815
+],
+  "geometry": {"coordinates":[43.51004,14.14815],"type":"Point"}
+}

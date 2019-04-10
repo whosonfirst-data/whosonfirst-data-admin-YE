@@ -1,0 +1,76 @@
+{
+  "id": 1310552139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12324,12.51952,54.12324,12.51952",
+    "geom:latitude":12.51952,
+    "geom:longitude":54.12324,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Kinzihir",
+    "gn:country_code":"YE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182759,
+    "gn:latitude":12.51952,
+    "gn:longitude":54.12324,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kinzihir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182759
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a7d97e3444f2ac7a5aac14520b607ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1310552139,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1310552139,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1310552139,
+    "wof:lastmodified":1536848717,
+    "wof:name":"Kinzihir",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12324,
+    12.51952,
+    54.12324,
+    12.51952
+],
+  "geometry": {"coordinates":[54.12324,12.51952],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259782825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,16.11667,49.15,16.11667",
+    "geom:latitude":16.11667,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Khuwaylah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73705,
+    "gn:latitude":16.11667,
+    "gn:longitude":49.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khuwaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuwailah",
+        "Khuwaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73705
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"07b1372681491539e6c86affa28105ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923229,
+            "locality_id":1259782825,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259782825,
+    "wof:lastmodified":1537715139,
+    "wof:name":"Khuwaylah",
+    "wof:parent_id":1091923229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    16.11667000000001,
+    49.15,
+    16.11667000000001
+],
+  "geometry": {"coordinates":[49.15,16.11667000000001],"type":"Point"}
+}

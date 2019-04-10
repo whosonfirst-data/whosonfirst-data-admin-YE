@@ -1,0 +1,75 @@
+{
+  "id": 890426607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67613,16.19702,43.67613,16.19702",
+    "geom:latitude":16.19702,
+    "geom:longitude":43.67613,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646 \u0627\u0644\u062e\u0631\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Bin Al Kharab"
+    ],
+    "qs:name":"Bin al Khar\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":956,
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020406,
+        "gp:id":1959128,
+        "qs:id":749763,
+        "wd:id":"Q20301389",
+        "wk:page":"List of districts of Yemen"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051639,
+    "wof:geomhash":"7e1c3752265c162230188709c5dd1d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890426607,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890426607,
+    "wof:lastmodified":1527782107,
+    "wof:name":"Bin al Khar\u0101b",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67613,
+    16.19702,
+    43.67613,
+    16.19702
+],
+  "geometry": {"coordinates":[43.67613,16.19702],"type":"Point"}
+}

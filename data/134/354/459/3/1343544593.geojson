@@ -1,0 +1,74 @@
+{
+  "id": 1343544593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00337,14.86056,45.00337,14.86056",
+    "geom:latitude":14.86056,
+    "geom:longitude":45.00337,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2608.0",
+    "gn:asciiname":"Al Miftah",
+    "gn:country_code":"YE",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053432,
+    "gn:latitude":14.86056,
+    "gn:longitude":45.00337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Mif\u0163\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l Mif\u0163\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0645\u0641\u062a\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053432
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ed1f7dfef71a594177667571e41fbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925277,
+            "locality_id":1343544593,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1343544593,
+    "wof:lastmodified":1537716012,
+    "wof:name":"Al Miftah",
+    "wof:parent_id":1091925277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00337,
+    14.86056,
+    45.00337,
+    14.86056
+],
+  "geometry": {"coordinates":[45.00337,14.86056],"type":"Point"}
+}

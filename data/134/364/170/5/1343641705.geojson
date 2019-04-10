@@ -1,0 +1,71 @@
+{
+  "id": 1343641705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44358,14.67741,44.44358,14.67741",
+    "geom:latitude":14.67741,
+    "geom:longitude":44.44358,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Bayt Shutayf",
+    "gn:country_code":"YE",
+    "gn:dem":2321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403030,
+    "gn:latitude":14.67741,
+    "gn:longitude":44.44358,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt Shu\u0163ayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Shu\u0163ayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403030
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"df9559e3977d04fc4f6d33d59ab9c656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1343641705,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343641705,
+    "wof:lastmodified":1537715368,
+    "wof:name":"Bayt Shutayf",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44358,
+    14.67741,
+    44.44358,
+    14.67741
+],
+  "geometry": {"coordinates":[44.44358,14.67741],"type":"Point"}
+}

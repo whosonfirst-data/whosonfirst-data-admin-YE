@@ -1,0 +1,73 @@
+{
+  "id": 890439553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40574,14.17206,45.40574,14.17206",
+    "geom:latitude":14.17206,
+    "geom:longitude":45.40574,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0644 \u062c\u0627\u0628\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Ghawl Jabir"
+    ],
+    "qs:name":"Ghawl J\u0101bir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051795,
+        "gp:id":1958988,
+        "qs:id":751178,
+        "wd:id":"Q20304371"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052240,
+    "wof:geomhash":"5d1b066b525090e33d7b797e1bf4adbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919237,
+            "locality_id":890439553,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":890439553,
+    "wof:lastmodified":1514503267,
+    "wof:name":"Ghawl J\u0101bir",
+    "wof:parent_id":1091919237,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40574,
+    14.17206,
+    45.40574,
+    14.17206
+],
+  "geometry": {"coordinates":[45.40574,14.17206],"type":"Point"}
+}

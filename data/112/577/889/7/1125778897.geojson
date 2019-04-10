@@ -1,0 +1,85 @@
+{
+  "id": 1125778897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3745,14.33801,45.3745,14.33801",
+    "geom:latitude":14.33801,
+    "geom:longitude":45.3745,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16,
+    "gn:population":16,
+    "iso:country":"YE",
+    "lbl:latitude":14.33801,
+    "lbl:longitude":45.3745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0644\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Makhlaf"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8051829,
+    "qs_pg:gn_pop":16,
+    "qs_pg:name":"Al Makhlaf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":751212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051829,
+        "qs_pg:id":751212,
+        "wd:id":"Q20307466"
+    },
+    "wof:country":"YE",
+    "wof:created":1497290384,
+    "wof:geomhash":"0adc5e193d528dd103706095a154169f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919055,
+            "locality_id":1125778897,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1125778897,
+    "wof:lastmodified":1514503179,
+    "wof:name":"Al Makhlaf",
+    "wof:parent_id":1091919055,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3745,
+    14.33801,
+    45.3745,
+    14.33801
+],
+  "geometry": {"coordinates":[45.3745,14.33801],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327013223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51511,16.29001,44.51511,16.29001",
+    "geom:latitude":16.29001,
+    "geom:longitude":44.51511,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Lubb",
+    "gn:country_code":"YE",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975057,
+    "gn:latitude":16.29001,
+    "gn:longitude":44.51511,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Al Lubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bd06fe775381af4afd7f4d29ded29eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920719,
+            "locality_id":1327013223,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1327013223,
+    "wof:lastmodified":1537716118,
+    "wof:name":"Al Lubb",
+    "wof:parent_id":1091920719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51511,
+    16.29001,
+    44.51511,
+    16.29001
+],
+  "geometry": {"coordinates":[44.51511,16.29001],"type":"Point"}
+}

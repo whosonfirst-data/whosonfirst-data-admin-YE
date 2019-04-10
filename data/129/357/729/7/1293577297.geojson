@@ -1,0 +1,75 @@
+{
+  "id": 1293577297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54823,14.27723,44.54823,14.27723",
+    "geom:latitude":14.27723,
+    "geom:longitude":44.54823,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Al Qiflah",
+    "gn:country_code":"YE",
+    "gn:dem":2413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340013,
+    "gn:latitude":14.27723,
+    "gn:longitude":44.54823,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Al Qiflah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qaflah",
+        "Al Qiflah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340013
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1fa5b9b644b9c1e31865a6ad1d8f92a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1293577297,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1293577297,
+    "wof:lastmodified":1537715436,
+    "wof:name":"Al Qiflah",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54823,
+    14.27723,
+    44.54823,
+    14.27723
+],
+  "geometry": {"coordinates":[44.54823,14.27723],"type":"Point"}
+}

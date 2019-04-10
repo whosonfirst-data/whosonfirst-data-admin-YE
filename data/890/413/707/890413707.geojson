@@ -1,0 +1,73 @@
+{
+  "id": 890413707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27759,17.36318,43.27759,17.36318",
+    "geom:latitude":17.36318,
+    "geom:longitude":43.27759,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0648\u062d\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mashawhit"
+    ],
+    "qs:name":"Al Mashaw\u1e29i\u0163",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856620,
+        "gp:id":56447933,
+        "qs:id":742537,
+        "wd:id":"Q20299454"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051011,
+    "wof:geomhash":"fccc43f034aac6d81907eb7de3fd67e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":890413707,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413707,
+    "wof:lastmodified":1514503183,
+    "wof:name":"Al Mashaw\u1e29i\u0163",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27759,
+    17.36318,
+    43.27759,
+    17.36318
+],
+  "geometry": {"coordinates":[43.27759,17.36318],"type":"Point"}
+}

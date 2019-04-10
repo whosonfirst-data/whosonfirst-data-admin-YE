@@ -1,0 +1,74 @@
+{
+  "id": 1243509247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78574,13.13388,43.78574,13.13388",
+    "geom:latitude":13.13388,
+    "geom:longitude":43.78574,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Ash Shu'ayb",
+    "gn:country_code":"YE",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9261071,
+    "gn:latitude":13.13388,
+    "gn:longitude":43.78574,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shu\u2018ayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ash Shu\u2018ayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9261071
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da0ad1ea04edd3934826b9326e8c1d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1243509247,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243509247,
+    "wof:lastmodified":1537716065,
+    "wof:name":"Ash Shu'ayb",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78574,
+    13.13388,
+    43.78574,
+    13.13388
+],
+  "geometry": {"coordinates":[43.78574,13.13388],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890449141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21288,17.1067,43.21288,17.1067",
+    "geom:latitude":17.1067,
+    "geom:longitude":43.21288,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Khawaq"
+    ],
+    "qs:name":"Khawaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022095,
+        "gp:id":1938135,
+        "qs:id":750257,
+        "wd:id":"Q20299141"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052671,
+    "wof:geomhash":"ee951dc37cbdb0b557bee4254354a6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890449141,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890449141,
+    "wof:lastmodified":1514503302,
+    "wof:name":"Khawaq",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21288,
+    17.1067,
+    43.21288,
+    17.1067
+],
+  "geometry": {"coordinates":[43.21288,17.1067],"type":"Point"}
+}

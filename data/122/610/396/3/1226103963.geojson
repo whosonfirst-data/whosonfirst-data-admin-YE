@@ -1,0 +1,74 @@
+{
+  "id": 1226103963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8342,16.17116,43.8342,16.17116",
+    "geom:latitude":16.17116,
+    "geom:longitude":43.8342,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Al Mash'uriyah",
+    "gn:country_code":"YE",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9634630,
+    "gn:latitude":16.17116,
+    "gn:longitude":43.8342,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mash\u2018\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0639\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mash\u2018\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634630
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cae008a89052a5c57fc5c69a1eb0a9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921619,
+            "locality_id":1226103963,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1226103963,
+    "wof:lastmodified":1537716085,
+    "wof:name":"Al Mash'uriyah",
+    "wof:parent_id":1091921619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8342,
+    16.17116,
+    43.8342,
+    16.17116
+],
+  "geometry": {"coordinates":[43.8342,16.17116],"type":"Point"}
+}

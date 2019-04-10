@@ -1,0 +1,74 @@
+{
+  "id": 1310484427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57507,17.06939,43.57507,17.06939",
+    "geom:latitude":17.06939,
+    "geom:longitude":43.57507,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Majz",
+    "gn:country_code":"YE",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8534038,
+    "gn:latitude":17.06939,
+    "gn:longitude":43.57507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Majz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0632"
+    ],
+    "name:und_x_variant":[
+        "Majadh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534038
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"132134701dd96650f70a56c93eee0cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1310484427,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1310484427,
+    "wof:lastmodified":1537716049,
+    "wof:name":"Majz",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57507,
+    17.06939,
+    43.57507,
+    17.06939
+],
+  "geometry": {"coordinates":[43.57507,17.06939],"type":"Point"}
+}

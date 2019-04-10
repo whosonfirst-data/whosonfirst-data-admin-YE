@@ -1,0 +1,74 @@
+{
+  "id": 1193006513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26292,15.39384,43.26292,15.39384",
+    "geom:latitude":15.39384,
+    "geom:longitude":43.26292,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Al Khatmah",
+    "gn:country_code":"YE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036195,
+    "gn:latitude":15.39384,
+    "gn:longitude":43.26292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kha\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kha\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036195
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4afaf609f812db4d61e9c76c7e1e81a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921307,
+            "locality_id":1193006513,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1193006513,
+    "wof:lastmodified":1537716313,
+    "wof:name":"Al Khatmah",
+    "wof:parent_id":1091921307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26292,
+    15.39384,
+    43.26292,
+    15.39384
+],
+  "geometry": {"coordinates":[43.26292,15.39384],"type":"Point"}
+}

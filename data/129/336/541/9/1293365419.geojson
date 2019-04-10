@@ -1,0 +1,75 @@
+{
+  "id": 1293365419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93763,16.50524,43.93763,16.50524",
+    "geom:latitude":16.50524,
+    "geom:longitude":43.93763,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Baydan",
+    "gn:country_code":"YE",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362081,
+    "gn:latitude":16.50524,
+    "gn:longitude":43.93763,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bay\u1e11\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0636\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e29a\u1e11ah",
+        "Bay\u1e11\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362081
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a457f975e9a6bb5a7db7b67a5aa33f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1293365419,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293365419,
+    "wof:lastmodified":1537715835,
+    "wof:name":"Baydan",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93763,
+    16.50524,
+    43.93763,
+    16.50524
+],
+  "geometry": {"coordinates":[43.93763,16.50524],"type":"Point"}
+}

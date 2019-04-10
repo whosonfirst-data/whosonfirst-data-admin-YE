@@ -1,0 +1,73 @@
+{
+  "id": 1343724587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65809,13.81211,44.65809,13.81211",
+    "geom:latitude":13.81211,
+    "geom:longitude":44.65809,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Lakmat ad Duki",
+    "gn:country_code":"YE",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73543,
+    "gn:latitude":13.81211,
+    "gn:longitude":44.65809,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lakmat ad D\u016bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakhamat Ad Duki",
+        "Lakmat ad D\u016bq\u012b",
+        "Lakmat ad D\u016bk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73543
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d33cda14486361c0b73d6fae219b6ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919595,
+            "locality_id":1343724587,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1343724587,
+    "wof:lastmodified":1537715137,
+    "wof:name":"Lakmat ad Duki",
+    "wof:parent_id":1091919595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65809,
+    13.81211,
+    44.65809,
+    13.81211
+],
+  "geometry": {"coordinates":[44.65809,13.81211],"type":"Point"}
+}

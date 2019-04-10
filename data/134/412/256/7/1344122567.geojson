@@ -1,0 +1,72 @@
+{
+  "id": 1344122567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76667,13.83333,44.76667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":44.76667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Bi'r al Kubah",
+    "gn:country_code":"YE",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76789,
+    "gn:latitude":13.83333,
+    "gn:longitude":44.76667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bi\u2019r al K\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir-al-Kuba",
+        "Bi\u2019r al K\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76789
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"53f659b6fae06b3265325c7f43028782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919675,
+            "locality_id":1344122567,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1344122567,
+    "wof:lastmodified":1537715209,
+    "wof:name":"Bi'r al Kubah",
+    "wof:parent_id":1091919675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76667,
+    13.83333,
+    44.76667,
+    13.83333
+],
+  "geometry": {"coordinates":[44.76667,13.83333],"type":"Point"}
+}

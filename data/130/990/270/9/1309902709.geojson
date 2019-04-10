@@ -1,0 +1,79 @@
+{
+  "id": 1309902709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29922,14.6856,43.29922,14.6856",
+    "geom:latitude":14.6856,
+    "geom:longitude":43.29922,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Al Mansuriyah",
+    "gn:country_code":"YE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":78929,
+    "gn:latitude":14.6856,
+    "gn:longitude":43.29922,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Man\u015f\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Man\u015f\u016briyyah",
+        "Al Man\u015f\u016br\u012bah",
+        "Man\u015fur\u012byah",
+        "Al Man\u015f\u016br\u012byyah",
+        "Mansuriya",
+        "Al Man\u015f\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78929
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49683db20d0a9a5839c48f9132e5c3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920045,
+            "locality_id":1309902709,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1309902709,
+    "wof:lastmodified":1537715279,
+    "wof:name":"Al Mansuriyah",
+    "wof:parent_id":1091920045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29922,
+    14.6856,
+    43.29922,
+    14.6856
+],
+  "geometry": {"coordinates":[43.29922,14.6856],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243129155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7198,13.79572,43.7198,13.79572",
+    "geom:latitude":13.79572,
+    "geom:longitude":43.7198,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Al Madrub",
+    "gn:country_code":"YE",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355742,
+    "gn:latitude":13.79572,
+    "gn:longitude":43.7198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ma\u1e11r\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0631\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e11r\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"09607e467f95247b586553692f143f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926675,
+            "locality_id":1243129155,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243129155,
+    "wof:lastmodified":1537715649,
+    "wof:name":"Al Madrub",
+    "wof:parent_id":1091926675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7198,
+    13.79572,
+    43.7198,
+    13.79572
+],
+  "geometry": {"coordinates":[43.7198,13.79572],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293267315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08348,16.38729,44.08348,16.38729",
+    "geom:latitude":16.38729,
+    "geom:longitude":44.08348,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Az Zalm",
+    "gn:country_code":"YE",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9973628,
+    "gn:latitude":16.38729,
+    "gn:longitude":44.08348,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az\u0327 Z\u0327alm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327alm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973628
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4080c90cd8a968b4ca97d55029de4a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921891,
+            "locality_id":1293267315,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1293267315,
+    "wof:lastmodified":1537716104,
+    "wof:name":"Az Zalm",
+    "wof:parent_id":1091921891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08348,
+    16.38729,
+    44.08348,
+    16.38729
+],
+  "geometry": {"coordinates":[44.08348,16.38729],"type":"Point"}
+}

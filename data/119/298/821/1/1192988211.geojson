@@ -1,0 +1,74 @@
+{
+  "id": 1192988211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31581,16.69327,43.31581,16.69327",
+    "geom:latitude":16.69327,
+    "geom:longitude":43.31581,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Al Manamah",
+    "gn:country_code":"YE",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855125,
+    "gn:latitude":16.69327,
+    "gn:longitude":43.31581,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Man\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Man\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855125
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dc50e6c3cf54383773b56586430828f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1192988211,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1192988211,
+    "wof:lastmodified":1537715999,
+    "wof:name":"Al Manamah",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31581,
+    16.69327,
+    43.31581,
+    16.69327
+],
+  "geometry": {"coordinates":[43.31581,16.69327],"type":"Point"}
+}

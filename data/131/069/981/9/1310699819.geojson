@@ -1,0 +1,73 @@
+{
+  "id": 1310699819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.42767,15.05947,47.42767,15.05947",
+    "geom:latitude":15.05947,
+    "geom:longitude":47.42767,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Maysah",
+    "gn:country_code":"YE",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72739,
+    "gn:latitude":15.05947,
+    "gn:longitude":47.42767,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Maysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Mese",
+        "Maisah",
+        "Maysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091925929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72739
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"13f18a8af32ec0107cf0c4293519761a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925929,
+            "locality_id":1310699819,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1310699819,
+    "wof:lastmodified":1537715119,
+    "wof:name":"Maysah",
+    "wof:parent_id":1091925929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.42767,
+    15.05947,
+    47.42767,
+    15.05947
+],
+  "geometry": {"coordinates":[47.42767,15.05947],"type":"Point"}
+}

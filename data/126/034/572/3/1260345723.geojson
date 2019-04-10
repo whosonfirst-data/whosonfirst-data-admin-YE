@@ -1,0 +1,75 @@
+{
+  "id": 1260345723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15093,13.23025,44.15093,13.23025",
+    "geom:latitude":13.23025,
+    "geom:longitude":44.15093,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Dar Bubah",
+    "gn:country_code":"YE",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355398,
+    "gn:latitude":13.23025,
+    "gn:longitude":44.15093,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"D\u0101r B\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0628\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Darb\u016bbah",
+        "D\u0101r B\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355398
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"553fab10af0a467a660d177bd9b57915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1260345723,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1260345723,
+    "wof:lastmodified":1537715637,
+    "wof:name":"Dar Bubah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15093,
+    13.23025,
+    44.15093,
+    13.23025
+],
+  "geometry": {"coordinates":[44.15093,13.23025],"type":"Point"}
+}

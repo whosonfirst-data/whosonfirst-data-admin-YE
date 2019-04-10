@@ -1,0 +1,71 @@
+{
+  "id": 1259750773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80579,13.16472,43.80579,13.16472",
+    "geom:latitude":13.16472,
+    "geom:longitude":43.80579,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Qarib",
+    "gn:country_code":"YE",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7354651,
+    "gn:latitude":13.16472,
+    "gn:longitude":43.80579,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qar\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qar\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7354651
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d1b0460c4923aa3f6c7ef2d3996ec6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1259750773,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1259750773,
+    "wof:lastmodified":1537715618,
+    "wof:name":"Al Qarib",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80579,
+    13.16472,
+    43.80579,
+    13.16472
+],
+  "geometry": {"coordinates":[43.80579,13.16472],"type":"Point"}
+}

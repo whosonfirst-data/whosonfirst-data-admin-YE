@@ -1,0 +1,71 @@
+{
+  "id": 1360273769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31784,15.47548,43.31784,15.47548",
+    "geom:latitude":15.47548,
+    "geom:longitude":43.31784,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Bani `Amr",
+    "gn:country_code":"YE",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402833,
+    "gn:latitude":15.47548,
+    "gn:longitude":43.31784,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ban\u012b \u2018Amr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u2018Amr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402833
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"92e4711707041fb23c6dbcf4d05ebe50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1360273769,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1360273769,
+    "wof:lastmodified":1537715363,
+    "wof:name":"Bani `Amr",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31784,
+    15.47548,
+    43.31784,
+    15.47548
+],
+  "geometry": {"coordinates":[43.31784,15.47548],"type":"Point"}
+}

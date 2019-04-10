@@ -1,0 +1,74 @@
+{
+  "id": 1242831351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17568,13.7255,44.17568,13.7255",
+    "geom:latitude":13.7255,
+    "geom:longitude":44.17568,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Dhukhar",
+    "gn:country_code":"YE",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75934,
+    "gn:latitude":13.7255,
+    "gn:longitude":44.17568,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhukh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dhukh\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Dukh\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75934
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5211bbb6f3637cd70e8f78b2ff6279d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926479,
+            "locality_id":1242831351,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1242831351,
+    "wof:lastmodified":1537715184,
+    "wof:name":"Dhukhar",
+    "wof:parent_id":1091926479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17568,
+    13.7255,
+    44.17568,
+    13.7255
+],
+  "geometry": {"coordinates":[44.17568,13.7255],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243214551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.24137,12.50038,54.24137,12.50038",
+    "geom:latitude":12.50038,
+    "geom:longitude":54.24137,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Safaqiq",
+    "gn:country_code":"YE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182579,
+    "gn:latitude":12.50038,
+    "gn:longitude":54.24137,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eaf\u0101qiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182579
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"66612fcace0df34c82f1fe82af74c64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243214551,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1243214551,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1243214551,
+    "wof:lastmodified":1536642156,
+    "wof:name":"Safaqiq",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.24137,
+    12.50038,
+    54.24137,
+    12.50038
+],
+  "geometry": {"coordinates":[54.24137,12.50038],"type":"Point"}
+}

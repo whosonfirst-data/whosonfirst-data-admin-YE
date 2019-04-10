@@ -1,0 +1,65 @@
+{
+  "id": 1209611921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16345,15.40411,43.16345,15.40411",
+    "geom:latitude":15.40411,
+    "geom:longitude":43.16345,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Dayr al Qurayti",
+    "gn:country_code":"YE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403005,
+    "gn:latitude":15.40411,
+    "gn:longitude":43.16345,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dayr al Quray\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al Quray\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403005
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"76595a633352870bde158cf67a6d0123",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209611921
+        }
+    ],
+    "wof:id":1209611921,
+    "wof:lastmodified":1537715368,
+    "wof:name":"Dayr al Qurayti",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16345,
+    15.40411,
+    43.16345,
+    15.40411
+],
+  "geometry": {"coordinates":[43.16345,15.40411],"type":"Point"}
+}

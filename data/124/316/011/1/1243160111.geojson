@@ -1,0 +1,71 @@
+{
+  "id": 1243160111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38335,14.36693,44.38335,14.36693",
+    "geom:latitude":14.36693,
+    "geom:longitude":44.38335,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Najd al Aslaq",
+    "gn:country_code":"YE",
+    "gn:dem":2609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72336,
+    "gn:latitude":14.36693,
+    "gn:longitude":44.38335,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Najd al Asl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najd al Asl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72336
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cad2c180d8966c034e9c424ac5ef322e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1243160111,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243160111,
+    "wof:lastmodified":1537715113,
+    "wof:name":"Najd al Aslaq",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38335,
+    14.36693,
+    44.38335,
+    14.36693
+],
+  "geometry": {"coordinates":[44.38335,14.36693],"type":"Point"}
+}

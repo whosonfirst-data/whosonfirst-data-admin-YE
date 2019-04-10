@@ -1,0 +1,73 @@
+{
+  "id": 1226669043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08333,15.48333,48.08333,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":48.08333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Hisn al Hijl",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74763,
+    "gn:latitude":15.48333,
+    "gn:longitude":48.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28i\u015fn al \u1e28ijl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24u\u1e63n al-\u1e24ijil",
+        "\u1e28i\u015fn al \u1e28ijl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74763
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ef82a7fa8b888621ef1985ae89d91d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923043,
+            "locality_id":1226669043,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226669043,
+    "wof:lastmodified":1537715164,
+    "wof:name":"Hisn al Hijl",
+    "wof:parent_id":1091923043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08333,
+    15.48333,
+    48.08333,
+    15.48333
+],
+  "geometry": {"coordinates":[48.08333,15.48333],"type":"Point"}
+}

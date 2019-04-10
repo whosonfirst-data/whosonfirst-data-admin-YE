@@ -1,0 +1,73 @@
+{
+  "id": 890418803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39616,16.08595,43.39616,16.08595",
+    "geom:latitude":16.08595,
+    "geom:longitude":43.39616,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0642\u0627\u0633\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Qasim"
+    ],
+    "qs:name":"Bayt Q\u0101sim",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654654,
+        "gp:id":1958568,
+        "qs:id":695961,
+        "wd:id":"Q20300568"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051262,
+    "wof:geomhash":"47ed80196939578e2405d7c94bb8a2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890418803,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890418803,
+    "wof:lastmodified":1514503246,
+    "wof:name":"Bayt Q\u0101sim",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39616,
+    16.08595,
+    43.39616,
+    16.08595
+],
+  "geometry": {"coordinates":[43.39616,16.08595],"type":"Point"}
+}

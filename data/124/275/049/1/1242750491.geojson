@@ -1,0 +1,71 @@
+{
+  "id": 1242750491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,17.2,43.4,17.2",
+    "geom:latitude":17.2,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Batin",
+    "gn:country_code":"YE",
+    "gn:dem":2591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77054,
+    "gn:latitude":17.2,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba\u0163\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u0163\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77054
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f388851413ddb13654ce376f34bcb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1242750491,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242750491,
+    "wof:lastmodified":1537715218,
+    "wof:name":"Batin",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    17.2,
+    43.4,
+    17.2
+],
+  "geometry": {"coordinates":[43.4,17.2],"type":"Point"}
+}

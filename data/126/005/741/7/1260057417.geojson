@@ -1,0 +1,75 @@
+{
+  "id": 1260057417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46991,14.26387,44.46991,14.26387",
+    "geom:latitude":14.26387,
+    "geom:longitude":44.46991,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Jurf al Hammam",
+    "gn:country_code":"YE",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408307,
+    "gn:latitude":14.26387,
+    "gn:longitude":44.46991,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Jurf al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0641 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Jurf al \u1e28amm\u0101m",
+        "Jarf al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408307
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"de7752bd1cfa29c30ce8faa36a8bf72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924483,
+            "locality_id":1260057417,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260057417,
+    "wof:lastmodified":1537715418,
+    "wof:name":"Jurf al Hammam",
+    "wof:parent_id":1091924483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46991,
+    14.26387,
+    44.46991,
+    14.26387
+],
+  "geometry": {"coordinates":[44.46991,14.26387],"type":"Point"}
+}

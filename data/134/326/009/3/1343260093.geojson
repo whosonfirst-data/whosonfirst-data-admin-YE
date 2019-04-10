@@ -1,0 +1,73 @@
+{
+  "id": 1343260093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72586,14.69256,45.72586,14.69256",
+    "geom:latitude":14.69256,
+    "geom:longitude":45.72586,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Dhummar",
+    "gn:country_code":"YE",
+    "gn:dem":1198,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76069,
+    "gn:latitude":14.69256,
+    "gn:longitude":45.72586,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhummar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dummar",
+        "Dhummar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76069
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"72a501039c340ff7875cc9d39c277b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926037,
+            "locality_id":1343260093,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1343260093,
+    "wof:lastmodified":1537715187,
+    "wof:name":"Dhummar",
+    "wof:parent_id":1091926037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72586,
+    14.69256,
+    45.72586,
+    14.69256
+],
+  "geometry": {"coordinates":[45.72586,14.69256],"type":"Point"}
+}

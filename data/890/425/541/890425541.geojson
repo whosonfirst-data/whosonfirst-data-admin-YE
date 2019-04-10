@@ -1,0 +1,73 @@
+{
+  "id": 890425541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47867,16.80322,44.47867,16.80322",
+    "geom:latitude":16.80322,
+    "geom:longitude":44.47867,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khaymah"
+    ],
+    "qs:name":"Al Khaymah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794947,
+        "gp:id":1959135,
+        "qs:id":700723,
+        "wd:id":"Q20305238"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051594,
+    "wof:geomhash":"40579fd712dbe89dc7aa96d1b16a3c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920749,
+            "locality_id":890425541,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890425541,
+    "wof:lastmodified":1514503165,
+    "wof:name":"Al Khaymah",
+    "wof:parent_id":1091920749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47867,
+    16.80322,
+    44.47867,
+    16.80322
+],
+  "geometry": {"coordinates":[44.47867,16.80322],"type":"Point"}
+}

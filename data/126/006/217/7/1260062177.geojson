@@ -1,0 +1,68 @@
+{
+  "id": 1260062177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6921,15.30786,44.6921,15.30786",
+    "geom:latitude":15.30786,
+    "geom:longitude":44.6921,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Al Hajar",
+    "gn:country_code":"YE",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341707,
+    "gn:latitude":15.30786,
+    "gn:longitude":44.6921,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Hajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341707
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1980c5dca90fc8bea79851823fddb6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925803,
+            "locality_id":1260062177,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1260062177,
+    "wof:lastmodified":1537017996,
+    "wof:name":"Al Hajar",
+    "wof:parent_id":1091925803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6921,
+    15.30786,
+    44.6921,
+    15.30786
+],
+  "geometry": {"coordinates":[44.6921,15.30786],"type":"Point"}
+}

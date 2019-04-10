@@ -1,0 +1,74 @@
+{
+  "id": 1327491447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01764,14.37458,44.01764,14.37458",
+    "geom:latitude":14.37458,
+    "geom:longitude":44.01764,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Jabal as Sal'",
+    "gn:country_code":"YE",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870178,
+    "gn:latitude":14.37458,
+    "gn:longitude":44.01764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jabal as Sal\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0633\u0644\u0639"
+    ],
+    "name:und_x_variant":[
+        "Jabal as Sal\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870178
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f15322f293008c0d8c663ff16253d7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1327491447,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1327491447,
+    "wof:lastmodified":1537716211,
+    "wof:name":"Jabal as Sal'",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01764,
+    14.37458,
+    44.01764,
+    14.37458
+],
+  "geometry": {"coordinates":[44.01764,14.37458],"type":"Point"}
+}

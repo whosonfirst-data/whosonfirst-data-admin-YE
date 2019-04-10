@@ -1,0 +1,71 @@
+{
+  "id": 1259843153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95061,15.22491,43.95061,15.22491",
+    "geom:latitude":15.22491,
+    "geom:longitude":43.95061,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Bayt al Hammadi",
+    "gn:country_code":"YE",
+    "gn:dem":2913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7367209,
+    "gn:latitude":15.22491,
+    "gn:longitude":43.95061,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al \u1e28amm\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al \u1e28amm\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7367209
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d82d9a60b84f9d07448c8a53f6257c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925615,
+            "locality_id":1259843153,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259843153,
+    "wof:lastmodified":1537715972,
+    "wof:name":"Bayt al Hammadi",
+    "wof:parent_id":1091925615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95061,
+    15.22491,
+    43.95061,
+    15.22491
+],
+  "geometry": {"coordinates":[43.95061,15.22491],"type":"Point"}
+}

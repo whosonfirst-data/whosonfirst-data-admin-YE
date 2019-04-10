@@ -1,0 +1,71 @@
+{
+  "id": 1326687873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95329,13.99484,43.95329,13.99484",
+    "geom:latitude":13.99484,
+    "geom:longitude":43.95329,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Al Ashbut",
+    "gn:country_code":"YE",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355835,
+    "gn:latitude":13.99484,
+    "gn:longitude":43.95329,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Ashb\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ashb\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355835
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"21ea618c2387946ca68b9c1bf5015906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924435,
+            "locality_id":1326687873,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326687873,
+    "wof:lastmodified":1537715652,
+    "wof:name":"Al Ashbut",
+    "wof:parent_id":1091924435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95329,
+    13.99484,
+    43.95329,
+    13.99484
+],
+  "geometry": {"coordinates":[43.95329,13.99484],"type":"Point"}
+}

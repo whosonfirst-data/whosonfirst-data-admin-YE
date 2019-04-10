@@ -1,0 +1,71 @@
+{
+  "id": 1343237197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81704,16.24241,43.81704,16.24241",
+    "geom:latitude":16.24241,
+    "geom:longitude":43.81704,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Umm Hazah",
+    "gn:country_code":"YE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362000,
+    "gn:latitude":16.24241,
+    "gn:longitude":43.81704,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Umm \u1e28\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u1e28\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362000
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6ab6e8598158f73d7f650c0d74e1a889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921677,
+            "locality_id":1343237197,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343237197,
+    "wof:lastmodified":1537715832,
+    "wof:name":"Umm Hazah",
+    "wof:parent_id":1091921677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81704000000001,
+    16.24241,
+    43.81704000000001,
+    16.24241
+],
+  "geometry": {"coordinates":[43.81704000000001,16.24241],"type":"Point"}
+}

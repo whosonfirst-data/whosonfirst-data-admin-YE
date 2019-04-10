@@ -1,0 +1,73 @@
+{
+  "id": 890427047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.50054,14.98166,45.50054,14.98166",
+    "geom:latitude":14.98166,
+    "geom:longitude":45.50054,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0639\u0645\u0631"
+    ],
+    "qs:name":"\u0100l \u2018Umar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053520,
+        "gp:id":1959055,
+        "qs:id":751985,
+        "qs_pg:id":751935
+    },
+    "wof:country":"YE",
+    "wof:created":1469051671,
+    "wof:geomhash":"4c73e41f79620d147ba7d22d419736c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925079,
+            "locality_id":890427047,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890427047,
+    "wof:lastmodified":1505343497,
+    "wof:name":"\u0100l \u2018Umar",
+    "wof:parent_id":1091925079,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.50054,
+    14.98166,
+    45.50054,
+    14.98166
+],
+  "geometry": {"coordinates":[45.50054,14.98166],"type":"Point"}
+}

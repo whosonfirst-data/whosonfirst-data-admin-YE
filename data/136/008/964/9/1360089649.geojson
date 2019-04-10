@@ -1,0 +1,71 @@
+{
+  "id": 1360089649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88923,14.5838,46.88923,14.5838",
+    "geom:latitude":14.5838,
+    "geom:longitude":46.88923,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2113.0",
+    "gn:asciiname":"Ba Kabirah",
+    "gn:country_code":"YE",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77402,
+    "gn:latitude":14.5838,
+    "gn:longitude":46.88923,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"B\u0101 Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101 Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77402
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"030d18ab9bbff229b97f9a0b0f9c51b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926023,
+            "locality_id":1360089649,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1360089649,
+    "wof:lastmodified":1537715223,
+    "wof:name":"Ba Kabirah",
+    "wof:parent_id":1091926023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88923,
+    14.5838,
+    46.88923,
+    14.5838
+],
+  "geometry": {"coordinates":[46.88923,14.5838],"type":"Point"}
+}

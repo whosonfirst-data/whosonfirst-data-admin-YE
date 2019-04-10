@@ -1,0 +1,71 @@
+{
+  "id": 1260346233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36974,13.0691,44.36974,13.0691",
+    "geom:latitude":13.0691,
+    "geom:longitude":44.36974,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Khatabiyah",
+    "gn:country_code":"YE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":73809,
+    "gn:latitude":13.0691,
+    "gn:longitude":44.36974,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u0101\u0163ab\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101\u0163ab\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":73809
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"6a3e141eb4d48e937bf9eecd4005cc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1260346233,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1260346233,
+    "wof:lastmodified":1537715141,
+    "wof:name":"Khatabiyah",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36974,
+    13.0691,
+    44.36974,
+    13.0691
+],
+  "geometry": {"coordinates":[44.36974,13.0691],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293657535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88972,13.03167,44.88972,13.03167",
+    "geom:latitude":13.03167,
+    "geom:longitude":44.88972,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2515.0",
+    "gn:asciiname":"Harran",
+    "gn:country_code":"YE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75102,
+    "gn:latitude":13.03167,
+    "gn:longitude":44.88972,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Harr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75102
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0435a8ca37d82f3ed7c045bff1df556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924941,
+            "locality_id":1293657535,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293657535,
+    "wof:lastmodified":1537715171,
+    "wof:name":"Harran",
+    "wof:parent_id":1091924941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88972,
+    13.03167,
+    44.88972,
+    13.03167
+],
+  "geometry": {"coordinates":[44.88972,13.03167],"type":"Point"}
+}

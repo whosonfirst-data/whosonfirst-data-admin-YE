@@ -1,0 +1,75 @@
+{
+  "id": 1309880103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6225,13.93694,45.6225,13.93694",
+    "geom:latitude":13.93694,
+    "geom:longitude":45.6225,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Am Buwayb",
+    "gn:country_code":"YE",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79791,
+    "gn:latitude":13.93694,
+    "gn:longitude":45.6225,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Buwayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Buwayb",
+        "Am Buwayb",
+        "Am Buwaib",
+        "Am-Buhaid",
+        "Al Buwayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79791
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4c1aad36686d781d72e23e259eaf437e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1309880103,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1309880103,
+    "wof:lastmodified":1537715317,
+    "wof:name":"Am Buwayb",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6225,
+    13.93694,
+    45.6225,
+    13.93694
+],
+  "geometry": {"coordinates":[45.6225,13.93694],"type":"Point"}
+}

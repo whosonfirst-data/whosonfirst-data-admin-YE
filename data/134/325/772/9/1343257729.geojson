@@ -1,0 +1,71 @@
+{
+  "id": 1343257729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26618,15.46185,43.26618,15.46185",
+    "geom:latitude":15.46185,
+    "geom:longitude":43.26618,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Manabir",
+    "gn:country_code":"YE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300397,
+    "gn:latitude":15.46185,
+    "gn:longitude":43.26618,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Man\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300397
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"404ac6d7752c17dbb5e35314855f3003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1343257729,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343257729,
+    "wof:lastmodified":1537716034,
+    "wof:name":"Manabir",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26618,
+    15.46185,
+    43.26618,
+    15.46185
+],
+  "geometry": {"coordinates":[43.26618,15.46185],"type":"Point"}
+}

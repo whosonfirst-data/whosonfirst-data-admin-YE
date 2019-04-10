@@ -1,0 +1,69 @@
+{
+  "id": 890455585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46078,16.15354,43.46078,16.15354",
+    "geom:latitude":16.15354,
+    "geom:longitude":43.46078,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u064a\u062c\u0640\u0629"
+    ],
+    "qs:name":"Al Hayjah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658661,
+        "gp:id":1959128,
+        "qs:id":696459
+    },
+    "wof:country":"YE",
+    "wof:created":1469052963,
+    "wof:geomhash":"bd6706c7970a3ceb1134a5b0ae48ede1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":890455585,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890455585,
+    "wof:lastmodified":1505343664,
+    "wof:name":"Al Hayjah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46078,
+    16.15354,
+    43.46078,
+    16.15354
+],
+  "geometry": {"coordinates":[43.46078,16.15354],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890449045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66844,16.05166,43.66844,16.05166",
+    "geom:latitude":16.05166,
+    "geom:longitude":43.66844,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u0640\u0640\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Haqqah"
+    ],
+    "qs:name":"Al \u1e28aqqah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020500,
+        "gp:id":1959046,
+        "qs:id":749851,
+        "wd:id":"Q20300296"
+    },
+    "wof:concordances_alt":{
+        "gn:id":8020667,
+        "qs:id":750009
+    },
+    "wof:country":"YE",
+    "wof:created":1469052665,
+    "wof:geomhash":"c071b102992b479545a5b35e5a268417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":890449045,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890449045,
+    "wof:lastmodified":1534379831,
+    "wof:name":"Al \u1e28aqqah",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890439373
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66844,
+    16.05166,
+    43.66844,
+    16.05166
+],
+  "geometry": {"coordinates":[43.66844,16.05166],"type":"Point"}
+}

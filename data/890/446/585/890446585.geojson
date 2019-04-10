@@ -1,0 +1,73 @@
+{
+  "id": 890446585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83686,16.87779,43.83686,16.87779",
+    "geom:latitude":16.87779,
+    "geom:longitude":43.83686,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":9,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0627\u0626\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "At Tairah"
+    ],
+    "qs:name":"A\u0163 \u0162\u0101\u2019irah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683790,
+        "gp:id":1958152,
+        "qs:id":697486,
+        "wd:id":"Q20304876"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052558,
+    "wof:geomhash":"c144e41816d32d8a9a036c86d17db63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":890446585,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890446585,
+    "wof:lastmodified":1514503240,
+    "wof:name":"A\u0163 \u0162\u0101\u2019irah",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83686,
+    16.87779,
+    43.83686,
+    16.87779
+],
+  "geometry": {"coordinates":[43.83686,16.87779],"type":"Point"}
+}

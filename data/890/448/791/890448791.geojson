@@ -1,0 +1,73 @@
+{
+  "id": 890448791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28503,17.11803,43.28503,17.11803",
+    "geom:latitude":17.11803,
+    "geom:longitude":43.28503,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062b\u0627\u0647\u0631 \u0627\u0644\u0634\u0628\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Thahir Ash Shibab"
+    ],
+    "qs:name":"Th\u0101hir ash Shib\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865367,
+        "gp:id":1938135,
+        "qs:id":742989,
+        "wd:id":"Q20309082"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052646,
+    "wof:geomhash":"6d300aec2fc1a25fe0b2d63f300016ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":890448791,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448791,
+    "wof:lastmodified":1514503377,
+    "wof:name":"Th\u0101hir ash Shib\u0101b",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28503,
+    17.11803,
+    43.28503,
+    17.11803
+],
+  "geometry": {"coordinates":[43.28503,17.11803],"type":"Point"}
+}

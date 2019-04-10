@@ -1,0 +1,71 @@
+{
+  "id": 1276546411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.06667,14.68333,49.06667,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":49.06667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1930.0",
+    "gn:asciiname":"Al Hutah",
+    "gn:country_code":"YE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79379,
+    "gn:latitude":14.68333,
+    "gn:longitude":49.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79379
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e99a64a9d4c818940037cfc1084b6f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922641,
+            "locality_id":1276546411,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276546411,
+    "wof:lastmodified":1537715298,
+    "wof:name":"Al Hutah",
+    "wof:parent_id":1091922641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.06667,
+    14.68333,
+    49.06667,
+    14.68333
+],
+  "geometry": {"coordinates":[49.06667,14.68333],"type":"Point"}
+}

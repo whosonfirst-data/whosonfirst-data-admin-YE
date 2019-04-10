@@ -1,0 +1,77 @@
+{
+  "id": 1360068177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30649,16.65872,43.30649,16.65872",
+    "geom:latitude":16.65872,
+    "geom:longitude":43.30649,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Al Halat",
+    "gn:country_code":"YE",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855003,
+    "gn:latitude":16.65872,
+    "gn:longitude":43.30649,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28ala\u0163",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ala\u0163"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855003
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5733434482ef46b1d325b2e6938f1117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":1360068177,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1360068177,
+    "wof:lastmodified":1537715999,
+    "wof:name":"Al Halat",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30649,
+    16.65872,
+    43.30649,
+    16.65872
+],
+  "geometry": {"coordinates":[43.30649,16.65872],"type":"Point"}
+}

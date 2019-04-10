@@ -1,0 +1,73 @@
+{
+  "id": 1243146597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37929,14.36139,44.37929,14.36139",
+    "geom:latitude":14.36139,
+    "geom:longitude":44.37929,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Al Hawa'it",
+    "gn:country_code":"YE",
+    "gn:dem":2598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950651,
+    "gn:latitude":14.36139,
+    "gn:longitude":44.37929,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al \u1e28aw\u0101\u2019i\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0627\u0626\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aw\u0101\u2019i\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950651
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"feaa5aa846fb7a04f927507291831bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922249,
+            "locality_id":1243146597,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1243146597,
+    "wof:lastmodified":1537716282,
+    "wof:name":"Al Hawa'it",
+    "wof:parent_id":1091922249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37929000000001,
+    14.36139,
+    44.37929000000001,
+    14.36139
+],
+  "geometry": {"coordinates":[44.37929000000001,14.36139],"type":"Point"}
+}

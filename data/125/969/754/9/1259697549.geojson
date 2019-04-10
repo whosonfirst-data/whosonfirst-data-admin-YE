@@ -1,0 +1,73 @@
+{
+  "id": 1259697549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19083,13.84694,46.19083,13.84694",
+    "geom:latitude":13.84694,
+    "geom:longitude":46.19083,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Am Mahafhaf",
+    "gn:country_code":"YE",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78765,
+    "gn:latitude":13.84694,
+    "gn:longitude":46.19083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Ma\u1e29af\u1e29af",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u1e29af\u1e29af",
+        "Am Ma\u1e29af\u1e29af",
+        "Umm Ma\u1e29af\u1e29af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78765
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8cb5685f51589669f47cfd0b521f3854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918593,
+            "locality_id":1259697549,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1259697549,
+    "wof:lastmodified":1537715271,
+    "wof:name":"Am Mahafhaf",
+    "wof:parent_id":1091918593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19083,
+    13.84694,
+    46.19083,
+    13.84694
+],
+  "geometry": {"coordinates":[46.19083,13.84694],"type":"Point"}
+}

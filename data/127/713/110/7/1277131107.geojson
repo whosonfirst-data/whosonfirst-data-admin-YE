@@ -1,0 +1,83 @@
+{
+  "id": 1277131107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2292,15.51827,44.2292,15.51827",
+    "geom:latitude":15.51827,
+    "geom:longitude":44.2292,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Al Qasham",
+    "gn:country_code":"YE",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362448,
+    "gn:latitude":15.51827,
+    "gn:longitude":44.2292,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qasham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0634\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Qasham",
+        "Al Qasham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681029,
+        1091921523,
+        85681021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362448
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1cb80f6828466c23bacfd3ea9b84af09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1277131107,
+            "region_id":85681029
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921523,
+            "locality_id":1277131107,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1277131107,
+    "wof:lastmodified":1537715845,
+    "wof:name":"Al Qasham",
+    "wof:parent_id":1091921523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2292,
+    15.51827,
+    44.2292,
+    15.51827
+],
+  "geometry": {"coordinates":[44.2292,15.51827],"type":"Point"}
+}

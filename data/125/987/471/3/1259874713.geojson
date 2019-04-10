@@ -1,0 +1,71 @@
+{
+  "id": 1259874713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51367,15.50678,43.51367,15.50678",
+    "geom:latitude":15.50678,
+    "geom:longitude":43.51367,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bayt as Sarawi",
+    "gn:country_code":"YE",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344123,
+    "gn:latitude":15.50678,
+    "gn:longitude":43.51367,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt as Saraw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt as Saraw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344123
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4d7366aa74747471a2c9b81e46de2144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1259874713,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1259874713,
+    "wof:lastmodified":1537715528,
+    "wof:name":"Bayt as Sarawi",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51367,
+    15.50678,
+    43.51367,
+    15.50678
+],
+  "geometry": {"coordinates":[43.51367,15.50678],"type":"Point"}
+}

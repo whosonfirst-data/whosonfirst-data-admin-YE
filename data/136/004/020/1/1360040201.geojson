@@ -1,0 +1,77 @@
+{
+  "id": 1360040201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72272,13.0851,43.72272,13.0851",
+    "geom:latitude":13.0851,
+    "geom:longitude":43.72272,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Al Qahfah",
+    "gn:country_code":"YE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069110,
+    "gn:latitude":13.0851,
+    "gn:longitude":43.72272,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u1e29fah",
+    "gn:population":28,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u062d\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u1e29fah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069110
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5c5fb83d0a2156a0e2b48f782a47327f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1360040201,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360040201,
+    "wof:lastmodified":1537716014,
+    "wof:name":"Al Qahfah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72272,
+    13.0851,
+    43.72272,
+    13.0851
+],
+  "geometry": {"coordinates":[43.72272,13.0851],"type":"Point"}
+}

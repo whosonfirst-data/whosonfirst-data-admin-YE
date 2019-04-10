@@ -1,0 +1,71 @@
+{
+  "id": 1226817903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62197,15.57663,43.62197,15.57663",
+    "geom:latitude":15.57663,
+    "geom:longitude":43.62197,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1727.0",
+    "gn:asciiname":"Ad Daqa'iq",
+    "gn:country_code":"YE",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7344114,
+    "gn:latitude":15.57663,
+    "gn:longitude":43.62197,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ad Daq\u0101\u2019iq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Daq\u0101\u2019iq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7344114
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b4826d8f0c53dbe1063156a092b3e743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923795,
+            "locality_id":1226817903,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226817903,
+    "wof:lastmodified":1537715528,
+    "wof:name":"Ad Daqa'iq",
+    "wof:parent_id":1091923795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62197000000001,
+    15.57663,
+    43.62197000000001,
+    15.57663
+],
+  "geometry": {"coordinates":[43.62197000000001,15.57663],"type":"Point"}
+}

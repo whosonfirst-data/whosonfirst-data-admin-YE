@@ -1,0 +1,71 @@
+{
+  "id": 1225808903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35142,15.64278,44.35142,15.64278",
+    "geom:latitude":15.64278,
+    "geom:longitude":44.35142,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bayt Sawdi",
+    "gn:country_code":"YE",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362228,
+    "gn:latitude":15.64278,
+    "gn:longitude":44.35142,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Sawd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Sawd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362228
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"86908dd14a63a2ce332ab5c0cb060b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1225808903,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1225808903,
+    "wof:lastmodified":1537715839,
+    "wof:name":"Bayt Sawdi",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35142000000001,
+    15.64278,
+    44.35142000000001,
+    15.64278
+],
+  "geometry": {"coordinates":[44.35142000000001,15.64278],"type":"Point"}
+}

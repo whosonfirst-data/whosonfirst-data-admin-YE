@@ -1,0 +1,76 @@
+{
+  "id": 890448601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38827,16.73478,43.38827,16.73478",
+    "geom:latitude":16.73478,
+    "geom:longitude":43.38827,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":8,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0100l Qur\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644 \u0642\u0631\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qurash"
+    ],
+    "qs:name":"\u0100l Qur\u0101sh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855441,
+        "gp:id":1959061,
+        "qs:id":742347,
+        "wd:id":"Q20299077"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052637,
+    "wof:geomhash":"ca3b76d85dbc878c681a63579fb8c48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890448601,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890448601,
+    "wof:lastmodified":1514503389,
+    "wof:name":"\u0100l Qur\u0101sh",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38827,
+    16.73478,
+    43.38827,
+    16.73478
+],
+  "geometry": {"coordinates":[43.38827,16.73478],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259365003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85696,15.15231,44.85696,15.15231",
+    "geom:latitude":15.15231,
+    "geom:longitude":44.85696,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2314.0",
+    "gn:asciiname":"Qaryat an Namir",
+    "gn:country_code":"YE",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341869,
+    "gn:latitude":15.15231,
+    "gn:longitude":44.85696,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat an Namir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341869
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7da3208d76d32ba7ace49c6a32c375c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925737,
+            "locality_id":1259365003,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1259365003,
+    "wof:lastmodified":1537027717,
+    "wof:name":"Qaryat an Namir",
+    "wof:parent_id":1091925737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85696,
+    15.15231,
+    44.85696,
+    15.15231
+],
+  "geometry": {"coordinates":[44.85696,15.15231],"type":"Point"}
+}

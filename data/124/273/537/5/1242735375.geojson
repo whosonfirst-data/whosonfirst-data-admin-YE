@@ -1,0 +1,71 @@
+{
+  "id": 1242735375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30444,13.19056,44.30444,13.19056",
+    "geom:latitude":13.19056,
+    "geom:longitude":44.30444,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Al Midad",
+    "gn:country_code":"YE",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78827,
+    "gn:latitude":13.19056,
+    "gn:longitude":44.30444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mid\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mid\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78827
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"be868caeb0a2bd51b004c4599b756784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1242735375,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1242735375,
+    "wof:lastmodified":1537715274,
+    "wof:name":"Al Midad",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30444,
+    13.19056,
+    44.30444,
+    13.19056
+],
+  "geometry": {"coordinates":[44.30444,13.19056],"type":"Point"}
+}

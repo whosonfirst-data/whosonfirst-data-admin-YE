@@ -1,0 +1,74 @@
+{
+  "id": 1243232249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15756,14.27266,44.15756,14.27266",
+    "geom:latitude":14.27266,
+    "geom:longitude":44.15756,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"'Aymar",
+    "gn:country_code":"YE",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870241,
+    "gn:latitude":14.27266,
+    "gn:longitude":44.15756,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aymar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aymar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870241
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9d99db224671b520b6d743f965a4edb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1243232249,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1243232249,
+    "wof:lastmodified":1537716214,
+    "wof:name":"'Aymar",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15756,
+    14.27266,
+    44.15756,
+    14.27266
+],
+  "geometry": {"coordinates":[44.15756,14.27266],"type":"Point"}
+}

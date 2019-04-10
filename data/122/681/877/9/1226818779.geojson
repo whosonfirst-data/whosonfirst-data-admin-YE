@@ -1,0 +1,74 @@
+{
+  "id": 1226818779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2671,17.40884,43.2671,17.40884",
+    "geom:latitude":17.40884,
+    "geom:longitude":43.2671,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Ar Radim",
+    "gn:country_code":"YE",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856580,
+    "gn:latitude":17.40884,
+    "gn:longitude":43.2671,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Radim",
+    "gn:population":1,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062f\u0645"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856580
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4f5c1084d6dfa2131a8bdc0eb688e093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1226818779,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226818779,
+    "wof:lastmodified":1537716001,
+    "wof:name":"Ar Radim",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2671,
+    17.40884,
+    43.2671,
+    17.40884
+],
+  "geometry": {"coordinates":[43.2671,17.40884],"type":"Point"}
+}

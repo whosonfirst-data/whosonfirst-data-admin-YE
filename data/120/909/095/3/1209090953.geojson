@@ -1,0 +1,74 @@
+{
+  "id": 1209090953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20649,14.90184,43.20649,14.90184",
+    "geom:latitude":14.90184,
+    "geom:longitude":43.20649,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Al Qutay'",
+    "gn:country_code":"YE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71741,
+    "gn:latitude":14.90184,
+    "gn:longitude":43.20649,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Al Qu\u0163ay\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Kotaya",
+        "Qu\u0163ay\u2018ah",
+        "Qa\u0163\u012b\u2018",
+        "Qut\u016b\u2018ah",
+        "Qutai\u2019a",
+        "Qu\u0163ay\u2018",
+        "Al Qu\u0163ay\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71741
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"fcdc6064ee68e6c7dbd2125fa4cb4e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209090953
+        }
+    ],
+    "wof:id":1209090953,
+    "wof:lastmodified":1537715101,
+    "wof:name":"Al Qutay'",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20649,
+    14.90184,
+    43.20649,
+    14.90184
+],
+  "geometry": {"coordinates":[43.20649,14.90184],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259539877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23218,15.63944,43.23218,15.63944",
+    "geom:latitude":15.63944,
+    "geom:longitude":43.23218,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1724.0",
+    "gn:asciiname":"Al Junbud",
+    "gn:country_code":"YE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365846,
+    "gn:latitude":15.63944,
+    "gn:longitude":43.23218,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Junbud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365846
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1597afbdd2ff457e3ffed8121d401bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923827,
+            "locality_id":1259539877,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1259539877,
+    "wof:lastmodified":1536778320,
+    "wof:name":"Al Junbud",
+    "wof:parent_id":1091923827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23218,
+    15.63944,
+    43.23218,
+    15.63944
+],
+  "geometry": {"coordinates":[43.23218,15.63944],"type":"Point"}
+}

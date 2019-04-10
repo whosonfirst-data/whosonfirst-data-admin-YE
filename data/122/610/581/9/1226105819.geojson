@@ -1,0 +1,71 @@
+{
+  "id": 1226105819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6314,15.05528,43.6314,15.05528",
+    "geom:latitude":15.05528,
+    "geom:longitude":43.6314,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2311.0",
+    "gn:asciiname":"Ar Ribat",
+    "gn:country_code":"YE",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7360764,
+    "gn:latitude":15.05528,
+    "gn:longitude":43.6314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Rib\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Rib\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7360764
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"200c901bb24cc8c36ad0a48bd76b2ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925849,
+            "locality_id":1226105819,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1226105819,
+    "wof:lastmodified":1537715805,
+    "wof:name":"Ar Ribat",
+    "wof:parent_id":1091925849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6314,
+    15.05528,
+    43.6314,
+    15.05528
+],
+  "geometry": {"coordinates":[43.6314,15.05528],"type":"Point"}
+}

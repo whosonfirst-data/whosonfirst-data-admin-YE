@@ -1,0 +1,74 @@
+{
+  "id": 1243023635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2308,13.15841,44.2308,13.15841",
+    "geom:latitude":13.15841,
+    "geom:longitude":44.2308,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Ma'ati",
+    "gn:country_code":"YE",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871692,
+    "gn:latitude":13.15841,
+    "gn:longitude":44.2308,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ma\u2018\u0101\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0627\u0637\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018\u0101\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871692
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d5818a4303c73cd4df85c62d236ea232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1243023635,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1243023635,
+    "wof:lastmodified":1537716258,
+    "wof:name":"Al Ma'ati",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2308,
+    13.15841,
+    44.2308,
+    13.15841
+],
+  "geometry": {"coordinates":[44.2308,13.15841],"type":"Point"}
+}

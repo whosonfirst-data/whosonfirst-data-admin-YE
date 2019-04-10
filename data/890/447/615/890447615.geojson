@@ -1,0 +1,73 @@
+{
+  "id": 890447615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39149,16.25617,43.39149,16.25617",
+    "geom:latitude":16.25617,
+    "geom:longitude":43.39149,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u0634\u0639\u064a\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Qal'at Ash Shu'ayb"
+    ],
+    "qs:name":"Qal\u2018at ash Shu\u2018ayb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756403,
+        "gp:id":1953570,
+        "qs:id":698904,
+        "wd:id":"Q20305261"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052599,
+    "wof:geomhash":"420594f2d0691f024329ff9cee590c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447615,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447615,
+    "wof:lastmodified":1514503333,
+    "wof:name":"Qal\u2018at ash Shu\u2018ayb",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39149,
+    16.25617,
+    43.39149,
+    16.25617
+],
+  "geometry": {"coordinates":[43.39149,16.25617],"type":"Point"}
+}

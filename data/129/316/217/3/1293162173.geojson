@@ -1,0 +1,76 @@
+{
+  "id": 1293162173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.31202,12.60752,54.31202,12.60752",
+    "geom:latitude":12.60752,
+    "geom:longitude":54.31202,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Ham Hinitin",
+    "gn:country_code":"YE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182675,
+    "gn:latitude":12.60752,
+    "gn:longitude":54.31202,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28\u0101m Hin\u012btin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182675
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"68f72a3f3233ce1a70678fde17f7c4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1293162173,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1293162173,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1293162173,
+    "wof:lastmodified":1536759436,
+    "wof:name":"Ham Hinitin",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.31202,
+    12.60752,
+    54.31202,
+    12.60752
+],
+  "geometry": {"coordinates":[54.31202,12.60752],"type":"Point"}
+}

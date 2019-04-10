@@ -1,0 +1,74 @@
+{
+  "id": 1225841833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37584,15.06557,43.37584,15.06557",
+    "geom:latitude":15.06557,
+    "geom:longitude":43.37584,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Wadi Mufah",
+    "gn:country_code":"YE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036394,
+    "gn:latitude":15.06557,
+    "gn:longitude":43.37584,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"W\u0101d\u012b M\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u0649 \u0645\u0648\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b M\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036394
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1520b84e0f985473dbe6ab7c42fb6ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1225841833,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1225841833,
+    "wof:lastmodified":1537716320,
+    "wof:name":"Wadi Mufah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37584,
+    15.06557,
+    43.37584,
+    15.06557
+],
+  "geometry": {"coordinates":[43.37584,15.06557],"type":"Point"}
+}

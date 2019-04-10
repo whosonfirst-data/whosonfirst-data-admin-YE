@@ -1,0 +1,80 @@
+{
+  "id": 1259941359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.86667,12.6,53.86667,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":53.86667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Di-Ratheti",
+    "gn:country_code":"YE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76001,
+    "gn:latitude":12.6,
+    "gn:longitude":53.86667,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Di-Ra\u0163h\u0113t\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rat\u1e29\u0101t\u012b",
+        "Di-Ra\u0163h\u0113t\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76001
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2d1ee94db8ee3c36db44e8725cb9ce63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1259941359,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1259941359,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1259941359,
+    "wof:lastmodified":1537715186,
+    "wof:name":"Di-Ratheti",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.86666999999999,
+    12.6,
+    53.86666999999999,
+    12.6
+],
+  "geometry": {"coordinates":[53.86666999999999,12.6],"type":"Point"}
+}

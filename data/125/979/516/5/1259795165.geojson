@@ -1,0 +1,74 @@
+{
+  "id": 1259795165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.03368,16.63383,53.03368,16.63383",
+    "geom:latitude":16.63383,
+    "geom:longitude":53.03368,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hawf",
+    "gn:country_code":"YE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":75000,
+    "gn:latitude":16.63383,
+    "gn:longitude":53.03368,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"\u1e28awf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Hauf",
+        "\u1e28awf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091920947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75000
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c3824f160763ae4fdf510328a091110d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920947,
+            "locality_id":1259795165,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1259795165,
+    "wof:lastmodified":1537715169,
+    "wof:name":"Hawf",
+    "wof:parent_id":1091920947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.03368,
+    16.63383,
+    53.03368,
+    16.63383
+],
+  "geometry": {"coordinates":[53.03368,16.63383],"type":"Point"}
+}

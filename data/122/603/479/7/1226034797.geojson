@@ -1,0 +1,74 @@
+{
+  "id": 1226034797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10767,15.31672,43.10767,15.31672",
+    "geom:latitude":15.31672,
+    "geom:longitude":43.10767,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"'Ali Mahdi",
+    "gn:country_code":"YE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036009,
+    "gn:latitude":15.31672,
+    "gn:longitude":43.10767,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0645\u0647\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036009
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"903688f26c98c16167c2779e793f86aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1226034797,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226034797,
+    "wof:lastmodified":1537716306,
+    "wof:name":"'Ali Mahdi",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10767,
+    15.31672,
+    43.10767,
+    15.31672
+],
+  "geometry": {"coordinates":[43.10767,15.31672],"type":"Point"}
+}

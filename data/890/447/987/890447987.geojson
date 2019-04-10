@@ -1,0 +1,73 @@
+{
+  "id": 890447987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39337,16.37767,43.39337,16.37767",
+    "geom:latitude":16.37767,
+    "geom:longitude":43.39337,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u0645\u0639\u062a\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Al Mi'tab"
+    ],
+    "qs:name":"Ra\u2019s al Mi\u2018t\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783341,
+        "gp:id":1958967,
+        "qs:id":699993,
+        "wd:id":"Q20306285"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052615,
+    "wof:geomhash":"ceb02a84a7d37f9cac9396ddf6a38a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890447987,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447987,
+    "wof:lastmodified":1514503344,
+    "wof:name":"Ra\u2019s al Mi\u2018t\u0101b",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39337,
+    16.37767,
+    43.39337,
+    16.37767
+],
+  "geometry": {"coordinates":[43.39337,16.37767],"type":"Point"}
+}

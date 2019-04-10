@@ -1,0 +1,74 @@
+{
+  "id": 1226499383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92669,13.15323,43.92669,13.15323",
+    "geom:latitude":13.15323,
+    "geom:longitude":43.92669,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Makdashah",
+    "gn:country_code":"YE",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071301,
+    "gn:latitude":13.15323,
+    "gn:longitude":43.92669,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Makd\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u062f\u0627\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Makd\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071301
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7cc7ebaa71e3d262a8fd6738bac665ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926463,
+            "locality_id":1226499383,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1226499383,
+    "wof:lastmodified":1537716015,
+    "wof:name":"Al Makdashah",
+    "wof:parent_id":1091926463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92669,
+    13.15323,
+    43.92669,
+    13.15323
+],
+  "geometry": {"coordinates":[43.92669,13.15323],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343881261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.97216,14.9089,49.97216,14.9089",
+    "geom:latitude":14.9089,
+    "geom:longitude":49.97216,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1914.0",
+    "gn:asciiname":"Ad Dis",
+    "gn:country_code":"YE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30492,
+    "gn:latitude":14.9089,
+    "gn:longitude":49.97216,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Ad D\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad D\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30492,
+        "wk:page":"Ad_Dis"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b36439a16c696f973a94861e2137838a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922549,
+            "locality_id":1343881261,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1343881261,
+    "wof:lastmodified":1537715045,
+    "wof:name":"Ad Dis",
+    "wof:parent_id":1091922549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.97216,
+    14.9089,
+    49.97216,
+    14.9089
+],
+  "geometry": {"coordinates":[49.97216,14.9089],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209101161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39667,15.19147,43.39667,15.19147",
+    "geom:latitude":15.19147,
+    "geom:longitude":43.39667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Ar Rufi`",
+    "gn:country_code":"YE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402541,
+    "gn:latitude":15.19147,
+    "gn:longitude":43.39667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ar Ruf\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Ruf\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402541
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ccf66a9deb5320d1c0fd53cbd9e1cdbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209101161
+        }
+    ],
+    "wof:id":1209101161,
+    "wof:lastmodified":1537715357,
+    "wof:name":"Ar Rufi`",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39667,
+    15.19147,
+    43.39667,
+    15.19147
+],
+  "geometry": {"coordinates":[43.39667,15.19147],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343723845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70499,16.01211,43.70499,16.01211",
+    "geom:latitude":16.01211,
+    "geom:longitude":43.70499,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Bayt al Ghuwaydi",
+    "gn:country_code":"YE",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363543,
+    "gn:latitude":16.01211,
+    "gn:longitude":43.70499,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt al Ghuwayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt al Ghuwayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091921861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363543
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"39609c60409f50951ee20adfcd26e01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921861,
+            "locality_id":1343723845,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1343723845,
+    "wof:lastmodified":1537715876,
+    "wof:name":"Bayt al Ghuwaydi",
+    "wof:parent_id":1091921861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70499,
+    16.01211,
+    43.70499,
+    16.01211
+],
+  "geometry": {"coordinates":[43.70499,16.01211],"type":"Point"}
+}

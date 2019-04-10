@@ -1,0 +1,71 @@
+{
+  "id": 1243351859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45945,15.32249,43.45945,15.32249",
+    "geom:latitude":15.32249,
+    "geom:longitude":43.45945,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Al Hab",
+    "gn:country_code":"YE",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365095,
+    "gn:latitude":15.32249,
+    "gn:longitude":43.45945,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Al H\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al H\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365095
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"120dbda3791647dd3a50d4b386006cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1243351859,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1243351859,
+    "wof:lastmodified":1537715919,
+    "wof:name":"Al Hab",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45945,
+    15.32249,
+    43.45945,
+    15.32249
+],
+  "geometry": {"coordinates":[43.45945,15.32249],"type":"Point"}
+}

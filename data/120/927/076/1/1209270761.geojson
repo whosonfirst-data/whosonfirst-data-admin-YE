@@ -1,0 +1,65 @@
+{
+  "id": 1209270761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4851,16.04081,43.4851,16.04081",
+    "geom:latitude":16.04081,
+    "geom:longitude":43.4851,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1709.0",
+    "gn:asciiname":"Al Musayl",
+    "gn:country_code":"YE",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681905,
+    "gn:latitude":16.04081,
+    "gn:longitude":43.4851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Musayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681905
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"02de8f4ac51aff7efcc7de761786e7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209270761
+        }
+    ],
+    "wof:id":1209270761,
+    "wof:lastmodified":1537715984,
+    "wof:name":"Al Musayl",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4851,
+    16.04081,
+    43.4851,
+    16.04081
+],
+  "geometry": {"coordinates":[43.4851,16.04081],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226594739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.15292,12.55035,54.15292,12.55035",
+    "geom:latitude":12.55035,
+    "geom:longitude":54.15292,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Jo'oh",
+    "gn:country_code":"YE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74125,
+    "gn:latitude":12.55035,
+    "gn:longitude":54.15292,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Jo\u2019oh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jo\u2019oh"
+    ],
+    "name:und_x_variant":[
+        "Gow",
+        "Juw\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        1108805681,
+        1091926255,
+        85681025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74125
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f99e9cbbc37de15abb1b1b6d822bfd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1226594739,
+            "region_id":1108805681
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926255,
+            "locality_id":1226594739,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1226594739,
+    "wof:lastmodified":1537715147,
+    "wof:name":"Jo'oh",
+    "wof:parent_id":1091926255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.15292,
+    12.55035,
+    54.15292,
+    12.55035
+],
+  "geometry": {"coordinates":[54.15292,12.55035],"type":"Point"}
+}

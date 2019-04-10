@@ -1,0 +1,75 @@
+{
+  "id": 1243468103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2124,13.42899,46.2124,13.42899",
+    "geom:latitude":13.42899,
+    "geom:longitude":46.2124,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1211.0",
+    "gn:asciiname":"Dar Dahukah",
+    "gn:country_code":"YE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76453,
+    "gn:latitude":13.42899,
+    "gn:longitude":46.2124,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r \u1e10a\u1e29\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u2019r Qa\u2018\u0101\u0163\u012b",
+        "D\u0101r Dah\u016bka",
+        "Dar Dhaluka",
+        "\u1e28i\u015fn Sa\u2018\u012bd",
+        "D\u0101r \u1e10a\u1e29\u016bkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76453
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"772cd331fc7bfe850c176c1f02e023d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918553,
+            "locality_id":1243468103,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1243468103,
+    "wof:lastmodified":1537715200,
+    "wof:name":"Dar Dahukah",
+    "wof:parent_id":1091918553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2124,
+    13.42899,
+    46.2124,
+    13.42899
+],
+  "geometry": {"coordinates":[46.2124,13.42899],"type":"Point"}
+}

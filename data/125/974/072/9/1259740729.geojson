@@ -1,0 +1,74 @@
+{
+  "id": 1259740729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16926,13.13091,44.16926,13.13091",
+    "geom:latitude":13.13091,
+    "geom:longitude":44.16926,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Masihah",
+    "gn:country_code":"YE",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871841,
+    "gn:latitude":13.13091,
+    "gn:longitude":44.16926,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mas\u012b\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mas\u012b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871841
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"604d3d079d0287a5e84011053ab680ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1259740729,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1259740729,
+    "wof:lastmodified":1537716265,
+    "wof:name":"Masihah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16926,
+    13.13091,
+    44.16926,
+    13.13091
+],
+  "geometry": {"coordinates":[44.16926,13.13091],"type":"Point"}
+}

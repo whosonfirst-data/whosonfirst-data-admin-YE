@@ -1,0 +1,74 @@
+{
+  "id": 1343450791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19959,15.42203,43.19959,15.42203",
+    "geom:latitude":15.42203,
+    "geom:longitude":43.19959,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Al Miklah",
+    "gn:country_code":"YE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036057,
+    "gn:latitude":15.42203,
+    "gn:longitude":43.19959,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mikl\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u0644\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Mikl\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036057
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"29d3a863d63b58139b1cd37aac920f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1343450791,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343450791,
+    "wof:lastmodified":1537716309,
+    "wof:name":"Al Miklah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19959,
+    15.42203,
+    43.19959,
+    15.42203
+],
+  "geometry": {"coordinates":[43.19959,15.42203],"type":"Point"}
+}

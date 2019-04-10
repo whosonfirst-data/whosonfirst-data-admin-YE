@@ -1,0 +1,71 @@
+{
+  "id": 1343750233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28306,15.45422,43.28306,15.45422",
+    "geom:latitude":15.45422,
+    "geom:longitude":43.28306,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Suq al `Urjayn",
+    "gn:country_code":"YE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365300,
+    "gn:latitude":15.45422,
+    "gn:longitude":43.28306,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"S\u016bq al \u2018Urjayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al \u2018Urjayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365300
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b35acf7ee95d07ef6adb213d19cd069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921101,
+            "locality_id":1343750233,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1343750233,
+    "wof:lastmodified":1537715924,
+    "wof:name":"Suq al `Urjayn",
+    "wof:parent_id":1091921101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28306,
+    15.45422,
+    43.28306,
+    15.45422
+],
+  "geometry": {"coordinates":[43.28306,15.45422],"type":"Point"}
+}

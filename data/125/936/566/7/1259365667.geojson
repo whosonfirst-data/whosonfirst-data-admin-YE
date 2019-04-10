@@ -1,0 +1,74 @@
+{
+  "id": 1259365667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81906,17.10375,43.81906,17.10375",
+    "geom:latitude":17.10375,
+    "geom:longitude":43.81906,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Salman",
+    "gn:country_code":"YE",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345343,
+    "gn:latitude":17.10375,
+    "gn:longitude":43.81906,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Salm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Salm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345343
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5f8cee47e4383ae7755bb61ae2a38c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1259365667,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1259365667,
+    "wof:lastmodified":1537715557,
+    "wof:name":"Salman",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81906,
+    17.10375,
+    43.81906,
+    17.10375
+],
+  "geometry": {"coordinates":[43.81906,17.10375],"type":"Point"}
+}

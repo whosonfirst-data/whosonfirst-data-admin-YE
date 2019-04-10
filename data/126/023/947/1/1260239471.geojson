@@ -1,0 +1,75 @@
+{
+  "id": 1260239471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02883,14.4209,44.02883,14.4209",
+    "geom:latitude":14.4209,
+    "geom:longitude":44.02883,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Zahrat al `Urayqi",
+    "gn:country_code":"YE",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359098,
+    "gn:latitude":14.4209,
+    "gn:longitude":44.02883,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Z\u0327ahrat al \u2018Urayq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631\u0629 \u0627\u0644\u0639\u0631\u064a\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahrat al \u2018Aryaq\u012b",
+        "Z\u0327ahrat al \u2018Urayq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359098
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d657cd4a02a53359d3ffd1c0c7e0aeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924405,
+            "locality_id":1260239471,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1260239471,
+    "wof:lastmodified":1537715743,
+    "wof:name":"Zahrat al `Urayqi",
+    "wof:parent_id":1091924405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02883,
+    14.4209,
+    44.02883,
+    14.4209
+],
+  "geometry": {"coordinates":[44.02883,14.4209],"type":"Point"}
+}

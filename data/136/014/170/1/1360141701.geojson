@@ -1,0 +1,71 @@
+{
+  "id": 1360141701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31648,13.53122,44.31648,13.53122",
+    "geom:latitude":13.53122,
+    "geom:longitude":44.31648,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Qaryat al Ahfur",
+    "gn:country_code":"YE",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357745,
+    "gn:latitude":13.53122,
+    "gn:longitude":44.31648,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat al Ahf\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat al Ahf\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357745
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f8dc390c9dde22502ecb71a710d03340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926607,
+            "locality_id":1360141701,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1360141701,
+    "wof:lastmodified":1537715707,
+    "wof:name":"Qaryat al Ahfur",
+    "wof:parent_id":1091926607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31648,
+    13.53122,
+    44.31648,
+    13.53122
+],
+  "geometry": {"coordinates":[44.31648,13.53122],"type":"Point"}
+}

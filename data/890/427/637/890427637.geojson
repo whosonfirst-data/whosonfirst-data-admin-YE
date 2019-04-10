@@ -1,0 +1,75 @@
+{
+  "id": 890427637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11585,17.33202,44.11585,17.33202",
+    "geom:latitude":17.33202,
+    "geom:longitude":44.11585,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0636"
+    ],
+    "name:eng_x_preferred":[
+        "Awau"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Iwa\u1e11"
+    ],
+    "qs:name":"\u2018Awa\u1e11",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789771,
+        "qs:id":700367,
+        "wd:id":"Q20299400"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051706,
+    "wof:geomhash":"ec0ded7d5409f811c3f853598a64550a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925427,
+            "locality_id":890427637,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890427637,
+    "wof:lastmodified":1514503406,
+    "wof:name":"\u2018Awa\u1e11",
+    "wof:parent_id":1091925427,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11585,
+    17.33202,
+    44.11585,
+    17.33202
+],
+  "geometry": {"coordinates":[44.11585,17.33202],"type":"Point"}
+}

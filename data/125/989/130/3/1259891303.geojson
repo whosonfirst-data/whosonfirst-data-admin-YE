@@ -1,0 +1,71 @@
+{
+  "id": 1259891303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2,16.3,51.2,16.3",
+    "geom:latitude":16.3,
+    "geom:longitude":51.2,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Ahul",
+    "gn:country_code":"YE",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80106,
+    "gn:latitude":16.3,
+    "gn:longitude":51.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ah\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ah\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091920993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80106
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2303d815db082ad9bce76026afa6072f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920993,
+            "locality_id":1259891303,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1259891303,
+    "wof:lastmodified":1537715328,
+    "wof:name":"Ahul",
+    "wof:parent_id":1091920993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2,
+    16.3,
+    51.2,
+    16.3
+],
+  "geometry": {"coordinates":[51.2,16.3],"type":"Point"}
+}

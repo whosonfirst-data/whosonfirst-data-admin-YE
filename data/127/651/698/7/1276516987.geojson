@@ -1,0 +1,71 @@
+{
+  "id": 1276516987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24495,17.0035,43.24495,17.0035",
+    "geom:latitude":17.0035,
+    "geom:longitude":43.24495,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Raym",
+    "gn:country_code":"YE",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202837,
+    "gn:latitude":17.0035,
+    "gn:longitude":43.24495,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Raym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202837
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"94f0608a1074759ef4dfdb822e5a1057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1276516987,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1276516987,
+    "wof:lastmodified":1537716020,
+    "wof:name":"Raym",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24495,
+    17.0035,
+    43.24495,
+    17.0035
+],
+  "geometry": {"coordinates":[43.24495,17.0035],"type":"Point"}
+}

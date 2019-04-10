@@ -1,0 +1,71 @@
+{
+  "id": 1343351381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.87641,15.67803,42.87641,15.67803",
+    "geom:latitude":15.67803,
+    "geom:longitude":42.87641,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Al Futayni",
+    "gn:country_code":"YE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341053,
+    "gn:latitude":15.67803,
+    "gn:longitude":42.87641,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Futayn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Futayn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341053
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"447c1c5fbadeb266011e5759988a3bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920217,
+            "locality_id":1343351381,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343351381,
+    "wof:lastmodified":1537715470,
+    "wof:name":"Al Futayni",
+    "wof:parent_id":1091920217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.87641,
+    15.67803,
+    42.87641,
+    15.67803
+],
+  "geometry": {"coordinates":[42.87641,15.67803],"type":"Point"}
+}

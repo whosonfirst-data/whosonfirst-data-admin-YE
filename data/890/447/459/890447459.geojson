@@ -1,0 +1,73 @@
+{
+  "id": 890447459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44198,16.37383,43.44198,16.37383",
+    "geom:latitude":16.37383,
+    "geom:longitude":43.44198,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":15,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062d\u0648\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "MashUbah"
+    ],
+    "qs:name":"Mas\u1e29\u016bbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755495,
+        "gp:id":1959128,
+        "qs:id":698716,
+        "wd:id":"Q20301256"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052592,
+    "wof:geomhash":"07b5f1fbaba5a4c897f700dfaf7aa1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924239,
+            "locality_id":890447459,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890447459,
+    "wof:lastmodified":1514503322,
+    "wof:name":"Mas\u1e29\u016bbah",
+    "wof:parent_id":1091924239,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44198,
+    16.37383,
+    43.44198,
+    16.37383
+],
+  "geometry": {"coordinates":[43.44198,16.37383],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327029233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44472,15.445,48.44472,15.445",
+    "geom:latitude":15.445,
+    "geom:longitude":48.44472,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1919.0",
+    "gn:asciiname":"Al Ghaydah",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79701,
+    "gn:latitude":15.445,
+    "gn:longitude":48.44472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ghay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Ghai\u1e0dah",
+        "Al Ghay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79701
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f0424ca40a6564b249a57bd0e2c69a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923285,
+            "locality_id":1327029233,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327029233,
+    "wof:lastmodified":1537715314,
+    "wof:name":"Al Ghaydah",
+    "wof:parent_id":1091923285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44472,
+    15.445,
+    48.44472,
+    15.445
+],
+  "geometry": {"coordinates":[48.44472,15.445],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209914803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.65528,15.40972,51.65528,15.40972",
+    "geom:latitude":15.40972,
+    "geom:longitude":51.65528,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2808.0",
+    "gn:asciiname":"Akhud",
+    "gn:country_code":"YE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80067,
+    "gn:latitude":15.40972,
+    "gn:longitude":51.65528,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Akh\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Akh\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680995,
+        1091921025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80067
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ed98b9f1af8f8dd4198a3d182240ad3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921025,
+            "locality_id":1209914803,
+            "region_id":85680995
+        }
+    ],
+    "wof:id":1209914803,
+    "wof:lastmodified":1537715327,
+    "wof:name":"Akhud",
+    "wof:parent_id":1091921025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.65528,
+    15.40972,
+    51.65528,
+    15.40972
+],
+  "geometry": {"coordinates":[51.65528,15.40972],"type":"Point"}
+}

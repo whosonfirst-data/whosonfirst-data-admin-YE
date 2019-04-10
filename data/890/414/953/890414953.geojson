@@ -1,0 +1,73 @@
+{
+  "id": 890414953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3537,16.53508,43.3537,16.53508",
+    "geom:latitude":16.53508,
+    "geom:longitude":43.3537,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u0634\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jarashib"
+    ],
+    "qs:name":"Al Jar\u0101shib",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854796,
+        "gp:id":1959057,
+        "qs:id":741741,
+        "wd:id":"Q20302958"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051068,
+    "wof:geomhash":"85adb16bf4509ee5c50297d1edc76a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923769,
+            "locality_id":890414953,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890414953,
+    "wof:lastmodified":1514503156,
+    "wof:name":"Al Jar\u0101shib",
+    "wof:parent_id":1091923769,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3537,
+    16.53508,
+    43.3537,
+    16.53508
+],
+  "geometry": {"coordinates":[43.3537,16.53508],"type":"Point"}
+}

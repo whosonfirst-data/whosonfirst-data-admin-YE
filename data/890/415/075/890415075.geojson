@@ -1,0 +1,73 @@
+{
+  "id": 890415075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30632,16.66002,43.30632,16.66002",
+    "geom:latitude":16.66002,
+    "geom:longitude":43.30632,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0642\u062f \u0627\u0644\u0627\u0639\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mawqid Al 'Ala"
+    ],
+    "qs:name":"Al Mawqid al \u2018\u0100l\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854997,
+        "gp:id":1959134,
+        "qs:id":741933,
+        "wd:id":"Q20300115"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051073,
+    "wof:geomhash":"5bf4465dae8f4a784400fe68d3f09ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925365,
+            "locality_id":890415075,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890415075,
+    "wof:lastmodified":1514503185,
+    "wof:name":"Al Mawqid al \u2018\u0100l\u00e1",
+    "wof:parent_id":1091925365,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30632,
+    16.66002,
+    43.30632,
+    16.66002
+],
+  "geometry": {"coordinates":[43.30632,16.66002],"type":"Point"}
+}

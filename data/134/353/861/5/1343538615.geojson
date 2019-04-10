@@ -1,0 +1,76 @@
+{
+  "id": 1343538615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37868,14.86692,44.37868,14.86692",
+    "geom:latitude":14.86692,
+    "geom:longitude":44.37868,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Zarajah",
+    "gn:country_code":"YE",
+    "gn:dem":2380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":69457,
+    "gn:latitude":14.86692,
+    "gn:longitude":44.37868,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zar\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0627\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Garaaz",
+        "Zaraja",
+        "Zar\u0101jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cfe119aab700604388e8db213e0de645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922199,
+            "locality_id":1343538615,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1343538615,
+    "wof:lastmodified":1537715061,
+    "wof:name":"Zarajah",
+    "wof:parent_id":1091922199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37868,
+    14.86692,
+    44.37868,
+    14.86692
+],
+  "geometry": {"coordinates":[44.37868,14.86692],"type":"Point"}
+}

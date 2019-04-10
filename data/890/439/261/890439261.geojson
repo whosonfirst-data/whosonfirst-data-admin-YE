@@ -1,0 +1,73 @@
+{
+  "id": 890439261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66042,16.10424,43.66042,16.10424",
+    "geom:latitude":16.10424,
+    "geom:longitude":43.66042,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "At Tawfah"
+    ],
+    "qs:name":"A\u0163 \u0162awfah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020425,
+        "gp:id":1959128,
+        "qs:id":749780,
+        "wd:id":"Q20305109"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052228,
+    "wof:geomhash":"16fb0b7c9fd52430cf280921e2f82059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":890439261,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":890439261,
+    "wof:lastmodified":1514503239,
+    "wof:name":"A\u0163 \u0162awfah",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66042,
+    16.10424,
+    43.66042,
+    16.10424
+],
+  "geometry": {"coordinates":[43.66042,16.10424],"type":"Point"}
+}

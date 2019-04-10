@@ -1,0 +1,71 @@
+{
+  "id": 1243320491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32779,13.26657,44.32779,13.26657",
+    "geom:latitude":13.26657,
+    "geom:longitude":44.32779,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1517.0",
+    "gn:asciiname":"Qadarim",
+    "gn:country_code":"YE",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355177,
+    "gn:latitude":13.26657,
+    "gn:longitude":44.32779,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u1e11\u0101rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e11\u0101rim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355177
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2ac39b98ff33a0adecf006587efa3898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926543,
+            "locality_id":1243320491,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1243320491,
+    "wof:lastmodified":1537715630,
+    "wof:name":"Qadarim",
+    "wof:parent_id":1091926543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32779,
+    13.26657,
+    44.32779,
+    13.26657
+],
+  "geometry": {"coordinates":[44.32779,13.26657],"type":"Point"}
+}

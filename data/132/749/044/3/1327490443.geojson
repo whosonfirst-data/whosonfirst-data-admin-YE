@@ -1,0 +1,74 @@
+{
+  "id": 1327490443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65408,13.29247,43.65408,13.29247",
+    "geom:latitude":13.29247,
+    "geom:longitude":43.65408,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1508.0",
+    "gn:asciiname":"Ad Duwayhah",
+    "gn:country_code":"YE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406032,
+    "gn:latitude":13.29247,
+    "gn:longitude":43.65408,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"A\u1e11 \u1e10uway\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0648\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10uway\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406032
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a53dcf591a83bbe0f1e73160f315b00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926707,
+            "locality_id":1327490443,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327490443,
+    "wof:lastmodified":1537715379,
+    "wof:name":"Ad Duwayhah",
+    "wof:parent_id":1091926707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65408,
+    13.29247,
+    43.65408,
+    13.29247
+],
+  "geometry": {"coordinates":[43.65408,13.29247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293857161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35438,15.43302,45.35438,15.43302",
+    "geom:latitude":15.43302,
+    "geom:longitude":45.35438,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2612.0",
+    "gn:asciiname":"Qaryat Al Fujayh",
+    "gn:country_code":"YE",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77998,
+    "gn:latitude":15.43302,
+    "gn:longitude":45.35438,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qaryat \u0100l Fujay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0622\u0644 \u0641\u062c\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u0100l Fujay\u1e29",
+        "\u1e28u\u015f\u016bn al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77998
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"8f7e4e2e5bcd147364a3ff3ccd525c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925221,
+            "locality_id":1293857161,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1293857161,
+    "wof:lastmodified":1537715244,
+    "wof:name":"Qaryat Al Fujayh",
+    "wof:parent_id":1091925221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35438,
+    15.43302,
+    45.35438,
+    15.43302
+],
+  "geometry": {"coordinates":[45.35438,15.43302],"type":"Point"}
+}

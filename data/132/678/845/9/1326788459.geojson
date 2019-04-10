@@ -1,0 +1,75 @@
+{
+  "id": 1326788459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52381,14.00481,44.52381,14.00481",
+    "geom:latitude":14.00481,
+    "geom:longitude":44.52381,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Mujir",
+    "gn:country_code":"YE",
+    "gn:dem":2599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340120,
+    "gn:latitude":14.00481,
+    "gn:longitude":44.52381,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"M\u016bjir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mawjar",
+        "M\u016bjir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340120
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"48150789a3889e4707995fb9ccc2459e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1326788459,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1326788459,
+    "wof:lastmodified":1537715440,
+    "wof:name":"Mujir",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52381,
+    14.00481,
+    44.52381,
+    14.00481
+],
+  "geometry": {"coordinates":[44.52381,14.00481],"type":"Point"}
+}

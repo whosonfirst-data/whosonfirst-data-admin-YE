@@ -1,0 +1,73 @@
+{
+  "id": 890419803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17414,14.74569,45.17414,14.74569",
+    "geom:latitude":14.74569,
+    "geom:longitude":45.17414,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0636\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Quuayl"
+    ],
+    "qs:name":"Al Qu\u1e11ayl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053476,
+        "gp:id":1958975,
+        "qs:id":751892,
+        "wd:id":"Q20298921"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051303,
+    "wof:geomhash":"48e0f7578ddd63a239a581bc7ba471fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925155,
+            "locality_id":890419803,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":890419803,
+    "wof:lastmodified":1514503200,
+    "wof:name":"Al Qu\u1e11ayl",
+    "wof:parent_id":1091925155,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17414,
+    14.74569,
+    45.17414,
+    14.74569
+],
+  "geometry": {"coordinates":[45.17414,14.74569],"type":"Point"}
+}

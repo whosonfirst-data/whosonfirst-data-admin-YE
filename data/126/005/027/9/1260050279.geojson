@@ -1,0 +1,74 @@
+{
+  "id": 1260050279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82176,15.55767,44.82176,15.55767",
+    "geom:latitude":15.55767,
+    "geom:longitude":44.82176,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"As Safawayn",
+    "gn:country_code":"YE",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9976140,
+    "gn:latitude":15.55767,
+    "gn:longitude":44.82176,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eafawayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0648\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eafawayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976140
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0af1bed31b9962abf616d145b5162bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1260050279,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1260050279,
+    "wof:lastmodified":1537716145,
+    "wof:name":"As Safawayn",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82176,
+    15.55767,
+    44.82176,
+    15.55767
+],
+  "geometry": {"coordinates":[44.82176,15.55767],"type":"Point"}
+}

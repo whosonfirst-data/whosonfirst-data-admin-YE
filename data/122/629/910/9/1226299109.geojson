@@ -1,0 +1,74 @@
+{
+  "id": 1226299109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55129,15.56908,43.55129,15.56908",
+    "geom:latitude":15.56908,
+    "geom:longitude":43.55129,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1725.0",
+    "gn:asciiname":"At Turab al Ahmar",
+    "gn:country_code":"YE",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9980445,
+    "gn:latitude":15.56908,
+    "gn:longitude":43.55129,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"At Tur\u0101b al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0631\u0627\u0628 \u0627\u0644\u0627\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "At Tur\u0101b al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9980445
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"18f79300bba11c7f483714f84ae5d354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923703,
+            "locality_id":1226299109,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226299109,
+    "wof:lastmodified":1537716169,
+    "wof:name":"At Turab al Ahmar",
+    "wof:parent_id":1091923703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55129,
+    15.56908,
+    43.55129,
+    15.56908
+],
+  "geometry": {"coordinates":[43.55129,15.56908],"type":"Point"}
+}

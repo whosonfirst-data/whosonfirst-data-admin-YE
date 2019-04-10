@@ -1,0 +1,76 @@
+{
+  "id": 890445761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98529,16.26395,42.98529,16.26395",
+    "geom:latitude":16.26395,
+    "geom:longitude":42.98529,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u062a \u0627\u0644\u0627\u062b\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khabt Al Ithm\""
+    ],
+    "name:unk_x_variant":[
+        "Al Khabt al Athm"
+    ],
+    "qs:name":"Al Khabt al Ithm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622267,
+        "gp:id":1958967,
+        "qs:id":694024,
+        "wd:id":"Q20304510"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052521,
+    "wof:geomhash":"69744bf24018c36cf1496e3fc5800e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923925,
+            "locality_id":890445761,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445761,
+    "wof:lastmodified":1514503164,
+    "wof:name":"Al Khabt al Ithm",
+    "wof:parent_id":1091923925,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98529,
+    16.26395,
+    42.98529,
+    16.26395
+],
+  "geometry": {"coordinates":[42.98529,16.26395],"type":"Point"}
+}

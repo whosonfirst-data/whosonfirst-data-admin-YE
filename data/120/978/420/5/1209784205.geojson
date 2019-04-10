@@ -1,0 +1,75 @@
+{
+  "id": 1209784205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40689,14.11341,44.40689,14.11341",
+    "geom:latitude":14.11341,
+    "geom:longitude":44.40689,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Al Jamri",
+    "gn:country_code":"YE",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359457,
+    "gn:latitude":14.11341,
+    "gn:longitude":44.40689,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Jamr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Jumar\u012b",
+        "Al Jamr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359457
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2da87e3e2a289cb7726855d59ae83cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924507,
+            "locality_id":1209784205,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1209784205,
+    "wof:lastmodified":1537715762,
+    "wof:name":"Al Jamri",
+    "wof:parent_id":1091924507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40689,
+    14.11341,
+    44.40689,
+    14.11341
+],
+  "geometry": {"coordinates":[44.40689,14.11341],"type":"Point"}
+}

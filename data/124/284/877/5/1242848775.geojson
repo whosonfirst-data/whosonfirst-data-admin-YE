@@ -1,0 +1,77 @@
+{
+  "id": 1242848775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36399,14.45758,45.36399,14.45758",
+    "geom:latitude":14.45758,
+    "geom:longitude":45.36399,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Ash Shari",
+    "gn:country_code":"YE",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051742,
+    "gn:latitude":14.45758,
+    "gn:longitude":45.36399,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ash Shar\u012b",
+    "gn:population":7,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shar\u012b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051742
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"60d677192390b80ee6e2c855a51678d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919135,
+            "locality_id":1242848775,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1242848775,
+    "wof:lastmodified":1537716010,
+    "wof:name":"Ash Shari",
+    "wof:parent_id":1091919135,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36399,
+    14.45758,
+    45.36399,
+    14.45758
+],
+  "geometry": {"coordinates":[45.36399,14.45758],"type":"Point"}
+}

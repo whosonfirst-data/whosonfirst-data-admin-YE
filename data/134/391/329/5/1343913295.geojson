@@ -1,0 +1,71 @@
+{
+  "id": 1343913295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48996,13.33056,44.48996,13.33056",
+    "geom:latitude":13.33056,
+    "geom:longitude":44.48996,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Harid",
+    "gn:country_code":"YE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75127,
+    "gn:latitude":13.33056,
+    "gn:longitude":44.48996,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28arid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28arid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75127
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3ea2a699feb28852a5c1355eeea2727b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924859,
+            "locality_id":1343913295,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1343913295,
+    "wof:lastmodified":1537715171,
+    "wof:name":"Harid",
+    "wof:parent_id":1091924859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48996,
+    13.33056,
+    44.48996,
+    13.33056
+],
+  "geometry": {"coordinates":[44.48996,13.33056],"type":"Point"}
+}

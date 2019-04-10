@@ -1,0 +1,74 @@
+{
+  "id": 1344031827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49518,16.1719,44.49518,16.1719",
+    "geom:latitude":16.1719,
+    "geom:longitude":44.49518,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1607.0",
+    "gn:asciiname":"Abu Misk",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362672,
+    "gn:latitude":16.1719,
+    "gn:longitude":44.49518,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ab\u016b Misk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b Misk"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u0645\u0633\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362672
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"59f0c5f05e15ca7edc7a23b2ca9f1aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920639,
+            "locality_id":1344031827,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1344031827,
+    "wof:lastmodified":1537715851,
+    "wof:name":"Abu Misk",
+    "wof:parent_id":1091920639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49518,
+    16.1719,
+    44.49518,
+    16.1719
+],
+  "geometry": {"coordinates":[44.49518,16.1719],"type":"Point"}
+}

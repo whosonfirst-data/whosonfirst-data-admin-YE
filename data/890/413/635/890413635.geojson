@@ -1,0 +1,73 @@
+{
+  "id": 890413635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34188,17.44943,43.34188,17.44943",
+    "geom:latitude":17.44943,
+    "geom:longitude":43.34188,
+    "gn:country":"YE",
+    "gn:fcode":"PPLF",
+    "gn:pop":1,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0646\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Shu'nab"
+    ],
+    "qs:name":"Shu\u2018nab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856502,
+        "gp:id":56447933,
+        "qs:id":742424,
+        "wd:id":"Q20308540"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051007,
+    "wof:geomhash":"864559734582417d075ffa873525c16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925417,
+            "locality_id":890413635,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890413635,
+    "wof:lastmodified":1514503369,
+    "wof:name":"Shu\u2018nab",
+    "wof:parent_id":1091925417,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34188,
+    17.44943,
+    43.34188,
+    17.44943
+],
+  "geometry": {"coordinates":[43.34188,17.44943],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360069913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45164,14.74357,43.45164,14.74357",
+    "geom:latitude":14.74357,
+    "geom:longitude":43.45164,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Humays",
+    "gn:country_code":"YE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401916,
+    "gn:latitude":14.74357,
+    "gn:longitude":43.45164,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"\u1e28umays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e28umay\u015f",
+        "\u1e28umays",
+        "\u1e28ays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401916
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9eed7b78f9b9f66af82c3ce07a771a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920271,
+            "locality_id":1360069913,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1360069913,
+    "wof:lastmodified":1537715351,
+    "wof:name":"Humays",
+    "wof:parent_id":1091920271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45164000000001,
+    14.74357,
+    43.45164000000001,
+    14.74357
+],
+  "geometry": {"coordinates":[43.45164000000001,14.74357],"type":"Point"}
+}

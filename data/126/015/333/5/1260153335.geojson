@@ -1,0 +1,71 @@
+{
+  "id": 1260153335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59913,17.0389,43.59913,17.0389",
+    "geom:latitude":17.0389,
+    "geom:longitude":43.59913,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Dar Zayd",
+    "gn:country_code":"YE",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345240,
+    "gn:latitude":17.0389,
+    "gn:longitude":43.59913,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u0101r Zayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r Zayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345240
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"1f29f7d03ec6defbdd1dd472f046d4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925445,
+            "locality_id":1260153335,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1260153335,
+    "wof:lastmodified":1537715554,
+    "wof:name":"Dar Zayd",
+    "wof:parent_id":1091925445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59913,
+    17.0389,
+    43.59913,
+    17.0389
+],
+  "geometry": {"coordinates":[43.59913,17.0389],"type":"Point"}
+}

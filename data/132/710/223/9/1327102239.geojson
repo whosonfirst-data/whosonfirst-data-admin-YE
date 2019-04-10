@@ -1,0 +1,71 @@
+{
+  "id": 1327102239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90472,13.45167,43.90472,13.45167",
+    "geom:latitude":13.45167,
+    "geom:longitude":43.90472,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1509.0",
+    "gn:asciiname":"Al Wad",
+    "gn:country_code":"YE",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406067,
+    "gn:latitude":13.45167,
+    "gn:longitude":43.90472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al W\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al W\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406067
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"84d38bc4613af1d320f5c9f7ce75ce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926555,
+            "locality_id":1327102239,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1327102239,
+    "wof:lastmodified":1537715380,
+    "wof:name":"Al Wad",
+    "wof:parent_id":1091926555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90472000000001,
+    13.45167,
+    43.90472000000001,
+    13.45167
+],
+  "geometry": {"coordinates":[43.90472000000001,13.45167],"type":"Point"}
+}

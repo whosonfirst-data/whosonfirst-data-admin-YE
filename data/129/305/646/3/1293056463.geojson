@@ -1,0 +1,71 @@
+{
+  "id": 1293056463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14403,13.13477,44.14403,13.13477",
+    "geom:latitude":13.13477,
+    "geom:longitude":44.14403,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Hizaz",
+    "gn:country_code":"YE",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355316,
+    "gn:latitude":13.13477,
+    "gn:longitude":44.14403,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al \u1e28iz\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28iz\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355316
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f95aa01e1f67f5deef82df13f75bc1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1293056463,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1293056463,
+    "wof:lastmodified":1537715634,
+    "wof:name":"Al Hizaz",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14403,
+    13.13477,
+    44.14403,
+    13.13477
+],
+  "geometry": {"coordinates":[44.14403,13.13477],"type":"Point"}
+}

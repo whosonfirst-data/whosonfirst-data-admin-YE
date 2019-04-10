@@ -1,0 +1,68 @@
+{
+  "id": 1242665467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91325,14.36903,43.91325,14.36903",
+    "geom:latitude":14.36903,
+    "geom:longitude":43.91325,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"As Sabal",
+    "gn:country_code":"YE",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7358495,
+    "gn:latitude":14.36903,
+    "gn:longitude":43.91325,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Sabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680969,
+        1091922499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7358495
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"abac54e923ee6d5e23cb26e2a73579b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922499,
+            "locality_id":1242665467,
+            "region_id":85680969
+        }
+    ],
+    "wof:id":1242665467,
+    "wof:lastmodified":1536938025,
+    "wof:name":"As Sabal",
+    "wof:parent_id":1091922499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91325,
+    14.36903,
+    43.91325,
+    14.36903
+],
+  "geometry": {"coordinates":[43.91325,14.36903],"type":"Point"}
+}

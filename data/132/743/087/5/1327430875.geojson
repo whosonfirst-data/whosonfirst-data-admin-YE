@@ -1,0 +1,68 @@
+{
+  "id": 1327430875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99722,15.78722,47.99722,15.78722",
+    "geom:latitude":15.78722,
+    "geom:longitude":47.99722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Vila Estrutural",
+    "gn:country_code":"YE",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8410812,
+    "gn:latitude":15.78722,
+    "gn:longitude":47.99722,
+    "gn:modification_date":"2012-10-24",
+    "gn:name":"Vila Estrutural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8410812
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bf7349f6a8601e0281f513eb5c93705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922617,
+            "locality_id":1327430875,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1327430875,
+    "wof:lastmodified":1536682951,
+    "wof:name":"Vila Estrutural",
+    "wof:parent_id":1091922617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99722,
+    15.78722,
+    47.99722,
+    15.78722
+],
+  "geometry": {"coordinates":[47.99722,15.78722],"type":"Point"}
+}

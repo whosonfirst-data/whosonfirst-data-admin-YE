@@ -1,0 +1,88 @@
+{
+  "id": 1125851937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40079,16.15872,43.40079,16.15872",
+    "geom:latitude":16.15872,
+    "geom:longitude":43.40079,
+    "gn:gn_country":"YE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15,
+    "gn:population":15,
+    "iso:country":"YE",
+    "lbl:latitude":16.15872,
+    "lbl:longitude":43.40079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u0645\u0639\u0632\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'b Al Ma'zibah"
+    ],
+    "name:unk_x_variant":[
+        "Sha\u2018b al Ma\u2018zabah"
+    ],
+    "qs_pg:aaroncc":"YE",
+    "qs_pg:gn_country":"YE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7658617,
+    "qs_pg:gn_pop":15,
+    "qs_pg:name":"Sha\u2018b al Ma\u2018zibah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":696427,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658617,
+        "qs_pg:id":696427,
+        "wd:id":"Q20307545"
+    },
+    "wof:country":"YE",
+    "wof:created":1497293445,
+    "wof:geomhash":"6c7f1eeaf3ddde8f0c65d13c2fc1f7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924059,
+            "locality_id":1125851937,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1125851937,
+    "wof:lastmodified":1514503364,
+    "wof:name":"Sha\u2018b al Ma\u2018zibah",
+    "wof:parent_id":1091924059,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40079,
+    16.15872,
+    43.40079,
+    16.15872
+],
+  "geometry": {"coordinates":[43.40079,16.15872],"type":"Point"}
+}

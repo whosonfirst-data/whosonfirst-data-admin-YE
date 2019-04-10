@@ -1,0 +1,71 @@
+{
+  "id": 1326899301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33761,15.90769,43.33761,15.90769",
+    "geom:latitude":15.90769,
+    "geom:longitude":43.33761,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1713.0",
+    "gn:asciiname":"Al Mazburah",
+    "gn:country_code":"YE",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366119,
+    "gn:latitude":15.90769,
+    "gn:longitude":43.33761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mazb\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mazb\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7366119
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"413bded31f87653e836a9b3276a5e0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924209,
+            "locality_id":1326899301,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1326899301,
+    "wof:lastmodified":1537715947,
+    "wof:name":"Al Mazburah",
+    "wof:parent_id":1091924209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33761,
+    15.90769,
+    43.33761,
+    15.90769
+],
+  "geometry": {"coordinates":[43.33761,15.90769],"type":"Point"}
+}

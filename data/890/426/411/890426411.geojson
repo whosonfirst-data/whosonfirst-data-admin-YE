@@ -1,0 +1,76 @@
+{
+  "id": 890426411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33308,16.75321,43.33308,16.75321",
+    "geom:latitude":16.75321,
+    "geom:longitude":43.33308,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Az\u0327 Z\u0327uw\u0101hir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0638\u0648\u0627\u0647\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Az Zuwahir"
+    ],
+    "qs:name":"Az\u0327 Z\u0327uw\u0101hir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926894,
+        "gp:id":1959134,
+        "qs:id":745233,
+        "wd:id":"Q20305912"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051631,
+    "wof:geomhash":"2241538856ea72fbf9f12232cab78030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925425,
+            "locality_id":890426411,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":890426411,
+    "wof:lastmodified":1514503237,
+    "wof:name":"Az\u0327 Z\u0327uw\u0101hir",
+    "wof:parent_id":1091925425,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33308,
+    16.75321,
+    43.33308,
+    16.75321
+],
+  "geometry": {"coordinates":[43.33308,16.75321],"type":"Point"}
+}

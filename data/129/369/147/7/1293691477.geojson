@@ -1,0 +1,71 @@
+{
+  "id": 1293691477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,14.86667,47.11667,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Al `Ard",
+    "gn:country_code":"YE",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79955,
+    "gn:latitude":14.86667,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Ar\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681011,
+        1091926123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79955
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"44ebf0d83e6ef1beea54fbd467ddcc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926123,
+            "locality_id":1293691477,
+            "region_id":85681011
+        }
+    ],
+    "wof:id":1293691477,
+    "wof:lastmodified":1537715323,
+    "wof:name":"Al `Ard",
+    "wof:parent_id":1091926123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    14.86667,
+    47.11667,
+    14.86667
+],
+  "geometry": {"coordinates":[47.11667,14.86667],"type":"Point"}
+}

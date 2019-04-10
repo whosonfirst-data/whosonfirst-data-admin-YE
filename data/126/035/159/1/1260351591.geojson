@@ -1,0 +1,72 @@
+{
+  "id": 1260351591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91704,13.84252,44.91704,13.84252",
+    "geom:latitude":13.84252,
+    "geom:longitude":44.91704,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Hudarah",
+    "gn:country_code":"YE",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":74600,
+    "gn:latitude":13.84252,
+    "gn:longitude":44.91704,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hudarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadara",
+        "Hudarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":74600
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"213221bd99f9d9860930637c5e62cd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919697,
+            "locality_id":1260351591,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1260351591,
+    "wof:lastmodified":1537715156,
+    "wof:name":"Hudarah",
+    "wof:parent_id":1091919697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91704,
+    13.84252,
+    44.91704,
+    13.84252
+],
+  "geometry": {"coordinates":[44.91704,13.84252],"type":"Point"}
+}

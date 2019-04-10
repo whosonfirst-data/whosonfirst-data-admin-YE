@@ -1,0 +1,71 @@
+{
+  "id": 1243529581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67508,16.18118,43.67508,16.18118",
+    "geom:latitude":16.18118,
+    "geom:longitude":43.67508,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Bani Himrah",
+    "gn:country_code":"YE",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363529,
+    "gn:latitude":16.18118,
+    "gn:longitude":43.67508,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban\u012b \u1e28imrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u1e28imrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680977,
+        1091922105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363529
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ced2d6a9b771395be13e622373a8e980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922105,
+            "locality_id":1243529581,
+            "region_id":85680977
+        }
+    ],
+    "wof:id":1243529581,
+    "wof:lastmodified":1537715876,
+    "wof:name":"Bani Himrah",
+    "wof:parent_id":1091922105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67508,
+    16.18118,
+    43.67508,
+    16.18118
+],
+  "geometry": {"coordinates":[43.67508,16.18118],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1192973339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85448,13.16711,43.85448,13.16711",
+    "geom:latitude":13.16711,
+    "geom:longitude":43.85448,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Hasib al Ghawbah",
+    "gn:country_code":"YE",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":75052,
+    "gn:latitude":13.16711,
+    "gn:longitude":43.85448,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"\u1e28a\u015fib al Ghawbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0628 \u0627\u0644\u063a\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28a\u015fib",
+        "\u1e28\u0101shid",
+        "\u1e28a\u015fib al Ghawbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":75052
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"572c45fa1f4f41c928c7e76de1dff172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926417,
+            "locality_id":1192973339,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1192973339,
+    "wof:lastmodified":1537715170,
+    "wof:name":"Hasib al Ghawbah",
+    "wof:parent_id":1091926417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85448,
+    13.16711,
+    43.85448,
+    13.16711
+],
+  "geometry": {"coordinates":[43.85448,13.16711],"type":"Point"}
+}

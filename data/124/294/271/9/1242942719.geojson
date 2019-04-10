@@ -1,0 +1,74 @@
+{
+  "id": 1242942719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4017,16.93049,43.4017,16.93049",
+    "geom:latitude":16.93049,
+    "geom:longitude":43.4017,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"MaShan",
+    "gn:country_code":"YE",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346222,
+    "gn:latitude":16.93049,
+    "gn:longitude":43.4017,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ma\u015e\u1e29an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u015e\u1e29an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346222
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c009907d3af9afba470383496ea6dec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1242942719,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1242942719,
+    "wof:lastmodified":1537715583,
+    "wof:name":"MaShan",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4017,
+    16.93049,
+    43.4017,
+    16.93049
+],
+  "geometry": {"coordinates":[43.4017,16.93049],"type":"Point"}
+}

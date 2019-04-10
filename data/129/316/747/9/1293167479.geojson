@@ -1,0 +1,71 @@
+{
+  "id": 1293167479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67285,14.72726,43.67285,14.72726",
+    "geom:latitude":14.72726,
+    "geom:longitude":43.67285,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Al Mahamil",
+    "gn:country_code":"YE",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401045,
+    "gn:latitude":14.72726,
+    "gn:longitude":43.67285,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mah\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mah\u0101mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681033,
+        1091925303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401045
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9e70655bddef702d53022e6643aa8987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925303,
+            "locality_id":1293167479,
+            "region_id":85681033
+        }
+    ],
+    "wof:id":1293167479,
+    "wof:lastmodified":1537715341,
+    "wof:name":"Al Mahamil",
+    "wof:parent_id":1091925303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67285,
+    14.72726,
+    43.67285,
+    14.72726
+],
+  "geometry": {"coordinates":[43.67285,14.72726],"type":"Point"}
+}

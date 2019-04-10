@@ -1,0 +1,71 @@
+{
+  "id": 1243032485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.74226,13.91233,45.74226,13.91233",
+    "geom:latitude":13.91233,
+    "geom:longitude":45.74226,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1408.0",
+    "gn:asciiname":"Ahl Hadi",
+    "gn:country_code":"YE",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":80187,
+    "gn:latitude":13.91233,
+    "gn:longitude":45.74226,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ahl H\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ahl H\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":80187
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"9b2f762c45647c0c4972c307537d253d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919381,
+            "locality_id":1243032485,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1243032485,
+    "wof:lastmodified":1537715329,
+    "wof:name":"Ahl Hadi",
+    "wof:parent_id":1091919381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.74226,
+    13.91233,
+    45.74226,
+    13.91233
+],
+  "geometry": {"coordinates":[45.74226,13.91233],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293385351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25934,15.17707,43.25934,15.17707",
+    "geom:latitude":15.17707,
+    "geom:longitude":43.25934,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"'Anfajah",
+    "gn:country_code":"YE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036496,
+    "gn:latitude":15.17707,
+    "gn:longitude":43.25934,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Anfajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0641\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Anfajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036496
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a16c305962f64822cad1645e44320fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1293385351,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293385351,
+    "wof:lastmodified":1537716324,
+    "wof:name":"'Anfajah",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25934,
+    15.17707,
+    43.25934,
+    15.17707
+],
+  "geometry": {"coordinates":[43.25934,15.17707],"type":"Point"}
+}

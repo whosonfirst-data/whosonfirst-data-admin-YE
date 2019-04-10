@@ -1,0 +1,71 @@
+{
+  "id": 1260054097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39271,16.21101,44.39271,16.21101",
+    "geom:latitude":16.21101,
+    "geom:longitude":44.39271,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Al Manfas",
+    "gn:country_code":"YE",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974592,
+    "gn:latitude":16.21101,
+    "gn:longitude":44.39271,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Manfas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0641\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974592
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e8ee83891da7dd749bbdc83ff262cd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920673,
+            "locality_id":1260054097,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1260054097,
+    "wof:lastmodified":1537716110,
+    "wof:name":"Al Manfas",
+    "wof:parent_id":1091920673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39271,
+    16.21101,
+    44.39271,
+    16.21101
+],
+  "geometry": {"coordinates":[44.39271,16.21101],"type":"Point"}
+}

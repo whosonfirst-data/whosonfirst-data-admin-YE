@@ -1,0 +1,74 @@
+{
+  "id": 1226723971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25188,16.58444,44.25188,16.58444",
+    "geom:latitude":16.58444,
+    "geom:longitude":44.25188,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Al Hazm",
+    "gn:country_code":"YE",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794869,
+    "gn:latitude":16.58444,
+    "gn:longitude":44.25188,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28azm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28azm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794869
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"43db284d08b79abee8b37f9760ff4cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":1226723971,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":1226723971,
+    "wof:lastmodified":1537715996,
+    "wof:name":"Al Hazm",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25188,
+    16.58444,
+    44.25188,
+    16.58444
+],
+  "geometry": {"coordinates":[44.25188,16.58444],"type":"Point"}
+}

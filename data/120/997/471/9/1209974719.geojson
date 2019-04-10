@@ -1,0 +1,71 @@
+{
+  "id": 1209974719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46477,14.08632,44.46477,14.08632",
+    "geom:latitude":14.08632,
+    "geom:longitude":44.46477,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Al Fajrah",
+    "gn:country_code":"YE",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359421,
+    "gn:latitude":14.08632,
+    "gn:longitude":44.46477,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Al Fajrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062c\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359421
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"5ce8ac04a3e451b7553c68c60b811e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924467,
+            "locality_id":1209974719,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1209974719,
+    "wof:lastmodified":1537715760,
+    "wof:name":"Al Fajrah",
+    "wof:parent_id":1091924467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46477,
+    14.08632,
+    44.46477,
+    14.08632
+],
+  "geometry": {"coordinates":[44.46477,14.08632],"type":"Point"}
+}

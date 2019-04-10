@@ -1,0 +1,71 @@
+{
+  "id": 1226132417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.66082,15.22648,42.66082,15.22648",
+    "geom:latitude":15.22648,
+    "geom:longitude":42.66082,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Al Jazirah",
+    "gn:country_code":"YE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79259,
+    "gn:latitude":15.22648,
+    "gn:longitude":42.66082,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Jaz\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jaz\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79259
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"efe83bae145fa152884e5a8b8ca2b788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920251,
+            "locality_id":1226132417,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1226132417,
+    "wof:lastmodified":1537715293,
+    "wof:name":"Al Jazirah",
+    "wof:parent_id":1091920251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.66082,
+    15.22648,
+    42.66082,
+    15.22648
+],
+  "geometry": {"coordinates":[42.66082,15.22648],"type":"Point"}
+}

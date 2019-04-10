@@ -1,0 +1,74 @@
+{
+  "id": 1276410507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75508,15.50835,44.75508,15.50835",
+    "geom:latitude":15.50835,
+    "geom:longitude":44.75508,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2606.0",
+    "gn:asciiname":"Rawdat al Qubbah",
+    "gn:country_code":"YE",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976121,
+    "gn:latitude":15.50835,
+    "gn:longitude":44.75508,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Raw\u1e11at al Qubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0636\u0629 \u0627\u0644\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raw\u1e11at al Qubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976121
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7bf57f090b6a130a835ef73bb697c339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925301,
+            "locality_id":1276410507,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1276410507,
+    "wof:lastmodified":1537716144,
+    "wof:name":"Rawdat al Qubbah",
+    "wof:parent_id":1091925301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75508,
+    15.50835,
+    44.75508,
+    15.50835
+],
+  "geometry": {"coordinates":[44.75508,15.50835],"type":"Point"}
+}

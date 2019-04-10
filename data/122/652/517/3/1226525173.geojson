@@ -1,0 +1,74 @@
+{
+  "id": 1226525173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20103,16.95798,43.20103,16.95798",
+    "geom:latitude":16.95798,
+    "geom:longitude":43.20103,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Khayran",
+    "gn:country_code":"YE",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202811,
+    "gn:latitude":16.95798,
+    "gn:longitude":43.20103,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khayr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khayr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202811
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c48a8c8ae13b0b15c0765ab2a8fc031f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925497,
+            "locality_id":1226525173,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1226525173,
+    "wof:lastmodified":1537716019,
+    "wof:name":"Khayran",
+    "wof:parent_id":1091925497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20103,
+    16.95798,
+    43.20103,
+    16.95798
+],
+  "geometry": {"coordinates":[43.20103,16.95798],"type":"Point"}
+}

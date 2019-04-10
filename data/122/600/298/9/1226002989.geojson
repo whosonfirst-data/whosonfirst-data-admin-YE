@@ -1,0 +1,74 @@
+{
+  "id": 1226002989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42966,16.0804,43.42966,16.0804",
+    "geom:latitude":16.0804,
+    "geom:longitude":43.42966,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Quwa'id",
+    "gn:country_code":"YE",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260899,
+    "gn:latitude":16.0804,
+    "gn:longitude":43.42966,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Quw\u0101\u2018id",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Quw\u0101\u2018id"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0648\u0627\u0639\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260899
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"a3de65833554b9edd496c5bd69cf0ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":1226002989,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1226002989,
+    "wof:lastmodified":1537716060,
+    "wof:name":"Al Quwa'id",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42966,
+    16.0804,
+    43.42966,
+    16.0804
+],
+  "geometry": {"coordinates":[43.42966,16.0804],"type":"Point"}
+}

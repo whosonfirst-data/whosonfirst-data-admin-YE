@@ -1,0 +1,76 @@
+{
+  "id": 890419045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40659,16.30791,43.40659,16.30791",
+    "geom:latitude":16.30791,
+    "geom:longitude":43.40659,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":3,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Sh\u0101fi\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0641\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Shafi'"
+    ],
+    "qs:name":"Sh\u0101fi\u2018",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783551,
+        "gp:id":1953570,
+        "qs:id":700204,
+        "wd:id":"Q20308099"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051271,
+    "wof:geomhash":"9743a04cd4c227514f1b77da9d1145f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890419045,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890419045,
+    "wof:lastmodified":1514503369,
+    "wof:name":"Sh\u0101fi\u2018",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40659,
+    16.30791,
+    43.40659,
+    16.30791
+],
+  "geometry": {"coordinates":[43.40659,16.30791],"type":"Point"}
+}

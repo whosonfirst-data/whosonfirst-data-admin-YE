@@ -1,0 +1,79 @@
+{
+  "id": 890452209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26418,16.53116,44.26418,16.53116",
+    "geom:latitude":16.53116,
+    "geom:longitude":44.26418,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hajil"
+    ],
+    "qs:name":"Al \u1e28ajil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681007,
+        1091920811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795146,
+        "gp:id":1958965,
+        "qs:id":700911,
+        "wd:id":"Q20299600"
+    },
+    "wof:concordances_alt":{
+        "gn:id":7795198,
+        "qs:id":700962
+    },
+    "wof:country":"YE",
+    "wof:created":1469052808,
+    "wof:geomhash":"2cdd673fe445e77141a5e9f3993a8841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920811,
+            "locality_id":890452209,
+            "region_id":85681007
+        }
+    ],
+    "wof:id":890452209,
+    "wof:lastmodified":1534379831,
+    "wof:name":"Al \u1e28ajil",
+    "wof:parent_id":1091920811,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890418427
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26418,
+    16.53116,
+    44.26418,
+    16.53116
+],
+  "geometry": {"coordinates":[44.26418,16.53116],"type":"Point"}
+}

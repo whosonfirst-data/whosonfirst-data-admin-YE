@@ -1,0 +1,71 @@
+{
+  "id": 1209787351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16297,15.21991,44.16297,15.21991",
+    "geom:latitude":15.21991,
+    "geom:longitude":44.16297,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Sifyan",
+    "gn:country_code":"YE",
+    "gn:dem":2711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342436,
+    "gn:latitude":15.21991,
+    "gn:longitude":44.16297,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sify\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sify\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342436
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"483886fd54ffc741494ad97e2f37441d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1209787351,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1209787351,
+    "wof:lastmodified":1537715500,
+    "wof:name":"Sifyan",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16297,
+    15.21991,
+    44.16297,
+    15.21991
+],
+  "geometry": {"coordinates":[44.16297,15.21991],"type":"Point"}
+}

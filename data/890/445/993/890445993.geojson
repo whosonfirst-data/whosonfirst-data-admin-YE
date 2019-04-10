@@ -1,0 +1,73 @@
+{
+  "id": 890445993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34506,16.15444,43.34506,16.15444",
+    "geom:latitude":16.15444,
+    "geom:longitude":43.34506,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":22,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u0631\u0627\u062c\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Rajih"
+    ],
+    "qs:name":"Ban\u012b R\u0101ji\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633052,
+        "gp:id":1953570,
+        "qs:id":695069,
+        "wd:id":"Q20299192"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052530,
+    "wof:geomhash":"3ad24922a0ee1d047f1554473f0ee58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890445993,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445993,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b R\u0101ji\u1e29",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34506,
+    16.15444,
+    43.34506,
+    16.15444
+],
+  "geometry": {"coordinates":[43.34506,16.15444],"type":"Point"}
+}

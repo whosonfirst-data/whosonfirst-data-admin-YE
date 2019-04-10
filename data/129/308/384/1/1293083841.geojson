@@ -1,0 +1,77 @@
+{
+  "id": 1293083841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36041,16.85868,43.36041,16.85868",
+    "geom:latitude":16.85868,
+    "geom:longitude":43.36041,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"Al Baq'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927064,
+    "gn:latitude":16.85868,
+    "gn:longitude":43.36041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Baq\u2018ah",
+    "gn:population":8,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0642\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Baq\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927064
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"d88ea5e251eaa4541a079bbd4de8e482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925573,
+            "locality_id":1293083841,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293083841,
+    "wof:lastmodified":1537716004,
+    "wof:name":"Al Baq'ah",
+    "wof:parent_id":1091925573,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36041,
+    16.85868,
+    43.36041,
+    16.85868
+],
+  "geometry": {"coordinates":[43.36041,16.85868],"type":"Point"}
+}

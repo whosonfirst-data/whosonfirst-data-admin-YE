@@ -1,0 +1,71 @@
+{
+  "id": 1292983025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15995,15.73061,44.15995,15.73061",
+    "geom:latitude":15.73061,
+    "geom:longitude":44.15995,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Bayt Khudayr",
+    "gn:country_code":"YE",
+    "gn:dem":2659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362463,
+    "gn:latitude":15.73061,
+    "gn:longitude":44.15995,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt Khu\u1e11ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Khu\u1e11ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362463
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b210db631767d6a648d6efb39fdcdb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1292983025,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1292983025,
+    "wof:lastmodified":1537715845,
+    "wof:name":"Bayt Khudayr",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15995,
+    15.73061,
+    44.15995,
+    15.73061
+],
+  "geometry": {"coordinates":[44.15995,15.73061],"type":"Point"}
+}

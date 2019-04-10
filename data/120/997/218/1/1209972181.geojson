@@ -1,0 +1,68 @@
+{
+  "id": 1209972181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83639,13.56667,44.83639,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":44.83639,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Nuqub",
+    "gn:country_code":"YE",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":72131,
+    "gn:latitude":13.56667,
+    "gn:longitude":44.83639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nuqub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":72131
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"f42235ab43fc82e457ec4f8931c07ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924917,
+            "locality_id":1209972181,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1209972181,
+    "wof:lastmodified":1536394536,
+    "wof:name":"Nuqub",
+    "wof:parent_id":1091924917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83639,
+    13.56667,
+    44.83639,
+    13.56667
+],
+  "geometry": {"coordinates":[44.83639,13.56667],"type":"Point"}
+}

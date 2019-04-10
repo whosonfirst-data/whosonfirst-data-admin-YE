@@ -1,0 +1,71 @@
+{
+  "id": 1343659385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37428,14.99349,43.37428,14.99349",
+    "geom:latitude":14.99349,
+    "geom:longitude":43.37428,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1810.0",
+    "gn:asciiname":"Mahall Hasan Makin",
+    "gn:country_code":"YE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340719,
+    "gn:latitude":14.99349,
+    "gn:longitude":43.37428,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ma\u1e29all \u1e28asan Mak\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29all \u1e28asan Mak\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        421183315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340719
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0b14d9d4dc0e2baabf86dc51f47a83f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":421183315,
+            "locality_id":1343659385,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1343659385,
+    "wof:lastmodified":1537715456,
+    "wof:name":"Mahall Hasan Makin",
+    "wof:parent_id":421183315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37428,
+    14.99349,
+    43.37428,
+    14.99349
+],
+  "geometry": {"coordinates":[43.37428,14.99349],"type":"Point"}
+}

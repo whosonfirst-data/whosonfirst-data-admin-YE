@@ -1,0 +1,73 @@
+{
+  "id": 1225950191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.92153,16.22476,47.92153,16.22476",
+    "geom:latitude":16.22476,
+    "geom:longitude":47.92153,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ar Rammalah",
+    "gn:country_code":"YE",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555931,
+    "gn:latitude":16.22476,
+    "gn:longitude":47.92153,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ar Ramm\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ramm\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555931
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bc725332784d0f86ffbd81e578a364b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922983,
+            "locality_id":1225950191,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1225950191,
+    "wof:lastmodified":1537716360,
+    "wof:name":"Ar Rammalah",
+    "wof:parent_id":1091922983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.92153,
+    16.22476,
+    47.92153,
+    16.22476
+],
+  "geometry": {"coordinates":[47.92153,16.22476],"type":"Point"}
+}

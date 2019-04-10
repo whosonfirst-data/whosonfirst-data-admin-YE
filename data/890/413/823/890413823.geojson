@@ -1,0 +1,73 @@
+{
+  "id": 890413823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43858,16.04657,43.43858,16.04657",
+    "geom:latitude":16.04657,
+    "geom:longitude":43.43858,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":25,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0631\u0628\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maghribah Al 'Ulya"
+    ],
+    "qs:name":"Al Maghribah al \u2018Uly\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7682295,
+        "gp:id":1958568,
+        "qs:id":697109,
+        "wd:id":"Q20306697"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051015,
+    "wof:geomhash":"583ab2130e33bd7396344c954114895a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923449,
+            "locality_id":890413823,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890413823,
+    "wof:lastmodified":1514503169,
+    "wof:name":"Al Maghribah al \u2018Uly\u0101",
+    "wof:parent_id":1091923449,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43858,
+    16.04657,
+    43.43858,
+    16.04657
+],
+  "geometry": {"coordinates":[43.43858,16.04657],"type":"Point"}
+}

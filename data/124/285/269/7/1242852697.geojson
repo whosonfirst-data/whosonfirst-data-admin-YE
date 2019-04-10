@@ -1,0 +1,71 @@
+{
+  "id": 1242852697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5161,15.55185,43.5161,15.55185",
+    "geom:latitude":15.55185,
+    "geom:longitude":43.5161,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Suq al Madrak",
+    "gn:country_code":"YE",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403313,
+    "gn:latitude":15.55185,
+    "gn:longitude":43.5161,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016bq al Madrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Madrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403313
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e77f8aab7f9612173be0f7ffa373efd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921137,
+            "locality_id":1242852697,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1242852697,
+    "wof:lastmodified":1537715373,
+    "wof:name":"Suq al Madrak",
+    "wof:parent_id":1091921137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5161,
+    15.55185,
+    43.5161,
+    15.55185
+],
+  "geometry": {"coordinates":[43.5161,15.55185],"type":"Point"}
+}

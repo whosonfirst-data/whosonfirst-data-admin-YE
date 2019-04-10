@@ -1,0 +1,74 @@
+{
+  "id": 1259642549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49984,14.09771,45.49984,14.09771",
+    "geom:latitude":14.09771,
+    "geom:longitude":45.49984,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Baw'ah",
+    "gn:country_code":"YE",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066833,
+    "gn:latitude":14.09771,
+    "gn:longitude":45.49984,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baw\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Baw\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681001,
+        1091919299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066833
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"2fcaba639b01d2528c6f7184d761c5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919299,
+            "locality_id":1259642549,
+            "region_id":85681001
+        }
+    ],
+    "wof:id":1259642549,
+    "wof:lastmodified":1537716013,
+    "wof:name":"Baw'ah",
+    "wof:parent_id":1091919299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49984,
+    14.09771,
+    45.49984,
+    14.09771
+],
+  "geometry": {"coordinates":[45.49984,14.09771],"type":"Point"}
+}

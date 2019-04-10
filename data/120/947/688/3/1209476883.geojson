@@ -1,0 +1,62 @@
+{
+  "id": 1209476883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90577,16.51344,43.90577,16.51344",
+    "geom:latitude":16.51344,
+    "geom:longitude":43.90577,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Al Jabjab",
+    "gn:country_code":"YE",
+    "gn:dem":1883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362076,
+    "gn:latitude":16.51344,
+    "gn:longitude":43.90577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Jabjab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362076
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"52f7b7e47204ba9e0ae343071e0dfb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209476883
+        }
+    ],
+    "wof:id":1209476883,
+    "wof:lastmodified":1536285908,
+    "wof:name":"Al Jabjab",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90577,
+    16.51344,
+    43.90577,
+    16.51344
+],
+  "geometry": {"coordinates":[43.90577,16.51344],"type":"Point"}
+}

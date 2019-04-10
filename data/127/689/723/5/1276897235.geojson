@@ -1,0 +1,71 @@
+{
+  "id": 1276897235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95,15.76667,48.95,15.76667",
+    "geom:latitude":15.76667,
+    "geom:longitude":48.95,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1909.0",
+    "gn:asciiname":"Tamran",
+    "gn:country_code":"YE",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70192,
+    "gn:latitude":15.76667,
+    "gn:longitude":48.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tamr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70192
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"bfcc8a5538af9c153e05058a6193b922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923127,
+            "locality_id":1276897235,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":1276897235,
+    "wof:lastmodified":1537715072,
+    "wof:name":"Tamran",
+    "wof:parent_id":1091923127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95,
+    15.76667,
+    48.95,
+    15.76667
+],
+  "geometry": {"coordinates":[48.95,15.76667],"type":"Point"}
+}

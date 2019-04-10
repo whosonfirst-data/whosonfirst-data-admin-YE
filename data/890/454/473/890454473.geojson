@@ -1,0 +1,73 @@
+{
+  "id": 890454473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3418,16.14396,43.3418,16.14396",
+    "geom:latitude":16.14396,
+    "geom:longitude":43.3418,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u064a\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Durayb"
+    ],
+    "qs:name":"Ad Durayb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633046,
+        "gp:id":1953570,
+        "qs:id":695063,
+        "wd:id":"Q20300944"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052901,
+    "wof:geomhash":"1bf2105f33cea2c6b06ceb0cb5ff1fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890454473,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890454473,
+    "wof:lastmodified":1514503129,
+    "wof:name":"Ad Durayb",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3418,
+    16.14396,
+    43.3418,
+    16.14396
+],
+  "geometry": {"coordinates":[43.3418,16.14396],"type":"Point"}
+}

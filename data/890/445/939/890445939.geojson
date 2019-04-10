@@ -1,0 +1,73 @@
+{
+  "id": 890445939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35203,16.16946,43.35203,16.16946",
+    "geom:latitude":16.16946,
+    "geom:longitude":43.35203,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u0645\u0635\u0644\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Maslah"
+    ],
+    "qs:name":"Ban\u012b Ma\u015fla\u1e29",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632974,
+        "gp:id":1953570,
+        "qs:id":694991,
+        "wd:id":"Q20299146"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052528,
+    "wof:geomhash":"5a8f290caa53421613c878d92c56c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923953,
+            "locality_id":890445939,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890445939,
+    "wof:lastmodified":1514503243,
+    "wof:name":"Ban\u012b Ma\u015fla\u1e29",
+    "wof:parent_id":1091923953,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35203,
+    16.16946,
+    43.35203,
+    16.16946
+],
+  "geometry": {"coordinates":[43.35203,16.16946],"type":"Point"}
+}

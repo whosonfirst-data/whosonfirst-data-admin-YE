@@ -1,0 +1,68 @@
+{
+  "id": 1209778179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8648,13.98805,44.8648,13.98805",
+    "geom:latitude":13.98805,
+    "geom:longitude":44.8648,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Huwwah",
+    "gn:country_code":"YE",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363819,
+    "gn:latitude":13.98805,
+    "gn:longitude":44.8648,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huwwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7363819
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0820193d8cd5670b3b8bb5d12e071cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919781,
+            "locality_id":1209778179,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1209778179,
+    "wof:lastmodified":1536376618,
+    "wof:name":"Huwwah",
+    "wof:parent_id":1091919781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8648,
+    13.98805,
+    44.8648,
+    13.98805
+],
+  "geometry": {"coordinates":[44.8648,13.98805],"type":"Point"}
+}

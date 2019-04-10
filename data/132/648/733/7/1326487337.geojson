@@ -1,0 +1,71 @@
+{
+  "id": 1326487337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57835,13.84464,43.57835,13.84464",
+    "geom:latitude":13.84464,
+    "geom:longitude":43.57835,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Al Malaqi",
+    "gn:country_code":"YE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7355747,
+    "gn:latitude":13.84464,
+    "gn:longitude":43.57835,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Mal\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mal\u0101q\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7355747
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b43fbfd1a0ec56349dc2354c598a52b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1326487337,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1326487337,
+    "wof:lastmodified":1537715649,
+    "wof:name":"Al Malaqi",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57835,
+    13.84464,
+    43.57835,
+    13.84464
+],
+  "geometry": {"coordinates":[43.57835,13.84464],"type":"Point"}
+}

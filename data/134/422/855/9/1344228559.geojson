@@ -1,0 +1,71 @@
+{
+  "id": 1344228559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28064,15.72004,44.28064,15.72004",
+    "geom:latitude":15.72004,
+    "geom:longitude":44.28064,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Al `Irshan",
+    "gn:country_code":"YE",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404946,
+    "gn:latitude":15.72004,
+    "gn:longitude":44.28064,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Irsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Irsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404946
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"0221c39bc1dd7d9dd43d69b7c22ff0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925695,
+            "locality_id":1344228559,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1344228559,
+    "wof:lastmodified":1537715377,
+    "wof:name":"Al `Irshan",
+    "wof:parent_id":1091925695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28064000000001,
+    15.72004,
+    44.28064000000001,
+    15.72004
+],
+  "geometry": {"coordinates":[44.28064000000001,15.72004],"type":"Point"}
+}

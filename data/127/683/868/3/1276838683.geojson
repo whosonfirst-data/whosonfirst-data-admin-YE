@@ -1,0 +1,77 @@
+{
+  "id": 1276838683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33026,16.26081,43.33026,16.26081",
+    "geom:latitude":16.26081,
+    "geom:longitude":43.33026,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"Hiran",
+    "gn:country_code":"YE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7761153,
+    "gn:latitude":16.26081,
+    "gn:longitude":43.33026,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hir\u0101n",
+    "gn:population":4,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Hir\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7761153
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"ada61a56c8f916deff6724bbaa64ea02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924151,
+            "locality_id":1276838683,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1276838683,
+    "wof:lastmodified":1537715994,
+    "wof:name":"Hiran",
+    "wof:parent_id":1091924151,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33026,
+    16.26081,
+    43.33026,
+    16.26081
+],
+  "geometry": {"coordinates":[43.33026,16.26081],"type":"Point"}
+}

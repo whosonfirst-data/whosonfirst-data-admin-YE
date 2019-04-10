@@ -1,0 +1,68 @@
+{
+  "id": 1293282177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05972,15.29611,43.05972,15.29611",
+    "geom:latitude":15.29611,
+    "geom:longitude":43.05972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Dayr `Asalah",
+    "gn:country_code":"YE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403144,
+    "gn:latitude":15.29611,
+    "gn:longitude":43.05972,
+    "gn:modification_date":"1997-02-11",
+    "gn:name":"Dayr `Asalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091920319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403144
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"cb44f6f3b96707b35a5f11cfdaf7d30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091920319,
+            "locality_id":1293282177,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":1293282177,
+    "wof:lastmodified":1537079862,
+    "wof:name":"Dayr `Asalah",
+    "wof:parent_id":1091920319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05972,
+    15.29611,
+    43.05972,
+    15.29611
+],
+  "geometry": {"coordinates":[43.05972,15.29611],"type":"Point"}
+}

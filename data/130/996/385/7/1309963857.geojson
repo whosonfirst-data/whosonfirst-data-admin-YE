@@ -1,0 +1,74 @@
+{
+  "id": 1309963857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27442,14.01267,44.27442,14.01267",
+    "geom:latitude":14.01267,
+    "geom:longitude":44.27442,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Harf al Harmuz",
+    "gn:country_code":"YE",
+    "gn:dem":2427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359595,
+    "gn:latitude":14.01267,
+    "gn:longitude":44.27442,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"\u1e28arf al Harm\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0641 \u0627\u0644\u0647\u0631\u0645\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u1e28arf al Harm\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359595
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"767a91742afbc006c238a6c0ef89b057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924513,
+            "locality_id":1309963857,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1309963857,
+    "wof:lastmodified":1537715769,
+    "wof:name":"Harf al Harmuz",
+    "wof:parent_id":1091924513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27442,
+    14.01267,
+    44.27442,
+    14.01267
+],
+  "geometry": {"coordinates":[44.27442,14.01267],"type":"Point"}
+}

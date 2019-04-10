@@ -1,0 +1,77 @@
+{
+  "id": 1243235247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18859,15.28437,44.18859,15.28437",
+    "geom:latitude":15.28437,
+    "geom:longitude":44.18859,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Bayt Zabtan",
+    "gn:country_code":"YE",
+    "gn:dem":2377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77541,
+    "gn:latitude":15.28437,
+    "gn:longitude":44.18859,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bayt Zab\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0632\u0628\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Az Zabad\u0101n",
+        "Bayt Zaba\u1e11\u0101n",
+        "Bayt Zab\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77541,
+        "wk:page":"Bayt_Zabadan"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"da19623efc4571e5fb320a1a7aea5310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1243235247,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1243235247,
+    "wof:lastmodified":1537715227,
+    "wof:name":"Bayt Zabtan",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18859000000001,
+    15.28437,
+    44.18859000000001,
+    15.28437
+],
+  "geometry": {"coordinates":[44.18859000000001,15.28437],"type":"Point"}
+}

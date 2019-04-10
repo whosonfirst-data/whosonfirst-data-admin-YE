@@ -1,0 +1,68 @@
+{
+  "id": 1344152319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41629,15.29725,43.41629,15.29725",
+    "geom:latitude":15.29725,
+    "geom:longitude":43.41629,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Ad Darajah",
+    "gn:country_code":"YE",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7365080,
+    "gn:latitude":15.29725,
+    "gn:longitude":43.41629,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ad Darajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680965,
+        1091921275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7365080
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b46982b116827b8274e520b6ede20765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091921275,
+            "locality_id":1344152319,
+            "region_id":85680965
+        }
+    ],
+    "wof:id":1344152319,
+    "wof:lastmodified":1536742819,
+    "wof:name":"Ad Darajah",
+    "wof:parent_id":1091921275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41629,
+    15.29725,
+    43.41629,
+    15.29725
+],
+  "geometry": {"coordinates":[43.41629,15.29725],"type":"Point"}
+}

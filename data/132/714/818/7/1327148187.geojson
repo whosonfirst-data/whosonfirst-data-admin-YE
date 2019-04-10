@@ -1,0 +1,72 @@
+{
+  "id": 1327148187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.92509,13.89838,45.92509,13.89838",
+    "geom:latitude":13.89838,
+    "geom:longitude":45.92509,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Am Maslab",
+    "gn:country_code":"YE",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":78867,
+    "gn:latitude":13.89838,
+    "gn:longitude":45.92509,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am Ma\u015flab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Ma\u015flab",
+        "Al Ma\u015flab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":78867
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7cab6e7e7e6f45161fda5c221bc1e775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1327148187,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1327148187,
+    "wof:lastmodified":1537715276,
+    "wof:name":"Am Maslab",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.92509,
+    13.89838,
+    45.92509,
+    13.89838
+],
+  "geometry": {"coordinates":[45.92509,13.89838],"type":"Point"}
+}

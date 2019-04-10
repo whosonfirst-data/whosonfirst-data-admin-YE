@@ -1,0 +1,68 @@
+{
+  "id": 1192974661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70504,15.71172,43.70504,15.71172",
+    "geom:latitude":15.71172,
+    "geom:longitude":43.70504,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1718.0",
+    "gn:asciiname":"Bayt ar Rukb",
+    "gn:country_code":"YE",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403315,
+    "gn:latitude":15.71172,
+    "gn:longitude":43.70504,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt ar Rukb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403315
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"11e3e1d3318c33ee7bc5ab08eb9da845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924013,
+            "locality_id":1192974661,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":1192974661,
+    "wof:lastmodified":1536374601,
+    "wof:name":"Bayt ar Rukb",
+    "wof:parent_id":1091924013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70504,
+    15.71172,
+    43.70504,
+    15.71172
+],
+  "geometry": {"coordinates":[43.70504,15.71172],"type":"Point"}
+}

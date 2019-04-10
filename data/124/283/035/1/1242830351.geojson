@@ -1,0 +1,71 @@
+{
+  "id": 1242830351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20213,13.87716,44.20213,13.87716",
+    "geom:latitude":13.87716,
+    "geom:longitude":44.20213,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Qitab",
+    "gn:country_code":"YE",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356806,
+    "gn:latitude":13.87716,
+    "gn:longitude":44.20213,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qit\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qit\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356806
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"75f7ce3fabaec2d8adf29290d67173d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924509,
+            "locality_id":1242830351,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1242830351,
+    "wof:lastmodified":1537715685,
+    "wof:name":"Qitab",
+    "wof:parent_id":1091924509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20213,
+    13.87716,
+    44.20213,
+    13.87716
+],
+  "geometry": {"coordinates":[44.20213,13.87716],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890424483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21637,16.48213,43.21637,16.48213",
+    "geom:latitude":16.48213,
+    "geom:longitude":43.21637,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":11,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0633\u0645 \u0627\u0644\u0633\u0628\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Qasim As Sabt"
+    ],
+    "qs:name":"Q\u0101sim as Sabt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091923899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631579,
+        "gp:id":1959057,
+        "qs:id":694550,
+        "wd:id":"Q20305791"
+    },
+    "wof:country":"YE",
+    "wof:created":1469051546,
+    "wof:geomhash":"e1e562208fd540e01c7d304b8255ee5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923899,
+            "locality_id":890424483,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890424483,
+    "wof:lastmodified":1514503338,
+    "wof:name":"Q\u0101sim as Sabt",
+    "wof:parent_id":1091923899,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21637,
+    16.48213,
+    43.21637,
+    16.48213
+],
+  "geometry": {"coordinates":[43.21637,16.48213],"type":"Point"}
+}

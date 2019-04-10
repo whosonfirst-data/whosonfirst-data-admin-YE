@@ -1,0 +1,75 @@
+{
+  "id": 1310009279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96742,13.89704,45.96742,13.89704",
+    "geom:latitude":13.89704,
+    "geom:longitude":45.96742,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Am Sala`ah",
+    "gn:country_code":"YE",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":77857,
+    "gn:latitude":13.89704,
+    "gn:longitude":45.96742,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Am \u015eala\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u015eala\u2018ah",
+        "As Sal\u2018ah",
+        "Am-Sal\u2018ah",
+        "Am \u015eala\u2018ah",
+        "A\u015f \u015eala\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":77857
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dddad7221ce4eb273797ef201fd31c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918569,
+            "locality_id":1310009279,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1310009279,
+    "wof:lastmodified":1537715238,
+    "wof:name":"Am Sala`ah",
+    "wof:parent_id":1091918569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96742,
+    13.89704,
+    45.96742,
+    13.89704
+],
+  "geometry": {"coordinates":[45.96742,13.89704],"type":"Point"}
+}

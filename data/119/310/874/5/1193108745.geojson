@@ -1,0 +1,71 @@
+{
+  "id": 1193108745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99489,15.19045,43.99489,15.19045",
+    "geom:latitude":15.19045,
+    "geom:longitude":43.99489,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Shi`abat",
+    "gn:country_code":"YE",
+    "gn:dem":2859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342222,
+    "gn:latitude":15.19045,
+    "gn:longitude":43.99489,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shi\u2018\u0101b\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shi\u2018\u0101b\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342222
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"e2f2d251eb5bfad081f72611ebdeaaeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925787,
+            "locality_id":1193108745,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1193108745,
+    "wof:lastmodified":1537715496,
+    "wof:name":"Shi`abat",
+    "wof:parent_id":1091925787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99489000000001,
+    15.19045,
+    43.99489000000001,
+    15.19045
+],
+  "geometry": {"coordinates":[43.99489000000001,15.19045],"type":"Point"}
+}

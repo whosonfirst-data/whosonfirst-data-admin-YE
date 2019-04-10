@@ -1,0 +1,71 @@
+{
+  "id": 1293347283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74504,13.63001,43.74504,13.63001",
+    "geom:latitude":13.63001,
+    "geom:longitude":43.74504,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Sharajah",
+    "gn:country_code":"YE",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7356162,
+    "gn:latitude":13.63001,
+    "gn:longitude":43.74504,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shar\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shar\u0101jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680989,
+        1091926573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7356162
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"41b8c088075a6857c28cf9eb967174c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091926573,
+            "locality_id":1293347283,
+            "region_id":85680989
+        }
+    ],
+    "wof:id":1293347283,
+    "wof:lastmodified":1537715665,
+    "wof:name":"Sharajah",
+    "wof:parent_id":1091926573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74504,
+    13.63001,
+    43.74504,
+    13.63001
+],
+  "geometry": {"coordinates":[43.74504,13.63001],"type":"Point"}
+}

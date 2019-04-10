@@ -1,0 +1,75 @@
+{
+  "id": 1276939769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54623,13.60247,44.54623,13.60247",
+    "geom:latitude":13.60247,
+    "geom:longitude":44.54623,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Al Husayn",
+    "gn:country_code":"YE",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79385,
+    "gn:latitude":13.60247,
+    "gn:longitude":44.54623,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28u\u015fayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husen",
+        "Al \u1e28i\u015fn",
+        "El Husen",
+        "Al \u1e28u\u015fayn",
+        "Al Hu\u015fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681003,
+        1091919625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79385
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"3473bd2bfe27ba6e80c09f7b045aed81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919625,
+            "locality_id":1276939769,
+            "region_id":85681003
+        }
+    ],
+    "wof:id":1276939769,
+    "wof:lastmodified":1537715299,
+    "wof:name":"Al Husayn",
+    "wof:parent_id":1091919625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54623,
+    13.60247,
+    44.54623,
+    13.60247
+],
+  "geometry": {"coordinates":[44.54623,13.60247],"type":"Point"}
+}

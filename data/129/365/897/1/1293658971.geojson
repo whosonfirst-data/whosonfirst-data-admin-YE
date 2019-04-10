@@ -1,0 +1,75 @@
+{
+  "id": 1293658971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40193,17.29159,43.40193,17.29159",
+    "geom:latitude":17.29159,
+    "geom:longitude":43.40193,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Al Qa`ban",
+    "gn:country_code":"YE",
+    "gn:dem":2371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7345713,
+    "gn:latitude":17.29159,
+    "gn:longitude":43.40193,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100l Qa\u2018b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0642\u0628\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Adh Dh\u0101r\u012b \u0100l Qa\u2018b\u0101n",
+        "\u0100l Qa\u2018b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7345713
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"49a16ba12ac9511226fa1ca3de60b04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925479,
+            "locality_id":1293658971,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1293658971,
+    "wof:lastmodified":1537715566,
+    "wof:name":"Al Qa`ban",
+    "wof:parent_id":1091925479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40193,
+    17.29159,
+    43.40193,
+    17.29159
+],
+  "geometry": {"coordinates":[43.40193,17.29159],"type":"Point"}
+}

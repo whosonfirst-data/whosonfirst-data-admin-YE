@@ -1,0 +1,75 @@
+{
+  "id": 1209972683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,14.03333,44.36667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1105.0",
+    "gn:asciiname":"Shihabi",
+    "gn:cc2":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":70658,
+    "gn:latitude":14.03333,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shih\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shih\u0101b\u012b"
+    ],
+    "name:und_x_variant":[
+        "Shehabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680979,
+        1091924511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":70658
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"c6267f593225e3b29f2ce4d065ee0c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924511,
+            "locality_id":1209972683,
+            "region_id":85680979
+        }
+    ],
+    "wof:id":1209972683,
+    "wof:lastmodified":1537715082,
+    "wof:name":"Shihabi",
+    "wof:parent_id":1091924511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    14.03333,
+    44.36667,
+    14.03333
+],
+  "geometry": {"coordinates":[44.36667,14.03333],"type":"Point"}
+}

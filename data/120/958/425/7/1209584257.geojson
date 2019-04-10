@@ -1,0 +1,65 @@
+{
+  "id": 1209584257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2069,14.04252,44.2069,14.04252",
+    "geom:latitude":14.04252,
+    "geom:longitude":44.2069,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Al Haduq",
+    "gn:country_code":"YE",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7359813,
+    "gn:latitude":14.04252,
+    "gn:longitude":44.2069,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u1e28ad\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ad\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7359813
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"26e7a0326d49ce3afd9dd81651b432fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632499,
+            "locality_id":1209584257
+        }
+    ],
+    "wof:id":1209584257,
+    "wof:lastmodified":1537715778,
+    "wof:name":"Al Haduq",
+    "wof:parent_id":85632499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2069,
+    14.04252,
+    44.2069,
+    14.04252
+],
+  "geometry": {"coordinates":[44.2069,14.04252],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276403041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24046,15.15094,44.24046,15.15094",
+    "geom:latitude":15.15094,
+    "geom:longitude":44.24046,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Al Aljam",
+    "gn:country_code":"YE",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79301,
+    "gn:latitude":15.15094,
+    "gn:longitude":44.24046,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Alj\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Alj\u0101m"
+    ],
+    "name:und_x_variant":[
+        "\u2018Allan",
+        "Alj\u0101m",
+        "\u2018Al\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79301,
+        "wk:page":"Al_Aljam"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4accca58228a348e1f4b415aa6775d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925875,
+            "locality_id":1276403041,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1276403041,
+    "wof:lastmodified":1537715295,
+    "wof:name":"Al Aljam",
+    "wof:parent_id":1091925875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24046,
+    15.15094,
+    44.24046,
+    15.15094
+],
+  "geometry": {"coordinates":[44.24046,15.15094],"type":"Point"}
+}

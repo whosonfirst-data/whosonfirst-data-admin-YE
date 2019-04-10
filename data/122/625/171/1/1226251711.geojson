@@ -1,0 +1,78 @@
+{
+  "id": 1226251711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.44339,13.39298,45.44339,13.39298",
+    "geom:latitude":13.39298,
+    "geom:longitude":45.44339,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1211.0",
+    "gn:asciiname":"Al Ma`ar",
+    "gn:country_code":"YE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":79042,
+    "gn:latitude":13.39298,
+    "gn:longitude":45.44339,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "M\u0101yirah",
+        "Al Ma\u2018irr",
+        "Ma\u2018ir",
+        "Al Ma\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":79042,
+        "wk:page":"Al_Ma%60ar"
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"7f4f58033cca59b0a8541ad920783367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918553,
+            "locality_id":1226251711,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1226251711,
+    "wof:lastmodified":1537715284,
+    "wof:name":"Al Ma`ar",
+    "wof:parent_id":1091918553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.44339,
+    13.39298,
+    45.44339,
+    13.39298
+],
+  "geometry": {"coordinates":[45.44339,13.39298],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343325495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70156,15.59077,44.70156,15.59077",
+    "geom:latitude":15.59077,
+    "geom:longitude":44.70156,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Khamis Namlah",
+    "gn:country_code":"YE",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976094,
+    "gn:latitude":15.59077,
+    "gn:longitude":44.70156,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kham\u012bs Namlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u064a\u0633 \u0646\u0645\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kham\u012bs Namlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681021,
+        1091925829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976094
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"18beeeba52a3594e2bc4c17f4baa0dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925829,
+            "locality_id":1343325495,
+            "region_id":85681021
+        }
+    ],
+    "wof:id":1343325495,
+    "wof:lastmodified":1537716143,
+    "wof:name":"Khamis Namlah",
+    "wof:parent_id":1091925829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70156,
+    15.59077,
+    44.70156,
+    15.59077
+],
+  "geometry": {"coordinates":[44.70156,15.59077],"type":"Point"}
+}

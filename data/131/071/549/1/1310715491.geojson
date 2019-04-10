@@ -1,0 +1,71 @@
+{
+  "id": 1310715491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98159,13.75952,45.98159,13.75952",
+    "geom:latitude":13.75952,
+    "geom:longitude":45.98159,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Sakin Ahl Ahmad `Ali",
+    "gn:country_code":"YE",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":71233,
+    "gn:latitude":13.75952,
+    "gn:longitude":45.98159,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101kin Ahl A\u1e29mad \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101kin Ahl A\u1e29mad \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681043,
+        1091918487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":71233
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"12d3ae518c5a96c6becb42dec6ec0646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091918487,
+            "locality_id":1310715491,
+            "region_id":85681043
+        }
+    ],
+    "wof:id":1310715491,
+    "wof:lastmodified":1537715092,
+    "wof:name":"Sakin Ahl Ahmad `Ali",
+    "wof:parent_id":1091918487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98159,
+    13.75952,
+    45.98159,
+    13.75952
+],
+  "geometry": {"coordinates":[45.98159,13.75952],"type":"Point"}
+}

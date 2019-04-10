@@ -1,0 +1,74 @@
+{
+  "id": 1326585185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41732,13.13335,44.41732,13.13335",
+    "geom:latitude":13.13335,
+    "geom:longitude":44.41732,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Dar am Farshah",
+    "gn:country_code":"YE",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":76521,
+    "gn:latitude":13.13335,
+    "gn:longitude":44.41732,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r am Farshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r am Farshah",
+        "Dar am Farsha",
+        "D\u0101r al Farshah",
+        "D\u0101r Umm Farshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":76521
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"dd46b46fc3c3a18979da125d6cb13785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924969,
+            "locality_id":1326585185,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1326585185,
+    "wof:lastmodified":1537715203,
+    "wof:name":"Dar am Farshah",
+    "wof:parent_id":1091924969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41732,
+    13.13335,
+    44.41732,
+    13.13335
+],
+  "geometry": {"coordinates":[44.41732,13.13335],"type":"Point"}
+}

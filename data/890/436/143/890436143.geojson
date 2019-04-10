@@ -1,0 +1,76 @@
+{
+  "id": 890436143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41747,16.29803,43.41747,16.29803",
+    "geom:latitude":16.29803,
+    "geom:longitude":43.41747,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101bi\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0628\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Al Habit"
+    ],
+    "qs:name":"Al \u1e28\u0101bi\u0163",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680973,
+        1091924327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756457,
+        "gp:id":1959128,
+        "qs:id":698954,
+        "wd:id":"Q20299092"
+    },
+    "wof:country":"YE",
+    "wof:created":1469052095,
+    "wof:geomhash":"9b39350d4819ff729225abab3e13b7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924327,
+            "locality_id":890436143,
+            "region_id":85680973
+        }
+    ],
+    "wof:id":890436143,
+    "wof:lastmodified":1514503208,
+    "wof:name":"Al \u1e28\u0101bi\u0163",
+    "wof:parent_id":1091924327,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41747,
+    16.29803,
+    43.41747,
+    16.29803
+],
+  "geometry": {"coordinates":[43.41747,16.29803],"type":"Point"}
+}

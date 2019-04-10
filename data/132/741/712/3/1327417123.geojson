@@ -1,0 +1,74 @@
+{
+  "id": 1327417123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17301,15.13775,45.17301,15.13775",
+    "geom:latitude":15.13775,
+    "geom:longitude":45.17301,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2607.0",
+    "gn:asciiname":"At Tulayhah",
+    "gn:country_code":"YE",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9976349,
+    "gn:latitude":15.13775,
+    "gn:longitude":45.17301,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162ulay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0644\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162ulay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681015,
+        1091925049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9976349
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"4b5fcb6df301fe1e1b9c14ff703db287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925049,
+            "locality_id":1327417123,
+            "region_id":85681015
+        }
+    ],
+    "wof:id":1327417123,
+    "wof:lastmodified":1537716154,
+    "wof:name":"At Tulayhah",
+    "wof:parent_id":1091925049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17301,
+    15.13775,
+    45.17301,
+    15.13775
+],
+  "geometry": {"coordinates":[45.17301,15.13775],"type":"Point"}
+}

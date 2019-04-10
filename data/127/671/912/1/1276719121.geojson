@@ -1,0 +1,71 @@
+{
+  "id": 1276719121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14568,13.17884,44.14568,13.17884",
+    "geom:latitude":13.17884,
+    "geom:longitude":44.14568,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2512.0",
+    "gn:asciiname":"Al Harwah",
+    "gn:country_code":"YE",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871925,
+    "gn:latitude":13.17884,
+    "gn:longitude":44.14568,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Harwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680985,
+        1091924801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871925
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"b4a75bb3a7a72fd0d205c0b89e584bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091924801,
+            "locality_id":1276719121,
+            "region_id":85680985
+        }
+    ],
+    "wof:id":1276719121,
+    "wof:lastmodified":1537716270,
+    "wof:name":"Al Harwah",
+    "wof:parent_id":1091924801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14568,
+    13.17884,
+    44.14568,
+    13.17884
+],
+  "geometry": {"coordinates":[44.14568,13.17884],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326999845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9508,16.73175,43.9508,16.73175",
+    "geom:latitude":16.73175,
+    "geom:longitude":43.9508,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2212.0",
+    "gn:asciiname":"Abu Daw`a'",
+    "gn:country_code":"YE",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362019,
+    "gn:latitude":16.73175,
+    "gn:longitude":43.9508,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ab\u016b Daw\u2018\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
+    "iso:country":"YE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062f\u0648\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Daw\u2018\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7362019
+    },
+    "wof:country":"YE",
+    "wof:geomhash":"46fcd2be0294388f90fb8ab7e61a7340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925415,
+            "locality_id":1326999845,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1326999845,
+    "wof:lastmodified":1537715833,
+    "wof:name":"Abu Daw`a'",
+    "wof:parent_id":1091925415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ye",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9508,
+    16.73175,
+    43.9508,
+    16.73175
+],
+  "geometry": {"coordinates":[43.9508,16.73175],"type":"Point"}
+}

@@ -36,9 +36,6 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
-    "name:baq_x_preferred":[
-        "Al Bayda' gobernantzia"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2-\u09ac\u09be\u09af\u09bc\u09a6\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -48,17 +45,17 @@
     "name:cat_x_preferred":[
         "Al-Bayda"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u8fbe\u7701"
-    ],
     "name:dan_x_preferred":[
         "Al Bayda' Governorate"
     ],
     "name:deu_x_preferred":[
         "Al-Bayda"
     ],
-    "name:dut_x_preferred":[
-        "Al Bayda'"
+    "name:deu_x_variant":[
+        "Gouvernement al-Baida'"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Bayda'"
@@ -70,6 +67,12 @@
     "name:epo_x_preferred":[
         "Provinco Al Bajda'"
     ],
+    "name:eus_x_preferred":[
+        "Al Bayda' gobernantzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
+    ],
     "name:fin_x_preferred":[
         "Al Bayda"
     ],
@@ -77,19 +80,8 @@
         "Bayda"
     ],
     "name:fra_x_variant":[
-        "Al Bayda'"
-    ],
-    "name:fre_x_preferred":[
+        "Al Bayda'",
         "Gouvernorat d'Al Bayda'"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d1\u10d4\u10d8\u10d3\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement al-Baida'"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0abe\u0aaf\u0aa1\u0abe '\u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -118,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0ccd \u0cac\u0cc7\u0ca1\u0cbe '\u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d4\u10d8\u10d3\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ubc14\uc774\ub2e4"
     ],
@@ -130,7 +125,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092c\u0947\u0921\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Bayda' Governorate"
     ],
     "name:nan_x_preferred":[
@@ -145,16 +140,13 @@
     "name:nob_x_preferred":[
         "Al Bayda'"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
-    ],
     "name:pol_x_preferred":[
         "Al-Bajda"
     ],
     "name:por_x_preferred":[
         "Al Bayda'"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Al Bayda'"
     ],
     "name:rus_x_preferred":[
@@ -201,6 +193,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Al Bayda'"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u8fbe\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"YEM",
@@ -325,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550616,
+    "wof:lastmodified":1561839553,
     "wof:name":"Al Bayda'",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

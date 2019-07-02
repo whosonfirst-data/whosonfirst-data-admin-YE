@@ -19,9 +19,6 @@
     "name:aze_x_preferred":[
         "Z\u0259bid"
     ],
-    "name:baq_x_preferred":[
-        "Zabid"
-    ],
     "name:ben_x_preferred":[
         "\u09af\u09be\u09ac\u09bf\u09a6"
     ],
@@ -31,32 +28,29 @@
     "name:cat_x_preferred":[
         "Zabid"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u6bd4\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zabid"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zabid"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bc\u03c0\u03af\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Zab\u012bd"
     ],
+    "name:eus_x_preferred":[
+        "Zabid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u06cc\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Zabid"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zabid"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10d1\u10d8\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zabid"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03bc\u03c0\u03af\u03bd\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d1\u05d9\u05d3"
@@ -73,6 +67,9 @@
     "name:jpn_x_preferred":[
         "\u30b6\u30d3\u30fc\u30c9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d1\u10d8\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc790\ube44\ub4dc"
     ],
@@ -81,6 +78,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0417\u0430\u0431\u0438\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Zabid"
     ],
     "name:nno_x_preferred":[
         "Zabid"
@@ -91,22 +91,19 @@
     "name:oci_x_preferred":[
         "Zabid"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0628\u06cc\u062f\u0647"
-    ],
     "name:pol_x_preferred":[
         "Zabid"
     ],
     "name:por_x_preferred":[
         "Cidade Hist\u00f3rica de Zabid"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zabid"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0431\u0438\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zab\u00edd"
     ],
     "name:slv_x_preferred":[
@@ -138,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Zabid"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u6bd4\u5fb7"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -188,7 +188,7 @@
         }
     ],
     "wof:id":421190557,
-    "wof:lastmodified":1527716389,
+    "wof:lastmodified":1561839614,
     "wof:name":"Zabid",
     "wof:parent_id":421174007,
     "wof:placetype":"locality",

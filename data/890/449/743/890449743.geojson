@@ -25,9 +25,6 @@
     "name:azb_x_preferred":[
         "\u062a\u064e\u0639\u0650\u0632"
     ],
-    "name:baq_x_preferred":[
-        "Ta'izz"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09af\u09bc\u09be\u099c"
     ],
@@ -37,14 +34,14 @@
     "name:cat_x_preferred":[
         "Taizz"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u4f0a\u8332"
-    ],
     "name:dan_x_preferred":[
         "Ta'izz"
     ],
-    "name:dut_x_preferred":[
-        "Ta'izz"
+    "name:deu_x_preferred":[
+        "Taizz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u0390\u03b6"
     ],
     "name:eng_x_preferred":[
         "Ta'izz"
@@ -55,17 +52,17 @@
     "name:est_x_preferred":[
         "Ta\u2018izz"
     ],
+    "name:eus_x_preferred":[
+        "Ta'izz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0639\u0632"
+    ],
     "name:fin_x_preferred":[
         "Ta'izz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ta'izz"
-    ],
-    "name:ger_x_preferred":[
-        "Taizz"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u0390\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a9d"
@@ -115,11 +112,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0907\u0938"
     ],
-    "name:may_x_preferred":[
-        "Ta'izz"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0438\u0437"
+    ],
+    "name:msa_x_preferred":[
+        "Ta'izz"
+    ],
+    "name:nld_x_preferred":[
+        "Ta'izz"
     ],
     "name:nno_x_preferred":[
         "Taiz"
@@ -130,16 +130,13 @@
     "name:pan_x_preferred":[
         "\u0a24\u0a08\u0a1c\u0a3c"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0639\u0632"
-    ],
     "name:pol_x_preferred":[
         "Ta'izz"
     ],
     "name:por_x_preferred":[
         "Ta'izz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ta'izz"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +148,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dcf\u0dba\u0dd2\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Taizz"
     ],
     "name:slv_x_preferred":[
@@ -195,6 +192,9 @@
     ],
     "name:war_x_preferred":[
         "Taiz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4f0a\u8332"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Yemen",
@@ -319,7 +319,7 @@
         }
     ],
     "wof:id":890449743,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561839616,
     "wof:name":"Ta\u2018izz",
     "wof:parent_id":1091926639,
     "wof:placetype":"locality",

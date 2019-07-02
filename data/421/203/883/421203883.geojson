@@ -26,9 +26,6 @@
     "name:afr_x_preferred":[
         "Sanaa"
     ],
-    "name:alb_x_preferred":[
-        "Sana"
-    ],
     "name:amh_x_preferred":[
         "\u1233\u1293"
     ],
@@ -37,9 +34,6 @@
     ],
     "name:arg_x_preferred":[
         "Sana"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u0561\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0635\u0646\u0639\u0627"
@@ -56,14 +50,14 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Sana"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f0b\u0f53\u0f71\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Sana'a"
@@ -83,17 +77,17 @@
     "name:cdo_x_preferred":[
         "Sana'a"
     ],
+    "name:ces_x_preferred":[
+        "San'\u00e1"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043d\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u8428\u90a3"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u0646\u0639\u0627"
     ],
-    "name:cze_x_preferred":[
-        "San'\u00e1"
+    "name:cym_x_preferred":[
+        "Sana'a"
     ],
     "name:dan_x_preferred":[
         "Sana\u00e1"
@@ -107,11 +101,11 @@
     "name:diq_x_preferred":[
         "Sana"
     ],
-    "name:dut_x_preferred":[
-        "Sanaa"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03b1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sanaa"
@@ -125,8 +119,14 @@
     "name:eus_x_preferred":[
         "Sanaa"
     ],
+    "name:eus_x_variant":[
+        "Sana"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0646\u0639\u0627\u0621"
+    ],
+    "name:fas_x_variant":[
+        "\u0635\u0646\u0639\u0627"
     ],
     "name:fin_x_preferred":[
         "Sanaa"
@@ -134,17 +134,8 @@
     "name:fra_x_preferred":[
         "Sanaa"
     ],
-    "name:fre_x_preferred":[
-        "Sanaa"
-    ],
     "name:fry_x_preferred":[
         "Sana'a"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sanaa"
     ],
     "name:gla_x_preferred":[
         "\u1e62an'\u0101'"
@@ -154,9 +145,6 @@
     ],
     "name:glg_x_preferred":[
         "San\u00e1"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03b1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0abe"
@@ -182,8 +170,8 @@
     "name:hun_x_preferred":[
         "Szanaa"
     ],
-    "name:ice_x_preferred":[
-        "Sana"
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u0561\u0561"
     ],
     "name:ido_x_preferred":[
         "Sanaa"
@@ -196,6 +184,9 @@
     ],
     "name:ind_x_preferred":[
         "Sana\u00e1"
+    ],
+    "name:isl_x_preferred":[
+        "Sana"
     ],
     "name:ita_x_preferred":[
         "San'a"
@@ -214,6 +205,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ca8\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u0430"
@@ -248,23 +242,23 @@
     "name:lzh_x_preferred":[
         "\u85a9\u90a3"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d28"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "Sana'a"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
         "Sana'a"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u043d\u0430\u0430 \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Sana'a"
     ],
     "name:nah_x_preferred":[
         "San\u0101"
@@ -302,9 +296,6 @@
     "name:pap_x_preferred":[
         "San'a"
     ],
-    "name:per_x_preferred":[
-        "\u0635\u0646\u0639\u0627"
-    ],
     "name:pms_x_preferred":[
         "San'a"
     ],
@@ -323,7 +314,7 @@
     "name:que_x_preferred":[
         "Sana'a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sana'a"
     ],
     "name:rus_x_preferred":[
@@ -341,9 +332,6 @@
     "name:slk_x_preferred":[
         "San\u00e1"
     ],
-    "name:slo_x_preferred":[
-        "San\u00e1"
-    ],
     "name:slv_x_preferred":[
         "Sana"
     ],
@@ -355,6 +343,9 @@
     ],
     "name:spa_x_preferred":[
         "San\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Sana"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0430"
@@ -389,9 +380,6 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f0b\u0f53\u0f71\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Sana"
     ],
@@ -419,9 +407,6 @@
     "name:war_x_preferred":[
         "Sana'a"
     ],
-    "name:wel_x_preferred":[
-        "Sana'a"
-    ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10dc\u10d0"
     ],
@@ -433,6 +418,9 @@
     ],
     "name:yue_x_preferred":[
         "\u85a9\u90a3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u90a3"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Yemen",
@@ -586,7 +574,7 @@
         }
     ],
     "wof:id":421203883,
-    "wof:lastmodified":1552519485,
+    "wof:lastmodified":1561839613,
     "wof:name":"Sana'a",
     "wof:parent_id":85681029,
     "wof:placetype":"locality",

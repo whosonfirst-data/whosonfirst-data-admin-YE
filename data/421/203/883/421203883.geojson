@@ -41,6 +41,9 @@
     "name:ast_x_preferred":[
         "San\u00e1"
     ],
+    "name:ast_x_variant":[
+        "Sana'a"
+    ],
     "name:azb_x_preferred":[
         "\u0635\u0646\u0639\u0627"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Sana\u02bda"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0430"
@@ -74,8 +80,14 @@
     "name:cat_x_preferred":[
         "Sana\u00e0"
     ],
+    "name:cat_x_variant":[
+        "San\u00e0"
+    ],
     "name:cdo_x_preferred":[
         "Sana'a"
+    ],
+    "name:ceb_x_preferred":[
+        "Sanaa"
     ],
     "name:ces_x_preferred":[
         "San'\u00e1"
@@ -109,6 +121,9 @@
     ],
     "name:eng_x_preferred":[
         "Sanaa"
+    ],
+    "name:eng_x_variant":[
+        "Sana'a"
     ],
     "name:epo_x_preferred":[
         "Sanao"
@@ -185,11 +200,17 @@
     "name:ind_x_preferred":[
         "Sana\u00e1"
     ],
+    "name:ind_x_variant":[
+        "Sana'a"
+    ],
     "name:isl_x_preferred":[
         "Sana"
     ],
     "name:ita_x_preferred":[
         "San'a"
+    ],
+    "name:ita_x_variant":[
+        "Sana'a"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30cc\u30a2"
@@ -227,6 +248,9 @@
     "name:lav_x_preferred":[
         "Sana"
     ],
+    "name:lij_x_preferred":[
+        "Sanaa"
+    ],
     "name:lit_x_preferred":[
         "Sana"
     ],
@@ -241,6 +265,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u85a9\u90a3"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0928\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d28"
@@ -286,6 +313,9 @@
     ],
     "name:oci_x_preferred":[
         "Sanaa"
+    ],
+    "name:olo_x_preferred":[
+        "Sana"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0430\u043d\u00e6"
@@ -356,6 +386,9 @@
     "name:swe_x_preferred":[
         "Sana"
     ],
+    "name:swe_x_variant":[
+        "Sanaa"
+    ],
     "name:szl_x_preferred":[
         "Sana"
     ],
@@ -406,6 +439,9 @@
     ],
     "name:war_x_preferred":[
         "Sana'a"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u90a3"
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10dc\u10d0"
@@ -574,7 +610,7 @@
         }
     ],
     "wof:id":421203883,
-    "wof:lastmodified":1561839613,
+    "wof:lastmodified":1563351125,
     "wof:name":"Sana'a",
     "wof:parent_id":85681029,
     "wof:placetype":"locality",

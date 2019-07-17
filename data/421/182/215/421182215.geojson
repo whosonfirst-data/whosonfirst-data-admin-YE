@@ -19,6 +19,9 @@
     "name:ara_x_variant":[
         "\u0639\u0645\u0631\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Amr\u0101n"
+    ],
     "name:deu_x_preferred":[
         "\u02bfAmr\u0101n"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0639\u0645\u0631\u0627\u0646\u060c \u06cc\u0645\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u0645\u0631\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Amran"
@@ -40,14 +46,23 @@
     "name:ita_x_preferred":[
         "Amran"
     ],
+    "name:ita_x_variant":[
+        "'Amran"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30e9\u30fc\u30f3"
     ],
     "name:nld_x_preferred":[
         "Amran"
     ],
+    "name:nld_x_variant":[
+        "'Amran"
+    ],
     "name:nno_x_preferred":[
         "Amran"
+    ],
+    "name:nno_x_variant":[
+        "'Amran"
     ],
     "name:pol_x_preferred":[
         "Amran"
@@ -55,11 +70,20 @@
     "name:ron_x_preferred":[
         "Amran"
     ],
+    "name:ron_x_variant":[
+        "'Amran"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0440\u0430\u043d"
     ],
     "name:sco_x_preferred":[
         "Amran"
+    ],
+    "name:sco_x_variant":[
+        "'Amran"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e21\u0e23\u0e2d\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0440\u0430\u043d"
@@ -69,6 +93,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u0645\u0631\u0627\u0646\u060c \u06cc\u0645\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0639\u0645\u0631\u0627\u0646"
     ],
     "qs:gn_country":"YE",
     "qs:gn_fcode":"PPLA",
@@ -116,7 +143,7 @@
         }
     ],
     "wof:id":421182215,
-    "wof:lastmodified":1561839614,
+    "wof:lastmodified":1563351137,
     "wof:name":"\u0639\u0645\u0631\u0627\u0646",
     "wof:parent_id":1091921709,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0639\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u064a\u0645\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0645\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09af\u09bc\u09ae\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Raimah"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Raymah"
     ],
     "name:dan_x_preferred":[
         "Raymah Governorate"
@@ -107,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ub77c\uc774\ub9c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uc774\ub9c8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Raimas muh\u0101faza"
     ],
@@ -127,6 +139,9 @@
     ],
     "name:nno_x_preferred":[
         "Raymah"
+    ],
+    "name:nno_x_variant":[
+        "Raymah guvernement"
     ],
     "name:nob_x_preferred":[
         "Raymah"
@@ -167,6 +182,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e23\u0e21\u0e32\u0e2e\u0e4c \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e23\u0e47\u0e2d\u0e22\u0e21\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Rayima ili"
     ],
@@ -181,6 +199,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0645\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0631\u06cc\u0645\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Raymah"
@@ -308,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839552,
+    "wof:lastmodified":1563348340,
     "wof:name":"Raymah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

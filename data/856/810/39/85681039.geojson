@@ -32,11 +32,26 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u062f\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u062f\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Aden m\u00fchafazas\u0131"
+    ],
+    "name:bar_x_preferred":[
+        "Gouvernement Adan"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0434\u0435\u043d"
     ],
     "name:cat_x_preferred":[
         "Adan"
+    ],
+    "name:cat_x_variant":[
+        "Governaci\u00f3 d'Adan"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at \u2018Adan"
     ],
     "name:deu_x_preferred":[
         "Adan"
@@ -53,13 +68,17 @@
         "Governorate Number One",
         "First Governorate",
         "Aden Municipality",
-        "Adan Governorate"
+        "Adan Governorate",
+        "'Adan Governorate"
     ],
     "name:epo_x_preferred":[
         "Provinco Adeno"
     ],
     "name:eus_x_preferred":[
         "Adan gobernantzia"
+    ],
+    "name:eus_x_variant":[
+        "'Adan gobernantzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0639\u062f\u0646"
@@ -75,6 +94,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d3\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0926\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -100,6 +122,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub374 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub374\uc8fc"
+    ],
     "name:nan_x_preferred":[
         "Aden S\u00e9ng"
     ],
@@ -114,6 +139,9 @@
     ],
     "name:nob_x_preferred":[
         "Adan"
+    ],
+    "name:nob_x_variant":[
+        "'Adan"
     ],
     "name:pol_x_preferred":[
         "Aden"
@@ -130,6 +158,9 @@
     "name:sco_x_preferred":[
         "Adan Govrenorate"
     ],
+    "name:sco_x_variant":[
+        "'Adan Govrenorate"
+    ],
     "name:spa_x_preferred":[
         "Gobernaci\u00f3n de 'Adan"
     ],
@@ -139,8 +170,14 @@
     "name:swe_x_preferred":[
         "Aden"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e40\u0e2d\u0e40\u0e14\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Adan"
+    ],
+    "name:tur_x_variant":[
+        "Aden ili"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0435\u043d"
@@ -283,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839553,
+    "wof:lastmodified":1563348345,
     "wof:name":"`Adan",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

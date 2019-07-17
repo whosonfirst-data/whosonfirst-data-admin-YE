@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Mukalla"
     ],
+    "name:ceb_x_preferred":[
+        "Al Mukall\u0101"
+    ],
     "name:ces_x_preferred":[
         "Mukall\u00e1"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30ab\u30c3\u30e9\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e0\u30ab\u30e9"
     ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0443\u043a\u0430\u043b\u043b\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
@@ -122,6 +128,9 @@
     ],
     "name:swe_x_preferred":[
         "Al-Mukalla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e38\u0e01\u0e31\u0e25\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "El-Mukelle"
@@ -287,7 +296,7 @@
         }
     ],
     "wof:id":421168637,
-    "wof:lastmodified":1561839613,
+    "wof:lastmodified":1563351121,
     "wof:name":"Al Mukalla",
     "wof:parent_id":1091922665,
     "wof:placetype":"locality",

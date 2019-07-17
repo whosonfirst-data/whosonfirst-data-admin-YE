@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u064a\u0646\u0640\u0629 \u0627\u0644\u0639\u0627\u0637\u0640\u0641"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u064a\u0646\u0629 \u0627\u0644\u0639\u0627\u0637\u0641"
+    ],
     "name:eng_x_preferred":[
         "Mu'aynat Al 'Atif"
+    ],
+    "name:eng_x_variant":[
+        "\u0100l Ma\u015fna\u1e29"
     ],
     "name:unk_x_variant":[
         "Ma\u2018\u012bnat al \u2018\u0100\u0163if"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890427181,
-    "wof:lastmodified":1514503329,
+    "wof:lastmodified":1563353577,
     "wof:name":"Mu\u2018aynat al \u2018\u0100\u0163if",
     "wof:parent_id":1091926555,
     "wof:placetype":"locality",

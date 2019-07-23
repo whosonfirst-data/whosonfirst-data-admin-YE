@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062f\u064a\u062f\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Al Hudayda"
+    ],
     "name:aze_x_preferred":[
         "Hudeyd\u0259"
     ],
@@ -34,8 +37,14 @@
     "name:cat_x_preferred":[
         "Hodeida"
     ],
+    "name:ceb_x_preferred":[
+        "Al \u1e28udaydah"
+    ],
     "name:ces_x_preferred":[
         "Hodeida"
+    ],
+    "name:ces_x_variant":[
+        "Hudajda"
     ],
     "name:dan_x_preferred":[
         "Al-Hudaydah"
@@ -45,6 +54,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb \u03a7\u03bf\u03c5\u03bd\u03c4\u03ad\u03b9\u03bd\u03c4\u03b1\u03c7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb \u03a7\u03bf\u03c5\u03bd\u03c4\u03ac\u03c5\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Hudaydah"
@@ -130,6 +142,9 @@
     "name:nob_x_preferred":[
         "Hodeidah"
     ],
+    "name:nob_x_variant":[
+        "Hodeida"
+    ],
     "name:ota_x_preferred":[
         "\u062d\u062f\u06cc\u062f\u0647"
     ],
@@ -160,6 +175,9 @@
     "name:spa_x_preferred":[
         "Al Hudayda"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0425\u0443\u0434\u0430\u0438\u0434\u0430"
+    ],
     "name:swe_x_preferred":[
         "Hodeidah"
     ],
@@ -171,6 +189,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e2e\u0e39\u0e44\u0e21\u0e22\u0e4c\u0e14\u0e30\u0e2e\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e2e\u0e38\u0e14\u0e31\u0e22\u0e14\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "El Hudeyde"
@@ -321,7 +342,7 @@
         }
     ],
     "wof:id":890432439,
-    "wof:lastmodified":1561839635,
+    "wof:lastmodified":1563353764,
     "wof:name":"Al \u1e28udaydah",
     "wof:parent_id":1091919955,
     "wof:placetype":"locality",

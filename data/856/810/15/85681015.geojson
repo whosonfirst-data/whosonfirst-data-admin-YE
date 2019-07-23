@@ -33,6 +33,12 @@
         "Ma\u00b4rib",
         "\u0645\u0623\u0631\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0623\u0631\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0623\u0631\u0628 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "M\u0259rib"
     ],
@@ -45,11 +51,17 @@
     "name:cat_x_preferred":[
         "Marib"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Ma'rib"
+    ],
     "name:ces_x_preferred":[
         "Marib"
     ],
     "name:dan_x_preferred":[
         "Marib"
+    ],
+    "name:dan_x_variant":[
+        "Ma'rib Governorate"
     ],
     "name:deu_x_preferred":[
         "Ma'rib"
@@ -69,6 +81,9 @@
     ],
     "name:epo_x_preferred":[
         "Marib"
+    ],
+    "name:epo_x_variant":[
+        "Provinco Ma'rib"
     ],
     "name:eus_x_preferred":[
         "Ma'rib gobernantzia"
@@ -104,8 +119,14 @@
     "name:hrv_x_preferred":[
         "Marib"
     ],
+    "name:hrv_x_variant":[
+        "Ma'rib"
+    ],
     "name:hun_x_preferred":[
         "M\u00e1rib"
+    ],
+    "name:hun_x_variant":[
+        "Marib korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u056b\u0562"
@@ -113,11 +134,17 @@
     "name:ind_x_preferred":[
         "Ma'arib"
     ],
+    "name:ind_x_variant":[
+        "Kegubernuran Ma'rib"
+    ],
     "name:ita_x_preferred":[
         "Ma'rib"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a2\u30ea\u30d6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30de\u30a2\u30ea\u30d6\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0cbf\u0cac\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
@@ -128,11 +155,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub9ac\ube0c"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub9ac\ube0c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Maaribas muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Maribas"
+    ],
+    "name:lit_x_variant":[
+        "Maribo gubernija"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u0940\u092c \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -148,6 +181,9 @@
     ],
     "name:nno_x_preferred":[
         "Ma'rib"
+    ],
+    "name:nno_x_variant":[
+        "Ma'rib guvernement"
     ],
     "name:nob_x_preferred":[
         "Ma'rib"
@@ -169,6 +205,9 @@
     ],
     "name:sco_x_preferred":[
         "Marib"
+    ],
+    "name:sco_x_variant":[
+        "Ma'rib Govrenorate"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbb\u0dd2\u0db6\u0dca \u0db4\u0dc5\u0dcf\u0dad"
@@ -194,8 +233,14 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e30\u0e23\u0e34\u0e1a"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e21\u0e30\u0e2d\u0e4c\u0e23\u0e34\u0e1a"
+    ],
     "name:tur_x_preferred":[
         "Marib"
+    ],
+    "name:tur_x_variant":[
+        "Ma'rib ili"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0431"
@@ -209,8 +254,14 @@
     "name:urd_x_preferred":[
         "\u0645\u0623\u0631\u0628"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0645\u0622\u0631\u0628"
+    ],
     "name:vie_x_preferred":[
         "Marib City"
+    ],
+    "name:vie_x_variant":[
+        "T\u1ec9nh Ma'rib"
     ],
     "name:zho_min_nan_x_preferred":[
         "Marib"
@@ -346,7 +397,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561839553,
+    "wof:lastmodified":1563348346,
     "wof:name":"Ma'rib",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

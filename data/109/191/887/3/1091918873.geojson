@@ -35,11 +35,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u062a\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Craiter"
+    ],
     "name:eng_x_preferred":[
         "Craiter"
     ],
     "name:eng_x_variant":[
-        "Craiter",
         "Crater District"
     ],
     "name:eus_x_preferred":[
@@ -50,6 +52,9 @@
     ],
     "name:fra_x_preferred":[
         "Crater"
+    ],
+    "name:fra_x_variant":[
+        "Crat\u00e8re"
     ],
     "name:ita_x_preferred":[
         "Crater"
@@ -77,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Craiter"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d0e\u6f6d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +122,7 @@
         }
     ],
     "wof:id":1091918873,
-    "wof:lastmodified":1561839608,
+    "wof:lastmodified":1563350912,
     "wof:name":"Craiter",
     "wof:parent_id":85681039,
     "wof:placetype":"county",

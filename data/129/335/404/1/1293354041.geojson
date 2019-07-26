@@ -29,8 +29,29 @@
     "name:ara_x_preferred":[
         "\u0648\u0647\u0627\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0647\u0627\u0628"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-Vahhab"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0445\u0445\u04c0\u0430\u0431"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0445\u0445\u0430\u0431"
+    ],
+    "name:tat_x_preferred":[
+        "\u04d8\u043b-\u0412\u04d9\u04bb\u04bb\u04d9\u0431"
+    ],
     "name:und_x_variant":[
         "Wahh\u0101b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u06c1\u0627\u0628"
+    ],
+    "name:uzb_x_preferred":[
+        "Al-Vaxab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293354041,
-    "wof:lastmodified":1537716193,
+    "wof:lastmodified":1564131557,
     "wof:name":"Wahhab",
     "wof:parent_id":1091925719,
     "wof:placetype":"locality",

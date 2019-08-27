@@ -11,10 +11,14 @@
     "geom:longitude":43.35589,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.33589,16.89896,43.37589,16.93896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0634\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7900629,
         "gp:id":1958992,
-        "qs:id":744399,
+        "qs_pg:id":744399,
         "wd:id":"Q20305383"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890445247,
-    "wof:lastmodified":1563353715,
+    "wof:lastmodified":1566661392,
     "wof:name":"Al Khishah",
     "wof:parent_id":1091925419,
     "wof:placetype":"locality",

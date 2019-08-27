@@ -11,10 +11,14 @@
     "geom:longitude":43.38303,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.36303,16.23123,43.40303,16.27123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062c\u0645"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7633129,
         "gp:id":1953570,
-        "qs:id":695146,
+        "qs_pg:id":695146,
         "wd:id":"Q20302064",
         "wk:page":"Ar Rujum District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890417523,
-    "wof:lastmodified":1563353276,
+    "wof:lastmodified":1566661226,
     "wof:name":"Ar Rujum",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

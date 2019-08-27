@@ -11,10 +11,14 @@
     "geom:longitude":43.42598,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.40598,16.06517,43.44598,16.10517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062b\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682348,
         "gp:id":1958568,
-        "qs:id":697161,
+        "qs_pg:id":697161,
         "wd:id":"Q20304193"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427559,
-    "wof:lastmodified":1563353519,
+    "wof:lastmodified":1566661321,
     "wof:name":"Al Athilah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

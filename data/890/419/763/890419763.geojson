@@ -11,10 +11,14 @@
     "geom:longitude":45.25633,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.23633,14.71956,45.27633,14.75956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0634\u0631\u0627\u0644\u0627\u0633\u0641\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053291,
         "gp:id":1958975,
-        "qs:id":751718,
+        "qs_pg:id":751718,
         "wd:id":"Q20301522"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419763,
-    "wof:lastmodified":1563352755,
+    "wof:lastmodified":1566661035,
     "wof:name":"Mawshir al Asfal",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

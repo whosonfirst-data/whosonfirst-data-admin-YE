@@ -11,10 +11,14 @@
     "geom:longitude":43.71161,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":160,
+    "gn:population":160,
     "iso:country":"YE",
+    "lbl:bbox":"43.69161,16.85221,43.73161,16.89221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7363692,
         "gp:id":1959040,
-        "qs:id":685341
+        "qs_pg:id":685341
     },
     "wof:country":"YE",
     "wof:created":1469052517,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445637,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566661394,
     "wof:name":"Farwah",
     "wof:parent_id":1091925551,
     "wof:placetype":"locality",

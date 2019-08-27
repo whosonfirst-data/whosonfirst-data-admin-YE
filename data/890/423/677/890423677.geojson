@@ -11,10 +11,13 @@
     "geom:longitude":43.30367,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.29867,16.31747,43.30867,16.32747",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0627\u0648\u063a"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7756322,
-        "qs:id":698861
+        "qs_pg:id":698861
     },
     "wof:country":"YE",
     "wof:created":1469051508,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423677,
-    "wof:lastmodified":1505343477,
+    "wof:lastmodified":1566660833,
     "wof:name":"Al Mar\u0101wigh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

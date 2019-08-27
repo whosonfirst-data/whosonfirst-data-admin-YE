@@ -11,10 +11,13 @@
     "geom:longitude":44.05483,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"44.04983,16.37145,44.05983,16.38145",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0648\u0627\u0639\u0637 \u0639\u0644\u0627\u0647"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8025370,
-        "qs:id":750574
+        "qs_pg:id":750574
     },
     "wof:country":"YE",
     "wof:created":1469052673,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890449185,
-    "wof:lastmodified":1505343627,
+    "wof:lastmodified":1566660541,
     "wof:name":"Ash Shaw\u0101\u2018i\u0163 \u2018Al\u0101h",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

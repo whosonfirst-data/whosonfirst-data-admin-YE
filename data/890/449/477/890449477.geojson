@@ -11,10 +11,13 @@
     "geom:longitude":43.77107,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":22,
+    "gn:population":22,
     "iso:country":"YE",
+    "lbl:bbox":"43.76607,13.15965,43.77607,13.16965",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8071498,
-        "qs:id":753877
+        "qs_pg:id":753877
     },
     "wof:country":"YE",
     "wof:created":1469052694,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890449477,
-    "wof:lastmodified":1505343629,
+    "wof:lastmodified":1566660513,
     "wof:name":"Ar Ruwayyah al \u2018Uly\u0101",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":44.25851,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":21,
+    "gn:population":21,
     "iso:country":"YE",
+    "lbl:bbox":"44.23851,16.6032,44.27851,16.6432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u0647\u0631"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7795179,
         "gp:id":1958965,
-        "qs:id":700943,
+        "qs_pg:id":700943,
         "wd:id":"Q20301575",
         "wk:page":"Mazhar"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890439191,
-    "wof:lastmodified":1563352321,
+    "wof:lastmodified":1566660865,
     "wof:name":"Mazhar",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

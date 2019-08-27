@@ -11,10 +11,14 @@
     "geom:longitude":42.9057,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"42.8857,15.98898,42.9257,16.02898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0627\u0644\u0645\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "\u1e28ab\u012bl Gh\u0101rib as Saf\u0101rah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "As Saw\u0101limah"
     ],
     "qs:name":"As Suw\u0101limah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7622047,
         "gp:id":1959063,
-        "qs:id":693994,
+        "qs_pg:id":693994,
         "wd:id":"Q20303604"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890445707,
-    "wof:lastmodified":1563353689,
+    "wof:lastmodified":1566661381,
     "wof:name":"As Suw\u0101limah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.93962,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.91962,13.10695,43.95962,13.14695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0636\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8071454,
         "gp:id":1958962,
-        "qs:id":753840,
+        "qs_pg:id":753840,
         "wd:id":"Q20304125"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427161,
-    "wof:lastmodified":1563353518,
+    "wof:lastmodified":1566661321,
     "wof:name":"Al Qara\u1e11ah",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.41779,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.39779,16.27696,43.43779,16.31696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0627\u0644\u0645\u0632\u0628\u0631"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al Mikhy\u0101m"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qal\u2018at al Mazbar"
     ],
     "qs:name":"Qal\u2018ah al Mazbir",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7779393,
         "gp:id":1959128,
-        "qs:id":108172,
+        "qs_pg:id":108172,
         "wd:id":"Q20305209"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890455459,
-    "wof:lastmodified":1563352520,
+    "wof:lastmodified":1566660939,
     "wof:name":"Qal\u2018ah al Mazbir",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

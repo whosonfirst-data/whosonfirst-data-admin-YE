@@ -10,8 +10,12 @@
     "geom:latitude":17.24311,
     "geom:longitude":43.24071,
     "iso:country":"YE",
+    "lbl:bbox":"43.22071,17.22311,43.26071,17.26311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u064a\u062f\u0627\u0646"
@@ -19,7 +23,7 @@
     "name:eng_x_preferred":[
         "Haydan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e28ayd\u0101n"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8022217,
         "gp:id":1959061,
-        "qs:id":1301254,
+        "qs_pg:id":1301254,
         "wd:id":"Q20305576"
     },
     "wof:country":"YE",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421204109,
-    "wof:lastmodified":1563351123,
+    "wof:lastmodified":1566660446,
     "wof:name":"Haydan",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

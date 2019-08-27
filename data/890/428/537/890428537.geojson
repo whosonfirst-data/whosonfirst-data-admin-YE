@@ -11,10 +11,14 @@
     "geom:longitude":43.79241,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.77241,13.47001,43.81241,13.51001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8075685,
         "gp:id":1959049,
-        "qs:id":754274,
+        "qs_pg:id":754274,
         "wd:id":"Q20304895"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428537,
-    "wof:lastmodified":1563353167,
+    "wof:lastmodified":1566661188,
     "wof:name":"Al Kharab",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

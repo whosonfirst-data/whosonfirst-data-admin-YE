@@ -11,10 +11,14 @@
     "geom:longitude":43.43277,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.41277,16.34474,43.45277,16.38474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0646 \u0623\u0648\u0628\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7756078,
         "gp:id":1959128,
-        "qs:id":698840,
+        "qs_pg:id":698840,
         "wd:id":"Q20305474"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890453665,
-    "wof:lastmodified":1563352739,
+    "wof:lastmodified":1566661028,
     "wof:name":"Qarn Awbal",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

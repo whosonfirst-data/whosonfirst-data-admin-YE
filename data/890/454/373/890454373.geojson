@@ -11,14 +11,18 @@
     "geom:longitude":42.98936,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"42.96936,16.20117,43.00936,16.24117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0645"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u2018Aqm"
     ],
     "qs:name":"Al \u2018Aqqam",
@@ -39,7 +43,9 @@
     "wof:concordances":{
         "gn:id":7632986,
         "gp:id":1959063,
-        "qs:id":694030,
+        "qs_pg:id":694030
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":695003
     },
     "wof:country":"YE",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890454373,
-    "wof:lastmodified":1505343656,
+    "wof:lastmodified":1566661001,
     "wof:name":"Al \u2018Aqqam",
     "wof:parent_id":1091923925,
     "wof:placetype":"locality",

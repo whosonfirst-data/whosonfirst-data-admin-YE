@@ -9,15 +9,17 @@
     "geom:bbox":"43.39857,16.15929,43.39857,16.15929",
     "geom:latitude":16.15929,
     "geom:longitude":43.39857,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":23,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":23,
     "iso:country":"YE",
+    "lbl:bbox":"43.39357,16.15429,43.40357,16.16429",
     "lbl:latitude":16.15929,
     "lbl:longitude":43.39857,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0628 \u0639\u0645\u0631"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":696429,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680973,
         102191569,
         85632499,
-        1091924059,
-        85680973
+        1091924059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126077961,
-    "wof:lastmodified":1509411014,
+    "wof:lastmodified":1566661512,
     "wof:name":"Gh\u0101rib \u2018Umar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":44.05637,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"44.03637,16.35917,44.07637,16.39917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Shirq\u0101n"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8025377,
         "gp:id":1958946,
-        "qs:id":750579,
+        "qs_pg:id":750579,
         "wd:id":"Q20308522"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890420953,
-    "wof:lastmodified":1563353339,
+    "wof:lastmodified":1566661249,
     "wof:name":"Shirq\u0101n",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

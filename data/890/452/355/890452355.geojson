@@ -11,10 +11,14 @@
     "geom:longitude":43.77252,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.75252,13.42318,43.79252,13.46318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0628\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8075744,
         "gp:id":1959049,
-        "qs:id":754327,
+        "qs_pg:id":754327,
         "wd:id":"Q20304505"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890452355,
-    "wof:lastmodified":1563352448,
+    "wof:lastmodified":1566660911,
     "wof:name":"Al Qa\u015fabah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

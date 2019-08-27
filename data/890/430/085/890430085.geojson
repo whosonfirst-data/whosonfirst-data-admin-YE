@@ -11,11 +11,14 @@
     "geom:longitude":46.34718,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0642\u0627\u0621"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7895351,
         "gp:id":1938039,
-        "qs:id":744229
+        "qs_pg:id":744229
     },
     "wof:country":"YE",
     "wof:created":1469051839,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890430085,
-    "wof:lastmodified":1505343516,
+    "wof:lastmodified":1566660888,
     "wof:name":"Al Barq\u0101\u2019",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

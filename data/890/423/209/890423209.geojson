@@ -11,10 +11,14 @@
     "geom:longitude":43.37744,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"43.35744,16.01853,43.39744,16.05853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0642\u064a\u0644"
     ],
@@ -36,8 +40,10 @@
     "wof:concordances":{
         "gn:id":7656563,
         "gp:id":1958568,
-        "qs:id":697357,
         "qs_pg:id":696171
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":697357
     },
     "wof:country":"YE",
     "wof:created":1469051485,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890423209,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660834,
     "wof:name":"An Naq\u012bl",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

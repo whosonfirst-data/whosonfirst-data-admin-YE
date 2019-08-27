@@ -11,10 +11,14 @@
     "geom:longitude":44.55287,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":22,
+    "gn:population":22,
     "iso:country":"YE",
+    "lbl:bbox":"44.53287,17.14973,44.57287,17.18973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0631"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7687189,
         "gp:id":1959086,
-        "qs:id":697749,
+        "qs_pg:id":697749,
         "wd:id":"Q20298971"
     },
     "wof:country":"YE",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890423387,
-    "wof:lastmodified":1514503144,
+    "wof:lastmodified":1566660840,
     "wof:name":"Al Ghurr",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

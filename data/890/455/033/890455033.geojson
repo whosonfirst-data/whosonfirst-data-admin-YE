@@ -11,10 +11,14 @@
     "geom:longitude":45.48529,
     "gn:country":"YE",
     "gn:fcode":"FRM",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.46529,14.02354,45.50529,14.06354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0630\u064a\u0644\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8051941,
         "gp:id":1958988,
-        "qs:id":751319
+        "qs_pg:id":751319
     },
     "wof:country":"YE",
     "wof:created":1469052930,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455033,
-    "wof:lastmodified":1505343660,
+    "wof:lastmodified":1566660939,
     "wof:name":"Dhaylab",
     "wof:parent_id":1091919299,
     "wof:placetype":"locality",

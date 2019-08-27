@@ -9,15 +9,18 @@
     "geom:bbox":"43.18763,16.2368,43.18763,16.2368",
     "geom:latitude":16.2368,
     "geom:longitude":43.18763,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"43.16763,16.2168,43.20763,16.2568",
     "lbl:latitude":16.2368,
     "lbl:longitude":43.18763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u064a\u062d\u064a\u0629"
@@ -27,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Ma\u2018jim"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0634\u064a\u062d\u064a\u0629"
     ],
     "qs_pg:aaroncc":"YE",
     "qs_pg:gn_country":"YE",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":694501,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1125865149,
-    "wof:lastmodified":1563353908,
+    "wof:lastmodified":1566661470,
     "wof:name":"Al Mushay\u1e29\u012byah",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

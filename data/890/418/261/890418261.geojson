@@ -11,10 +11,13 @@
     "geom:longitude":44.31027,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"44.30527,16.75581,44.31527,16.76581",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0641\u0642"
     ],
@@ -45,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794901,
-        "qs:id":700680,
+        "qs_pg:id":700680,
         "wd:id":"Q4874875",
         "wk:page":"Bayt Az Zafiq"
     },
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890418261,
-    "wof:lastmodified":1563353438,
+    "wof:lastmodified":1566661288,
     "wof:name":"Az Zafiq",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

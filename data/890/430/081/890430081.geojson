@@ -11,11 +11,14 @@
     "geom:longitude":46.42399,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0644\u0627\u0647 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7895349,
         "gp:id":1938039,
-        "qs:id":744227
+        "qs_pg:id":744227
     },
     "wof:country":"YE",
     "wof:created":1469051839,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890430081,
-    "wof:lastmodified":1505343516,
+    "wof:lastmodified":1566660892,
     "wof:name":"Al \u1e28al\u0101h al Bay\u1e11\u0101\u2019",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

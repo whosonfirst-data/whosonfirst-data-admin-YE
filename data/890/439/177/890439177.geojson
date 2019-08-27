@@ -11,10 +11,14 @@
     "geom:longitude":43.35021,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.33021,16.27645,43.37021,16.31645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0631\u0645"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7761215,
         "gp:id":1953570,
-        "qs:id":699207,
+        "qs_pg:id":699207,
         "wd:id":"Q20305371",
         "wk:page":"Qaramqol District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890439177,
-    "wof:lastmodified":1563352373,
+    "wof:lastmodified":1566660882,
     "wof:name":"Q\u0101ram",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

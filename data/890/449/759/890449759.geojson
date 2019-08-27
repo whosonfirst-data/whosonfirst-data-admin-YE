@@ -11,14 +11,18 @@
     "geom:longitude":42.91476,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"42.89476,15.99136,42.93476,16.03136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0627\u0628\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u2018abir"
     ],
     "qs:name":"Al Ma\u2018\u0101birah",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":73415,
         "gp:id":1959063,
-        "qs:id":60350
+        "qs_pg:id":60350
     },
     "wof:country":"YE",
     "wof:created":1469052707,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890449759,
-    "wof:lastmodified":1505343630,
+    "wof:lastmodified":1566660528,
     "wof:name":"Al Ma\u2018\u0101birah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

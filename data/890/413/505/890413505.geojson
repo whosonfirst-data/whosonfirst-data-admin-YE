@@ -11,10 +11,14 @@
     "geom:longitude":43.28414,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.26414,17.17647,43.30414,17.21647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u062f \u0627\u0644\u062e\u0630\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7865379,
         "gp:id":1938607,
-        "qs:id":743001,
+        "qs_pg:id":743001,
         "wd:id":"Q20302438"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890413505,
-    "wof:lastmodified":1563351545,
+    "wof:lastmodified":1566660597,
     "wof:name":"Nayd al Khudhlah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

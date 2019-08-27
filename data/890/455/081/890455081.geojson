@@ -11,10 +11,14 @@
     "geom:longitude":45.51876,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.49876,14.98002,45.53876,15.02002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062f\u0639"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8053585,
         "gp:id":1959055,
-        "qs:id":751982
+        "qs_pg:id":751982
     },
     "wof:country":"YE",
     "wof:created":1469052932,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455081,
-    "wof:lastmodified":1505343660,
+    "wof:lastmodified":1566660936,
     "wof:name":"Al Bad\u2018",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

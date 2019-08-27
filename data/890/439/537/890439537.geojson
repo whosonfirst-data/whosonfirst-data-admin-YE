@@ -11,10 +11,14 @@
     "geom:longitude":43.23197,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.21197,17.15182,43.25197,17.19182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Az\u0327 Z\u0327ul\u0101m\u012b"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8033917,
         "gp:id":1938607,
-        "qs:id":750797
+        "qs_pg:id":750797
     },
     "wof:country":"YE",
     "wof:created":1469052239,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890439537,
-    "wof:lastmodified":1505343571,
+    "wof:lastmodified":1566660865,
     "wof:name":"Az\u0327 Z\u0327ul\u0101m\u012b",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

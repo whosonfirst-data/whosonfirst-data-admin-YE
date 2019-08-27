@@ -11,10 +11,13 @@
     "geom:longitude":43.47953,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.47453,16.02394,43.48453,16.03394",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0648\u064a\u0629"
     ],
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7681919,
-        "qs:id":697031,
+        "qs_pg:id":697031,
         "wk:page":"Al Hawiyah"
     },
     "wof:country":"YE",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890424943,
-    "wof:lastmodified":1564133965,
+    "wof:lastmodified":1566660807,
     "wof:name":"Al \u1e28aw\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

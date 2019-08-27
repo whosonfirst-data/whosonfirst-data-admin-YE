@@ -9,15 +9,18 @@
     "geom:bbox":"43.00953,16.48494,43.00953,16.48494",
     "geom:latitude":16.48494,
     "geom:longitude":43.00953,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":14,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
     "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"42.98953,16.46494,43.02953,16.50494",
     "lbl:latitude":16.48494,
     "lbl:longitude":43.00953,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0645\u0627\u0644 \u0627\u0644\u0642\u0637\u0628\u0629"
@@ -28,7 +31,7 @@
     "name:eng_x_variant":[
         "Al Kharraq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sham\u0101l al Qu\u0163bah"
     ],
     "qs_pg:aaroncc":"YE",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":694476,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125863341,
-    "wof:lastmodified":1563353905,
+    "wof:lastmodified":1566661469,
     "wof:name":"Sham\u0101l al Qi\u0163bah",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

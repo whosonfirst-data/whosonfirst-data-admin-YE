@@ -11,10 +11,14 @@
     "geom:longitude":43.31118,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.29118,16.62986,43.33118,16.66986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0647\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7854948,
         "gp:id":1959134,
-        "qs:id":741885
+        "qs_pg:id":741885
     },
     "wof:country":"YE",
     "wof:created":1469051281,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890419279,
-    "wof:lastmodified":1505343449,
+    "wof:lastmodified":1566661069,
     "wof:name":"Az\u0327 Z\u0327ahirah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

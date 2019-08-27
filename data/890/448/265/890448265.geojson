@@ -11,10 +11,14 @@
     "geom:longitude":44.48473,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.46473,16.73123,44.50473,16.77123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u064a\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7795041,
         "gp:id":1959135,
-        "qs:id":700809
+        "qs_pg:id":700809
     },
     "wof:country":"YE",
     "wof:created":1469052625,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890448265,
-    "wof:lastmodified":1505343622,
+    "wof:lastmodified":1566660711,
     "wof:name":"Al \u2018Urayn",
     "wof:parent_id":1091920841,
     "wof:placetype":"locality",

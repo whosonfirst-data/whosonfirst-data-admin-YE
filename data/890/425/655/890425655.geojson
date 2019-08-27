@@ -11,10 +11,13 @@
     "geom:longitude":44.36842,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"44.36342,16.66928,44.37342,16.67928",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062d\u064a\u0637 \u0645\u062d\u0633\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795283,
-        "qs:id":701045
+        "qs_pg:id":701045
     },
     "wof:country":"YE",
     "wof:created":1469051599,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890425655,
-    "wof:lastmodified":1505343488,
+    "wof:lastmodified":1566660583,
     "wof:name":"\u1e28ay\u0163 Mu\u1e29assan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

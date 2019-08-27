@@ -11,10 +11,14 @@
     "geom:longitude":43.37982,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.35982,16.25866,43.39982,16.29866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Kir\u016bf"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7761239,
         "gp:id":1953570,
-        "qs:id":699231,
+        "qs_pg:id":699231,
         "wd:id":"Q20305602"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890447879,
-    "wof:lastmodified":1563351240,
+    "wof:lastmodified":1566660485,
     "wof:name":"Al Kir\u016bf",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.54612,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"YE",
+    "lbl:bbox":"43.52612,13.31824,43.56612,13.35824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0633\u064a\u0646 \u0628\u0646 \u0639\u0644\u0648\u0627\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8069276,
         "gp:id":1953407,
-        "qs:id":753453
+        "qs_pg:id":753453
     },
     "wof:country":"YE",
     "wof:created":1469052690,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890449421,
-    "wof:lastmodified":1505343629,
+    "wof:lastmodified":1566660529,
     "wof:name":"\u1e28usayn Bin \u2018Ulw\u0101n",
     "wof:parent_id":1091926373,
     "wof:placetype":"locality",

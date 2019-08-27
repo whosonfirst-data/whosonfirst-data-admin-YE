@@ -11,10 +11,14 @@
     "geom:longitude":45.21912,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.19912,14.94757,45.23912,14.98757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u064a\u0629"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8053402,
         "gp:id":1959055,
-        "qs:id":751819,
+        "qs_pg:id":751819,
         "wd:id":"Q4117709",
         "wk:page":"Ash Sharyah District"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890426963,
-    "wof:lastmodified":1563352907,
+    "wof:lastmodified":1566661094,
     "wof:name":"Ash Sharyah",
     "wof:parent_id":1091925277,
     "wof:placetype":"locality",

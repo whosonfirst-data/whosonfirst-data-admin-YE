@@ -10,8 +10,12 @@
     "geom:latitude":15.92694,
     "geom:longitude":48.62667,
     "iso:country":"YE",
+    "lbl:bbox":"48.60667,15.90694,48.64667,15.94694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0628\u0627\u0645"
@@ -151,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0431\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160ib\u0101m"
     ],
     "name:urd_x_preferred":[
@@ -195,7 +199,7 @@
     "wof:concordances":{
         "gn:id":70676,
         "gp:id":1959129,
-        "qs:id":911345,
+        "qs_pg:id":911345,
         "wd:id":"Q192518",
         "wk:page":"Shibam"
     },
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":421195795,
-    "wof:lastmodified":1563351123,
+    "wof:lastmodified":1566660445,
     "wof:name":"Shibam",
     "wof:parent_id":1091923197,
     "wof:placetype":"locality",

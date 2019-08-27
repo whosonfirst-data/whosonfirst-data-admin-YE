@@ -11,10 +11,14 @@
     "geom:longitude":43.35273,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.33273,16.34549,43.37273,16.38549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0648\u0647\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783410,
         "gp:id":1958967,
-        "qs:id":700062,
+        "qs_pg:id":700062,
         "wd:id":"Q20298892"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448049,
-    "wof:lastmodified":1563351801,
+    "wof:lastmodified":1566660682,
     "wof:name":"Al Maq\u016bhar",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.73245,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.71245,16.36649,43.75245,16.40649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0623\u063a\u0628\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7849505,
         "gp:id":1953833,
-        "qs:id":741631,
+        "qs_pg:id":741631,
         "wd:id":"Q20304279"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419229,
-    "wof:lastmodified":1563352773,
+    "wof:lastmodified":1566661042,
     "wof:name":"Al Qarn al Aghbar",
     "wof:parent_id":1091921677,
     "wof:placetype":"locality",

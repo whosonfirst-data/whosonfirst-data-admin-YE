@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.668093,
     "lbl:longitude":48.903609,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hadramaut",
     "meso:admin1_loc":"\u062d\u0636\u0631\u0645\u0648\u062a",
     "meso:dissme":"HadramautAl Mukalla",
@@ -32,6 +34,7 @@
     "mps:longitude":48.903609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al Mukalla"
     ],
@@ -39,9 +42,9 @@
         "Al Mukalla"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091922641,
-    "wof:lastmodified":1553717998,
+    "wof:lastmodified":1566660288,
     "wof:name":"Al Mukalla",
     "wof:parent_id":85681025,
     "wof:placetype":"county",

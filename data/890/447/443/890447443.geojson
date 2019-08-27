@@ -11,10 +11,14 @@
     "geom:longitude":43.44539,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"43.42539,16.32993,43.46539,16.36993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u0631\u0645\u0629"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7856677,
         "gp:id":1959128,
-        "qs:id":698704,
-        "qs_pg:id":742592,
+        "qs_pg:id":698704,
         "wd:id":"Q20305195"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":742592
     },
     "wof:country":"YE",
     "wof:created":1469052592,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890447443,
-    "wof:lastmodified":1563351245,
+    "wof:lastmodified":1566660487,
     "wof:name":"Al Khawrimah",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

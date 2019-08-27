@@ -11,10 +11,14 @@
     "geom:longitude":44.23342,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"44.21342,16.54729,44.25342,16.58729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0636\u0629 \u0627\u0644\u0642\u0627\u0628\u0644"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7794748,
         "gp:id":1958965,
-        "qs:id":700540,
+        "qs_pg:id":700540,
         "wd:id":"Q20304250"
     },
     "wof:country":"YE",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890427727,
-    "wof:lastmodified":1514503197,
+    "wof:lastmodified":1566661367,
     "wof:name":"Al Qari\u1e11ah al Q\u0101bil",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

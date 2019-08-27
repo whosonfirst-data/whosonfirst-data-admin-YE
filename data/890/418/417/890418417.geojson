@@ -11,10 +11,13 @@
     "geom:longitude":44.25835,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":92,
+    "gn:population":92,
     "iso:country":"YE",
+    "lbl:bbox":"44.25335,16.57211,44.26335,16.58211",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0645\u0633\u0639\u0648\u062f\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795192,
-        "qs:id":700956
+        "qs_pg:id":700956
     },
     "wof:country":"YE",
     "wof:created":1469051247,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418417,
-    "wof:lastmodified":1505343444,
+    "wof:lastmodified":1566661303,
     "wof:name":"Bi\u2019r Mas\u2018\u016bdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,13 @@
     "geom:longitude":44.33631,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"44.33131,16.78193,44.34131,16.79193",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0644\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794912,
-        "qs:id":700690
+        "qs_pg:id":700690
     },
     "wof:country":"YE",
     "wof:created":1469052910,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890454673,
-    "wof:lastmodified":1505343658,
+    "wof:lastmodified":1566660976,
     "wof:name":"Ghaylah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

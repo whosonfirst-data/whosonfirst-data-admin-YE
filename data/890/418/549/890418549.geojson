@@ -11,10 +11,13 @@
     "geom:longitude":44.47269,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"44.46769,16.64278,44.47769,16.65278",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0645\u0635"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795418,
-        "qs:id":701178
+        "qs_pg:id":701178
     },
     "wof:country":"YE",
     "wof:created":1469051252,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418549,
-    "wof:lastmodified":1505343445,
+    "wof:lastmodified":1566661312,
     "wof:name":"Al Mirma\u015f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

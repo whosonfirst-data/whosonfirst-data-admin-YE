@@ -11,10 +11,14 @@
     "geom:longitude":44.43258,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.41258,16.89389,44.45258,16.93389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0636\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7795032,
         "gp:id":1959135,
-        "qs:id":700800,
+        "qs_pg:id":700800,
         "wd:id":"Q20305573"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890452169,
-    "wof:lastmodified":1563352449,
+    "wof:lastmodified":1566660911,
     "wof:name":"Hay\u1e11ah",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

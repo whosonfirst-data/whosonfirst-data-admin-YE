@@ -11,10 +11,14 @@
     "geom:longitude":43.65716,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":72,
+    "gn:population":72,
     "iso:country":"YE",
+    "lbl:bbox":"43.63716,13.26758,43.67716,13.30758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0642\u0648\u0629"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8069298,
         "gp:id":1953407,
-        "qs:id":753473,
+        "qs_pg:id":753473,
         "wd:id":"Q20303811",
         "wk:page":"Al Faqirah"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890453821,
-    "wof:lastmodified":1563352693,
+    "wof:lastmodified":1566661010,
     "wof:name":"Al Faqirah",
     "wof:parent_id":1091926707,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.28366,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.26366,16.17039,43.30366,16.21039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7366840,
         "gp:id":1953570,
-        "qs:id":107267
+        "qs_pg:id":107267
     },
     "wof:country":"YE",
     "wof:created":1469051824,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429651,
-    "wof:lastmodified":1505343514,
+    "wof:lastmodified":1566661240,
     "wof:name":"Ar Rawn",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

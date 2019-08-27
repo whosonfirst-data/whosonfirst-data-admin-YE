@@ -11,10 +11,13 @@
     "geom:longitude":43.68022,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"43.67522,16.15964,43.68522,16.16964",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0648\u0644 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020436,
-        "qs:id":749790
+        "qs_pg:id":749790
     },
     "wof:country":"YE",
     "wof:created":1469052920,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890454923,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566660983,
     "wof:name":"Al Ghawl al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

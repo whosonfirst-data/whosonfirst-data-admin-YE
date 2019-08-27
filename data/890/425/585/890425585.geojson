@@ -11,10 +11,13 @@
     "geom:longitude":44.44042,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.43542,16.7694,44.44542,16.7794",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062d\u064a \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795009,
-        "qs:id":700782
+        "qs_pg:id":700782
     },
     "wof:country":"YE",
     "wof:created":1469051596,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890425585,
-    "wof:lastmodified":1505343488,
+    "wof:lastmodified":1566660590,
     "wof:name":"An Na\u1e29\u012b al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

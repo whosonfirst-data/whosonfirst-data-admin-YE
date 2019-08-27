@@ -11,15 +11,18 @@
     "geom:longitude":45.94586,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0639"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qaw\u2018"
     ],
     "qs:name":"Qawu\u2018",
@@ -36,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7895358,
-        "qs:id":744234
+        "qs_pg:id":744234
     },
     "wof:country":"YE",
     "wof:created":1469051685,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890427257,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566661330,
     "wof:name":"Qawu\u2018",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.37547,
     "gn:country":"YE",
     "gn:fcode":"FRM",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.35547,17.48971,43.39547,17.52971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u062b\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8021613,
         "gp:id":1939827,
-        "qs:id":750129
+        "qs_pg:id":750129
     },
     "wof:country":"YE",
     "wof:created":1469052873,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890453787,
-    "wof:lastmodified":1505343653,
+    "wof:lastmodified":1566661033,
     "wof:name":"Firthah",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

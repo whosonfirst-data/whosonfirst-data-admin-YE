@@ -11,10 +11,14 @@
     "geom:longitude":43.74274,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"YE",
+    "lbl:bbox":"43.72274,13.28826,43.76274,13.32826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u062c"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069277,
         "gp:id":1953407,
-        "qs:id":753454,
+        "qs_pg:id":753454,
         "wd:id":"Q20304270"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449423,
-    "wof:lastmodified":1563351324,
+    "wof:lastmodified":1566660515,
     "wof:name":"Ash Sharj",
     "wof:parent_id":1091926707,
     "wof:placetype":"locality",

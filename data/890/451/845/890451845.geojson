@@ -11,10 +11,14 @@
     "geom:longitude":43.43201,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.41201,16.119,43.45201,16.159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062b\u0628\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7658534,
         "gp:id":1958568,
-        "qs:id":696352,
+        "qs_pg:id":696352,
         "wd:id":"Q20309051"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890451845,
-    "wof:lastmodified":1563353734,
+    "wof:lastmodified":1566661401,
     "wof:name":"Thabir",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

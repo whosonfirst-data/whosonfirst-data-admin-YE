@@ -11,10 +11,14 @@
     "geom:longitude":43.43015,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.41015,16.3892,43.45015,16.4292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sharjah"
     ],
@@ -208,7 +212,7 @@
     "wof:concordances":{
         "gn:id":7756063,
         "gp:id":1959057,
-        "qs:id":698825,
+        "qs_pg:id":698825,
         "wd:id":"Q289693",
         "wk:page":"Sharjah"
     },
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":890447545,
-    "wof:lastmodified":1563351217,
+    "wof:lastmodified":1566660478,
     "wof:name":"Sharqah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

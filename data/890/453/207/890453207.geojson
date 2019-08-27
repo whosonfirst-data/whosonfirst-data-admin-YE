@@ -11,11 +11,14 @@
     "geom:longitude":42.9411,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0641\u0627\u0636\u0644"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Al Khabr\u0101yah"
-    ],
-    "name:unk_x_variant":[
-        "\u0628\u0646\u064a \u0641\u0627\u0636\u0644"
     ],
     "qs:name":"Ban\u012b F\u0101\u1e11il",
     "qs:photos_9r":0,
@@ -43,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7622388,
         "gp:id":1959063,
-        "qs:id":694055,
+        "qs_pg:id":694055,
         "wd:id":"Q20299076"
     },
     "wof:country":"YE",
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890453207,
-    "wof:lastmodified":1563352737,
+    "wof:lastmodified":1566661027,
     "wof:name":"Ban\u012b F\u0101\u1e11il",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

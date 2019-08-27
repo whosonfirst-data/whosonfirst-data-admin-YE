@@ -11,10 +11,14 @@
     "geom:longitude":43.48219,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.46219,15.99052,43.50219,16.03052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0631\u0628\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7681930,
         "gp:id":1958568,
-        "qs:id":697034
+        "qs_pg:id":697034
     },
     "wof:country":"YE",
     "wof:created":1469051569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890424951,
-    "wof:lastmodified":1505343484,
+    "wof:lastmodified":1566660795,
     "wof:name":"Al Maghribah",
     "wof:parent_id":1091924033,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.77813,
     "lbl:longitude":43.686171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hajjah",
     "meso:admin1_loc":"\u062d\u062c\u0629",
     "meso:dissme":"HajjahKuhlan Affar",
@@ -32,6 +34,7 @@
     "mps:longitude":43.686171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kuhlan Affar"
     ],
@@ -39,9 +42,9 @@
         "Kuhlan Affar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091924013,
-    "wof:lastmodified":1553718000,
+    "wof:lastmodified":1566660255,
     "wof:name":"Kuhlan Affar",
     "wof:parent_id":85680973,
     "wof:placetype":"county",

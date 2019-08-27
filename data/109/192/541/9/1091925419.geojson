@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.990102,
     "lbl:longitude":43.33821,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sa'ada",
     "meso:admin1_loc":"\u0635\u0639\u062f\u0629",
     "meso:dissme":"Sa'adaGhamr",
@@ -32,6 +34,7 @@
     "mps:longitude":43.33821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ghamr"
     ],
@@ -39,9 +42,9 @@
         "Ghamr"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091925419,
-    "wof:lastmodified":1553718003,
+    "wof:lastmodified":1566660292,
     "wof:name":"Ghamr",
     "wof:parent_id":85680955,
     "wof:placetype":"county",

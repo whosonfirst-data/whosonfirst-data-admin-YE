@@ -11,10 +11,14 @@
     "geom:longitude":43.05847,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.03847,16.35323,43.07847,16.39323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0644 \u0623\u0648\u0644\u0627\u062f \u0645\u062d\u0633\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631540,
         "gp:id":1959054,
-        "qs:id":694527,
+        "qs_pg:id":694527,
         "wd:id":"Q20300398"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890424475,
-    "wof:lastmodified":1563352120,
+    "wof:lastmodified":1566660798,
     "wof:name":"Ma\u1e29all Awl\u0101d Ma\u1e29san",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

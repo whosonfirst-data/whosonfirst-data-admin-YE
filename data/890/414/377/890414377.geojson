@@ -11,10 +11,13 @@
     "geom:longitude":43.70433,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69933,16.0461,43.70933,16.0561",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0641\u0633\u064a\u062d"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020548,
-        "qs:id":749895
+        "qs_pg:id":749895
     },
     "wof:country":"YE",
     "wof:created":1469051045,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890414377,
-    "wof:lastmodified":1505343419,
+    "wof:lastmodified":1566660641,
     "wof:name":"Fusay\u1e29",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":43.21646,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.19646,16.1895,43.23646,16.2295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062f\u0627\u0631\u0645 \u0627\u0644\u0634\u0648\u0645\u0627\u0621"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Al \u1e28awl"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u062f\u0627\u0631\u0645 \u0627\u0644\u0634\u0648\u0645\u0627\u0621"
     ],
     "qs:name":"Al Mud\u0101rim ash Shawm\u0101\u2019",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631502,
         "gp:id":1953570,
-        "qs:id":694490,
+        "qs_pg:id":694490,
         "wd:id":"Q20301865"
     },
     "wof:country":"YE",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":890424469,
-    "wof:lastmodified":1563352129,
+    "wof:lastmodified":1566660802,
     "wof:name":"Al Mud\u0101rim ash Shawm\u0101\u2019",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

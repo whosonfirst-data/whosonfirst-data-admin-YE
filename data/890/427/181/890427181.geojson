@@ -11,10 +11,14 @@
     "geom:longitude":43.83742,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.81742,13.4301,43.85742,13.4701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u064a\u0646\u0640\u0629 \u0627\u0644\u0639\u0627\u0637\u0640\u0641"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_variant":[
         "\u0100l Ma\u015fna\u1e29"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u2018\u012bnat al \u2018\u0100\u0163if"
     ],
     "qs:name":"Mu\u2018aynat al \u2018\u0100\u0163if",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8075656,
         "gp:id":1957357,
-        "qs:id":754246,
+        "qs_pg:id":754246,
         "wd:id":"Q20301996"
     },
     "wof:country":"YE",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890427181,
-    "wof:lastmodified":1563353577,
+    "wof:lastmodified":1566661341,
     "wof:name":"Mu\u2018aynat al \u2018\u0100\u0163if",
     "wof:parent_id":1091926555,
     "wof:placetype":"locality",

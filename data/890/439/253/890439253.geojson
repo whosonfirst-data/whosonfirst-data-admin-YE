@@ -11,10 +11,14 @@
     "geom:longitude":43.68205,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.66205,16.11973,43.70205,16.15973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0644\u0642"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8020422,
         "gp:id":1959128,
-        "qs:id":749777,
+        "qs_pg:id":749777,
         "wd:id":"Q20303130"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439253,
-    "wof:lastmodified":1563352358,
+    "wof:lastmodified":1566660877,
     "wof:name":"Duluq",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

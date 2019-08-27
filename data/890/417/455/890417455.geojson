@@ -11,11 +11,14 @@
     "geom:longitude":43.19847,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":64,
+    "gn:population":64,
     "iso:country":"YE",
+    "lbl:bbox":"43.19347,15.99614,43.20347,16.00614",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "\u0627\u0644\u0647\u062c\u0627\u0645\u064a"
     ],
     "qs:name":"Al Huj\u0101m\u012b",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631399,
-        "qs:id":694394
+        "qs_pg:id":694394
     },
     "wof:country":"YE",
     "wof:created":1469051204,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890417455,
-    "wof:lastmodified":1505343439,
+    "wof:lastmodified":1566661212,
     "wof:name":"Al Huj\u0101m\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

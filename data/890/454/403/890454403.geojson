@@ -11,10 +11,13 @@
     "geom:longitude":43.1291,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":23,
+    "gn:population":23,
     "iso:country":"YE",
+    "lbl:bbox":"43.1241,16.2677,43.1341,16.2777",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0627\u0631\u0628\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631710,
-        "qs:id":694595
+        "qs_pg:id":694595
     },
     "wof:country":"YE",
     "wof:created":1469052898,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890454403,
-    "wof:lastmodified":1505343656,
+    "wof:lastmodified":1566660999,
     "wof:name":"Al Mugh\u0101rribah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

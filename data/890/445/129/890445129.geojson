@@ -11,10 +11,14 @@
     "geom:longitude":44.74749,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.72749,15.82708,44.76749,15.86708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0628\u0648\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7890625,
         "gp:id":1958950,
-        "qs:id":744045,
+        "qs_pg:id":744045,
         "wd:id":"Q20301007"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890445129,
-    "wof:lastmodified":1563353701,
+    "wof:lastmodified":1566661386,
     "wof:name":"Adh Dhab\u016bb",
     "wof:parent_id":1091925175,
     "wof:placetype":"locality",

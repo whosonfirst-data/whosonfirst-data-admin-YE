@@ -11,10 +11,14 @@
     "geom:longitude":43.42761,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.40761,16.29268,43.44761,16.33268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0627\u0639\u062f"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Rib\u0101bah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Qal\u0101\u2018id"
     ],
     "qs:name":"Al Qil\u0101\u2018ad",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7783543,
         "gp:id":1959128,
-        "qs:id":700196,
+        "qs_pg:id":700196,
         "wd:id":"Q20305043"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890425327,
-    "wof:lastmodified":1563351524,
+    "wof:lastmodified":1566660589,
     "wof:name":"Al Qil\u0101\u2018ad",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

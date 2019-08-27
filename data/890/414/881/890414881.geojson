@@ -11,10 +11,14 @@
     "geom:longitude":43.67536,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":22,
+    "gn:population":22,
     "iso:country":"YE",
+    "lbl:bbox":"43.65536,16.32136,43.69536,16.36136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u064a\u062c\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7849470,
         "gp:id":1953833,
-        "qs:id":741597
+        "qs_pg:id":741597
     },
     "wof:country":"YE",
     "wof:created":1469051065,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414881,
-    "wof:lastmodified":1505343422,
+    "wof:lastmodified":1566660632,
     "wof:name":"Al Hayjah",
     "wof:parent_id":1091921677,
     "wof:placetype":"locality",

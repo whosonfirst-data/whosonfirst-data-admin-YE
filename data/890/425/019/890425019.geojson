@@ -11,10 +11,13 @@
     "geom:longitude":43.43233,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"YE",
+    "lbl:bbox":"43.42733,16.02763,43.43733,16.03763",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al \u1e28iy\u0101f"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682428,
-        "qs:id":697202
+        "qs_pg:id":697202
     },
     "wof:country":"YE",
     "wof:created":1469051571,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890425019,
-    "wof:lastmodified":1505343485,
+    "wof:lastmodified":1566660582,
     "wof:name":"Al \u1e28iy\u0101f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

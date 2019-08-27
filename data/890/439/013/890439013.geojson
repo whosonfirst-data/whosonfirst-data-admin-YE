@@ -11,10 +11,14 @@
     "geom:longitude":43.32924,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"YE",
+    "lbl:bbox":"43.30924,16.95376,43.34924,16.99376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u064a\u0627\u0646\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Bayt al Ma\u0163r\u012b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u2018Ayy\u0101nah"
     ],
     "qs:name":"Al \u2018Ay\u0101nah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7900639,
         "gp:id":1958992,
-        "qs:id":744409,
+        "qs_pg:id":744409,
         "wd:id":"Q20302656"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890439013,
-    "wof:lastmodified":1563352275,
+    "wof:lastmodified":1566660851,
     "wof:name":"Al \u2018Ay\u0101nah",
     "wof:parent_id":1091925419,
     "wof:placetype":"locality",

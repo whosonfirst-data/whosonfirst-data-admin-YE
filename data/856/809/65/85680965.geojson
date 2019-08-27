@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.377913,
     "lbl:longitude":43.490669,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0645\u062d\u0648\u064a\u062a",
     "mps:latitude":15.378747,
     "mps:longitude":43.605474,
@@ -172,7 +173,7 @@
         "Al-Mahwit"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd \u0bae\u0bb9\u0bb5\u0bbf\u0b9f\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0b85\u0bb2\u0bcd \u0bae\u0bb9\u0bb5\u0bbf\u0b9f\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c2e\u0c39\u0c4d\u0c35\u0c3f\u0c24\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -188,9 +189,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0445\u0432\u0456\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Al Ma\u1e29w\u012bt"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0644\u0645\u062d\u0648\u06cc\u062a"
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"2,330",
     "statoids:area_mi":"900",
     "statoids:as_of_date":"2004-12-01",
@@ -299,7 +297,7 @@
         "gp:id":20070046,
         "hasc:id":"YE.MW",
         "iso:id":"YE-MW",
-        "qs:id":1062877,
+        "qs_pg:id":1062877,
         "wd:id":"Q388280",
         "wk:page":"Al Mahwit Governorate"
     },
@@ -319,11 +317,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739831,
+    "wof:lastmodified":1566658457,
     "wof:name":"Al Mahwit",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":494557,
     "wof:population_rank":10,

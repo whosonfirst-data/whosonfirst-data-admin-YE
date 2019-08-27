@@ -11,10 +11,13 @@
     "geom:longitude":44.47378,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"44.46878,16.64377,44.47878,16.65377",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0635\u064a\u062d\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795402,
-        "qs:id":701163
+        "qs_pg:id":701163
     },
     "wof:country":"YE",
     "wof:created":1469051275,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890419165,
-    "wof:lastmodified":1505343449,
+    "wof:lastmodified":1566661062,
     "wof:name":"Al Mu\u015fay\u1e29ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":45.3926,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":26,
+    "gn:population":26,
     "iso:country":"YE",
+    "lbl:bbox":"45.3726,15.52572,45.4126,15.56572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7861430,
         "gp:id":1957048,
-        "qs:id":742763,
+        "qs_pg:id":742763,
         "wd:id":"Q20304079"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414117,
-    "wof:lastmodified":1563351690,
+    "wof:lastmodified":1566660646,
     "wof:name":"Al Arba\u2018\u012bn",
     "wof:parent_id":1091925199,
     "wof:placetype":"locality",

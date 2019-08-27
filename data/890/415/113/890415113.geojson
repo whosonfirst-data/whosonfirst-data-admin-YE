@@ -11,10 +11,14 @@
     "geom:longitude":43.29756,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27756,16.65406,43.31756,16.69406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Muj\u0101r\u012bn"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7855069,
         "gp:id":1959134,
-        "qs:id":741996
+        "qs_pg:id":741996
     },
     "wof:country":"YE",
     "wof:created":1469051074,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415113,
-    "wof:lastmodified":1505343424,
+    "wof:lastmodified":1566660775,
     "wof:name":"Al Muj\u0101r\u012bn",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

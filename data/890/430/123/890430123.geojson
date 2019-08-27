@@ -11,10 +11,14 @@
     "geom:longitude":43.2605,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.2405,16.81477,43.2805,16.85477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0627\u0644\u0646\u0635\u0627\u0631\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7926980,
         "gp:id":1958992,
-        "qs:id":745317,
+        "qs_pg:id":745317,
         "wd:id":"Q20309447"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890430123,
-    "wof:lastmodified":1563352402,
+    "wof:lastmodified":1566660893,
     "wof:name":"W\u0101d\u012b an Ni\u015f\u0101r\u012b",
     "wof:parent_id":1091925497,
     "wof:placetype":"locality",

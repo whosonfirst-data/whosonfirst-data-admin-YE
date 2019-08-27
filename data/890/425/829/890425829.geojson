@@ -11,10 +11,14 @@
     "geom:longitude":43.52161,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.50161,16.24475,43.54161,16.28475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0643\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7849522,
         "gp:id":1959128,
-        "qs:id":741646,
+        "qs_pg:id":741646,
         "wd:id":"Q20301467"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425829,
-    "wof:lastmodified":1563351429,
+    "wof:lastmodified":1566660553,
     "wof:name":"Al \u2018Akkan",
     "wof:parent_id":1091921677,
     "wof:placetype":"locality",

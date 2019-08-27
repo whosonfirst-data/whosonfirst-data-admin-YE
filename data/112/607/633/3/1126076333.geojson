@@ -9,17 +9,19 @@
     "geom:bbox":"42.81551,16.32456,42.81551,16.32456",
     "geom:latitude":16.32456,
     "geom:longitude":42.81551,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":9,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"42.81051,16.31956,42.82051,16.32956",
     "lbl:latitude":16.32456,
     "lbl:longitude":42.81551,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0628\u0646\u064a \u0641\u0627\u0636\u0644"
     ],
     "qs_pg:aaroncc":"YE",
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":694059,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680973,
         102191569,
         85632499,
-        1091924125,
-        85680973
+        1091924125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126076333,
-    "wof:lastmodified":1509410933,
+    "wof:lastmodified":1566661513,
     "wof:name":"Ban\u012b F\u0101\u1e11il",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

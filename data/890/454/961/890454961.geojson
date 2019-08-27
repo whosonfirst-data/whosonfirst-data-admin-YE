@@ -11,10 +11,13 @@
     "geom:longitude":43.70875,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"43.70375,16.04548,43.71375,16.05548",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Ash Sh\u0101\u1e29\u012b"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020532,
-        "qs:id":749879
+        "qs_pg:id":749879
     },
     "wof:country":"YE",
     "wof:created":1469052922,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890454961,
-    "wof:lastmodified":1505343660,
+    "wof:lastmodified":1566660987,
     "wof:name":"Ash Sh\u0101\u1e29\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

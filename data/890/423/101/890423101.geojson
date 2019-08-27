@@ -11,10 +11,14 @@
     "geom:longitude":43.46736,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.44736,16.1371,43.48736,16.1771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u062c\u0631\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7658439,
         "gp:id":1959128,
-        "qs:id":696280,
+        "qs_pg:id":696280,
         "wd:id":"Q20306977"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890423101,
-    "wof:lastmodified":1563352208,
+    "wof:lastmodified":1566660828,
     "wof:name":"Al Ma\u1e29jarah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

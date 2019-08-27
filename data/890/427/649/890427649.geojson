@@ -11,10 +11,14 @@
     "geom:longitude":44.17335,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"YE",
+    "lbl:bbox":"44.15335,17.26783,44.19335,17.30783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0631\u0639"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7789884,
-        "qs:id":700372
+        "qs_pg:id":700372
     },
     "wof:country":"YE",
     "wof:created":1469051708,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890427649,
-    "wof:lastmodified":1505343500,
+    "wof:lastmodified":1566661351,
     "wof:name":"Al Fari\u2018",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

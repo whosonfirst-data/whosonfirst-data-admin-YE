@@ -11,10 +11,14 @@
     "geom:longitude":43.29048,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"43.27048,16.87382,43.31048,16.91382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0648\u0627\u0631\u0642"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al Jumaym"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ash Shaw\u0101riq"
     ],
     "qs:name":"Ash Shuw\u0101riq",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7926909,
         "gp:id":1958992,
-        "qs:id":745247,
+        "qs_pg:id":745247,
         "wd:id":"Q20304840"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890428109,
-    "wof:lastmodified":1563353171,
+    "wof:lastmodified":1566661189,
     "wof:name":"Ash Shuw\u0101riq",
     "wof:parent_id":1091925497,
     "wof:placetype":"locality",

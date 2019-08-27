@@ -11,10 +11,14 @@
     "geom:longitude":45.28203,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.26203,14.30562,45.30203,14.34562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0645\u064a\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051759,
         "gp:id":1958975,
-        "qs:id":751145,
+        "qs_pg:id":751145,
         "wd:id":"Q20304156"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428299,
-    "wof:lastmodified":1563353207,
+    "wof:lastmodified":1566661201,
     "wof:name":"Al Qar\u0101m\u012bd",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

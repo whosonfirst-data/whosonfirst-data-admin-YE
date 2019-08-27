@@ -11,10 +11,14 @@
     "geom:longitude":43.34439,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.32439,16.66384,43.36439,16.70384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u062f\u064a\u0645"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7855231,
         "gp:id":1959134,
-        "qs:id":742149,
+        "qs_pg:id":742149,
         "wd:id":"Q2829261",
         "wk:page":"Al-Qadim"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890425991,
-    "wof:lastmodified":1563351417,
+    "wof:lastmodified":1566660548,
     "wof:name":"Al Qad\u012bm",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

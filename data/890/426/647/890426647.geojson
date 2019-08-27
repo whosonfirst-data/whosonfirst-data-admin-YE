@@ -11,10 +11,13 @@
     "geom:longitude":43.68825,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.68325,16.14873,43.69325,16.15873",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u062f\u0648"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021941,
-        "qs:id":750171
+        "qs_pg:id":750171
     },
     "wof:country":"YE",
     "wof:created":1469051640,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890426647,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661124,
     "wof:name":"As Sadw",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

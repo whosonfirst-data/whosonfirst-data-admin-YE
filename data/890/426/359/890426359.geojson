@@ -11,10 +11,14 @@
     "geom:longitude":43.34203,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.32203,16.97569,43.36203,17.01569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Ti \u2018Anib"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7900656,
         "gp:id":1958992,
-        "qs:id":744427,
+        "qs_pg:id":744427,
         "wd:id":"Q20309160"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890426359,
-    "wof:lastmodified":1563352967,
+    "wof:lastmodified":1566661116,
     "wof:name":"Ti \u2018Anib",
     "wof:parent_id":1091925419,
     "wof:placetype":"locality",

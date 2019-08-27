@@ -11,14 +11,18 @@
     "geom:longitude":43.78514,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.76514,13.4311,43.80514,13.4711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0643\u0645\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Akamah"
     ],
     "qs:name":"Al Akimah",
@@ -36,11 +40,11 @@
     "wof:concordances":{
         "gn:id":8075729,
         "gp:id":1959049,
-        "qs:id":754314
+        "qs_pg:id":754314
     },
     "wof:concordances_alt":{
         "gn:id":8075804,
-        "qs:id":754387
+        "qs_pg:id":754387
     },
     "wof:country":"YE",
     "wof:created":1469052936,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890455159,
-    "wof:lastmodified":1534379831,
+    "wof:lastmodified":1566660924,
     "wof:name":"Al Akimah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

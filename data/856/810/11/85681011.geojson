@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.921372,
     "lbl:longitude":46.735152,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0634\u0628\u0648\u0629",
     "mps:latitude":14.90439,
     "mps:longitude":46.79162,
@@ -187,7 +188,7 @@
         "Shabwah"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0baa\u0bb5\u0bbe\u0bb9  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0bb7\u0baa\u0bb5\u0bbe\u0bb9 \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c2c\u0c4d\u0c35\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -204,7 +205,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0431\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fourth Governorate"
     ],
     "name:urd_x_preferred":[
@@ -288,9 +289,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"39,000",
     "statoids:area_mi":"15,060",
     "statoids:as_of_date":"2004-12-01",
@@ -315,7 +316,7 @@
         "gp:id":20070034,
         "hasc:id":"YE.SH",
         "iso:id":"YE-SH",
-        "qs:id":495943,
+        "qs_pg:id":495943,
         "unlc:id":"YE-SH",
         "wd:id":"Q328180"
     },
@@ -335,11 +336,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739828,
+    "wof:lastmodified":1566658452,
     "wof:name":"Shabwah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":470635,
     "wof:population_rank":10,

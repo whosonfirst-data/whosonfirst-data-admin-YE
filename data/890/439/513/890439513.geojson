@@ -11,10 +11,14 @@
     "geom:longitude":44.10715,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.08715,16.34389,44.12715,16.38389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Mud\u0101fin"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8025358,
         "gp:id":1958946,
-        "qs:id":750562
+        "qs_pg:id":750562
     },
     "wof:country":"YE",
     "wof:created":1469052238,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890439513,
-    "wof:lastmodified":1505343571,
+    "wof:lastmodified":1566660883,
     "wof:name":"Al Mud\u0101fin",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.36301,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"43.34301,16.73321,43.38301,16.77321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644 \u0632\u064a\u062f"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926871,
         "gp:id":1959134,
-        "qs:id":745210
+        "qs_pg:id":745210
     },
     "wof:country":"YE",
     "wof:created":1469052811,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452281,
-    "wof:lastmodified":1505343644,
+    "wof:lastmodified":1566660912,
     "wof:name":"\u0100l Zayd",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

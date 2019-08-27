@@ -11,10 +11,14 @@
     "geom:longitude":43.49519,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":41,
+    "gn:population":41,
     "iso:country":"YE",
+    "lbl:bbox":"43.47519,17.07621,43.51519,17.11621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0628\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7866912,
         "gp:id":1959094,
-        "qs:id":743086,
+        "qs_pg:id":743086,
         "wd:id":"Q20304492"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420849,
-    "wof:lastmodified":1563353387,
+    "wof:lastmodified":1566661268,
     "wof:name":"Al Khabl",
     "wof:parent_id":1091925445,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.42295,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.40295,16.16665,43.44295,16.20665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0629 \u062c\u0645\u0639\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7656569,
         "gp:id":1953570,
-        "qs:id":696177,
+        "qs_pg:id":696177,
         "wd:id":"Q20306765"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890451823,
-    "wof:lastmodified":1563353750,
+    "wof:lastmodified":1566661406,
     "wof:name":"Kawlat Jam\u2018ah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

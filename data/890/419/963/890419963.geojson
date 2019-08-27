@@ -11,10 +11,14 @@
     "geom:longitude":43.85633,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.83633,13.41538,43.87633,13.45538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0628\u0631\u0643"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8075672,
         "gp:id":1957357,
-        "qs:id":754262,
+        "qs_pg:id":754262,
         "wd:id":"Q20306224",
         "wk:page":"Al Mabrak"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419963,
-    "wof:lastmodified":1563352769,
+    "wof:lastmodified":1566661040,
     "wof:name":"Al Mabrak",
     "wof:parent_id":1091926555,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.29384,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.27384,17.18474,43.31384,17.22474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0648\u0629"
     ],
@@ -36,8 +40,10 @@
     "wof:concordances":{
         "gn:id":7632372,
         "gp:id":1938607,
-        "qs:id":743135,
         "qs_pg:id":694921
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":743135
     },
     "wof:country":"YE",
     "wof:created":1469051287,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890419427,
-    "wof:lastmodified":1505343450,
+    "wof:lastmodified":1566661073,
     "wof:name":"Al Marwah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

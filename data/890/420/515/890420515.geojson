@@ -11,10 +11,14 @@
     "geom:longitude":43.37837,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.35837,16.34642,43.39837,16.38642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0634\u0629"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":7783321,
         "gp:id":1958967,
-        "qs:id":699973,
+        "qs_pg:id":699973,
         "wd:id":"Q4703500",
         "wk:page":"Al Ashah District"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890420515,
-    "wof:lastmodified":1563353411,
+    "wof:lastmodified":1566661277,
     "wof:name":"Al \u2018Ashah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

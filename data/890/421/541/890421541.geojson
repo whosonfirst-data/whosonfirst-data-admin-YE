@@ -11,10 +11,14 @@
     "geom:longitude":43.29314,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27314,16.66304,43.31314,16.70304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0636\u0631\u0628\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855098,
         "gp:id":1959134,
-        "qs:id":742022,
+        "qs_pg:id":742022,
         "wd:id":"Q20306507"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890421541,
-    "wof:lastmodified":1563353113,
+    "wof:lastmodified":1566661167,
     "wof:name":"Al Ma\u1e11ribah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

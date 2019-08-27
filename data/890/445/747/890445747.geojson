@@ -11,12 +11,15 @@
     "geom:longitude":42.90041,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u062c\u0639\u064a\u062f\u064a"
     ],
     "qs:name":"Ja\u2018\u012bd\u012b",
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7622261,
         "gp:id":1959063,
-        "qs:id":694018
+        "qs_pg:id":694018
     },
     "wof:country":"YE",
     "wof:created":1469052521,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890445747,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566661386,
     "wof:name":"Ja\u2018\u012bd\u012b",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

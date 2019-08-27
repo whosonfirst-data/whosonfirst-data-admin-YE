@@ -11,17 +11,21 @@
     "geom:longitude":43.75085,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":137,
+    "gn:population":137,
     "iso:country":"YE",
+    "lbl:bbox":"43.73085,16.88446,43.77085,16.92446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Ghur\u0101z"
     ],
     "name:ara_x_variant":[
         "\u063a\u0631\u0627\u0632"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghuraz"
     ],
     "qs:name":"Ghur\u0101z",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7367123,
         "gp:id":1959040,
-        "qs:id":107270
+        "qs_pg:id":107270
     },
     "wof:country":"YE",
     "wof:created":1469051824,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890429657,
-    "wof:lastmodified":1505343514,
+    "wof:lastmodified":1566661240,
     "wof:name":"Ghur\u0101z",
     "wof:parent_id":1091925525,
     "wof:placetype":"locality",

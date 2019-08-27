@@ -11,10 +11,14 @@
     "geom:longitude":43.37331,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.35331,16.35239,43.39331,16.39239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0633\u064a\u0637"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783324,
         "gp:id":1958967,
-        "qs:id":699976,
+        "qs_pg:id":699976,
         "wd:id":"Q20304580"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447955,
-    "wof:lastmodified":1563351159,
+    "wof:lastmodified":1566660458,
     "wof:name":"Al Bas\u012b\u0163",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

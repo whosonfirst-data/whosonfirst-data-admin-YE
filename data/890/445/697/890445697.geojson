@@ -11,14 +11,15 @@
     "geom:longitude":42.94016,
     "gn:country":"YE",
     "gn:fcode":"FRM",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"42.92016,15.97035,42.96016,16.01035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
-        "\u0628\u064a\u062a \u0627\u0644\u0647\u0627\u0632\u0644 \u0627\u0644\u062c\u0631\u064a"
-    ],
-    "name:unk_x_variant":[
         "\u0628\u064a\u062a \u0627\u0644\u0647\u0627\u0632\u0644 \u0627\u0644\u062c\u0631\u064a"
     ],
     "qs:name":"Bayt al H\u0101zil al Jar\u012b",
@@ -36,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7622043,
         "gp:id":1959063,
-        "qs:id":693990
+        "qs_pg:id":693990
     },
     "wof:country":"YE",
     "wof:created":1469052519,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":890445697,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566661393,
     "wof:name":"Bayt al H\u0101zil al Jar\u012b",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",

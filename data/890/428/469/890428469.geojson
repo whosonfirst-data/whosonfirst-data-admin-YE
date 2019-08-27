@@ -11,10 +11,14 @@
     "geom:longitude":43.86404,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.84404,13.30896,43.88404,13.34896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062e\u0631\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069078,
         "gp:id":1957662,
-        "qs:id":753258,
+        "qs_pg:id":753258,
         "wd:id":"Q20307485"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428469,
-    "wof:lastmodified":1563353195,
+    "wof:lastmodified":1566661197,
     "wof:name":"Al Makhrab",
     "wof:parent_id":1091926297,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":43.74207,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.73707,16.20643,43.74707,16.21643",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0627\u0628 \u0627\u0644\u0648\u0627\u0633\u0637"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928174,
-        "qs:id":745611
+        "qs_pg:id":745611
     },
     "wof:country":"YE",
     "wof:created":1469052919,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890454901,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566660970,
     "wof:name":"Al Khar\u0101b al W\u0101si\u0163",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

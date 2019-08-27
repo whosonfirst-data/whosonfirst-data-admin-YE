@@ -11,10 +11,14 @@
     "geom:longitude":43.46759,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.44759,16.14109,43.48759,16.18109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0646\u0628\u0629"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":7900502,
         "gp:id":1959128,
-        "qs:id":696296,
+        "qs_pg:id":696296
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":744269
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890417635,
-    "wof:lastmodified":1505343440,
+    "wof:lastmodified":1566661212,
     "wof:name":"Al Ma\u2018nibah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

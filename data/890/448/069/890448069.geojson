@@ -11,10 +11,14 @@
     "geom:longitude":43.34165,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"43.32165,16.31017,43.36165,16.35017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0642\u0639\u0629"
     ],
@@ -46,10 +50,12 @@
     "wof:concordances":{
         "gn:id":8021991,
         "gp:id":1958967,
-        "qs:id":700077,
-        "qs_pg:id":750221,
+        "qs_pg:id":700077,
         "wd:id":"Q4750157",
         "wk:page":"An Naq`Ah"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":750221
     },
     "wof:country":"YE",
     "wof:created":1469052618,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890448069,
-    "wof:lastmodified":1563351891,
+    "wof:lastmodified":1566660713,
     "wof:name":"An Naq\u2018ah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

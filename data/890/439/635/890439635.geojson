@@ -11,10 +11,14 @@
     "geom:longitude":43.50628,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":32,
+    "gn:population":32,
     "iso:country":"YE",
+    "lbl:bbox":"43.48628,13.15175,43.52628,13.19175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u064a\u062f\u0631\u0628\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069227,
         "gp:id":1957499,
-        "qs:id":753405,
+        "qs_pg:id":753405,
         "wd:id":"Q20300950"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439635,
-    "wof:lastmodified":1563352297,
+    "wof:lastmodified":1566660857,
     "wof:name":"Al \u1e28aydribah",
     "wof:parent_id":1091926505,
     "wof:placetype":"locality",

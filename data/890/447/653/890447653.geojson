@@ -11,10 +11,14 @@
     "geom:longitude":43.40216,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.38216,16.26177,43.42216,16.30177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0648\u0641 \u0627\u0644\u0646\u0627\u0641\u0631\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7756430,
         "gp:id":1953570,
-        "qs:id":698928,
+        "qs_pg:id":698928,
         "wd:id":"Q20305044"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447653,
-    "wof:lastmodified":1563351271,
+    "wof:lastmodified":1566660496,
     "wof:name":"A\u0163 \u0162awaf an N\u0101firah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

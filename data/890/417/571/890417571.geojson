@@ -11,10 +11,14 @@
     "geom:longitude":43.37031,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.35031,16.05538,43.39031,16.09538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0641"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7656137,
         "gp:id":1958568,
-        "qs:id":696065
+        "qs_pg:id":696065
     },
     "wof:country":"YE",
     "wof:created":1469051210,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417571,
-    "wof:lastmodified":1505343439,
+    "wof:lastmodified":1566661223,
     "wof:name":"Al Jurf",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.509022,
     "lbl:longitude":45.945173,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Shabwah",
     "meso:admin1_loc":"\u0634\u0628\u0648\u0629",
     "meso:dissme":"ShabwahMerkhah Al Ulya",
@@ -32,6 +34,7 @@
     "mps:longitude":45.945173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0645\u0631\u062e\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
@@ -63,9 +66,9 @@
         "Merkhah Al Ulya"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091926157,
-    "wof:lastmodified":1563350872,
+    "wof:lastmodified":1566660281,
     "wof:name":"Merkhah Al Ulya",
     "wof:parent_id":85681011,
     "wof:placetype":"county",

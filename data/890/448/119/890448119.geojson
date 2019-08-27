@@ -11,10 +11,14 @@
     "geom:longitude":43.43452,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.41452,16.30118,43.45452,16.34118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Mi\u2018q\u0101b"
     ],
@@ -36,12 +40,12 @@
     "wof:concordances":{
         "gn:id":7783571,
         "gp:id":1959128,
-        "qs:id":700224
+        "qs_pg:id":700224
     },
     "wof:concordances_alt":{
         "gn:id":7783547,
         "gp:id":1953570,
-        "qs:id":700200
+        "qs_pg:id":700200
     },
     "wof:country":"YE",
     "wof:created":1469052620,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890448119,
-    "wof:lastmodified":1534379833,
+    "wof:lastmodified":1566660694,
     "wof:name":"Al Mi\u2018q\u0101b",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":12.64881,
     "geom:longitude":54.01895,
     "iso:country":"YE",
+    "lbl:bbox":"53.99895,12.62881,54.03895,12.66881",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0434\u0456\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tamarida"
     ],
     "name:urd_x_preferred":[
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":75427,
         "gp:id":1959047,
-        "qs:id":229286,
+        "qs_pg:id":229286,
         "wd:id":"Q1015916",
         "wk:page":"Hadibu"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421203113,
-    "wof:lastmodified":1563351126,
+    "wof:lastmodified":1566660446,
     "wof:name":"Hadiboh",
     "wof:parent_id":1091926255,
     "wof:placetype":"locality",

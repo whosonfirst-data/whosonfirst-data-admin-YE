@@ -11,10 +11,14 @@
     "geom:longitude":43.43608,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.41608,17.37842,43.45608,17.41842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u064a\u0646 \u0639\u0627\u0645\u0631"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "As Sawd\u012b al Gh\u0101w\u012byah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u2018\u012bn \u2018\u0100mir"
     ],
     "qs:name":"Mu\u2018ayyin \u2018\u0100mir",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7856452,
         "gp:id":1939827,
-        "qs:id":742373,
+        "qs_pg:id":742373,
         "wd:id":"Q20302004"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890420731,
-    "wof:lastmodified":1563353345,
+    "wof:lastmodified":1566661251,
     "wof:name":"Mu\u2018ayyin \u2018\u0100mir",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

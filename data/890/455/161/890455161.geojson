@@ -11,10 +11,14 @@
     "geom:longitude":43.78262,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.76262,13.43157,43.80262,13.47157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0641"
     ],
@@ -34,12 +38,12 @@
     "wof:concordances":{
         "gn:id":8075730,
         "gp:id":1959049,
-        "qs:id":754315,
+        "qs_pg:id":754315,
         "wk:page":"Ash sharaf"
     },
     "wof:concordances_alt":{
         "gn:id":8075726,
-        "qs:id":754311
+        "qs_pg:id":754311
     },
     "wof:country":"YE",
     "wof:created":1469052936,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890455161,
-    "wof:lastmodified":1534530970,
+    "wof:lastmodified":1566660924,
     "wof:name":"Ash Sharaf",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

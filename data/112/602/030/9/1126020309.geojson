@@ -9,15 +9,18 @@
     "geom:bbox":"42.92406,16.25711,42.92406,16.25711",
     "geom:latitude":16.25711,
     "geom:longitude":42.92406,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"42.90406,16.23711,42.94406,16.27711",
     "lbl:latitude":16.25711,
     "lbl:longitude":42.92406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0627\u0628\u062d\u0629"
@@ -27,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "A\u0163 \u0162uwaylah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062c\u0631\u0627\u0628\u062d\u0629"
     ],
     "qs_pg:aaroncc":"YE",
     "qs_pg:gn_country":"YE",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":694052,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126020309,
-    "wof:lastmodified":1563353825,
+    "wof:lastmodified":1566661436,
     "wof:name":"Al Jar\u0101bi\u1e29ah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

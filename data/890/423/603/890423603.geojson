@@ -11,10 +11,14 @@
     "geom:longitude":43.47418,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"43.45418,16.3179,43.49418,16.3579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u063a\u0645\u0631\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755918,
         "gp:id":1959128,
-        "qs:id":698781,
+        "qs_pg:id":698781,
         "wd:id":"Q20299720"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890423603,
-    "wof:lastmodified":1563352181,
+    "wof:lastmodified":1566660819,
     "wof:name":"Bayt al Ghumr\u012b",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

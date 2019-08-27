@@ -11,10 +11,13 @@
     "geom:longitude":44.47494,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"44.46994,16.65076,44.47994,16.66076",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al M\u012br\u0101d"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795390,
-        "qs:id":701151
+        "qs_pg:id":701151
     },
     "wof:country":"YE",
     "wof:created":1469051252,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890418533,
-    "wof:lastmodified":1505343445,
+    "wof:lastmodified":1566661279,
     "wof:name":"Al M\u012br\u0101d",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.783736,
     "lbl:longitude":45.064363,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Marib",
     "meso:admin1_loc":"\u0645\u0623\u0631\u0628",
     "meso:dissme":"MaribRaghwan",
@@ -32,6 +34,7 @@
     "mps:longitude":45.064363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0631\u063a\u0648\u0627\u0646"
     ],
@@ -63,9 +66,9 @@
         "Raghwan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091925257,
-    "wof:lastmodified":1563350898,
+    "wof:lastmodified":1566660291,
     "wof:name":"Raghwan",
     "wof:parent_id":85681015,
     "wof:placetype":"county",

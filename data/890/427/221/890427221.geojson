@@ -11,10 +11,14 @@
     "geom:longitude":43.24141,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.22141,16.67737,43.26141,16.71737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0647\u0644\u0648\u062c"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8079427,
         "gp:id":1938881,
-        "qs:id":754809,
+        "qs_pg:id":754809,
         "wd:id":"Q20309251"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427221,
-    "wof:lastmodified":1563353539,
+    "wof:lastmodified":1566661327,
     "wof:name":"Umm al Hal\u016bj",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

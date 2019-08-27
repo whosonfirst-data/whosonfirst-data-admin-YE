@@ -11,10 +11,14 @@
     "geom:longitude":43.38983,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.36983,16.29509,43.40983,16.33509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0630\u0631\u0627\u0639 \u0627\u0644\u0646\u0642\u064a\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783290,
         "gp:id":1953570,
-        "qs:id":699943,
+        "qs_pg:id":699943,
         "wd:id":"Q20302420"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425211,
-    "wof:lastmodified":1563351428,
+    "wof:lastmodified":1566660552,
     "wof:name":"Dhir\u0101\u2018 an Naq\u012bl",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

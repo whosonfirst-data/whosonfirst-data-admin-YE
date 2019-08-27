@@ -11,10 +11,14 @@
     "geom:longitude":43.24247,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.22247,17.2153,43.26247,17.2553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0634\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8022208,
         "gp:id":1938607,
-        "qs:id":750366
+        "qs_pg:id":750366
     },
     "wof:country":"YE",
     "wof:created":1469051643,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426703,
-    "wof:lastmodified":1505343495,
+    "wof:lastmodified":1566661119,
     "wof:name":"Al Kharishah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

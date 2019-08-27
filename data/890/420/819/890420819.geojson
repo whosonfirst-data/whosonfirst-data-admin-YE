@@ -11,10 +11,14 @@
     "geom:longitude":43.28444,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.26444,17.18404,43.30444,17.22404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u062f \u0627\u0644\u0641\u0638\u0627\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7865378,
         "gp:id":1938607,
-        "qs:id":743000,
+        "qs_pg:id":743000,
         "wd:id":"Q20302408"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420819,
-    "wof:lastmodified":1563353353,
+    "wof:lastmodified":1566661254,
     "wof:name":"Nayd al Fiz\u0327\u0101r",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

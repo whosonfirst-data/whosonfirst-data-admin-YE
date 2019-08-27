@@ -11,14 +11,18 @@
     "geom:longitude":43.42931,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.40931,16.77824,43.44931,16.81824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a \u0627\u0644\u0639\u0645\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt al \u2018Umar"
     ],
     "qs:name":"Alt al \u2018Amr",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7921113,
         "gp:id":1959061,
-        "qs:id":744969
+        "qs_pg:id":744969
     },
     "wof:country":"YE",
     "wof:created":1469052080,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890435765,
-    "wof:lastmodified":1505343549,
+    "wof:lastmodified":1566661412,
     "wof:name":"Alt al \u2018Amr",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

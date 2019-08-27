@@ -11,10 +11,14 @@
     "geom:longitude":43.29818,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27818,16.61298,43.31818,16.65298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0645\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855056,
         "gp:id":1938881,
-        "qs:id":741987
+        "qs_pg:id":741987
     },
     "wof:country":"YE",
     "wof:created":1469051074,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415097,
-    "wof:lastmodified":1505343424,
+    "wof:lastmodified":1566660771,
     "wof:name":"Ad Diman",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

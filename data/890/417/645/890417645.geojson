@@ -11,10 +11,14 @@
     "geom:longitude":43.44874,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.42874,16.13606,43.46874,16.17606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al M\u0101h\u00e1"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7658459,
         "gp:id":1959128,
-        "qs:id":696300
+        "qs_pg:id":696300
     },
     "wof:country":"YE",
     "wof:created":1469051214,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890417645,
-    "wof:lastmodified":1505343440,
+    "wof:lastmodified":1566661210,
     "wof:name":"Al M\u0101h\u00e1",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

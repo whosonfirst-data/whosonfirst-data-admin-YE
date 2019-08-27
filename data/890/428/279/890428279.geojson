@@ -11,10 +11,14 @@
     "geom:longitude":45.24699,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"45.22699,14.24809,45.26699,14.28809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0645\u0634\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051750,
         "gp:id":1958988,
-        "qs:id":751136,
+        "qs_pg:id":751136,
         "wd:id":"Q20300801"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428279,
-    "wof:lastmodified":1563353182,
+    "wof:lastmodified":1566661192,
     "wof:name":"An Namsh\u00e1",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

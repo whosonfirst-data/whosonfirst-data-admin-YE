@@ -11,11 +11,15 @@
     "geom:longitude":43.19048,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":111,
+    "gn:population":111,
     "iso:country":"YE",
+    "lbl:bbox":"43.17048,15.98559,43.21048,16.02559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u0627\u0644\u0646\u0633\u064a\u0645"
     ],
     "qs:name":"An Nas\u012bm",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7631396,
         "gp:id":1958568,
-        "qs:id":694391
+        "qs_pg:id":694391
     },
     "wof:country":"YE",
     "wof:created":1469051543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890424415,
-    "wof:lastmodified":1505343481,
+    "wof:lastmodified":1566660783,
     "wof:name":"An Nas\u012bm",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",

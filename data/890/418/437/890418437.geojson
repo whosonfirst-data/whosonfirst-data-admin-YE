@@ -11,10 +11,13 @@
     "geom:longitude":44.32872,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"44.32372,16.52353,44.33372,16.53353",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u062f\u0629 \u0627\u0644\u063a\u0644\u0627\u0621"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795203,
-        "qs:id":700967
+        "qs_pg:id":700967
     },
     "wof:country":"YE",
     "wof:created":1469051248,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418437,
-    "wof:lastmodified":1505343444,
+    "wof:lastmodified":1566661288,
     "wof:name":"Zaydat al Ghil\u0101\u2019",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

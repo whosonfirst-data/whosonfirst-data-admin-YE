@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.058698,
     "lbl:longitude":43.708044,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amran",
     "meso:admin1_loc":"\u0639\u0645\u0631\u0627\u0646",
     "meso:dissme":"AmranHabur Zulaymah",
@@ -32,6 +34,7 @@
     "mps:longitude":43.708044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0638\u0644\u064a\u0645\u0629 \u062d\u0628\u0648\u0631"
     ],
@@ -63,9 +66,9 @@
         "Habur Zulaymah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091921861,
-    "wof:lastmodified":1563350841,
+    "wof:lastmodified":1566660267,
     "wof:name":"Habur Zulaymah",
     "wof:parent_id":85680977,
     "wof:placetype":"county",

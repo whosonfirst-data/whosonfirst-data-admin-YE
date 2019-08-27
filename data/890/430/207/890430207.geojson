@@ -11,10 +11,14 @@
     "geom:longitude":45.45504,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"45.43504,14.95444,45.47504,14.99444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0634\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053299,
         "gp:id":1959055,
-        "qs:id":751726,
+        "qs_pg:id":751726,
         "wd:id":"Q20301092"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890430207,
-    "wof:lastmodified":1563352401,
+    "wof:lastmodified":1566660892,
     "wof:name":"Marashah",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

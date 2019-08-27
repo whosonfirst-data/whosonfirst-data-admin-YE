@@ -11,10 +11,14 @@
     "geom:longitude":45.31486,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.29486,14.24195,45.33486,14.28195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0639\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051934,
         "gp:id":1958988,
-        "qs:id":751312,
+        "qs_pg:id":751312,
         "wd:id":"Q20303311"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439603,
-    "wof:lastmodified":1563352296,
+    "wof:lastmodified":1566660857,
     "wof:name":"Al Jaz\u2018ah",
     "wof:parent_id":1091919055,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":43.40381,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.39881,16.01714,43.40881,16.02714",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0645\u062d\u0645\u062f \u064a\u062d\u064a\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682608,
-        "qs:id":697294
+        "qs_pg:id":697294
     },
     "wof:country":"YE",
     "wof:created":1469051483,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423157,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660809,
     "wof:name":"Bayt Mu\u1e29ammad Ya\u1e29ya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

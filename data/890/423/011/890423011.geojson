@@ -11,10 +11,14 @@
     "geom:longitude":43.53251,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.51251,16.8031,43.55251,16.8431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0631\u062c\u0628"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7363701,
         "gp:id":1958259,
-        "qs:id":685345,
+        "qs_pg:id":685345,
         "wd:id":"Q20305318",
         "wk:page":"Harjab"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890423011,
-    "wof:lastmodified":1563352215,
+    "wof:lastmodified":1566660830,
     "wof:name":"\u1e28arjab",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

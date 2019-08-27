@@ -11,10 +11,14 @@
     "geom:longitude":43.01763,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"42.99763,16.20816,43.03763,16.24816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u062f\u0641 \u0627\u0644\u0634\u0639\u0628\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ban\u012b Ma\u015fla\u1e29"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kadaf ash Sha\u2018bah"
     ],
     "qs:name":"Kadaf Ash Sha\u2018bah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7622269,
         "gp:id":1959063,
-        "qs:id":694026,
+        "qs_pg:id":694026,
         "wd:id":"Q20306621"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890445765,
-    "wof:lastmodified":1563353687,
+    "wof:lastmodified":1566661380,
     "wof:name":"Kadaf Ash Sha\u2018bah",
     "wof:parent_id":1091923925,
     "wof:placetype":"locality",

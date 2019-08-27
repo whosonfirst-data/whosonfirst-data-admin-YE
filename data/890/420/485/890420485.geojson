@@ -11,10 +11,14 @@
     "geom:longitude":43.37795,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.35795,16.27629,43.39795,16.31629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Ar Rif\u0101f"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7761180,
         "gp:id":1953570,
-        "qs:id":699170
+        "qs_pg:id":699170
     },
     "wof:country":"YE",
     "wof:created":1469051342,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890420485,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566661253,
     "wof:name":"Ar Rif\u0101f",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

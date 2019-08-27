@@ -11,10 +11,13 @@
     "geom:longitude":43.77568,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.77068,13.16277,43.78068,13.17277",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u064a\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8071499,
-        "qs:id":753878
+        "qs_pg:id":753878
     },
     "wof:country":"YE",
     "wof:created":1469052694,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890449481,
-    "wof:lastmodified":1505343629,
+    "wof:lastmodified":1566660530,
     "wof:name":"Ar Ruwayyah as Sufl\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

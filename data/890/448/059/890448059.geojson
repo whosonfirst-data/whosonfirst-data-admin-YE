@@ -11,10 +11,14 @@
     "geom:longitude":43.34739,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.32739,16.31825,43.36739,16.35825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0627\u0644\u0645\u0642\u0627\u0628\u0633 \u0628\u0646\u064a \u0645\u0647\u0627\u0648\u0634"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7783414,
         "gp:id":1958967,
-        "qs:id":700066,
+        "qs_pg:id":700066,
         "wd:id":"Q20305255"
     },
     "wof:country":"YE",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890448059,
-    "wof:lastmodified":1514503333,
+    "wof:lastmodified":1566660710,
     "wof:name":"Qal\u2018at al Miq\u0101bish Ban\u012b Mih\u0101wash",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

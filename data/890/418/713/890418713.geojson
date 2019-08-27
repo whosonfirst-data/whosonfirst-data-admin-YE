@@ -11,10 +11,14 @@
     "geom:longitude":43.27952,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.25952,16.2068,43.29952,16.2468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u0628\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7631916,
         "gp:id":1953570,
-        "qs:id":694754
+        "qs_pg:id":694754
     },
     "wof:country":"YE",
     "wof:created":1469051259,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418713,
-    "wof:lastmodified":1505343446,
+    "wof:lastmodified":1566661293,
     "wof:name":"Al Khawbah",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

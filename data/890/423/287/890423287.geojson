@@ -11,10 +11,13 @@
     "geom:longitude":43.76295,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"43.75795,16.93674,43.76795,16.94674",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Az Z\u0101hir"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7685410,
-        "qs:id":697607
+        "qs_pg:id":697607
     },
     "wof:country":"YE",
     "wof:created":1469051491,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890423287,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660813,
     "wof:name":"Az Z\u0101hir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

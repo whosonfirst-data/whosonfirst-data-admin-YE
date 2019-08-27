@@ -11,10 +11,14 @@
     "geom:longitude":43.29395,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.27395,16.78106,43.31395,16.82106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0643\u0627\u0628\u0629"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":7926783,
         "gp:id":1959134,
-        "qs:id":745091,
+        "qs_pg:id":745091
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":745124
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890428043,
-    "wof:lastmodified":1505343503,
+    "wof:lastmodified":1566661195,
     "wof:name":"Al Mark\u0101bah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

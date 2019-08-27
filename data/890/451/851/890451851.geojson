@@ -11,10 +11,14 @@
     "geom:longitude":43.4013,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.3813,16.1396,43.4213,16.1796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u062f\u064a\u0631"
     ],
@@ -36,7 +40,7 @@
     "name:tur_x_preferred":[
         "El-Gadir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghad\u012br"
     ],
     "qs:name":"Al Ghad\u012br",
@@ -58,10 +62,12 @@
     "wof:concordances":{
         "gn:id":7854878,
         "gp:id":1953570,
-        "qs:id":696430,
-        "qs_pg:id":741822,
+        "qs_pg:id":696430,
         "wd:id":"Q4702416",
         "wk:page":"Al-Ghadir"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":741822
     },
     "wof:country":"YE",
     "wof:created":1469052796,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890451851,
-    "wof:lastmodified":1563353738,
+    "wof:lastmodified":1566661402,
     "wof:name":"Al Ghad\u012br",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

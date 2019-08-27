@@ -11,10 +11,14 @@
     "geom:longitude":44.52266,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"44.50266,16.89313,44.54266,16.93313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u062d\u0644"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7754484,
         "gp:id":1959135,
-        "qs:id":698587
+        "qs_pg:id":698587
     },
     "wof:country":"YE",
     "wof:created":1469051575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890425121,
-    "wof:lastmodified":1505343485,
+    "wof:lastmodified":1566660569,
     "wof:name":"Ad Da\u1e29al",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

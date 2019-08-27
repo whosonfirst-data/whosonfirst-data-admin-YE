@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.756326,
     "lbl:longitude":48.877526,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062d\u0636\u0631\u0645\u0648\u062a",
     "mps:latitude":16.776364,
     "mps:longitude":48.910923,
@@ -172,7 +173,7 @@
         "Guvernementet Hadhramaut"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0ba4\u0bcd\u0bb0\u0bae\u0bcc\u0b9f\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+        "\u0b85\u0ba4\u0bcd\u0bb0\u0bae\u0bcc\u0b9f\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c27\u0c4d\u0c30\u0c3e\u0c2e\u0c1f\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -189,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0434\u0440\u0430\u043c\u0430\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V"
     ],
     "name:urd_x_preferred":[
@@ -273,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"163,680",
     "statoids:area_mi":"63,200",
     "statoids:as_of_date":"2004-12-01",
@@ -299,7 +300,7 @@
         "gp:id":20070033,
         "hasc:id":"YE.HA",
         "iso:id":"YE-HD",
-        "qs:id":1085798,
+        "qs_pg:id":1085798,
         "wd:id":"Q241135",
         "wk:page":"Hadhramaut Governorate"
     },
@@ -319,11 +320,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739830,
+    "wof:lastmodified":1566658454,
     "wof:name":"Hadramawt",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":984436,
     "wof:population_rank":11,

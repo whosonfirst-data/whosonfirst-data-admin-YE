@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
+    "lbl:bbox":"43.81932,13.37212,43.85932,13.41212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632499
@@ -35,7 +39,7 @@
         "gn:id":7354471
     },
     "wof:country":"YE",
-    "wof:geomhash":"2162c59b4cbe9f31a53d9f58a6c3df1a",
+    "wof:geomhash":"e87f9753b90b54716451a2244e8a64a9",
     "wof:hierarchy":[
         {
             "country_id":85632499,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209469737,
-    "wof:lastmodified":1536286117,
+    "wof:lastmodified":1566659387,
     "wof:name":"Al Minwab",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     43.83932,
-    13.392120000000002,
+    13.39212,
     43.83932,
-    13.392120000000002
+    13.39212
 ],
   "geometry": {"coordinates":[43.83932,13.39212],"type":"Point"}
 }

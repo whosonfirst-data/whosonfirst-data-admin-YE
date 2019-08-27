@@ -11,10 +11,13 @@
     "geom:longitude":44.31154,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"44.30654,16.80398,44.31654,16.81398",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u0631 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794966,
-        "qs:id":700742
+        "qs_pg:id":700742
     },
     "wof:country":"YE",
     "wof:created":1469051246,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418397,
-    "wof:lastmodified":1505343444,
+    "wof:lastmodified":1566661282,
     "wof:name":"Az Zawr as Sufl\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

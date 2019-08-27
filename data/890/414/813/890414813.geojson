@@ -11,10 +11,14 @@
     "geom:longitude":43.37607,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.35607,16.31167,43.39607,16.35167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u064a\u0644\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7845706,
         "gp:id":1958967,
-        "qs:id":741264
+        "qs_pg:id":741264
     },
     "wof:country":"YE",
     "wof:created":1469051063,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414813,
-    "wof:lastmodified":1505343422,
+    "wof:lastmodified":1566660657,
     "wof:name":"Al Mughaylah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

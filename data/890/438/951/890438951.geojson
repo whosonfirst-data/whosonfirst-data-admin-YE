@@ -11,10 +11,14 @@
     "geom:longitude":43.27891,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"43.25891,16.95217,43.29891,16.99217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a \u062d\u0646\u064a\u0634"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7900524,
         "gp:id":1958992,
-        "qs:id":744291,
+        "qs_pg:id":744291,
         "wd:id":"Q20300496"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890438951,
-    "wof:lastmodified":1563352584,
+    "wof:lastmodified":1566660964,
     "wof:name":"Alt \u1e28unaysh",
     "wof:parent_id":1091925497,
     "wof:placetype":"locality",

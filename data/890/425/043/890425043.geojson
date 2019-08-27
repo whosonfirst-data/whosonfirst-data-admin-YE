@@ -11,10 +11,14 @@
     "geom:longitude":43.43822,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.41822,16.01765,43.45822,16.05765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0628\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7682439,
         "gp:id":1958568,
-        "qs:id":697213
+        "qs_pg:id":697213
     },
     "wof:country":"YE",
     "wof:created":1469051573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890425043,
-    "wof:lastmodified":1505343485,
+    "wof:lastmodified":1566660581,
     "wof:name":"Al \u2018Aqabah",
     "wof:parent_id":1091924033,
     "wof:placetype":"locality",

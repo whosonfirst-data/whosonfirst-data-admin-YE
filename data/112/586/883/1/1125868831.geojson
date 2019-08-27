@@ -9,15 +9,18 @@
     "geom:bbox":"43.17259,16.26207,43.17259,16.26207",
     "geom:latitude":16.26207,
     "geom:longitude":43.17259,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.15259,16.24207,43.19259,16.28207",
     "lbl:latitude":16.26207,
     "lbl:longitude":43.17259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628 \u0627\u0644\u062d\u0633\u0646"
@@ -28,7 +31,7 @@
     "name:eng_x_variant":[
         "Khid\u016bd Qi\u0163bah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sha\u2018b al \u1e28asan"
     ],
     "qs_pg:aaroncc":"YE",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":694612,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125868831,
-    "wof:lastmodified":1563353906,
+    "wof:lastmodified":1566661470,
     "wof:name":"Shi\u2018b al \u1e28assan",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

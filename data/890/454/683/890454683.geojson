@@ -11,10 +11,14 @@
     "geom:longitude":44.49024,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.47024,16.87146,44.51024,16.91146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0644\u064a\u0641"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":8066862,
         "gp:id":1959135,
-        "qs:id":700771,
-        "qs_pg:id":752898,
+        "qs_pg:id":700771,
         "wd:id":"Q20304699"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":752898
     },
     "wof:country":"YE",
     "wof:created":1469052910,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890454683,
-    "wof:lastmodified":1563352658,
+    "wof:lastmodified":1566660994,
     "wof:name":"Al Khal\u012bf",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

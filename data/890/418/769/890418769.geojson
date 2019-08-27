@@ -11,10 +11,14 @@
     "geom:longitude":43.29537,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.27537,16.12584,43.31537,16.16584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Bid\u0101\u1e29"
     ],
@@ -39,8 +43,10 @@
     "wof:concordances":{
         "gn:id":7632208,
         "gp:id":1953570,
-        "qs:id":694853,
         "qs_pg:id":694796
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":694853
     },
     "wof:country":"YE",
     "wof:created":1469051261,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890418769,
-    "wof:lastmodified":1505343446,
+    "wof:lastmodified":1566661299,
     "wof:name":"Al Bid\u0101\u1e29",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

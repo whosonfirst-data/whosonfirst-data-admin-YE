@@ -11,10 +11,14 @@
     "geom:longitude":43.29814,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27814,16.81369,43.31814,16.85369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0644\u0629"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":8020595,
         "gp:id":1958992,
-        "qs:id":745106,
+        "qs_pg:id":745106
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":749940
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890430097,
-    "wof:lastmodified":1505343516,
+    "wof:lastmodified":1566660889,
     "wof:name":"Al Jallah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

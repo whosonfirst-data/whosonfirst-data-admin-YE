@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.250199,
     "lbl:longitude":44.68091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sana'a",
     "meso:admin1_loc":"\u0635\u0646\u0639\u0627\u0621",
     "meso:dissme":"Sana'aKhwlan",
@@ -32,6 +34,7 @@
     "mps:longitude":44.68091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u062e\u0648\u0644\u0627\u0646"
     ],
@@ -60,9 +63,9 @@
         "Khwlan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1091925803,
-    "wof:lastmodified":1563350844,
+    "wof:lastmodified":1566660269,
     "wof:name":"Khwlan",
     "wof:parent_id":85681021,
     "wof:placetype":"county",

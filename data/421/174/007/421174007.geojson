@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.261369,
     "lbl:longitude":43.372649,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Al Hudaydah",
     "meso:admin1_loc":"\u0627\u0644\u062d\u062f\u064a\u062f\u0629",
     "meso:dissme":"Al HudaydahZabid",
@@ -91,7 +93,7 @@
     "name:spa_x_preferred":[
         "Zabid"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zebid"
     ],
     "name:urd_x_preferred":[
@@ -214,9 +216,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -237,7 +239,7 @@
         "gn:id":69500,
         "gp:id":56189934,
         "hasc:id":"YE.HU.ZB",
-        "qs:id":658403,
+        "qs_pg:id":658403,
         "wd:id":"Q4117562",
         "wk:page":"Zab\u012bd"
     },
@@ -253,7 +255,7 @@
         }
     ],
     "wof:id":421174007,
-    "wof:lastmodified":1563351129,
+    "wof:lastmodified":1566660447,
     "wof:name":"Zabid",
     "wof:parent_id":85680959,
     "wof:placetype":"county",

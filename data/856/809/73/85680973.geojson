@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.170083,
     "lbl:longitude":43.227871,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062d\u062c\u0629",
     "mps:latitude":16.231179,
     "mps:longitude":43.250611,
@@ -176,7 +177,7 @@
         "Hajjah"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0b9c\u0bcd\u0b9c\u0bb9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0bb9\u0b9c\u0bcd\u0b9c\u0bb9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c1c\u0c4d\u0c1c\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -193,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0434\u0434\u0436\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hajja"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +278,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"8,300",
     "statoids:area_mi":"3,200",
     "statoids:as_of_date":"2004-12-01",
@@ -303,7 +304,7 @@
         "gp:id":20070048,
         "hasc:id":"YE.HJ",
         "iso:id":"YE-HJ",
-        "qs:id":219899,
+        "qs_pg:id":219899,
         "wd:id":"Q328158",
         "wk:page":"Hajjah Governorate"
     },
@@ -323,11 +324,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739831,
+    "wof:lastmodified":1566658457,
     "wof:name":"Hajjah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":1479568,
     "wof:population_rank":12,

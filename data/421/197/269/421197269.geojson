@@ -10,8 +10,12 @@
     "geom:latitude":16.05694,
     "geom:longitude":48.99889,
     "iso:country":"YE",
+    "lbl:bbox":"48.97889,16.03694,49.01889,16.07694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0645"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ter\u012bm"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":70160,
         "gp:id":1959139,
-        "qs:id":122096,
+        "qs_pg:id":122096,
         "wd:id":"Q1014010",
         "wk:page":"Tarim, Yemen"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421197269,
-    "wof:lastmodified":1563351133,
+    "wof:lastmodified":1566660448,
     "wof:name":"\u062a\u0631\u064a\u0645",
     "wof:parent_id":1091923229,
     "wof:placetype":"locality",

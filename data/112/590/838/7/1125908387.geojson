@@ -9,15 +9,18 @@
     "geom:bbox":"44.60656,17.33169,44.60656,17.33169",
     "geom:latitude":17.33169,
     "geom:longitude":44.60656,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":69,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":69,
     "iso:country":"YE",
+    "lbl:bbox":"44.58656,17.31169,44.62656,17.35169",
     "lbl:latitude":17.33169,
     "lbl:longitude":44.60656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Al Buq\u2018"
@@ -28,7 +31,7 @@
     "name:eng_x_preferred":[
         "Albuq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Buqa\u2018"
     ],
     "qs_pg:aaroncc":"YE",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":56947,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125908387,
-    "wof:lastmodified":1509399925,
+    "wof:lastmodified":1566661494,
     "wof:name":"Al Buq\u2018",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

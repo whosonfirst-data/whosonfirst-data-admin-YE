@@ -11,10 +11,14 @@
     "geom:longitude":43.3792,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.3592,16.26737,43.3992,16.30737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0644\u0637\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7761191,
         "gp:id":1953570,
-        "qs:id":699181
+        "qs_pg:id":699181
     },
     "wof:country":"YE",
     "wof:created":1469052606,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890447809,
-    "wof:lastmodified":1505343619,
+    "wof:lastmodified":1566660492,
     "wof:name":"Al Mali\u0163ah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

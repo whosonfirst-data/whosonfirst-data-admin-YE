@@ -11,10 +11,14 @@
     "geom:longitude":43.35592,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.33592,16.17526,43.37592,16.21526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7633118,
         "gp:id":1953570,
-        "qs:id":695136
+        "qs_pg:id":695136
     },
     "wof:country":"YE",
     "wof:created":1469051480,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890423089,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566660828,
     "wof:name":"Al Jarb",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

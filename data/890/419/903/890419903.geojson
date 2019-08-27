@@ -11,10 +11,13 @@
     "geom:longitude":43.80927,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"YE",
+    "lbl:bbox":"43.80427,13.16631,43.81427,13.17631",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0647\u062c\u0645 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8069160,
-        "qs:id":753339
+        "qs_pg:id":753339
     },
     "wof:country":"YE",
     "wof:created":1469051306,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890419903,
-    "wof:lastmodified":1505343453,
+    "wof:lastmodified":1566661063,
     "wof:name":"Al Mahjam al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

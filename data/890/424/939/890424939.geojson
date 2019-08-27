@@ -11,10 +11,14 @@
     "geom:longitude":43.47994,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.45994,16.0242,43.49994,16.0642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7681915,
         "gp:id":1959128,
-        "qs:id":697029
+        "qs_pg:id":697029
     },
     "wof:country":"YE",
     "wof:created":1469051569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890424939,
-    "wof:lastmodified":1505343484,
+    "wof:lastmodified":1566660778,
     "wof:name":"Al Qaryah",
     "wof:parent_id":1091924033,
     "wof:placetype":"locality",

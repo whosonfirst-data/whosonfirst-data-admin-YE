@@ -11,10 +11,13 @@
     "geom:longitude":43.39929,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.39429,16.00145,43.40429,16.01145",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0646\u0632\u0639"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682701,
-        "qs:id":697380
+        "qs_pg:id":697380
     },
     "wof:country":"YE",
     "wof:created":1469052848,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890453273,
-    "wof:lastmodified":1505343650,
+    "wof:lastmodified":1566661008,
     "wof:name":"Al Muqniza\u2018",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

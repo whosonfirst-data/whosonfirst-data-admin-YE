@@ -11,10 +11,14 @@
     "geom:longitude":43.40768,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":27,
+    "gn:population":27,
     "iso:country":"YE",
+    "lbl:bbox":"43.38768,16.16775,43.42768,16.20775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Muq\u0101bil"
     ],
@@ -36,12 +40,12 @@
     "wof:concordances":{
         "gn:id":7656559,
         "gp:id":1953570,
-        "qs:id":696167
+        "qs_pg:id":696167
     },
     "wof:concordances_alt":{
         "gn:id":7656487,
         "gp:id":1959128,
-        "qs:id":696103
+        "qs_pg:id":696103
     },
     "wof:country":"YE",
     "wof:created":1469051563,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890424797,
-    "wof:lastmodified":1534379829,
+    "wof:lastmodified":1566660775,
     "wof:name":"Al Muq\u0101bil",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

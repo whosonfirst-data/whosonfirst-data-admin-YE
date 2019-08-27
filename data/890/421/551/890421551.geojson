@@ -11,10 +11,14 @@
     "geom:longitude":43.31,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.29,16.68061,43.33,16.72061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0632\u0645\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855129,
         "gp:id":1959134,
-        "qs:id":742051
+        "qs_pg:id":742051
     },
     "wof:country":"YE",
     "wof:created":1469051397,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421551,
-    "wof:lastmodified":1505343464,
+    "wof:lastmodified":1566661141,
     "wof:name":"Ar Ruzmah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

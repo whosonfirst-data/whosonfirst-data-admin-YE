@@ -11,10 +11,13 @@
     "geom:longitude":44.29414,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":67,
+    "gn:population":67,
     "iso:country":"YE",
+    "lbl:bbox":"44.28914,16.5488,44.29914,16.5588",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795165,
-        "qs:id":700929
+        "qs_pg:id":700929
     },
     "wof:country":"YE",
     "wof:created":1469051721,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890427849,
-    "wof:lastmodified":1505343502,
+    "wof:lastmodified":1566661353,
     "wof:name":"Al Qaryah al Wis\u0163\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

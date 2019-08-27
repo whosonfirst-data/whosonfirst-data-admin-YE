@@ -11,10 +11,14 @@
     "geom:longitude":43.42979,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.40979,16.80855,43.44979,16.84855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Jih\u0101d"
     ],
@@ -47,9 +51,11 @@
     "wof:concordances":{
         "gn:id":8069313,
         "gp:id":1959061,
-        "qs:id":744467,
-        "qs_pg:id":753488,
+        "qs_pg:id":744467,
         "wd:id":"Q20303392"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":753488
     },
     "wof:country":"YE",
     "wof:created":1469051365,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890420887,
-    "wof:lastmodified":1563353350,
+    "wof:lastmodified":1566661253,
     "wof:name":"Al Jih\u0101d",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

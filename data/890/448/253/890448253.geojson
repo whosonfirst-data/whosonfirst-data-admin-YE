@@ -11,10 +11,13 @@
     "geom:longitude":44.24988,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"44.24488,16.58823,44.25488,16.59823",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0645\u064a\u0633"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794874,
-        "qs:id":700655
+        "qs_pg:id":700655
     },
     "wof:country":"YE",
     "wof:created":1469052624,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890448253,
-    "wof:lastmodified":1505343622,
+    "wof:lastmodified":1566660710,
     "wof:name":"Al Kham\u012bs",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":45.55473,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"45.53473,14.44302,45.57473,14.48302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0631\u0639\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066874,
         "gp:id":1958975,
-        "qs:id":752905,
+        "qs_pg:id":752905,
         "wd:id":"Q20305316"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439681,
-    "wof:lastmodified":1563352267,
+    "wof:lastmodified":1566660848,
     "wof:name":"Al Far\u2018ah",
     "wof:parent_id":1091919451,
     "wof:placetype":"locality",

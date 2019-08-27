@@ -11,10 +11,14 @@
     "geom:longitude":43.68944,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.66944,16.12045,43.70944,16.16045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u062b\u064a\u0642"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7928251,
         "gp:id":1959128,
-        "qs:id":745687,
+        "qs_pg:id":745687,
         "wd:id":"Q20309521"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419497,
-    "wof:lastmodified":1563352797,
+    "wof:lastmodified":1566661050,
     "wof:name":"Wath\u012bq",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

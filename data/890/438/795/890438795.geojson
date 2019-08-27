@@ -11,10 +11,14 @@
     "geom:longitude":44.80292,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.78292,16.11064,44.82292,16.15064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Miry\u016bs"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7890588,
         "gp:id":1958950,
-        "qs:id":744008
+        "qs_pg:id":744008
     },
     "wof:country":"YE",
     "wof:created":1469052210,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890438795,
-    "wof:lastmodified":1505343567,
+    "wof:lastmodified":1566660965,
     "wof:name":"Al Miry\u016bs",
     "wof:parent_id":1091920547,
     "wof:placetype":"locality",

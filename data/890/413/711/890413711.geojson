@@ -11,10 +11,13 @@
     "geom:longitude":43.30307,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.29807,17.36212,43.30807,17.37212",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0631\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7856644,
-        "qs:id":742560
+        "qs_pg:id":742560
     },
     "wof:country":"YE",
     "wof:created":1469051011,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890413711,
-    "wof:lastmodified":1505343415,
+    "wof:lastmodified":1566660620,
     "wof:name":"Al Maqrin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

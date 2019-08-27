@@ -11,10 +11,13 @@
     "geom:longitude":43.63352,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.62852,16.20965,43.63852,16.21965",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0628\u0648 \u0633\u0628\u0639\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020384,
-        "qs:id":749741
+        "qs_pg:id":749741
     },
     "wof:country":"YE",
     "wof:created":1469051292,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890419567,
-    "wof:lastmodified":1505343451,
+    "wof:lastmodified":1566661036,
     "wof:name":"Bayt Ab\u016b Sab\u2018ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

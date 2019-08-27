@@ -11,10 +11,14 @@
     "geom:longitude":46.00026,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":111,
+    "gn:population":111,
     "iso:country":"YE",
+    "lbl:bbox":"45.98026,14.50247,46.02026,14.54247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u062f\u064a\u0645\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8066892,
         "gp:id":1959048,
-        "qs:id":752922
+        "qs_pg:id":752922
     },
     "wof:country":"YE",
     "wof:created":1469052683,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890449325,
-    "wof:lastmodified":1505343628,
+    "wof:lastmodified":1566660523,
     "wof:name":"Al Kudaymah",
     "wof:parent_id":1091926157,
     "wof:placetype":"locality",

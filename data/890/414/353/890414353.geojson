@@ -11,10 +11,14 @@
     "geom:longitude":43.72122,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.70122,16.04409,43.74122,16.08409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0647\u0628 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8020488,
         "gp:id":1959046,
-        "qs:id":749840,
+        "qs_pg:id":749840,
         "wd:id":"Q20301346"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414353,
-    "wof:lastmodified":1563351623,
+    "wof:lastmodified":1566660623,
     "wof:name":"Ar Rahab al Asfal",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

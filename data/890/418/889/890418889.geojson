@@ -11,10 +11,14 @@
     "geom:longitude":43.47067,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.45067,16.07946,43.49067,16.11946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0641\u064a\u0644\u0627 \u0634\u0639\u0628 \u0627\u0644\u0639\u0631\u062c"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_variant":[
         "Aby\u0101t \u1e28\u0101tim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u2018Araj"
     ],
     "qs:name":"\u1e28ufayl\u0101 Sha\u2018b al \u2018Araj",
@@ -48,9 +52,11 @@
     "wof:concordances":{
         "gn:id":7856534,
         "gp:id":1959128,
-        "qs:id":696510,
-        "qs_pg:id":742456,
+        "qs_pg:id":696510,
         "wd:id":"Q20305990"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":742456
     },
     "wof:country":"YE",
     "wof:created":1469051265,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890418889,
-    "wof:lastmodified":1563353428,
+    "wof:lastmodified":1566661284,
     "wof:name":"\u1e28ufayl\u0101 Sha\u2018b al \u2018Araj",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

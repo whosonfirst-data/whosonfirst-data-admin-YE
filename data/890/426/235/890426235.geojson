@@ -11,10 +11,14 @@
     "geom:longitude":46.84093,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":156,
+    "gn:population":156,
     "iso:country":"YE",
+    "lbl:bbox":"46.82093,14.49852,46.86093,14.53852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u064a\u0628\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7890466,
         "gp:id":12523001,
-        "qs:id":743894
+        "qs_pg:id":743894
     },
     "wof:country":"YE",
     "wof:created":1469051624,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426235,
-    "wof:lastmodified":1505343492,
+    "wof:lastmodified":1566661104,
     "wof:name":"Al Kuraybah",
     "wof:parent_id":1091926023,
     "wof:placetype":"locality",

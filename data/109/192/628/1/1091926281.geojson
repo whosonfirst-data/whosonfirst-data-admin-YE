@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.574027,
     "lbl:longitude":53.553551,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Socotra",
     "meso:admin1_loc":"\u0633\u0642\u0637\u0631\u0649",
     "meso:dissme":"SocotraQulensya Wa Abd Al Kuri",
@@ -32,6 +34,7 @@
     "mps:longitude":53.553551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qulensya Wa Abd Al Kuri"
     ],
@@ -39,9 +42,9 @@
         "Qulensya Wa Abd Al Kuri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1091926281,
-    "wof:lastmodified":1553718006,
+    "wof:lastmodified":1566660249,
     "wof:name":"Qulensya Wa Abd Al Kuri",
     "wof:parent_id":-1,
     "wof:placetype":"county",

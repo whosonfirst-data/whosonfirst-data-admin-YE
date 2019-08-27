@@ -11,11 +11,14 @@
     "geom:longitude":43.19584,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":41,
+    "gn:population":41,
     "iso:country":"YE",
+    "lbl:bbox":"43.19084,15.99848,43.20084,16.00848",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "\u0627\u0644\u0634\u0645\u0627\u0644\u0629"
     ],
     "qs:name":"Ash Sham\u0101lah",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631381,
-        "qs:id":694382
+        "qs_pg:id":694382
     },
     "wof:country":"YE",
     "wof:created":1469051543,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890424395,
-    "wof:lastmodified":1505343481,
+    "wof:lastmodified":1566660792,
     "wof:name":"Ash Sham\u0101lah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

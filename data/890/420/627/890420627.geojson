@@ -11,10 +11,14 @@
     "geom:longitude":44.33167,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"44.31167,16.54371,44.35167,16.58371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062c\u0627\u062f"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":8053270,
         "gp:id":1958965,
-        "qs:id":700984,
+        "qs_pg:id":700984
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":751699
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890420627,
-    "wof:lastmodified":1505343458,
+    "wof:lastmodified":1566661255,
     "wof:name":"An Naj\u0101d",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

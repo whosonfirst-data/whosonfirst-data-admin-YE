@@ -11,10 +11,14 @@
     "geom:longitude":44.2302,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.2102,16.83328,44.2502,16.87328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0644\u064a\u062f\u064a\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7753588,
         "gp:id":1959135,
-        "qs:id":698478,
+        "qs_pg:id":698478,
         "wd:id":"Q20305434"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447199,
-    "wof:lastmodified":1563351234,
+    "wof:lastmodified":1566660483,
     "wof:name":"Al Khulayd\u012byah",
     "wof:parent_id":1091925391,
     "wof:placetype":"locality",

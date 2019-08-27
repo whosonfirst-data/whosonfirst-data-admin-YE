@@ -11,10 +11,13 @@
     "geom:longitude":44.47494,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"44.46994,16.64986,44.47994,16.65986",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0636 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795398,
-        "qs:id":701159
+        "qs_pg:id":701159
     },
     "wof:country":"YE",
     "wof:created":1469052850,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890453329,
-    "wof:lastmodified":1505343650,
+    "wof:lastmodified":1566661031,
     "wof:name":"Al Gha\u1e11\u1e11 al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

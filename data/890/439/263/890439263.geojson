@@ -11,10 +11,14 @@
     "geom:longitude":43.66159,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.64159,16.08442,43.68159,16.12442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0643\u0648\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8020426,
         "gp:id":1959128,
-        "qs:id":749781,
+        "qs_pg:id":749781,
         "wd:id":"Q20299854"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439263,
-    "wof:lastmodified":1563352367,
+    "wof:lastmodified":1566660880,
     "wof:name":"Bayt al Kawlah",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

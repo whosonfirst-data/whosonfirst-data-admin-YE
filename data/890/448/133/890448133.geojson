@@ -11,10 +11,14 @@
     "geom:longitude":44.12191,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"44.10191,17.01869,44.14191,17.05869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u062c\u0631"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":7788951,
         "gp:id":1959086,
-        "qs:id":700304,
+        "qs_pg:id":700304,
         "wd:id":"Q4704353",
         "wk:page":"Al Mahjar"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890448133,
-    "wof:lastmodified":1563351777,
+    "wof:lastmodified":1566660675,
     "wof:name":"Al Ma\u1e29jar",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

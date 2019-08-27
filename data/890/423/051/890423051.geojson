@@ -11,10 +11,14 @@
     "geom:longitude":43.36178,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.34178,16.1597,43.38178,16.1997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0648\u0645\u0629"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":7855035,
         "gp:id":1953570,
-        "qs:id":695025,
+        "qs_pg:id":695025
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":741968
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890423051,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566660837,
     "wof:name":"Al Kawmah",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

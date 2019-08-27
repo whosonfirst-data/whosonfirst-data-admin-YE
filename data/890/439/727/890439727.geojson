@@ -11,10 +11,14 @@
     "geom:longitude":45.43659,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"45.41659,14.67392,45.45659,14.71392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0645"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":8053255,
         "gp:id":1958975,
-        "qs:id":751684,
+        "qs_pg:id":751684,
         "wd:id":"Q20302779"
     },
     "wof:concordances_alt":{
         "gn:id":8053235,
-        "qs:id":751666
+        "qs_pg:id":751666
     },
     "wof:country":"YE",
     "wof:created":1469052247,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890439727,
-    "wof:lastmodified":1563352381,
+    "wof:lastmodified":1566660885,
     "wof:name":"As Sammam",
     "wof:parent_id":1091925025,
     "wof:placetype":"locality",

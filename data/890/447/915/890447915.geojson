@@ -11,10 +11,14 @@
     "geom:longitude":43.40164,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":19,
+    "gn:population":19,
     "iso:country":"YE",
+    "lbl:bbox":"43.38164,16.26231,43.42164,16.30231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0641\u0644\u0637\u062d"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7779388,
         "gp:id":1953570,
-        "qs:id":699571
+        "qs_pg:id":699571
     },
     "wof:country":"YE",
     "wof:created":1469052610,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890447915,
-    "wof:lastmodified":1505343620,
+    "wof:lastmodified":1566660475,
     "wof:name":"Al Mufli\u0163a\u1e29",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

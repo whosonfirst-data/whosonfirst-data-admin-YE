@@ -11,11 +11,14 @@
     "geom:longitude":43.19861,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.19361,15.99855,43.20361,16.00855",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "\u062d\u0627\u0631\u0629 \u0627\u0644\u0642\u0638\u0629"
     ],
     "qs:name":"\u1e28\u0101rat al Qiz\u0327ah",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631376,
-        "qs:id":694377
+        "qs_pg:id":694377
     },
     "wof:country":"YE",
     "wof:created":1469051204,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890417451,
-    "wof:lastmodified":1505343438,
+    "wof:lastmodified":1566661221,
     "wof:name":"\u1e28\u0101rat al Qiz\u0327ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

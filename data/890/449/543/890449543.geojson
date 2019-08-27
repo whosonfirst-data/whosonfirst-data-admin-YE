@@ -11,10 +11,14 @@
     "geom:longitude":43.77221,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.75221,13.43638,43.79221,13.47638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0632\u0628\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al \u1e28amr\u0101t"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Ma\u2018zabah"
     ],
     "qs:name":"Al Ma\u2018zibah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8075725,
         "gp:id":1959049,
-        "qs:id":754310,
+        "qs_pg:id":754310,
         "wd:id":"Q20306197"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890449543,
-    "wof:lastmodified":1563351344,
+    "wof:lastmodified":1566660521,
     "wof:name":"Al Ma\u2018zibah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

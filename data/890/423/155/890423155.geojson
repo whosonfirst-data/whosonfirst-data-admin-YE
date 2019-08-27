@@ -11,10 +11,13 @@
     "geom:longitude":43.40473,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.39973,16.01965,43.40973,16.02965",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682607,
-        "qs:id":697293
+        "qs_pg:id":697293
     },
     "wof:country":"YE",
     "wof:created":1469051483,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423155,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660827,
     "wof:name":"Bayt ash Sharq\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

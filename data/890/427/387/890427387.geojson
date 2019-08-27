@@ -11,10 +11,14 @@
     "geom:longitude":43.28534,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.26534,17.45472,43.30534,17.49472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u062a\u0635\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856538,
         "gp:id":56447933,
-        "qs:id":742460,
+        "qs_pg:id":742460,
         "wd:id":"Q20302055"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427387,
-    "wof:lastmodified":1563353643,
+    "wof:lastmodified":1566661363,
     "wof:name":"Al Mughta\u015f\u015fib",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.68527,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.66527,16.02094,43.70527,16.06094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0631\u0628\u0629"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8020660,
         "gp:id":1959046,
-        "qs:id":750002,
+        "qs_pg:id":750002,
         "wd:id":"Q4117504",
         "wk:page":"Al Maghrabah District"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890449103,
-    "wof:lastmodified":1563351301,
+    "wof:lastmodified":1566660506,
     "wof:name":"Al Maghrabah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

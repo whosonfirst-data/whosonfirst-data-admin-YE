@@ -11,10 +11,13 @@
     "geom:longitude":44.33843,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.33343,16.7528,44.34343,16.7628",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "As Sinn\u012bn"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794923,
-        "qs:id":700700
+        "qs_pg:id":700700
     },
     "wof:country":"YE",
     "wof:created":1469051273,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890419117,
-    "wof:lastmodified":1505343448,
+    "wof:lastmodified":1566661060,
     "wof:name":"As Sinn\u012bn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

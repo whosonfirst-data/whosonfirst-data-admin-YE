@@ -11,10 +11,13 @@
     "geom:longitude":43.40298,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.39798,16.01995,43.40798,16.02995",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0647\u064a\u062c\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682610,
-        "qs:id":697296
+        "qs_pg:id":697296
     },
     "wof:country":"YE",
     "wof:created":1469051484,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423161,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660809,
     "wof:name":"Bayt al Hayjah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

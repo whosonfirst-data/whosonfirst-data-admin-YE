@@ -11,10 +11,14 @@
     "geom:longitude":43.39554,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.37554,16.22593,43.41554,16.26593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0630\u0631\u0627\u0639 \u0627\u0644\u0634\u0639\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7656503,
         "gp:id":1953570,
-        "qs:id":696118
+        "qs_pg:id":696118
     },
     "wof:country":"YE",
     "wof:created":1469052955,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455503,
-    "wof:lastmodified":1505343664,
+    "wof:lastmodified":1566660926,
     "wof:name":"Dhir\u0101\u2018 ash Sha\u2018b",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

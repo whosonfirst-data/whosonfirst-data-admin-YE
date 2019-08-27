@@ -11,10 +11,14 @@
     "geom:longitude":44.31252,
     "gn:country":"YE",
     "gn:fcode":"PPLA2",
-    "gn:pop":100,
+    "gn:population":100,
     "iso:country":"YE",
+    "lbl:bbox":"44.29252,16.70188,44.33252,16.74188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u0644\u0639\u0646\u0627\u0646"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_preferred":[
         "Al 'Anan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u016bq al \u2018In\u0101n"
     ],
     "qs:name":"Al \u2018An\u0101n",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":70346,
         "gp:id":1959135,
-        "qs:id":59598,
+        "qs_pg:id":59598,
         "wd:id":"Q12225701",
         "wk:page":"Bart Al Anan District"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890449745,
-    "wof:lastmodified":1527727158,
+    "wof:lastmodified":1566660541,
     "wof:name":"Al \u2018An\u0101n",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

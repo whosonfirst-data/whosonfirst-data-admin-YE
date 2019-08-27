@@ -11,10 +11,14 @@
     "geom:longitude":45.4129,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"45.3929,14.238,45.4329,14.278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0627\u0644\u0639\u0632"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051926,
         "gp:id":1958988,
-        "qs:id":751304,
+        "qs_pg:id":751304,
         "wd:id":"Q20306127"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890421319,
-    "wof:lastmodified":1563353114,
+    "wof:lastmodified":1566661168,
     "wof:name":"Jabal al \u2018Uzz",
     "wof:parent_id":1091919237,
     "wof:placetype":"locality",

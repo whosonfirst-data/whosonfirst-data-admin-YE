@@ -11,10 +11,14 @@
     "geom:longitude":43.19556,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.17556,16.59807,43.21556,16.63807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062e\u062f\u0648\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8079415,
         "gp:id":1938881,
-        "qs:id":754798,
+        "qs_pg:id":754798,
         "wd:id":"Q20307455"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890421257,
-    "wof:lastmodified":1563353059,
+    "wof:lastmodified":1566661148,
     "wof:name":"Al Makhd\u016br",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

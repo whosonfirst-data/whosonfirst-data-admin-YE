@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.998834,
     "lbl:longitude":43.926991,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0635\u0639\u062f\u0629",
     "mps:latitude":16.996311,
     "mps:longitude":44.016314,
@@ -209,7 +210,7 @@
         "Sadah"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba4\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0b9a\u0bbe\u0ba4\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c26\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -227,9 +228,6 @@
         "\u0421\u0430\u0430\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "\u0635\u0639\u062f\u0629"
-    ],
-    "name:unk_x_variant":[
         "Liw\u0101\u2019 el-Qiblah"
     ],
     "name:urd_x_preferred":[
@@ -316,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"12,370",
     "statoids:area_mi":"4,780",
     "statoids:as_of_date":"2004-12-01",
@@ -345,7 +343,7 @@
         "gp:id":20070038,
         "hasc:id":"YE.SD",
         "iso:id":"YE-SD",
-        "qs:id":332052,
+        "qs_pg:id":332052,
         "wd:id":"Q275732"
     },
     "wof:country":"YE",
@@ -364,11 +362,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739832,
+    "wof:lastmodified":1566658458,
     "wof:name":"Sa`dah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":695033,
     "wof:population_rank":11,

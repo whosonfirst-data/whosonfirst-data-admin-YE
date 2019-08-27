@@ -11,10 +11,14 @@
     "geom:longitude":43.26981,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.24981,16.09361,43.28981,16.13361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0643"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7632223,
         "gp:id":1958927,
-        "qs:id":694811,
+        "qs_pg:id":694811,
         "wd:id":"Q20299610"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890424633,
-    "wof:lastmodified":1563352082,
+    "wof:lastmodified":1566660784,
     "wof:name":"Al Mashshak",
     "wof:parent_id":1091923743,
     "wof:placetype":"locality",

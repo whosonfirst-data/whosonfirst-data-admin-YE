@@ -9,15 +9,18 @@
     "geom:bbox":"42.91608,16.25762,42.91608,16.25762",
     "geom:latitude":16.25762,
     "geom:longitude":42.91608,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"42.89608,16.23762,42.93608,16.27762",
     "lbl:latitude":16.25762,
     "lbl:longitude":42.91608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0639\u0642\u064a\u0644"
@@ -27,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Al Jar\u0101bi\u1e29ah"
-    ],
-    "name:unk_x_variant":[
-        "\u0628\u0646\u064a \u0639\u0642\u064a\u0644"
     ],
     "qs_pg:aaroncc":"YE",
     "qs_pg:gn_country":"YE",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":694051,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126020301,
-    "wof:lastmodified":1563353826,
+    "wof:lastmodified":1566661437,
     "wof:name":"Ban\u012b \u2018Aq\u012bl",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

@@ -11,14 +11,17 @@
     "geom:longitude":42.73989,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":66,
+    "gn:population":66,
     "iso:country":"YE",
+    "lbl:bbox":"42.73489,15.53272,42.74489,15.54272",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0632\u0627\u0632"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Mijz\u0101z"
     ],
     "qs:name":"Al Majz\u0101z",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8026147,
-        "qs:id":750688
+        "qs_pg:id":750688
     },
     "wof:country":"YE",
     "wof:created":1469051644,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890426731,
-    "wof:lastmodified":1505343495,
+    "wof:lastmodified":1566661095,
     "wof:name":"Al Majz\u0101z",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

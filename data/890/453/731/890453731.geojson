@@ -11,10 +11,13 @@
     "geom:longitude":44.24934,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":26,
+    "gn:population":26,
     "iso:country":"YE",
+    "lbl:bbox":"44.24434,16.59,44.25434,16.6",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0645\u0627\u0645\u0644\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794880,
-        "qs:id":700661
+        "qs_pg:id":700661
     },
     "wof:country":"YE",
     "wof:created":1469052870,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890453731,
-    "wof:lastmodified":1505343653,
+    "wof:lastmodified":1566661006,
     "wof:name":"Al Qim\u0101milah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

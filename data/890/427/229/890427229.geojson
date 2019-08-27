@@ -11,10 +11,14 @@
     "geom:longitude":43.24631,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.22631,16.6821,43.26631,16.7221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u0642\u064a\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8079431,
         "gp:id":1938881,
-        "qs:id":754813
+        "qs_pg:id":754813
     },
     "wof:country":"YE",
     "wof:created":1469051684,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427229,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566661324,
     "wof:name":"Al \u2018Arqayn",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

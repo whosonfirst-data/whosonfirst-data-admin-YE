@@ -11,10 +11,14 @@
     "geom:longitude":43.40593,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.38593,16.30552,43.42593,16.34552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Adh Dh\u0101r\u00e1"
     ],
@@ -45,9 +49,11 @@
     "wof:concordances":{
         "gn:id":7783264,
         "gp:id":1953570,
-        "qs:id":700151,
         "qs_pg:id":699917,
         "wd:id":"Q20301052"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":700151
     },
     "wof:country":"YE",
     "wof:created":1469051583,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890425283,
-    "wof:lastmodified":1563351492,
+    "wof:lastmodified":1566660577,
     "wof:name":"Adh Dh\u0101r\u00e1",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

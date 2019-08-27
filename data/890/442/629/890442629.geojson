@@ -11,10 +11,13 @@
     "geom:longitude":43.64222,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.63722,16.20479,43.64722,16.21479",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0645\u0631\u0648\u0627\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928160,
-        "qs:id":745597
+        "qs_pg:id":745597
     },
     "wof:country":"YE",
     "wof:created":1469052370,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890442629,
-    "wof:lastmodified":1505343589,
+    "wof:lastmodified":1566661370,
     "wof:name":"Bayt Marw\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

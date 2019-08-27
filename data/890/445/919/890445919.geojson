@@ -11,10 +11,14 @@
     "geom:longitude":43.27556,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.25556,15.99955,43.29556,16.03955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u062a\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7632392,
         "gp:id":1958568,
-        "qs:id":694941,
+        "qs_pg:id":694941,
         "wd:id":"Q20304789"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890445919,
-    "wof:lastmodified":1563353726,
+    "wof:lastmodified":1566661397,
     "wof:name":"Al Bayyitah",
     "wof:parent_id":1091923743,
     "wof:placetype":"locality",

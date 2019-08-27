@@ -11,10 +11,13 @@
     "geom:longitude":44.36999,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.36499,16.66782,44.37499,16.67782",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u062c\u0645"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795274,
-        "qs:id":701036
+        "qs_pg:id":701036
     },
     "wof:country":"YE",
     "wof:created":1469051027,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890413953,
-    "wof:lastmodified":1505343417,
+    "wof:lastmodified":1566660596,
     "wof:name":"Al Lujm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

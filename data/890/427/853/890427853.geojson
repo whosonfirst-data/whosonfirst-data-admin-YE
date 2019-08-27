@@ -11,10 +11,14 @@
     "geom:longitude":44.29557,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":31,
+    "gn:population":31,
     "iso:country":"YE",
+    "lbl:bbox":"44.27557,16.52891,44.31557,16.56891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062c\u062f"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7795167,
         "gp:id":1958965,
-        "qs:id":700931,
+        "qs_pg:id":700931,
         "wd:id":"Q4750153",
         "wk:page":"An Najd"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890427853,
-    "wof:lastmodified":1563353624,
+    "wof:lastmodified":1566661358,
     "wof:name":"An Najd",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":12.784348,
     "geom:longitude":45.03004,
     "iso:country":"YE",
+    "lbl:bbox":"45.01004,12.764348,45.05004,12.804348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1959087,
-        "qs:id":1119716
+        "qs_pg:id":1119716
     },
     "wof:country":"YE",
     "wof:created":1459009427,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421184929,
-    "wof:lastmodified":1500035576,
+    "wof:lastmodified":1566660449,
     "wof:name":"Kraytar",
     "wof:parent_id":1091918873,
     "wof:placetype":"locality",

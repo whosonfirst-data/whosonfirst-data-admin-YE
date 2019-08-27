@@ -11,10 +11,14 @@
     "geom:longitude":43.3629,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"43.3429,16.02315,43.3829,16.06315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0628\u062e"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7654680,
         "gp:id":1958568,
-        "qs:id":695975
+        "qs_pg:id":695975
     },
     "wof:country":"YE",
     "wof:created":1469051559,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890424715,
-    "wof:lastmodified":1505343483,
+    "wof:lastmodified":1566660790,
     "wof:name":"Al Murbakh",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

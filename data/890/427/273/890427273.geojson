@@ -11,10 +11,14 @@
     "geom:longitude":43.35638,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.33638,17.13091,43.37638,17.17091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0645\u064a\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7865266,
         "gp:id":1959094,
-        "qs:id":742892,
+        "qs_pg:id":742892,
         "wd:id":"Q20305622"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427273,
-    "wof:lastmodified":1563353533,
+    "wof:lastmodified":1566661326,
     "wof:name":"Al Gham\u012br",
     "wof:parent_id":1091925445,
     "wof:placetype":"locality",

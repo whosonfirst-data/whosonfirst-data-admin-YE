@@ -11,10 +11,14 @@
     "geom:longitude":43.39909,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.37909,16.80481,43.41909,16.84481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0644\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7900516,
         "gp:id":1959061,
-        "qs:id":744283,
+        "qs_pg:id":744283,
         "wd:id":"Q20299148"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426299,
-    "wof:lastmodified":1563353020,
+    "wof:lastmodified":1566661134,
     "wof:name":"Khawl\u012b",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

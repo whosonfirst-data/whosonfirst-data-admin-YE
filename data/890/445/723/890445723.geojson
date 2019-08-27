@@ -11,12 +11,15 @@
     "geom:longitude":42.90713,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u0627\u0644\u0628\u0639\u0627\u064a\u0631\u0629"
     ],
     "qs:name":"Al Ma\u2018\u0101yirah",
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7622244,
         "gp:id":1959063,
-        "qs:id":694002
+        "qs_pg:id":694002
     },
     "wof:country":"YE",
     "wof:created":1469052520,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890445723,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566661388,
     "wof:name":"Al Ma\u2018\u0101yirah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.074588,
     "lbl:longitude":43.154863,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Al Hudaydah",
     "meso:admin1_loc":"\u0627\u0644\u062d\u062f\u064a\u062f\u0629",
     "meso:dissme":"Al HudaydahBajil",
@@ -32,6 +34,7 @@
     "mps:longitude":43.154863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "B\u0101jil"
@@ -67,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434\u0436\u0438\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101gil"
     ],
     "name:urd_x_preferred":[
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         "gn:id":77408,
         "gp:id":56189928,
         "hasc:id":"YE.HU.BA",
-        "qs:id":972337,
+        "qs_pg:id":972337,
         "wd:id":"Q2217814"
     },
     "wof:country":"YE",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421183315,
-    "wof:lastmodified":1563351136,
+    "wof:lastmodified":1566660449,
     "wof:name":"Bajil",
     "wof:parent_id":85680959,
     "wof:placetype":"county",

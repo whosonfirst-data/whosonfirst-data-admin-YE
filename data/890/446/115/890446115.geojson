@@ -11,10 +11,14 @@
     "geom:longitude":43.45519,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.43519,16.14208,43.47519,16.18208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0648\u0644\u0629"
     ],
@@ -49,10 +53,12 @@
     "wof:concordances":{
         "gn:id":7656539,
         "gp:id":1959128,
-        "qs:id":696276,
         "qs_pg:id":696147,
         "wd:id":"Q4702672",
         "wk:page":"Al-Kawlah"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":696276
     },
     "wof:country":"YE",
     "wof:created":1469052539,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890446115,
-    "wof:lastmodified":1563352025,
+    "wof:lastmodified":1566660763,
     "wof:name":"Al Kawlah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

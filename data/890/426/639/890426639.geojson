@@ -11,10 +11,14 @@
     "geom:longitude":43.67789,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.65789,16.01176,43.69789,16.05176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062c\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8020625,
         "gp:id":1959046,
-        "qs:id":749969
+        "qs_pg:id":749969
     },
     "wof:country":"YE",
     "wof:created":1469051640,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426639,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661131,
     "wof:name":"Ar Rajjah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

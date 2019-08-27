@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.316137,
     "lbl:longitude":44.507086,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lahj",
     "meso:admin1_loc":"\u0644\u062d\u062c",
     "meso:dissme":"LahjAl Qabbaytah",
@@ -32,6 +34,7 @@
     "mps:longitude":44.507086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0642\u0628\u064a\u0637\u0629"
     ],
@@ -63,9 +66,9 @@
         "Al Qabbaytah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091924859,
-    "wof:lastmodified":1563350797,
+    "wof:lastmodified":1566660248,
     "wof:name":"Al Qabbaytah",
     "wof:parent_id":85680985,
     "wof:placetype":"county",

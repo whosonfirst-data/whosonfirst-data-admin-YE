@@ -11,10 +11,14 @@
     "geom:longitude":43.85743,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.83743,13.32872,43.87743,13.36872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0628\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8069064,
         "gp:id":1957662,
-        "qs:id":753244,
+        "qs_pg:id":753244,
         "wd:id":"Q20304936",
         "wk:page":"Al Kharabah, Jizan"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428451,
-    "wof:lastmodified":1563353196,
+    "wof:lastmodified":1566661197,
     "wof:name":"Al Kharabah",
     "wof:parent_id":1091926297,
     "wof:placetype":"locality",

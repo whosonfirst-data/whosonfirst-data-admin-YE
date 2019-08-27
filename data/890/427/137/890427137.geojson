@@ -11,10 +11,14 @@
     "geom:longitude":43.89575,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.87575,13.15613,43.91575,13.19613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al \u1e28\u0101jib"
     ],
@@ -42,12 +46,12 @@
     "wof:concordances":{
         "gn:id":8071385,
         "gp:id":1958962,
-        "qs:id":753781,
+        "qs_pg:id":753781,
         "wd:id":"Q20299590"
     },
     "wof:concordances_alt":{
         "gn:id":8071395,
-        "qs:id":753791
+        "qs_pg:id":753791
     },
     "wof:country":"YE",
     "wof:created":1469051677,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890427137,
-    "wof:lastmodified":1563353598,
+    "wof:lastmodified":1566661349,
     "wof:name":"Al \u1e28\u0101jib",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

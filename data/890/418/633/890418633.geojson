@@ -11,10 +11,14 @@
     "geom:longitude":42.89592,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":37,
+    "gn:population":37,
     "iso:country":"YE",
+    "lbl:bbox":"42.87592,16.20649,42.91592,16.24649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Al Ghurayb al W\u0101si\u0163"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0633\u0648\u064a\u062f"
     ],
     "qs:name":"As Suwayd",
     "qs:photos_9r":0,
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7622379,
         "gp:id":1959100,
-        "qs:id":694046,
+        "qs_pg:id":694046,
         "wd:id":"Q20303609",
         "wk:page":"Suwayd"
     },
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":890418633,
-    "wof:lastmodified":1563353437,
+    "wof:lastmodified":1566661288,
     "wof:name":"As Suwayd",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

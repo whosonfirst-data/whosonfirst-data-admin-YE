@@ -11,10 +11,14 @@
     "geom:longitude":45.451,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"45.431,14.9047,45.471,14.9447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644 \u0645\u062d\u0641\u0648\u0638"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":8053519,
         "gp:id":1959055,
-        "qs:id":751777,
-        "qs_pg:id":751934,
+        "qs_pg:id":751777,
         "wd:id":"Q20306934"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":751934
     },
     "wof:country":"YE",
     "wof:created":1469052372,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890442681,
-    "wof:lastmodified":1563353657,
+    "wof:lastmodified":1566661369,
     "wof:name":"\u0100l Ma\u1e29f\u016bz\u0327",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

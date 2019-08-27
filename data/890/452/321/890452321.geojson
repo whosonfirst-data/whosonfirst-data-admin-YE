@@ -11,10 +11,14 @@
     "geom:longitude":45.21513,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"45.19513,14.28663,45.23513,14.32663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0634\u064a\u062f\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051701,
         "gp:id":1958975,
-        "qs:id":751087,
+        "qs_pg:id":751087,
         "wd:id":"Q20302245"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890452321,
-    "wof:lastmodified":1563352475,
+    "wof:lastmodified":1566660921,
     "wof:name":"Arsh\u012bdah",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

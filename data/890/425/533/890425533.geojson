@@ -11,10 +11,14 @@
     "geom:longitude":44.45712,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"44.43712,16.79048,44.47712,16.83048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0646\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al Kha\u1e11r\u0101\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Jannah"
     ],
     "qs:name":"Al Jinnah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7794944,
         "gp:id":1959135,
-        "qs:id":700720,
+        "qs_pg:id":700720,
         "wd:id":"Q20303489"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890425533,
-    "wof:lastmodified":1563351415,
+    "wof:lastmodified":1566660548,
     "wof:name":"Al Jinnah",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

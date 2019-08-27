@@ -11,10 +11,14 @@
     "geom:longitude":43.39561,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.37561,16.29577,43.41561,16.33577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062f\u0627\u0648\u062f"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "\u0100l R\u0101qi\u2018"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayt D\u0101wud"
     ],
     "qs:name":"Bayt D\u0101wad",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7783482,
         "gp:id":1953570,
-        "qs:id":700136,
+        "qs_pg:id":700136,
         "wd:id":"Q20300334"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890425259,
-    "wof:lastmodified":1563351445,
+    "wof:lastmodified":1566660559,
     "wof:name":"Bayt D\u0101wad",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

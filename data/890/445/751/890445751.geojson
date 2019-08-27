@@ -11,10 +11,14 @@
     "geom:longitude":43.00082,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"YE",
+    "lbl:bbox":"42.98082,16.2297,43.02082,16.2697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0646\u0627\u064a\u0640\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al Mak\u1e29aylah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Bin\u0101yah"
     ],
     "qs:name":"Al Ban\u0101yah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7622263,
         "gp:id":1959063,
-        "qs:id":694020,
+        "qs_pg:id":694020,
         "wd:id":"Q20304424"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890445751,
-    "wof:lastmodified":1563353708,
+    "wof:lastmodified":1566661389,
     "wof:name":"Al Ban\u0101yah",
     "wof:parent_id":1091923925,
     "wof:placetype":"locality",

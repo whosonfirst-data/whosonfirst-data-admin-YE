@@ -11,10 +11,14 @@
     "geom:longitude":45.12426,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.10426,14.77116,45.14426,14.81116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0645\u0631\u064a\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053514,
         "gp:id":1958975,
-        "qs:id":751929,
+        "qs_pg:id":751929,
         "wd:id":"Q20300796"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414553,
-    "wof:lastmodified":1563351707,
+    "wof:lastmodified":1566660652,
     "wof:name":"An Namrayn",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",

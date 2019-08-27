@@ -11,10 +11,14 @@
     "geom:longitude":43.347,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.327,16.14066,43.367,16.18066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0643\u0629"
     ],
@@ -33,11 +37,11 @@
     "wof:concordances":{
         "gn:id":7632969,
         "gp:id":1953570,
-        "qs:id":694986
+        "qs_pg:id":694986
     },
     "wof:concordances_alt":{
         "gn:id":7631881,
-        "qs:id":694720
+        "qs_pg:id":694720
     },
     "wof:country":"YE",
     "wof:created":1469052528,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890445927,
-    "wof:lastmodified":1534379830,
+    "wof:lastmodified":1566661396,
     "wof:name":"Al Birkah",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

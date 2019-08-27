@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.454867,
     "lbl:longitude":43.268316,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Al Hudaydah",
     "meso:admin1_loc":"\u0627\u0644\u062d\u062f\u064a\u062f\u0629",
     "meso:dissme":"Al HudaydahBayt Al Faqiah",
@@ -32,6 +34,7 @@
     "mps:longitude":43.268316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0641\u0642\u064a\u0629"
@@ -87,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0442-\u0435\u043b\u044c-\u0424\u0430\u043a\u0456\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit Faqih"
     ],
     "name:urd_x_preferred":[
@@ -115,9 +118,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -143,7 +146,7 @@
         "gp:id":56189929,
         "hasc:id":"YE.HU.BF",
         "loc:id":"n81130649",
-        "qs:id":224053,
+        "qs_pg:id":224053,
         "wd:id":"Q579291",
         "wk:page":"Bayt al-Faqih"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421202517,
-    "wof:lastmodified":1563351127,
+    "wof:lastmodified":1566660446,
     "wof:name":"Bayt Al Faqiah",
     "wof:parent_id":85680959,
     "wof:placetype":"county",

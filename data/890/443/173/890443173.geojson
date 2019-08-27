@@ -11,11 +11,14 @@
     "geom:longitude":43.34532,
     "gn:country":"YE",
     "gn:fcode":"MKT",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0627\u0628 \u0633\u0648\u0642 \u0627\u0644\u062b\u0644\u0648\u062b"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7900655,
         "gp:id":1958992,
-        "qs:id":744426
+        "qs_pg:id":744426
     },
     "wof:country":"YE",
     "wof:created":1469052405,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890443173,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566661234,
     "wof:name":"Khar\u0101b S\u016bq ath Thal\u016bth",
     "wof:parent_id":1091925419,
     "wof:placetype":"locality",

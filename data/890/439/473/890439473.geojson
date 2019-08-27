@@ -11,10 +11,14 @@
     "geom:longitude":43.2155,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.1955,17.14857,43.2355,17.18857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0628\u064a\u0646\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8022182,
         "gp:id":1938607,
-        "qs:id":750342,
+        "qs_pg:id":750342,
         "wd:id":"Q20303644"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439473,
-    "wof:lastmodified":1563352348,
+    "wof:lastmodified":1566660874,
     "wof:name":"Al Jubaynah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

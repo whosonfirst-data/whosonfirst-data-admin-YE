@@ -11,10 +11,14 @@
     "geom:longitude":44.56487,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.54487,16.86309,44.58487,16.90309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0647\u0648\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7754606,
         "gp:id":1959135,
-        "qs:id":698611
+        "qs_pg:id":698611
     },
     "wof:country":"YE",
     "wof:created":1469052587,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890447323,
-    "wof:lastmodified":1505343616,
+    "wof:lastmodified":1566660475,
     "wof:name":"Ar Rahwah",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

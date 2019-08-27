@@ -11,10 +11,14 @@
     "geom:longitude":43.81103,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"43.79103,13.31919,43.83103,13.35919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0644\u064a\u0644 \u0627\u0644\u0623\u0639\u0644\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069090,
         "gp:id":1957662,
-        "qs:id":753269,
+        "qs_pg:id":753269,
         "wd:id":"Q20305588"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890453813,
-    "wof:lastmodified":1563352733,
+    "wof:lastmodified":1566661026,
     "wof:name":"Al Ghal\u012bl al A\u2018l\u00e1",
     "wof:parent_id":1091926297,
     "wof:placetype":"locality",

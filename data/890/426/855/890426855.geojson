@@ -11,10 +11,14 @@
     "geom:longitude":45.32815,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.30815,14.23951,45.34815,14.27951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0646\u0643\u0629"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8051936,
         "gp:id":1958988,
-        "qs:id":751314,
+        "qs_pg:id":751314,
         "wd:id":"Q4703974",
         "wk:page":"Al Hanakah"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890426855,
-    "wof:lastmodified":1563353016,
+    "wof:lastmodified":1566661133,
     "wof:name":"Al \u1e28anakah",
     "wof:parent_id":1091919055,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.38429,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"YE",
+    "lbl:bbox":"43.36429,16.30136,43.40429,16.34136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0628\u064a\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7783346,
         "gp:id":1953570,
-        "qs:id":699998
+        "qs_pg:id":699998
     },
     "wof:country":"YE",
     "wof:created":1469051348,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890420523,
-    "wof:lastmodified":1505343458,
+    "wof:lastmodified":1566661276,
     "wof:name":"Al Ghubayb",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

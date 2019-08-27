@@ -11,10 +11,13 @@
     "geom:longitude":43.81701,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.81201,17.03474,43.82201,17.04474",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u062f\u0629"
     ],
@@ -60,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7792628,
-        "qs:id":700429,
+        "qs_pg:id":700429,
         "wd:id":"Q4117524",
         "wk:page":"As Sudah District"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890425389,
-    "wof:lastmodified":1563351528,
+    "wof:lastmodified":1566660591,
     "wof:name":"As S\u016bdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

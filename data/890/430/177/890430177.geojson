@@ -11,10 +11,14 @@
     "geom:longitude":45.40973,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.38973,14.60653,45.42973,14.64653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0633\u0645\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053145,
         "gp:id":1958975,
-        "qs:id":751576,
+        "qs_pg:id":751576,
         "wd:id":"Q20301750"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890430177,
-    "wof:lastmodified":1563352403,
+    "wof:lastmodified":1566660893,
     "wof:name":"Ar Rasmah",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

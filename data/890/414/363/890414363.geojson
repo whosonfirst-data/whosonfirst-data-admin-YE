@@ -11,10 +11,14 @@
     "geom:longitude":43.70298,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.68298,16.06359,43.72298,16.10359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0639"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8020525,
         "gp:id":1959046,
-        "qs:id":749872
+        "qs_pg:id":749872
     },
     "wof:country":"YE",
     "wof:created":1469051045,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414363,
-    "wof:lastmodified":1505343419,
+    "wof:lastmodified":1566660626,
     "wof:name":"Ash Shar\u2018",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

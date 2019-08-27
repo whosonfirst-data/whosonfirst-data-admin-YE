@@ -11,10 +11,14 @@
     "geom:longitude":43.37384,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.35384,16.31831,43.39384,16.35831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u0627\u062c\u0629"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":7783360,
         "gp:id":1958967,
-        "qs:id":700012,
+        "qs_pg:id":700012,
         "wd:id":"Q20301960"
     },
     "wof:concordances_alt":{
         "gn:id":7783355,
-        "qs:id":700007
+        "qs_pg:id":700007
     },
     "wof:country":"YE",
     "wof:created":1469051350,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890420537,
-    "wof:lastmodified":1563353372,
+    "wof:lastmodified":1566661262,
     "wof:name":"Al \u2018Ar\u0101jah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

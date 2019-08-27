@@ -11,10 +11,14 @@
     "geom:longitude":43.42819,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.40819,16.76441,43.44819,16.80441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0648\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7900510,
         "gp:id":1959061,
-        "qs:id":744277,
+        "qs_pg:id":744277,
         "wd:id":"Q20305922"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426285,
-    "wof:lastmodified":1563352996,
+    "wof:lastmodified":1566661126,
     "wof:name":"Al Laww\u012b",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

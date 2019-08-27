@@ -11,10 +11,14 @@
     "geom:longitude":43.24639,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.22639,16.19981,43.26639,16.23981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0647\u0628\u0627\u0646\u064a"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Thabir"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0630\u0647\u0628\u0627\u0646\u064a"
     ],
     "qs:name":"Adh Dhahb\u0101n\u012b",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631516,
         "gp:id":1953570,
-        "qs:id":694503,
+        "qs_pg:id":694503,
         "wd:id":"Q20301012"
     },
     "wof:country":"YE",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":890451889,
-    "wof:lastmodified":1563353734,
+    "wof:lastmodified":1566661401,
     "wof:name":"Adh Dhahb\u0101n\u012b",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":45.46056,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.44056,14.94004,45.48056,14.98004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0643\u0631\u0645\u0629"
     ],
@@ -133,7 +137,7 @@
         "Al Butnan"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0b9f\u0bcd\u0ba9\u0bbe\u0ba9\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0b9f\u0bcd\u0ba9\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c1f\u0c4d\u0c28\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -178,7 +182,7 @@
     "wof:concordances":{
         "gn:id":8053306,
         "gp:id":1959055,
-        "qs:id":751733,
+        "qs_pg:id":751733,
         "wd:id":"Q25931",
         "wk:page":"Butnan District"
     },
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":890442679,
-    "wof:lastmodified":1563353674,
+    "wof:lastmodified":1566661375,
     "wof:name":"Al \u2018Akramah",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

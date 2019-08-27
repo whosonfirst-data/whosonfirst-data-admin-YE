@@ -11,10 +11,14 @@
     "geom:longitude":43.38438,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.36438,16.22662,43.40438,16.26662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0631\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7633136,
         "gp:id":1953570,
-        "qs:id":695153
+        "qs_pg:id":695153
     },
     "wof:country":"YE",
     "wof:created":1469051208,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417539,
-    "wof:lastmodified":1505343439,
+    "wof:lastmodified":1566661217,
     "wof:name":"Al Mijrab",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

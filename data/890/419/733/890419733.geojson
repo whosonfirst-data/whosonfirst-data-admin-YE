@@ -11,10 +11,14 @@
     "geom:longitude":45.04695,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"45.02695,14.27076,45.06695,14.31076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "At T\u0101m"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8051996,
         "gp:id":1959118,
-        "qs:id":751374,
+        "qs_pg:id":751374,
         "wd:id":"Q20304963"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890419733,
-    "wof:lastmodified":1563352827,
+    "wof:lastmodified":1566661061,
     "wof:name":"At T\u0101m",
     "wof:parent_id":1091919203,
     "wof:placetype":"locality",

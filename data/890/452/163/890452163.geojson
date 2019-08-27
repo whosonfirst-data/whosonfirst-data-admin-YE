@@ -11,10 +11,14 @@
     "geom:longitude":44.41093,
     "gn:country":"YE",
     "gn:fcode":"LCTY",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.39093,16.77704,44.43093,16.81704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u062f \u0627\u0644\u0628\u062d\u0648\u0631"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7795002,
         "gp:id":1959135,
-        "qs:id":700775
+        "qs_pg:id":700775
     },
     "wof:country":"YE",
     "wof:created":1469052807,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452163,
-    "wof:lastmodified":1505343643,
+    "wof:lastmodified":1566660917,
     "wof:name":"Bil\u0101d al Ba\u1e29war",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

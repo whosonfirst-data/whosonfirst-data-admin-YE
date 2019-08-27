@@ -11,10 +11,14 @@
     "geom:longitude":43.31163,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.29163,16.6468,43.33163,16.6868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u062a\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7854919,
         "gp:id":1959134,
-        "qs:id":741856,
+        "qs_pg:id":741856,
         "wd:id":"Q20298879"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890453353,
-    "wof:lastmodified":1563352681,
+    "wof:lastmodified":1566661005,
     "wof:name":"Al Maqtal",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

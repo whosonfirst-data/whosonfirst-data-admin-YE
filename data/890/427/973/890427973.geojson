@@ -11,11 +11,14 @@
     "geom:longitude":46.27828,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0647\u064a\u0631"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7895362,
         "gp:id":1959066,
-        "qs:id":744237
+        "qs_pg:id":744237
     },
     "wof:country":"YE",
     "wof:created":1469051729,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890427973,
-    "wof:lastmodified":1505343502,
+    "wof:lastmodified":1566661362,
     "wof:name":"Az Zuhayr",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

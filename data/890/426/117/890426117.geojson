@@ -11,10 +11,14 @@
     "geom:longitude":43.32159,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.30159,17.27167,43.34159,17.31167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0647\u0627\u0641\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856707,
         "gp:id":56447933,
-        "qs:id":742622,
+        "qs_pg:id":742622,
         "wd:id":"Q20304197"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426117,
-    "wof:lastmodified":1563352965,
+    "wof:lastmodified":1566661115,
     "wof:name":"Al Kah\u0101fah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

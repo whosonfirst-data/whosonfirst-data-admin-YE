@@ -11,10 +11,14 @@
     "geom:longitude":43.4085,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.3885,16.28704,43.4285,16.32704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0628 \u0627\u0644\u0639\u0631\u0642"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783553,
         "gp:id":1953570,
-        "qs:id":700206,
+        "qs_pg:id":700206,
         "wd:id":"Q20303519"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419049,
-    "wof:lastmodified":1563352788,
+    "wof:lastmodified":1566661047,
     "wof:name":"Gh\u0101rib al \u2018Araq",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

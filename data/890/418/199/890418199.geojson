@@ -11,10 +11,14 @@
     "geom:longitude":44.23018,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":67,
+    "gn:population":67,
     "iso:country":"YE",
+    "lbl:bbox":"44.21018,16.48422,44.25018,16.52422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0646\u0629 \u0627\u0644\u0641\u0631\u062c"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7794855,
         "gp:id":1958965,
-        "qs:id":700638,
+        "qs_pg:id":700638,
         "wd:id":"Q20306566"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890418199,
-    "wof:lastmodified":1563353469,
+    "wof:lastmodified":1566661301,
     "wof:name":"Rawnat al Farj",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

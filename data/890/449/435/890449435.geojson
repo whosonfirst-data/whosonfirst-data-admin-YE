@@ -11,10 +11,14 @@
     "geom:longitude":43.98103,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.96103,13.06863,44.00103,13.10863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0643\u064a\u0645\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8071339,
         "gp:id":1958962,
-        "qs:id":753745,
+        "qs_pg:id":753745,
         "wd:id":"Q20302433"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449435,
-    "wof:lastmodified":1563351386,
+    "wof:lastmodified":1566660536,
     "wof:name":"Al Mukaymin",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

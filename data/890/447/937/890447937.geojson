@@ -11,10 +11,14 @@
     "geom:longitude":43.3314,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.3114,16.31963,43.3514,16.35963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Mizw\u0101r"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7783259,
         "gp:id":1958967,
-        "qs:id":699912
+        "qs_pg:id":699912
     },
     "wof:country":"YE",
     "wof:created":1469052614,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890447937,
-    "wof:lastmodified":1505343620,
+    "wof:lastmodified":1566660457,
     "wof:name":"Al Mizw\u0101r",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

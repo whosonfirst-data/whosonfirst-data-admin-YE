@@ -11,10 +11,14 @@
     "geom:longitude":43.9888,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.9688,13.14512,44.0088,13.18512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0639\u064a\u0628"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8071406,
         "gp:id":1959012,
-        "qs:id":753796,
+        "qs_pg:id":753796,
         "wd:id":"Q20304660",
         "wk:page":"Ash Shu'ayb District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890449451,
-    "wof:lastmodified":1563351379,
+    "wof:lastmodified":1566660534,
     "wof:name":"Ash Shu\u2018ayb",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

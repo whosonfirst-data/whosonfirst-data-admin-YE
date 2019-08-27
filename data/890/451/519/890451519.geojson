@@ -11,10 +11,14 @@
     "geom:longitude":43.44229,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.42229,16.09888,43.46229,16.13888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0634"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7658733,
         "gp:id":1959128,
-        "qs:id":108064,
+        "qs_pg:id":108064,
         "wd:id":"Q20305473"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890451519,
-    "wof:lastmodified":1563353741,
+    "wof:lastmodified":1566661403,
     "wof:name":"Al Khursh",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

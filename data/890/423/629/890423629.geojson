@@ -11,10 +11,14 @@
     "geom:longitude":43.29858,
     "gn:country":"YE",
     "gn:fcode":"PPLF",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.27858,16.45405,43.31858,16.49405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u0631 \u063a\u0627\u0631\u0628 \u0627\u0644\u0643\u0631\u0633"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755938,
         "gp:id":1959057,
-        "qs:id":698800,
+        "qs_pg:id":698800,
         "wd:id":"Q20301997"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890423629,
-    "wof:lastmodified":1563352172,
+    "wof:lastmodified":1566660816,
     "wof:name":"D\u0101war Gh\u0101rib al Kurs",
     "wof:parent_id":1091923769,
     "wof:placetype":"locality",

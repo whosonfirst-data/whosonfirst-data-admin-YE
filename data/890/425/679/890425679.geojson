@@ -11,10 +11,14 @@
     "geom:longitude":44.49596,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.47596,16.66627,44.51596,16.70627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0633\u0645\u0627\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7795333,
         "gp:id":1959135,
-        "qs:id":701094,
+        "qs_pg:id":701094,
         "wd:id":"Q20305121"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425679,
-    "wof:lastmodified":1563351505,
+    "wof:lastmodified":1566660582,
     "wof:name":"Al Khasm\u0101n",
     "wof:parent_id":1091920841,
     "wof:placetype":"locality",

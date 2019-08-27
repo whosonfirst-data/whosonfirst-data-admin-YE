@@ -11,10 +11,14 @@
     "geom:longitude":43.50316,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":34,
+    "gn:population":34,
     "iso:country":"YE",
+    "lbl:bbox":"43.48316,13.24675,43.52316,13.28675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0636\u064a\u0631\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069304,
         "gp:id":1957499,
-        "qs:id":753479,
+        "qs_pg:id":753479,
         "wd:id":"Q20304588"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890416619,
-    "wof:lastmodified":1563353334,
+    "wof:lastmodified":1566661247,
     "wof:name":"Al Kha\u1e11\u012brah",
     "wof:parent_id":1091926707,
     "wof:placetype":"locality",

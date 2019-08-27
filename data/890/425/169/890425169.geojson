@@ -11,10 +11,14 @@
     "geom:longitude":43.3169,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.2969,16.24889,43.3369,16.28889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u062e\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7761147,
         "gp:id":1953570,
-        "qs:id":699137,
+        "qs_pg:id":699137,
         "wd:id":"Q20301473"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425169,
-    "wof:lastmodified":1563351426,
+    "wof:lastmodified":1566660552,
     "wof:name":"Mawkhir",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

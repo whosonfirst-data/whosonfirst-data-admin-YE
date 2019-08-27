@@ -11,10 +11,14 @@
     "geom:longitude":43.35094,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":52,
+    "gn:population":52,
     "iso:country":"YE",
+    "lbl:bbox":"43.33094,16.13459,43.37094,16.17459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u064a\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7633023,
         "gp:id":1953570,
-        "qs:id":695040
+        "qs_pg:id":695040
     },
     "wof:country":"YE",
     "wof:created":1469051479,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890423083,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566660814,
     "wof:name":"Al Mushayb",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

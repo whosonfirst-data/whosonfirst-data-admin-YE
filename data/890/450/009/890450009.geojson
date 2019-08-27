@@ -11,10 +11,14 @@
     "geom:longitude":43.51786,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.49786,16.84748,43.53786,16.88748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0645\u062c\u0645\u0644"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Khilb\u0101nah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u1e29all Mijammil"
     ],
     "qs:name":"Bayt Mijammil",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7363718,
         "gp:id":1958259,
-        "qs:id":685353,
+        "qs_pg:id":685353,
         "wd:id":"Q20300532"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890450009,
-    "wof:lastmodified":1563353762,
+    "wof:lastmodified":1566661411,
     "wof:name":"Bayt Mijammil",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

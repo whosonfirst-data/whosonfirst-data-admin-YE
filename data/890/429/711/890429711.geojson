@@ -11,10 +11,14 @@
     "geom:longitude":45.30829,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":100,
+    "gn:population":100,
     "iso:country":"YE",
+    "lbl:bbox":"45.28829,15.40069,45.32829,15.44069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u064a\u0646"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7861722,
         "gp:id":1957048,
-        "qs:id":108248,
+        "qs_pg:id":108248,
         "wd:id":"Q20307759",
         "wk:page":"Al-Tall District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890429711,
-    "wof:lastmodified":1563353333,
+    "wof:lastmodified":1566661246,
     "wof:name":"Al Man\u012bn",
     "wof:parent_id":1091925221,
     "wof:placetype":"locality",

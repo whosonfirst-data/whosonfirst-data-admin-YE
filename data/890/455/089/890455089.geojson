@@ -11,10 +11,14 @@
     "geom:longitude":45.82504,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.80504,14.19088,45.84504,14.23088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0647\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066764,
         "gp:id":1959103,
-        "qs:id":752822,
+        "qs_pg:id":752822,
         "wd:id":"Q20305590"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890455089,
-    "wof:lastmodified":1563352510,
+    "wof:lastmodified":1566660935,
     "wof:name":"Az\u0327 Z\u0327ahar",
     "wof:parent_id":1091919167,
     "wof:placetype":"locality",

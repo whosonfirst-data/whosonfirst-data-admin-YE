@@ -11,10 +11,14 @@
     "geom:longitude":43.31375,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.29375,16.64142,43.33375,16.68142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a\u0631\u0628\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7854897,
         "gp:id":1959134,
-        "qs:id":741836,
+        "qs_pg:id":741836,
         "wd:id":"Q20305303",
         "wk:page":"At Turbah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428659,
-    "wof:lastmodified":1563353154,
+    "wof:lastmodified":1566661183,
     "wof:name":"At Turbah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.32974,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.30974,16.99348,43.34974,17.03348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0647\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7865243,
         "gp:id":1958992,
-        "qs:id":742869,
+        "qs_pg:id":742869,
         "wd:id":"Q20300054"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448783,
-    "wof:lastmodified":1563351837,
+    "wof:lastmodified":1566660693,
     "wof:name":"Al Mawhir",
     "wof:parent_id":1091925419,
     "wof:placetype":"locality",

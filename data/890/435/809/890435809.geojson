@@ -11,10 +11,14 @@
     "geom:longitude":43.69291,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.67291,16.19481,43.71291,16.23481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u062d\u0645\u064a\u062f\u064a"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8021934,
         "gp:id":1959128,
-        "qs:id":750164
+        "qs_pg:id":750164
     },
     "wof:country":"YE",
     "wof:created":1469052082,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890435809,
-    "wof:lastmodified":1505343549,
+    "wof:lastmodified":1566661418,
     "wof:name":"Bayt al \u1e28umayd\u012b",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

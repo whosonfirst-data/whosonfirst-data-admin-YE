@@ -11,10 +11,14 @@
     "geom:longitude":45.4467,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":38,
+    "gn:population":38,
     "iso:country":"YE",
+    "lbl:bbox":"45.4267,15.4977,45.4667,15.5377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u062f\u0627\u0621 \u0627\u0644 \u0645\u0639\u064a\u0644\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7887718,
         "gp:id":1957048,
-        "qs:id":743818,
+        "qs_pg:id":743818,
         "wd:id":"Q20299037"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890453755,
-    "wof:lastmodified":1563352679,
+    "wof:lastmodified":1566661004,
     "wof:name":"Al Mard\u0101\u2019 \u0100l Mu\u2018ayl\u012b",
     "wof:parent_id":1091925199,
     "wof:placetype":"locality",

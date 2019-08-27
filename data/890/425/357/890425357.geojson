@@ -11,10 +11,14 @@
     "geom:longitude":44.42123,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"44.40123,17.20548,44.44123,17.24548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u0646"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7785354,
         "gp:id":1939932,
-        "qs:id":700270,
+        "qs_pg:id":700270,
         "wd:id":"Q20304860",
         "wk:page":"Astan"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890425357,
-    "wof:lastmodified":1563351476,
+    "wof:lastmodified":1566660571,
     "wof:name":"Astan",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

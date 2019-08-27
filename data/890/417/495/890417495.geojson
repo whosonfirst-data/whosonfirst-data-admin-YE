@@ -11,10 +11,14 @@
     "geom:longitude":43.37005,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.35005,16.20202,43.39005,16.24202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0641\u062c\u0631"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7633106,
         "gp:id":1953570,
-        "qs:id":695124,
+        "qs_pg:id":695124,
         "wd:id":"Q20306558",
         "wk:page":"Al Mafjar"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890417495,
-    "wof:lastmodified":1563353266,
+    "wof:lastmodified":1566661221,
     "wof:name":"Al Mafjar",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

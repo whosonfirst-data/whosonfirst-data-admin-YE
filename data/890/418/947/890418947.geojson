@@ -11,10 +11,14 @@
     "geom:longitude":43.42496,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":24,
+    "gn:population":24,
     "iso:country":"YE",
+    "lbl:bbox":"43.40496,16.04456,43.44496,16.08456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0628\u0627\u064a\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7682340,
         "gp:id":1958568,
-        "qs:id":697154
+        "qs_pg:id":697154
     },
     "wof:country":"YE",
     "wof:created":1469051267,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418947,
-    "wof:lastmodified":1505343447,
+    "wof:lastmodified":1566661295,
     "wof:name":"Al Khib\u0101yah",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

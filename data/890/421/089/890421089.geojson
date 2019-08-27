@@ -11,10 +11,14 @@
     "geom:longitude":45.44809,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"45.42809,14.90914,45.46809,14.94914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062c\u0641\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Gh\u0101rib \u2018Azz\u0101n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u1e28ajfah as Sufl\u00e1"
     ],
     "qs:name":"Al \u1e28ajnah as Sufl\u00e1",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8053361,
         "gp:id":1959055,
-        "qs:id":751781,
+        "qs_pg:id":751781,
         "wd:id":"Q20299671"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890421089,
-    "wof:lastmodified":1563353088,
+    "wof:lastmodified":1566661158,
     "wof:name":"Al \u1e28ajnah as Sufl\u00e1",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.32744,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.30744,16.26335,43.34744,16.30335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0648\u0642 \u0627\u0644\u0634\u0631\u0642\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7779464,
         "gp:id":1953570,
-        "qs:id":699579,
+        "qs_pg:id":699579,
         "wd:id":"Q20300808"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420501,
-    "wof:lastmodified":1563353373,
+    "wof:lastmodified":1566661263,
     "wof:name":"Al \u1e28awq ash Sharq\u012b",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

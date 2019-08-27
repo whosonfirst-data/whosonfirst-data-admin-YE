@@ -11,10 +11,14 @@
     "geom:longitude":43.44309,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.42309,16.12923,43.46309,16.16923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0631\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7658649,
         "gp:id":1959128,
-        "qs:id":696447
+        "qs_pg:id":696447
     },
     "wof:country":"YE",
     "wof:created":1469052903,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454527,
-    "wof:lastmodified":1505343657,
+    "wof:lastmodified":1566660984,
     "wof:name":"Ad Darb",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

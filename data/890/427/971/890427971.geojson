@@ -11,15 +11,18 @@
     "geom:longitude":45.93749,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0631 \u0627\u0644\u0636\u0641\u0627\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gharr a\u1e11 \u1e10af\u0101r"
     ],
     "qs:name":"Ghar a\u1e11 \u1e10uf\u0101r",
@@ -36,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7895361,
-        "qs:id":744236
+        "qs_pg:id":744236
     },
     "wof:country":"YE",
     "wof:created":1469051729,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890427971,
-    "wof:lastmodified":1505343502,
+    "wof:lastmodified":1566661340,
     "wof:name":"Ghar a\u1e11 \u1e10uf\u0101r",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

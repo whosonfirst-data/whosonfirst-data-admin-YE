@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.880051,
     "lbl:longitude":45.022223,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Aden",
     "meso:admin1_loc":"\u0639\u062f\u0646",
     "meso:dissme":"AdenAsh Shaikh Outhman",
@@ -32,6 +34,7 @@
     "mps:longitude":45.022223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0634\u064a\u062e \u0639\u062b\u0645\u0627\u0646"
     ],
@@ -63,9 +66,9 @@
         "Ash Shaikh Outhman"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091918823,
-    "wof:lastmodified":1563350923,
+    "wof:lastmodified":1566660301,
     "wof:name":"Ash Shaikh Outhman",
     "wof:parent_id":85681039,
     "wof:placetype":"county",

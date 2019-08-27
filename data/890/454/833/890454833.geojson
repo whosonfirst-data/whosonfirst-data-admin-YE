@@ -11,10 +11,14 @@
     "geom:longitude":43.25191,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.23191,17.12676,43.27191,17.16676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0627\u0648\u064a"
     ],
@@ -64,10 +68,12 @@
     "wof:concordances":{
         "gn:id":7658558,
         "gp:id":1938607,
-        "qs:id":743161,
         "qs_pg:id":696375,
         "wd:id":"Q4117620",
         "wk:page":"Al Marawi'ah District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":743161
     },
     "wof:country":"YE",
     "wof:created":1469052916,
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890454833,
-    "wof:lastmodified":1563352623,
+    "wof:lastmodified":1566660980,
     "wof:name":"Al Mar\u0101w\u012b",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

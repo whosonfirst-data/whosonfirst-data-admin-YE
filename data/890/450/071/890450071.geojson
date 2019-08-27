@@ -11,10 +11,14 @@
     "geom:longitude":44.32796,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":119,
+    "gn:population":119,
     "iso:country":"YE",
+    "lbl:bbox":"44.30796,16.5095,44.34796,16.5495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0633\u0637\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ad Damash"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Mawsa\u0163ah"
     ],
     "qs:name":"Mawsa\u0163ah",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":406887,
         "gp:id":1958965,
-        "qs:id":80308,
+        "qs_pg:id":80308,
         "wd:id":"Q20300146",
         "wk:page":"Mawsata"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890450071,
-    "wof:lastmodified":1563353761,
+    "wof:lastmodified":1566661411,
     "wof:name":"Mawsa\u0163ah",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

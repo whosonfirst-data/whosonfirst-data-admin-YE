@@ -11,10 +11,14 @@
     "geom:longitude":43.44776,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.42776,16.12687,43.46776,16.16687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628 \u0639\u0627\u0645\u0631"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Darb al \u1e28\u0101rith\u012b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sha\u2018b \u2018\u0100mir"
     ],
     "qs:name":"Sha\u2018b \u2018\u0100mar",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7658654,
         "gp:id":1959128,
-        "qs:id":696452,
+        "qs_pg:id":696452,
         "wd:id":"Q20307208"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890454535,
-    "wof:lastmodified":1563352603,
+    "wof:lastmodified":1566660973,
     "wof:name":"Sha\u2018b \u2018\u0100mar",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

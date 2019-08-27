@@ -11,10 +11,13 @@
     "geom:longitude":43.41786,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.41286,16.03482,43.42286,16.04482",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0633\u0647\u0644 \u0627\u0644\u0639\u064a\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682644,
-        "qs:id":697329
+        "qs_pg:id":697329
     },
     "wof:country":"YE",
     "wof:created":1469052550,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446407,
-    "wof:lastmodified":1505343611,
+    "wof:lastmodified":1566660737,
     "wof:name":"Sahal al \u2018Ayn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

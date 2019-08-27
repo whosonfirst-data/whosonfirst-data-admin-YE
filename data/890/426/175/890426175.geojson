@@ -11,11 +11,14 @@
     "geom:longitude":43.26051,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Mi\u2018r\u0101th"
     ],
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7865292,
         "gp:id":1938135,
-        "qs:id":742918
+        "qs_pg:id":742918
     },
     "wof:country":"YE",
     "wof:created":1469051621,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890426175,
-    "wof:lastmodified":1505343492,
+    "wof:lastmodified":1566661114,
     "wof:name":"Al Mi\u2018r\u0101th",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

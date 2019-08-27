@@ -11,10 +11,14 @@
     "geom:longitude":43.70654,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"43.68654,16.60871,43.72654,16.64871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7682724,
         "gp:id":1958933,
-        "qs:id":697399
+        "qs_pg:id":697399
     },
     "wof:country":"YE",
     "wof:created":1469052553,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890446453,
-    "wof:lastmodified":1505343611,
+    "wof:lastmodified":1566660738,
     "wof:name":"Al Maqirah",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

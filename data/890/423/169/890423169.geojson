@@ -11,10 +11,13 @@
     "geom:longitude":43.40159,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.39659,16.02104,43.40659,16.03104",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0631\u0627\u0646\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682613,
-        "qs:id":697299
+        "qs_pg:id":697299
     },
     "wof:country":"YE",
     "wof:created":1469051484,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423169,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660811,
     "wof:name":"Al Mijr\u0101n\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":45.20721,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.18721,14.79843,45.22721,14.83843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0645\u0631\u0637"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8053294,
         "gp:id":1958975,
-        "qs:id":751721,
+        "qs_pg:id":751721,
         "wd:id":"Q20303975",
         "wk:page":"Al Amarat"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419769,
-    "wof:lastmodified":1563352830,
+    "wof:lastmodified":1566661063,
     "wof:name":"Al Amra\u0163",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

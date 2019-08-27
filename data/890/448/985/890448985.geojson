@@ -11,10 +11,13 @@
     "geom:longitude":43.64216,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.63716,16.20214,43.64716,16.21214",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u064a\u062f\u0627\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7927815,
-        "qs:id":745551
+        "qs_pg:id":745551
     },
     "wof:country":"YE",
     "wof:created":1469052656,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890448985,
-    "wof:lastmodified":1505343626,
+    "wof:lastmodified":1566660693,
     "wof:name":"Bayt Sayyid\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

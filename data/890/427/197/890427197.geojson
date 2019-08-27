@@ -11,10 +11,14 @@
     "geom:longitude":43.81144,
     "gn:country":"YE",
     "gn:fcode":"FRM",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.79144,13.41116,43.83144,13.45116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0628\u0627\u062b\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8075785,
         "gp:id":1957357,
-        "qs:id":754369
+        "qs_pg:id":754369
     },
     "wof:country":"YE",
     "wof:created":1469051681,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427197,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566661347,
     "wof:name":"Khab\u0101thah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

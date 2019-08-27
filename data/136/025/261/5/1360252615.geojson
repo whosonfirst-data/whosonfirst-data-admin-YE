@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
+    "lbl:bbox":"43.22991,13.29814,43.26991,13.33814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al Mukh\u0101"
     ],
@@ -131,9 +135,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0445\u0430"
     ],
-    "name:und_x_variant":[
-        "Mukha"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u062e\u0627"
     ],
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1360252615,
-    "wof:lastmodified":1564133489,
+    "wof:lastmodified":1566660173,
     "wof:name":"Mocha",
     "wof:parent_id":1091926373,
     "wof:placetype":"locality",

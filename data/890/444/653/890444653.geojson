@@ -11,10 +11,14 @@
     "geom:longitude":44.2803,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"44.2603,15.41888,44.3003,15.45888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Ar Riy\u0101m\u012b"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7890514,
         "gp:id":1954268,
-        "qs:id":743937
+        "qs_pg:id":743937
     },
     "wof:country":"YE",
     "wof:created":1469052476,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890444653,
-    "wof:lastmodified":1505343600,
+    "wof:lastmodified":1566661233,
     "wof:name":"Ar Riy\u0101m\u012b",
     "wof:parent_id":1091925759,
     "wof:placetype":"locality",

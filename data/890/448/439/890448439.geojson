@@ -11,10 +11,14 @@
     "geom:longitude":43.30583,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.28583,16.53454,43.32583,16.57454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644 \u0627\u0644\u0634\u0627\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7854854,
         "gp:id":1959057,
-        "qs:id":741799,
+        "qs_pg:id":741799,
         "wd:id":"Q20304349"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448439,
-    "wof:lastmodified":1563351807,
+    "wof:lastmodified":1566660684,
     "wof:name":"Ghawl ash Sh\u0101r",
     "wof:parent_id":1091923769,
     "wof:placetype":"locality",

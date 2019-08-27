@@ -11,10 +11,14 @@
     "geom:longitude":45.5228,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.5028,14.97055,45.5428,15.01055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0628\u0648\u0639"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053564,
         "gp:id":1959055,
-        "qs:id":751961,
+        "qs_pg:id":751961,
         "wd:id":"Q20299029"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890421115,
-    "wof:lastmodified":1563353110,
+    "wof:lastmodified":1566661166,
     "wof:name":"Al Marb\u016b\u2018",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

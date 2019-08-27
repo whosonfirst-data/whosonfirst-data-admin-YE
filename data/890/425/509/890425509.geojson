@@ -11,10 +11,14 @@
     "geom:longitude":43.565,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.545,17.19902,43.585,17.23902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0628\u0631"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7794805,
         "gp:id":1959094,
-        "qs:id":700588,
+        "qs_pg:id":700588,
         "wd:id":"Q20301258",
         "wk:page":"Akbar"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890425509,
-    "wof:lastmodified":1563351488,
+    "wof:lastmodified":1566660574,
     "wof:name":"Akbar",
     "wof:parent_id":1091925445,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.34725,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.32725,16.62859,43.36725,16.66859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0628 \u0627\u0644\u0642\u0634\u0628\u0629"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ar Ra\u1e29mah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gh\u0101rib al Qashabah"
     ],
     "qs:name":"Gh\u0101rib Al Qashabah",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7855335,
         "gp:id":1959134,
-        "qs:id":742245,
+        "qs_pg:id":742245,
         "wd:id":"Q20303784"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890427355,
-    "wof:lastmodified":1563353525,
+    "wof:lastmodified":1566661323,
     "wof:name":"Gh\u0101rib Al Qashabah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

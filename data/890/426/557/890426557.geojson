@@ -11,10 +11,13 @@
     "geom:longitude":43.70583,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.70083,16.18172,43.71083,16.19172",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0642\u064a"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928286,
-        "qs:id":745717
+        "qs_pg:id":745717
     },
     "wof:country":"YE",
     "wof:created":1469051636,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890426557,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661094,
     "wof:name":"Ash Sharq\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

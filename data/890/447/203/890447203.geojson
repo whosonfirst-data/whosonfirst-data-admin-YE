@@ -11,10 +11,14 @@
     "geom:longitude":44.22629,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"44.20629,16.83157,44.24629,16.87157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0628\u0631\u0648\u0642\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7753590,
         "gp:id":1959135,
-        "qs:id":698480,
+        "qs_pg:id":698480,
         "wd:id":"Q20306235"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447203,
-    "wof:lastmodified":1563351189,
+    "wof:lastmodified":1566660469,
     "wof:name":"Al Mabr\u016bqah",
     "wof:parent_id":1091925391,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":45.29421,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"45.27421,14.8934,45.31421,14.9334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0628\u062d"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053323,
         "gp:id":1959055,
-        "qs:id":751750,
+        "qs_pg:id":751750,
         "wd:id":"Q20302312"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890455061,
-    "wof:lastmodified":1563352518,
+    "wof:lastmodified":1566660938,
     "wof:name":"As Saba\u1e29",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

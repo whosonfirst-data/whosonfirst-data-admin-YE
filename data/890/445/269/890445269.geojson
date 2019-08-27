@@ -11,10 +11,14 @@
     "geom:longitude":43.52752,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":64,
+    "gn:population":64,
     "iso:country":"YE",
+    "lbl:bbox":"43.50752,15.99124,43.54752,16.03124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u064a\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7927504,
         "gp:id":1959128,
-        "qs:id":745506,
+        "qs_pg:id":745506,
         "wd:id":"Q20299220"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890445269,
-    "wof:lastmodified":1563353698,
+    "wof:lastmodified":1566661385,
     "wof:name":"Ban\u012b Saylah",
     "wof:parent_id":1091923483,
     "wof:placetype":"locality",

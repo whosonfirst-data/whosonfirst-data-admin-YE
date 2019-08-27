@@ -11,10 +11,14 @@
     "geom:longitude":43.40287,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.38287,16.66795,43.42287,16.70795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0645\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855187,
         "gp:id":1959061,
-        "qs:id":742107
+        "qs_pg:id":742107
     },
     "wof:country":"YE",
     "wof:created":1469052634,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890448521,
-    "wof:lastmodified":1505343623,
+    "wof:lastmodified":1566660690,
     "wof:name":"Al Ghumrah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":44.30209,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.28209,17.00125,44.32209,17.04125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u062f\u0645\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7785342,
         "gp:id":1959086,
-        "qs:id":700258,
+        "qs_pg:id":700258,
         "wd:id":"Q20300247"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890417785,
-    "wof:lastmodified":1563353242,
+    "wof:lastmodified":1566661215,
     "wof:name":"Al Yadmah",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":43.19744,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":42,
+    "gn:population":42,
     "iso:country":"YE",
+    "lbl:bbox":"43.19244,15.9965,43.20244,16.0065",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "\u0627\u0644\u0645\u062d\u0635\u0627\u0645"
     ],
     "qs:name":"Al Ma\u1e29\u015f\u0101m",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631401,
-        "qs:id":694396
+        "qs_pg:id":694396
     },
     "wof:country":"YE",
     "wof:created":1469052368,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890442575,
-    "wof:lastmodified":1505343589,
+    "wof:lastmodified":1566661372,
     "wof:name":"Al Ma\u1e29\u015f\u0101m",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

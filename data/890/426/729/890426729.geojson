@@ -11,10 +11,13 @@
     "geom:longitude":42.74107,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":37,
+    "gn:population":37,
     "iso:country":"YE",
+    "lbl:bbox":"42.73607,15.53144,42.74607,15.54144",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "As S\u0101\u1e29il"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8026146,
-        "qs:id":750687
+        "qs_pg:id":750687
     },
     "wof:country":"YE",
     "wof:created":1469051644,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890426729,
-    "wof:lastmodified":1505343495,
+    "wof:lastmodified":1566661140,
     "wof:name":"As S\u0101\u1e29il",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

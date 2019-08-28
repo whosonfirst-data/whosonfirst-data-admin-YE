@@ -11,10 +11,13 @@
     "geom:longitude":43.69255,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.68755,16.2109,43.69755,16.2209",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0642\u0641\u0644\u0629 \u062f\u0647\u0646\u0645"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021930,
-        "qs:id":750160
+        "qs_pg:id":750160
     },
     "wof:country":"YE",
     "wof:created":1469052082,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890435803,
-    "wof:lastmodified":1505343549,
+    "wof:lastmodified":1566661414,
     "wof:name":"Quflat Dahnam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

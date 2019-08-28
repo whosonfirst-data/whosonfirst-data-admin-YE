@@ -11,10 +11,14 @@
     "geom:longitude":43.67976,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":90,
+    "gn:population":90,
     "iso:country":"YE",
+    "lbl:bbox":"43.65976,16.96612,43.69976,17.00612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0641\u062c\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7753466,
         "gp:id":1959002,
-        "qs:id":698390,
+        "qs_pg:id":698390,
         "wd:id":"Q20304637"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447087,
-    "wof:lastmodified":1563351241,
+    "wof:lastmodified":1566660486,
     "wof:name":"Al Khafj\u012b",
     "wof:parent_id":1091925551,
     "wof:placetype":"locality",

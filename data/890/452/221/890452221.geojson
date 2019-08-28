@@ -11,10 +11,13 @@
     "geom:longitude":44.43617,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":32,
+    "gn:population":32,
     "iso:country":"YE",
+    "lbl:bbox":"44.43117,16.74327,44.44117,16.75327",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0628\u0629 \u0627\u0644 \u0648\u0642\u0627\u0632"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795293,
-        "qs:id":701055
+        "qs_pg:id":701055
     },
     "wof:country":"YE",
     "wof:created":1469052809,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890452221,
-    "wof:lastmodified":1505343644,
+    "wof:lastmodified":1566660912,
     "wof:name":"Al \u2018Aqabah \u0100l Waq\u0101z",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

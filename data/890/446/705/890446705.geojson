@@ -11,10 +11,13 @@
     "geom:longitude":43.75107,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":23,
+    "gn:population":23,
     "iso:country":"YE",
+    "lbl:bbox":"43.74607,16.75435,43.75607,16.76435",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Zil\u0101l"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683870,
-        "qs:id":697565
+        "qs_pg:id":697565
     },
     "wof:country":"YE",
     "wof:created":1469052563,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890446705,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660745,
     "wof:name":"Zil\u0101l",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

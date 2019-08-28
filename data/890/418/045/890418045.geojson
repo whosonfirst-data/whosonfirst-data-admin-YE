@@ -11,10 +11,14 @@
     "geom:longitude":43.51179,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"YE",
+    "lbl:bbox":"43.49179,16.79595,43.53179,16.83595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Ashr\u0101f"
     ],
@@ -55,10 +59,12 @@
     "wof:concordances":{
         "gn:id":7632426,
         "gp:id":1959061,
-        "qs:id":547992,
-        "qs_pg:id":694975,
+        "qs_pg:id":547992,
         "wd:id":"Q4703499",
         "wk:page":"Al Ashraf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":694975
     },
     "wof:country":"YE",
     "wof:created":1469051232,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890418045,
-    "wof:lastmodified":1563353473,
+    "wof:lastmodified":1566661302,
     "wof:name":"Al Ashr\u0101f",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

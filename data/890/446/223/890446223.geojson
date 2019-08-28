@@ -11,10 +11,14 @@
     "geom:longitude":43.43864,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.41864,16.04309,43.45864,16.08309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0642\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682243,
         "gp:id":1958568,
-        "qs:id":697058,
+        "qs_pg:id":697058,
         "wd:id":"Q20299634"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890446223,
-    "wof:lastmodified":1563351995,
+    "wof:lastmodified":1566660752,
     "wof:name":"Al Masiq\u00e1",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

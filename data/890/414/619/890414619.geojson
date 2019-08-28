@@ -11,10 +11,13 @@
     "geom:longitude":43.92174,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.91674,13.10568,43.92674,13.11568",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0632\u062d\u0627\u062c\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8071325,
-        "qs:id":753736
+        "qs_pg:id":753736
     },
     "wof:country":"YE",
     "wof:created":1469051055,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890414619,
-    "wof:lastmodified":1505343421,
+    "wof:lastmodified":1566660630,
     "wof:name":"Al Miz\u1e29\u0101jah as Sufl\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

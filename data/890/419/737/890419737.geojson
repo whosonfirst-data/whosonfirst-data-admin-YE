@@ -11,10 +11,14 @@
     "geom:longitude":45.05957,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.03957,14.2657,45.07957,14.3057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0628\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8051998,
         "gp:id":1959118,
-        "qs:id":751376,
+        "qs_pg:id":751376,
         "wd:id":"Q20305256",
         "wk:page":"Al Qubbah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419737,
-    "wof:lastmodified":1563352764,
+    "wof:lastmodified":1566661039,
     "wof:name":"Al Qubbah",
     "wof:parent_id":1091919203,
     "wof:placetype":"locality",

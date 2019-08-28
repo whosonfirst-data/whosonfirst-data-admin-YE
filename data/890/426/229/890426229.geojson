@@ -11,14 +11,17 @@
     "geom:longitude":46.86734,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":103,
+    "gn:population":103,
     "iso:country":"YE",
+    "lbl:bbox":"46.86234,14.3272,46.87234,14.3372",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0641\u0642"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An Nafaq"
     ],
     "qs:name":"An Nafiq",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7890463,
-        "qs:id":743891
+        "qs_pg:id":743891
     },
     "wof:country":"YE",
     "wof:created":1469051623,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890426229,
-    "wof:lastmodified":1505343492,
+    "wof:lastmodified":1566661095,
     "wof:name":"An Nafiq",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

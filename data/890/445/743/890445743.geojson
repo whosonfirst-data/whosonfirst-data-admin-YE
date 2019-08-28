@@ -11,10 +11,14 @@
     "geom:longitude":42.91501,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"42.89501,16.11252,42.93501,16.15252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0627\u0634\u0646\u0629"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Juqishah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u062c\u0627\u0634\u0646\u0629"
     ],
     "qs:name":"Al Maj\u0101shinah",
     "qs:photos_9r":0,
@@ -42,12 +43,12 @@
     "wof:concordances":{
         "gn:id":7622259,
         "gp:id":1959063,
-        "qs:id":694016,
+        "qs_pg:id":694016,
         "wd:id":"Q20307187"
     },
     "wof:concordances_alt":{
         "gn:id":7622254,
-        "qs:id":694011
+        "qs_pg:id":694011
     },
     "wof:country":"YE",
     "wof:created":1469052521,
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":890445743,
-    "wof:lastmodified":1563353724,
+    "wof:lastmodified":1566661396,
     "wof:name":"Al Maj\u0101shinah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

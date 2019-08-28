@@ -11,10 +11,14 @@
     "geom:longitude":43.42401,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.40401,15.98344,43.44401,16.02344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062c\u0631\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682435,
         "gp:id":1958568,
-        "qs:id":697209,
+        "qs_pg:id":697209,
         "wd:id":"Q20302078"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425033,
-    "wof:lastmodified":1563351516,
+    "wof:lastmodified":1566660586,
     "wof:name":"Mujrib a\u015f \u015e\u016bm\u0101l\u012b",
     "wof:parent_id":1091923413,
     "wof:placetype":"locality",

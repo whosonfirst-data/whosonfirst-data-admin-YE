@@ -11,17 +11,21 @@
     "geom:longitude":43.69164,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.67164,16.13444,43.71164,16.17444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0644 \u0627\u0644\u0642\u0634\u064a\u0628"
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0642\u0634\u064a\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Qushayb"
     ],
     "qs:name":"Ghayl al Qushayb",
@@ -42,8 +46,10 @@
     "wof:concordances":{
         "gn:id":7783301,
         "gp:id":1959128,
-        "qs:id":745677,
         "qs_pg:id":699954
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":745677
     },
     "wof:country":"YE",
     "wof:created":1469052878,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890453933,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566661023,
     "wof:name":"Ghayl al Qushayb",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":43.40779,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.40279,16.29706,43.41279,16.30706",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0645\u0641\u0634\u0640\u0640\u0642"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7756472,
-        "qs:id":698967
+        "qs_pg:id":698967
     },
     "wof:country":"YE",
     "wof:created":1469052603,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890447719,
-    "wof:lastmodified":1505343618,
+    "wof:lastmodified":1566660500,
     "wof:name":"Mafshaq",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

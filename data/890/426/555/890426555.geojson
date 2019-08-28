@@ -11,10 +11,13 @@
     "geom:longitude":43.69994,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69494,16.17917,43.70494,16.18917",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0640\u0631\u0629 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928284,
-        "qs:id":745716
+        "qs_pg:id":745716
     },
     "wof:country":"YE",
     "wof:created":1469051636,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890426555,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661117,
     "wof:name":"An N\u0101\u015firah al Kh\u0101rij\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

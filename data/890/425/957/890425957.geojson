@@ -11,10 +11,14 @@
     "geom:longitude":43.39776,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.37776,16.64763,43.41776,16.68763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0629 \u0627\u0644\u0634\u0631\u0648\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855178,
         "gp:id":1959061,
-        "qs:id":742098,
+        "qs_pg:id":742098,
         "wd:id":"Q20304550"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425957,
-    "wof:lastmodified":1563351475,
+    "wof:lastmodified":1566660571,
     "wof:name":"Ghurrat ash Sharw\u012b",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

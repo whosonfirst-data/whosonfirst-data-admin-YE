@@ -11,14 +11,17 @@
     "geom:longitude":43.76289,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":96,
+    "gn:population":96,
     "iso:country":"YE",
+    "lbl:bbox":"43.75789,16.93851,43.76789,16.94851",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0639\u0644\u064a\u0627\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Aly\u0101n"
     ],
     "qs:name":"\u2018Alay\u0101n",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7685413,
-        "qs:id":697610
+        "qs_pg:id":697610
     },
     "wof:country":"YE",
     "wof:created":1469052565,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890446749,
-    "wof:lastmodified":1505343613,
+    "wof:lastmodified":1566660741,
     "wof:name":"\u2018Alay\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

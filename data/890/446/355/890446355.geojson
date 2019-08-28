@@ -11,10 +11,14 @@
     "geom:longitude":43.39849,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.37849,16.02278,43.41849,16.06278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0627\u0639\u0640\u0640\u062f"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7682584,
         "gp:id":1958568,
-        "qs:id":697271,
+        "qs_pg:id":697271,
         "wd:id":"Q20304760"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890446355,
-    "wof:lastmodified":1563351924,
+    "wof:lastmodified":1566660725,
     "wof:name":"Al Qaw\u0101\u2018id",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

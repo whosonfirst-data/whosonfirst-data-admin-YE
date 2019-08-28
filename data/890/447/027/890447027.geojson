@@ -11,10 +11,14 @@
     "geom:longitude":43.71873,
     "gn:country":"YE",
     "gn:fcode":"EST",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.69873,16.91948,43.73873,16.95948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u064a\u0627\u062f\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7753422,
         "gp:id":1959002,
-        "qs:id":698347
+        "qs_pg:id":698347
     },
     "wof:country":"YE",
     "wof:created":1469052576,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890447027,
-    "wof:lastmodified":1505343614,
+    "wof:lastmodified":1566660487,
     "wof:name":"As Siy\u0101dah",
     "wof:parent_id":1091925415,
     "wof:placetype":"locality",

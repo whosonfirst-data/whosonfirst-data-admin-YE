@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.520011,
     "lbl:longitude":44.24235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amanat Al Asimah",
     "meso:admin1_loc":"\u0627\u0644\u0639\u0627\u0635\u0645\u0629",
     "meso:dissme":"Amanat Al AsimahBani Al Harith",
@@ -32,6 +34,7 @@
     "mps:longitude":44.24235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0628\u0646\u064a \u0627\u0644\u062d\u0627\u0631\u062b"
     ],
@@ -60,9 +63,9 @@
         "Bani Al Harith"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1091921523,
-    "wof:lastmodified":1563350859,
+    "wof:lastmodified":1566660275,
     "wof:name":"Bani Al Harith",
     "wof:parent_id":-1,
     "wof:placetype":"county",

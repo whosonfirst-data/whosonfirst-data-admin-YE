@@ -11,10 +11,14 @@
     "geom:longitude":43.29829,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27829,17.49232,43.31829,17.53232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0627\u0646\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8021629,
         "gp:id":56447933,
-        "qs:id":750143,
+        "qs_pg:id":750143,
         "wd:id":"Q20304241"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420925,
-    "wof:lastmodified":1563353370,
+    "wof:lastmodified":1566661262,
     "wof:name":"Al Kar\u0101nah",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

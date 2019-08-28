@@ -11,10 +11,14 @@
     "geom:longitude":43.4553,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.4353,16.29234,43.4753,16.33234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0643\u064a\u0628"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7755876,
         "gp:id":1959128,
-        "qs:id":698744,
+        "qs_pg:id":698744,
         "wd:id":"Q20302070",
         "wk:page":"Ar Rukayb"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890418325,
-    "wof:lastmodified":1563353460,
+    "wof:lastmodified":1566661297,
     "wof:name":"Ar Rukayb",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

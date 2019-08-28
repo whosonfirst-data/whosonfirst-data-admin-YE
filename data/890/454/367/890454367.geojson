@@ -11,11 +11,14 @@
     "geom:longitude":42.90931,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u064a\u0645\u0627\u0646\u064a"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "\u0100l Sh\u0101\u2019i\u2018"
-    ],
-    "name:unk_x_variant":[
-        "\u0628\u0646\u064a \u064a\u0645\u0627\u0646\u064a"
     ],
     "qs:name":"Ban\u012b Yam\u0101n\u012b",
     "qs:photos_9r":0,
@@ -43,12 +43,12 @@
     "wof:concordances":{
         "gn:id":7622249,
         "gp:id":1959063,
-        "qs:id":694007,
+        "qs_pg:id":694007,
         "wd:id":"Q20299267"
     },
     "wof:concordances_alt":{
         "gn:id":7622252,
-        "qs:id":694009
+        "qs_pg:id":694009
     },
     "wof:country":"YE",
     "wof:created":1469052897,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890454367,
-    "wof:lastmodified":1563352645,
+    "wof:lastmodified":1566660989,
     "wof:name":"Ban\u012b Yam\u0101n\u012b",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

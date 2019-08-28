@@ -11,10 +11,14 @@
     "geom:longitude":43.41726,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.39726,16.27582,43.43726,16.31582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Jirf\u0101\u2019"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7756489,
         "gp:id":1959128,
-        "qs:id":698985
+        "qs_pg:id":698985
     },
     "wof:country":"YE",
     "wof:created":1469052604,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890447743,
-    "wof:lastmodified":1505343619,
+    "wof:lastmodified":1566660499,
     "wof:name":"Al Jirf\u0101\u2019",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

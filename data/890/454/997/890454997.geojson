@@ -11,10 +11,14 @@
     "geom:longitude":43.67449,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.65449,16.00692,43.69449,16.04692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0634\u0648\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8020629,
         "gp:id":1959046,
-        "qs:id":749973
+        "qs_pg:id":749973
     },
     "wof:country":"YE",
     "wof:created":1469052923,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454997,
-    "wof:lastmodified":1505343660,
+    "wof:lastmodified":1566660972,
     "wof:name":"Al \u1e28ishwah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

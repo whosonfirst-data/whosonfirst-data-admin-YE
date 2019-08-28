@@ -11,10 +11,14 @@
     "geom:longitude":43.77265,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.75265,13.16742,43.79265,13.20742",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062f\u064a\u062f\u0629"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8069190,
         "gp:id":1958962,
-        "qs:id":753370,
+        "qs_pg:id":753370,
         "wd:id":"Q20301646",
         "wk:page":"Al Hudaydah"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890427113,
-    "wof:lastmodified":1563353647,
+    "wof:lastmodified":1566661365,
     "wof:name":"Al \u1e28udaydah",
     "wof:parent_id":1091926417,
     "wof:placetype":"locality",

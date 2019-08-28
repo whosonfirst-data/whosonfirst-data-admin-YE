@@ -11,11 +11,14 @@
     "geom:longitude":45.94165,
     "gn:country":"YE",
     "gn:fcode":"AREA",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0636\u0645\u0629"
     ],
@@ -33,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7895357,
-        "qs:id":744233
+        "qs_pg:id":744233
     },
     "wof:country":"YE",
     "wof:created":1469051839,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890430091,
-    "wof:lastmodified":1505343516,
+    "wof:lastmodified":1566660888,
     "wof:name":"Al Ka\u1e11imah",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

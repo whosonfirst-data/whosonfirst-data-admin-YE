@@ -11,10 +11,14 @@
     "geom:longitude":43.80526,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.78526,13.33592,43.82526,13.37592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062c\u0631\u0629"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8069260,
         "gp:id":1957662,
-        "qs:id":753438,
+        "qs_pg:id":753438,
         "wd:id":"Q292638",
         "wk:page":"Al Hajjarah"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890449403,
-    "wof:lastmodified":1563351388,
+    "wof:lastmodified":1566660537,
     "wof:name":"Al \u1e28ajarah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":45.21775,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"45.19775,14.86941,45.23775,14.90941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0627\u0631"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_variant":[
         "Sanw\u0101n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saw\u0101r"
     ],
     "qs:name":"As Saw\u0101r",
@@ -48,9 +52,11 @@
     "wof:concordances":{
         "gn:id":7900550,
         "gp:id":1959055,
-        "qs:id":751754,
         "qs_pg:id":744317,
         "wd:id":"Q20303039"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":751754
     },
     "wof:country":"YE",
     "wof:created":1469052175,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890437993,
-    "wof:lastmodified":1563352428,
+    "wof:lastmodified":1566660901,
     "wof:name":"As Saw\u0101r",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

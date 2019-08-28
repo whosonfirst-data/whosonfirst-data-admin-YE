@@ -11,10 +11,14 @@
     "geom:longitude":43.27484,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.25484,17.18275,43.29484,17.22275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0633\u064a\u0644\u064a"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7865398,
         "gp:id":1938607,
-        "qs:id":743020,
+        "qs_pg:id":743020,
         "wd:id":"Q20303304",
         "wk:page":"Al Usayli"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890453905,
-    "wof:lastmodified":1563352719,
+    "wof:lastmodified":1566661022,
     "wof:name":"Al \u2018Usayl\u012b",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

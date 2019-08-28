@@ -11,10 +11,14 @@
     "geom:longitude":45.13267,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.11267,13.73055,45.15267,13.77055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u064a\u062f\u0631\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8076149,
         "gp:id":1958958,
-        "qs:id":754493,
+        "qs_pg:id":754493,
         "wd:id":"Q20304874"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428555,
-    "wof:lastmodified":1563353170,
+    "wof:lastmodified":1566661189,
     "wof:name":"Al Qaydirah",
     "wof:parent_id":1091924787,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.75569,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"43.73569,17.10229,43.77569,17.14229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644 \u0645\u0631\u0634\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7792645,
         "gp:id":1959094,
-        "qs:id":700438,
+        "qs_pg:id":700438,
         "wd:id":"Q20302905"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425409,
-    "wof:lastmodified":1563351452,
+    "wof:lastmodified":1566660562,
     "wof:name":"\u0100l Murshad",
     "wof:parent_id":1091925415,
     "wof:placetype":"locality",

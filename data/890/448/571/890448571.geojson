@@ -11,10 +11,14 @@
     "geom:longitude":43.35534,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.33534,16.65174,43.37534,16.69174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u062f\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855244,
         "gp:id":1959134,
-        "qs:id":742162,
+        "qs_pg:id":742162,
         "wd:id":"Q20304546"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448571,
-    "wof:lastmodified":1563351896,
+    "wof:lastmodified":1566660715,
     "wof:name":"Al Khaddad",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

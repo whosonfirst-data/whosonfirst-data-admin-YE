@@ -11,10 +11,14 @@
     "geom:longitude":43.2953,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.2753,16.22015,43.3153,16.26015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0644\u064a\u0627"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631835,
         "gp:id":1953570,
-        "qs:id":694674,
+        "qs_pg:id":694674,
         "wd:id":"Q20308028"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890429881,
-    "wof:lastmodified":1563353311,
+    "wof:lastmodified":1566661239,
     "wof:name":"Al Maqily\u0101",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

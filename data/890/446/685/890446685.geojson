@@ -11,10 +11,13 @@
     "geom:longitude":43.77469,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.76969,16.93895,43.77969,16.94895",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0642\u0628\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683861,
-        "qs:id":697556
+        "qs_pg:id":697556
     },
     "wof:country":"YE",
     "wof:created":1469052562,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446685,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660751,
     "wof:name":"Bi\u2019r al Qubbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

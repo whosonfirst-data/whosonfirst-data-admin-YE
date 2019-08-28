@@ -11,10 +11,14 @@
     "geom:longitude":45.33598,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"45.31598,15.37579,45.35598,15.41579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644 \u0632\u064a\u062f\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7861436,
         "gp:id":1957048,
-        "qs:id":742769,
+        "qs_pg:id":742769,
         "wd:id":"Q20300327",
         "wk:page":"Bani Zaydah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890448737,
-    "wof:lastmodified":1563351774,
+    "wof:lastmodified":1566660673,
     "wof:name":"\u0100l Zaydah",
     "wof:parent_id":1091925221,
     "wof:placetype":"locality",

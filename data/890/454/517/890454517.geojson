@@ -11,10 +11,14 @@
     "geom:longitude":43.47145,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":17,
+    "gn:population":17,
     "iso:country":"YE",
+    "lbl:bbox":"43.45145,16.18671,43.49145,16.22671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u064a\u0631"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7658507,
         "gp:id":1959128,
-        "qs:id":696339
+        "qs_pg:id":696339
     },
     "wof:country":"YE",
     "wof:created":1469052903,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454517,
-    "wof:lastmodified":1505343657,
+    "wof:lastmodified":1566660982,
     "wof:name":"Al Jirayr",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

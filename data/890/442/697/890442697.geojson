@@ -11,10 +11,14 @@
     "geom:longitude":43.85378,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.83378,13.36454,43.87378,13.40454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0635\u0646 \u0627\u0644\u0642\u0631\u064a\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8075650,
         "gp:id":1957662,
-        "qs:id":754241,
+        "qs_pg:id":754241,
         "wd:id":"Q20305925"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890442697,
-    "wof:lastmodified":1563353676,
+    "wof:lastmodified":1566661376,
     "wof:name":"\u1e28i\u015fn al Qurayn",
     "wof:parent_id":1091926555,
     "wof:placetype":"locality",

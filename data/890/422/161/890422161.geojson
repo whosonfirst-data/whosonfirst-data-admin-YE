@@ -11,10 +11,14 @@
     "geom:longitude":43.3346,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"YE",
+    "lbl:bbox":"43.3146,16.82241,43.3546,16.86241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0627\u0643"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926771,
         "gp:id":1959134,
-        "qs:id":745113
+        "qs_pg:id":745113
     },
     "wof:country":"YE",
     "wof:created":1469051430,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422161,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566660542,
     "wof:name":"Al Bar\u0101k",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

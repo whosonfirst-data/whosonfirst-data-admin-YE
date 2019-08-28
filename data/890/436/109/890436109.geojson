@@ -11,10 +11,13 @@
     "geom:longitude":43.4708,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":47,
+    "gn:population":47,
     "iso:country":"YE",
+    "lbl:bbox":"43.4658,16.34062,43.4758,16.35062",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0648\u0644\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7755448,
-        "qs:id":698672
+        "qs_pg:id":698672
     },
     "wof:country":"YE",
     "wof:created":1469052093,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890436109,
-    "wof:lastmodified":1505343551,
+    "wof:lastmodified":1566660952,
     "wof:name":"Al Kawlah as Sufl\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

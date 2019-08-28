@@ -11,10 +11,14 @@
     "geom:longitude":43.47391,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.45391,16.16021,43.49391,16.20021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0628\u064a\u062d"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7658414,
         "gp:id":1959128,
-        "qs:id":696260
+        "qs_pg:id":696260
     },
     "wof:country":"YE",
     "wof:created":1469051563,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890424803,
-    "wof:lastmodified":1505343483,
+    "wof:lastmodified":1566660786,
     "wof:name":"Al Mirbay\u1e29",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
+    "lbl:bbox":"44.85056,13.39028,44.89056,13.43028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632499
@@ -35,7 +39,7 @@
         "gn:id":78378
     },
     "wof:country":"YE",
-    "wof:geomhash":"0c0b9b038bbdff15e51fe1996858b60c",
+    "wof:geomhash":"12f63270e16e69aadfd0435f97ca9caa",
     "wof:hierarchy":[
         {
             "country_id":85632499,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209570735,
-    "wof:lastmodified":1536283093,
+    "wof:lastmodified":1566659439,
     "wof:name":"An Nafash",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     44.87056,
-    13.410279999999998,
+    13.41028,
     44.87056,
-    13.410279999999998
+    13.41028
 ],
   "geometry": {"coordinates":[44.87056,13.41028],"type":"Point"}
 }

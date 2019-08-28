@@ -11,10 +11,14 @@
     "geom:longitude":43.43502,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.41502,16.03148,43.45502,16.07148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0631\u0628\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682305,
         "gp:id":1958568,
-        "qs:id":697119,
+        "qs_pg:id":697119,
         "wd:id":"Q20306706"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890446277,
-    "wof:lastmodified":1563351990,
+    "wof:lastmodified":1566660750,
     "wof:name":"Al Maghribah as Sufl\u00e1",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

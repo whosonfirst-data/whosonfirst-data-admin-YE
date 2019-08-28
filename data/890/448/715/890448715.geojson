@@ -11,10 +11,13 @@
     "geom:longitude":43.38137,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.37637,17.28834,43.38637,17.29834",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0641\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7856658,
-        "qs:id":742573
+        "qs_pg:id":742573
     },
     "wof:country":"YE",
     "wof:created":1469052641,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890448715,
-    "wof:lastmodified":1505343624,
+    "wof:lastmodified":1566660692,
     "wof:name":"Al Jurfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":43.40068,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.38068,16.80986,43.42068,16.84986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0629 \u0627\u0644\u0633\u0631\u0648"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8016063,
         "gp:id":1959061,
-        "qs:id":749502,
+        "qs_pg:id":749502,
         "wd:id":"Q20306122"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419525,
-    "wof:lastmodified":1563352885,
+    "wof:lastmodified":1566661085,
     "wof:name":"Qullat as Sarw",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

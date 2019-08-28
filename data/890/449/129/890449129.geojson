@@ -11,10 +11,14 @@
     "geom:longitude":43.70516,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.68516,16.05429,43.72516,16.09429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0636\u064a\u0631\u0629"
     ],
@@ -33,11 +37,11 @@
     "wof:concordances":{
         "gn:id":8021972,
         "gp:id":1959046,
-        "qs:id":750202
+        "qs_pg:id":750202
     },
     "wof:concordances_alt":{
         "gn:id":8020487,
-        "qs:id":749839
+        "qs_pg:id":749839
     },
     "wof:country":"YE",
     "wof:created":1469052670,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890449129,
-    "wof:lastmodified":1534379828,
+    "wof:lastmodified":1566660521,
     "wof:name":"Al \u1e28u\u1e11ayrah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.414,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.394,16.09977,43.434,16.13977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0630\u0628\u0627\u064a\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7681850,
         "gp:id":1958568,
-        "qs:id":697019,
+        "qs_pg:id":697019,
         "wd:id":"Q20300341"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427547,
-    "wof:lastmodified":1563353638,
+    "wof:lastmodified":1566661361,
     "wof:name":"Bayt Dhib\u0101yal",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

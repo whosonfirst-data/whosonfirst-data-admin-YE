@@ -11,10 +11,14 @@
     "geom:longitude":43.4187,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":22,
+    "gn:population":22,
     "iso:country":"YE",
+    "lbl:bbox":"43.3987,16.05384,43.4387,16.09384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0631\u0628"
     ],
@@ -33,11 +37,11 @@
     "wof:concordances":{
         "gn:id":7682261,
         "gp:id":1958568,
-        "qs:id":697075
+        "qs_pg:id":697075
     },
     "wof:concordances_alt":{
         "gn:id":7679850,
-        "qs:id":696965
+        "qs_pg:id":696965
     },
     "wof:country":"YE",
     "wof:created":1469052905,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890454559,
-    "wof:lastmodified":1534530968,
+    "wof:lastmodified":1566660970,
     "wof:name":"Al Majrab",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

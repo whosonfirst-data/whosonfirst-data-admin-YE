@@ -11,10 +11,14 @@
     "geom:longitude":43.96856,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.94856,13.15044,43.98856,13.19044",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0648\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8071346,
         "gp:id":1958962,
-        "qs:id":753751,
+        "qs_pg:id":753751,
         "wd:id":"Q20300730"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890421187,
-    "wof:lastmodified":1563353070,
+    "wof:lastmodified":1566661152,
     "wof:name":"Al Hawb",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

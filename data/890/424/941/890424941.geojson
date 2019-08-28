@@ -11,10 +11,13 @@
     "geom:longitude":43.4785,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.4735,16.02316,43.4835,16.03316",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0639\u0644\u064a"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7681918,
-        "qs:id":697030
+        "qs_pg:id":697030
     },
     "wof:country":"YE",
     "wof:created":1469051569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890424941,
-    "wof:lastmodified":1505343484,
+    "wof:lastmodified":1566660789,
     "wof:name":"Ban\u012b \u2018Al\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

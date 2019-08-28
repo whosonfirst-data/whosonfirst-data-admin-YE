@@ -11,10 +11,13 @@
     "geom:longitude":44.31034,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.30534,16.80125,44.31534,16.81125",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u0639\u0644\u0628\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794962,
-        "qs:id":700738
+        "qs_pg:id":700738
     },
     "wof:country":"YE",
     "wof:created":1469051246,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418387,
-    "wof:lastmodified":1505343444,
+    "wof:lastmodified":1566661315,
     "wof:name":"Bi\u2019r al \u2018Ulbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

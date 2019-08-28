@@ -11,10 +11,14 @@
     "geom:longitude":43.38765,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.36765,16.06818,43.40765,16.10818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u063a\u0646\u0645"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7654647,
         "gp:id":1958568,
-        "qs:id":695954,
+        "qs_pg:id":695954,
         "wd:id":"Q20309539"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890418787,
-    "wof:lastmodified":1563353505,
+    "wof:lastmodified":1566661315,
     "wof:name":"Yaghnam",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

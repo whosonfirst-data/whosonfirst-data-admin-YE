@@ -11,10 +11,14 @@
     "geom:longitude":43.26423,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.24423,17.36406,43.28423,17.40406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062d\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856558,
         "gp:id":56447933,
-        "qs:id":742478,
+        "qs_pg:id":742478,
         "wd:id":"Q20305220"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420757,
-    "wof:lastmodified":1563353379,
+    "wof:lastmodified":1566661265,
     "wof:name":"Al Fa\u1e29il",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

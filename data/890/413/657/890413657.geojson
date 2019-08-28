@@ -11,10 +11,14 @@
     "geom:longitude":43.32944,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.30944,17.44625,43.34944,17.48625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062b\u0648\u0645\u0631\u0627\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856514,
         "gp:id":56447933,
-        "qs:id":742436,
+        "qs_pg:id":742436,
         "wd:id":"Q20305439"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890413657,
-    "wof:lastmodified":1563351565,
+    "wof:lastmodified":1566660604,
     "wof:name":"Ath Thawmar\u0101n",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

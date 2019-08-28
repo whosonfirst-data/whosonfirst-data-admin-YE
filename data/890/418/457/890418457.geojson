@@ -11,10 +11,14 @@
     "geom:longitude":44.34582,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"YE",
+    "lbl:bbox":"44.32582,16.57106,44.36582,16.61106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0634\u0646"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7795227,
         "gp:id":1958965,
-        "qs:id":700990,
+        "qs_pg:id":700990,
         "wd:id":"Q20302171",
         "wk:page":"Dunklin County, Missouri"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890418457,
-    "wof:lastmodified":1563353492,
+    "wof:lastmodified":1566661310,
     "wof:name":"Ar Rushin",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

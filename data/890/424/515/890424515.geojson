@@ -11,10 +11,14 @@
     "geom:longitude":43.08145,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.06145,16.31576,43.10145,16.35576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0645\u0628\u0648\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631704,
         "gp:id":1958967,
-        "qs:id":694589,
+        "qs_pg:id":694589,
         "wd:id":"Q20304042"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890424515,
-    "wof:lastmodified":1563352148,
+    "wof:lastmodified":1566660807,
     "wof:name":"Al Qamb\u016br",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

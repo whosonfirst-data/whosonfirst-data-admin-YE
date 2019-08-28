@@ -11,10 +11,14 @@
     "geom:longitude":45.27286,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.25286,14.32724,45.29286,14.36724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u062c\u0647\u0631\u0627\u0646\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051754,
         "gp:id":1958975,
-        "qs:id":751140,
+        "qs_pg:id":751140,
         "wd:id":"Q20299821"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428287,
-    "wof:lastmodified":1563353134,
+    "wof:lastmodified":1566661176,
     "wof:name":"Bayt al Jahr\u0101n\u012b",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

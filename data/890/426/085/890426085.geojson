@@ -11,10 +11,13 @@
     "geom:longitude":43.42026,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.41526,17.35894,43.42526,17.36894",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0646\u0642\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7856491,
-        "qs:id":742412
+        "qs_pg:id":742412
     },
     "wof:country":"YE",
     "wof:created":1469051618,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890426085,
-    "wof:lastmodified":1505343491,
+    "wof:lastmodified":1566661101,
     "wof:name":"Al \u2018Anaqah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

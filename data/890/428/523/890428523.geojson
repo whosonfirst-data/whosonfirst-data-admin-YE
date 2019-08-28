@@ -11,10 +11,14 @@
     "geom:longitude":43.75393,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.73393,13.40738,43.77393,13.44738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0637\u064a\u0641\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8075679,
         "gp:id":1953407,
-        "qs:id":754268,
+        "qs_pg:id":754268,
         "wd:id":"Q20299259",
         "wk:page":"Al-Qutayfah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428523,
-    "wof:lastmodified":1563353216,
+    "wof:lastmodified":1566661204,
     "wof:name":"Al Qu\u0163ayfah",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

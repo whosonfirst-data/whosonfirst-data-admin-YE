@@ -11,10 +11,14 @@
     "geom:longitude":43.43704,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.41704,16.02857,43.45704,16.06857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u062f\u064a \u0627\u0644\u0633\u0647\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682302,
         "gp:id":1958568,
-        "qs:id":697116,
+        "qs_pg:id":697116,
         "wd:id":"Q20305840"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890446269,
-    "wof:lastmodified":1563351956,
+    "wof:lastmodified":1566660737,
     "wof:name":"Qawd\u012b as Sahal",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

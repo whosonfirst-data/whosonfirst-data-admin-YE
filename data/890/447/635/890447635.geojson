@@ -11,10 +11,14 @@
     "geom:longitude":43.39779,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.37779,16.27088,43.41779,16.31088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u064a\u0631\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7756422,
         "gp:id":1953570,
-        "qs:id":698920,
+        "qs_pg:id":698920,
         "wd:id":"Q20301114"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447635,
-    "wof:lastmodified":1563351194,
+    "wof:lastmodified":1566660471,
     "wof:name":"An Nuwayrah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

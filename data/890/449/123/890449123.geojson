@@ -11,10 +11,14 @@
     "geom:longitude":43.6307,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.6107,16.11071,43.6507,16.15071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0633\u064a\u0633\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8021969,
         "gp:id":1959128,
-        "qs:id":750199,
+        "qs_pg:id":750199,
         "wd:id":"Q20302155"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449123,
-    "wof:lastmodified":1563351391,
+    "wof:lastmodified":1566660538,
     "wof:name":"Ar Rusaysah",
     "wof:parent_id":1091922135,
     "wof:placetype":"locality",

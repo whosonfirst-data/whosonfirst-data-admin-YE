@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.944462,
     "lbl:longitude":45.419094,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Marib",
     "meso:admin1_loc":"\u0645\u0623\u0631\u0628",
     "meso:dissme":"MaribHarib",
@@ -32,6 +34,7 @@
     "mps:longitude":45.419094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u062d\u0631\u064a\u0628"
     ],
@@ -58,9 +61,9 @@
         "Harib"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1091925079,
-    "wof:lastmodified":1561839603,
+    "wof:lastmodified":1566660275,
     "wof:name":"Harib",
     "wof:parent_id":85681015,
     "wof:placetype":"county",

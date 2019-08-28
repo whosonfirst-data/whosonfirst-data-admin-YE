@@ -11,10 +11,14 @@
     "geom:longitude":43.38867,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.36867,16.0101,43.40867,16.0501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u064a\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682596,
         "gp:id":1958568,
-        "qs:id":697282,
+        "qs_pg:id":697282,
         "wd:id":"Q20304432"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890436075,
-    "wof:lastmodified":1563352560,
+    "wof:lastmodified":1566660955,
     "wof:name":"Al Kayyad",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

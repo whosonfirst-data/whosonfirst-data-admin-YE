@@ -9,20 +9,22 @@
     "geom:bbox":"52.18558,16.21382,52.18558,16.21382",
     "geom:latitude":16.21382,
     "geom:longitude":52.18558,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":289,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":289,
     "iso:country":"YE",
+    "lbl:bbox":"52.18058,16.20882,52.19058,16.21882",
     "lbl:latitude":16.21382,
     "lbl:longitude":52.18558,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u06f2\u06f7 \u0646\u0648\u0641\u0645\u0628\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e28\u0101rat Sab\u2018ah wa \u2018Ishr\u016bn N\u016bfimbir"
     ],
     "qs_pg:aaroncc":"YE",
@@ -37,13 +39,13 @@
     "qs_pg:qs_id":693980,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680995,
         102191569,
         85632499,
-        1091920855,
-        85680995
+        1091920855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1126076293,
-    "wof:lastmodified":1509410931,
+    "wof:lastmodified":1566661513,
     "wof:name":"\u1e28\u0101rat Sab\u2018ah wa \u2018Ashr\u012bn N\u016bfimbir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,13 @@
     "geom:longitude":43.23623,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.23123,16.27893,43.24123,16.28893",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u062a\u0644 \u0627\u0644\u0634\u064a\u062e\u064a\u0646 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7631646,
-        "qs:id":694561
+        "qs_pg:id":694561
     },
     "wof:country":"YE",
     "wof:created":1469051547,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890424499,
-    "wof:lastmodified":1505343482,
+    "wof:lastmodified":1566660786,
     "wof:name":"Maqtal ash Shaykhayn al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

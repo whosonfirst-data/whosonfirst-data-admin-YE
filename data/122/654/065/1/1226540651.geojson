@@ -24,8 +24,12 @@
     "gn:population":10948,
     "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
+    "lbl:bbox":"52.15605,16.18787,52.19605,16.22787",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u064a\u0636\u0629"
     ],
@@ -90,9 +94,7 @@
         "\u0415\u043b\u044c-\u0413\u0430\u0439\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Ghaidha",
-        "Al Ghay\u1e11ah",
-        "Al Ghayz\u0327ah"
+        "Ghaidha"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u063a\u06cc\u0636\u06c1"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1226540651,
-    "wof:lastmodified":1564135696,
+    "wof:lastmodified":1566662575,
     "wof:name":"Al Ghayzah",
     "wof:parent_id":1091920855,
     "wof:placetype":"locality",

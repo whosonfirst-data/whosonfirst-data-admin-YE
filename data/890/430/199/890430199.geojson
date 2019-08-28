@@ -11,10 +11,14 @@
     "geom:longitude":45.03644,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.01644,14.58037,45.05644,14.62037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0637\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053170,
         "gp:id":1958975,
-        "qs:id":751601,
+        "qs_pg:id":751601,
         "wd:id":"Q20300168"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890430199,
-    "wof:lastmodified":1563352396,
+    "wof:lastmodified":1566660891,
     "wof:name":"Al Maw\u0163al",
     "wof:parent_id":1091919559,
     "wof:placetype":"locality",

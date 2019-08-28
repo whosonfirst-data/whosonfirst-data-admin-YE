@@ -11,10 +11,14 @@
     "geom:longitude":43.69684,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.67684,16.20122,43.71684,16.24122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0629 \u0627\u0644\u062d\u0633\u0646"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al Karsh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birkat al \u1e28asan"
     ],
     "qs:name":"Birkat al \u1e28assan",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8021929,
         "gp:id":1959128,
-        "qs:id":750159,
+        "qs_pg:id":750159,
         "wd:id":"Q20301452"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890439407,
-    "wof:lastmodified":1563352297,
+    "wof:lastmodified":1566660857,
     "wof:name":"Birkat al \u1e28assan",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

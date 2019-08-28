@@ -11,10 +11,14 @@
     "geom:longitude":43.77346,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":39,
+    "gn:population":39,
     "iso:country":"YE",
+    "lbl:bbox":"43.75346,16.89049,43.79346,16.93049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0628\u0637"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7683850,
         "gp:id":1958152,
-        "qs:id":697545,
+        "qs_pg:id":697545,
         "wd:id":"Q20299016"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890437391,
-    "wof:lastmodified":1563352407,
+    "wof:lastmodified":1566660894,
     "wof:name":"Al Marba\u0163",
     "wof:parent_id":1091925525,
     "wof:placetype":"locality",

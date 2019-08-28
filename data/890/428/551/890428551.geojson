@@ -11,10 +11,14 @@
     "geom:longitude":43.52142,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":29,
+    "gn:population":29,
     "iso:country":"YE",
+    "lbl:bbox":"43.50142,12.66675,43.54142,12.70675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f\u064a"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8076454,
         "gp:id":1959013,
-        "qs:id":754552,
+        "qs_pg:id":754552,
         "wd:id":"Q20303611",
         "wk:page":"As-Suwaidi"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428551,
-    "wof:lastmodified":1563353118,
+    "wof:lastmodified":1566661169,
     "wof:name":"As Suwayd\u012b",
     "wof:parent_id":1091926505,
     "wof:placetype":"locality",

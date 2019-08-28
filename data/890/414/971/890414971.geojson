@@ -11,10 +11,14 @@
     "geom:longitude":43.3891,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.3691,16.5872,43.4091,16.6272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0644\u0637\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7854804,
         "gp:id":1959061,
-        "qs:id":741749
+        "qs_pg:id":741749
     },
     "wof:country":"YE",
     "wof:created":1469051069,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414971,
-    "wof:lastmodified":1505343423,
+    "wof:lastmodified":1566660644,
     "wof:name":"Al Mala\u0163ah",
     "wof:parent_id":1091923769,
     "wof:placetype":"locality",

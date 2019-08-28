@@ -11,11 +11,14 @@
     "geom:longitude":43.30008,
     "gn:country":"YE",
     "gn:fcode":"MKT",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u0644\u0642\u0647\u0631\u0629"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855039,
         "gp:id":1959134,
-        "qs:id":741971
+        "qs_pg:id":741971
     },
     "wof:country":"YE",
     "wof:created":1469052633,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890448495,
-    "wof:lastmodified":1505343623,
+    "wof:lastmodified":1566660712,
     "wof:name":"S\u016bq al Qaharah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

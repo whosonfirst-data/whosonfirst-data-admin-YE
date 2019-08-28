@@ -10,8 +10,12 @@
     "geom:latitude":13.9679,
     "geom:longitude":44.179401,
     "iso:country":"YE",
+    "lbl:bbox":"44.159401,13.9479,44.199401,13.9879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1959070,
-        "qs:id":1119711
+        "qs_pg:id":1119711
     },
     "wof:country":"YE",
     "wof:created":1459009661,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421190549,
-    "wof:lastmodified":1500035244,
+    "wof:lastmodified":1566660448,
     "wof:name":"\u0627\u064a\u0628",
     "wof:parent_id":1091924353,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":44.44129,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":59,
+    "gn:population":59,
     "iso:country":"YE",
+    "lbl:bbox":"44.43629,16.74789,44.44629,16.75789",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062d\u0628\u0629"
     ],
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795288,
-        "qs:id":701050,
+        "qs_pg:id":701050,
         "wd:id":"Q4783047",
         "wk:page":"Ar Rahabah"
     },
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890413969,
-    "wof:lastmodified":1563351580,
+    "wof:lastmodified":1566660609,
     "wof:name":"Ar Ra\u1e29abah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

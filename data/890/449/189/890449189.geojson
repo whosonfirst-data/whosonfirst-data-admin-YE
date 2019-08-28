@@ -11,10 +11,13 @@
     "geom:longitude":44.05565,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.05065,16.38338,44.06065,16.39338",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062f\u064a\u0631\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8025372,
-        "qs:id":750576
+        "qs_pg:id":750576
     },
     "wof:country":"YE",
     "wof:created":1469052674,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890449189,
-    "wof:lastmodified":1505343627,
+    "wof:lastmodified":1566660521,
     "wof:name":"Al Mudayrah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

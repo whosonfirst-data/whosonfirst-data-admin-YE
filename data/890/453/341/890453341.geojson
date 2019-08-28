@@ -11,10 +11,13 @@
     "geom:longitude":43.64626,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.64126,16.24694,43.65126,16.25694",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0623\u063a\u0628\u0631\u064a \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7849404,
-        "qs:id":741533
+        "qs_pg:id":741533
     },
     "wof:country":"YE",
     "wof:created":1469052850,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890453341,
-    "wof:lastmodified":1505343650,
+    "wof:lastmodified":1566661016,
     "wof:name":"Bayt al Aghbar\u012b as Sufl\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

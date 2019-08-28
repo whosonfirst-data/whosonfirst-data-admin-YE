@@ -11,10 +11,14 @@
     "geom:longitude":45.70952,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"45.68952,14.36764,45.72952,14.40764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u064a\u062f \u062d\u0633\u0646"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ad Dar\u0101bi\u1e29"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e28ayd \u1e28asan"
     ],
     "qs:name":"\u1e28ayd \u1e28assan",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8066838,
         "gp:id":1958988,
-        "qs:id":752883,
+        "qs_pg:id":752883,
         "wd:id":"Q20305557"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890455111,
-    "wof:lastmodified":1563352499,
+    "wof:lastmodified":1566660931,
     "wof:name":"\u1e28ayd \u1e28assan",
     "wof:parent_id":1091919333,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":44.2196,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"44.1996,15.51745,44.2396,15.55745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0643\u062f\u0633"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":7890471,
         "gp:id":12523005,
-        "qs:id":743899
+        "qs_pg:id":743899
     },
     "wof:country":"YE",
     "wof:created":1469052472,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890444537,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566661230,
     "wof:name":"Bayt al Kadis",
     "wof:parent_id":1091921523,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.44619,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":50,
+    "gn:population":50,
     "iso:country":"YE",
+    "lbl:bbox":"43.42619,16.06468,43.46619,16.10468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0646\u0628\u0640\u0640\u0629"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7658683,
         "gp:id":1958568,
-        "qs:id":696480,
+        "qs_pg:id":696480,
         "wd:id":"Q20307315"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890418871,
-    "wof:lastmodified":1563353479,
+    "wof:lastmodified":1566661305,
     "wof:name":"Al Majnabah",
     "wof:parent_id":1091923483,
     "wof:placetype":"locality",

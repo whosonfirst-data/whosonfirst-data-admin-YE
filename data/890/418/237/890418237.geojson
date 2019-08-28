@@ -11,14 +11,17 @@
     "geom:longitude":44.28028,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"44.27528,16.77554,44.28528,16.78554",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0641\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u1e28afrah"
     ],
     "qs:name":"Al \u1e28afirah",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794888,
-        "qs:id":700669
+        "qs_pg:id":700669
     },
     "wof:country":"YE",
     "wof:created":1469051239,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890418237,
-    "wof:lastmodified":1505343443,
+    "wof:lastmodified":1566661311,
     "wof:name":"Al \u1e28afirah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

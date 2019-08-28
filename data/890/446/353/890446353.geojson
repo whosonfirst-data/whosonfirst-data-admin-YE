@@ -11,10 +11,14 @@
     "geom:longitude":43.40211,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.38211,16.02039,43.42211,16.06039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0648\u0628\u0640\u0640\u0629"
     ],
@@ -42,12 +46,12 @@
     "wof:concordances":{
         "gn:id":7682583,
         "gp:id":1958568,
-        "qs:id":697270,
+        "qs_pg:id":697270,
         "wd:id":"Q20303553"
     },
     "wof:concordances_alt":{
         "gn:id":7682579,
-        "qs:id":697266
+        "qs_pg:id":697266
     },
     "wof:country":"YE",
     "wof:created":1469052548,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890446353,
-    "wof:lastmodified":1563351917,
+    "wof:lastmodified":1566660723,
     "wof:name":"Al Jir\u016bbah",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

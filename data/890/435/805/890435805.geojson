@@ -11,10 +11,13 @@
     "geom:longitude":43.69688,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69188,16.21208,43.70188,16.22208",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0642 \u0627\u0644\u0628\u0631\u0643\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021931,
-        "qs:id":750161
+        "qs_pg:id":750161
     },
     "wof:country":"YE",
     "wof:created":1469052082,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890435805,
-    "wof:lastmodified":1505343549,
+    "wof:lastmodified":1566661415,
     "wof:name":"Fawq al Birkah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

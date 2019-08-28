@@ -11,10 +11,14 @@
     "geom:longitude":44.19915,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.17915,16.57526,44.21915,16.61526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0646\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7794843,
         "gp:id":1958965,
-        "qs:id":700626,
+        "qs_pg:id":700626,
         "wd:id":"Q20301862",
         "wk:page":"Ar Rawnah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890427761,
-    "wof:lastmodified":1563353599,
+    "wof:lastmodified":1566661349,
     "wof:name":"Ar Rawnah",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

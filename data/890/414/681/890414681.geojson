@@ -11,10 +11,14 @@
     "geom:longitude":43.79074,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.77074,13.47165,43.81074,13.51165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u062c\u0645 \u0627\u0644\u0639\u062c\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8075686,
         "gp:id":1959049,
-        "qs:id":754275,
+        "qs_pg:id":754275,
         "wd:id":"Q20304990"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414681,
-    "wof:lastmodified":1563351634,
+    "wof:lastmodified":1566660627,
     "wof:name":"Hajm al \u2018Ajl",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

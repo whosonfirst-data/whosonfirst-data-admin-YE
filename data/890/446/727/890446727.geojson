@@ -11,10 +11,13 @@
     "geom:longitude":43.77109,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":116,
+    "gn:population":116,
     "iso:country":"YE",
+    "lbl:bbox":"43.76609,16.92025,43.77609,16.93025",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0634\u0631\u064a\u0641\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683884,
-        "qs:id":697579
+        "qs_pg:id":697579
     },
     "wof:country":"YE",
     "wof:created":1469052564,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446727,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660768,
     "wof:name":"Bi\u2019r ash Shar\u012bfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

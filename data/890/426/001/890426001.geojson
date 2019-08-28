@@ -11,10 +11,14 @@
     "geom:longitude":43.351,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.331,16.6509,43.371,16.6909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0628\u0627\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855236,
         "gp:id":1959134,
-        "qs:id":742154
+        "qs_pg:id":742154
     },
     "wof:country":"YE",
     "wof:created":1469051614,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426001,
-    "wof:lastmodified":1505343491,
+    "wof:lastmodified":1566661108,
     "wof:name":"Al Mashb\u0101b",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

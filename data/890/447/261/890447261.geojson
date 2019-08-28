@@ -11,10 +11,14 @@
     "geom:longitude":44.11248,
     "gn:country":"YE",
     "gn:fcode":"PPLF",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"44.09248,16.89648,44.13248,16.93648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0644 \u0645\u0628\u0627\u0631\u0643"
     ],
@@ -59,10 +63,12 @@
     "wof:concordances":{
         "gn:id":8053338,
         "gp:id":1959086,
-        "qs:id":698547,
-        "qs_pg:id":751760,
+        "qs_pg:id":698547,
         "wd:id":"Q4704478",
         "wk:page":"Al Mubarak"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":751760
     },
     "wof:country":"YE",
     "wof:created":1469052585,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890447261,
-    "wof:lastmodified":1563351185,
+    "wof:lastmodified":1566660467,
     "wof:name":"\u0100l Mub\u0101rak",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

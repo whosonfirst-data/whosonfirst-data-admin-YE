@@ -11,10 +11,14 @@
     "geom:longitude":43.40142,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.38142,16.14197,43.42142,16.18197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0642\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7658625,
         "gp:id":1953570,
-        "qs:id":696435
+        "qs_pg:id":696435
     },
     "wof:country":"YE",
     "wof:created":1469052963,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455583,
-    "wof:lastmodified":1505343664,
+    "wof:lastmodified":1566660942,
     "wof:name":"Al Mashqab",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

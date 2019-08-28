@@ -11,10 +11,14 @@
     "geom:longitude":43.78206,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":27,
+    "gn:population":27,
     "iso:country":"YE",
+    "lbl:bbox":"43.76206,13.22738,43.80206,13.26738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0643\u062d\u0644"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8069131,
         "gp:id":1958962,
-        "qs:id":753310,
+        "qs_pg:id":753310,
         "wd:id":"Q20303624",
         "wk:page":"Al Akhal"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890427091,
-    "wof:lastmodified":1563353549,
+    "wof:lastmodified":1566661331,
     "wof:name":"Al Ak\u1e29al",
     "wof:parent_id":1091926417,
     "wof:placetype":"locality",

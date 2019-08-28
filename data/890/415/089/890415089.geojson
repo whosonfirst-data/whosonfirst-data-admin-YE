@@ -11,10 +11,14 @@
     "geom:longitude":43.29788,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.27788,16.63984,43.31788,16.67984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0631 \u0627\u0644\u0639\u0633\u0643\u0631\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855052,
         "gp:id":1959134,
-        "qs:id":741983,
+        "qs_pg:id":741983,
         "wd:id":"Q20308746"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890415089,
-    "wof:lastmodified":1563352049,
+    "wof:lastmodified":1566660772,
     "wof:name":"Sirr al \u2018Askar\u012b",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

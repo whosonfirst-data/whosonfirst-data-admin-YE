@@ -11,10 +11,14 @@
     "geom:longitude":43.23142,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":54,
+    "gn:population":54,
     "iso:country":"YE",
+    "lbl:bbox":"43.21142,16.2199,43.25142,16.2599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0628\u064a\u062a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7363149,
         "gp:id":1953570,
-        "qs:id":685284,
+        "qs_pg:id":685284,
         "wd:id":"Q20301805"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449993,
-    "wof:lastmodified":1563351358,
+    "wof:lastmodified":1566660526,
     "wof:name":"Al Mubayyat",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

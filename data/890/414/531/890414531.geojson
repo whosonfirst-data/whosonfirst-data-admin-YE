@@ -11,10 +11,14 @@
     "geom:longitude":45.17788,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.15788,14.69109,45.19788,14.73109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062b\u064a\u0644"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8053504,
         "gp:id":1958975,
-        "qs:id":751919
+        "qs_pg:id":751919
     },
     "wof:country":"YE",
     "wof:created":1469051052,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414531,
-    "wof:lastmodified":1505343420,
+    "wof:lastmodified":1566660650,
     "wof:name":"Al Uthayl",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",

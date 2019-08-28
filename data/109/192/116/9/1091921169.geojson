@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.465778,
     "lbl:longitude":43.546911,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Al Mahwit",
     "meso:admin1_loc":"\u0627\u0644\u0645\u062d\u0648\u064a\u062a",
     "meso:dissme":"Al MahwitAl Mahwait City",
@@ -32,6 +34,7 @@
     "mps:longitude":43.546911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al Mahwait City"
     ],
@@ -39,9 +42,9 @@
         "Al Mahwait City"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091921169,
-    "wof:lastmodified":1553717996,
+    "wof:lastmodified":1566660265,
     "wof:name":"Al Mahwait City",
     "wof:parent_id":85680965,
     "wof:placetype":"county",

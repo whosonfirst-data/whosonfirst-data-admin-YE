@@ -11,10 +11,14 @@
     "geom:longitude":43.41649,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":34,
+    "gn:population":34,
     "iso:country":"YE",
+    "lbl:bbox":"43.39649,16.12918,43.43649,16.16918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0632\u064a\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7658577,
         "gp:id":1958568,
-        "qs:id":696392
+        "qs_pg:id":696392
     },
     "wof:country":"YE",
     "wof:created":1469052541,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890446159,
-    "wof:lastmodified":1505343609,
+    "wof:lastmodified":1566660722,
     "wof:name":"Al Khaz\u012bn",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

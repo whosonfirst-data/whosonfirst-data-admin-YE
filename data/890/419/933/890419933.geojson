@@ -11,10 +11,14 @@
     "geom:longitude":43.9211,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.9011,13.11936,43.9411,13.15936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u062c\u0631\u0629"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8071315,
         "gp:id":1958962,
-        "qs:id":753728,
+        "qs_pg:id":753728,
         "wd:id":"Q20301355",
         "wk:page":"Al-Hijrah"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419933,
-    "wof:lastmodified":1563352839,
+    "wof:lastmodified":1566661067,
     "wof:name":"Al Hijrah",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

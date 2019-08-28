@@ -11,10 +11,14 @@
     "geom:longitude":43.30457,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.28457,16.2021,43.32457,16.2421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0646"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7631828,
         "gp:id":1953570,
-        "qs:id":694667,
+        "qs_pg:id":694667,
         "wd:id":"Q4703102",
         "wk:page":"Al-Qurayn, Yemen"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890453227,
-    "wof:lastmodified":1563352688,
+    "wof:lastmodified":1566661008,
     "wof:name":"Al Qurayn",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.70231,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.68231,16.06406,43.72231,16.10406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0627\u0628 \u0627\u0644\u062d\u062c\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8020610,
         "gp:id":1959046,
-        "qs:id":749955,
+        "qs_pg:id":749955,
         "wd:id":"Q20299024"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439359,
-    "wof:lastmodified":1563352319,
+    "wof:lastmodified":1566660865,
     "wof:name":"Khar\u0101b al \u1e28aj\u012b",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

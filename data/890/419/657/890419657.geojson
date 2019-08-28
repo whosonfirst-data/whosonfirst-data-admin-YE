@@ -11,10 +11,13 @@
     "geom:longitude":45.36822,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.36322,14.37008,45.37322,14.38008",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
@@ -60,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8051718,
-        "qs:id":751104,
+        "qs_pg:id":751104,
         "wd:id":"Q6617100",
         "wk:page":"List of districts of Yemen"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890419657,
-    "wof:lastmodified":1563352808,
+    "wof:lastmodified":1566661054,
     "wof:name":"Ash Sharyah al \u2018Uly\u0101",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

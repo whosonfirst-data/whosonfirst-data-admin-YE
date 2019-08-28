@@ -11,10 +11,14 @@
     "geom:longitude":43.3892,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.3692,16.35128,43.4092,16.39128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0645\u0639"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783337,
         "gp:id":1958967,
-        "qs:id":699989,
+        "qs_pg:id":699989,
         "wd:id":"Q20305887"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447977,
-    "wof:lastmodified":1563351200,
+    "wof:lastmodified":1566660473,
     "wof:name":"Al Lami\u2018",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

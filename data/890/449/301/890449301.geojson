@@ -11,10 +11,14 @@
     "geom:longitude":45.27344,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.25344,14.73848,45.29344,14.77848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0631\u062c\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053286,
         "gp:id":1958975,
-        "qs:id":751714,
+        "qs_pg:id":751714,
         "wd:id":"Q20300446"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449301,
-    "wof:lastmodified":1563351306,
+    "wof:lastmodified":1566660509,
     "wof:name":"Al \u1e28arijah",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

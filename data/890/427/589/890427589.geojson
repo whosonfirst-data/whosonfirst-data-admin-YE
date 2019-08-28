@@ -11,10 +11,14 @@
     "geom:longitude":43.38426,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.36426,16.03136,43.40426,16.07136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0628\u0627\u0631\u0629"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7632307,
         "gp:id":1958568,
-        "qs:id":697247,
         "qs_pg:id":694895,
         "wd:id":"Q20307203"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":697247
     },
     "wof:country":"YE",
     "wof:created":1469051704,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890427589,
-    "wof:lastmodified":1563353581,
+    "wof:lastmodified":1566661342,
     "wof:name":"Al Majb\u0101rah",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

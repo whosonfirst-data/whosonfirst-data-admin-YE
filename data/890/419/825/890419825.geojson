@@ -11,10 +11,14 @@
     "geom:longitude":45.55789,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"45.53789,14.02074,45.57789,14.06074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0628\u0631"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8066751,
         "gp:id":1952504,
-        "qs:id":752810,
+        "qs_pg:id":752810,
         "wd:id":"Q20302391",
         "wk:page":"Al Jabar"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419825,
-    "wof:lastmodified":1563352857,
+    "wof:lastmodified":1566661074,
     "wof:name":"Al Jabar",
     "wof:parent_id":1091918993,
     "wof:placetype":"locality",

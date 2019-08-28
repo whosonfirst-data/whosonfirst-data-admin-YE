@@ -11,10 +11,13 @@
     "geom:longitude":43.70056,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.69556,16.14011,43.70556,16.15011",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0627\u0631\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928243,
-        "qs:id":745680
+        "qs_pg:id":745680
     },
     "wof:country":"YE",
     "wof:created":1469051403,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890421683,
-    "wof:lastmodified":1505343465,
+    "wof:lastmodified":1566661162,
     "wof:name":"Al \u1e28\u0101rah al Wis\u0163\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

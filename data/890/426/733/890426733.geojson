@@ -11,14 +11,17 @@
     "geom:longitude":42.74726,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":55,
+    "gn:population":55,
     "iso:country":"YE",
+    "lbl:bbox":"42.74226,15.53258,42.75226,15.54258",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghal\u012bl"
     ],
     "qs:name":"Ghulayl",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8026148,
-        "qs:id":750689
+        "qs_pg:id":750689
     },
     "wof:country":"YE",
     "wof:created":1469051644,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890426733,
-    "wof:lastmodified":1505343495,
+    "wof:lastmodified":1566661116,
     "wof:name":"Ghulayl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

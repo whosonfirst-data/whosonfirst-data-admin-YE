@@ -11,10 +11,13 @@
     "geom:longitude":43.41761,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.41261,16.03538,43.42261,16.04538",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0628 \u0645\u0648\u064a\u062f"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682631,
-        "qs:id":697316
+        "qs_pg:id":697316
     },
     "wof:country":"YE",
     "wof:created":1469051485,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423195,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660809,
     "wof:name":"Gh\u0101rib Muwayd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

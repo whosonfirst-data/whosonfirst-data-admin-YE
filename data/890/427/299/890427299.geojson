@@ -11,10 +11,14 @@
     "geom:longitude":43.4084,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.3884,16.65035,43.4284,16.69035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0631\u0642"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7855149,
         "gp:id":1959061,
-        "qs:id":742071
+        "qs_pg:id":742071
     },
     "wof:country":"YE",
     "wof:created":1469051687,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427299,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566661360,
     "wof:name":"Al Masraq",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

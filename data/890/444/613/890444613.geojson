@@ -11,10 +11,14 @@
     "geom:longitude":44.29047,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.27047,15.49856,44.31047,15.53856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0637\u0627\u062d"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7890507,
         "gp:id":12523005,
-        "qs:id":743930,
+        "qs_pg:id":743930,
         "wd:id":"Q20304598"
     },
     "wof:country":"YE",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890444613,
-    "wof:lastmodified":1563353291,
+    "wof:lastmodified":1566661231,
     "wof:name":"Al Ba\u0163\u0101\u1e29",
     "wof:parent_id":1091921523,
     "wof:placetype":"locality",

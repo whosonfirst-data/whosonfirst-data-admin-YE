@@ -11,10 +11,14 @@
     "geom:longitude":45.41552,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.39552,14.35488,45.43552,14.39488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0634\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8051728,
         "gp:id":1958975,
-        "qs:id":751114
+        "qs_pg:id":751114
     },
     "wof:country":"YE",
     "wof:created":1469051049,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414455,
-    "wof:lastmodified":1505343420,
+    "wof:lastmodified":1566660637,
     "wof:name":"Al Ghashshah",
     "wof:parent_id":1091919055,
     "wof:placetype":"locality",

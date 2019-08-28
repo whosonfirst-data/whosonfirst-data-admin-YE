@@ -11,10 +11,14 @@
     "geom:longitude":44.26444,
     "gn:country":"YE",
     "gn:fcode":"FRMS",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.24444,15.40413,44.28444,15.44413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al \u2018Aws\u0101j"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7890515,
         "gp:id":1954268,
-        "qs:id":743938
+        "qs_pg:id":743938
     },
     "wof:country":"YE",
     "wof:created":1469052477,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890444657,
-    "wof:lastmodified":1505343600,
+    "wof:lastmodified":1566661230,
     "wof:name":"Al \u2018Aws\u0101j",
     "wof:parent_id":1091925759,
     "wof:placetype":"locality",

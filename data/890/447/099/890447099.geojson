@@ -11,10 +11,14 @@
     "geom:longitude":43.67126,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"YE",
+    "lbl:bbox":"43.65126,16.94691,43.69126,16.98691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0627\u0634\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7753472,
         "gp:id":1953481,
-        "qs:id":698396,
+        "qs_pg:id":698396,
         "wd:id":"Q20301802"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447099,
-    "wof:lastmodified":1563351191,
+    "wof:lastmodified":1566660469,
     "wof:name":"Ar Raw\u0101shid",
     "wof:parent_id":1091925551,
     "wof:placetype":"locality",

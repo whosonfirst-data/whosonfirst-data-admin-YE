@@ -11,10 +11,13 @@
     "geom:longitude":43.8102,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"YE",
+    "lbl:bbox":"43.8052,16.88912,43.8152,16.89912",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0639\u0631\u062c"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683806,
-        "qs:id":697502
+        "qs_pg:id":697502
     },
     "wof:country":"YE",
     "wof:created":1469052559,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446601,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660758,
     "wof:name":"Al A\u2018raj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

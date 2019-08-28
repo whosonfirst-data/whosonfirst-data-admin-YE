@@ -11,17 +11,21 @@
     "geom:longitude":43.31733,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.29733,16.10873,43.33733,16.14873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0644\u0627\u0645 \u0628\u0646\u0649 \u062c\u0627\u0628\u0631"
     ],
     "name:ara_x_variant":[
         "\u0628\u0646\u064a \u062c\u0627\u0628\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban\u012b J\u0101bir"
     ],
     "qs:name":"Al Misl\u0101m Ban\u012b J\u0101bir",
@@ -42,7 +46,9 @@
     "wof:concordances":{
         "gn:id":7632332,
         "gp:id":1953570,
-        "qs:id":694839,
+        "qs_pg:id":694839
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":694910
     },
     "wof:country":"YE",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890424637,
-    "wof:lastmodified":1505343482,
+    "wof:lastmodified":1566660802,
     "wof:name":"Al Misl\u0101m Ban\u012b J\u0101bir",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

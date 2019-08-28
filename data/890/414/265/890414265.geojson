@@ -11,10 +11,14 @@
     "geom:longitude":43.37254,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.35254,16.78215,43.39254,16.82215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0647\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7926841,
         "gp:id":1959134,
-        "qs:id":745180,
+        "qs_pg:id":745180,
         "wd:id":"Q20302918"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414265,
-    "wof:lastmodified":1563351734,
+    "wof:lastmodified":1566660660,
     "wof:name":"Al Jarah\u012b",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

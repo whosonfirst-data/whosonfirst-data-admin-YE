@@ -11,10 +11,14 @@
     "geom:longitude":43.3038,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.2838,16.00541,43.3238,16.04541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0648\u0631"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7632394,
         "gp:id":1958568,
-        "qs:id":694943,
+        "qs_pg:id":694943,
         "wd:id":"Q4704186",
         "wk:page":"Al Kawr"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890424659,
-    "wof:lastmodified":1563352090,
+    "wof:lastmodified":1566660787,
     "wof:name":"Al Kawr",
     "wof:parent_id":1091923743,
     "wof:placetype":"locality",

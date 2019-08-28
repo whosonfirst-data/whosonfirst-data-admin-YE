@@ -9,15 +9,17 @@
     "geom:bbox":"43.67928,16.0324,43.67928,16.0324",
     "geom:latitude":16.0324,
     "geom:longitude":43.67928,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":9,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.67428,16.0274,43.68428,16.0374",
     "lbl:latitude":16.0324,
     "lbl:longitude":43.67928,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0631\u0639\u064a"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":749979,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680977,
         102191569,
         85632499,
-        1091921861,
-        85680977
+        1091921861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126065743,
-    "wof:lastmodified":1509410412,
+    "wof:lastmodified":1566661505,
     "wof:name":"Al Misra\u2018\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

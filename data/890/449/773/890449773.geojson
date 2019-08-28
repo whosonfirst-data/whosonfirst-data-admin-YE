@@ -11,15 +11,18 @@
     "geom:longitude":42.9136,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0639\u0643\u0627\u062f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban\u012b"
     ],
     "qs:name":"Ban\u012b \u2018Akk\u0101d",
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":77351,
         "gp:id":1959063,
-        "qs:id":60681
+        "qs_pg:id":60681
     },
     "wof:country":"YE",
     "wof:created":1469052708,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890449773,
-    "wof:lastmodified":1505343630,
+    "wof:lastmodified":1566660540,
     "wof:name":"Ban\u012b \u2018Akk\u0101d",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

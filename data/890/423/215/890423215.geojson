@@ -11,10 +11,13 @@
     "geom:longitude":43.37699,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"YE",
+    "lbl:bbox":"43.37199,16.02892,43.38199,16.03892",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0644\u062c \u062e\u064a\u0634\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682677,
-        "qs:id":697360
+        "qs_pg:id":697360
     },
     "wof:country":"YE",
     "wof:created":1469051486,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890423215,
-    "wof:lastmodified":1505343474,
+    "wof:lastmodified":1566660829,
     "wof:name":"Lujj Khayshah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

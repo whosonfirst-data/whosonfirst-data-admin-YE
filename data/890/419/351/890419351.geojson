@@ -11,10 +11,14 @@
     "geom:longitude":43.30039,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.28039,17.3529,43.32039,17.3929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0632\u0627\u0648\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7856636,
         "gp:id":56447933,
-        "qs:id":742552
+        "qs_pg:id":742552
     },
     "wof:country":"YE",
     "wof:created":1469051284,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890419351,
-    "wof:lastmodified":1505343450,
+    "wof:lastmodified":1566661064,
     "wof:name":"Al Baz\u0101wah",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

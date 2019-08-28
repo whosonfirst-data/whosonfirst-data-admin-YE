@@ -11,10 +11,14 @@
     "geom:longitude":43.23017,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.21017,16.2407,43.25017,16.2807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0642\u0644\u0629"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7631897,
         "gp:id":1953570,
-        "qs:id":694568,
-        "qs_pg:id":694736,
+        "qs_pg:id":694568,
         "wd:id":"Q20300284"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":694736
     },
     "wof:country":"YE",
     "wof:created":1469051256,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890418643,
-    "wof:lastmodified":1563353425,
+    "wof:lastmodified":1566661283,
     "wof:name":"Al \u1e28aqlah",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

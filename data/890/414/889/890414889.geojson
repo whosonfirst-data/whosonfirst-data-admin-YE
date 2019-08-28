@@ -11,10 +11,14 @@
     "geom:longitude":43.67871,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.65871,16.31678,43.69871,16.35678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u062c\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7849473,
         "gp:id":1953833,
-        "qs:id":741600
+        "qs_pg:id":741600
     },
     "wof:country":"YE",
     "wof:created":1469051065,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414889,
-    "wof:lastmodified":1505343422,
+    "wof:lastmodified":1566660629,
     "wof:name":"Ash Shajn",
     "wof:parent_id":1091921677,
     "wof:placetype":"locality",

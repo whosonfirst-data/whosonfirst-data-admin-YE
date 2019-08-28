@@ -11,10 +11,14 @@
     "geom:longitude":43.26416,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.24416,17.08405,43.28416,17.12405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Bur\u016bd"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7865299,
         "gp:id":1938135,
-        "qs:id":742925,
+        "qs_pg:id":742925,
         "wd:id":"Q20305049"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890427277,
-    "wof:lastmodified":1563353602,
+    "wof:lastmodified":1566661350,
     "wof:name":"Al Bur\u016bd",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

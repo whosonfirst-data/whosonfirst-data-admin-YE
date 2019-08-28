@@ -9,15 +9,17 @@
     "geom:bbox":"43.69823,16.1829,43.69823,16.1829",
     "geom:latitude":16.1829,
     "geom:longitude":43.69823,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69323,16.1779,43.70323,16.1879",
     "lbl:latitude":16.1829,
     "lbl:longitude":43.69823,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0637\u0640\u0629"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":745705,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680977,
         102191569,
         85632499,
-        1091922105,
-        85680977
+        1091922105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126097609,
-    "wof:lastmodified":1509411960,
+    "wof:lastmodified":1566661515,
     "wof:name":"Al Ma\u1e29a\u0163\u0163ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

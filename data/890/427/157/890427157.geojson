@@ -11,10 +11,14 @@
     "geom:longitude":43.95569,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.93569,13.1112,43.97569,13.1512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u062f\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8071453,
         "gp:id":1958962,
-        "qs:id":753839,
+        "qs_pg:id":753839,
         "wd:id":"Q20298904"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427157,
-    "wof:lastmodified":1563353516,
+    "wof:lastmodified":1566661320,
     "wof:name":"Al Maradah",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":44.26012,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":28,
+    "gn:population":28,
     "iso:country":"YE",
+    "lbl:bbox":"44.24012,16.59438,44.28012,16.63438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0645 \u0623\u0628\u0648 \u0646\u0648\u0627\u0633"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_variant":[
         "Al Qar\u0101r al A\u2018l\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ab\u016b Naw\u0101s"
     ],
     "qs:name":"Maq\u0101m Ab\u016b Naw\u0101s",
@@ -48,9 +52,11 @@
     "wof:concordances":{
         "gn:id":7855137,
         "gp:id":1958965,
-        "qs:id":700942,
-        "qs_pg:id":742060,
+        "qs_pg:id":700942,
         "wd:id":"Q20300892"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":742060
     },
     "wof:country":"YE",
     "wof:created":1469052225,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890439189,
-    "wof:lastmodified":1563352306,
+    "wof:lastmodified":1566660860,
     "wof:name":"Maq\u0101m Ab\u016b Naw\u0101s",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.22111,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.20111,17.14466,43.24111,17.18466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "B\u016bth"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8022160,
         "gp:id":1938607,
-        "qs:id":750320,
+        "qs_pg:id":750320,
         "wd:id":"Q20301529"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890439461,
-    "wof:lastmodified":1514503254,
+    "wof:lastmodified":1566660879,
     "wof:name":"B\u016bth",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

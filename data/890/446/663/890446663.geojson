@@ -11,10 +11,14 @@
     "geom:longitude":43.77544,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":36,
+    "gn:population":36,
     "iso:country":"YE",
+    "lbl:bbox":"43.75544,16.88966,43.79544,16.92966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u064a\u062f"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":7900528,
         "gp:id":1958152,
-        "qs:id":697546,
+        "qs_pg:id":697546
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":744295
     },
     "wof:country":"YE",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890446663,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660757,
     "wof:name":"An Nayd",
     "wof:parent_id":1091925525,
     "wof:placetype":"locality",

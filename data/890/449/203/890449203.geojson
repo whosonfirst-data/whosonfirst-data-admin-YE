@@ -11,10 +11,14 @@
     "geom:longitude":45.23319,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.21319,14.28204,45.25319,14.32204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0627\u0637"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051764,
         "gp:id":1958975,
-        "qs:id":751150,
+        "qs_pg:id":751150,
         "wd:id":"Q20303996"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449203,
-    "wof:lastmodified":1563351331,
+    "wof:lastmodified":1566660517,
     "wof:name":"Al Qal\u0101\u0163",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

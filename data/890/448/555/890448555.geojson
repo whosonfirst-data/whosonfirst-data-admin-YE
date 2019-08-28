@@ -11,10 +11,14 @@
     "geom:longitude":43.37841,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.35841,16.66245,43.39841,16.70245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0633\u0644\u0629"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7855204,
         "gp:id":1959061,
-        "qs:id":742122,
+        "qs_pg:id":742122,
         "wd:id":"Q4703390",
         "wk:page":"Al-`Asilah"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890448555,
-    "wof:lastmodified":1563351846,
+    "wof:lastmodified":1566660697,
     "wof:name":"Al \u2018Asilah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

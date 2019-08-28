@@ -11,10 +11,13 @@
     "geom:longitude":44.27945,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.27445,16.77206,44.28445,16.78206",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0639\u0648\u062f\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794896,
-        "qs:id":700677
+        "qs_pg:id":700677
     },
     "wof:country":"YE",
     "wof:created":1469051241,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890418255,
-    "wof:lastmodified":1505343443,
+    "wof:lastmodified":1566661311,
     "wof:name":"Mas\u2018\u016bdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":43.26309,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.24309,17.37981,43.28309,17.41981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0628\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7856578,
         "gp:id":56447933,
-        "qs:id":742495
+        "qs_pg:id":742495
     },
     "wof:country":"YE",
     "wof:created":1469051010,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413669,
-    "wof:lastmodified":1505343415,
+    "wof:lastmodified":1566660602,
     "wof:name":"Al Muwayrah",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

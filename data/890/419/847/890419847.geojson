@@ -11,10 +11,14 @@
     "geom:longitude":45.82648,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"45.80648,14.11402,45.84648,14.15402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0632"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066783,
         "gp:id":1959103,
-        "qs:id":752838,
+        "qs_pg:id":752838,
         "wd:id":"Q20304981"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419847,
-    "wof:lastmodified":1563352852,
+    "wof:lastmodified":1566661072,
     "wof:name":"Al Kharaz",
     "wof:parent_id":1091919381,
     "wof:placetype":"locality",

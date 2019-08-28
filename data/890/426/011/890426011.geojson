@@ -11,10 +11,14 @@
     "geom:longitude":43.35978,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.33978,16.64915,43.37978,16.68915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u062b\u0628\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855248,
         "gp:id":1959134,
-        "qs:id":742166,
+        "qs_pg:id":742166,
         "wd:id":"Q20300185"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426011,
-    "wof:lastmodified":1563352991,
+    "wof:lastmodified":1566661124,
     "wof:name":"Al Mawthabah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.84658,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.82658,13.31989,43.86658,13.35989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0628\u0629"
     ],
@@ -39,13 +43,13 @@
     "wof:concordances":{
         "gn:id":8069075,
         "gp:id":1957662,
-        "qs:id":753255,
+        "qs_pg:id":753255,
         "wd:id":"Q20300952"
     },
     "wof:concordances_alt":{
         "gn:id":8069147,
         "gp:id":1953407,
-        "qs:id":753326
+        "qs_pg:id":753326
     },
     "wof:country":"YE",
     "wof:created":1469051054,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890414589,
-    "wof:lastmodified":1563351688,
+    "wof:lastmodified":1566660646,
     "wof:name":"An Nawbah",
     "wof:parent_id":1091926297,
     "wof:placetype":"locality",

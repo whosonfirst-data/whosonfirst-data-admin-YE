@@ -11,11 +11,14 @@
     "geom:longitude":43.27492,
     "gn:country":"YE",
     "gn:fcode":"PRN",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062c\u0646 \u0627\u0644\u0642\u0644\u0639\u0629"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7927026,
         "gp:id":1958992,
-        "qs:id":745363
+        "qs_pg:id":745363
     },
     "wof:country":"YE",
     "wof:created":1469052220,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890439077,
-    "wof:lastmodified":1505343568,
+    "wof:lastmodified":1566660850,
     "wof:name":"Sijn al Qal\u2018ah",
     "wof:parent_id":1091925497,
     "wof:placetype":"locality",

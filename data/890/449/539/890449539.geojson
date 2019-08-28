@@ -11,10 +11,14 @@
     "geom:longitude":43.82227,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.80227,13.45761,43.84227,13.49761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0644\u064a\u0641\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8075662,
         "gp:id":1959049,
-        "qs:id":754252,
+        "qs_pg:id":754252,
         "wd:id":"Q20300888"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890449539,
-    "wof:lastmodified":1563351354,
+    "wof:lastmodified":1566660524,
     "wof:name":"Ad Dulayfah",
     "wof:parent_id":1091926555,
     "wof:placetype":"locality",

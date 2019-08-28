@@ -11,10 +11,14 @@
     "geom:longitude":45.50472,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"45.48472,14.04751,45.52472,14.08751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0632\u0627\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066830,
         "gp:id":1958988,
-        "qs:id":752877,
+        "qs_pg:id":752877,
         "wd:id":"Q20300750"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890451969,
-    "wof:lastmodified":1563353746,
+    "wof:lastmodified":1566661406,
     "wof:name":"Bayz\u0101n",
     "wof:parent_id":1091919299,
     "wof:placetype":"locality",

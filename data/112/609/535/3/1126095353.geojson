@@ -9,15 +9,17 @@
     "geom:bbox":"43.46004,16.82432,43.46004,16.82432",
     "geom:latitude":16.82432,
     "geom:longitude":43.46004,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":37,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":37,
     "iso:country":"YE",
+    "lbl:bbox":"43.45504,16.81932,43.46504,16.82932",
     "lbl:latitude":16.82432,
     "lbl:longitude":43.46004,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Al \u2018Al\u0101\u2019"
@@ -37,13 +39,13 @@
     "qs_pg:qs_id":744375,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680955,
         102191569,
         85632499,
-        1091925573,
-        85680955
+        1091925573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1126095353,
-    "wof:lastmodified":1509411855,
+    "wof:lastmodified":1566661514,
     "wof:name":"Al \u2018Al\u0101\u2019",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

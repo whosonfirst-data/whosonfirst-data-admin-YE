@@ -11,10 +11,14 @@
     "geom:longitude":43.25014,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.23014,17.14105,43.27014,17.18105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al \u2018Irq"
     ],
@@ -42,12 +46,12 @@
     "wof:concordances":{
         "gn:id":7866923,
         "gp:id":1938607,
-        "qs:id":743097,
+        "qs_pg:id":743097,
         "wd:id":"Q20302784"
     },
     "wof:concordances_alt":{
         "gn:id":7865382,
-        "qs:id":743004
+        "qs_pg:id":743004
     },
     "wof:country":"YE",
     "wof:created":1469051285,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890419385,
-    "wof:lastmodified":1563352816,
+    "wof:lastmodified":1566661057,
     "wof:name":"Al \u2018Irq",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"42.91456,16.25952,42.91456,16.25952",
     "geom:latitude":16.25952,
     "geom:longitude":42.91456,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"42.89456,16.23952,42.93456,16.27952",
     "lbl:latitude":16.25952,
     "lbl:longitude":42.91456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627\u0631\u0629"
@@ -27,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Mashhaf"
-    ],
-    "name:unk_x_variant":[
-        "\u0642\u0628\u0627\u0631\u0629"
     ],
     "qs_pg:aaroncc":"YE",
     "qs_pg:gn_country":"YE",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":694053,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126020313,
-    "wof:lastmodified":1563353820,
+    "wof:lastmodified":1566661435,
     "wof:name":"Qib\u0101rah",
     "wof:parent_id":1091924125,
     "wof:placetype":"locality",

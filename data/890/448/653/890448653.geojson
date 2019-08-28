@@ -11,10 +11,14 @@
     "geom:longitude":43.35566,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.33566,17.35605,43.37566,17.39605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u062a\u062c\u0641"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856486,
         "gp:id":56447933,
-        "qs:id":742407,
+        "qs_pg:id":742407,
         "wd:id":"Q20302277"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448653,
-    "wof:lastmodified":1563351888,
+    "wof:lastmodified":1566660712,
     "wof:name":"Al Mu\u1e29tajaf",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

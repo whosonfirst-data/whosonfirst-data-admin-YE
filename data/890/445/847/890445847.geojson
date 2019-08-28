@@ -11,11 +11,14 @@
     "geom:longitude":43.11367,
     "gn:country":"YE",
     "gn:fcode":"HSE",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u062a\u0646\u0629"
     ],
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7631545,
         "gp:id":1959054,
-        "qs:id":694532,
+        "qs_pg:id":694532,
         "wk:page":"Al-Atnah"
     },
     "wof:country":"YE",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890445847,
-    "wof:lastmodified":1564134274,
+    "wof:lastmodified":1566661392,
     "wof:name":"Al \u2018Atnah",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

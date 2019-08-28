@@ -11,10 +11,14 @@
     "geom:longitude":43.2671,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.2471,17.38884,43.2871,17.42884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062f\u0645"
     ],
@@ -36,8 +40,10 @@
     "wof:concordances":{
         "gn:id":7783284,
         "gp:id":56447933,
-        "qs:id":742497,
         "qs_pg:id":699937
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":742497
     },
     "wof:country":"YE",
     "wof:created":1469051010,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890413673,
-    "wof:lastmodified":1507751781,
+    "wof:lastmodified":1566660601,
     "wof:name":"Ar Radim",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

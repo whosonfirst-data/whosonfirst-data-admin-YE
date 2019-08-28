@@ -11,10 +11,14 @@
     "geom:longitude":44.83286,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.81286,16.83261,44.85286,16.87261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0634\u0645\u0627\u0646\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7687015,
         "gp:id":1959135,
-        "qs:id":697723,
+        "qs_pg:id":697723,
         "wd:id":"Q20299079"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890446885,
-    "wof:lastmodified":1563351999,
+    "wof:lastmodified":1566660753,
     "wof:name":"Khashm\u0101nat as Sufl\u00e1",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

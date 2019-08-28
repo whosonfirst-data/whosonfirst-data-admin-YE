@@ -11,10 +11,14 @@
     "geom:longitude":43.25123,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.23123,17.09996,43.27123,17.13996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0648\u064a\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7865287,
         "gp:id":1938135,
-        "qs:id":742913,
+        "qs_pg:id":742913,
         "wd:id":"Q20301184"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426163,
-    "wof:lastmodified":1563352975,
+    "wof:lastmodified":1566661119,
     "wof:name":"Adh Dhuwayr",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

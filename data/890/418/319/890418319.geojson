@@ -11,10 +11,14 @@
     "geom:longitude":43.45577,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.43577,16.29702,43.47577,16.33702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0645\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755874,
         "gp:id":1959128,
-        "qs:id":698742,
+        "qs_pg:id":698742,
         "wd:id":"Q20304820"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890418319,
-    "wof:lastmodified":1563353506,
+    "wof:lastmodified":1566661316,
     "wof:name":"Al Qawm\u012b",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

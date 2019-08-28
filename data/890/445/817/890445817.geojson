@@ -11,10 +11,14 @@
     "geom:longitude":43.23163,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":9,
+    "gn:population":9,
     "iso:country":"YE",
+    "lbl:bbox":"43.21163,16.1782,43.25163,16.2182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u062c\u064a\u0635\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "As S\u016bq al Qad\u012bm"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0634\u062c\u064a\u0635\u0629 \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
     "qs:name":"Ash Shujay\u015fah as Sufl\u00e1",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7631526,
         "gp:id":1953570,
-        "qs:id":694513,
+        "qs_pg:id":694513,
         "wd:id":"Q20304709"
     },
     "wof:country":"YE",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":890445817,
-    "wof:lastmodified":1563353692,
+    "wof:lastmodified":1566661383,
     "wof:name":"Ash Shujay\u015fah as Sufl\u00e1",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.24705,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.22705,17.21839,43.26705,17.25839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0642\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8022199,
         "gp:id":1938607,
-        "qs:id":750358
+        "qs_pg:id":750358
     },
     "wof:country":"YE",
     "wof:created":1469052237,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890439503,
-    "wof:lastmodified":1505343571,
+    "wof:lastmodified":1566660847,
     "wof:name":"Ash Shuqrah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

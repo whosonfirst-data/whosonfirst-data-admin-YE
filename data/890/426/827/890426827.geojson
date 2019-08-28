@@ -11,10 +11,14 @@
     "geom:longitude":45.25678,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.23678,14.03177,45.27678,14.07177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0634\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051882,
         "gp:id":1958988,
-        "qs:id":751260,
+        "qs_pg:id":751260,
         "wd:id":"Q20303256"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890426827,
-    "wof:lastmodified":1563352912,
+    "wof:lastmodified":1566661096,
     "wof:name":"Far\u0101shah",
     "wof:parent_id":1091919237,
     "wof:placetype":"locality",

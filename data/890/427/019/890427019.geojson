@@ -11,10 +11,14 @@
     "geom:longitude":45.21021,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"45.19021,14.68631,45.23021,14.72631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0634\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8053458,
         "gp:id":1958975,
-        "qs:id":751874,
+        "qs_pg:id":751874,
         "wd:id":"Q20302361"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427019,
-    "wof:lastmodified":1563353615,
+    "wof:lastmodified":1566661355,
     "wof:name":"Al \u2018Ashshah",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",

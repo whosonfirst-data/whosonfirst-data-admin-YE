@@ -11,10 +11,14 @@
     "geom:longitude":43.37094,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":27,
+    "gn:population":27,
     "iso:country":"YE",
+    "lbl:bbox":"43.35094,16.1254,43.39094,16.1654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0627\u0639 \u0627\u0644\u0628\u0635\u0644"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al \u2018Aflah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qil\u0101\u2018 al Ba\u015fal"
     ],
     "qs:name":"Qal\u0101\u2018 al Ba\u015fil",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7632981,
         "gp:id":1953570,
-        "qs:id":694998,
+        "qs_pg:id":694998,
         "wd:id":"Q20305280"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890451767,
-    "wof:lastmodified":1563353745,
+    "wof:lastmodified":1566661405,
     "wof:name":"Qal\u0101\u2018 al Ba\u015fil",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

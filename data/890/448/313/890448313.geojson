@@ -11,10 +11,14 @@
     "geom:longitude":44.27309,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"44.25309,16.94405,44.29309,16.98405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0628\u0629 \u0642\u0631\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7795069,
         "gp:id":1959086,
-        "qs:id":700837,
+        "qs_pg:id":700837,
         "wd:id":"Q20302373"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448313,
-    "wof:lastmodified":1563351838,
+    "wof:lastmodified":1566660694,
     "wof:name":"Naybat Qarn",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

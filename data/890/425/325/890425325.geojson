@@ -11,10 +11,14 @@
     "geom:longitude":43.40506,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.38506,16.346,43.42506,16.386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7795004,
         "gp:id":1958967,
-        "qs:id":700175,
-        "qs_pg:id":700777,
+        "qs_pg:id":700175,
         "wd:id":"Q20304697"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":700777
     },
     "wof:country":"YE",
     "wof:created":1469051584,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890425325,
-    "wof:lastmodified":1563351473,
+    "wof:lastmodified":1566660570,
     "wof:name":"Al Bay\u1e11\u0101\u2019",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

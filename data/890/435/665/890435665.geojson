@@ -11,10 +11,14 @@
     "geom:longitude":44.18704,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"44.16704,16.90011,44.20704,16.94011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Q\u0101bil"
     ],
@@ -55,10 +59,12 @@
     "wof:concordances":{
         "gn:id":7783303,
         "gp:id":1959086,
-        "qs:id":685264,
-        "qs_pg:id":699956,
+        "qs_pg:id":685264,
         "wd:id":"Q4704625",
         "wk:page":"Al Qabil"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":699956
     },
     "wof:country":"YE",
     "wof:created":1469052076,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890435665,
-    "wof:lastmodified":1563353782,
+    "wof:lastmodified":1566661418,
     "wof:name":"Al Q\u0101bil",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

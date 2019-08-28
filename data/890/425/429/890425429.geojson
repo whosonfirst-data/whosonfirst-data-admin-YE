@@ -11,10 +11,14 @@
     "geom:longitude":43.79792,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.77792,17.00529,43.81792,17.04529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7792681,
         "gp:id":1958152,
-        "qs:id":700475,
+        "qs_pg:id":700475,
         "wd:id":"Q4704099",
         "wk:page":"Al Jadidah"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890425429,
-    "wof:lastmodified":1563351501,
+    "wof:lastmodified":1566660580,
     "wof:name":"Al Jad\u012bdah",
     "wof:parent_id":1091925415,
     "wof:placetype":"locality",

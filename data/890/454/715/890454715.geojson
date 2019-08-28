@@ -11,10 +11,13 @@
     "geom:longitude":44.41779,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"44.41279,16.67434,44.42279,16.68434",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0641"
     ],
@@ -30,7 +33,7 @@
     "name:nno_x_preferred":[
         "Al Qaf-distriktet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Quff"
     ],
     "name:urd_x_preferred":[
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7795363,
-        "qs:id":701124,
+        "qs_pg:id":701124,
         "wk:page":"Al Qaf District"
     },
     "wof:country":"YE",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890454715,
-    "wof:lastmodified":1564134051,
+    "wof:lastmodified":1566660984,
     "wof:name":"Al Qaf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

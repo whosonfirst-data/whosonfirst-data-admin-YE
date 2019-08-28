@@ -11,10 +11,14 @@
     "geom:longitude":44.42924,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.40924,16.89307,44.44924,16.93307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0628\u064a\u0633"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7795033,
         "gp:id":1959135,
-        "qs:id":700801,
+        "qs_pg:id":700801,
         "wd:id":"Q20303111"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890452171,
-    "wof:lastmodified":1563352476,
+    "wof:lastmodified":1566660922,
     "wof:name":"Dubays",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

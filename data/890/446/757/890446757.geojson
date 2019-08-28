@@ -11,10 +11,13 @@
     "geom:longitude":43.75475,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":242,
+    "gn:population":242,
     "iso:country":"YE",
+    "lbl:bbox":"43.74975,16.9308,43.75975,16.9408",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u0627\u0644\u0633\u0644\u0627\u0645"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7685417,
-        "qs:id":697614
+        "qs_pg:id":697614
     },
     "wof:country":"YE",
     "wof:created":1469052565,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446757,
-    "wof:lastmodified":1505343613,
+    "wof:lastmodified":1566660748,
     "wof:name":"\u1e28\u0101rat as Sal\u0101m",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

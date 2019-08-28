@@ -11,10 +11,14 @@
     "geom:longitude":43.61174,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.59174,16.19629,43.63174,16.23629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0628 \u0627\u0644\u0634\u0631\u064a\u0641"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7928216,
         "gp:id":1959128,
-        "qs:id":745520,
-        "qs_pg:id":745654,
+        "qs_pg:id":745520,
         "wd:id":"Q20303851"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":745654
     },
     "wof:country":"YE",
     "wof:created":1469052655,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890448979,
-    "wof:lastmodified":1563351827,
+    "wof:lastmodified":1566660690,
     "wof:name":"Gh\u0101rib ash Shar\u012bf",
     "wof:parent_id":1091921649,
     "wof:placetype":"locality",

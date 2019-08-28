@@ -11,10 +11,14 @@
     "geom:longitude":45.31614,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"YE",
+    "lbl:bbox":"45.29614,14.25838,45.33614,14.29838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0644\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8051819,
         "gp:id":1958988,
-        "qs:id":751202
+        "qs_pg:id":751202
     },
     "wof:country":"YE",
     "wof:created":1469052083,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890435843,
-    "wof:lastmodified":1505343550,
+    "wof:lastmodified":1566661414,
     "wof:name":"Al \u2018Uqlah",
     "wof:parent_id":1091919055,
     "wof:placetype":"locality",

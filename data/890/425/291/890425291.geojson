@@ -11,10 +11,14 @@
     "geom:longitude":43.40338,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"43.38338,16.31037,43.42338,16.35037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u0649 \u0627\u0644\u0648\u0647\u064a\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783500,
         "gp:id":1953570,
-        "qs:id":700154,
+        "qs_pg:id":700154,
         "wd:id":"Q20299040"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425291,
-    "wof:lastmodified":1563351514,
+    "wof:lastmodified":1566660585,
     "wof:name":"Ban\u012b al Wah\u012bb",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

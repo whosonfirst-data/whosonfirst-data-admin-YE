@@ -11,10 +11,14 @@
     "geom:longitude":44.40666,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"44.38666,17.20969,44.42666,17.24969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0634\u064a\u0645\u0629"
     ],
@@ -45,9 +49,11 @@
     "wof:concordances":{
         "gn:id":8053272,
         "gp:id":1939932,
-        "qs:id":700266,
-        "qs_pg:id":751701,
+        "qs_pg:id":700266,
         "wd:id":"Q20302098"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":751701
     },
     "wof:country":"YE",
     "wof:created":1469051585,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890425349,
-    "wof:lastmodified":1563351467,
+    "wof:lastmodified":1566660568,
     "wof:name":"Al Hushaymah",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

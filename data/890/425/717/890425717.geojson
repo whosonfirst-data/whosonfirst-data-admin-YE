@@ -11,10 +11,14 @@
     "geom:longitude":44.25444,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.23444,16.52027,44.27444,16.56027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0643\u0646\u062f\u0634"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7795431,
         "gp:id":1958965,
-        "qs:id":701191,
+        "qs_pg:id":701191,
         "wd:id":"Q20300469"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425717,
-    "wof:lastmodified":1563351530,
+    "wof:lastmodified":1566660591,
     "wof:name":"Bayt Kandush",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

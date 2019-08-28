@@ -11,10 +11,13 @@
     "geom:longitude":43.63624,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.63124,16.18278,43.64124,16.19278",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0646"
     ],
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020368,
-        "qs:id":749725,
+        "qs_pg:id":749725,
         "wd:id":"Q4704638",
         "wk:page":"Al Qarn"
     },
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890426575,
-    "wof:lastmodified":1563352954,
+    "wof:lastmodified":1566661111,
     "wof:name":"Al Qarn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

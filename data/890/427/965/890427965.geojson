@@ -11,10 +11,14 @@
     "geom:longitude":46.30396,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"46.28396,16.60147,46.32396,16.64147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0645\u0627\u0645"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7895334,
         "gp:id":1938039,
-        "qs:id":744213,
+        "qs_pg:id":744213,
         "wd:id":"Q20305085"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427965,
-    "wof:lastmodified":1563353517,
+    "wof:lastmodified":1566661320,
     "wof:name":"Hamm\u0101m",
     "wof:parent_id":1091920775,
     "wof:placetype":"locality",

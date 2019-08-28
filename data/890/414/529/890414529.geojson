@@ -11,10 +11,14 @@
     "geom:longitude":45.11197,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"45.09197,14.70119,45.13197,14.74119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0642\u0645"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8053503,
         "gp:id":1958975,
-        "qs:id":751918
+        "qs_pg:id":751918
     },
     "wof:country":"YE",
     "wof:created":1469051052,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890414529,
-    "wof:lastmodified":1505343420,
+    "wof:lastmodified":1566660644,
     "wof:name":"An Naqam",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",

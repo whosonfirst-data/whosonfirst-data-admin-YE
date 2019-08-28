@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
+    "lbl:bbox":"46.69367,13.50019,46.73367,13.54019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062d\u0648\u0631"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0432\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "A\u1e29war"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1343670799,
-    "wof:lastmodified":1564131103,
+    "wof:lastmodified":1566658319,
     "wof:name":"Ahwar",
     "wof:parent_id":1091918429,
     "wof:placetype":"locality",

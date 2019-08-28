@@ -11,14 +11,17 @@
     "geom:longitude":43.6864,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.6814,16.1481,43.6914,16.1581",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0639\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Qal\u2018ah al D\u0101khil\u012byah"
     ],
     "qs:name":"Al Qal\u2018at al D\u0101khil\u012byah",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021944,
-        "qs:id":750174
+        "qs_pg:id":750174
     },
     "wof:country":"YE",
     "wof:created":1469051293,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890419583,
-    "wof:lastmodified":1505343451,
+    "wof:lastmodified":1566661087,
     "wof:name":"Al Qal\u2018at al D\u0101khil\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

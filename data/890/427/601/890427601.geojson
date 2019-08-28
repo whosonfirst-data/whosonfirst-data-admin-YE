@@ -11,10 +11,14 @@
     "geom:longitude":43.68322,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":26,
+    "gn:population":26,
     "iso:country":"YE",
+    "lbl:bbox":"43.66322,16.71504,43.70322,16.75504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0644 \u0627\u0644\u0631\u0648\u0633"
     ],
@@ -60,10 +64,12 @@
     "wof:concordances":{
         "gn:id":7682709,
         "gp:id":1958933,
-        "qs:id":697388,
         "qs_pg:id":697385,
         "wd:id":"Q4907490",
         "wk:page":"Bilad Ar Rus District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":697388
     },
     "wof:country":"YE",
     "wof:created":1469051705,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890427601,
-    "wof:lastmodified":1563353625,
+    "wof:lastmodified":1566661358,
     "wof:name":"\u0100l ar R\u016bs",
     "wof:parent_id":1091925551,
     "wof:placetype":"locality",

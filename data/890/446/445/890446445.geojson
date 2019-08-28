@@ -11,10 +11,14 @@
     "geom:longitude":43.74937,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"YE",
+    "lbl:bbox":"43.72937,16.50835,43.76937,16.54835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u062c\u0640\u0640\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7682719,
         "gp:id":1953833,
-        "qs:id":697395
+        "qs_pg:id":697395
     },
     "wof:country":"YE",
     "wof:created":1469052552,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890446445,
-    "wof:lastmodified":1505343611,
+    "wof:lastmodified":1566660755,
     "wof:name":"Ash Sharijah",
     "wof:parent_id":1091921619,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":42.69326,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"42.68826,15.69817,42.69826,15.70817",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u064a\u062f\u0627\u0646"
     ],
@@ -36,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8026138,
-        "qs:id":750679,
+        "qs_pg:id":750679,
         "wd:id":"Q4702879",
         "wk:page":"Al-Mayd\u0101n"
     },
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890421689,
-    "wof:lastmodified":1563353054,
+    "wof:lastmodified":1566661147,
     "wof:name":"Al Mayd\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

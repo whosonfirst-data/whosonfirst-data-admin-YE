@@ -9,15 +9,17 @@
     "geom:bbox":"43.70084,16.18589,43.70084,16.18589",
     "geom:latitude":16.18589,
     "geom:longitude":43.70084,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69584,16.18089,43.70584,16.19089",
     "lbl:latitude":16.18589,
     "lbl:longitude":43.70084,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0642 \u0627\u0644\u0637\u0640\u0648\u0641"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":745720,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680977,
         102191569,
         85632499,
-        1091922105,
-        85680977
+        1091922105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126097625,
-    "wof:lastmodified":1509411961,
+    "wof:lastmodified":1566661513,
     "wof:name":"Fawq a\u0163 \u0162awf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

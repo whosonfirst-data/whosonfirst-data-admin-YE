@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.475389,
     "lbl:longitude":43.768425,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062a\u0639\u0632",
     "mps:latitude":13.47263,
     "mps:longitude":43.787564,
@@ -197,12 +198,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0457\u0437"
     ],
-    "name:und_x_variant":[
-        "\u062a\u0639\u0632"
-    ],
-    "name:unk_x_variant":[
-        "Taiz"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062a\u0639\u0632"
     ],
@@ -287,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"10,010",
     "statoids:area_mi":"3,860",
     "statoids:as_of_date":"2004-12-01",
@@ -313,7 +308,7 @@
         "gp:id":20070041,
         "hasc:id":"YE.TA",
         "iso:id":"YE-TA",
-        "qs:id":236289,
+        "qs_pg:id":236289,
         "wd:id":"Q388330"
     },
     "wof:country":"YE",
@@ -332,11 +327,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739831,
+    "wof:lastmodified":1566658457,
     "wof:name":"Ta`izz",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":2393425,
     "wof:population_rank":12,

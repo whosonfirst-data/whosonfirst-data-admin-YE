@@ -11,10 +11,13 @@
     "geom:longitude":44.30965,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.30465,16.80362,44.31465,16.81362",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0641"
     ],
@@ -45,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7794964,
-        "qs:id":700740,
+        "qs_pg:id":700740,
         "wd:id":"Q4705053",
         "wk:page":"Al harf"
     },
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890418391,
-    "wof:lastmodified":1563353414,
+    "wof:lastmodified":1566661279,
     "wof:name":"Al \u1e28arf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

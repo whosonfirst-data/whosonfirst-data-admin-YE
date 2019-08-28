@@ -11,10 +11,14 @@
     "geom:longitude":43.61203,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"43.59203,15.99692,43.63203,16.03692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0627\u0641"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7927471,
         "gp:id":1954549,
-        "qs:id":745474
+        "qs_pg:id":745474
     },
     "wof:country":"YE",
     "wof:created":1469052918,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454891,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566660996,
     "wof:name":"Al Mash\u0101f",
     "wof:parent_id":1091923483,
     "wof:placetype":"locality",

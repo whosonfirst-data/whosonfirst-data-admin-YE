@@ -11,10 +11,13 @@
     "geom:longitude":43.40591,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.40091,16.29724,43.41091,16.30724",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al \u2018Utm\u0101n"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7756468,
-        "qs:id":698964
+        "qs_pg:id":698964
     },
     "wof:country":"YE",
     "wof:created":1469052602,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890447711,
-    "wof:lastmodified":1505343618,
+    "wof:lastmodified":1566660504,
     "wof:name":"Al \u2018Utm\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

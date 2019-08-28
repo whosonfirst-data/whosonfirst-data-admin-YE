@@ -9,20 +9,20 @@
     "geom:bbox":"52.17605,16.20787,52.17605,16.20787",
     "geom:latitude":16.20787,
     "geom:longitude":52.17605,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":117,
+    "gn:country":"YE",
+    "gn:fcode":"PPLL",
     "gn:population":117,
     "iso:country":"YE",
+    "lbl:bbox":"52.15605,16.18787,52.19605,16.22787",
     "lbl:latitude":16.20787,
     "lbl:longitude":52.17605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0634\u0647\u064a\u062f \u0646\u0627\u0635\u0631"
-    ],
-    "name:unk_x_variant":[
         "\u0627\u0644\u0634\u0647\u064a\u062f \u0646\u0627\u0635\u0631"
     ],
     "qs_pg:aaroncc":"YE",
@@ -37,7 +37,7 @@
     "qs_pg:qs_id":693978,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1125817645,
-    "wof:lastmodified":1509393894,
+    "wof:lastmodified":1566661471,
     "wof:name":"Ash Shah\u012bd N\u0101\u015fir",
     "wof:parent_id":1091920855,
     "wof:placetype":"locality",

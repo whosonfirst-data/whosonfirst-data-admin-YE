@@ -11,10 +11,14 @@
     "geom:longitude":43.29419,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27419,17.4942,43.31419,17.5342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0631\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8021627,
         "gp:id":56447933,
-        "qs:id":750141,
+        "qs_pg:id":750141,
         "wd:id":"Q20306995"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420921,
-    "wof:lastmodified":1563353407,
+    "wof:lastmodified":1566661275,
     "wof:name":"Samrad",
     "wof:parent_id":1091925417,
     "wof:placetype":"locality",

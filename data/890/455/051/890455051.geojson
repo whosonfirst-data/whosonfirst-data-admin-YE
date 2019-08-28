@@ -11,10 +11,14 @@
     "geom:longitude":45.21531,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.19531,14.83964,45.23531,14.87964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Midy\u0101r"
     ],
@@ -45,9 +49,11 @@
     "wof:concordances":{
         "gn:id":7855102,
         "gp:id":1959055,
-        "qs:id":751746,
         "qs_pg:id":742026,
         "wd:id":"Q20300569"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":751746
     },
     "wof:country":"YE",
     "wof:created":1469052931,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890455051,
-    "wof:lastmodified":1563352521,
+    "wof:lastmodified":1566660940,
     "wof:name":"Al Midy\u0101r",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

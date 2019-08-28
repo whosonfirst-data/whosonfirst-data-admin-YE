@@ -11,10 +11,13 @@
     "geom:longitude":43.80642,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"YE",
+    "lbl:bbox":"43.80142,16.88114,43.81142,16.89114",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0622\u0644 \u0645\u0632\u0631\u0648\u0639"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683825,
-        "qs:id":697520
+        "qs_pg:id":697520
     },
     "wof:country":"YE",
     "wof:created":1469052560,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446629,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660733,
     "wof:name":"\u0100l Mazr\u016b\u2018",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

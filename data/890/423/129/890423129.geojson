@@ -11,10 +11,14 @@
     "geom:longitude":43.49606,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.47606,16.01896,43.51606,16.05896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "R\u0101shid"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7681811,
         "gp:id":1959128,
-        "qs:id":696984,
+        "qs_pg:id":696984,
         "wd:id":"Q20306557"
     },
     "wof:country":"YE",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890423129,
-    "wof:lastmodified":1514503345,
+    "wof:lastmodified":1566660822,
     "wof:name":"R\u0101shid",
     "wof:parent_id":1091923483,
     "wof:placetype":"locality",

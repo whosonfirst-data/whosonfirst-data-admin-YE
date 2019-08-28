@@ -11,14 +11,18 @@
     "geom:longitude":43.7141,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.6941,16.0391,43.7341,16.0791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0639\u0627\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ash Shi\u2018\u0101b"
     ],
     "qs:name":"Ash Shu\u2018\u0101b",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8020494,
         "gp:id":1959046,
-        "qs:id":749845
+        "qs_pg:id":749845
     },
     "wof:country":"YE",
     "wof:created":1469051045,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890414355,
-    "wof:lastmodified":1505343419,
+    "wof:lastmodified":1566660626,
     "wof:name":"Ash Shu\u2018\u0101b",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

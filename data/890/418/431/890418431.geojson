@@ -11,10 +11,14 @@
     "geom:longitude":44.32522,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"44.30522,16.48903,44.34522,16.52903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062b\u0648\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7795199,
         "gp:id":1958965,
-        "qs:id":700963
+        "qs_pg:id":700963
     },
     "wof:country":"YE",
     "wof:created":1469051247,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418431,
-    "wof:lastmodified":1505343444,
+    "wof:lastmodified":1566661290,
     "wof:name":"Al Jathwah",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

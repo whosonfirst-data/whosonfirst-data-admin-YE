@@ -11,10 +11,14 @@
     "geom:longitude":44.38835,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"44.36835,16.49585,44.40835,16.53585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631\u0629"
     ],
@@ -43,10 +47,12 @@
     "wof:concordances":{
         "gn:id":7761168,
         "gp:id":1958965,
-        "qs:id":700846,
         "qs_pg:id":699158,
         "wd:id":"Q20305988",
         "wk:page":"Bahrah"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":700846
     },
     "wof:country":"YE",
     "wof:created":1469052627,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890448331,
-    "wof:lastmodified":1563351769,
+    "wof:lastmodified":1566660672,
     "wof:name":"Ba\u1e29rah",
     "wof:parent_id":1091920575,
     "wof:placetype":"locality",

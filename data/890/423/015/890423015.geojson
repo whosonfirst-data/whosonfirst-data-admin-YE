@@ -11,10 +11,14 @@
     "geom:longitude":43.63239,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":51,
+    "gn:population":51,
     "iso:country":"YE",
+    "lbl:bbox":"43.61239,16.96316,43.65239,17.00316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0644\u064a"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Gh\u016bl Dh\u016b Jibr\u0101n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ibn Musall\u012b"
     ],
     "qs:name":"Al Musall\u012b",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7363706,
         "gp:id":1959094,
-        "qs:id":685347,
+        "qs_pg:id":685347,
         "wd:id":"Q20302979"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890423015,
-    "wof:lastmodified":1563352161,
+    "wof:lastmodified":1566660812,
     "wof:name":"Al Musall\u012b",
     "wof:parent_id":1091925551,
     "wof:placetype":"locality",

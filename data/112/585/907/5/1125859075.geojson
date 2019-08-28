@@ -9,20 +9,23 @@
     "geom:bbox":"43.07404,16.01044,43.07404,16.01044",
     "geom:latitude":16.01044,
     "geom:longitude":43.07404,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":45,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":45,
     "iso:country":"YE",
+    "lbl:bbox":"43.05404,15.99044,43.09404,16.03044",
     "lbl:latitude":16.01044,
     "lbl:longitude":43.07404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0648\u064a\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u0163 \u0162aw\u012bl"
     ],
     "qs_pg:aaroncc":"YE",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":694407,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125859075,
-    "wof:lastmodified":1509396445,
+    "wof:lastmodified":1566661519,
     "wof:name":"A\u0163 \u0162uwayl",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.645424,
     "lbl:longitude":44.427226,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0630\u0645\u0627\u0631",
     "mps:latitude":14.635817,
     "mps:longitude":44.474014,
@@ -183,7 +184,7 @@
         "Dhamar"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bbe\u0bae\u0bb0\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0ba4\u0bbe\u0bae\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c2e\u0c30\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -201,9 +202,6 @@
         "\u0414\u0430\u043c\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "\u0630\u0645\u0627\u0631"
-    ],
-    "name:unk_x_variant":[
         "Province of Dham\u0101r"
     ],
     "name:urd_x_preferred":[
@@ -287,9 +285,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"7,590",
     "statoids:area_mi":"2,930",
     "statoids:as_of_date":"2004-12-01",
@@ -315,7 +313,7 @@
         "gp:id":20070044,
         "hasc:id":"YE.DH",
         "iso:id":"YE-DH",
-        "qs:id":984834,
+        "qs_pg:id":984834,
         "unlc:id":"YE-DH",
         "wd:id":"Q328193"
     },
@@ -335,11 +333,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739831,
+    "wof:lastmodified":1566658456,
     "wof:name":"Dhamar",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":1330108,
     "wof:population_rank":12,

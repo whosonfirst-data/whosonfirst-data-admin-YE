@@ -11,10 +11,14 @@
     "geom:longitude":43.39793,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.37793,16.03252,43.41793,16.07252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0645\u0633\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682474,
         "gp:id":1958568,
-        "qs:id":697221,
+        "qs_pg:id":697221,
         "wd:id":"Q20299988"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890418293,
-    "wof:lastmodified":1563353444,
+    "wof:lastmodified":1566661290,
     "wof:name":"Bayt al Musinn",
     "wof:parent_id":1091923449,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"43.35628,16.66357,43.35628,16.66357",
     "geom:latitude":16.66357,
     "geom:longitude":43.35628,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6,
+    "gn:country":"YE",
+    "gn:fcode":"PPL",
     "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.33628,16.64357,43.37628,16.68357",
     "lbl:latitude":16.66357,
     "lbl:longitude":43.35628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0632\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Ma\u2018zab"
     ],
     "qs_pg:aaroncc":"YE",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":742180,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125998293,
-    "wof:lastmodified":1509405931,
+    "wof:lastmodified":1566661490,
     "wof:name":"Al Ma\u2018zib",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

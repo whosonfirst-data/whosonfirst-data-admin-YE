@@ -11,10 +11,14 @@
     "geom:longitude":43.36952,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.34952,16.32917,43.38952,16.36917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0634\u064a\u0641"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783376,
         "gp:id":1958967,
-        "qs:id":700028,
+        "qs_pg:id":700028,
         "wd:id":"Q20301086"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448011,
-    "wof:lastmodified":1563351868,
+    "wof:lastmodified":1566660705,
     "wof:name":"An Nushayf",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

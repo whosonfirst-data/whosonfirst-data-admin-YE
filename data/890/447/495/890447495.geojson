@@ -11,10 +11,14 @@
     "geom:longitude":43.46564,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":29,
+    "gn:population":29,
     "iso:country":"YE",
+    "lbl:bbox":"43.44564,16.318,43.48564,16.358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0645\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755903,
         "gp:id":1959128,
-        "qs:id":698766,
+        "qs_pg:id":698766,
         "wd:id":"Q20302833"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890447495,
-    "wof:lastmodified":1563351270,
+    "wof:lastmodified":1566660495,
     "wof:name":"Al Jammah",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

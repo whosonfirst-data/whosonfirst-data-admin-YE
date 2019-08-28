@@ -11,10 +11,14 @@
     "geom:longitude":45.75932,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"45.73932,14.23567,45.77932,14.27567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0635\u064a\u062f"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066815,
         "gp:id":1959103,
-        "qs:id":752865,
+        "qs_pg:id":752865,
         "wd:id":"Q20301737"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419867,
-    "wof:lastmodified":1563352804,
+    "wof:lastmodified":1566661053,
     "wof:name":"Ar Ra\u015f\u012bd",
     "wof:parent_id":1091919167,
     "wof:placetype":"locality",

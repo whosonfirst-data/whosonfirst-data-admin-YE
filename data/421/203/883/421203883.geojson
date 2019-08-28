@@ -12,6 +12,8 @@
     "iso:country":"YE",
     "lbl:latitude":15.35472,
     "lbl:longitude":44.20667,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -422,7 +424,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015ean\u2018\u0101\u2019"
     ],
     "name:urd_x_preferred":[
@@ -586,7 +588,7 @@
         "gn:id":71137,
         "gp:id":1958237,
         "loc:id":"n80086523",
-        "qs:id":235467,
+        "qs_pg:id":235467,
         "wd:id":"Q2471",
         "wk:page":"Sana'a"
     },
@@ -610,7 +612,7 @@
         }
     ],
     "wof:id":421203883,
-    "wof:lastmodified":1563351125,
+    "wof:lastmodified":1566660446,
     "wof:name":"Sana'a",
     "wof:parent_id":85681029,
     "wof:placetype":"locality",

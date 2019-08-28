@@ -11,10 +11,13 @@
     "geom:longitude":43.6872,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.6822,16.14898,43.6922,16.15898",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0643\u062d\u0644\u0627\u0646"
     ],
@@ -63,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021946,
-        "qs:id":750176,
+        "qs_pg:id":750176,
         "wd:id":"Q6617100",
         "wk:page":"List of districts of Yemen"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890419587,
-    "wof:lastmodified":1563352823,
+    "wof:lastmodified":1566661060,
     "wof:name":"Bayt Ku\u1e29l\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

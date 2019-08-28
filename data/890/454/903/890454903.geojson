@@ -11,10 +11,13 @@
     "geom:longitude":43.74317,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.73817,16.20743,43.74817,16.21743",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0627\u0628 \u0627\u0644\u062e\u0627\u0631\u062c\u064a"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7928175,
-        "qs:id":745612
+        "qs_pg:id":745612
     },
     "wof:country":"YE",
     "wof:created":1469052919,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890454903,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566660988,
     "wof:name":"Al Khar\u0101b al Kharij\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

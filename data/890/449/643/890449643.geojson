@@ -11,10 +11,14 @@
     "geom:longitude":43.68724,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.66724,13.13285,43.70724,13.17285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0647\u0627\u064a\u0629"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_variant":[
         "Al Hajm\u0101t"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u0101yah"
     ],
     "qs:name":"W\u0101d\u012b H\u0101yah",
@@ -49,10 +53,12 @@
     "wof:concordances":{
         "gn:id":7795306,
         "gp:id":1958962,
-        "qs:id":753300,
         "qs_pg:id":690727,
         "wd:id":"Q20309468",
         "wk:page":"Wadi al Hayaa District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":753300
     },
     "wof:country":"YE",
     "wof:created":1469052701,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890449643,
-    "wof:lastmodified":1563351314,
+    "wof:lastmodified":1566660512,
     "wof:name":"W\u0101d\u012b H\u0101yah",
     "wof:parent_id":1091926417,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.23603,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.21603,17.09374,43.25603,17.13374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u2018Azz\u0101n"
     ],
@@ -43,12 +47,12 @@
     "wof:concordances":{
         "gn:id":8022123,
         "gp:id":1938135,
-        "qs:id":750284,
+        "qs_pg:id":750284,
         "wd:id":"Q20299541"
     },
     "wof:concordances_alt":{
         "gn:id":8022139,
-        "qs:id":750299
+        "qs_pg:id":750299
     },
     "wof:country":"YE",
     "wof:created":1469052235,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890439437,
-    "wof:lastmodified":1563352286,
+    "wof:lastmodified":1566660854,
     "wof:name":"\u2018Azz\u0101n",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

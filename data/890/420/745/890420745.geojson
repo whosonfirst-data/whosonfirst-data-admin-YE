@@ -11,10 +11,14 @@
     "geom:longitude":43.27466,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.25466,17.38185,43.29466,17.42185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646 \u0627\u0644\u0634\u0628\u0627\u0628\u064a\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856552,
         "gp:id":56447933,
-        "qs:id":742472,
+        "qs_pg:id":742472,
         "wd:id":"Q20299444"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420745,
-    "wof:lastmodified":1563353408,
+    "wof:lastmodified":1566661276,
     "wof:name":"Bayn ash Shib\u0101bayn",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

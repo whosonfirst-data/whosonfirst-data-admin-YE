@@ -11,10 +11,14 @@
     "geom:longitude":43.35943,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.33943,16.73502,43.37943,16.77502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926872,
         "gp:id":1959134,
-        "qs:id":745211
+        "qs_pg:id":745211
     },
     "wof:country":"YE",
     "wof:created":1469052811,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452283,
-    "wof:lastmodified":1505343644,
+    "wof:lastmodified":1566660917,
     "wof:name":"Al Q\u0101hirah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

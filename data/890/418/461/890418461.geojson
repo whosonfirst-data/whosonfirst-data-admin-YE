@@ -11,10 +11,14 @@
     "geom:longitude":44.34622,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"YE",
+    "lbl:bbox":"44.32622,16.55147,44.36622,16.59147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062c\u0644"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":7795229,
         "gp:id":1958965,
-        "qs:id":700992,
+        "qs_pg:id":700992,
         "wd:id":"Q20299600"
     },
     "wof:concordances_alt":{
         "gn:id":7795176,
-        "qs:id":700940
+        "qs_pg:id":700940
     },
     "wof:country":"YE",
     "wof:created":1469051249,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890418461,
-    "wof:lastmodified":1563353494,
+    "wof:lastmodified":1566661311,
     "wof:name":"Al \u1e28ajil",
     "wof:parent_id":1091920811,
     "wof:placetype":"locality",

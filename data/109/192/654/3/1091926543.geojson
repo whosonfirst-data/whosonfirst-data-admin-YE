@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.271843,
     "lbl:longitude":44.268368,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Taizz",
     "meso:admin1_loc":"\u062a\u0639\u0632",
     "meso:dissme":"TaizzHayfan",
@@ -32,6 +34,7 @@
     "mps:longitude":44.268368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u062d\u064a\u0641\u0627\u0646"
     ],
@@ -66,9 +69,9 @@
         "Hayfan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1091926543,
-    "wof:lastmodified":1563350889,
+    "wof:lastmodified":1566660288,
     "wof:name":"Hayfan",
     "wof:parent_id":85680989,
     "wof:placetype":"county",

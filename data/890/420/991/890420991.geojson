@@ -11,10 +11,14 @@
     "geom:longitude":45.299,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.279,14.40573,45.319,14.44573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0627\u0631\u0628"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051770,
         "gp:id":1958975,
-        "qs:id":751156,
+        "qs_pg:id":751156,
         "wd:id":"Q20299335"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420991,
-    "wof:lastmodified":1563353340,
+    "wof:lastmodified":1566661249,
     "wof:name":"Al Mas\u0101rib",
     "wof:parent_id":1091919509,
     "wof:placetype":"locality",

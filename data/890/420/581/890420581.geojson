@@ -11,10 +11,14 @@
     "geom:longitude":43.37461,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.35461,16.33045,43.39461,16.37045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0627\u064a\u0633"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783392,
         "gp:id":1958967,
-        "qs:id":700044,
+        "qs_pg:id":700044,
         "wd:id":"Q20307718"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420581,
-    "wof:lastmodified":1563353365,
+    "wof:lastmodified":1566661260,
     "wof:name":"Al Man\u0101yish",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

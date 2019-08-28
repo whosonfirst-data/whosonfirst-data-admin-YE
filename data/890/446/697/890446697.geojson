@@ -11,10 +11,13 @@
     "geom:longitude":43.76946,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.76446,16.94364,43.77446,16.95364",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u062c\u062d\u062f\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683866,
-        "qs:id":697561
+        "qs_pg:id":697561
     },
     "wof:country":"YE",
     "wof:created":1469052562,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446697,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660756,
     "wof:name":"Bi\u2019r al Ja\u1e29dah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

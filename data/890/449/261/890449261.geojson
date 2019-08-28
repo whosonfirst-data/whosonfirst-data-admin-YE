@@ -11,10 +11,14 @@
     "geom:longitude":45.13166,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"YE",
+    "lbl:bbox":"45.11166,14.29324,45.15166,14.33324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0627\u0628\u0629"
     ],
@@ -33,12 +37,12 @@
     "wof:concordances":{
         "gn:id":8052032,
         "gp:id":1958975,
-        "qs:id":751409
+        "qs_pg:id":751409
     },
     "wof:concordances_alt":{
         "gn:id":8052038,
         "gp:id":1959118,
-        "qs:id":751415
+        "qs_pg:id":751415
     },
     "wof:country":"YE",
     "wof:created":1469052679,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890449261,
-    "wof:lastmodified":1534379829,
+    "wof:lastmodified":1566660516,
     "wof:name":"Al Khar\u0101bah",
     "wof:parent_id":1091919203,
     "wof:placetype":"locality",

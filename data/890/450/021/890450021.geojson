@@ -11,10 +11,14 @@
     "geom:longitude":43.20243,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":59,
+    "gn:population":59,
     "iso:country":"YE",
+    "lbl:bbox":"43.18243,15.97041,43.22243,16.01041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Murn\u0101f"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7365591,
         "gp:id":1958568,
-        "qs:id":685361
+        "qs_pg:id":685361
     },
     "wof:country":"YE",
     "wof:created":1469052721,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450021,
-    "wof:lastmodified":1505343631,
+    "wof:lastmodified":1566661411,
     "wof:name":"Al Murn\u0101f",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",

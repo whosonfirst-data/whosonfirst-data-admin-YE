@@ -11,10 +11,14 @@
     "geom:longitude":43.36862,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.34862,16.65098,43.38862,16.69098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0641\u0631\u0629"
     ],
@@ -147,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0414\u0436\u0443\u0444\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062c\u0641\u0631\u0629"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0641\u0631\u06c1 \u0636\u0644\u0639"
     ],
@@ -181,10 +182,12 @@
     "wof:concordances":{
         "gn:id":7631505,
         "gp:id":1959134,
-        "qs:id":742274,
         "qs_pg:id":694493,
         "wd:id":"Q48247",
         "wk:page":"Jufra District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":742274
     },
     "wof:country":"YE",
     "wof:created":1469051005,
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":890413593,
-    "wof:lastmodified":1563351542,
+    "wof:lastmodified":1566660596,
     "wof:name":"Al Jufrah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

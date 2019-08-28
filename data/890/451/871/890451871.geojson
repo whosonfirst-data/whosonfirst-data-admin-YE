@@ -11,10 +11,14 @@
     "geom:longitude":43.14226,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":17,
+    "gn:population":17,
     "iso:country":"YE",
+    "lbl:bbox":"43.12226,16.0887,43.16226,16.1287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0648\u0641 \u0628\u0646\u0649 \u062d\u0633\u0646"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ar\u1e11 ash Sha\u2018bah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jur\u016bf Ban\u012b \u1e28asan"
     ],
     "qs:name":"Jur\u016bf Ban\u012b \u1e28assan",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7631448,
         "gp:id":1953570,
-        "qs:id":694441,
+        "qs_pg:id":694441,
         "wd:id":"Q20306595"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890451871,
-    "wof:lastmodified":1563353751,
+    "wof:lastmodified":1566661407,
     "wof:name":"Jur\u016bf Ban\u012b \u1e28assan",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",

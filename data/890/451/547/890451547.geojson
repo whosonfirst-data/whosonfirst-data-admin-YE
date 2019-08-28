@@ -11,14 +11,17 @@
     "geom:longitude":52.18434,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":140,
+    "gn:population":140,
     "iso:country":"YE",
+    "lbl:bbox":"52.17934,16.20358,52.18934,16.21358",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u06f2\u06f2 \u064a\u0648\u0646\u064a\u0648"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e28\u0101rat Ithnayn wa \u2018Ishr\u012bn Y\u016bniy\u016b"
     ],
     "qs:name":"\u1e28\u0101rat Ithnayn wa \u2018Ashr\u012bn Y\u016bniy\u016b",
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7620597,
-        "qs:id":693979
+        "qs_pg:id":693979
     },
     "wof:country":"YE",
     "wof:created":1469052784,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890451547,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566661409,
     "wof:name":"\u1e28\u0101rat Ithnayn wa \u2018Ashr\u012bn Y\u016bniy\u016b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

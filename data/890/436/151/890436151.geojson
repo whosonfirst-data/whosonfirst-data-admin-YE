@@ -11,10 +11,13 @@
     "geom:longitude":43.32405,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.31905,16.29561,43.32905,16.30561",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0644\u0648\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7761138,
-        "qs:id":699128
+        "qs_pg:id":699128
     },
     "wof:country":"YE",
     "wof:created":1469052095,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890436151,
-    "wof:lastmodified":1505343551,
+    "wof:lastmodified":1566660945,
     "wof:name":"Al Khalwah ash Sharq\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

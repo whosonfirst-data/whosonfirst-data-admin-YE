@@ -11,10 +11,14 @@
     "geom:longitude":43.00182,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"42.98182,16.23034,43.02182,16.27034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0646\u0627\u0644\u0629"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Al Jithwah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062f\u0646\u0627\u0644\u0629"
     ],
     "qs:name":"Ad Din\u0101lah",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7622268,
         "gp:id":1959063,
-        "qs:id":694025,
+        "qs_pg:id":694025,
         "wd:id":"Q20300752"
     },
     "wof:country":"YE",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":890445763,
-    "wof:lastmodified":1563353682,
+    "wof:lastmodified":1566661378,
     "wof:name":"Ad Din\u0101lah",
     "wof:parent_id":1091923925,
     "wof:placetype":"locality",

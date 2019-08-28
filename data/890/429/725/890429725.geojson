@@ -11,10 +11,14 @@
     "geom:longitude":43.65566,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"43.63566,13.38123,43.67566,13.42123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0627\u0643\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069280,
         "gp:id":1953407,
-        "qs:id":109244,
+        "qs_pg:id":109244,
         "wd:id":"Q20306808"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890429725,
-    "wof:lastmodified":1563353315,
+    "wof:lastmodified":1566661240,
     "wof:name":"Al Ma\u1e29\u0101kilah",
     "wof:parent_id":1091926707,
     "wof:placetype":"locality",

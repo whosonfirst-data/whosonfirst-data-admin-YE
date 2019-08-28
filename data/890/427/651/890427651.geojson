@@ -11,10 +11,14 @@
     "geom:longitude":44.18743,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.16743,17.27742,44.20743,17.31742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0646\u0642"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7789887,
-        "qs:id":700375
+        "qs_pg:id":700375
     },
     "wof:country":"YE",
     "wof:created":1469051708,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890427651,
-    "wof:lastmodified":1505343500,
+    "wof:lastmodified":1566661332,
     "wof:name":"Al Khanaq",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.73889,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.71889,15.98095,43.75889,16.02095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0648\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8020556,
         "gp:id":1954549,
-        "qs:id":749903,
+        "qs_pg:id":749903,
         "wd:id":"Q20300840"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414395,
-    "wof:lastmodified":1563351692,
+    "wof:lastmodified":1566660647,
     "wof:name":"Al \u1e28aww\u012b",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

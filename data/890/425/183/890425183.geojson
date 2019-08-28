@@ -11,10 +11,14 @@
     "geom:longitude":43.33026,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.31026,16.24081,43.35026,16.28081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Hir\u0101n"
     ],
@@ -42,9 +46,11 @@
     "wof:concordances":{
         "gn:id":8066871,
         "gp:id":1953570,
-        "qs:id":699143,
-        "qs_pg:id":752902,
+        "qs_pg:id":699143,
         "wd:id":"Q20305886"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":752902
     },
     "wof:country":"YE",
     "wof:created":1469051578,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890425183,
-    "wof:lastmodified":1514503289,
+    "wof:lastmodified":1566660591,
     "wof:name":"Hir\u0101n",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

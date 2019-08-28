@@ -11,10 +11,14 @@
     "geom:longitude":43.31546,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"YE",
+    "lbl:bbox":"43.29546,16.33546,43.33546,16.37546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0646 \u0627\u0644\u0645\u0648\u062a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7783226,
         "gp:id":1958967,
-        "qs:id":699906,
+        "qs_pg:id":699906,
         "wd:id":"Q20305442"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890437483,
-    "wof:lastmodified":1563352415,
+    "wof:lastmodified":1566660896,
     "wof:name":"Qarn al Mawt",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

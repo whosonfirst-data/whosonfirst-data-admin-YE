@@ -11,10 +11,14 @@
     "geom:longitude":44.2232,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":29,
+    "gn:population":29,
     "iso:country":"YE",
+    "lbl:bbox":"44.2032,16.83088,44.2432,16.87088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0647\u0644\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7753589,
         "gp:id":1959135,
-        "qs:id":698479
+        "qs_pg:id":698479
     },
     "wof:country":"YE",
     "wof:created":1469052583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890447201,
-    "wof:lastmodified":1505343615,
+    "wof:lastmodified":1566660495,
     "wof:name":"Sahilah",
     "wof:parent_id":1091925391,
     "wof:placetype":"locality",

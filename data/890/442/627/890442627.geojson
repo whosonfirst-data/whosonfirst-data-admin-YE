@@ -11,10 +11,14 @@
     "geom:longitude":43.63446,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.61446,16.21652,43.65446,16.25652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0628\u0647\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7928159,
         "gp:id":1959128,
-        "qs:id":745596
+        "qs_pg:id":745596
     },
     "wof:country":"YE",
     "wof:created":1469052369,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890442627,
-    "wof:lastmodified":1505343589,
+    "wof:lastmodified":1566661370,
     "wof:name":"Al Jabhah",
     "wof:parent_id":1091921649,
     "wof:placetype":"locality",

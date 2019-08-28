@@ -11,10 +11,14 @@
     "geom:longitude":43.39012,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"YE",
+    "lbl:bbox":"43.37012,16.03723,43.41012,16.07723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0643\u0631\u062a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7682509,
         "gp:id":1958568,
-        "qs:id":697255,
+        "qs_pg:id":697255,
         "wd:id":"Q20299876"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890446321,
-    "wof:lastmodified":1563352035,
+    "wof:lastmodified":1566660767,
     "wof:name":"Bayt al Kurt",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

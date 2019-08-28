@@ -11,10 +11,14 @@
     "geom:longitude":43.3029,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.2829,16.6436,43.3229,16.6836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0633 \u0627\u0644\u0642\u062d\u0632\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855011,
         "gp:id":1959134,
-        "qs:id":741947,
+        "qs_pg:id":741947,
         "wd:id":"Q20299521"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425889,
-    "wof:lastmodified":1563351432,
+    "wof:lastmodified":1566660554,
     "wof:name":"Kurs al Qa\u1e29zah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

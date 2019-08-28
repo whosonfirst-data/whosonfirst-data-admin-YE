@@ -11,10 +11,14 @@
     "geom:longitude":44.48705,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"44.46705,16.86948,44.50705,16.90948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Khir\u0101r"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7794996,
         "gp:id":1959135,
-        "qs:id":700769
+        "qs_pg:id":700769
     },
     "wof:country":"YE",
     "wof:created":1469052910,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890454677,
-    "wof:lastmodified":1505343658,
+    "wof:lastmodified":1566660995,
     "wof:name":"Al Khir\u0101r",
     "wof:parent_id":1091920749,
     "wof:placetype":"locality",

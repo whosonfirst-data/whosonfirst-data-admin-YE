@@ -11,10 +11,14 @@
     "geom:longitude":43.28245,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.26245,16.51458,43.30245,16.55458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0634\u0627\u0637 \u0627\u0644\u0623\u0639\u0644\u0649"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7854870,
         "gp:id":1959057,
-        "qs:id":741814,
+        "qs_pg:id":741814,
         "wd:id":"Q20304581"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420673,
-    "wof:lastmodified":1563353354,
+    "wof:lastmodified":1566661255,
     "wof:name":"Al Qash\u0101\u0163 al A\u2018l\u00e1",
     "wof:parent_id":1091923769,
     "wof:placetype":"locality",

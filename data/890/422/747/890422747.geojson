@@ -11,10 +11,14 @@
     "geom:longitude":43.29881,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.27881,16.79123,43.31881,16.83123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0644\u0628"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926769,
         "gp:id":1959134,
-        "qs:id":745111
+        "qs_pg:id":745111
     },
     "wof:country":"YE",
     "wof:created":1469051462,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422747,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566660543,
     "wof:name":"Al Khalab",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":14.652434,
     "lbl:longitude":43.670562,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0631\u064a\u0645\u0629",
     "mps:latitude":14.654482,
     "mps:longitude":43.720388,
@@ -177,7 +178,7 @@
         "Raymah"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bc6\u0baf\u0bcd\u0bae\u0bbe\u0bb9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+        "\u0bb0\u0bc6\u0baf\u0bcd\u0bae\u0bbe\u0bb9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c47\u0c2e\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -195,9 +196,7 @@
         "\u0420\u0435\u0439\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "\u0631\u064a\u0645\u0629"
-    ],
-    "name:unk_x_variant":[
+        "\u0631\u064a\u0645\u0629",
         "Raimah"
     ],
     "name:urd_x_preferred":[
@@ -285,9 +284,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-12-01",
@@ -332,11 +331,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739828,
+    "wof:lastmodified":1566658451,
     "wof:name":"Raymah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":394448,
     "wof:population_rank":10,

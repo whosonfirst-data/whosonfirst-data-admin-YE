@@ -11,10 +11,14 @@
     "geom:longitude":43.25999,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.23999,17.11699,43.27999,17.15699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0647\u0631\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7866956,
         "gp:id":1938607,
-        "qs:id":743129
+        "qs_pg:id":743129
     },
     "wof:country":"YE",
     "wof:created":1469051286,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890419415,
-    "wof:lastmodified":1505343450,
+    "wof:lastmodified":1566661047,
     "wof:name":"Al Bahirah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

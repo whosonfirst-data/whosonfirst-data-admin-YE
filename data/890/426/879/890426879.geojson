@@ -11,10 +11,14 @@
     "geom:longitude":45.51487,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"45.49487,14.95867,45.53487,14.99867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0643\u0631\u0645\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8053117,
         "gp:id":1959055,
-        "qs:id":751548
+        "qs_pg:id":751548
     },
     "wof:country":"YE",
     "wof:created":1469051650,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426879,
-    "wof:lastmodified":1505343496,
+    "wof:lastmodified":1566661122,
     "wof:name":"Al \u2018Akrimah",
     "wof:parent_id":1091925079,
     "wof:placetype":"locality",

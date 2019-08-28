@@ -11,10 +11,14 @@
     "geom:longitude":43.76813,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":28,
+    "gn:population":28,
     "iso:country":"YE",
+    "lbl:bbox":"43.74813,13.16123,43.78813,13.20123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0632\u0642"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8069188,
         "gp:id":1958962,
-        "qs:id":753368,
+        "qs_pg:id":753368,
         "wd:id":"Q20300288"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890427109,
-    "wof:lastmodified":1563353589,
+    "wof:lastmodified":1566661345,
     "wof:name":"Al Mazaq",
     "wof:parent_id":1091926417,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":45.71451,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"45.69451,13.99426,45.73451,14.03426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0634\u0648\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8066824,
         "gp:id":1959103,
-        "qs:id":752871,
+        "qs_pg:id":752871,
         "wd:id":"Q20301263"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414579,
-    "wof:lastmodified":1563351756,
+    "wof:lastmodified":1566660668,
     "wof:name":"Mashwar",
     "wof:parent_id":1091919167,
     "wof:placetype":"locality",

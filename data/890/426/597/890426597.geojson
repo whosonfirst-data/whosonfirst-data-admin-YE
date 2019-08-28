@@ -11,10 +11,13 @@
     "geom:longitude":43.7113,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.7063,16.1677,43.7163,16.1777",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u0642\u0631\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020402,
-        "qs:id":749759
+        "qs_pg:id":749759
     },
     "wof:country":"YE",
     "wof:created":1469051638,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890426597,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661118,
     "wof:name":"Ra\u2019s al Qaryah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

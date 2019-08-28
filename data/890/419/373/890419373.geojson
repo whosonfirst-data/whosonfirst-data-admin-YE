@@ -11,10 +11,14 @@
     "geom:longitude":43.25895,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.23895,17.24324,43.27895,17.28324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0634\u0631\u0629"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7856686,
         "gp:id":1938607,
-        "qs:id":742600,
+        "qs_pg:id":742600,
         "wd:id":"Q20300550"
     },
     "wof:country":"YE",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890419373,
-    "wof:lastmodified":1514503325,
+    "wof:lastmodified":1566661085,
     "wof:name":"Ma\u1e29sharah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",

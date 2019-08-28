@@ -11,10 +11,14 @@
     "geom:longitude":44.51252,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":22,
+    "gn:population":22,
     "iso:country":"YE",
+    "lbl:bbox":"44.49252,17.17574,44.53252,17.21574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062c\u0627\u0626\u0632"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Ash Shar\u016bkh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ar Raj\u0101\u2019iz"
     ],
     "qs:name":"Ar Raj\u0101i\u2019z",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7687180,
         "gp:id":1959086,
-        "qs:id":697741,
+        "qs_pg:id":697741,
         "wd:id":"Q20301460"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890446919,
-    "wof:lastmodified":1563352032,
+    "wof:lastmodified":1566660766,
     "wof:name":"Ar Raj\u0101i\u2019z",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

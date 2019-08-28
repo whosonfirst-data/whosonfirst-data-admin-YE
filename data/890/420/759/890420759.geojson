@@ -11,10 +11,14 @@
     "geom:longitude":43.25523,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.23523,17.3609,43.27523,17.4009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0644\u0639\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7856559,
         "gp:id":56447933,
-        "qs:id":742479,
+        "qs_pg:id":742479,
         "wd:id":"Q20303221"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890420759,
-    "wof:lastmodified":1563353381,
+    "wof:lastmodified":1566661266,
     "wof:name":"As Sil\u2018ah",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",

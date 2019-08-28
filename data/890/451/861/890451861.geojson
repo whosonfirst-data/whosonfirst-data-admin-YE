@@ -11,10 +11,14 @@
     "geom:longitude":43.46077,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.44077,16.13212,43.48077,16.17212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0641\u062c"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7658667,
         "gp:id":1959128,
-        "qs:id":696464,
+        "qs_pg:id":696464,
         "wd:id":"Q20305819"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890451861,
-    "wof:lastmodified":1563353738,
+    "wof:lastmodified":1566661402,
     "wof:name":"Al Lafij",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

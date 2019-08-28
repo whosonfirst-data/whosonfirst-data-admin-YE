@@ -11,10 +11,14 @@
     "geom:longitude":43.60243,
     "gn:country":"YE",
     "gn:fcode":"PPLF",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.58243,17.00296,43.62243,17.04296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0100l Sh\u0101bil"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":7794796,
         "gp:id":1959094,
-        "qs:id":700579
+        "qs_pg:id":700579
     },
     "wof:country":"YE",
     "wof:created":1469052908,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890454651,
-    "wof:lastmodified":1505343658,
+    "wof:lastmodified":1566660978,
     "wof:name":"\u0100l Sh\u0101bil",
     "wof:parent_id":1091925445,
     "wof:placetype":"locality",

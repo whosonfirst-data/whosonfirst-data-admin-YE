@@ -11,10 +11,14 @@
     "geom:longitude":44.38063,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"44.36063,17.00994,44.40063,17.04994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0628\u0644\u0629"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7785360,
         "gp:id":1959086,
-        "qs:id":700276,
+        "qs_pg:id":700276,
         "wd:id":"Q20303346"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419067,
-    "wof:lastmodified":1563352877,
+    "wof:lastmodified":1566661081,
     "wof:name":"Al Jiblah",
     "wof:parent_id":1091925391,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":43.7704,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":76,
+    "gn:population":76,
     "iso:country":"YE",
+    "lbl:bbox":"43.7654,16.9225,43.7754,16.9325",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u062c\u0631\u0627\u0634"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7683883,
-        "qs:id":697578
+        "qs_pg:id":697578
     },
     "wof:country":"YE",
     "wof:created":1469052564,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446723,
-    "wof:lastmodified":1505343612,
+    "wof:lastmodified":1566660743,
     "wof:name":"Bi\u2019r al Jur\u0101sh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":44.34665,
     "gn:country":"YE",
     "gn:fcode":"PPLL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.32665,16.48402,44.36665,16.52402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Al Qur\u016bn"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7795073,
         "gp:id":1958965,
-        "qs:id":700840,
+        "qs_pg:id":700840,
         "wd:id":"Q20299160"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890448317,
-    "wof:lastmodified":1563351904,
+    "wof:lastmodified":1566660717,
     "wof:name":"Al Qur\u016bn",
     "wof:parent_id":1091920575,
     "wof:placetype":"locality",

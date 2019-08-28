@@ -11,11 +11,14 @@
     "geom:longitude":43.70731,
     "gn:country":"YE",
     "gn:fcode":"MKT",
-    "gn:pop":46,
+    "gn:population":46,
     "iso:country":"YE",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u062c\u062f\u064a\u062f"
     ],
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8020536,
         "gp:id":1959046,
-        "qs:id":749883,
+        "qs_pg:id":749883,
         "wd:id":"Q4874891",
         "wk:page":"Butnan District"
     },
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890426627,
-    "wof:lastmodified":1561839629,
+    "wof:lastmodified":1566661101,
     "wof:name":"As S\u016bq al Jad\u012bd",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

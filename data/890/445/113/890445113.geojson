@@ -11,10 +11,13 @@
     "geom:longitude":44.78473,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"44.77973,15.98126,44.78973,15.99126",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062d\u064a \u0627\u0644 \u0633\u0644\u0627\u0645\u0629"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7890613,
-        "qs:id":744033
+        "qs_pg:id":744033
     },
     "wof:country":"YE",
     "wof:created":1469052497,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890445113,
-    "wof:lastmodified":1505343603,
+    "wof:lastmodified":1566661398,
     "wof:name":"\u1e28ayy \u0100l Sal\u0101mah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

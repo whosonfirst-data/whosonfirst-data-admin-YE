@@ -11,10 +11,14 @@
     "geom:longitude":43.31137,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.29137,16.13974,43.33137,16.17974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062e\u0634\u0640\u0640\u0648\u0634"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Al Jih\u016bt"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062e\u0634\u0648\u0634"
     ],
     "qs:name":"Makhsh\u016bsh",
     "qs:photos_9r":0,
@@ -48,9 +49,11 @@
     "wof:concordances":{
         "gn:id":7631475,
         "gp:id":1953570,
-        "qs:id":694864,
         "qs_pg:id":694468,
         "wd:id":"Q20300785"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":694864
     },
     "wof:country":"YE",
     "wof:created":1469052527,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890445907,
-    "wof:lastmodified":1563353683,
+    "wof:lastmodified":1566661378,
     "wof:name":"Makhsh\u016bsh",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",

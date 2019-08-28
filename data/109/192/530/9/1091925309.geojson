@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.838305,
     "lbl:longitude":43.585763,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Raymah",
     "meso:admin1_loc":"\u0631\u064a\u0645\u0629",
     "meso:dissme":"RaymahBilad At Ta'am",
@@ -32,6 +34,7 @@
     "mps:longitude":43.585763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0628\u0644\u0627\u062f \u0627\u0644\u0637\u0639\u0627\u0645"
     ],
@@ -63,9 +66,9 @@
         "Bilad At Ta'am"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091925309,
-    "wof:lastmodified":1563350847,
+    "wof:lastmodified":1566660270,
     "wof:name":"Bilad At Ta'am",
     "wof:parent_id":85681033,
     "wof:placetype":"county",

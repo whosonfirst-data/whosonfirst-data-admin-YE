@@ -11,10 +11,13 @@
     "geom:longitude":43.65284,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.64784,16.13165,43.65784,16.14165",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0628\u0631\u0627\u0646"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8021952,
-        "qs:id":750182
+        "qs_pg:id":750182
     },
     "wof:country":"YE",
     "wof:created":1469052851,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890453369,
-    "wof:lastmodified":1505343650,
+    "wof:lastmodified":1566661021,
     "wof:name":"Khaybr\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

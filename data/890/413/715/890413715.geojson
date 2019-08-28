@@ -11,10 +11,13 @@
     "geom:longitude":43.3038,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.2988,17.36175,43.3088,17.37175",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062f\u0628 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7856645,
-        "qs:id":742561
+        "qs_pg:id":742561
     },
     "wof:country":"YE",
     "wof:created":1469051011,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890413715,
-    "wof:lastmodified":1505343415,
+    "wof:lastmodified":1566660606,
     "wof:name":"Al \u1e28adab al Asfal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":43.718,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.698,16.06827,43.738,16.10827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0636\u0644\u0639\u0629 \u0627\u0644\u0628\u0631\u064a\u0643\u0629"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":8021986,
         "gp:id":1959046,
-        "qs:id":750216,
+        "qs_pg:id":750216,
         "wd:id":"Q20301672"
     },
     "wof:concordances_alt":{
         "gn:id":8021979,
-        "qs:id":750209
+        "qs_pg:id":750209
     },
     "wof:country":"YE",
     "wof:created":1469052235,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890439423,
-    "wof:lastmodified":1563352283,
+    "wof:lastmodified":1566660853,
     "wof:name":"\u1e10al\u2018at al Buraykah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

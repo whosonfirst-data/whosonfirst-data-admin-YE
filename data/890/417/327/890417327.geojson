@@ -11,10 +11,14 @@
     "geom:longitude":44.13144,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"44.11144,17.09105,44.15144,17.13105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0645\u0646\u064a\u0645\u0631"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Al \u1e28ashraj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bi\u2019r Munaymir"
     ],
     "qs:name":"Bi\u2019r Qusaym",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7345121,
         "gp:id":1959086,
-        "qs:id":685035,
+        "qs_pg:id":685035,
         "wd:id":"Q20301230"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890417327,
-    "wof:lastmodified":1563353270,
+    "wof:lastmodified":1566661223,
     "wof:name":"Bi\u2019r Qusaym",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",

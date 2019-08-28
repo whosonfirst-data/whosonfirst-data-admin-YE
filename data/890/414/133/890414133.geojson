@@ -11,10 +11,14 @@
     "geom:longitude":45.30039,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"45.28039,15.38307,45.32039,15.42307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u064a\u0646 \u0627\u0644\u0623\u0634\u0631\u0627\u0641"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7861471,
         "gp:id":1957048,
-        "qs:id":742804,
+        "qs_pg:id":742804,
         "wd:id":"Q17679792"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890414133,
-    "wof:lastmodified":1563351626,
+    "wof:lastmodified":1566660624,
     "wof:name":"Man\u012bn al Ashr\u0101f",
     "wof:parent_id":1091925221,
     "wof:placetype":"locality",

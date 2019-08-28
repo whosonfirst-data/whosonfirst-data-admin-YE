@@ -11,10 +11,14 @@
     "geom:longitude":45.12659,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"45.10659,14.28504,45.14659,14.32504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0643\u0631 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8052028,
         "gp:id":1958975,
-        "qs:id":751405,
+        "qs_pg:id":751405,
         "wd:id":"Q20305026"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890437539,
-    "wof:lastmodified":1563352426,
+    "wof:lastmodified":1566660900,
     "wof:name":"Hakr al Asfal",
     "wof:parent_id":1091919203,
     "wof:placetype":"locality",

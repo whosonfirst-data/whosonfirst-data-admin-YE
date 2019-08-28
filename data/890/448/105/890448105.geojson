@@ -11,10 +11,13 @@
     "geom:longitude":43.35662,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"YE",
+    "lbl:bbox":"43.35162,16.3156,43.36162,16.3256",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al M\u0101jil"
     ],
@@ -35,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7783444,
-        "qs:id":700097
+        "qs_pg:id":700097
     },
     "wof:country":"YE",
     "wof:created":1469052619,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890448105,
-    "wof:lastmodified":1505343621,
+    "wof:lastmodified":1566660674,
     "wof:name":"Al M\u0101jil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

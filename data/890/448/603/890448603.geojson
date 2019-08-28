@@ -11,10 +11,14 @@
     "geom:longitude":43.39437,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":19,
+    "gn:population":19,
     "iso:country":"YE",
+    "lbl:bbox":"43.37437,16.72427,43.41437,16.76427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0634"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7855442,
         "gp:id":1959061,
-        "qs:id":742348,
+        "qs_pg:id":742348,
         "wd:id":"Q20303293"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890448603,
-    "wof:lastmodified":1563351815,
+    "wof:lastmodified":1566660687,
     "wof:name":"Al Jaysh",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

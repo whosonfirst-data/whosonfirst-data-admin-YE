@@ -11,10 +11,14 @@
     "geom:longitude":43.72472,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.70472,16.05522,43.74472,16.09522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u062d\u0627\u0646"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8020519,
         "gp:id":1959046,
-        "qs:id":749866
+        "qs_pg:id":749866
     },
     "wof:country":"YE",
     "wof:created":1469051639,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890426625,
-    "wof:lastmodified":1505343494,
+    "wof:lastmodified":1566661123,
     "wof:name":"Mal\u1e29\u0101n",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

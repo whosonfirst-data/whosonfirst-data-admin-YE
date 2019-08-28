@@ -11,10 +11,14 @@
     "geom:longitude":43.71019,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.69019,16.07006,43.73019,16.11006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0642\u0628"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":8020598,
         "gp:id":1959046,
-        "qs:id":749943,
+        "qs_pg:id":749943,
         "wd:id":"Q20299978"
     },
     "wof:concordances_alt":{
         "gn:id":8020624,
-        "qs:id":749968
+        "qs_pg:id":749968
     },
     "wof:country":"YE",
     "wof:created":1469052232,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890439341,
-    "wof:lastmodified":1563352304,
+    "wof:lastmodified":1566660860,
     "wof:name":"Al Waqab",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

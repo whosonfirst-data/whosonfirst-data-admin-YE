@@ -11,10 +11,14 @@
     "geom:longitude":43.72964,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.70964,16.06762,43.74964,16.10762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0632\u0639\u064a"
     ],
@@ -39,8 +43,10 @@
     "wof:concordances":{
         "gn:id":8021988,
         "gp:id":1959046,
-        "qs:id":750219,
         "qs_pg:id":750218
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":750219
     },
     "wof:country":"YE",
     "wof:created":1469052379,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890442793,
-    "wof:lastmodified":1505343590,
+    "wof:lastmodified":1566661373,
     "wof:name":"Al Qaz\u2018\u012b",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

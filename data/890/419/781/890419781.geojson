@@ -11,10 +11,14 @@
     "geom:longitude":45.15703,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"45.13703,14.64585,45.17703,14.68585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0643\u0633"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8053464,
         "gp:id":1958975,
-        "qs:id":751880,
+        "qs_pg:id":751880,
         "wd:id":"Q20301572",
         "wk:page":"Arrakis"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890419781,
-    "wof:lastmodified":1563352882,
+    "wof:lastmodified":1566661083,
     "wof:name":"Ar Rakis",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",

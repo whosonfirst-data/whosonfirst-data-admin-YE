@@ -11,10 +11,14 @@
     "geom:longitude":43.45115,
     "gn:country":"YE",
     "gn:fcode":"PPLF",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"YE",
+    "lbl:bbox":"43.43115,16.35757,43.47115,16.39757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062c\u0647\u0631"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755467,
         "gp:id":1959128,
-        "qs:id":698689,
+        "qs_pg:id":698689,
         "wd:id":"Q20300606"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890423555,
-    "wof:lastmodified":1563352202,
+    "wof:lastmodified":1566660825,
     "wof:name":"Majhar",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

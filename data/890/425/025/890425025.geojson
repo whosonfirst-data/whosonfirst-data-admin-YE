@@ -11,10 +11,13 @@
     "geom:longitude":43.42814,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.42314,15.99771,43.43314,16.00771",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0640\u0640\u0631"
     ],
@@ -33,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7682431,
-        "qs:id":697205,
+        "qs_pg:id":697205,
         "wk:page":"As Sirr"
     },
     "wof:country":"YE",
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890425025,
-    "wof:lastmodified":1527727166,
+    "wof:lastmodified":1566660556,
     "wof:name":"As Sirr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

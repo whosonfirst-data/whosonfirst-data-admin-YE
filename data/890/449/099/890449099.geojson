@@ -11,10 +11,14 @@
     "geom:longitude":43.67942,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.65942,15.98019,43.69942,16.02019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0641\u0644\u0640\u0640\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8020659,
         "gp:id":1954549,
-        "qs:id":750001
+        "qs_pg:id":750001
     },
     "wof:country":"YE",
     "wof:created":1469052668,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890449099,
-    "wof:lastmodified":1505343627,
+    "wof:lastmodified":1566660517,
     "wof:name":"Al Quflah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",

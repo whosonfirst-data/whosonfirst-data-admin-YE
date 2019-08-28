@@ -11,10 +11,13 @@
     "geom:longitude":43.64224,
     "gn:country":"YE",
     "gn:fcode":"PPLX",
-    "gn:pop":7,
+    "gn:population":7,
     "iso:country":"YE",
+    "lbl:bbox":"43.63724,16.22359,43.64724,16.23359",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0631\u0648\u0627\u0632"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8020379,
-        "qs:id":749736
+        "qs_pg:id":749736
     },
     "wof:country":"YE",
     "wof:created":1469051292,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890419555,
-    "wof:lastmodified":1505343451,
+    "wof:lastmodified":1566661062,
     "wof:name":"Bayt ar Raw\u0101z",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

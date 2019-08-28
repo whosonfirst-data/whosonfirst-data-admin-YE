@@ -11,10 +11,14 @@
     "geom:longitude":43.77112,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.75112,13.43812,43.79112,13.47812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0632\u0639"
     ],
@@ -39,12 +43,12 @@
     "wof:concordances":{
         "gn:id":8075742,
         "gp:id":1959049,
-        "qs:id":754325,
+        "qs_pg:id":754325,
         "wd:id":"Q20307356"
     },
     "wof:concordances_alt":{
         "gn:id":8075710,
-        "qs:id":754296
+        "qs_pg:id":754296
     },
     "wof:country":"YE",
     "wof:created":1469051310,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890419989,
-    "wof:lastmodified":1563352887,
+    "wof:lastmodified":1566661085,
     "wof:name":"Al Majza\u2018",
     "wof:parent_id":1091926573,
     "wof:placetype":"locality",

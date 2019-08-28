@@ -11,10 +11,14 @@
     "geom:longitude":43.89857,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"YE",
+    "lbl:bbox":"43.87857,16.5162,43.91857,16.5562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0639 \u0630\u0648 \u0627\u0644\u0637\u0644\u0649"
     ],
@@ -24,7 +28,7 @@
     "name:eng_x_variant":[
         "Kawlat al \u2018A\u015f\u0101d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Q\u0101\u2018 Dh\u016b a\u0163 \u0162all\u00e1"
     ],
     "qs:name":"Q\u0101\u2018 Dh\u016b A\u0163 \u0162all\u00e1",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7683375,
         "gp:id":1958949,
-        "qs:id":697429,
+        "qs_pg:id":697429,
         "wd:id":"Q20304928"
     },
     "wof:country":"YE",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890446505,
-    "wof:lastmodified":1563351918,
+    "wof:lastmodified":1566660723,
     "wof:name":"Q\u0101\u2018 Dh\u016b A\u0163 \u0162all\u00e1",
     "wof:parent_id":1091921891,
     "wof:placetype":"locality",

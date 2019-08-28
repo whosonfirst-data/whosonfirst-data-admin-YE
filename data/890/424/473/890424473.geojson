@@ -11,10 +11,14 @@
     "geom:longitude":43.23926,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"YE",
+    "lbl:bbox":"43.21926,16.22664,43.25926,16.26664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0627\u0632\u0629"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Q\u0101i\u2019m Mukabbath"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062d\u0627\u0632\u0629"
     ],
     "qs:name":"Al \u1e28\u0101zah",
     "qs:photos_9r":0,
@@ -45,9 +46,11 @@
     "wof:concordances":{
         "gn:id":7632299,
         "gp:id":1953570,
-        "qs:id":694526,
-        "qs_pg:id":694887,
+        "qs_pg:id":694526,
         "wd:id":"Q20301137"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":694887
     },
     "wof:country":"YE",
     "wof:created":1469051545,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890424473,
-    "wof:lastmodified":1563352125,
+    "wof:lastmodified":1566660800,
     "wof:name":"Al \u1e28\u0101zah",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",

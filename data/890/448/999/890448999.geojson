@@ -11,10 +11,14 @@
     "geom:longitude":43.70233,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"YE",
+    "lbl:bbox":"43.68233,16.13973,43.72233,16.17973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u064a\u0641\u0629"
     ],
@@ -46,13 +50,13 @@
     "wof:concordances":{
         "gn:id":7928248,
         "gp:id":1959128,
-        "qs:id":745685,
+        "qs_pg:id":745685,
         "wd:id":"Q4704004",
         "wk:page":"Al Hayfah"
     },
     "wof:concordances_alt":{
         "gn:id":8020393,
-        "qs:id":749750
+        "qs_pg:id":749750
     },
     "wof:country":"YE",
     "wof:created":1469052656,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890448999,
-    "wof:lastmodified":1563351782,
+    "wof:lastmodified":1566660676,
     "wof:name":"Al \u1e28ayfah",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",

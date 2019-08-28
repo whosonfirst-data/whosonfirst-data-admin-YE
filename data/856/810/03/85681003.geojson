@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":13.971173,
     "lbl:longitude":44.829255,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0636\u0627\u0644\u0639",
     "mps:latitude":13.955976,
     "mps:longitude":44.858766,
@@ -40,7 +41,7 @@
     "name:fra_x_preferred":[
         "Ad Dali'"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu\u1e29\u0101faz\u0327at a\u1e11 \u1e10\u0101li\u2018"
     ],
     "ne:abbrev":"",
@@ -116,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"4,000",
     "statoids:area_mi":"1,540",
     "statoids:as_of_date":"2004-12-01",
@@ -159,11 +160,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565739828,
+    "wof:lastmodified":1566658451,
     "wof:name":"Al Dali'",
     "wof:parent_id":85632499,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":470564,
     "wof:population_rank":10,

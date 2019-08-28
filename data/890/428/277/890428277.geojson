@@ -11,10 +11,14 @@
     "geom:longitude":45.24585,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":11,
+    "gn:population":11,
     "iso:country":"YE",
+    "lbl:bbox":"45.22585,14.24695,45.26585,14.28695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0642\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8051749,
         "gp:id":1958988,
-        "qs:id":751135,
+        "qs_pg:id":751135,
         "wd:id":"Q20304117"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428277,
-    "wof:lastmodified":1563353180,
+    "wof:lastmodified":1566661191,
     "wof:name":"Ash Shaqq\u012b",
     "wof:parent_id":1091919135,
     "wof:placetype":"locality",

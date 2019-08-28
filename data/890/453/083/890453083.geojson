@@ -11,10 +11,14 @@
     "geom:longitude":43.42238,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.40238,16.21226,43.44238,16.25226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u062c\u0646\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7656483,
         "gp:id":1959128,
-        "qs:id":696099
+        "qs_pg:id":696099
     },
     "wof:country":"YE",
     "wof:created":1469052840,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890453083,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566661009,
     "wof:name":"Ash Shujnah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.29747,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"YE",
+    "lbl:bbox":"43.27747,16.65281,43.31747,16.69281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Adh Dhir\u0101\u2018"
     ],
@@ -39,7 +43,9 @@
     "wof:concordances":{
         "gn:id":7855106,
         "gp:id":1959134,
-        "qs:id":742002,
+        "qs_pg:id":742002
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":742030
     },
     "wof:country":"YE",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890442775,
-    "wof:lastmodified":1505343590,
+    "wof:lastmodified":1566661377,
     "wof:name":"Adh Dhir\u0101\u2018",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",

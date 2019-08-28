@@ -11,10 +11,14 @@
     "geom:longitude":43.26191,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.24191,16.86586,43.28191,16.90586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0643\u0628\u0629"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926914,
         "gp:id":1958992,
-        "qs:id":745252
+        "qs_pg:id":745252
     },
     "wof:country":"YE",
     "wof:created":1469051736,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890428121,
-    "wof:lastmodified":1505343503,
+    "wof:lastmodified":1566661187,
     "wof:name":"Ar Rukbah",
     "wof:parent_id":1091925497,
     "wof:placetype":"locality",

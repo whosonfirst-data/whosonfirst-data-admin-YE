@@ -11,10 +11,14 @@
     "geom:longitude":43.43535,
     "gn:country":"YE",
     "gn:fcode":"PPLF",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"YE",
+    "lbl:bbox":"43.41535,16.3651,43.45535,16.4051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0635\u0644\u0628\u0648 \u0627\u0644\u0623\u0633\u0641\u0644"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7755499,
         "gp:id":1959128,
-        "qs:id":698720,
+        "qs_pg:id":698720,
         "wd:id":"Q20301292"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890425151,
-    "wof:lastmodified":1563351425,
+    "wof:lastmodified":1566660552,
     "wof:name":"Ma\u015flib\u016b al Asfal",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":43.47258,
     "gn:country":"YE",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"YE",
+    "lbl:bbox":"43.45258,16.83682,43.49258,16.87682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a \u0642\u0631\u0634"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7900625,
         "gp:id":1958259,
-        "qs:id":744395,
+        "qs_pg:id":744395,
         "wd:id":"Q20300529"
     },
     "wof:country":"YE",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890419453,
-    "wof:lastmodified":1563352805,
+    "wof:lastmodified":1566661053,
     "wof:name":"Alt Qarash",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",

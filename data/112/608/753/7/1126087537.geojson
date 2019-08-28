@@ -9,15 +9,17 @@
     "geom:bbox":"43.42638,17.17614,43.42638,17.17614",
     "geom:latitude":17.17614,
     "geom:longitude":43.42638,
-    "gn:gn_country":"YE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":4,
+    "gn:country":"YE",
+    "gn:fcode":"PPLX",
     "gn:population":4,
     "iso:country":"YE",
+    "lbl:bbox":"43.42138,17.17114,43.43138,17.18114",
     "lbl:latitude":17.17614,
     "lbl:longitude":43.42638,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0643\u0631\u064a"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":742905,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85680955,
         102191569,
         85632499,
-        1091925445,
-        85680955
+        1091925445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126087537,
-    "wof:lastmodified":1509411476,
+    "wof:lastmodified":1566661502,
     "wof:name":"Al Maskir\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

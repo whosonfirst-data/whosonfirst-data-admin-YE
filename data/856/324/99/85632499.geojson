@@ -956,9 +956,10 @@
     "reversegeo:geometry":"85632499-alt-quattroshapes.geojson",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
+        "naturalearth",
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -1015,6 +1016,12 @@
     },
     "wof:country":"YE",
     "wof:country_alpha3":"YEM",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"168d69a42160157e70b32b01a3db9688",
     "wof:hierarchy":[
         {
@@ -1029,7 +1036,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566658454,
+    "wof:lastmodified":1582331074,
     "wof:name":"Yemen",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

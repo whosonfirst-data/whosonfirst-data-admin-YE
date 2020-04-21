@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.268316,
-    "geom:area_square_m":454933232973.431641,
+    "geom:area_square_m":454933233316.835754,
     "geom:bbox":"41.822861,12.101194,54.542915,18.999633",
     "geom:latitude":15.905713,
     "geom:longitude":47.594795,
@@ -71,6 +71,9 @@
     ],
     "name:arg_x_preferred":[
         "Yemen"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u064a\u0645\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u064a\u0645\u0646"
@@ -186,6 +189,12 @@
     "name:dan_x_preferred":[
         "Yemen"
     ],
+    "name:deu_at_x_preferred":[
+        "Jemen"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Jemen"
+    ],
     "name:deu_x_preferred":[
         "Jemen"
     ],
@@ -206,6 +215,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a5\u03b5\u03bc\u03ad\u03bd\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Yemen"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Yemen"
     ],
     "name:eng_x_preferred":[
         "Yemen"
@@ -261,6 +276,9 @@
     ],
     "name:gag_x_preferred":[
         "Yemen"
+    ],
+    "name:gcr_x_preferred":[
+        "Y\u00e9men"
     ],
     "name:gla_x_preferred":[
         "Iemen"
@@ -624,6 +642,9 @@
     "name:pol_x_preferred":[
         "Jemen"
     ],
+    "name:por_br_x_preferred":[
+        "I\u00eamen"
+    ],
     "name:por_x_colloquial":[
         "Iemen"
     ],
@@ -690,6 +711,9 @@
     "name:sme_x_preferred":[
         "Jemen"
     ],
+    "name:smo_x_preferred":[
+        "Yemen"
+    ],
     "name:sna_x_preferred":[
         "Yemen"
     ],
@@ -709,6 +733,15 @@
         "Jemeni"
     ],
     "name:sqi_x_variant":[
+        "Jemen"
+    ],
+    "name:srd_x_preferred":[
+        "Jemen"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0408\u0435\u043c\u0435\u043d"
+    ],
+    "name:srp_el_x_preferred":[
         "Jemen"
     ],
     "name:srp_x_preferred":[
@@ -737,6 +770,9 @@
     ],
     "name:szl_x_preferred":[
         "Jymyn"
+    ],
+    "name:szy_x_preferred":[
+        "Yemen"
     ],
     "name:tam_x_preferred":[
         "\u0baf\u0bc6\u0bae\u0ba9\u0bcd"
@@ -1036,7 +1072,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797458,
+    "wof:lastmodified":1587428935,
     "wof:name":"Yemen",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

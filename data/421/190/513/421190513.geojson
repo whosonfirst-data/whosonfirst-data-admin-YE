@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.017666,13.5782495,44.017666,13.5782495",
+    "geom:bbox":"44.017666,13.57825,44.017666,13.57825",
     "geom:latitude":13.57825,
     "geom:longitude":44.017666,
     "iso:country":"YE",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Taizz"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632499,
-        85680989,
-        1091926357
+        1091926357,
+        85680989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"YE",
     "wof:created":1459009660,
-    "wof:geomhash":"dc289ec48abad257cc43b2d90bff5b14",
+    "wof:geomhash":"3ca3bec22b8668bc2dd562b493b519f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190513,
-    "wof:lastmodified":1566660448,
-    "wof:name":"\u062a\u0639\u0632",
+    "wof:lastmodified":1601423093,
+    "wof:name":"Taizz",
     "wof:parent_id":1091926357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     44.017666,
-    13.5782495,
+    13.57825,
     44.017666,
-    13.5782495
+    13.57825
 ],
-  "geometry": {"coordinates":[44.017666,13.5782495],"type":"Point"}
+  "geometry": {"coordinates":[44.017666,13.57825],"type":"Point"}
 }

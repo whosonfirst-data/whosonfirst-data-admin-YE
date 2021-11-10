@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.8497676176,16.9397786651,43.8497676176,16.9397786651",
+    "geom:bbox":"43.849768,16.939779,43.849768,16.939779",
     "geom:latitude":16.939779,
     "geom:longitude":43.849768,
     "iso:country":"YE",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Sadah"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Yemen",
     "ne:ADM0_A3":"YEM",
@@ -124,7 +127,7 @@
     "wof:concordances":{},
     "wof:country":"YE",
     "wof:created":1499130963,
-    "wof:geomhash":"274fd57d7a58be78255c35419e8d51df",
+    "wof:geomhash":"6a901807b37d2d714df56d02cf082786",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1141908707,
-    "wof:lastmodified":1566662620,
+    "wof:lastmodified":1636497440,
     "wof:name":"Sadah",
     "wof:parent_id":1091925415,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.84976761757599,
-    16.93977866512324,
-    43.84976761757599,
-    16.93977866512324
+    43.849768,
+    16.939779,
+    43.849768,
+    16.939779
 ],
-  "geometry": {"coordinates":[43.84976761757599,16.93977866512324],"type":"Point"}
+  "geometry": {"coordinates":[43.849768,16.939779],"type":"Point"}
 }

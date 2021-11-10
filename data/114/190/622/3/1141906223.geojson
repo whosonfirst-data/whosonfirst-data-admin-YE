@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.574002647,13.9789981045,45.574002647,13.9789981045",
+    "geom:bbox":"45.574003,13.978998,45.574003,13.978998",
     "geom:latitude":13.978998,
     "geom:longitude":45.574003,
     "iso:country":"YE",
@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ac\u09be\u0987\u09a6\u09be"
+    ],
     "name:cat_x_preferred":[
         "Al-Baydha"
     ],
     "name:ceb_x_preferred":[
         "Al Bay\u1e11\u0101'"
+    ],
+    "name:deu_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Bayda'"
@@ -36,8 +45,17 @@
     "name:fra_x_preferred":[
         "Al Bayda'"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092c\u093e\u092f\u0926\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Al Baida"
+    ],
+    "name:hun_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ind_x_preferred":[
+        "Al Bayda"
     ],
     "name:ita_x_preferred":[
         "Al Bayda'"
@@ -47,6 +65,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10da-\u10d1\u10d4\u10d8\u10d3\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ubc14\uc774\ub2e4"
     ],
     "name:lit_x_preferred":[
         "Baida"
@@ -75,11 +96,17 @@
     "name:sco_x_preferred":[
         "Al Bayda'"
     ],
+    "name:spa_x_preferred":[
+        "Al Baida"
+    ],
     "name:swe_x_preferred":[
         "Al-Bayda"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e1a\u0e31\u0e22\u0e0e\u0e2d\u0e2d\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Al Bayda"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0411\u0435\u0439\u0434\u0430"
@@ -89,6 +116,9 @@
     ],
     "name:urd_x_variant":[
         "\u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
+    ],
+    "name:vie_x_preferred":[
+        "Al Bayda"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u9054"
@@ -201,7 +231,7 @@
     },
     "wof:country":"YE",
     "wof:created":1499130558,
-    "wof:geomhash":"2ff6ffc002ac049500e0252eae3696b2",
+    "wof:geomhash":"43f06d58a2bd1e82a83375c657945805",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -212,7 +242,7 @@
         }
     ],
     "wof:id":1141906223,
-    "wof:lastmodified":1566662620,
+    "wof:lastmodified":1636497440,
     "wof:name":"Al Bayda",
     "wof:parent_id":1091919021,
     "wof:placetype":"locality",
@@ -222,10 +252,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.5740026470454,
-    13.97899810449337,
-    45.5740026470454,
-    13.97899810449337
+    45.574003,
+    13.978998,
+    45.574003,
+    13.978998
 ],
-  "geometry": {"coordinates":[45.5740026470454,13.97899810449337],"type":"Point"}
+  "geometry": {"coordinates":[45.574003,13.978998],"type":"Point"}
 }

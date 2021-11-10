@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.8341002999,14.4294926137,44.8341002999,14.4294926137",
+    "geom:bbox":"44.8341,14.429493,44.8341,14.429493",
     "geom:latitude":14.429493,
     "geom:longitude":44.8341,
     "iso:country":"YE",
@@ -22,10 +22,70 @@
         "\u0631\u0636\u0627"
     ],
     "name:fas_x_preferred":[
+        "\u0631\u06cc\u062f\u0627"
+    ],
+    "name:fas_x_variant":[
         "\u0631\u0636\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Rada'"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0926\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rida"
+    ],
+    "name:ind_x_preferred":[
+        "Rida"
+    ],
+    "name:ita_x_preferred":[
+        "Rida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ub2e4"
+    ],
+    "name:nld_x_preferred":[
+        "Rida"
     ],
     "name:pan_x_preferred":[
         "\u0a30\u0a1c\u0a3c\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Rida"
+    ],
+    "name:por_x_preferred":[
+        "Rada'a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rida"
+    ],
+    "name:tur_x_preferred":[
+        "Rida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u062f\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Rida"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u91cc\u8fbe"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u745e\u9054"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Yemen",
@@ -133,7 +193,7 @@
     "wof:concordances":{},
     "wof:country":"YE",
     "wof:created":1499130656,
-    "wof:geomhash":"133f2fc23008102ecfe0a36b22095771",
+    "wof:geomhash":"a89107eaceb01796b053c4f28d8f911a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +204,7 @@
         }
     ],
     "wof:id":1141906917,
-    "wof:lastmodified":1566662621,
+    "wof:lastmodified":1636497440,
     "wof:name":"Rida",
     "wof:parent_id":1091919479,
     "wof:placetype":"locality",
@@ -154,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.83410029987147,
-    14.42949261368096,
-    44.83410029987147,
-    14.42949261368096
+    44.8341,
+    14.429493,
+    44.8341,
+    14.429493
 ],
-  "geometry": {"coordinates":[44.83410029987147,14.42949261368096],"type":"Point"}
+  "geometry": {"coordinates":[44.8341,14.429493],"type":"Point"}
 }

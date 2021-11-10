@@ -30,8 +30,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u099c\u09be\u09b9\u09b0\u09be\u09b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a4\u03b6\u03b1\u03c7\u03c1\u03ac"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d2'\u05e8\u05d0\u05d7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u091c\u0939\u0930\u093e\u0939"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0414\u0436\u0430\u0445\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Al Ja\u1e29rah"
+    ],
+    "name:vie_x_preferred":[
+        "Al Jahrah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +63,7 @@
         "gn:id":7366065
     },
     "wof:country":"YE",
-    "wof:geomhash":"c8c46efbcc1ffb95a1689e16292e7d15",
+    "wof:geomhash":"d493e02c26edff9e8daa15297319c421",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1192974647,
-    "wof:lastmodified":1566659683,
+    "wof:lastmodified":1636497417,
     "wof:name":"Al Jahrah",
     "wof:parent_id":1091923719,
     "wof:placetype":"locality",
@@ -66,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.44309000000001,
+    43.44309,
     15.84501,
-    43.44309000000001,
+    43.44309,
     15.84501
 ],
-  "geometry": {"coordinates":[43.44309000000001,15.84501],"type":"Point"}
+  "geometry": {"coordinates":[43.44309,15.84501],"type":"Point"}
 }

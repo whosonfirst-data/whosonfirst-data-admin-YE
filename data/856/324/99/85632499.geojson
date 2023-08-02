@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0418\u0435\u043c\u0435\u043d"
+    ],
     "name:ace_x_preferred":[
         "Yaman"
     ],
@@ -40,6 +43,9 @@
     "name:aka_x_preferred":[
         "Y\u025bmen"
     ],
+    "name:aka_x_variant":[
+        "Yemen"
+    ],
     "name:als_x_preferred":[
         "Jemen"
     ],
@@ -47,11 +53,17 @@
         "\u12e8\u1218\u1295 (\u12a0\u1308\u122d)",
         "\u12e8\u1218\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Yemen"
+    ],
     "name:ang_x_preferred":[
         "Gemen"
     ],
     "name:ang_x_variant":[
         "\u021cemen"
+    ],
+    "name:anp_x_preferred":[
+        "\u092f\u092e\u0928"
     ],
     "name:ara_x_colloquial":[
         "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629"
@@ -87,6 +99,9 @@
     "name:ast_x_variant":[
         "Yeme"
     ],
+    "name:awa_x_preferred":[
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u092f\u092e\u0928"
+    ],
     "name:azb_x_preferred":[
         "\u06cc\u0645\u0646"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:bam_x_preferred":[
         "Yem\u025bni"
+    ],
+    "name:ban_x_preferred":[
+        "Yaman"
     ],
     "name:bar_x_preferred":[
         "Jemen"
@@ -125,6 +143,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092f\u092e\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Yemen"
     ],
     "name:bod_x_preferred":[
         "\u0f61\u0f7a\u0f0b\u0f58\u0f7a\u0f53\u0f0d"
@@ -184,6 +205,12 @@
         "Jemen"
     ],
     "name:cym_x_preferred":[
+        "Yemen"
+    ],
+    "name:cym_x_variant":[
+        "Iemen"
+    ],
+    "name:dag_x_preferred":[
         "Yemen"
     ],
     "name:dan_x_preferred":[
@@ -274,6 +301,9 @@
     "name:ful_x_preferred":[
         "Yemen"
     ],
+    "name:ful_x_variant":[
+        "Yaman"
+    ],
     "name:gag_x_preferred":[
         "Yemen"
     ],
@@ -306,6 +336,9 @@
     ],
     "name:gom_x_variant":[
         "\u092f\u0947\u092e\u0947\u0928"
+    ],
+    "name:gpe_x_preferred":[
+        "Yemen"
     ],
     "name:grn_x_preferred":[
         "Jem\u1ebd"
@@ -427,6 +460,9 @@
     "name:khm_x_preferred":[
         "\u1799\u17c1\u1798\u17c2\u1793"
     ],
+    "name:khm_x_variant":[
+        "\u1799\u17c1\u1798\u17c9\u17c2\u1793"
+    ],
     "name:kik_x_preferred":[
         "Yemen"
     ],
@@ -487,6 +523,9 @@
     "name:lit_x_preferred":[
         "Jemenas"
     ],
+    "name:lld_x_preferred":[
+        "Iemen"
+    ],
     "name:lmo_x_preferred":[
         "Yemen"
     ],
@@ -508,6 +547,9 @@
     "name:lzh_x_preferred":[
         "\u4e5f\u9580"
     ],
+    "name:mad_x_preferred":[
+        "Yaman"
+    ],
     "name:mai_x_preferred":[
         "\u092f\u092e\u0928"
     ],
@@ -523,6 +565,15 @@
     "name:mar_x_variant":[
         "\u092f\u0947\u092e\u0947\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0415\u043c\u044d\u043d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0419\u0435\u043c\u0435\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Yaman"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043c\u0435\u043d"
     ],
@@ -532,8 +583,14 @@
     "name:mlt_x_preferred":[
         "Jemen"
     ],
+    "name:mni_x_preferred":[
+        "\uabcc\uabe6\uabc3\uabe6\uabdf"
+    ],
     "name:mon_x_preferred":[
         "\u0419\u0435\u043c\u0435\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "\u012aemene"
     ],
     "name:msa_x_preferred":[
         "Yaman"
@@ -699,6 +756,9 @@
     "name:sgs_x_preferred":[
         "Jemens"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101a\u1084\u1087\u1019\u1085\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dba\u0dda\u0db8\u0db1\u0dba"
     ],
@@ -711,8 +771,14 @@
     "name:sme_x_preferred":[
         "Jemen"
     ],
+    "name:smn_x_preferred":[
+        "Jemen"
+    ],
     "name:smo_x_preferred":[
         "Yemen"
+    ],
+    "name:sms_x_preferred":[
+        "Jemee\u02b9n"
     ],
     "name:sna_x_preferred":[
         "Yemen"
@@ -783,6 +849,9 @@
     "name:tat_x_preferred":[
         "\u0419\u04d9\u043c\u04d9\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Yemen"
+    ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c46\u0c2e\u0c28\u0c4d"
     ],
@@ -807,10 +876,19 @@
     "name:tir_x_preferred":[
         "\u12e8\u1218\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Jamanija"
+    ],
     "name:ton_x_preferred":[
         "Iemeni"
     ],
+    "name:ton_x_variant":[
+        "\u02bbIemeni"
+    ],
     "name:tpi_x_preferred":[
+        "Yemen"
+    ],
+    "name:trv_x_preferred":[
         "Yemen"
     ],
     "name:tuk_x_preferred":[
@@ -1137,7 +1215,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827449,
+    "wof:lastmodified":1690924901,
     "wof:name":"Yemen",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

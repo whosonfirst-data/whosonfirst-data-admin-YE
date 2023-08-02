@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0631\u064a\u0642"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u064a\u0642"
+    ],
     "name:eng_x_preferred":[
         "Al-H\u0328ar\u012bq"
+    ],
+    "name:eng_x_variant":[
+        "Al-H\u0328ar\u012bq governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062d\u0631\u06cc\u0642"
@@ -36,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Al-Harik"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0440\u0438\u043a"
     ],
     "name:tgl_x_preferred":[
         "Al-Hareeq"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890413517,
-    "wof:lastmodified":1566660604,
+    "wof:lastmodified":1690925403,
     "wof:name":"Al \u1e28ar\u012bq",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",

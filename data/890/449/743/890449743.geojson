@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0639\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0639\u0632"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u064e\u0639\u0650\u0632"
     ],
+    "name:aze_x_preferred":[
+        "Taiz"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0456\u0437"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09af\u09bc\u09be\u099c"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u0987\u099c"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0438\u0437"
@@ -42,6 +54,9 @@
     ],
     "name:ceb_x_preferred":[
         "Ta\u2018izz"
+    ],
+    "name:ces_x_preferred":[
+        "Taiz"
     ],
     "name:dan_x_preferred":[
         "Ta'izz"
@@ -71,6 +86,9 @@
         "Ta'izz"
     ],
     "name:fra_x_preferred":[
+        "Ta'izz"
+    ],
+    "name:gle_x_preferred":[
         "Ta'izz"
     ],
     "name:guj_x_preferred":[
@@ -108,6 +126,9 @@
     ],
     "name:kan_x_variant":[
         "\u0ca4\u0cbe\u0caf\u0cbf\u0c9c\u0ccd ,"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10d8\u10d6\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0430\u0438\u0437 \u049b\u0430\u043b\u0430\u0441\u044b"
@@ -204,6 +225,9 @@
     ],
     "name:uzb_x_preferred":[
         "Taiz"
+    ],
+    "name:vec_x_preferred":[
+        "Ta'izz"
     ],
     "name:vie_x_preferred":[
         "Ta'izz"
@@ -319,8 +343,8 @@
     "wof:belongsto":[
         102191569,
         85632499,
-        1091926639,
-        85680989
+        85680989,
+        1091926639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -346,7 +370,7 @@
         }
     ],
     "wof:id":890449743,
-    "wof:lastmodified":1610151391,
+    "wof:lastmodified":1690925256,
     "wof:megacity":1,
     "wof:name":"Ta\u2018izz",
     "wof:parent_id":1091926639,

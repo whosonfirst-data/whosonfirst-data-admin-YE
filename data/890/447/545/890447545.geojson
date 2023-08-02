@@ -31,6 +31,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Sharjah"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0627\u0631\u062c\u0647"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u0440\u0434\u0436\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0430\u0440\u0434\u0436\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09b0\u099c\u09be\u09b9"
     ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
@@ -61,6 +70,9 @@
     "name:eng_x_preferred":[
         "Sharjah"
     ],
+    "name:epo_x_preferred":[
+        "\u015car\u0135o"
+    ],
     "name:eus_x_preferred":[
         "Xarja"
     ],
@@ -76,6 +88,12 @@
     "name:frp_x_preferred":[
         "Ch\u00b7ardj\u00b7a"
     ],
+    "name:gle_x_preferred":[
+        "Sharjah"
+    ],
+    "name:hau_x_preferred":[
+        "Sharjah"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05e8\u05d2'\u05d4"
     ],
@@ -87,6 +105,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0580\u056a\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0580\u0573\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Sharjah"
     ],
     "name:ita_x_preferred":[
         "Sharja"
@@ -118,6 +142,9 @@
     "name:mkd_x_preferred":[
         "\u0428\u0430\u0440\u045f\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Sharjah"
+    ],
     "name:nld_x_preferred":[
         "Sharjah"
     ],
@@ -130,11 +157,20 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3e\u0a30\u0a1c\u0a3e"
     ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0627"
+    ],
     "name:pol_x_preferred":[
         "Szard\u017ca"
     ],
     "name:por_x_preferred":[
         "Sharjah"
+    ],
+    "name:por_x_variant":[
+        "Xarja"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0647"
     ],
     "name:ron_x_preferred":[
         "Sharjah"
@@ -160,6 +196,9 @@
     "name:swe_x_preferred":[
         "Sharjah"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u0440\u0497\u04d9"
     ],
@@ -175,17 +214,29 @@
     "name:tur_x_preferred":[
         "\u015earika"
     ],
+    "name:uig_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Sharja"
+    ],
+    "name:vec_x_preferred":[
+        "Sharja"
+    ],
     "name:vie_x_preferred":[
         "Sharjah"
     ],
     "name:war_x_preferred":[
         "Sharjah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u8fe6"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10d0\u10e0\u10ef\u10d0"
@@ -229,7 +280,7 @@
         }
     ],
     "wof:id":890447545,
-    "wof:lastmodified":1566660478,
+    "wof:lastmodified":1690925116,
     "wof:name":"Sharqah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",

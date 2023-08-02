@@ -47,6 +47,9 @@
     "name:eng_x_variant":[
         "Az'zal District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0623\u0632\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Az'zal"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:nno_x_preferred":[
         "Az'zal-distriktet"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2d\u0e31\u0e25\u0e2d\u0e31\u0e0b\u0e0b\u0e32\u0e25"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0632\u0627\u0644 \u0636\u0644\u0639"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091921491,
-    "wof:lastmodified":1627523012,
+    "wof:lastmodified":1690925021,
     "wof:name":"Az'zal",
     "wof:parent_id":-1,
     "wof:placetype":"county",

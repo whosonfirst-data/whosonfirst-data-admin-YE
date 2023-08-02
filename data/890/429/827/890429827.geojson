@@ -26,14 +26,32 @@
         "\u0627\u0644\u0645\u0631\u0627\u0634\u0649",
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0637\u0627\u0644\u0642\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0637\u0627\u0644\u0642\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0637\u0627\u0644\u0642\u0627\u0646 \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
     ],
     "name:aze_x_preferred":[
         "Taliqan \u015f\u0259hristan\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Shahrest\u0101n-e \u0162\u0101leq\u0101n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0627\u06b5\u06d5\u0642\u0627\u0646"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Taleqan"
+    ],
+    "name:deu_x_preferred":[
+        "Taleghan"
+    ],
     "name:eng_x_preferred":[
         "Taleqan County"
+    ],
+    "name:eng_x_variant":[
+        "Taleghan County"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0637\u0627\u0644\u0642\u0627\u0646"
@@ -41,17 +59,32 @@
     "name:fra_x_preferred":[
         "Taleqan"
     ],
+    "name:gle_x_preferred":[
+        "Contae Taleqan"
+    ],
     "name:hun_x_preferred":[
         "Talecs\u00e1n megye"
+    ],
+    "name:hun_x_variant":[
+        "T\u00e1leg\u00e1n megye"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30fc\u30ec\u30ac\u30fc\u30f3\u90e1"
     ],
+    "name:kur_x_preferred":[
+        "Taleqan"
+    ],
     "name:mzn_x_preferred":[
         "\u0637\u0627\u0644\u0642\u0627\u0646"
     ],
+    "name:nan_x_preferred":[
+        "Taleqan K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Taleqan County"
+    ],
+    "name:nno_x_preferred":[
+        "Taleqan fylke"
     ],
     "name:pus_x_preferred":[
         "\u0637\u0627\u0644\u0642\u0627\u0646 \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
@@ -59,11 +92,20 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0435\u043a\u0430\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Taleqan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d\u0438 \u0422\u043e\u043b\u0438\u049b\u043e\u043d"
+    ],
     "name:tur_x_preferred":[
         "Taligan \u015fehristan\u0131"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0637\u0627\u0644\u0642\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u83b1\u7518\u53bf"
     ],
     "qs:name":"Al Mir\u0101sh",
     "qs:photos_9r":0,
@@ -98,7 +140,7 @@
         }
     ],
     "wof:id":890429827,
-    "wof:lastmodified":1566661237,
+    "wof:lastmodified":1690926866,
     "wof:name":"Al Mir\u0101sh",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",

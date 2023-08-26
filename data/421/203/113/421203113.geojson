@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u062f\u064a\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u062f\u064a\u0628\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u09a6\u09bf\u09ac\u09cb\u09b9"
     ],
@@ -38,17 +41,26 @@
     "name:eng_x_preferred":[
         "Hadibu"
     ],
+    "name:est_x_preferred":[
+        "\u1e28\u0101d\u012bb\u016b"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u062f\u06cc\u0628\u0648"
     ],
     "name:fra_x_preferred":[
         "Hadiboh"
     ],
+    "name:gle_x_preferred":[
+        "Hadibu"
+    ],
     "name:glg_x_preferred":[
         "Hadiboh"
     ],
     "name:hbs_x_preferred":[
         "Hadiboh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d3\u05d9\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0939\u093e\u0926\u0940\u092c\u0942"
@@ -61,6 +73,9 @@
     ],
     "name:ind_x_preferred":[
         "Hadiboh"
+    ],
+    "name:ind_x_variant":[
+        "Hadibu"
     ],
     "name:ita_x_preferred":[
         "Hadibu"
@@ -78,6 +93,9 @@
         "Hadibu"
     ],
     "name:nor_x_preferred":[
+        "Hadibu"
+    ],
+    "name:pol_x_preferred":[
         "Hadibu"
     ],
     "name:por_x_preferred":[
@@ -267,7 +285,7 @@
         }
     ],
     "wof:id":421203113,
-    "wof:lastmodified":1636497425,
+    "wof:lastmodified":1690925048,
     "wof:name":"Hadiboh",
     "wof:parent_id":1091926255,
     "wof:placetype":"locality",

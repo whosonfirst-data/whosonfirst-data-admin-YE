@@ -23,11 +23,26 @@
     "name:ara_x_variant":[
         "Shib\u0101m"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0628\u0627\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Shibam"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0628\u0627\u0645"
+    ],
     "name:aze_x_preferred":[
         "\u015eibam"
     ],
+    "name:bak_x_preferred":[
+        "\u0428\u0438\u0431\u0430\u043c"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044b\u0431\u0430\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u044b\u0431\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ac\u09be\u09ae"
@@ -40,6 +55,12 @@
     ],
     "name:ceb_x_preferred":[
         "Shib\u0101m"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ib\u00e1m"
+    ],
+    "name:dag_x_preferred":[
+        "Shibam"
     ],
     "name:deu_x_preferred":[
         "Schibam"
@@ -62,6 +83,18 @@
     "name:fra_x_preferred":[
         "Shibam"
     ],
+    "name:fra_x_variant":[
+        "Chibam"
+    ],
+    "name:glg_x_preferred":[
+        "Shibam"
+    ],
+    "name:gur_x_preferred":[
+        "Shibam"
+    ],
+    "name:hau_x_preferred":[
+        "Shibam Hadramawt"
+    ],
     "name:hbs_x_preferred":[
         "\u0160ibam"
     ],
@@ -73,6 +106,9 @@
     ],
     "name:hun_x_preferred":[
         "Sib\u00e1m"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0562\u0561\u0574"
     ],
     "name:ind_x_preferred":[
         "Syibam"
@@ -103,6 +139,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u0431\u0430\u043c"
+    ],
+    "name:mos_x_preferred":[
+        "Shibam"
     ],
     "name:mya_x_preferred":[
         "\u101b\u103e\u102e\u1018\u1019\u103a\u1019\u103c\u102d\u102f\u1037"
@@ -148,6 +187,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baa\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e1a\u0e32\u0e21\u0e2e\u0e31\u0e0e\u0e40\u0e23\u0e32\u0e30\u0e40\u0e21\u0e32\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "\u015eibam"
@@ -216,7 +258,7 @@
         }
     ],
     "wof:id":421195795,
-    "wof:lastmodified":1566660445,
+    "wof:lastmodified":1690925045,
     "wof:name":"Shibam",
     "wof:parent_id":1091923197,
     "wof:placetype":"locality",

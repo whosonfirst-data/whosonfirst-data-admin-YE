@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u062d\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u062d\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "al-Shihr"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09b6 \u09b6\u09bf\u09b9\u09b0"
     ],
@@ -39,8 +45,14 @@
     "name:eng_x_preferred":[
         "Ash Shihr"
     ],
+    "name:eng_x_variant":[
+        "al-Shihr"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u062d\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Shihr"
     ],
     "name:fra_x_preferred":[
         "Shihr"
@@ -90,11 +102,17 @@
     "name:spa_x_preferred":[
         "Ash Shihr"
     ],
+    "name:spa_x_variant":[
+        "Ash-Shihr"
+    ],
     "name:swe_x_preferred":[
         "al-Shihr"
     ],
     "name:tur_x_preferred":[
         "Ash Shihr"
+    ],
+    "name:tur_x_variant":[
+        "\u015eihr"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0448-\u0428\u0438\u0445\u0440"
@@ -104,6 +122,9 @@
     ],
     "name:vie_x_preferred":[
         "Ash Shihr"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u8d6b\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Yemen",
@@ -224,7 +245,7 @@
         }
     ],
     "wof:id":1141906357,
-    "wof:lastmodified":1636497439,
+    "wof:lastmodified":1690927548,
     "wof:name":"Ash Shihr",
     "wof:parent_id":1091922837,
     "wof:placetype":"locality",

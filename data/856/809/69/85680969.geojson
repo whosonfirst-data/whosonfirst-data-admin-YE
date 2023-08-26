@@ -37,6 +37,9 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0630\u0645\u0627\u0631",
         "Dhamar"
     ],
+    "name:arz_x_preferred":[
+        "\u0630\u0645\u0627\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0630\u0645\u0627\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -62,7 +65,8 @@
         "Dhamar"
     ],
     "name:deu_x_variant":[
-        "Gouvernement Dhamar"
+        "Gouvernement Dhamar",
+        "Gouvernement Dham\u0101r"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03bc\u03ac\u03c1"
@@ -210,8 +214,14 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Dhamar"
     ],
+    "name:wuu_x_preferred":[
+        "\u624e\u9a6c\u5c14\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u624e\u739b\u5c14\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u99ac\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"YEM",
@@ -336,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614896590,
+    "wof:lastmodified":1690924903,
     "wof:name":"Dhamar",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

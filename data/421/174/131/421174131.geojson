@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0623\u0631\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Ma'rib"
+    ],
     "name:aze_x_preferred":[
         "M\u0259rib"
     ],
@@ -38,8 +44,14 @@
     "name:deu_x_preferred":[
         "Ma'rib"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03af\u03bc\u03c0"
+    ],
     "name:eng_x_preferred":[
         "Ma'rib"
+    ],
+    "name:eng_x_variant":[
+        "Marib"
     ],
     "name:epo_x_preferred":[
         "Marib"
@@ -47,11 +59,17 @@
     "name:fas_x_preferred":[
         "\u0645\u0623\u0631\u0628"
     ],
+    "name:fin_x_preferred":[
+        "Marib"
+    ],
     "name:fra_x_preferred":[
         "Marib"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e8\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d0\u05e8\u05d9\u05d1"
     ],
     "name:hrv_x_preferred":[
         "Ma'rib"
@@ -64,6 +82,9 @@
     ],
     "name:ind_x_preferred":[
         "Ma'arib"
+    ],
+    "name:isl_x_preferred":[
+        "Marib"
     ],
     "name:ita_x_preferred":[
         "Ma'rib"
@@ -88,6 +109,9 @@
     ],
     "name:nno_x_preferred":[
         "Ma'rib"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0622\u0631\u0628"
     ],
     "name:pol_x_preferred":[
         "Marib"
@@ -185,7 +209,7 @@
         }
     ],
     "wof:id":421174131,
-    "wof:lastmodified":1566660447,
+    "wof:lastmodified":1690925051,
     "wof:name":"Marrib",
     "wof:parent_id":1091925221,
     "wof:placetype":"locality",

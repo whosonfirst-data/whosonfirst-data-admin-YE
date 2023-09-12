@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.268316,
-    "geom:area_square_m":454933233316.835754,
+    "geom:area_square_m":454933233316.831665,
     "geom:bbox":"41.822861,12.101194,54.542915,18.999633",
     "geom:latitude":15.905713,
     "geom:longitude":47.594795,
@@ -14,6 +14,9 @@
     "iso:country":"YE",
     "itu:country_code":[
         "967"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "YE"
@@ -1140,7 +1143,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"967",
     "statoids:ds":"YAR",
     "statoids:fifa":"YEM",
@@ -1201,7 +1205,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"f5e8e91db25685d882831df0d0f1022b",
+    "wof:geomhash":"a6a53208253f5c0b4f6bd7be6a9f0a34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1215,12 +1219,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690924901,
+    "wof:lastmodified":1694492067,
     "wof:name":"Yemen",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":26183676,
-    "wof:population_rank":15,
+    "wof:population":29161922,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:shortcode":"YE",
     "wof:superseded_by":[],

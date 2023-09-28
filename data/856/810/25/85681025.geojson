@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.794594,
-    "geom:area_square_m":163367723403.848724,
+    "geom:area_square_m":163367723926.28949,
     "geom:bbox":"46.311862,14.03625,51.963401,18.993773",
     "geom:latitude":16.670624,
     "geom:longitude":49.155708,
@@ -314,16 +314,18 @@
         "gn:id":75411,
         "gp:id":20070033,
         "hasc:id":"YE.HA",
+        "iso:code":"YE-HD",
         "iso:id":"YE-HD",
         "qs_pg:id":1085798,
         "wd:id":"Q241135",
         "wk:page":"Hadhramaut Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"YE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c840694e90eb12006506373e5fafd83",
+    "wof:geomhash":"a736801c84da9e0ddf70a6844c30a00f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690924900,
+    "wof:lastmodified":1695884547,
     "wof:name":"Hadramawt",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

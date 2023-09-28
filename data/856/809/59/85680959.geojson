@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.106233,
-    "geom:area_square_m":13222474075.251263,
+    "geom:area_square_m":13222474955.253222,
     "geom:bbox":"41.822861,13.649555,43.775478,15.876133",
     "geom:latitude":14.829638,
     "geom:longitude":43.168118,
@@ -309,15 +309,17 @@
         "gn:id":79416,
         "gp:id":20070047,
         "hasc:id":"YE.HU",
+        "iso:code":"YE-HU",
         "iso:id":"YE-HU",
         "qs_pg:id":236291,
         "wd:id":"Q275755"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"YE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bef72a4a3b773fc60221901ee5c1a9a",
+    "wof:geomhash":"6e6d44abd1cadc6e0c815be373e44aea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690924902,
+    "wof:lastmodified":1695884356,
     "wof:name":"Al Hudaydah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.700104,
-    "geom:area_square_m":8317663746.813425,
+    "geom:area_square_m":8317663460.027659,
     "geom:bbox":"42.190388,15.510535,43.757324,16.67725",
     "geom:latitude":16.091105,
     "geom:longitude":43.264417,
@@ -309,16 +309,18 @@
         "gn:id":6201195,
         "gp:id":20070048,
         "hasc:id":"YE.HJ",
+        "iso:code":"YE-HJ",
         "iso:id":"YE-HJ",
         "qs_pg:id":219899,
         "wd:id":"Q328158",
         "wk:page":"Hajjah Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"YE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0675fb3a432b86931e518de6f26715a2",
+    "wof:geomhash":"9ae1a6175d9c3637226dcbe7589e6ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690924904,
+    "wof:lastmodified":1695884851,
     "wof:name":"Hajjah",
     "wof:parent_id":85632499,
     "wof:placetype":"region",

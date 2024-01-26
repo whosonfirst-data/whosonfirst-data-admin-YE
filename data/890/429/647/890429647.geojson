@@ -9,9 +9,22 @@
     "geom:bbox":"43.27237,16.16068,43.27237,16.16068",
     "geom:latitude":16.16068,
     "geom:longitude":43.27237,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1712.0",
+    "gn:asciiname":"Al Kawlah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":453,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7366835,
+    "gn:latitude":16.16069,
+    "gn:longitude":43.27237,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kawlah",
     "gn:population":9,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.25237,16.14068,43.29237,16.18068",
     "lbl:max_zoom":18.0,
@@ -61,7 +74,12 @@
         "wk:page":"Al-Kawlah"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":694806
+        "gn:id":[
+            7366835
+        ],
+        "qs_pg:id":[
+            694806
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051824,
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":890429647,
-    "wof:lastmodified":1582331113,
+    "wof:lastmodified":1706241133,
     "wof:name":"Al Kawlah",
     "wof:parent_id":1091923743,
     "wof:placetype":"locality",
@@ -87,7 +105,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243024473
+    ],
     "wof:tags":[]
 },
   "bbox": [

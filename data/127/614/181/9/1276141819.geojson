@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.03275,15.49401,43.03275,15.49401",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dayr al Qi\u1e29\u0101m Gharb\u012b",
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1276141819,
-    "wof:lastmodified":1566659087,
+    "wof:lastmodified":1706241137,
     "wof:name":"Dayr al Qiham Gharbi",
     "wof:parent_id":1091920191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243539213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

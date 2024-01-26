@@ -9,9 +9,22 @@
     "geom:bbox":"43.41272,16.13046,43.41272,16.13046",
     "geom:latitude":16.13046,
     "geom:longitude":43.41272,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"As Sahilah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1342,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658570,
+    "gn:latitude":16.13046,
+    "gn:longitude":43.41272,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Sahilah",
     "gn:population":4,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.39272,16.11046,43.43272,16.15046",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":694708
     },
     "wof:concordances_alt":{
-        "qs_pg:id":696387
+        "gn:id":[
+            7658570
+        ],
+        "qs_pg:id":[
+            696387
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052540,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890446147,
-    "wof:lastmodified":1582331108,
+    "wof:lastmodified":1706241134,
     "wof:name":"As Sahilah",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293558045
+    ],
     "wof:tags":[]
 },
   "bbox": [

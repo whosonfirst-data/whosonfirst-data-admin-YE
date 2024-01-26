@@ -9,9 +9,22 @@
     "geom:bbox":"43.53892,16.79018,43.53892,16.79018",
     "geom:latitude":16.79018,
     "geom:longitude":43.53892,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2209.0",
+    "gn:asciiname":"An Najd",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2113,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7363669,
+    "gn:latitude":16.79018,
+    "gn:longitude":43.53892,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"An Najd",
     "gn:population":22,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.51892,16.77018,43.55892,16.81018",
     "lbl:max_zoom":18.0,
@@ -55,7 +68,12 @@
         "wk:page":"An Najd"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":751639
+        "gn:id":[
+            7363669
+        ],
+        "qs_pg:id":[
+            751639
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051199,
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":890417379,
-    "wof:lastmodified":1582331113,
+    "wof:lastmodified":1706241130,
     "wof:name":"An Najd",
     "wof:parent_id":1091925573,
     "wof:placetype":"locality",
@@ -81,7 +99,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344027673
+    ],
     "wof:tags":[]
 },
   "bbox": [

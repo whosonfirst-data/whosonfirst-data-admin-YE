@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ghamn\u012byah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":401564
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            75677
+        ]
     },
     "wof:country":"YE",
     "wof:geomhash":"bb48ab2dcafe9c1854470fd1b298872f",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1293474441,
-    "wof:lastmodified":1566658616,
+    "wof:lastmodified":1706241138,
     "wof:name":"Dayr al Mudawwar",
     "wof:parent_id":1091920065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344241507
+    ],
     "wof:tags":[]
 },
   "bbox": [

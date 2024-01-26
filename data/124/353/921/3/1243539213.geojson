@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":402858
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            76323
+        ]
+    },
     "wof:country":"YE",
-    "wof:geomhash":"09deb639575e63a83b685ad5705d15d7",
+    "wof:geomhash":"e71e4a658a46b8d4441dfaea4471976c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1243539213,
-    "wof:lastmodified":1566661568,
+    "wof:lastmodified":1706241137,
     "wof:name":"Dayr al Qiham Gharbi",
     "wof:parent_id":1091920191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276141819
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    43.03194000000001,
+    43.03194,
     15.49417,
-    43.03194000000001,
+    43.03194,
     15.49417
 ],
-  "geometry": {"coordinates":[43.03194000000001,15.49417],"type":"Point"}
+  "geometry": {"coordinates":[43.03194,15.49417],"type":"Point"}
 }

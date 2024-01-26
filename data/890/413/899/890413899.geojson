@@ -9,9 +9,22 @@
     "geom:bbox":"50.31404,15.03513,50.31404,15.03513",
     "geom:latitude":15.03513,
     "geom:longitude":50.31404,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Zamzam",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":87,
     "gn:fcode":"PPLF",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7794100,
+    "gn:latitude":15.03513,
+    "gn:longitude":50.31404,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zamzam",
     "gn:population":5,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"50.29404,15.01513,50.33404,15.05513",
     "lbl:max_zoom":18.0,
@@ -50,7 +63,12 @@
         "wd:id":"Q20309605"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":700754
+        "gn:id":[
+            7794100
+        ],
+        "qs_pg:id":[
+            700754
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051019,
@@ -68,7 +86,7 @@
         }
     ],
     "wof:id":890413899,
-    "wof:lastmodified":1582331106,
+    "wof:lastmodified":1706241130,
     "wof:name":"Zamzam",
     "wof:parent_id":1091922781,
     "wof:placetype":"locality",
@@ -76,7 +94,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360008605
+    ],
     "wof:tags":[]
 },
   "bbox": [

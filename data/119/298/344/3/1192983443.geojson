@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":34815
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            407015
+        ]
+    },
     "wof:country":"YE",
-    "wof:geomhash":"9b356809704eb0e78ccd12044a6f2165",
+    "wof:geomhash":"bc5b6fe70186a9311b85ce2c4c6225f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1192983443,
-    "wof:lastmodified":1566659678,
+    "wof:lastmodified":1706241136,
     "wof:name":"Jawwat Dhary",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293250721
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    43.68644000000001,
+    43.68644,
     16.20528,
-    43.68644000000001,
+    43.68644,
     16.20528
 ],
-  "geometry": {"coordinates":[43.68644000000001,16.20528],"type":"Point"}
+  "geometry": {"coordinates":[43.68644,16.20528],"type":"Point"}
 }

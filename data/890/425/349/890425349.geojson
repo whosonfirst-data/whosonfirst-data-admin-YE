@@ -9,9 +9,22 @@
     "geom:bbox":"44.40666,17.22969,44.40666,17.22969",
     "geom:latitude":17.22969,
     "geom:longitude":44.40666,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al Hushaymah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1366,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785350,
+    "gn:latitude":17.22969,
+    "gn:longitude":44.40666,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Hushaymah",
     "gn:population":4,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"44.38666,17.20969,44.42666,17.24969",
     "lbl:max_zoom":18.0,
@@ -53,7 +66,12 @@
         "wd:id":"Q20302098"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":751701
+        "gn:id":[
+            7785350
+        ],
+        "qs_pg:id":[
+            751701
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051585,
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":890425349,
-    "wof:lastmodified":1582331105,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Hushaymah",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",
@@ -79,7 +97,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209397637
+    ],
     "wof:tags":[]
 },
   "bbox": [

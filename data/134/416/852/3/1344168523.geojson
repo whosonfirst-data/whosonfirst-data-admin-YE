@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":73775
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            409284
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"462b0bb94fd2a0db8b8ed4e4fdc5eba8",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1344168523,
-    "wof:lastmodified":1566658368,
+    "wof:lastmodified":1706241139,
     "wof:name":"Khaysayb",
     "wof:parent_id":1091920973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360286111
+    ],
     "wof:tags":[]
 },
   "bbox": [

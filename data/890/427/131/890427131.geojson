@@ -9,9 +9,22 @@
     "geom:bbox":"43.94317,13.1866,43.94317,13.1866",
     "geom:latitude":13.1866,
     "geom:longitude":43.94317,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Lujm",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1004,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071382,
+    "gn:latitude":13.1866,
+    "gn:longitude":43.94317,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Lujm",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.92317,13.1666,43.96317,13.2066",
     "lbl:max_zoom":18.0,
@@ -50,7 +63,12 @@
         "wd:id":"Q20305966"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":753778
+        "gn:id":[
+            8071382
+        ],
+        "qs_pg:id":[
+            753778
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051676,
@@ -68,7 +86,7 @@
         }
     ],
     "wof:id":890427131,
-    "wof:lastmodified":1582331115,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Lujm",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",
@@ -76,7 +94,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243421939
+    ],
     "wof:tags":[]
 },
   "bbox": [

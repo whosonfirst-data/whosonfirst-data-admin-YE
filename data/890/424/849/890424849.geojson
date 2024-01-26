@@ -9,9 +9,22 @@
     "geom:bbox":"43.40134,16.17083,43.40134,16.17083",
     "geom:latitude":16.17083,
     "geom:longitude":43.40134,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1707.0",
+    "gn:asciiname":"Al Qufayl",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1125,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658632,
+    "gn:latitude":16.17083,
+    "gn:longitude":43.40134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qufayl",
     "gn:population":6,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.38134,16.15083,43.42134,16.19083",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":696440
     },
     "wof:concordances_alt":{
-        "qs_pg:id":745434
+        "gn:id":[
+            7658632
+        ],
+        "qs_pg:id":[
+            745434
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051565,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890424849,
-    "wof:lastmodified":1582331108,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Qufayl",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242736211
+    ],
     "wof:tags":[]
 },
   "bbox": [

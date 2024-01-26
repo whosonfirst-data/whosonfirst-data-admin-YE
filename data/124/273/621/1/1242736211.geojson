@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.40134,16.17083,43.40134,16.17083",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0641\u064a\u0644"
@@ -46,7 +48,7 @@
         "gn:id":7658632
     },
     "wof:country":"YE",
-    "wof:geomhash":"f6d93e953a0407d144f11b36ec4c488b",
+    "wof:geomhash":"4680f4cb91e9419d292829ed9ccd2985",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1242736211,
-    "wof:lastmodified":1566661596,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Qufayl",
     "wof:parent_id":1091924059,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890424849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    43.40134000000001,
+    43.40134,
     16.17083,
-    43.40134000000001,
+    43.40134,
     16.17083
 ],
-  "geometry": {"coordinates":[43.40134000000001,16.17083],"type":"Point"}
+  "geometry": {"coordinates":[43.40134,16.17083],"type":"Point"}
 }

@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":71093
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7365059
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"c5fffa6475c44be70023552c360502b2",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293779273,
-    "wof:lastmodified":1566658562,
+    "wof:lastmodified":1706241139,
     "wof:name":"Mahall at Tawil",
     "wof:parent_id":421183315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309990571
+    ],
     "wof:tags":[]
 },
   "bbox": [

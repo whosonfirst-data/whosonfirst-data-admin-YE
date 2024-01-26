@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":76331
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            403143
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"a1ef3c22ec744aec4135a986e9aee99f",
     "wof:hierarchy":[
@@ -51,13 +56,15 @@
         }
     ],
     "wof:id":1209512041,
-    "wof:lastmodified":1566659498,
+    "wof:lastmodified":1706241137,
     "wof:name":"Bayt `Ikad",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326720419
+    ],
     "wof:tags":[]
 },
   "bbox": [

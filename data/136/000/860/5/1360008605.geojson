@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"50.31404,15.03513,50.31404,15.03513",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0645\u0632\u0645"
@@ -46,7 +48,7 @@
         "gn:id":7794100
     },
     "wof:country":"YE",
-    "wof:geomhash":"ef94974afd044216e2d32b08f38e20dd",
+    "wof:geomhash":"a345ed61861ad580f68fec4fff22aace",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1360008605,
-    "wof:lastmodified":1566660183,
+    "wof:lastmodified":1706241130,
     "wof:name":"Zamzam",
     "wof:parent_id":1091922781,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890413899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    50.31404000000001,
+    50.31404,
     15.03513,
-    50.31404000000001,
+    50.31404,
     15.03513
 ],
-  "geometry": {"coordinates":[50.31404000000001,15.03513],"type":"Point"}
+  "geometry": {"coordinates":[50.31404,15.03513],"type":"Point"}
 }

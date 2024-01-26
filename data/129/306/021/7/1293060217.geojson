@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":10950786
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10950760
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"3b6898ec4dc627275c87c4dd5008caef",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293060217,
-    "wof:lastmodified":1566658512,
+    "wof:lastmodified":1706241138,
     "wof:name":"Al Mi`mar",
     "wof:parent_id":1091922249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309970469
+    ],
     "wof:tags":[]
 },
   "bbox": [

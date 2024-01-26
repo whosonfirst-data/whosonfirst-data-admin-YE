@@ -9,9 +9,22 @@
     "geom:bbox":"43.2671,17.40884,43.2671,17.40884",
     "geom:latitude":17.40884,
     "geom:longitude":43.2671,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Ar Radim",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1514,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856580,
+    "gn:latitude":17.40884,
+    "gn:longitude":43.2671,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Radim",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.2471,17.38884,43.2871,17.42884",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":699937
     },
     "wof:concordances_alt":{
-        "qs_pg:id":742497
+        "gn:id":[
+            7856580
+        ],
+        "qs_pg:id":[
+            742497
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051010,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890413673,
-    "wof:lastmodified":1582331106,
+    "wof:lastmodified":1706241129,
     "wof:name":"Ar Radim",
     "wof:parent_id":1091925479,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226818779
+    ],
     "wof:tags":[]
 },
   "bbox": [

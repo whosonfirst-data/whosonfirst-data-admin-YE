@@ -9,9 +9,22 @@
     "geom:bbox":"45.13527,14.69549,45.13527,14.69549",
     "geom:latitude":14.69549,
     "geom:longitude":45.13527,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2610.0",
+    "gn:asciiname":"Ar Raddah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1748,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8053492,
+    "gn:latitude":14.69549,
+    "gn:longitude":45.13527,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Raddah",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"45.11527,14.67549,45.15527,14.71549",
     "lbl:max_zoom":18.0,
@@ -53,7 +66,12 @@
         "wd:id":"Q20301257"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":751907
+        "gn:id":[
+            8053492
+        ],
+        "qs_pg:id":[
+            751907
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051373,
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":890421097,
-    "wof:lastmodified":1690926654,
+    "wof:lastmodified":1706241131,
     "wof:name":"Ar Raddah",
     "wof:parent_id":1091925155,
     "wof:placetype":"locality",
@@ -79,7 +97,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225917497
+    ],
     "wof:tags":[]
 },
   "bbox": [

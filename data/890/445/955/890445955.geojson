@@ -9,9 +9,22 @@
     "geom:bbox":"43.34946,16.14629,43.34946,16.14629",
     "geom:latitude":16.14629,
     "geom:longitude":43.34946,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Qayyam",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":991,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633027,
+    "gn:latitude":16.14629,
+    "gn:longitude":43.34946,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qayyam",
     "gn:population":2,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.32946,16.12629,43.36946,16.16629",
     "lbl:max_zoom":18.0,
@@ -46,7 +59,12 @@
         "qs_pg:id":695044
     },
     "wof:concordances_alt":{
-        "qs_pg:id":696172
+        "gn:id":[
+            7633027
+        ],
+        "qs_pg:id":[
+            696172
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052529,
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":890445955,
-    "wof:lastmodified":1582331115,
+    "wof:lastmodified":1706241134,
     "wof:name":"Al Qayyam",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",
@@ -72,7 +90,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326888653
+    ],
     "wof:tags":[]
 },
   "bbox": [

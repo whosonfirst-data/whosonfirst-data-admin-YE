@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"45.2887,14.41862,45.2887,14.41862",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1260240535,
-    "wof:lastmodified":1566659718,
+    "wof:lastmodified":1706241135,
     "wof:name":"Al Judaydah",
     "wof:parent_id":1091919509,
     "wof:placetype":"locality",
     "wof:population":21,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890449211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

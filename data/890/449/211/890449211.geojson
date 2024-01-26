@@ -9,9 +9,22 @@
     "geom:bbox":"45.2887,14.41862,45.2887,14.41862",
     "geom:latitude":14.41862,
     "geom:longitude":45.2887,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Al Judaydah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1981,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051767,
+    "gn:latitude":14.41862,
+    "gn:longitude":45.2887,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Judaydah",
     "gn:population":21,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"45.2687,14.39862,45.3087,14.43862",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":751153
     },
     "wof:concordances_alt":{
-        "qs_pg:id":751610
+        "gn:id":[
+            8051767
+        ],
+        "qs_pg:id":[
+            751610
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052676,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890449211,
-    "wof:lastmodified":1582331104,
+    "wof:lastmodified":1706241135,
     "wof:name":"Al Judaydah",
     "wof:parent_id":1091919509,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260240535
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,22 @@
     "geom:bbox":"43.69164,16.15444,43.69164,16.15444",
     "geom:latitude":16.15444,
     "geom:longitude":43.69164,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Ghayl al Qushayb",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1880,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7928240,
+    "gn:latitude":16.15444,
+    "gn:longitude":43.69165,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ghayl al Qushayb",
     "gn:population":2,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.67164,16.13444,43.71164,16.17444",
     "lbl:max_zoom":18.0,
@@ -49,7 +62,12 @@
         "qs_pg:id":699954
     },
     "wof:concordances_alt":{
-        "qs_pg:id":745677
+        "gn:id":[
+            7928240
+        ],
+        "qs_pg:id":[
+            745677
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052878,
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":890453933,
-    "wof:lastmodified":1582331111,
+    "wof:lastmodified":1706241135,
     "wof:name":"Ghayl al Qushayb",
     "wof:parent_id":1091922105,
     "wof:placetype":"locality",
@@ -75,7 +93,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226714889
+    ],
     "wof:tags":[]
 },
   "bbox": [

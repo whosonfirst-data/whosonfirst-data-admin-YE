@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":76301
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            403038
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"cd6c5eea04f782c1909176f3f4d02e67",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276437549,
-    "wof:lastmodified":1566658859,
+    "wof:lastmodified":1706241138,
     "wof:name":"Mahall al Ma`ruf",
     "wof:parent_id":1091920165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327453583
+    ],
     "wof:tags":[]
 },
   "bbox": [

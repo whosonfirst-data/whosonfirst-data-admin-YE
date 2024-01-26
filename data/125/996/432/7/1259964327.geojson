@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":76279
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            403144
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"d7ea3692b194eb24176782fb5b27af5a",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1259964327,
-    "wof:lastmodified":1566661986,
+    "wof:lastmodified":1706241138,
     "wof:name":"Dayr `Asalah",
     "wof:parent_id":1091920319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293282177
+    ],
     "wof:tags":[]
 },
   "bbox": [

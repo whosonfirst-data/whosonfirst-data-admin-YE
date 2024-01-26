@@ -9,9 +9,22 @@
     "geom:bbox":"43.29814,16.83369,43.29814,16.83369",
     "geom:latitude":16.83369,
     "geom:longitude":43.29814,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Al Jallah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":604,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926764,
+    "gn:latitude":16.83369,
+    "gn:longitude":43.29814,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jallah",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.27814,16.81369,43.31814,16.85369",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":745106
     },
     "wof:concordances_alt":{
-        "qs_pg:id":749940
+        "gn:id":[
+            7926764
+        ],
+        "qs_pg:id":[
+            749940
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051839,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890430097,
-    "wof:lastmodified":1582331109,
+    "wof:lastmodified":1706241133,
     "wof:name":"Al Jallah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343927521
+    ],
     "wof:tags":[]
 },
   "bbox": [

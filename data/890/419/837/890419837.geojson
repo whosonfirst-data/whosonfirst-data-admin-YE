@@ -9,9 +9,22 @@
     "geom:bbox":"45.79468,14.11217,45.79468,14.11217",
     "geom:latitude":14.11217,
     "geom:longitude":45.79468,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Al Khirbah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":2019,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066778,
+    "gn:latitude":14.11217,
+    "gn:longitude":45.79469,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khirbah",
     "gn:population":7,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"45.77468,14.09217,45.81468,14.13217",
     "lbl:max_zoom":18.0,
@@ -61,7 +74,12 @@
         "wk:page":"Al-Khirbah"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":752833
+        "gn:id":[
+            8066778
+        ],
+        "qs_pg:id":[
+            752833
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051304,
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":890419837,
-    "wof:lastmodified":1690926481,
+    "wof:lastmodified":1706241131,
     "wof:name":"Al Khirbah",
     "wof:parent_id":1091919167,
     "wof:placetype":"locality",
@@ -87,7 +105,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225918523
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sibl",
+        "As Sabal",
+        "Sabal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":402504
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            71364
+        ]
     },
     "wof:country":"YE",
     "wof:geomhash":"e1a6248cc9e56e124094fc6b15709c33",
@@ -53,13 +63,15 @@
         }
     ],
     "wof:id":1193268113,
-    "wof:lastmodified":1566659711,
+    "wof:lastmodified":1706241136,
     "wof:name":"As Sabal",
     "wof:parent_id":421183315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209611915
+    ],
     "wof:tags":[]
 },
   "bbox": [

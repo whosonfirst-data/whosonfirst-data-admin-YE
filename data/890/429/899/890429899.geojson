@@ -9,9 +9,22 @@
     "geom:bbox":"43.33696,16.1054,43.33696,16.1054",
     "geom:latitude":16.1054,
     "geom:longitude":43.33696,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1712.0",
+    "gn:asciiname":"Ad Darb",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":540,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632390,
+    "gn:latitude":16.1054,
+    "gn:longitude":43.33696,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Darb",
     "gn:population":3,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.31696,16.0854,43.35696,16.1254",
     "lbl:max_zoom":18.0,
@@ -43,9 +56,15 @@
         "qs_pg:id":694939
     },
     "wof:concordances_alt":{
-        "gn:id":7633024,
-        "gp:id":1953570,
-        "qs_pg:id":697333
+        "gn:id":[
+            7632390
+        ],
+        "gp:id":[
+            1953570
+        ],
+        "qs_pg:id":[
+            697333
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051833,
@@ -63,7 +82,7 @@
         }
     ],
     "wof:id":890429899,
-    "wof:lastmodified":1582331113,
+    "wof:lastmodified":1706241133,
     "wof:name":"Ad Darb",
     "wof:parent_id":1091923743,
     "wof:placetype":"locality",
@@ -72,7 +91,8 @@
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        890423085
+        890423085,
+        1226003009
     ],
     "wof:tags":[]
 },

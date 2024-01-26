@@ -9,9 +9,22 @@
     "geom:bbox":"43.40738,16.36125,43.40738,16.36125",
     "geom:latitude":16.36125,
     "geom:longitude":43.40738,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Mashab",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1067,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783527,
+    "gn:latitude":16.36125,
+    "gn:longitude":43.40738,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mashab",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.38738,16.34125,43.42738,16.38125",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":696112
     },
     "wof:concordances_alt":{
-        "qs_pg:id":700179
+        "gn:id":[
+            7783527
+        ],
+        "qs_pg:id":[
+            700179
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051016,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890413849,
-    "wof:lastmodified":1582331106,
+    "wof:lastmodified":1706241130,
     "wof:name":"Al Mashab",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226211161
+    ],
     "wof:tags":[]
 },
   "bbox": [

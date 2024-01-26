@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":76236
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            403176
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"454bd31d72749d8146b58d6c7f2b7e83",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1310591041,
-    "wof:lastmodified":1566660084,
+    "wof:lastmodified":1706241139,
     "wof:name":"Ar Rafi`i",
     "wof:parent_id":1091920097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343659379
+    ],
     "wof:tags":[]
 },
   "bbox": [

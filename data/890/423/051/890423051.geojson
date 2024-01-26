@@ -9,9 +9,22 @@
     "geom:bbox":"43.36178,16.1797,43.36178,16.1797",
     "geom:latitude":16.1797,
     "geom:longitude":43.36178,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Al Kawmah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":504,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633008,
+    "gn:latitude":16.1797,
+    "gn:longitude":43.36178,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kawmah",
     "gn:population":4,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.34178,16.1597,43.38178,16.1997",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":695025
     },
     "wof:concordances_alt":{
-        "qs_pg:id":741968
+        "gn:id":[
+            7633008
+        ],
+        "qs_pg:id":[
+            741968
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051478,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890423051,
-    "wof:lastmodified":1582331109,
+    "wof:lastmodified":1706241131,
     "wof:name":"Al Kawmah",
     "wof:parent_id":1091923953,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226511065
+    ],
     "wof:tags":[]
 },
   "bbox": [

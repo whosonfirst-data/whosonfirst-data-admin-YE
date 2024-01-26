@@ -9,9 +9,22 @@
     "geom:bbox":"43.35188,16.28776,43.35188,16.28776",
     "geom:latitude":16.28776,
     "geom:longitude":43.35188,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Qatib",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":586,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7761208,
+    "gn:latitude":16.28776,
+    "gn:longitude":43.35188,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qatib",
     "gn:population":5,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.33188,16.26776,43.37188,16.30776",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":696513
     },
     "wof:concordances_alt":{
-        "qs_pg:id":699198
+        "gn:id":[
+            7761208
+        ],
+        "qs_pg:id":[
+            699198
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052607,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890447833,
-    "wof:lastmodified":1582331104,
+    "wof:lastmodified":1706241134,
     "wof:name":"Al Qatib",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209170467
+    ],
     "wof:tags":[]
 },
   "bbox": [

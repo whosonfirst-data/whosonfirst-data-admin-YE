@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":30678
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            409139
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"cc21cb8121c6fbd6c8fb8a3e066fb9ad",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1226613323,
-    "wof:lastmodified":1566662373,
+    "wof:lastmodified":1706241137,
     "wof:name":"Qaryat al Jub",
     "wof:parent_id":1091926623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243331265
+    ],
     "wof:tags":[]
 },
   "bbox": [

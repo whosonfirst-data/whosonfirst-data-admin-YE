@@ -9,9 +9,22 @@
     "geom:bbox":"43.96682,13.11605,43.96682,13.11605",
     "geom:latitude":13.11605,
     "geom:longitude":43.96682,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Al Ghayl",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1136,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071457,
+    "gn:latitude":13.11605,
+    "gn:longitude":43.96682,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ghayl",
     "gn:population":1,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.94682,13.09605,43.98682,13.13605",
     "lbl:max_zoom":18.0,
@@ -52,7 +65,12 @@
         "wk:page":"Al Ghayl District"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":753843
+        "gn:id":[
+            8071457
+        ],
+        "qs_pg:id":[
+            753843
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051679,
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":890427167,
-    "wof:lastmodified":1582331115,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Ghayl",
     "wof:parent_id":1091926463,
     "wof:placetype":"locality",
@@ -78,7 +96,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209382491
+    ],
     "wof:tags":[]
 },
   "bbox": [

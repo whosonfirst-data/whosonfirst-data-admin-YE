@@ -9,9 +9,22 @@
     "geom:bbox":"43.72255,16.07848,43.72255,16.07848",
     "geom:latitude":16.07848,
     "geom:longitude":43.72255,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Al Maghrabah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1921,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020521,
+    "gn:latitude":16.07848,
+    "gn:longitude":43.72255,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Maghrabah",
     "gn:population":5,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.70255,16.05848,43.74255,16.09848",
     "lbl:max_zoom":18.0,
@@ -70,8 +83,12 @@
         "wk:page":"Al Maghrabah District"
     },
     "wof:concordances_alt":{
-        "gn:id":8020484,
-        "qs_pg:id":749988
+        "gn:id":[
+            8020521
+        ],
+        "qs_pg:id":[
+            749988
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052921,
@@ -89,7 +106,7 @@
         }
     ],
     "wof:id":890454947,
-    "wof:lastmodified":1582331111,
+    "wof:lastmodified":1706241135,
     "wof:name":"Al Maghrabah",
     "wof:parent_id":1091921861,
     "wof:placetype":"locality",
@@ -98,7 +115,8 @@
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        890414345
+        890414345,
+        1327195865
     ],
     "wof:tags":[]
 },

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":76296
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            403162
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"db99614d2339a6f6bcbc6647a05d906d",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242992679,
-    "wof:lastmodified":1566661910,
+    "wof:lastmodified":1706241137,
     "wof:name":"Dayr al Muqazilah",
     "wof:parent_id":1091920097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243167477
+    ],
     "wof:tags":[]
 },
   "bbox": [

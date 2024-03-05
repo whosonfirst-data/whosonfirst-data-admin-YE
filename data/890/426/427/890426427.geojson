@@ -9,9 +9,22 @@
     "geom:bbox":"43.34833,16.7822,43.34833,16.7822",
     "geom:latitude":16.7822,
     "geom:longitude":43.34833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"Ar Raqqah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1246,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926902,
+    "gn:latitude":16.7822,
+    "gn:longitude":43.34833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Raqqah",
     "gn:population":30,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.32833,16.7622,43.36833,16.8022",
     "lbl:max_zoom":18.0,
@@ -326,7 +339,12 @@
         "wk:page":"Al-Raqqah"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":745240
+        "gn:id":[
+            7926902
+        ],
+        "qs_pg:id":[
+            745240
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051631,
@@ -344,7 +362,7 @@
         }
     ],
     "wof:id":890426427,
-    "wof:lastmodified":1690926591,
+    "wof:lastmodified":1706241132,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",
@@ -352,7 +370,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243424039
+    ],
     "wof:tags":[]
 },
   "bbox": [

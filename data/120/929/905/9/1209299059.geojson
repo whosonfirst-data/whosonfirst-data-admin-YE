@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":7340485
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            77805
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"31f55043215a5a0f6d503625c4987864",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209299059,
-    "wof:lastmodified":1566659508,
+    "wof:lastmodified":1706241136,
     "wof:name":"Mahall as Sawalih",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242774609
+    ],
     "wof:tags":[]
 },
   "bbox": [

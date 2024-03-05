@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":11058238
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11058241
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"9d358e71b27100d9fb004e7ec7438df5",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1209700363,
-    "wof:lastmodified":1566659376,
+    "wof:lastmodified":1706241137,
     "wof:name":"Ad Darah",
     "wof:parent_id":1091920387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242957785
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":11058778
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11058777
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"81f2ef0612fa4d673911d532bb1f3ac9",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1276753847,
-    "wof:lastmodified":1566658856,
+    "wof:lastmodified":1706241138,
     "wof:name":"Al 'Alawiyah",
     "wof:parent_id":421202517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344154083
+    ],
     "wof:tags":[]
 },
   "bbox": [

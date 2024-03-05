@@ -9,9 +9,22 @@
     "geom:bbox":"43.16987,16.15786,43.16987,16.15786",
     "geom:latitude":16.15786,
     "geom:longitude":43.16987,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Al Khurshah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":142,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7631462,
+    "gn:latitude":16.15786,
+    "gn:longitude":43.16987,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khurshah",
     "gn:population":3,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.14987,16.13786,43.18987,16.17786",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":694455
     },
     "wof:concordances_alt":{
-        "qs_pg:id":694581
+        "gn:id":[
+            7631462
+        ],
+        "qs_pg:id":[
+            694581
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051544,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890424443,
-    "wof:lastmodified":1582331108,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Khurshah",
     "wof:parent_id":1091923385,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277044179
+    ],
     "wof:tags":[]
 },
   "bbox": [

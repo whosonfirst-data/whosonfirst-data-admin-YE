@@ -9,9 +9,22 @@
     "geom:bbox":"44.14044,16.92032,44.14044,16.92032",
     "geom:latitude":16.92032,
     "geom:longitude":44.14044,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Al Khanaq",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1751,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7362689,
+    "gn:latitude":16.92031,
+    "gn:longitude":44.14044,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Khanaq",
     "gn:population":17,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"44.12044,16.90032,44.16044,16.94032",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":685262
     },
     "wof:concordances_alt":{
-        "qs_pg:id":700565
+        "gn:id":[
+            7362689
+        ],
+        "qs_pg:id":[
+            700565
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052719,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890449979,
-    "wof:lastmodified":1582331104,
+    "wof:lastmodified":1706241135,
     "wof:name":"Al Khanaq",
     "wof:parent_id":1091925427,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343244885
+    ],
     "wof:tags":[]
 },
   "bbox": [

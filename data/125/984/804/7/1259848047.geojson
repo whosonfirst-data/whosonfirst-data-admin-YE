@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10870487
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10870611
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"9cacd21d108540d928475ac0c518fb6e",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1259848047,
-    "wof:lastmodified":1566662044,
+    "wof:lastmodified":1706241138,
     "wof:name":"Sha'b al Wali",
     "wof:parent_id":1091924405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343826337
+    ],
     "wof:tags":[]
 },
   "bbox": [

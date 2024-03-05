@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"44.08799,14.27275,44.08799,14.27275",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628 \u0627\u0644\u0648\u0644\u064a"
@@ -48,7 +50,7 @@
         "gn:id":10870611
     },
     "wof:country":"YE",
-    "wof:geomhash":"a8c146867b13e43df28f824c558c784c",
+    "wof:geomhash":"475fe6229ba19ad304c039a3977d138e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1343826337,
-    "wof:lastmodified":1566658261,
+    "wof:lastmodified":1706241137,
     "wof:name":"Sha'b al Wali",
     "wof:parent_id":1091924405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259848047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    44.08799000000001,
+    44.08799,
     14.27275,
-    44.08799000000001,
+    44.08799,
     14.27275
 ],
-  "geometry": {"coordinates":[44.08799000000001,14.27275],"type":"Point"}
+  "geometry": {"coordinates":[44.08799,14.27275],"type":"Point"}
 }

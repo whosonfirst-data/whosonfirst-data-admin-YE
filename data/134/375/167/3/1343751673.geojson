@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.3342,14.51869,43.3342,14.51869",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0644\u0627\u0648\u064a\u0629"
@@ -47,6 +49,11 @@
     "wof:concordances":{
         "gn:id":11058775
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11058777
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"d4e443292d28ddee8270e828a662c5f5",
     "wof:hierarchy":[
@@ -59,13 +66,17 @@
         }
     ],
     "wof:id":1343751673,
-    "wof:lastmodified":1566658419,
+    "wof:lastmodified":1706241139,
     "wof:name":"Al 'Alawiyah",
     "wof:parent_id":421202517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1209102731
+    ],
+    "wof:supersedes":[
+        1344154083
+    ],
     "wof:tags":[]
 },
   "bbox": [

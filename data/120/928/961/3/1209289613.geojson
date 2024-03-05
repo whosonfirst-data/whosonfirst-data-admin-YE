@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":79125
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            406944
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"d153a22d52ea8e95f929168a0f344be1",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209289613,
-    "wof:lastmodified":1566659582,
+    "wof:lastmodified":1706241136,
     "wof:name":"Al Hayrah",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243135805
+    ],
     "wof:tags":[]
 },
   "bbox": [

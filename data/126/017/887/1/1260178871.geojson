@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":11058713
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11058683
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"019b430cfbd3ebe3972b5020b9dd4163",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1260178871,
-    "wof:lastmodified":1566659813,
+    "wof:lastmodified":1706241138,
     "wof:name":"Jarsan",
     "wof:parent_id":1091920387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276430963
+    ],
     "wof:tags":[]
 },
   "bbox": [

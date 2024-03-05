@@ -9,9 +9,22 @@
     "geom:bbox":"43.30913,16.64659,43.30913,16.64659",
     "geom:latitude":16.64659,
     "geom:longitude":43.30913,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Ad Dimnah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":841,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854955,
+    "gn:latitude":16.64659,
+    "gn:longitude":43.30913,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dimnah",
     "gn:population":3,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.28913,16.62659,43.32913,16.66659",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":694973
     },
     "wof:concordances_alt":{
-        "qs_pg:id":741893
+        "gn:id":[
+            7854955
+        ],
+        "qs_pg:id":[
+            741893
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051071,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890415037,
-    "wof:lastmodified":1582331108,
+    "wof:lastmodified":1706241130,
     "wof:name":"Ad Dimnah",
     "wof:parent_id":1091925365,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309988847
+    ],
     "wof:tags":[]
 },
   "bbox": [

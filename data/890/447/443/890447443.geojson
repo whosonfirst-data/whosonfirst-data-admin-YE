@@ -9,9 +9,22 @@
     "geom:bbox":"43.44539,16.34993,43.44539,16.34993",
     "geom:latitude":16.34993,
     "geom:longitude":43.44539,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1731.0",
+    "gn:asciiname":"Al Khawrimah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1059,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7755483,
+    "gn:latitude":16.34993,
+    "gn:longitude":43.44539,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khawrimah",
     "gn:population":12,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.42539,16.32993,43.46539,16.36993",
     "lbl:max_zoom":18.0,
@@ -50,7 +63,12 @@
         "wd:id":"Q20305195"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":742592
+        "gn:id":[
+            7755483
+        ],
+        "qs_pg:id":[
+            742592
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052592,
@@ -68,7 +86,7 @@
         }
     ],
     "wof:id":890447443,
-    "wof:lastmodified":1582331104,
+    "wof:lastmodified":1706241134,
     "wof:name":"Al Khawrimah",
     "wof:parent_id":1091924239,
     "wof:placetype":"locality",
@@ -76,7 +94,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309864063
+    ],
     "wof:tags":[]
 },
   "bbox": [

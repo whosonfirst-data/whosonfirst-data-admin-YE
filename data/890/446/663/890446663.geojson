@@ -9,9 +9,22 @@
     "geom:bbox":"43.77544,16.90966,43.77544,16.90966",
     "geom:latitude":16.90966,
     "geom:longitude":43.77544,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2215.0",
+    "gn:asciiname":"An Nayd",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1891,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683851,
+    "gn:latitude":16.90966,
+    "gn:longitude":43.77544,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Nayd",
     "gn:population":36,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.75544,16.88966,43.79544,16.92966",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":697546
     },
     "wof:concordances_alt":{
-        "qs_pg:id":744295
+        "gn:id":[
+            7683851
+        ],
+        "qs_pg:id":[
+            744295
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052561,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890446663,
-    "wof:lastmodified":1582331107,
+    "wof:lastmodified":1706241134,
     "wof:name":"An Nayd",
     "wof:parent_id":1091925525,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259752865
+    ],
     "wof:tags":[]
 },
   "bbox": [

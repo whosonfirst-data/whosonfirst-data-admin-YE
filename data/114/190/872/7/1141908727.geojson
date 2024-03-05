@@ -6,9 +6,23 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.245440225,15.2105043731,51.245440225,15.2105043731",
+    "geom:bbox":"51.24544,15.210504,51.24544,15.210504",
     "geom:latitude":15.210504,
     "geom:longitude":51.24544,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2807.0",
+    "gn:asciiname":"Sayhut",
+    "gn:country_code":"YE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":71005,
+    "gn:latitude":15.21056,
+    "gn:longitude":51.24556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Say\u1e29\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"51.225440225,15.1905043731,51.265440225,15.2305043731",
     "lbl:latitude":15.210504,
@@ -18,6 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Saihut",
+        "Say\u1e29\u016bt"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Yemen",
     "ne:ADM0_A3":"YEM",
@@ -121,10 +142,12 @@
         1091921053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":71005
+    },
     "wof:country":"YE",
     "wof:created":1499130967,
-    "wof:geomhash":"958f8f1f476914672e3a6ec6e5fa35bf",
+    "wof:geomhash":"6ba77e25a87065809d4625b9e4afa721",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,20 +158,22 @@
         }
     ],
     "wof:id":1141908727,
-    "wof:lastmodified":1566662619,
+    "wof:lastmodified":1706241136,
     "wof:name":"Sayhut",
     "wof:parent_id":1091921053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276239745
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    51.24544022502732,
-    15.21050437312408,
-    51.24544022502732,
-    15.21050437312408
+    51.24544,
+    15.210504,
+    51.24544,
+    15.210504
 ],
-  "geometry": {"coordinates":[51.24544022502732,15.21050437312408],"type":"Point"}
+  "geometry": {"coordinates":[51.24544,15.210504],"type":"Point"}
 }

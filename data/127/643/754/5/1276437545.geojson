@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.12844,15.21653,43.12844,15.21653",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Mu\u1e29aysim",
@@ -46,7 +48,7 @@
         "gn:id":76242
     },
     "wof:country":"YE",
-    "wof:geomhash":"4119fea73e12aa1744f7b173bf2e55ee",
+    "wof:geomhash":"193a7b670a9e3d573e7a968fdc5de33d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1276437545,
-    "wof:lastmodified":1566658859,
+    "wof:lastmodified":1706241137,
     "wof:name":"Al Muhaysim",
     "wof:parent_id":1091919835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259767851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    43.12844000000001,
+    43.12844,
     15.21653,
-    43.12844000000001,
+    43.12844,
     15.21653
 ],
-  "geometry": {"coordinates":[43.12844000000001,15.21653],"type":"Point"}
+  "geometry": {"coordinates":[43.12844,15.21653],"type":"Point"}
 }

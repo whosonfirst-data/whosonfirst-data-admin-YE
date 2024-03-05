@@ -9,9 +9,22 @@
     "geom:bbox":"43.37576,16.35148,43.37576,16.35148",
     "geom:latitude":16.35148,
     "geom:longitude":43.37576,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Al Mawdinah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":690,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783395,
+    "gn:latitude":16.35148,
+    "gn:longitude":43.37576,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mawdinah",
     "gn:population":2,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.35576,16.33148,43.39576,16.37148",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":699963
     },
     "wof:concordances_alt":{
-        "qs_pg:id":700047
+        "gn:id":[
+            7783395
+        ],
+        "qs_pg:id":[
+            700047
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469052616,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890448023,
-    "wof:lastmodified":1582331107,
+    "wof:lastmodified":1706241135,
     "wof:name":"Al Mawdinah",
     "wof:parent_id":1091924327,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209673789
+    ],
     "wof:tags":[]
 },
   "bbox": [

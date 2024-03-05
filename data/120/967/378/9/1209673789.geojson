@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.37576,16.35148,43.37576,16.35148",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u062f\u0646\u0629"
@@ -51,14 +53,16 @@
         }
     ],
     "wof:id":1209673789,
-    "wof:lastmodified":1566659472,
+    "wof:lastmodified":1706241134,
     "wof:name":"Al Mawdinah",
     "wof:parent_id":85632499,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890448023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

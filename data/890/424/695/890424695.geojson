@@ -9,9 +9,22 @@
     "geom:bbox":"43.37385,16.20778,43.37385,16.20778",
     "geom:latitude":16.20778,
     "geom:longitude":43.37385,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"Al Khabb",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":485,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633083,
+    "gn:latitude":16.20778,
+    "gn:longitude":43.37385,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khabb",
     "gn:population":17,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.35385,16.18778,43.39385,16.22778",
     "lbl:max_zoom":18.0,
@@ -52,7 +65,12 @@
         "wk:page":"Khabb wa ash Sha'af District"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":751221
+        "gn:id":[
+            7633083
+        ],
+        "qs_pg:id":[
+            751221
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051557,
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":890424695,
-    "wof:lastmodified":1582331108,
+    "wof:lastmodified":1706241132,
     "wof:name":"Al Khabb",
     "wof:parent_id":1091924151,
     "wof:placetype":"locality",
@@ -78,7 +96,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310570097
+    ],
     "wof:tags":[]
 },
   "bbox": [

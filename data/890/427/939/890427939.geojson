@@ -9,9 +9,22 @@
     "geom:bbox":"43.32048,16.72742,43.32048,16.72742",
     "geom:latitude":16.72742,
     "geom:longitude":43.32048,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2208.0",
+    "gn:asciiname":"An Nuqayl",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":982,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855392,
+    "gn:latitude":16.72742,
+    "gn:longitude":43.32048,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Nuqayl",
     "gn:population":3,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.30048,16.70742,43.34048,16.74742",
     "lbl:max_zoom":18.0,
@@ -43,8 +56,12 @@
         "qs_pg:id":742299
     },
     "wof:concordances_alt":{
-        "gn:id":7855269,
-        "qs_pg:id":749933
+        "gn:id":[
+            7855392
+        ],
+        "qs_pg:id":[
+            749933
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051728,
@@ -62,7 +79,7 @@
         }
     ],
     "wof:id":890427939,
-    "wof:lastmodified":1582331115,
+    "wof:lastmodified":1706241133,
     "wof:name":"An Nuqayl",
     "wof:parent_id":1091925425,
     "wof:placetype":"locality",
@@ -71,7 +88,8 @@
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        890413519
+        890413519,
+        1259962603
     ],
     "wof:tags":[]
 },

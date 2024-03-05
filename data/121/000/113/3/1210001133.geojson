@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":71972
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7365183
+        ]
+    },
     "wof:country":"YE",
     "wof:geomhash":"9faabe33859891bdeafc64d305877fdc",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1210001133,
-    "wof:lastmodified":1566659606,
+    "wof:lastmodified":1706241137,
     "wof:name":"Al Qaryah",
     "wof:parent_id":1091921275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259361375
+    ],
     "wof:tags":[]
 },
   "bbox": [

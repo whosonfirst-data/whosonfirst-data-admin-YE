@@ -9,9 +9,22 @@
     "geom:bbox":"43.29384,17.20474,43.29384,17.20474",
     "geom:latitude":17.20474,
     "geom:longitude":43.29384,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Al Marwah",
     "gn:country":"YE",
+    "gn:country_code":"YE",
+    "gn:dem":1731,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866961,
+    "gn:latitude":17.20474,
+    "gn:longitude":43.29384,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Marwah",
     "gn:population":8,
+    "gn:timezone":"Asia/Aden",
     "iso:country":"YE",
     "lbl:bbox":"43.27384,17.18474,43.31384,17.22474",
     "lbl:max_zoom":18.0,
@@ -43,7 +56,12 @@
         "qs_pg:id":694921
     },
     "wof:concordances_alt":{
-        "qs_pg:id":743135
+        "gn:id":[
+            7866961
+        ],
+        "qs_pg:id":[
+            743135
+        ]
     },
     "wof:country":"YE",
     "wof:created":1469051287,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":890419427,
-    "wof:lastmodified":1582331111,
+    "wof:lastmodified":1706241130,
     "wof:name":"Al Marwah",
     "wof:parent_id":1091925457,
     "wof:placetype":"locality",
@@ -69,7 +87,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ye",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209484987
+    ],
     "wof:tags":[]
 },
   "bbox": [
